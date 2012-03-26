@@ -1,0 +1,74 @@
+digraph "Linguistic characteristics" {
+	graph [rankdir = "TB"];
+	ratio = auto;
+	"Question text" [shape = box];
+
+	{rank = sink; 
+            "END" [style=filled, color=black, fontcolor=white, shape = box]; };
+"Social Desirability" [label = "Social Desirability" shape = box 
+                        URL="/admin/sqp/characteristic/16/"];
+	"Question text" -> "Social Desirability" [label = "",
+                        URL="/admin/sqp/branch/1/"];
+	"Centrality" [label = "Centrality" shape = box 
+                        URL="/admin/sqp/characteristic/17/"];
+	"Social Desirability" -> "Centrality" [label = "Not present",
+                        URL="/admin/sqp/branch/2/"];
+	"Introduction available?" [label = "Introduction available?" shape = box 
+                        URL="/admin/sqp/characteristic/1/"];
+	"Centrality" -> "Introduction available?" [label = "Not at all central/salient",
+                        URL="/admin/sqp/branch/5/"];
+	"Number of sentences in introduction" [label = "Number of sentences in introduction" shape = box 
+                        URL="/admin/sqp/characteristic/4/"];
+	"Introduction available?" -> "Number of sentences in introduction" [label = "Available",
+                        URL="/admin/sqp/branch/10/"];
+	"Number of words in introduction" [label = "Number of words in introduction" shape = box 
+                        URL="/admin/sqp/characteristic/3/"];
+	"Number of sentences in introduction" -> "Number of words in introduction" [label = "",
+                        URL="/admin/sqp/branch/12/"];
+	"Number of subordinated clauses in introduction" [label = "Number of subordinated clauses in introduction" shape = box 
+                        URL="/admin/sqp/characteristic/6/"];
+	"Number of words in introduction" -> "Number of subordinated clauses in introduction" [label = "",
+                        URL="/admin/sqp/branch/14/"];
+	"Number of sentences in the question" [label = "Number of sentences in the question" shape = box 
+                        URL="/admin/sqp/characteristic/8/"];
+	"Number of subordinated clauses in introduction" -> "Number of sentences in the question" [label = "",
+                        URL="/admin/sqp/branch/15/"];
+	"Number of words in question" [label = "Number of words in question" shape = box 
+                        URL="/admin/sqp/characteristic/9/"];
+	"Number of sentences in the question" -> "Number of words in question" [label = "",
+                        URL="/admin/sqp/branch/13/"];
+	"Total number of nouns in request for an answer" [label = "Total number of nouns in request for an answer" shape = box 
+                        URL="/admin/sqp/characteristic/12/"];
+	"Number of words in question" -> "Total number of nouns in request for an answer" [label = "",
+                        URL="/admin/sqp/branch/16/"];
+	"Total number of abstract nouns in request for an answer" [label = "Total number of abstract nouns in request for an answer" shape = box 
+                        URL="/admin/sqp/characteristic/13/"];
+	"Total number of nouns in request for an answer" -> "Total number of abstract nouns in request for an answer" [label = "",
+                        URL="/admin/sqp/branch/20/"];
+	"Total number of syllables in question" [label = "Total number of syllables in question" shape = box 
+                        URL="/admin/sqp/characteristic/10/"];
+	"Total number of abstract nouns in request for an answer" -> "Total number of syllables in question" [label = "",
+                        URL="/admin/sqp/branch/22/"];
+	"Number of subordinate clauses in question" [label = "Number of subordinate clauses in question" shape = box 
+                        URL="/admin/sqp/characteristic/11/"];
+	"Total number of syllables in question" -> "Number of subordinate clauses in question" [label = "",
+                        URL="/admin/sqp/branch/17/"];
+	"Number of syllables in answer categories" [label = "Number of syllables in answer categories" shape = box 
+                        URL="/admin/sqp/characteristic/15/"];
+	"Number of subordinate clauses in question" -> "Number of syllables in answer categories" [label = "",
+                        URL="/admin/sqp/branch/19/"];
+	"Total number of nouns in answer categories" [label = "Total number of nouns in answer categories" shape = box 
+                        URL="/admin/sqp/characteristic/18/"];
+	"Number of syllables in answer categories" -> "Total number of nouns in answer categories" [label = "",
+                        URL="/admin/sqp/branch/18/"];
+	"Total number of abstract nouns in answer categories" [label = "Total number of abstract nouns in answer categories" shape = box 
+                        URL="/admin/sqp/characteristic/19/"];
+	"Total number of nouns in answer categories" -> "Total number of abstract nouns in answer categories" [label = "",
+                        URL="/admin/sqp/branch/21/"];
+	"Total number of abstract nouns in answer categories" -> "END" [label = "",
+                        URL="/admin/sqp/branch/add/"];
+	"Number of sentences in the question" [label = "Number of sentences in the question" shape = box 
+                        URL="/admin/sqp/characteristic/8/"];
+	"Introduction available?" -> "Number of sentences in the question" [label = "Not available",
+                        URL="/admin/sqp/branch/11/"];
+}

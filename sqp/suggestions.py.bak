@@ -1,0 +1,111 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+from django import forms
+
+from sqp_project.sqp import nlp_tools
+from sqp_project.sqp.tagger import count_nouns, tagger_dict
+from sqp_project.sqp.models import Coding
+
+def generic_suggestion(suggestion_pycode, request, question, 
+        characteristic, create_coding = True):
+#    try:
+    suggest = eval(suggestion_pycode)
+#    except Exception, e:
+#        return u"""Warning: tried to provide a suggestion but the 
+#            following went wrong: %s""" % str(e)
+    if create_coding: # automatically save the suggestion as a coding
+        (coding, created) = Coding.objects.get_or_create(\
+                            question=question, 
+                            characteristic=characteristic, 
+                            user=request.user)
+        coding.choice = suggest
+        coding.save()
+        return u"""The coding shown is an automatic suggestion by the program,
+                  which may be wrong. Please check that this value is correct."""
+
+    return u"Suggestion: " + unicode(suggest)
+
+def rfa_num_sentences(request, question, characteristic, create_coding=True):
+    "Suggestion for number of sentences in Request for an Answer (RFA)."
+    pycode = 'nlp_tools.count_sentences(question.rfa_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def int_num_sentences(request, question, characteristic, create_coding=True):
+    "Suggestion for number of sentences in introduction."
+    pycode = 'nlp_tools.count_sentences(question.introduction_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def ans_num_sentences(request, question, characteristic, create_coding=True):
+    "Suggestion for number of sentences in answer categories."
+    pycode = 'nlp_tools.count_sentences(question.answer_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def rfa_num_words(request, question, characteristic, create_coding=True):
+    "Suggestion for number of words in Request for an Answer (RFA)."
+    pycode = 'nlp_tools.count_words(question.rfa_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def int_num_words(request, question, characteristic, create_coding=True):
+    "Suggestion for number of words in introduction."
+    pycode = 'nlp_tools.count_words(question.introduction_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def ans_num_words(request, question, characteristic, create_coding=True):
+    "Suggestion for number of words in answer categories."
+    pycode = 'nlp_tools.count_words(question.answer_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def rfa_num_syllables(request, question, characteristic, create_coding=True):
+    "Suggestion for number of syllables in Request for an Answer (RFA)."
+    pycode = 'nlp_tools.count_syllables(question.rfa_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def int_num_syllables(request, question, characteristic, create_coding=True):
+    "Suggestion for number of syllables in introduction."
+    pycode = 'nlp_tools.count_syllables(question.introduction_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def ans_num_syllables(request, question, characteristic, create_coding=True):
+    "Suggestion for number of syllables in answer categories."
+    pycode = 'nlp_tools.count_syllables(question.answer_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def rfa_num_nouns(request, question, characteristic, create_coding=False):
+    "Suggestion for number of nouns in Request for an Answer (RFA)."
+    pycode = 'count_nouns(question.rfa_text, question.language.name)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def int_num_nouns(request, question, characteristic, create_coding=False):
+    "Suggestion for number of nouns in introduction."
+    pycode = 'count_nouns(question.introduction_text, question.language.name)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def ans_num_nouns(request, question, characteristic, create_coding=False):
+    "Suggestion for number of nouns in answer categories."
+    pycode = 'count_nouns(question.answer_text, question.language.name)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def ncategories(request, question, characteristic, create_coding=True):
+    "Suggestion for number of categories"
+    pycode = 'nlp_tools.count_lines(question.answer_text)'
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)
+
+def introduction_available(request, question, 
+        characteristic, create_coding=True):
+    pycode = "1*(question.introduction_text.strip()!='')"
+    return generic_suggestion(pycode, request, question, characteristic, 
+            create_coding)

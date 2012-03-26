@@ -1,0 +1,127 @@
+{% load markup %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SQP: {{question}}</title>
+<link href="/media/css/code.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/media/css/prototip.css" />
+{% ifequal question.language.name 'Arabic' %}
+<style type="text/css"><!-- textarea { direction: rtl; } --></style>
+{% endifequal %}
+{% ifequal question.language.name 'Hebrew' %}
+<style type="text/css"><!-- textarea { direction: rtl; } --></style>
+{% endifequal %}
+<script type="text/javascript" src="/media/js/prototype.js"></script>
+<script type='text/javascript' src='/media/js/prototip.js'></script>
+<script type="text/javascript" language="javascript">
+<!--
+function change_question_text(event) {
+    if ($('change_question_text')) {
+        $('change_question_text').value = '1'; // Used on server-side
+        $('code_form').submit(); 
+    }
+}
+
+function resize_to_viewport() {
+    try {
+        suggested_size = document.viewport.getHeight() - 
+            $('header').getHeight() - $('info-wrap').getHeight() - 20;
+        //might be very small on embedded device. Don't set it to less than 80
+        size = [suggested_size, 80].max(); 
+        $('history-wrap').style.height = size + 'px';
+    } catch(err) {}
+}
+
+function scroll_history(tr){
+    if (tr) $('history-wrap').scrollTop = tr.offsetTop;
+}
+
+document.observe('dom:loaded', function() {
+    // Make sure changes in the intro, rfa, and answer texts are save immediately
+    Event.observe('introduction_text', 'change', change_question_text);
+    Event.observe('rfa_text', 'change', change_question_text);
+    Event.observe('answer_text', 'change', change_question_text);
+    Event.observe('save_question_text', 'click', change_question_text);
+    if (top.reload_question) {// reload the list item for this question
+        top.reload_question({{question.id}}); 
+    }
+
+    // Tips for intro, rfa, and answer categories:
+    new Tip('tip_introduction', 
+        "{{tips.tip_introduction|textile|escapejs}}", 
+        {className: 'hint sqp_help', 
+        title:'Introduction text<br /><span style="font-weight: normal;">(click the question mark again to close</span>)',  
+        showOn: 'click',
+		hideOn: 'click'
+        });
+    new Tip('tip_rfa', 
+        "{{tips.tip_rfa|textile|escapejs}}", 
+        {className: 'hint sqp_help', 
+        title:'Request for an answer text<br /><span style="font-weight: normal;">(click the question mark again to close</span>)',  
+        showOn: 'click',
+		hideOn: 'click'
+        });
+    new Tip('tip_answer', 
+        "{{tips.tip_answer|textile|escapejs}}", 
+        {className: 'hint sqp_help', 
+        title:'Answer categories text<br /><span style="font-weight: normal;">(click the question mark again to close</span>)',  
+        showOn: 'click',
+		hideOn: 'click'
+        });
+  resize_to_viewport();
+  Event.observe(window, 'resize', resize_to_viewport.bind());
+
+   // Submit the form as soon as a choice is made
+   $('code_form').observe('change', function(event) { this.submit(); });
+
+  // scroll coding history to previous characteristic
+  scroll_history($('tr_{{previous_characteristic.id}}'));
+});
+-->
+</script>
+{% block header %}{%endblock%}
+</head><body>
+<form id="code_form" name="code_form"  action="" method="post">
+<h2 id="header">{{question}}</h2>
+
+<div id="info-wrap">
+<div id="question-text">
+<input type="hidden" name="change_question_text" id="change_question_text" value="0" />
+<div id="left_text">Introduction text:
+<div id="tip_introduction" class="tip"><img src="/media/img/sqp/help-browser16x16.png" height="16" width="16" alt="?" /></div>
+<br />
+<textarea name="introduction_text" rows="3" id="introduction_text">{%if question.introduction_text%}{{question.introduction_text}}{%endif%}</textarea><br/>
+Request for an Answer text:
+<div id="tip_rfa" class="tip"><img src="/media/img/sqp/help-browser16x16.png" height="16" width="16" alt="?" /></div>
+<br/>
+<textarea rows="7" name="rfa_text" id="rfa_text">{%if question.rfa_text%}{{question.rfa_text}}{%endif%}</textarea></div>
+<div id="right_text">Answer categories text:
+<div id="tip_answer" class="tip"><img src="/media/img/sqp/help-browser16x16.png" height="16" width="16" alt="?" /></div>
+<br/>
+<textarea rows="12" name="answer_text" id="answer_text">{%if question.answer_text%}{{question.answer_text}}{%endif%}</textarea></div>
+<input type="button" value="Save question text"  id="save_question_text"/>
+</div>
+ </div>
+
+<div id="history-wrap"><div id="history">
+<h3>Coding history</h3>
+<table width="99%"><thead>
+<tr><td>Characteristic</td><td>Choice</td><td>Code</td></tr></thead><tbody>
+{% for branch in history %}{%if branch%}
+<tr class="{%cycle 'row1' 'row2'%}" id="tr_{{branch.label.characteristic.id}}">
+    <td><a href="?skip_to_char={{branch.label.characteristic.id}}" 
+        title="Click to go directly to this characteristic.">{{branch.label.characteristic}}</a>
+    </td><td>{% with branch.label.name as label %}
+        {% ifnotequal label 'True' %}{{label}}{%else%}{{branch.coding_choice}}{% endifnotequal %}
+    {% endwith %}
+    </td>
+    <td>{{branch.coding_choice}}</td>
+{%endif%}{% endfor %}
+</tbody></table>
+</div> </div>
+<div id="question">
+{% if message %}<div class="{{message_class|default:"warning"}}">{{message}}</div>{%endif%}
+{% block question %}{% endblock %}</div>
+</body>
+</html>

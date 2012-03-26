@@ -1,0 +1,738 @@
+/////////////////
+/// CONTOLLER ///
+/////////////////
+
+sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
+	
+	initialize: function(option){
+		
+		// Load our studies
+		sqpBackbone.shared.studies = new sqpBackbone.collections.studyList;
+		sqpBackbone.shared.studies.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));},
+			});
+			
+			
+		// Load our countries
+		sqpBackbone.shared.countries = new sqpBackbone.collections.countryList;
+		sqpBackbone.shared.countries.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));},
+			});
+			
+		// Load our languages
+		sqpBackbone.shared.languages = new sqpBackbone.collections.languageList;
+		sqpBackbone.shared.languages.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));},
+			});
+			
+		//Run some global jQuery functions
+		//Maybe a global view would be good for this??
+		$('.btn').button();
+		
+		//This is global since there is only one dom node 
+		//during the run of the app. Would be ideal to refactor this
+		//into the individual view for the question list at some point
+		//as this really should not be global functionality
+		
+		var _controller = this;
+		$('.nextCharacteristicButton').click(function(){
+				var questionId = _controller.currentQuestion.get('id');
+				//We make a call to the api (using jquery) to find the next id to code
+				//and then redirect the browser to that url
+				$.ajax({
+						url: '/sqp/api/coding/?questionId=' + questionId,
+						success: function(data){
+							var characteristicId = data.payload.characteristicId;
+							// change hash directly to trigger the route
+							window.location.hash = "#edit/characteristic/" + characteristicId + "/question/" + questionId;
+						},
+						dataType : 'json'
+					}
+				 )
+			});
+		
+		//On click outside the char full description  
+		$('body, html').click(function() {
+			$('.characteristicDescFull, .characteristicDescFullShadow').css('visibility', 'hidden');
+		});
+	},
+	routes: {
+		"": 												 "home", //default
+		"home":												 "home",
+		"questionList": 									 "questionList", //list of all questions
+		"questionList/:query": 								 "questionList", //filtered list of questions
+		"questionPrediction/:query/:query": 				 "questionPrediction", //prediction for a question by another user
+		"questionPrediction/:query": 						 "questionPrediction", //prediction for a question
+		"questionImprovement/:query/:query/variable/:query": "questionImprovementDetail", //improvement for one variable for a question based on other user's codings
+		"questionImprovement/:query/variable/:query": 		 "myQuestionImprovementDetail", //improvement for one variable for a question based on user's own codings
+		"questionImprovement/:query/:query": 				 "questionImprovement", //improvement for a question based on another user's 'codings
+		"questionImprovement/:query": 						 "myQuestionImprovement", //improvement for a question based on user's own'codings
+		"questionCoding/:query/:query":	 					 "questionCoding",  // #question/1/23423 question id/ completion id
+		"questionCoding/:query":							 "questionCoding",  // #question/1
+		"question/new":									     "newQuestion",  // #question/new
+		"help":												 "help",		// #help
+		"settings":											 "settings",	
+		"studies":											 "studies",
+		"search":											 "search",
+		"edit/question/:query":								 "editQuestion",
+		"edit/characteristic/:query/question/:query":		 "editCharacteristic",
+		"edit/complete/question/:query":					 "editCodingComplete",
+		"characteristic/:query/question/:query/:query":		 "viewCharacteristic", //View characteristics from someone elses coding
+              "helloWorld":                                            "helloWorld"
+	},
+       helloWorld : function () {
+           alert('hello');
+       },
+	currentCharacteristicId : false, //Which characteristic we are coding if any
+	currentQuestion : false, /* Keep track of the current question we are editing 
+	                            since a lot of sub views depend on the question 
+	                            being loaded already */
+	currentImprovementId : false, /* Like above, but just an id for the improvement screen*/
+	questionListRendered : false, /* Keep track if the question list is rendered */
+	questionListView : false, /* A reference to the question list view */
+	questionListCollection : false, /* A reference to the question list collection */
+	
+	qImprovementView : false, /* A reference to the current potential improvement view */
+	currentView : false, /* Keep track of what view we are currently showing */
+	markCurrentRow : function () {
+			//Mark the current characteristic on the table on the right side
+			$('.characteristicRow_current').removeClass('characteristicRow_current');
+			$('.characteristicRow_' + this.currentCharacteristicId).addClass('characteristicRow_current');
+		},
+	/* Determine the link to direct the browser back to our current question list
+	 * and open it
+	 */
+	openQuestionList : function () {
+		if(this.questionListCollection) {
+			window.location.hash = '#questionList/' + this.questionListCollection.getURI();
+			
+		} else {
+			window.location.hash = '#questionList';
+		}
+	},
+	/*
+	 * Use jQuery to call the api with our current search
+	 * criteria and get back the next question after finsishing coding
+	 * upon success send it to our callback 
+	 */
+	getNextQuestion : function (callback) {
+			
+		var _controller = this;
+		
+		var questionId = this.currentQuestion.get('id');
+		
+		var currentSearch = '';
+		if (this.questionListCollection) {
+			if(this.questionListCollection.language) {
+				currentSearch += '&languageIso=' + this.questionListCollection.language;
+			}
+			
+			if(this.questionListCollection.country) {
+				currentSearch += '&countryIso=' + this.questionListCollection.country;
+			}
+			
+			if(this.questionListCollection.study) {
+				currentSearch += '&studyId=' + this.questionListCollection.study;
+			}
+		}
+	
+		$.ajax({
+				url: '/sqp/api/getNextQuestion/?fromQuestionId=' + questionId + currentSearch,
+				success: function(data){
+					callback(new sqpBackbone.models.questionItem(data.payload));
+				},
+				dataType : 'json'
+			}
+		 );
+	},
+	/*
+	 * Clear any cached questions so when a question is edited
+	 * the detail view and question list should be forced to refresh
+	 */
+	clearCachedQuestion : function () {
+		this.currentQuestion = false;
+		this.currentCharacteristicId = false;
+	},
+	questionList: function(query){
+		 if(query){
+			 var queryDict = {}
+			 var params = query.split('|');
+			 for (var i in params) {
+			 	var parts = params[i].split(':');
+			 	queryDict[parts[0]] = parts[1]
+			 }
+		 } else {
+		 	queryDict = {}
+		 }
+		if (this.currentView != 'questionList') {
+			// Show hide tabs for question list / detail
+			sqpBackbone.helpers.hideAllPages();
+			$("#pageQuestionList").fadeIn();
+			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			this.currentView = 'questionList'
+		}		
+		
+		if (!this.questionListRendered) {
+			
+			//Since this is a global question list, we just render it once
+			this.questionListRendered = true;
+			
+			// Create an instances of our question list model object
+			this.questionListCollection = new sqpBackbone.collections.questionList;
+			this.questionListCollection.setFromDict(queryDict);
+			this.questionListView = new sqpBackbone.views.questionListView({
+				el: $('#pageQuestionList'),
+				collection: this.questionListCollection
+			});
+			
+			if(this.questionListCollection.question != 0) {
+				this.questionListView.setQuestionPreview(this.questionListCollection.question);
+			}
+			
+		} else {
+			
+			this.questionListCollection.setFromDict(queryDict);
+		}
+	
+		if(this.questionListCollection.question == 0) {
+			this.questionListView.clearPreviewId();
+		} else  {
+			this.questionListView.showQuestionPreview();
+		}
+	},
+	questionCoding: function(questionId, completionId, onLoad){
+		
+		var controller = this;
+		
+		if (this.currentView != 'question') {
+			sqpBackbone.helpers.hideAllPages();
+			$("#pageQuestionDetail").fadeIn();
+			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			this.currentView = 'question'
+		}
+		
+		//Do some showing and hiding of nodes
+		$("#qDetailBreadCrumb").html('Loading..');
+		$('#questionDetailContainer').html('');
+		$('#questionDetailContainer').hide();
+		$('#editCodingContainer').hide();
+		$('.editCodingLoading').hide();
+		$('#charateristicDetailContainer').hide()
+		$('#qDetailContent').fadeIn();
+		
+		//Show the loading div
+		$('#questionContainerLoading').fadeIn();
+		
+		// Create an instance of our question model object
+		var questionDetail = new sqpBackbone.models.questionItem;
+		questionDetail.url = questionDetail.url + questionId;
+		
+		
+		this.currentCharacteristicId = false;
+		
+		// load json into out question model
+		questionDetail.fetch({
+			success: function(msg){
+				
+				//Clear out other div ids that could contain information left
+				//over from coding a previous question
+				
+				$('#editCodingContainer').html('');
+				
+				controller.currentQuestion = questionDetail;
+			    
+			    if (questionDetail.get('completeness') == 'completely-coded') {
+			    	questionDetail.set({'showPredictionIntro': true});
+			    }
+			    
+			    questionDetail.set({'showMTMM' : false});
+			    
+				// render the json array with our view object.
+				var qDetail = new sqpBackbone.views.questionDetailView({
+					el: $('#questionDetailContainer'),
+					model: questionDetail
+				});
+				
+				$("#qDetailBreadCrumb").html(questionDetail.getCodedByInfo(completionId));
+				controller.updateQuestionBreadCrumb(questionDetail);
+				
+				
+				if (completionId || questionDetail.toJSON().completeness == 'completely-coded' || questionDetail.toJSON().completeness == "partially-coded") {
+					//alert("load coding detail data" + questionDetail.toJSON().completeness);
+					$('#codingList').fadeIn();
+					$('#codingListWelcome').hide();
+					
+					// load coding list
+					var allCodings = new sqpBackbone.collections.codingList;
+					allCodings.url = '/sqp/api/questionCodingHistory/?questionId='+questionId ;
+					
+					if(completionId) {
+						allCodings.url += '&completionId=' + completionId;
+						$('.nextCharacteristicButton').hide();
+						$('#continueCoding').hide();
+					} else {
+						$('.nextCharacteristicButton').attr("href", "#edit/next/characteristic/question/" + questionId);
+							if(questionDetail.toJSON().completeness == 'completely-coded') {
+							$('#continueCoding').hide()
+						} else {
+							$('#continueCoding').fadeIn()
+						}
+					}
+					
+					allCodings.fetch({
+							error: function(err){ alert("error: " + JSON.stringify(err));},
+							success: function(msg){
+								hList = new sqpBackbone.views.codingListView({
+									collection: allCodings,
+									completionId : completionId
+								});
+							}
+					});
+
+				} else {
+								
+					$('#codingList').hide();
+					$('.nextCharacteristicButton').show();
+					$('#codingListWelcome').fadeIn();
+					
+					$('.nextCharacteristicButton').attr("href", "#edit/next/characteristic/question/" + questionId);
+					
+				}
+				
+				/* if question() was passed an onLoad function as the second param, we call it */
+				if(typeof(onLoad) == 'function') {
+					onLoad();
+				}
+				
+				$('#editCodingContainer').show();
+				
+				/* Show the content of the question div */
+				$('#questionContainerLoading').hide();
+				$('#charateristicDetailContainer').fadeIn()
+				$('#questionDetailContainer').fadeIn();
+				
+			}, 
+			error : function () {
+				alert('There was an error reaching the server. Please check your internet connection and try again.');
+				/* Go back to the page before which should be the already loaded question list */
+			
+			}
+		});
+	},
+	verifyQuestionLoaded : function verifyQuestionLoaded(questionId, completionId, onLoad) {
+		
+		// Make sure that our parent question view is rendered
+		// This functionality is useful to avoid recreating the entire page for every characteristic
+		// being coded. It is needed in case some one uses the back button
+		// or accesses a characteristic directly by the url
+		
+		if(!this.currentQuestion || 
+		   (this.currentQuestion.get('id') != questionId) || 
+		    this.currentView != 'question') {
+			this.questionCoding(questionId, completionId, onLoad);
+		
+		} else {
+			if(typeof(onLoad) == 'function') {
+				onLoad();
+			}
+		}
+	},
+	
+	editQuestion : function editQuestion(questionId){
+		var controller = this;
+		
+		sqpBackbone.helpers.hideAllPages();
+		$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+		$("#pageQuestionEdit").fadeIn();
+		this.currentView = 'questionEdit';
+		
+		if(this.currentQuestion) {
+			$("#qEditBreadCrumb").html(this.currentQuestion.getTitle());
+			$("#qEditBreadCrumb").attr('href', '#question/' + this.currentQuestion.get('id'));
+
+		} else {
+			$("#qEditBreadCrumb").html('Loading...');
+		}
+		
+		var questionDetail = new sqpBackbone.models.questionItem;
+		questionDetail.url = questionDetail.url + questionId;
+		
+		// load json into out question model
+		questionDetail.fetch({
+			success: function(msg){
+				// render the json array with our view object.
+				var qEdit = new sqpBackbone.views.questionEditView({
+					el: $('#questionEditContainer'),
+					model: questionDetail
+				});
+			}, 
+			error : function (msg) {
+				alert('There was an error and the question could not be loaded.');
+			} 
+		});
+	},
+	newQuestion : function newQuestion(){
+		sqpBackbone.helpers.hideAllPages();
+		$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+		$("#pageQuestionNew").fadeIn();
+		this.currentView = 'questionNew';
+		
+		var qNew = new sqpBackbone.views.questionEditView({
+			el: $('#questionNewContainer'),
+			model: new sqpBackbone.models.questionItem({'canEditDetails' : true,
+			                                            'canEditText' : true})
+		});
+	},
+	editCharacteristic: function(characteristicId, questionId){
+		// Make sure that our parent question view is rendered
+		this.verifyQuestionLoaded(questionId, false, function () {
+			
+			sqpBackbone.helpers.showCharacteristicWait();
+			
+			var characteristicCoding = new sqpBackbone.models.characteristicItem;
+			characteristicCoding.url = "/sqp/api/coding/?questionId=" + questionId + "&characteristicId=" +characteristicId;
+			characteristicCoding.fetch({
+				success: function(msg){
+					/*uncomment to simulate lag // setTimeout( function () { */
+						var cCoding = new sqpBackbone.views.characteristicView({
+						el: $('#editCodingContainer'),
+						model: characteristicCoding,
+						canEdit : true
+					});
+					/* uncomment to simulate lag // }, 2000); */
+				},
+				error: function(){
+					alert('There was an error contacting the server and the characteristic could not be loaded. Please check your connection and try again.');
+					$('.editCodingLoading').hide();
+				}
+			});
+		});
+	
+	},
+	viewCharacteristic: function(characteristicId, questionId, completionId){
+	
+		// Make sure that our parent question view is rendered
+		this.verifyQuestionLoaded(questionId, completionId, function () {
+			
+			sqpBackbone.helpers.showCharacteristicWait();
+			
+			var characteristicCoding = new sqpBackbone.models.characteristicItem;
+			characteristicCoding.url = "/sqp/api/coding/?questionId=" + questionId + "&characteristicId=" +characteristicId;
+			
+			if(completionId) {
+				characteristicCoding.url += '&completionId=' + completionId;
+			}
+			
+			characteristicCoding.fetch({
+				success: function(msg){
+						var cCoding = new sqpBackbone.views.characteristicView({
+						el: $('#editCodingContainer'),
+						model: characteristicCoding,
+						canEdit : false,
+						completionId : completionId
+					});
+				},
+				error: function(){
+					alert('There was an error contacting the server and the characteristic could not be loaded. Please check your connection and try again.');
+					$('.editCodingLoading').hide();
+				}
+			});
+		});
+	},
+	editCodingComplete:function(questionId){
+		this.verifyQuestionLoaded(questionId, false, function() {
+		
+			$('.editCodingLoading').hide();
+			//window.location.hash = "#edit/complete/question/" + questionId;
+			var cCoding = new sqpBackbone.views.codingCompleteView({
+						el: $('#editCodingContainer')
+					});
+			$('#editCodingContainer').fadeIn();
+		});
+	},
+	updateQuestionBreadCrumb : function (questionModel) {
+		$('.questionTitleBreadCrumb').html(questionModel.getShortTitle());
+		
+		if(!this.questionListView) {
+			$('.questionTitleBreadCrumb').attr('href', '#questionList/question|' + questionModel.get('id'));
+		} else {
+			$('.questionTitleBreadCrumb').attr('href', '#questionList/' + this.questionListView.collection.getURI());
+		}
+	},
+	questionPrediction : function (questionId, completionId) {
+		var controller = this;completionId
+		
+		if (this.currentView != 'questionPrediction') {
+			sqpBackbone.helpers.hideAllPages();
+			$("#pageQuestionPrediction").fadeIn();
+			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			this.currentView = 'questionPrediction'
+		}
+		
+		// Create an instance of our question model object
+		var question= new sqpBackbone.models.questionItem();
+		question.url = question.url + questionId + '&randForRefresh=' + Math.random();
+		
+		$("#qCodingBreadCrumb").html('Loading...');
+		$("#breadCrumpPrediction").html('Quality Prediction');
+		$("#questionPredictionContainer").hide();
+		
+		// load json into out question model
+		question.fetch({
+			success: function(msg){
+				question.set({'showPrediction' : 0}); //We don't want to ever show the prediction summary on the prediction view, would be redundant
+				
+				// render the json array with our view object.
+				var qPrediction = new sqpBackbone.views.questionPredictionView({
+					el: $('#questionPredictionContainer'),
+					completionId: completionId,
+					model: question
+				});
+				
+				controller.updateQuestionBreadCrumb(question);
+				
+				$("#qCodingBreadCrumb").html(question.getCodedByInfo(completionId));
+				$("#breadCrumpPrediction").html(question.getPredictedByInfo(completionId));
+				$("#qCodingBreadCrumb").attr('href',question.getCodingHref(completionId));
+				$("#questionPredictionLoading").hide();
+				$("#questionPredictionContainer").show();
+				
+			}, 
+			error : function () {
+				alert('There was an error reaching the server. Please check your internet connection and try again.');
+				/* Go back to the page before which should be the already loaded question list */
+			
+			}
+		});
+	}, 
+	myQuestionImprovement : function  (questionId, showXName) {
+		return this.questionImprovement(questionId, 0, showXName);
+	},
+	questionImprovement : function (questionId, completionId, showXName) {
+	
+		var controller = this;
+		
+		if (this.currentView != 'questionImprovement') {
+			sqpBackbone.helpers.hideAllPages();
+			$("#pageQuestionImprovement").fadeIn();
+			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			this.currentView = 'questionImprovement';
+		}
+		
+		this.currentImprovementId = questionId;
+		this.qImprovementView  = false;
+		$('#qImprovementDetailContainer').html(ich.improvementSelectedIntro());
+		
+		// Create an instance of our question model object
+		var question= new sqpBackbone.models.questionItem;
+		question.url = question.url + questionId + '&randForRefresh=' + Math.random();
+		
+		$("#qImprovementBreadCrumb").html('Loading...');
+		$("#questionImprovementLoading").show();
+		$("#questionImprovementContainer").hide();
+		$("#qImprovementQualityPrediction").html('Loading...');
+		
+		
+		var showImprovements = function (qualityInfo) {
+			controller.qImprovementView = new sqpBackbone.views.questionImprovementView({
+				el: $('#questionImprovementContainer'),
+				model: question, 
+				completionId : completionId,
+				qualityInfo : qualityInfo
+			});
+			
+			if(showXName) {
+				controller.qImprovementView.showXName(showXName);
+			}
+		}
+		
+		var showPrediction = function () {
+			var keyList = 'question_reliability,question_validity,question_quality';
+		
+			if(completionId) {
+				var completionPart = '&completionId=' + completionId;
+			} else {
+				var completionPart = '';
+			}
+			
+			$.ajax({
+						url: '/sqp/api/renderPredictions/?questionId=' 
+						     + questionId 
+						     + completionPart
+							 + '&predictionKeyList=' 
+							 + keyList,
+						success: function(data){
+						 	
+						 	if (!data['success']) {
+						 		$("#qImprovementQualityPrediction").html(data['meta']['general_error']);
+						 	} else {
+						 		var context = data['payload'];
+						 		context['predictionTitle'] = question.getPredictedByInfo(completionId);
+						 		$("#qImprovementQualityPrediction").html(ich.questionQualityPredictionOverview(context));
+						 		showImprovements(data['payload']);
+						 	}
+						},
+						dataType : 'json'
+					}
+				 );
+		};
+
+		// load json into out question model
+		question.fetch({
+			success: function(msg){
+				
+				
+				$("#qImprovementBreadCrumb").html(question.getPredictedByInfo(completionId));
+				$("#qImprovementBreadCrumb").attr('href',question.getPredictedByHref(completionId));
+				
+				controller.updateQuestionBreadCrumb(question);
+				showPrediction();
+				
+				
+			}, 
+			error : function () {
+				alert('There was an error reaching the server. Please check your internet connection and try again.');
+				/* Go back to the page before which should be the already loaded question list */
+			
+			}
+		});
+	},
+	myQuestionImprovementDetail : function (questionId,xName) {
+		return this.questionImprovementDetail(questionId,0, xName);
+	
+	},
+	questionImprovementDetail : function questionImprovementDetail(questionId,completionId, xName) {
+	
+		if (this.currentView != 'questionImprovement' || this.currentImprovementId != questionId) {
+			//If the parent view is not loaded we pass a call back to this function 
+			//for to be called when all of the improvements are loaded
+			this.questionImprovement(questionId, completionId, xName);
+		} else {
+			this.qImprovementView.showXName(xName);
+		}
+	},
+	help: function(){
+		alert("show help");
+	},
+	settings: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'settings';
+		$("#pageSettings").fadeIn();
+	},
+	studies: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'studies';
+		$("#pageStudies").fadeIn();
+		$('#studiesTab').removeClass('unselectedtab').addClass( 'selectedtab');
+		
+		this.studyListView = new sqpBackbone.views.studyListView({
+				el: $('#pageStudies')
+			});
+	},
+	showEditStudy : function (study, onSavedCallback) {
+		
+		$('#studyNameError').hide();
+		
+		var onSaveClick =  function(){
+						var studyName = jQuery.trim($('#studyName').val());
+						
+						if(studyName == '') {
+							$('#studyNameError').html('This value is required');
+							$('#studyNameError').fadeIn();
+							$('#studyName').addClass('invalid');
+						} else {
+							
+							if(study) {
+								var model = study;
+							} else {
+								var model = new sqpBackbone.models.studyItem();
+							}
+							
+							model.set({name: studyName});
+							model.save(model.toJSON(), {
+								error: function(model, response){ 
+									alert('There was an error contacting the server and the item could not be saved. Please check your connection and try again.');
+								},
+								success: function(model, response){
+									
+									
+									model.set({'id' : response.payload.id})
+									
+									if (response.success == "1"){
+										/* We refresh the study list */ 
+										sqpBackbone.shared.studies.fetch({
+											error: function(err){ alert("error: " + JSON.stringify(err));},
+											success: function(){ 
+												$("#editStudy").dialog("close");
+												/* We call the callback which was passed to showAddStudy */
+												if (onSavedCallback) {
+													onSavedCallback(model);
+												}
+											},
+										});
+										
+									} else {
+										//Send the error off to the error handler
+										sqpBackbone.helpers.handleServerError(response);
+									}		 
+								}	
+							});
+						}
+					};
+				
+		//Edit	
+		if(study) {
+			
+			$("#editStudy").dialog({
+				autoOpen: true,
+				height: 180,
+				width: 450,
+				modal: true,
+				resizable : false,
+				title : 'Edit Study',
+				buttons: { /* jQuery dialog creates and binds these buttons */
+					'Save Study' : onSaveClick
+				},
+				close: function() {
+					$('.studyName').val("");
+				}
+			});
+			
+			$('#studyName').val(study.get('name'));
+
+		//New	
+		} else {
+			
+			$("#editStudy").dialog({
+				autoOpen: true,
+				height: 180,
+				width: 450,
+				modal: true,
+				resizable : false,
+				title : 'Add New Study',
+				buttons: { /* jQuery dialog creates and binds these buttons */
+					'Create Study' : onSaveClick
+				},
+				close: function() {
+					$('.studyName').val("");
+				}
+			});
+		}
+		
+		
+	},
+	search: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'search';
+		$("#pageSearch").fadeIn();
+		
+		$('#searchTab').removeClass('unselectedtab').addClass( 'selectedtab');
+	},
+	home: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'home';
+		$('#sqpmain').fadeIn();
+		$('#homeTab').removeClass('unselectedtab').addClass('selectedtab');
+		
+	}
+});

@@ -1,0 +1,18 @@
+
+<script id="singleStudyListItem" type="text/html">
+	<td>{{name}}</td>
+	
+	
+	
+	<td><a href="#questionList/studyId:{{id}}">View questions &gt;&gt;</a></td>
+	<td >
+	{{#canEdit}}
+		<a class="studyItemEdit hlinkclass" title='Edit "{{name}}"'>Edit</a>
+	{{/canEdit}}
+	</td>
+	<td style="width:30px;">
+	{{#canEdit}}
+		<a class="studyItemDelete ui-icon ui-icon-circle-close" title='Delete "{{name}}"'></a>
+	{{/canEdit}}
+	</td>
+</script>

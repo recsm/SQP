@@ -1,0 +1,216 @@
+
+<script id="predictionList" type="text/html">
+	<div class="block" >
+		<h4 class="blockHeader">Quality Prediction </h4>
+		<div class="blockContent" >
+			<h2>{{{predictionTitle}}}</h2>
+			<div class="loadingPredictions">
+				<p>Please wait while the predictions are loading for this question. This could take a few moments. </p>
+			</div>
+			<div class="loadingPredictionsError">
+				<h3 class="errorInfo" style="width:500px;display:block;">
+					<img  style="vertical-align: bottom; display: inline; " src="/media/img/ui/icon_error.png" height="22" width="22" title="Error">
+					There was an error and a quality prediction could not be created.
+				</h3>
+				<p class="loadingPredictionsErrorInfo errorInfo" style="width:500px;display:block;"></p>
+			</div>
+			<div class="qPredictionHolder" style="height:340px;width:1160px;">	
+				<div class="qualityPredictions" >
+					<div style="width:720px;float:left;">
+						<div style="width:400px;">
+							<p style="float:right;color:orange;" class="hlinkclass showCoefficients toggleLink">View Quality Coefficients</p>
+							<h2>Prediction Overview</h2>
+						</div>
+							<table class="predictionTable" border="1" style="border-color:#dedede;width:auto;">
+							<tr>
+								<th class="columnVarName"></th>
+								<th class="columnVar"></th>
+								<th>Prediction</th>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Reliability </th>
+								<th class="columnVar" ><span class="bold" style="color:orange;">r<sup>2</sup></span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_reliability" style="color:orange;font-size:145%"></td>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Validity </th>
+								<th class="columnVar"><span class="bold" style="color:orange;">v<sup>2</sup></span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_validity" style="color:orange;font-size:145%"></td>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Quality </th>
+								<th class="columnVar"><span class="bold" style="color:orange;">q<sup>2</sup></span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_quality" style="color:orange;font-size:145%"></td>
+								
+							</tr>
+						</table>
+					</div>
+					
+					{{#hasMTMM}}
+					<div style="width:260px;float:left;">
+					
+						<h2 style="color:#564829"> <img title="MTMM Estimate"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" />
+						MTMM Results</h2>
+							<table class="predictionTable" border="1" style="border-color:#A2884D";width:auto;">
+							<tr>
+									<th style="color:#A2884D">MTMM Estimate</th>
+									<th style="color:#A2884D">MTMM 95% Confidence Interval</th>
+							
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_rel2}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_rel2Lo}}<span style="color:#C3B597;">,</span>
+									 {{MTMM_rel2Hi}}
+									 <span style="color:#C3B597;">)</span>
+									 </td>
+							
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_val2}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_val2Lo}}<span style="color:#C3B597;">,</span>
+									{{MTMM_val2Hi}}
+									<span style="color:#C3B597;">)</span></td>
+								
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_qual2}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_qual2Lo}}<span style="color:#C3B597;">,</span>
+									{{MTMM_qual2Hi}}
+									<span style="color:#C3B597;">)</span></td>
+							</tr>
+						</table>
+					
+					</div>
+					{{/hasMTMM}}
+					<div style="clear:both"></div>
+	
+					<div style="height:2px;background-color:#e5e5e5;margin:10px 6px 9px;"></div>
+					
+					<table class="predictionTable" border="1" style="border-color:#dedede;width:auto;">
+						<tr>
+							<th class="columnVarName">Common Method Variance</th>
+							<th class="columnVar">cmv</th>
+							<td class="columnPredictEstimate prediction" predictionKey="common_method_variance" style="font-weight:normal;color:#6E81A3;"></td>
+						</tr>
+					</table>
+				</div>
+				
+				<div class="qualityCoefficients">
+					
+					<div style="float:left;width:720px;">
+						<div style="width:400px;">
+							<p style="float:right;color:orange;" class="hlinkclass showQuality toggleLink">Back to Prediction Overview</p>
+							<h2>Quality Coefficients</h2>
+						</div>
+						<table class="predictionTable" border="1" style="border-color:#dedede;width:auto">
+							<tr>
+								<th class="columnVarName"></th>
+								<th class="columnVar"></th>
+								<th >Prediction</th>
+								<th class="columnPredictInterquartile">Interquartile range</th>
+								<th class="columnPredictStdError">Standard error</th>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Reliability Coefficient</th>
+								<th class="columnVar"><span class="bold" style="color:#113;">r</span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_reliability_coefficient" style="color:#113;font-size:145%"></td>
+								<td class="columnPredictInterquartile prediction" predictionKey="question_reliability_coefficient_interval"></td>
+								<td class="columnPredictStdError prediction" predictionKey="question_reliability_coefficient_standard_error"></td>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Validity Coefficient</th>
+								<th class="columnVar"><span class="bold" style="color:#113;">v</span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_validity_coefficient" style="color:#113;font-size:145%"></td>
+								<td class="columnPredictInterquartile prediction" predictionKey="question_validity_coefficient_interval"></td>
+								<td class="columnPredictStdError prediction" predictionKey="question_validity_coefficient_standard_error"></td>
+								
+							</tr>
+							<tr>
+								<th class="columnVarName">Quality Coefficient</th>
+								<th class="columnVar"><span class="bold" style="color:#113;">q</span></th>
+								<td class="columnPredictEstimate prediction" predictionKey="question_quality_coefficient" style="color:#113;font-size:145%"></td>
+								<td class="columnPredictInterquartile prediction" predictionKey="question_quality_coefficient_interval"></td>
+								<td class="columnPredictStdError prediction" predictionKey="question_quality_coefficient_standard_error"></td>
+								
+							</tr>
+						</table>
+					</div>
+						
+					{{#hasMTMM}}
+					<div style="width:260px;float:left;">
+					
+						<h2 style="color:#564829"> <img title="MTMM Estimate"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" /> MTMM Results (coefficients)</h2>
+							<table class="predictionTable" border="1" style="border-color:#A2884D";width:auto;">
+							<tr>
+									<th style="color:#A2884D">MTMM Estimate</th>
+									<th style="color:#A2884D">MTMM 95% Confidence Interval</th>
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_rel}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_relLo}}<span style="color:#C3B597;">,</span>
+									 {{MTMM_relHi}}
+									 <span style="color:#C3B597;">)</span></td>
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_val}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_valLo}}<span style="color:#C3B597;">,</span>
+									 {{MTMM_valHi}}
+									 <span style="color:#C3B597;">)</span></td>
+							</tr>
+							<tr>
+									<td class="columnMTMMEstimate" style="color:#564829">{{MTMM_qual}}</td>
+									<td class="columnMTMMInterval" style="color:#A2884D">
+									<span style="color:#C3B597;">(</span>
+									{{MTMM_qualLo}}<span style="color:#C3B597;">,</span>
+									 {{MTMM_qualHi}}
+									 <span style="color:#C3B597;">)</span></td>
+							</tr>
+						</table>
+					
+					</div>
+					{{/hasMTMM}}
+					
+					<div style="clear:both;"></div>
+					
+				
+				</div>
+			</div>	
+			<br>
+		
+		
+			<div style="width:45%;float:left;">
+				<h3>Potential Improvement to Question Quality</h3>
+				<p>View the potential for improving this question based on this quality prediction
+				   by changing individual characteristics.</p>
+				   
+		   		<div class="buttonHolder">
+					<button class="getQuestionImprovement btn">View Potential Improvements</button>
+				</div>
+			</div>
+			<div style="width:45%;margin-left:5%;float:left;">
+				<h3>Show Codes used to Create this Prediction</h3>
+				<p>This quality prediction has been created using codes for a series of characteristics for this question.</p>
+		   		<div class="buttonHolder">
+					<button class="getPredictionCodes btn">View Prediction Codes</button>
+				</div>
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+	
+	</div>
+</script>

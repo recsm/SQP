@@ -1,0 +1,96 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from cPickle import load
+from sqp_project.sqp.nlp_tools import word_tokenize, sent_tokenize, not_empty
+from django.conf import settings
+
+from sqp_project.sqp.log import logging
+
+try:
+    import treetaggerwrapper
+except:
+    logging.debug("Could not import treetaggerwrapper!")
+
+homedir = '/home/sqp'
+
+tagger_dict = {
+   'English' : {'filename':'bigram_tagger_english.pkl', 
+            'noun_tag_startswith':'NN', 'tt_language_code' : 'en'},
+   'Dutch'   : {'filename':'bigram_tagger_dutch.pkl', 
+            'noun_tag_startswith':'noun', 'tt_language_code' : 'nl'},
+   'Spanish' : {'filename':'bigram_tagger_spanish.pkl', 
+            'noun_tag_startswith':'nc', 'tt_language_code' : 'es'},
+   'Catalan' : {'filename':'bigram_tagger_catalan.pkl', 
+            'noun_tag_startswith':'nc', 'tt_language_code' : ''},
+   'Portuguese' : {'filename':'bigram_tagger_portuguese.pkl', 
+            'noun_tag_startswith':'H+n', 'tt_language_code': 'pt'},
+   'German' : {'filename':'bigram_tagger_german.pkl', 
+            'noun_tag_startswith':'NN', 'tt_language_code':'de'},
+   'French' : {'filename':'', 'noun_tag_startswith':'NOM',
+            'tt_language_code':'fr'},
+   'Italian' : {'filename':'', 'noun_tag_startswith':'NOM',
+            'tt_language_code':'it'},
+   'Greek' : {'filename':'', 'noun_tag_startswith':'NN',
+            'tt_language_code':'el'},
+}
+path = settings.TAGGER_DIR
+
+def tag(sent, lan="English"):
+   # first try treetagger:
+   try:
+       tagger = treetaggerwrapper.TreeTagger(\
+               TAGLANG=tagger_dict[lan]['tt_language_code'],
+               TAGDIR = homedir + '/lib/treetagger/')
+       res = tagger.TagText(sent, encoding='utf8')
+       res = [tuple(r.decode('utf8').split(u"\t")[0:2]) for r in res]
+       return(res)
+   except Exception, err: 
+       logging.debug( "Could not tree-tag: %s" % str(err) )
+   return ''
+    
+   #try:
+   #    input = open(path + tagger_dict[lan]['filename'], 'rb')
+   #    tagger = load(input)
+   #    input.close()
+   #    res = tagger.tag(sent)
+   #    del tagger
+   #    return(res)
+   #except Exception, err:
+   #    logging.debug( "Could not tag at all: %s..." % str(err) )
+   #    return ''
+
+
+def tagged_sents_to_table(tagged_sents):
+   "Formats result of tagging as HTML table"
+   sents_table = u'<ul>'
+   for sent in tagged_sents:
+        sents_table += u'<li></li>'
+        for word in sent:
+            sents_table += u'<li>' + word[0] + u' -- ' + word[1] + u'</li>'
+   sents_table += '</ul>'
+   return sents_table
+
+def count_nouns(s, lan="English"):
+   words = filter(lambda x: x!=[], map(word_tokenize, sent_tokenize(s, lan=lan)))
+   tagged_sents = [ tag(word_list, lan=lan) for word_list in words ]
+   
+   res = sum([sum([(word_pair[1].lower().\
+            find(tagger_dict[lan]['noun_tag_startswith'].lower()) != -1) \
+               for word_pair in sent]) for sent in tagged_sents])
+   
+   sents_table = tagged_sents_to_table(tagged_sents)
+
+   return u"""<div id="tip_tagged" class="tip">%d&nbsp;<img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div>
+<script type="text/javascript">
+<!--
+    new Tip('tip_tagged', "%s", 
+         {className: 'hint sqp_help', 
+         title:'How did we arrive at this suggestion?<br/>(Decomposition by part-of-speech tagger)',  
+	  hideOn: 'click',
+      showOn: 'click',
+    hook: { target: 'topRight', tip: 'bottomLeft' },
+});
+--></script>
+        """ % (res, sents_table)
+

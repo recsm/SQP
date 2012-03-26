@@ -1,0 +1,4 @@
+{%load sqp_custom_filters%}
+<a href="/sqp/code/{{question.id}}/?language={{request.GET.language}}&country={{request.GET.country}}&amp;study={{request.GET.study}}" target="coding_frame" onclick="select_item('item_{{question.id}}');" title="Code this question ({{question|completeness}})">
+<div class="{{question|completeness}}">{{question}}</div>
+<div class="long_name">{{question.item.long_name}}</div></a>

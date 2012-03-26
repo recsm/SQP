@@ -1,0 +1,70 @@
+<script id="characteristicRadioTemplate" type="text/html">
+	<div class="block">
+		<h4 class="blockHeader">Selected Characteristic</h4>
+		<div class="blockContent">
+			<h2>{{ characteristicName }}</h2>
+			{{#characteristicDesc}}
+				<div class="characteristicDesc">
+					<div class="characteristicDescIntro">
+						<h4 class="characteristicDescTitle">{{ characteristicName }}</h4>
+						{{{characteristicDescIntro}}}
+					</div>
+					{{#showMore}}
+					    <span class="readFullDesc hlinkclass"> more&nbsp;&gt;&gt;</span>
+					    <div class="characteristicDescFullShadow"></div>
+						<div class="characteristicDescFull">
+						 	<span class="hideFullDesc hlinkclass ui-icon ui-icon-circle-close" title="Close Description"></span>
+							<h4 class="characteristicDescTitle">{{ characteristicName }}</h4>
+							{{{characteristicDesc}}}
+						</div>
+						
+					{{/showMore}}
+				</div>
+			{{/characteristicDesc}}
+			
+			{{#canEdit}}
+				<label class="mainLabel" for="choiceOptions">Please select one:</label>
+				{{#choiceOptions}} 
+						<input type="radio" name="choiceOptions" id="choiceOption_{{ labelId }}" value="{{ labelId }}" {{#labelSelected}} checked {{/labelSelected}} class="optionRadio" />
+						<label class="optionLabel" for="choiceOption_{{ labelId }}"> {{ labelName }} </label><br/>
+				{{/choiceOptions}}
+				
+				<p>
+					<img class="valueIncorrectIcon"  src="/media/img/ui/icon_error.png" height="22" width="22" title="No Value Selected" /> 
+			    	<span class="errorInfo" style="line-height:22px;margin-left:-2px;">Please select an option to continue.</span>
+				 </p>
+				 
+				
+				{{#isAutoFilled}}
+					{{#choiceOptions}} 
+					   {{#labelSelected}} 
+						   <p class="suggestionAutoFilledRadio suggestionAutoFilledNotice"  title='Suggestion Autofilled - A suggested value of "{{ labelName }}"  has been filled in automatically. Please check the suggested value before continuing.'>
+						   		<img style="vertical-align:bottom" src="/media/img/ui/icon_suggestion.png" height="22" width="22" title='Suggestion Autofilled - A suggested value of "{{ labelName }}" has been filled in automatically. Please check the suggested value before continuing.'/> 
+						   		Autofilled
+							</p> 
+					    {{/labelSelected}} 
+					{{/choiceOptions}}
+				{{/isAutoFilled}}
+				
+				<div class="suggestionInfo"></div> 
+			{{/canEdit}}
+			
+			{{^canEdit}}
+				<label class="mainLabel" style="color:#555555" >Selected Choice:</label>
+				{{#choiceOptions}} 
+					{{#labelSelected}}
+						<p style="font-weight:bold;color:#E48128;font-size:1.3em;">{{ labelName }}</p>
+					{{/labelSelected}}
+				{{/choiceOptions}}
+			{{/canEdit}}
+
+			
+			
+			<div class="buttonHolder">
+				<button class="buttonPrevious btn" >&lt; Previous</button><button class="buttonSubmit btn " >Next &gt;</button>
+			</div>
+			
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</script>

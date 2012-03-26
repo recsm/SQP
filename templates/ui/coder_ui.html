@@ -1,0 +1,431 @@
+{% extends "ui/base_ui.html" %}
+{% block title %}
+Coders View: {{title}}
+{% endblock %}
+{% block head %}
+{% endblock %}
+{% block content %}
+{% load straight_include %}
+
+<!-- Question Detail Coding and Characteistic List -->
+{% straight_include "icanhaz.characteristicNumericTemplate.html" %}
+{% straight_include "icanhaz.characteristicRadioTemplate.html" %}
+{% straight_include "icanhaz.characteristicTextTemplate.html" %}
+{% straight_include "icanhaz.characteristicWelcomeTemplate.html" %}
+{% straight_include "icanhaz.codingCompleteTemplate.html" %}
+{% straight_include "icanhaz.codingListItem.html" %}
+
+<!-- Question Detail -->
+{% straight_include "icanhaz.questionDetail.html" %}
+{% straight_include "icanhaz.questionEdit.html" %}
+{% straight_include "icanhaz.questionCodedByIcon.html" %}
+
+<!-- Question List -->
+{% straight_include "icanhaz.questionListItem.html" %}
+{% straight_include "icanhaz.singleQuestionListItem.html" %}
+
+<!-- Study List -->
+{% straight_include "icanhaz.singleStudyListItem.html" %}
+
+<!-- Prediction List -->
+{% straight_include "icanhaz.predictionCodingList.html" %}
+{% straight_include "icanhaz.predictionList.html" %}
+
+<!-- Potential Improvements -->
+{% straight_include "icanhaz.improvementSelectedIntro.html" %}
+{% straight_include "icanhaz.singlePotentialImprovement.html" %}
+{% straight_include "icanhaz.questionQualityPredictionOverview.html" %}
+
+
+<div id='sqpcontainer'>
+
+	<!-- Header and Tabs -->
+	<div id='sqpheader'>
+		<div id="sqpheadertoprow">
+		<div id="userdisplay"> <span id="screenname">You are logged in as:  {%if user.get_full_name %} {{user.get_full_name}} {% else %} {{user.username}} {% endif %} </span></div>
+		
+		<div id="toprowmenu"> 
+		<!--  <a href="#help" id="helplink">Help</a> 
+		  l <a href="#settings" id="settingslink">Settings</a> l -->
+		   <a href="/accounts/logout/" id="logoutlink" >Logout</a></div>
+		</div>
+		<div id="sqpheaderinner">
+			<div id="tabsdiv">
+				<ul id="menu">
+					<li><a href="#home" id="homeTab" class="selectedtab toptabs" >Home</a></li>
+					<li><a href="#questionList" id="questionTab" class="unselectedtab toptabs openQuestionList" >Questions</a></li>
+					<li><a href="#studies" class="unselectedtab toptabs" id="studiesTab">Studies</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Question List View -->
+	<div id='pageQuestionList' class="uiPage">
+	    
+	    <div class="qListBreadCrumb breadCrumb">
+	        <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent questionListTitle">All Questions</span>
+			
+			<span class="breadCrumbSep qListCurrentQuestionBreadCrumb" style="display:none;">&gt;</span>
+			<a class="breadCrumbCurrent qListCurrentQuestionBreadCrumb" style="display:none;"></a>
+			
+	    </div>
+		<div class='qListNav'>
+			<div class="block ui-widget">
+				<h4 class="blockHeader">Filter Questions</h4>
+				<h4 class="searchHeader">Show Questions From:</h4>
+				<div class="ui-select-holder">
+					<select class="qListStudy">
+						<option value="">All Studies</option>
+					</select>
+				</div>
+				<div class="ui-select-holder">
+					<select class="qListLanguage">
+						<option value="">All Languages</option>
+					</select>
+				</div>
+				<div class="ui-select-holder">
+					<select class="qListCountry">
+						<option value="">All Countries</option>
+					</select>
+				</div>
+				<br/>
+				
+				<h4 class="searchHeader">Containing Text:</h4>
+				<div class="ui-select-holder">
+					<input class="qListSearchText ui-widget-content ui-corner-left">
+					<button title="Search" class="qListSearch ui-button-icon-only" >Search</button>
+				</div>
+				<br>
+				
+				<h4 class="searchHeader">Selection Criteria:</h4>
+				<input type='checkbox' id="qListTypePredicted" class="qListTypePredicted" />
+				<label for="qListTypePredicted">Only with Predictions</label> <br/>
+				<input type='checkbox' id="qListTypeMTMM" class="qListTypeMTMM" />
+				<label for="qListTypeMTMM">Only with MTMM</label> <br/><br/>
+				<h4 class="searchHeader">
+				
+				My Questions</h4>
+				<a href="#question/new" class="qlistAddNew">
+					<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Question" />
+	   	 			Add New Question
+	   			 </a>
+	   			 
+	   			 <br /><br />
+	   			 <br />
+	   			 <h4 class="searchHeader">Key</h4>
+	   			 <p style="color:#888;">
+	   			 <img src="/media/img/ui/mine.png" style="padding: 3px; vertical-align: middle;" title="My Questions">  My Questions and Codings <br>
+	   			 <img src="/media/img/ui/a.png" style="padding: 3px; vertical-align: middle;" title="Authorized Predictions">  Authorized Predictions <br>
+	   			 <img src="/media/img/ui/u1.png" style="padding: 3px; vertical-align: middle;" title="Other User Predictions"> Other User Predictions <br>
+	   			  <img src="/media/img/ui/m.png" style="padding: 3px; vertical-align: middle;" title="MTMM"> MTMM Data Available <br>
+	   			 </p>
+	   			 
+			</div>
+		</div>
+		
+	
+		<div class='qListMain'>
+			<div class="qListLoading">
+				<div class="block">
+				    <h4 class="blockHeader">Loading...</h4>
+				    <div class="qListLoadingContent">
+				    </div>
+				</div>
+			</div>
+		    <div class="qListResults">
+		    	<div class="qListPreview">
+		    			<span class="closePreview hlinkclass ui-icon ui-icon-circle-close" title="Close Preview"></span>
+		    			<div class="qListPreviewContent"></div>
+		    	</div>
+			    <div class="block">
+			    	<div class="questionTableHolder">
+						<table class='questionTable' cellspacing='1' cellpadding='1'>
+							<thead>
+								<tr>
+									<th style="padding-left:32px;">Question</th>
+									<th>Study</th>
+									<th>Language</th>
+									<th>Country</th>
+									<th>Quality</th>
+								</tr>
+							</thead>
+						<tbody class='qListTable'></tbody>
+						</table>
+					</div>
+					<p class="qListRowNav">Showing questions <span class="qListFromRow"></span> 
+					   to <span class="qListToRow"></span> of 
+					   <span class="qListTotal"></span> total 
+					<button class="qListPrevPage">Prev</button>
+					 
+					<button class="qListNextPage">Next</button>
+					 
+					</p>
+				</div>
+			</div>
+			<div class="qListNoResults">
+				<div class="block">
+				    <h4 class="blockHeader">No Matching Questions Found </h4>
+				    <p>There were no questions that matched your current selection. Try making your selection more broad if possible.</p>
+				</div>
+			</div>
+		</div>	
+	</div>
+	
+	
+	<!-- Question Edit View -->
+	<div id='pageQuestionEdit' class="uiPage">
+		<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<a href="#questionList" class="openQuestionList questionListTitle">All Questions</a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a id="qEditBreadCrumb"></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent">Edit Question</span>
+	    </div>
+	    <div id="questionEditContainer"></div>
+	</div>
+	
+	
+	<!-- Question New View -->
+	<div id='pageQuestionNew' class="uiPage">
+		<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<a href="#questionList" class="openQuestionList">Questions</a>
+			<span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent">New Question</span>
+	    </div>
+	    <div id="questionNewContainer"></div>
+	</div>
+	
+	
+	<!-- Question Prediction View -->
+	<div id='pageQuestionPrediction' class="uiPage">
+		<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<a href="#questionList" class="openQuestionList questionListTitle">All Questions</a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a class="questionTitleBreadCrumb"></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a id="qCodingBreadCrumb" ></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent" id="breadCrumpPrediction">Quality Prediction</span>
+	    </div>
+	    <div id="qPredictionContent">	
+			<div id="questionPredictionLoading">
+		    		<div class="block">
+			    		<h4 class="blockHeader">Loading Question Prediction</h4>
+			    		<div class="blockContent">
+		    				<p>Please wait while this prediction is being prepared.</p>
+			    		</div>
+		    		</div>
+	    	</div>
+			<div id="questionPredictionContainer">
+			    <div class="qPredictionQuestionDetail"></div>
+				<div class="qPredictionList"></div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Potential Improvement View -->
+	<div id='pageQuestionImprovement' class="uiPage">
+		<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<a href="#questionList" class="openQuestionList questionListTitle">All Questions</a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a class="questionTitleBreadCrumb"></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a id="qImprovementBreadCrumb" ></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent">Potential Improvement</span>
+	    </div>
+	    <div id="qImprovementContent">	
+	    	<div id="questionImprovementContainer">
+	    		<div id="qImprovementQuestionDetail"  style="width:48%;float:left;"></div>
+	    		<div class="block" style="width:48%;float:left;margin-left:10px;">
+	    			<h4 class="blockHeader">Quality Prediction</h4>
+	    			<div class="blockContent" id="qImprovementQualityPrediction"></div>
+	    		</div>
+	    		<div class="block " style="width:48%;float:left;clear:left;">
+		    		<div class="blockHeader">
+		    			<div style="float:right;color:#fff;font-weight:bold;" class="questionImprovementCurrentlyLoading"></div>
+		    			<h4 style="margin:0px;padding:0px;">Potential Improvements</h4>
+		    		</div>
+		    		
+	    			<h2 class="qImprovementListHeader"></h2>
+	    			<div class="qImprovementListLoadAllHolder" ></div>
+	    			
+		    		<div class="qImprovementListHolder">
+						<table>
+							<tr style="font-weight:bold;">
+								<td>Variable</td>
+								<td colspan="2">Potential Max Quality by Change in Variable</td>
+							</tr>
+							<tbody  class="qImprovementList">
+							</tbody>
+	    				</table>
+	    			</div>
+	    		</div>
+				<div class="block" style="width:48%;float:left;margin-left:10px;">
+	    			<h4 class="blockHeader">Selected Variable</h4>
+	    			<div class="blockContent" id="qImprovementDetailContainer"></div>
+	    		</div>
+	    		<div style="clear:both"></div>
+	    	</div>
+		</div>
+	</div>
+		
+		
+	<!-- Question Coding View -->
+	<div id='pageQuestionDetail'  class="uiPage">
+		<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<a href="#questionList" class="openQuestionList questionListTitle">All Questions</a>
+			<span class="breadCrumbSep">&gt;</span>
+			<a class="questionTitleBreadCrumb"></a>
+			<span class="breadCrumbSep">&gt;</span>
+			<span id="qDetailBreadCrumb" class="breadCrumbCurrent"></span>
+	    </div>
+	    <div id="qDetailContent">
+	    	<div id="questionContainerLoading">
+		    		<div class="block">
+		    		<h4 class="blockHeader">Loading Question</h4>
+		    		<div class="blockContent">
+		    			<p>Please wait while this question is being prepared for coding. The content of the text is used to generate coding suggestions which could take a few moments.</p>
+		    		</div>
+		    		</div>
+	    	</div>
+			<div id="questionContainer">
+			    <div class="editCodingHolder">
+					<div class="editCodingLoading">
+						<div class="block">
+						    <h3 class="blockHeader">Loading...</h3>
+						    <div class="editCodingLoadingContent"></div>
+						</div>
+					</div>
+					<div id="editCodingContainer"></div>
+				</div>
+				<div id="questionDetailContainer"></div>
+			</div>
+			<div id="charateristicDetailContainer">
+				<div class="block" style="margin-left:10px;" id="codingList">
+					<table border=0 cellpadding=4 cellspacing=1 id="codingtable">
+						<thead>
+							<tr>
+								<th>Characteristic</th>
+								<th>Choice</th>
+								<th>Code</th>								
+							</tr>
+						</thead>
+						<tbody id="codinglist">
+							
+						</tbody>
+					</table>
+					<div id="continueCoding">
+					    <h4>Question Coding</h4>	
+						<p>This question is not yet completely coded. <br><br>		
+						<a href="#edit/next/characteristic/question/" class="nextCharacteristicButton btn" >Continue Coding</a>
+						</p>
+					</div>
+				</div>
+				<div id="codingListWelcome" class="block"  style="margin-left:10px;" >
+					<h4 class="blockHeader">Question Coding</h4>
+					<div style="padding:10px;">
+						<p>There are no codings yet for this question. <br><br>							
+							<a class="nextCharacteristicButton btn" >Begin Coding</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<!-- Study List View -->
+	<div id="pageStudies"  class="uiPage">
+	 	<a class="studyListAddNew hlinkclass">
+	    	Add New Study
+	    	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Study" />
+	    </a>
+    	<div class="breadCrumb">
+		    <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent">Studies</span>
+	    </div>
+	    <div class="studyList">
+		    <div class="block">
+				<table  cellspacing='1' cellpadding='1'>
+					<thead>
+						<tr>
+							<th colspan="1">Study</th>
+							<th colspan="3"></th>
+						</tr>
+					</thead>
+				    <tbody class='studyListTable'></tbody>
+				</table>
+			</div>
+		</div>
+    </div>
+    
+    
+    <!-- Add / Edit Study Dialog View -->
+    <div id="editStudy" style="display:none;">
+    	<label class="blockLabelFloated" for="studyName">Study Name:</label>
+	    <input id="studyName" class="studyName blockValueFloated"></intput>
+	    <p id="studyNameError" class="inputErrorMessage"></p>
+    </div>
+    
+    
+	<div id='pageSearch'  class="uiPage">Search</div>
+	<div id='pageSettings' class="uiPage">Settings</div>
+
+	<div id='sqpmain' class="uiPage">
+		<div id='sqpcontent'>
+			<div class="leftColumn">
+				<div class="leftColumnContent">
+					<div class="block">
+					    <h4 class="blockHeader">My Questions and Studies Overview</h4>
+					    <div class="blockContent">
+					    	<h3>Create your own Questions and get a Quality Prediction</h3>
+					    	<p>SQP - The Survey Quality Prediction program gives you the possibility to create your own questions and get quality, reliability, and validity predictions for your questions. 
+					    	The SQP program is also able to recommend potential improvements to your questions after they are fully coded.</p>
+					    	<p>
+					    	  <a href="#question/new" class="qlistAddNew" style="float:none;,margin:0px;">
+					    	  	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Question" />
+						    	Create a new question
+						    	
+						    </a></p>
+					    </div>
+					</div>
+				</div>
+			</div>
+			<div class="rightColumn">
+				<div class="rightColumnContent">
+					<div class="block">
+					    <h4 class="blockHeader">European Social Survey</h4>
+					    <div class="blockContent">
+					       <img src="/media/img/ui/ess_logo.png" title="ESS" style="float:right;margin:4px 10px 20px 30px;"/>
+					    	<h3>ESS Questions with MTMM Data</h3>
+					    	<p>All MTMM data collected so far for ESS is available by using this program. </p>
+					    	<p><a href="#questionList/MTMM:1">View All Questions with MTMM data &gt;&gt;</a></p>
+					    	<br>
+					    	<h3>All Available Questions</h3>
+					    	<p>For questions that don't have MTMM data or a prediction, you may code the question to obtain a quality prediction. If the question is not available, you may also add the question to our database using the create new question link.</p>
+					    	<p><a href="#questionList">View all questions that are currently available &gt;&gt;</a></p>
+					    </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id='sqpfooter'></div>
+</div>
+{% endblock %}

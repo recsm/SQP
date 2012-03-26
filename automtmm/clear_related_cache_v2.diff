@@ -1,0 +1,77 @@
+Index: django/db/models/fields/related.py
+===================================================================
+--- django/db/models/fields/related.py	(revision 11208)
++++ django/db/models/fields/related.py	(working copy)
+@@ -743,6 +743,10 @@
+         cls._meta.duplicate_targets[self.column] = (target, "o2m")
+ 
+     def contribute_to_related_class(self, cls, related):
++        # Queries on related models will fill the _related_objects_cache, we
++        # need to clear it to make the new relation visible
++        if hasattr(cls._meta, '_related_objects_cache'):
++            del cls._meta._related_objects_cache
+         setattr(cls, related.get_accessor_name(), ForeignRelatedObjectsDescriptor(related))
+ 
+     def formfield(self, **kwargs):
+@@ -782,6 +786,10 @@
+         super(OneToOneField, self).__init__(to, to_field, OneToOneRel, **kwargs)
+ 
+     def contribute_to_related_class(self, cls, related):
++        # Queries on related models will fill the _related_objects_cache, we
++        # need to clear it to make the new relation visible
++        if hasattr(cls._meta, '_related_objects_cache'):
++            del cls._meta._related_objects_cache
+         setattr(cls, related.get_accessor_name(),
+                 SingleRelatedObjectDescriptor(related))
+ 
+@@ -946,6 +954,10 @@
+         cls._meta.duplicate_targets[self.column] = (target, "m2m")
+ 
+     def contribute_to_related_class(self, cls, related):
++        # Queries on related models will fill the _related_m2m_cache, we
++        # need to clear it to make the new relation visible
++        if hasattr(cls._meta, '_related_many_to_many_cache'):
++            del cls._meta._related_many_to_many_cache
+         # m2m relations to self do not have a ManyRelatedObjectsDescriptor,
+         # as it would be redundant - unless the field is non-symmetrical.
+         if related.model != related.parent_model or not self.rel.symmetrical:
+Index: tests/regressiontests/query_between_definitions/__init__.py
+===================================================================
+--- tests/regressiontests/query_between_definitions/__init__.py	(revision 0)
++++ tests/regressiontests/query_between_definitions/__init__.py	(revision 0)
+@@ -0,0 +1 @@
++
+Index: tests/regressiontests/query_between_definitions/models.py
+===================================================================
+--- tests/regressiontests/query_between_definitions/models.py	(revision 0)
++++ tests/regressiontests/query_between_definitions/models.py	(revision 0)
+@@ -0,0 +1,29 @@
++"""
++Bug 11448: Querying a model fills the _related_*_cache, making relationships 
++added later invisible
++"""
++
++from django.db import models
++
++class City(models.Model):
++    name = models.CharField(max_length=50)
++    def __unicode__(self):
++        return self.name
++
++# We can't actually query as the table does not exist.
++# Next best thing is to manually call City._meta.init_name_map
++# City.objects.filter(name='Amsterdam')
++City._meta.init_name_map()
++
++class Street(models.Model):
++    city = models.ForeignKey(City)
++    name = models.CharField(max_length=50)
++    def __unicode__(self):
++        return self.name
++
++__test__  = {'API_TESTS':"""
++
++>>> City.objects.filter(street__name='Weteringschans')
++[]
++
++"""}

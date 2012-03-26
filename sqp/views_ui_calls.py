@@ -1,0 +1,142 @@
+
+from sqp import views_ui_functions
+
+calls = ({'name'             : 'predictionList',
+           'return_type'     : 'payload_meta_success', 
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.get_prediction_list},
+           
+           {'name'           : 'renderPredictions',
+           'return_type'     : 'payload_meta_success',
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.render_predictions},
+           
+           {'name'           : 'getPotentialImprovements',
+           'return_type'     : 'payload_meta_success',
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.get_potential_improvements},
+           
+           {'name'           : 'getXNames',
+           'return_type'     : 'direct',
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.get_xnames},
+           
+          {'name'            : 'characteristicSetList',
+           'return_type'     : 'payload_meta_success', 
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.get_characteristic_set_list},
+                              
+           {'name'           : 'questionList',
+            'return_type'    : 'payload_meta_success' ,
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_question_list},
+           
+            {'name'          : 'getNextQuestion',
+            'return_type'     : 'payload_meta_success', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_next_question},
+            
+            {'name'          : 'itemCanEdit',
+            'return_type'    : 'direct', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.item_can_edit},
+            
+            {'name'          : 'itemAutocomplete',
+            'return_type'    : 'direct', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.item_autocomplete},   
+            
+           {'name'           : 'studyList',
+           'return_type'     : 'payload_meta_success', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_study_list}, 
+            
+           {'name'           : 'countryList',
+            'return_type'     : 'payload_meta_success', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_country_list},
+            
+           {'name'           : 'languageList',
+            'return_type'     : 'payload_meta_success', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_language_list},   
+           
+           {'name'          : 'study',
+            'method'         : 'GET',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_study}, 
+            
+           {'name'           : 'study',
+            'method'         : 'DELETE',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.delete_study},
+             
+           {'name'           : 'study',
+            'method'         : 'PUT',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.create_or_update_study},
+           
+           {'name'           : 'study',
+            'method'         : 'POST',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.create_or_update_study},
+                                     
+           {'name'           : 'question',
+            'method'         : 'GET',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_question},
+           
+           {'name'           : 'question',
+            'method'         : 'DELETE',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.delete_question},
+            
+           {'name'           : 'question',
+            'method'         : 'PUT',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.create_or_update_question},
+           
+           {'name'           : 'question',
+            'method'         : 'POST',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.create_or_update_question},
+            
+           {'name'           : 'questionCodingHistory',
+            'method'         : 'GET',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_question_coding_history}, 
+            
+           {'name'           : 'coding',
+            'method'         : 'GET',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_coding}, 
+            
+           {'name'           : 'coding',
+            'method'         : 'PUT',
+           'return_type'     : 'payload_meta_success', 
+            'user_required'  : True,
+            'function'       : views_ui_functions.update_coding}, 
+                   
+          ) 

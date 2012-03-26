@@ -1,0 +1,78 @@
+{% extends "admin/base_site.html" %}
+{% load i18n l10n %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+     <a href="../../">{% trans "Home" %}</a> &rsaquo;
+     <a href="../">{{ app_label|capfirst }}</a> &rsaquo;
+     <a href="./">{{ opts.verbose_name_plural|capfirst }}</a> &rsaquo;
+     {% trans 'Confirm Question Assignment' %}
+</div>
+{% endblock %}
+
+{% block content %}
+
+	{% for obj in queryset %}
+		<div style="padding:20px;overflow:hidden">
+	   		<h2>Questions that will be assigned to users: {{obj}}</h2>
+	   		{% if obj.question_list.to_assign %}
+	   			<br>
+		   		<h3 style="color:green"> The following questions would be assigned:</h3>
+		   		<ul>{% for obj in obj.question_list.to_assign %}
+		   				<li >{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+		   	{% if obj.question_list.already_assigned %}
+		   	    <br>
+		   		<h3 style="color:#888"> The following question assignments already exist (and won't be changed):</h3>
+		   		<ul>{% for obj in obj.question_list.already_assigned %}
+		   				<li style="color:#999">{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+		   	
+		   	{% if obj.question_list.missing_questions %}
+		   	    <br>
+		   		<h3 style="color:red"> The following question assignments do not have matching question records:</h3>
+		   		<p style="font-weight:bold;">Please create the following questions in the admin first. After the questions are created you will be able to run this assignment.</p>
+		   		<ul>{% for obj in obj.question_list.missing_questions %}
+		   				<li style="color:red">{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+		   	
+		   	
+		   		
+		   	{% if obj.question_list.changed_questions %}
+		   	    <br>
+		   		<h3 style="color:orange"> The following question assignments would have their permissions changed:</h3>
+		   		<ul>{% for obj in obj.question_list.changed_questions %}
+		   				<li style="color:orange">{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+		   	
+	   	</div>
+    {% endfor %}
+    
+    
+    
+    {% if show_submit_form %}
+	
+		  <form action="" method="post">{% csrf_token %}
+		    <div>
+		    	{% for obj in queryset %}
+			   		 <input type="hidden" name="{{ action_checkbox_name }}" value="{{ obj.pk|unlocalize }}" />
+			    {% endfor %}
+			    <input type="hidden" name="action" value="run_assignments" />
+			    <input type="hidden" name="post" value="yes" />
+			    <input type="submit" value="{% trans "Yes, run the assignments" %}" />
+		    </div>
+	    </form>
+
+	{% endif %}
+
+ 
+
+{% endblock %}

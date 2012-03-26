@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SQP web Compare</title>
+
+<script type="text/javascript" src="/media/js/prototype.js"></script>
+<script type="text/javascript" src="/media/js/scriptaculous-js-1.8.1/src/scriptaculous.js"></script>
+<link rel="stylesheet" type="text/css" href="/media/css/admin/forms.css" />
+    <style type="text/css">
+        table.diff {font-family:Courier; border:medium;}
+        .diff_header {background-color:#e0e0e0}
+        td.diff_header {text-align:right}
+        .diff_next {background-color:#c0c0c0}
+/*        .diff_add {background-color:#aaffaa}
+        .diff_chg {background-color:#ffff77}
+        .diff_sub {background-color:#ffaaaa}
+*/
+        .different td.choice {
+            font-weight: bold;
+        }
+        table.choice {
+            width: 100%;
+        }
+        table.choice td.choice {
+            text-align: right;
+        }
+        div.comparison {
+            margin: 1.5em 0 1.5em 0;
+        }
+    </style>
+
+<script type="text/javascript" language="javascript"><!--
+function toggleDiffs(event) {
+    event.stop();
+    diffs = $$('tbody tr');
+//    diffs.each(toggle);
+    diffs.each(function(tr) { // toggle only those that are not different
+        if (!tr.up('table').hasClassName('choice'))
+        if ((tr.down('.different') == null) && !tr.hasClassName('different')) 
+            Effect.toggle(tr, 'appear', {   
+                queue : 'end',
+                duration: 0.35
+            });
+    });
+}
+
+document.observe('dom:loaded', function() {
+    $('toggleBtn').observe('click', toggleDiffs);
+
+    diffs = $$('span.diff_chg');
+    diffs.each(function(span) {
+        span.parentNode.parentNode.parentNode.parentNode.parentNode.
+            parentNode.addClassName('different');
+    });
+
+    diffs = $$('span.diff_add, span.diff_sub');
+    diffs.each(function(span) {
+        span.parentNode.parentNode.addClassName('different');
+    });
+});
+--></script>
+</head>
+<body>
+    <h1>Compare codings for same items, different countries/languages</h1>
+    <div id="tools">
+        <button id="toggleBtn">Toggle show only differences</button>
+        <button id="printBtn" onclick="window.print(); return false;">Print this page</button>
+    </div>
+
+    {%for comparison in comparisons%}
+    <div class="comparison">{{comparison|safe}}</div>
+    {%endfor%}
+</body></html>

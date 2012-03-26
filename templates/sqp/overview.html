@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <style type="text/css">
+            body {
+                font-family: Arial;
+            }
+            table.label {
+                margin-left: 2em;
+                margin-bottom: 1em;
+                font-weight: normal;
+            }
+            li {
+                font-weight: bold;
+            }
+        </style>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+    <body>
+    {%for char in characteristics%}
+    <li>{{char.id}}: {{char}}
+    <table class="label">
+        {%for label in char.label_set.iterator%}
+            <tr><td>{{label.code}}</td><td>{{label.name}}</td></tr>
+        {%endfor%}
+    </table>
+    </li>
+    {%endfor%}
+    </body>
+</html>

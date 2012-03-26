@@ -1,0 +1,54 @@
+{% extends "admin/base_site.html" %}
+{% load i18n l10n %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+     <a href="../../">{% trans "Home" %}</a> &rsaquo;
+     <a href="../">{{ app_label|capfirst }}</a> &rsaquo;
+     <a href="./">{{ opts.verbose_name_plural|capfirst }}</a> &rsaquo;
+     {% trans 'Confirm Question Creation' %}
+</div>
+{% endblock %}
+
+{% block content %}
+
+	{% for obj in queryset %}
+		<div style="padding:20px;overflow:hidden">
+	   		<h2>Creation Task: {{obj}}</h2>
+	   		{% if obj.question_list.to_create %}
+	   			<br>
+		   		<h3 style="color:green"> The following questions would be created:</h3>
+		   		<ul>{% for obj in obj.question_list.to_create %}
+		   				<li >{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+		   	{% if obj.question_list.already_exist %}
+		   	    <br>
+		   		<h3 style="color:#888"> The following questions already exist (and won't be created):</h3>
+		   		<ul>{% for obj in obj.question_list.already_exist %}
+		   				<li style="color:#999">{{obj}}</li>
+		   			{% endfor %}
+		   		</ul>
+		   	{% endif %}
+	   	</div>
+    {% endfor %}
+    
+    {% if show_submit_form %}
+	
+		  <form action="" method="post">{% csrf_token %}
+		    <div>
+		    	{% for obj in queryset %}
+			   		 <input type="hidden" name="{{ action_checkbox_name }}" value="{{ obj.pk|unlocalize }}" />
+			    {% endfor %}
+			    <input type="hidden" name="action" value="run_creations" />
+			    <input type="hidden" name="post" value="yes" />
+			    <input type="submit" value="{% trans "Yes, create the questions" %}" />
+		    </div>
+	    </form>
+
+	{% endif %}
+
+ 
+
+{% endblock %}

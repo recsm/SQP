@@ -1,0 +1,22 @@
+<script id="questionQualityPredictionOverview" type="text/html">
+	<h2 style="padding:6px 16px;margin-bottom:0px;">{{{predictionTitle}}}</h2>
+	<table class="resultTable" border="1" style="border-color:#ffdfd8;"   >
+		
+		<tr>
+			<td style="font-weight:normal">Reliability</td>
+			<th valign="bottom" style="color:orange;font-size:145%;font-weight:normal;">r<sup>2</sup></th>
+			<td valign="bottom" style="color:orange;font-size:160%;font-weight:normal;">{{question_reliability}}</th>
+		</tr>
+		<tr>
+			<td  style="font-weight:normal">Validity</td>
+			<th valign="bottom"  style="color:orange;font-size:145%;font-weight:normal;">v<sup>2</sup></th>
+			<td valign="bottom" style="color:orange;font-size:160%;font-weight:normal;">{{question_validity}}</td>
+		</tr>
+		
+		<tr>
+			<td  style="font-weight:bold;">Quality</td>
+			<th valign="bottom"  style="color:orange;font-size:145%">q<sup>2</sup></th>
+			<td valign="bottom" style="color:orange;font-size:160%">{{question_quality}}</td>
+		</tr>
+	</table>
+</script>

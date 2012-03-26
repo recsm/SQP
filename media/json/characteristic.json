@@ -1,0 +1,17 @@
+{"characteristic":
+		{
+		"id":1,
+		"qCharTitle":"Reference period",
+		"qCharText":"Does the question refer to the:",
+		"qCharRecomendation":"",
+		"qCharExplanationURI":"",
+		"qCharChoiceType": "OR",
+		"qCharChoiceList": {
+				"122":"Future",
+				"123":"Present",
+				"124":"Past",
+		},
+		"qCharChoice": "",
+		}
+	
+}

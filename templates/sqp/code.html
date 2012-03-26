@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+{% load markup %}
+<title>SQP: {{question}}</title>
+<link href="/media/css/code.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/media/css/prototip.css" />
+<script type="text/javascript" src="/media/js/prototype-1.6.0.2.js"></script>
+<script type='text/javascript' src='/media/js/prototip.js'></script>
+<script type="text/javascript">
+<!--
+minus = new Image(22,22); 
+minus.src = "/media/img/sqp/list-remove.png"; 
+
+document.observe('dom:loaded', function() {
+{%if perms.can_copy %}
+   new Tip('copy_tool', '<p> The Copy Tool is an optional tool that allows you to duplicate the codings chosen for another question into the codings for the present question. You will be able to change your choices afterwards.</p> <p>Choose the question from which you want to copy the codings by selecting the corresponding item, country, and language for that question. Then click <i>copy</i> to copy the codings for that question into the current question\'s codings.</p> <p>(The tool can be revealed by clicking on the plus sign).</p>', 
+     { title: 'What is the copy tool?', className:'protogrey', borderColor:'#ffffff' });
+{%endif%}
+{% for characteristic in characteristics %}{% if characteristic.desc%}
+    new Tip('tip_{{characteristic.id}}', "{{characteristic.desc|textile|escapejs}}", 
+       {className: 'protogrey', title:'{{characteristic|escapejs}}',  borderColor:'#ffffff'});
+{%endif%}{% endfor %}
+
+   $('rfa_text').onblur();
+   $('introduction_text').onblur();
+   $('answer_text').onblur();
+});
+
+function skipto(from_id, to_id, disable) {
+   var prev_disabled = $$('div.coding.disabled_by_' + from_id),
+       next_coding   = $(from_id).next('.coding')
+       i = 0;
+   for (i=0; i<prev_disabled.length; i++) {
+     enable_coding(prev_disabled[i], from_id);
+   }
+   while (next_coding != null && next_coding.id != to_id) {
+      disable_coding(next_coding, from_id);
+      next_coding = next_coding.next('.coding');
+   }
+}
+function disable_coding(coding_obj, disabled_by_id) {            
+   var form_elts = coding_obj.getElementsBySelector('input,textarea')
+       dontneed  = coding_obj.down('.dontneed'), 
+       i = 0;
+   coding_obj.addClassName('disabled');
+   coding_obj.addClassName('disabled_by_' + disabled_by_id);
+   for (i=0; i<form_elts.length; i++) {
+      form_elts[i].disabled = true;
+   }
+   dontneed.style.display = 'inline';
+}
+function enable_coding(coding_obj, disabled_by_id) {            
+   var form_elts = coding_obj.getElementsBySelector('input,textarea')
+       dontneed  = coding_obj.down('.dontneed'), 
+       i = 0;
+   coding_obj.removeClassName('disabled');
+   coding_obj.removeClassName('disabled_by_' + disabled_by_id);
+   for (var i=0; i<form_elts.length; i++) {
+      form_elts[i].disabled = false;
+   }
+   dontneed.style.display = 'none';
+}
+
+function toggle_plus() {
+   var el = document.getElementById('frm_copy');
+   if (el.style.display != 'none' ) {
+      el.style.display = 'none';
+      document.img_plus.src = '/media/img/sqp/list-add.png';
+   }
+   else {      
+      el.style.display = ''; 
+      document.img_plus.src = '/media/img/sqp/list-remove.png';
+   }
+}
+
+function update_rfa(text, language) {
+  text = text.replace(/\?/g,".");
+  var params = {language : language, original : text};
+  new Ajax.Updater('rfa_num_syllables', '/sqp/get_num_syllables/', 
+          {asynchronous:true, method:'post', parameters:params});
+  new Ajax.Updater('rfa_num_words', '/sqp/get_num_words/', 
+          {asynchronous:true, method:'post', parameters:params});
+  new Ajax.Updater('rfa_num_sentences', '/sqp/get_num_sentences/', 
+          {asynchronous:true, method:'post', parameters:params});
+  new Ajax.Updater('rfa_num_nouns', '/sqp/get_num_nouns/', 
+          {asynchronous:true, method:'post', parameters:params});
+}
+function update_int(text, language) {
+  text = text.replace(/\?/g,".");
+  if (text != "")   {
+    var radiobtn = $('rad_{{intro_available_id}}_{{lab_available_id}}'),
+        params   = {language : language, original : text};
+    new Ajax.Updater('int_num_syllables', '/sqp/get_num_syllables/', 
+            {asynchronous:true, method:'post', parameters:params});
+    new Ajax.Updater('int_num_words', '/sqp/get_num_words/', 
+            {asynchronous:true, method:'post', parameters:params});
+    new Ajax.Updater('int_num_sentences', '/sqp/get_num_sentences/', 
+            {asynchronous:true, method:'post', parameters:params});
+  }   
+  else {
+    var radiobtn = $('rad_{{intro_available_id}}_{{lab_not_available_id}}');
+  }
+  radiobtn.checked = true;
+  radiobtn.onclick();
+}
+function update_ans(text, language) {
+  text = text.replace(/\?/g,".");
+  var params = {language : language, original : text};
+  new Ajax.Updater('ans_num_syllables', '/sqp/get_num_syllables/', 
+         {asynchronous:true, method:'post', parameters:params});
+  new Ajax.Updater('ans_num_words', '/sqp/get_num_words/', 
+         {asynchronous:true, method:'post', parameters:params});
+  new Ajax.Updater('ans_num_nouns', '/sqp/get_num_nouns/', 
+          {asynchronous:true, method:'post', parameters:params});
+}
+-->
+</script>
+</head>
+<body>
+<table cellspacing="2" cellpadding="1" border="0" width="100%" id="main">
+<tr><td id="header">
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr><td><h1>Code Question:<br /> {{question}}</h1></td>
+   <td align="right"><input type="button" onClick="javascript:document.code_form.submit();" value="save codings" class="smb" /></td>
+   </tr></table>
+</td></tr>
+<tr><td id="text">
+<div id="tools">
+<hr/>
+
+{%if perms.can_copy %}
+<h3>Copy Tool <div id="copy_tool" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div>
+<a href="#" onclick="javascript:toggle_plus();"><img src="/media/img/sqp/list-add.png" name="img_plus" width="22" height="22" alt="open/close" /></a></h3>
+
+<form  action="" id="frm_copy" style="display:none;" method="get">
+<input type="hidden" name="action" value="copy" />
+<input type="hidden" name="cnt" value="{{current_cnt}}" />
+<input type="hidden" name="lan" value="{{current_lan}}" />
+<table><tr><td colspan="2">&nbsp;</td><td>Item</td><td>Country</td><td>Language</td><td>&nbsp;</td></tr>
+<tr><td><img src="/media/img/sqp/edit-redo.png" alt="tools" /></td><td>copy choices from: </td><td>{{copy_form.item}}</td><td>{{copy_form.country}}</td><td>{{copy_form.language}}</td><td><input type="submit" class="smb" value="copy!"/></td></tr></table>
+</form>
+<hr/>
+</div>
+{%endif%}
+{% if error %}
+<div class="error">
+<img src="/media/img/sqp/emblem-important.png" alt="alert" width="32" height="32"/>
+The following <b style="background-color: #aa0000; color: white;">errors</b> were found:
+   <ul>
+   {%for err in error%}<li>{{err}}</li>{%endfor%}
+   </ul>
+</div>
+{%endif%}
+
+<form id="code_form" name="code_form"  action="" method="post">
+Introduction text:<br/>
+<textarea name="introduction_text" id="introduction_text" >{%if question.introduction_text%}{{question.introduction_text}}{%endif%}</textarea><br/>
+Request for an Answer text:<br/>
+<textarea name="rfa_text" id="rfa_text" >{%if question.rfa_text%}{{question.rfa_text}}{%endif%}</textarea><br/>
+Answer categories text:<br/>
+<textarea name="answer_text" id="answer_text" >{%if question.answer_text%}{{question.answer_text}}{%endif%}</textarea>
+
+{% for characteristic in characteristics %}
+<div class="coding{%if characteristic.disabled%} disabled{%endif%}" id="char_{{characteristic.id}}">
+ <h3>{{characteristic}}
+{%if characteristic.desc%}
+   <div id="tip_{{characteristic.id}}" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div>
+{%endif%}
+</h3>
+{% ifequal characteristic.widget.name "textfield" %}
+<textarea rows="6" cols="100" name="characteristic_{{characteristic.id}}" class="textfield"{%if characteristic.disabled%} disabled="disabled"{%endif%}>{%if characteristic.coding %}{{characteristic.coding.choice}}{%endif%}</textarea><br />
+{% endifequal %}
+{% ifequal characteristic.widget.name "numeric" %}
+<input name="characteristic_{{characteristic.id}}" class="numeric" value="{%if characteristic.coding %}{{characteristic.coding.choice}}{%endif%}"{%if characteristic.disabled%} disabled="disabled"{%endif%} autocomplete="off"/>
+{% endifequal %}
+{% ifequal characteristic.widget.name "radiobuttons" %}
+  {% for label in characteristic.label_set.all %}
+  <input 
+   name="characteristic_{{characteristic.id}}" 
+   class="radio" type="radio"  value="{{label.code}}" 
+   {%if characteristic.coding%}{% ifequal characteristic.coding.choice label.code%}checked{%endifequal%}{%endif%} 
+   id="rad_{{characteristic.id}}_{{label.id}}"
+   {%if characteristic.disabled%} disabled="disabled"{%endif%}
+   {%if label.skip_to %}onclick="skipto('char_{{characteristic.id}}','char_{{label.skip_to.id}}', true);"{% endif %}
+   />
+   <label for="rad_{{characteristic.id}}_{{label.id}}"{%if characteristic.disabled%} disabled="disabled"{%endif%}>{{label}}</label><br/>
+  {% endfor %}<br />
+{% endifequal %}
+{% if characteristic.suggestion_id %}<div id="{{characteristic.suggestion_id}}" class="suggestion"></div>{% endif %}
+  <div class="dontneed" {%if characteristic.disabled%}style="display: inline;"{%endif%}
+>You do not need to answer this question because of a choice you made previously.</div>
+</div>
+{% endfor %}
+
+<p id="save_p"><img src="/media/img/sqp/document-save.png" alt="Click the button to save your codings for this question in the database." width="32" height="32"/>&nbsp;
+<input type="submit" value="save codings" class="smb"/></p>
+</form>
+</td></tr>
+</table>
+</body>
+</html>

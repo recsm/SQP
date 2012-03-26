@@ -1,0 +1,122 @@
+{% extends "sqp/right_main.html" %}
+{% load markup %}
+{% block header %}
+{%ifnotequal characteristic.widget.name 'just_a_text'%}
+{% if characteristic.desc%}
+<script type="text/javascript">
+<!--
+document.observe('dom:loaded', function() {
+
+
+    new Tip('tip_{{characteristic.id}}_wrap', 
+        "Click this question mark to show or hide an explanation.", 
+        {className: 'protogrey', 
+        stem: 'bottomLeft',
+	    hook: { target: 'topRight', tip: 'bottomLeft' }
+        });
+
+    new Tip('tip_{{characteristic.id}}', 
+        "{{characteristic.desc|textile|escapejs}}", 
+        {className: 'hint sqp_help', 
+        title:'Help for &quot;{{characteristic|escapejs}}&quot;<br/><span style="font-weight: normal;">(click the question mark again to close</span>)',  
+        showOn: 'click',
+		hideOn: 'click',
+        stem: 'bottomLeft',
+	    hook: { target: 'topRight', tip: 'bottomLeft' }
+        });
+});
+-->
+</script>
+{%endif%}{%endifnotequal%}
+{% endblock %}
+
+{% block question %}
+
+<input type="hidden" name="prev_char_id" value="{{prev_char_id}}">
+<input type="hidden" name="characteristic_id" value="{{characteristic.id}}">
+<input type="hidden" name="start_time" value="{{start_time}}">
+
+<h3>
+{%ifnotequal characteristic.widget.name 'just_a_text'%}
+{%if characteristic.desc%}
+    <div id="tip_{{characteristic.id}}_wrap" class="tip"><div id="tip_{{characteristic.id}}" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div></div>
+{%endif%}
+{%endifnotequal%}
+{{characteristic}}
+</h3>
+{% if suggestion %}<div id="suggestion" class="{{suggestion_class}}">{{suggestion|safe}}</div>{% endif %}
+{% ifequal characteristic.widget.name "textfield" %}
+<textarea rows="6" cols="100" name="choice" class="textfield"{%if characteristic.disabled%} disabled="disabled"{%endif%}>{%if characteristic.coding %}{{characteristic.coding.choice}}{%endif%}</textarea><br />
+{% endifequal %}
+{% ifequal characteristic.widget.name "numeric" %}
+<input name="choice" class="numeric" value="{%if characteristic.coding %}{{characteristic.coding.choice}}{%endif%}"{%if characteristic.disabled%} disabled="disabled"{%endif%} autocomplete="off"/>
+{% endifequal %}
+{% ifequal characteristic.widget.name "radiobuttons" %}
+<table border="0">
+{% for label in characteristic.label_set.all %}
+<tr><td><label for="rad_{{characteristic.id}}_{{label.id}}">{{label.code}}</label></td>
+<td>
+  <input 
+   name="label" 
+   class="radio" type="radio"  value="{{label.code}}" 
+   {%if characteristic.coding%}{% ifequal characteristic.coding.choice label.code%}checked{%endifequal%}{%endif%} 
+   id="rad_{{characteristic.id}}_{{label.id}}"
+   /></td>
+<td class="choice"><label class="choice" for="rad_{{characteristic.id}}_{{label.id}}">{{label.name}}</label></td>
+</tr>
+{% endfor %}</table>
+{% endifequal %}
+{% ifequal characteristic.widget.name "just_a_text" %}
+{{characteristic.desc|textile}}
+{% endifequal %}
+{% if characteristic.suggestion_id %}<div id="{{characteristic.suggestion_id}}" class="suggestion"></div>{% endif %}
+<br/>
+<table border="0"><tr>
+{%if previous_characteristic%}
+<td>
+<input type="button" onclick="window.location='?skip_to_char={{previous_characteristic.id}}'"
+id="prev_btn" value="Previous characteristic" />
+</td>
+{%endif%}
+<td><input type="submit" value="Next characteristic" id="smb_next" class="smb" name="smb_next"/></td>
+</tr></table>
+</form>
+{%if perms.can_copy%}
+{% if copy_form %}
+<p><b>OR</b></p>
+<h4>Use the Copy Tool <div id="tip_copy" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div></h4>
+<form action="" id="copy_form" name="copy_form" method="post">
+<input type="hidden" name="action" value="copy" />
+<div id="copy_from">Copy choices from:</div>
+<table>
+<tr>
+<td>Study</td><td>{{copy_form.study}}</td>
+<td rowspan="4" id="copy_td" valign="bottom">
+<input type="submit" name="copy_submit" class="smb" value="Copy!"/></td></tr>
+<tr><td>Item</td><td><div id="item_div">{{copy_form.item}}</div></td></tr>
+<tr><td>Country</td><td>{{copy_form.country}}</td></tr>
+<tr><td>Language</td><td>{{copy_form.language}}</td><td></tr>
+</table>
+</form>
+<script type="text/javascript" language="javascript"><!--
+   new Tip('tip_copy', '<p> The Copy Tool is an <b>optional tool</b> that allows you to duplicate the codings chosen for another question into the codings for the present question. You will be able to change your choices afterwards.</p> <p>Choose the question from which you want to copy the codings by selecting the corresponding item, country, and language for that question. Then click <i>copy</i> to copy the codings for that question into the current question\'s codings.</p>', 
+       {className: 'hint sqp_help', 
+        showOn: 'click',
+		hideOn: 'click',
+        stem: 'bottomLeft',
+	    hook: { target: 'topRight', tip: 'bottomLeft' },
+        title:'What is the copy tool?'
+  });
+    // When study is changed, reload to show a different set of items
+    Event.observe('id_study', 'change', function(event) { 
+        $('item_div').innerHTML = '<img src="/media/img/sqp/ajax-loader.gif" />';
+        new Ajax.Updater('item_div',
+           '/sqp/copy_form/{{question.id}}/', {
+           method: 'post',
+           parameters: $('copy_form').serialize(true)
+        });
+    });
+--></script>
+{% endif %}
+{% endif %}
+{% endblock %}

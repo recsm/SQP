@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+{% load markup %}
+<title>SQP: {{question}}</title>
+<link href="/media/css/code.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/media/js/prototype.js"></script>
+<script type="text/javascript">
+<!--
+document.observe('dom:loaded', function() {
+    top.reload_question({{question.id}});
+});
+-->
+</script>
+</head>
+<body>
+<div id="header">
+ <h1>Code Question &quot;{{question}}&quot;</h1>
+</div>
+<div id="text">
+<div class="success">
+<h2>Congratulations!</h2>
+<p>Your codes for the question {{question}} have been saved.</p>
+</div>
+{%if question.introduction_text%} Introduction text:<br/> 
+<div class="question_text">{{question.introduction_text|textile}}</div>{%endif%}
+{%if question.rfa_text%} Request for an Answer text:<br/> 
+<div class="question_text">{{question.rfa_text|textile}}</div>{%endif%}
+{%if question.answer_text%} Answer categories text:<br/> 
+<div class="question_text">{{question.answer_text|textile}}</div>{%endif%}
+
+<p>Please look over the choices you made below and verify that they have been coded correctly:</p>
+
+<div id="history">
+<table cellpadding="3" cellspacing="0" class="data"><thead>
+<tr><th style="text-align: left;">Characteristic</th><th align="right">Choice</th><th align="right">Code</th></tr></thead>
+<tbody>{% for branch in history %}{%if branch%}
+<tr class="{%cycle 'row1' 'row2'%}"><td><a href="?skip_to_char={{branch.label.characteristic.id}}">
+    {{branch.label.characteristic}}</a></td>
+    <td class="datafield">{% with branch.label.name as label %}
+        {% ifnotequal label 'True' %}{{label}}{%else%}{{coding.choice}}{% endifnotequal %}
+    {% endwith %}
+    </td>
+<td class="datafield">{{branch.coding_choice}}</td>
+</tr></tbody>
+{% endif %}{% endfor %}
+</table></div>
+
+<p><b>What do you want to do next?</b></p>
+<div id="button">
+<ul>
+<li><a href="/sqp/code/{{question.id}}/"><img src="/media/img/sqp/go-jump.png" width="22" height="22" alt="next" align="left"/>I want to recode this question from the start</a></li>
+<li>
+<a href="#" onclick="top.edit_item({{next_id}});" title="Code next item">
+<img src="/media/img/sqp/go-next.png" width="22" height="22" alt="next" align="left"/>I want to code the next question in the list</a></li>
+</ul>
+</div>
+
+</div>
+</body>
+</html>

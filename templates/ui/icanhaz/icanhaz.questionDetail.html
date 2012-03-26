@@ -1,0 +1,215 @@
+
+
+<script id="questionDetail" type="text/html">
+
+{{^isPreview}}
+	<div class="block">
+		<h4 class="blockHeader">Question</h4>
+		<div class="blockContent">
+{{/isPreview}}	
+			
+			<h2><span class="qListQuestionItemCode">{{ itemCode }}</span>
+		    {{#itemName}}
+		     <span style="color:#999">/</span>
+		     <span class="qListQuestionItemName">{{ itemName }}</span>
+		    {{/itemName}}
+		    
+		    {{#itemDescription}}
+		      <span style="color:#999">/</span>
+		      <span class='qListQuestionItemDescription'>{{itemDescription}}</span><br>
+		    {{/itemDescription}}
+		    <span style="font-weight:normal;font-size:.8em;">{{studyName}}  {{country}} - {{language}}</span>
+		    </h2>
+		    
+			<div class="questionText">
+				<div style="width:380px;float:left;">
+					{{#introText}}
+						<h5 style="clear:both;">Introduction Text:</h5>
+						<p id="introText" {{#rtl}} dir="rtl" {{/rtl}}>{{introText}}</p>
+					{{/introText}}
+					<h5>Request for Answer Text: </h5>
+					<p id="requestForAnswerText" {{#rtl}} dir="rtl" {{/rtl}}>{{requestForAnswerText}}</p>
+				</div>
+				<div style="width:300px;float:left;">
+					<h5>Answer options:</h5> 
+					<ul id="answerOptionsTexts" {{#rtl}} dir="rtl" {{/rtl}}>
+						{{#answerOptionsTexts}}
+							 <li>{{.}}</li> 
+						{{/answerOptionsTexts}}
+					</ul>
+					
+				</div>
+				<div style="clear:both;">
+				</div>
+				{{#canEditText}}
+					<div class="buttonHolder">
+						<button class="buttonEditQuestion btn" >Edit Question</button>
+					</div>
+				{{/canEditText}}
+			</div>	
+			<p class="showQuestionTextLinkHolder" style="display:none;">
+				<a class="showQuestionText hlinkclass"> + Show Question Text </a>
+			</p>
+			<p class="hideQuestionTextLinkHolder" style="display:none;clear:left;">
+				<a class="hideQuestionText hlinkclass"> - Hide Question Text </a>
+			</p>
+			
+			
+			
+			
+			
+			
+			{{#showMTMM}}{{#hasMTMM}}
+				<div class="MTMMInfoHolder">
+					{{#isPreview}}
+							<p><a class="hlinkclass hideMTMM">&lt;&lt; Back to Question Overview</a></p>
+					{{/isPreview}}
+					
+					<div  style="float:left;" class="MTMMInfo">
+						
+						
+						<div style="padding:10px;">
+							<h2 style="color:#564829"><img title="MTMM Estimate"  style="vertical-align:text-middle;" src="/media/img/ui/m.png" /> MTMM Results</h2>
+							{{^isPreview}}
+							<p>This question was included in a  Multi-Trait Multi-Method (MTMM) experiment
+			                    to estimate the quality of this question. The following table
+			                   lists the results of that experiment.</p>
+			                 {{/isPreview}}
+			             </div>
+						<table valign="bottom" border="1" style="border-color:#E7D7B3;" class="resultTable">
+							<tr>
+								<td></td>
+								<td></td>
+								<th style="font-weight:normal">Estimate</th>
+								<th style="font-weight:normal">95% Confidence interval</th>
+							</tr>
+							<tr>
+								<th valign="bottom" style="font-weight:normal" >Reliability</th>
+								<th valign="bottom" style="font-size:145%">r<sup>2</sup></th>
+								<td valign="bottom" style="font-size:145%;color:#564829">{{MTMM_rel2}}</td>
+								<td valign="bottom" style="font-size:135%;color:#A2884D">
+								<span style="color:#C3B597;">(</span>
+								{{MTMM_rel2Lo}}<span style="color:#C3B597;">,</span>
+								{{MTMM_rel2Hi}}
+								<span style="color:#C3B597;">)</span>
+								</td>
+							</tr>
+							<tr>
+								<th valign="bottom" style="font-weight:normal" >Validity </th>
+								<th valign="bottom" style="font-size:145%">v<sup>2</sup></th>
+								<td valign="bottom" style="font-size:145%;color:#564829">{{MTMM_val2}}</td>
+								<td valign="bottom" style="font-size:135%;color:#A2884D">
+								<span style="color:#C3B597;">(</span>
+								{{MTMM_val2Lo}}<span style="color:#C3B597;">,</span>
+								{{MTMM_val2Hi}}
+								<span style="color:#C3B597;">)</span></td>
+							</tr>
+							<tr>
+								<th valign="bottom" style="font-weight:normal">Quality </th>
+								<th valign="bottom" style="font-size:145%">q<sup>2</sup></th>
+								<td valign="bottom" style="font-size:145%;color:#564829">{{MTMM_qual2}}</td>
+								<td valign="bottom" style="font-size:135%;color:#A2884D">
+								<span style="color:#C3B597;">(</span>
+								{{MTMM_qual2Lo}}<span style="color:#C3B597;">,</span>
+								{{MTMM_qual2Hi}}
+								<span style="color:#C3B597;">)</span>
+								</td>
+							</tr>
+						</table>
+					</div>
+					
+					{{#hasAuthorizedPrediction}}
+						{{#authorizedPrediction}}
+						    <h2><img title="Authorized Prediction"  style="padding:3px;vertical-align:middle" src="/media/img/ui/a.png" /> Authorized Prediction Available</h2>
+						    <p> <a class="hlinkclass" href="#questionPrediction/{{id}}/{{completionId}}">Compare the MTMM Estimate and the Authorized Quality Prediction for this Question &gt;&gt;</a> </p>
+						{{/authorizedPrediction}}
+					{{/hasAuthorizedPrediction}}
+					
+				</div>
+			{{/hasMTMM}}{{/showMTMM}}
+			
+			<div style="clear:both;">
+			</div>
+			
+			{{#isPreview}}
+			<div class="questionPreview">
+				<table class="questionSummaryTable">
+					<tr>
+						<th>Information</th>
+						<th>Quality</th>
+						<th>Options</th>
+					</tr>
+				
+					{{#hasMTMM}}
+						<tr>
+							<td><img title="MTMM Estimate"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" />
+									MTMM Estimate
+							</td>
+							<td class="questionPreviewQuality">{{MTMM_qual2}}</td>
+							<td><a class="hlinkclass viewMTMM">View MTMM Results &gt;&gt; </a></td>
+						</tr>
+					{{/hasMTMM}}
+					
+					{{#hasAuthorizedPrediction}}
+						{{#authorizedPrediction}}
+							<tr>
+								<td><img title="Authorized Prediction"  style="padding:3px;vertical-align:middle" src="/media/img/ui/a.png" />
+								{{#ownPredictionIsAuthorized}}
+								<img title="My Quality Prediction"  style="padding:3px;vertical-align:middle" src="/media/img/ui/mine.png" /> 
+								{{/ownPredictionIsAuthorized}}
+								    Authorized Prediction
+								    {{#ownPredictionIsAuthorized}}
+										(mine)
+									{{/ownPredictionIsAuthorized}}
+								    </td>
+								<td class="questionPreviewQuality">{{predictionQuality}}</td>
+								<td><a class="hlinkclass" href="#questionPrediction/{{id}}/{{completionId}}">View Prediction Detail &gt;&gt;</a></td>
+							</tr>
+						{{/authorizedPrediction}}
+					{{/hasAuthorizedPrediction}}
+					
+					{{#hasOtherPredictions}}
+						{{#otherPredictions}}
+							<tr>
+								<td><img title="User Prediction Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/u1.png" />
+								User Prediction by {{user}}</td>
+								<td class="questionPreviewQuality">{{predictionQuality}}</td>
+								<td><a class="hlinkclass" href="#questionPrediction/{{id}}/{{completionId}}">View Prediction Detail &gt;&gt;</a></td>
+							</tr>
+						{{/otherPredictions}}
+					{{/hasOtherPredictions}}
+					
+					{{^ownPredictionIsAuthorized}}
+						<tr>
+							<td><img title="My Quality Prediction"  style="padding:3px;vertical-align:middle" src="/media/img/ui/mine.png" /> My Quality Prediction</td>
+							{{#predictionQuality}}
+							<td class="questionPreviewQuality">{{predictionQuality}}</td>
+							<td><a class="hlinkclass" href="#questionPrediction/{{id}}">View My Prediction &gt;&gt;</a></td>
+							{{/predictionQuality}}
+							{{^predictionQuality}}
+							<td></td>
+							<td><a class="hlinkclass" href="#questionCoding/{{id}}">Code question to create my own quality prediction &gt;&gt;</a></td>
+							{{/predictionQuality}}
+						</tr>
+					{{/ownPredictionIsAuthorized}}
+					
+				</table>
+			</div>
+			{{/isPreview}}
+			
+			{{#showPredictionIntro}}
+				<hr>	
+				<h4>Your Quality Prediction for this Question</h4>
+				<p>View a prediction of the quality of this question based on the choices made for each characteristic.</p>
+				<button class="btn getQualityPrediction">View Quality Prediction &gt;</button>
+				<br>
+				
+			{{/showPredictionIntro}}
+			
+		</div>
+		<div style="clear:both"> </div>
+			
+{{^isPreview}}			
+	</div>
+{{/isPreview}}
+</script>

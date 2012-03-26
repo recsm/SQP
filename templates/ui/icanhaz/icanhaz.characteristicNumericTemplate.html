@@ -1,0 +1,50 @@
+
+<script id="characteristicNumericTemplate" type="text/html">
+	<div class="block">
+		<h4 class="blockHeader">Selected Characteristic</h4>
+		<div class="blockContent">
+			<h2>{{ characteristicName }}</h2>
+			{{#characteristicDesc}}
+				<div class="characteristicDesc">
+					<div class="characteristicDescIntro">
+						<h4 class="characteristicDescTitle">{{ characteristicName }}</h4>
+						{{{characteristicDescIntro}}}
+					</div>
+					{{#showMore}}
+					    <span class="readFullDesc hlinkclass"> more&nbsp;&gt;&gt;</span>
+					    <div class="characteristicDescFullShadow"></div>
+						<div class="characteristicDescFull">
+						 	<span class="hideFullDesc hlinkclass ui-icon ui-icon-circle-close" title="Close Description"></span>
+							<h4 class="characteristicDescTitle">{{ characteristicName }}</h4>
+							{{{characteristicDesc}}}
+						</div>
+					{{/showMore}}
+				</div>
+			{{/characteristicDesc}}
+			
+			{{#canEdit}}
+				<label for="numeric" class="mainLabel">Please enter a whole number value for this characteristic:</label>
+				<input style="float:left;"  type="text" class="characteristicNumericInput" name="numeric" value="{{#hasBeenAnswered}}{{choice}}{{/hasBeenAnswered}}{{^hasBeenAnswered}}{{suggestion}}{{/hasBeenAnswered}}"/>
+				{{#isAutoFilled}}
+					<p class="suggestionAutoFilledNumeric suggestionAutoFilledNotice"  title="Suggestion Autofilled - A suggested value of {{choice}} has been filled in automatically. Please check the suggested value before continuing.">
+					   <img style="vertical-align:bottom" src="/media/img/ui/icon_suggestion.png" height="22" width="22" title="Suggestion Autofilled - A suggested value of {{choice}} has been filled in automatically. Please check the suggested value before continuing."/> 
+					   Autofilled
+					</p>
+				{{/isAutoFilled}}
+				<img class="valueIncorrectIcon" style="vertical-align:bottom" src="/media/img/ui/icon_error.png" height="22" width="22" title="Value Incorrect"/> 
+				<p class="errorInfo"></p>
+				<div class="suggestionInfo" style="clear:left;padding-top:10px;"></div>
+			{{/canEdit}}
+			{{^canEdit}}
+				<label class="mainLabel" style="color:#555555" >Selected Choice:</label>
+				<p style="font-weight:bold;color:#E48128;font-size:1.3em;">{{ choice }}</p>
+			{{/canEdit}}
+			
+			
+			<div class="buttonHolder">
+				<button class="buttonPrevious btn" >&lt; Previous</button><button class="buttonSubmitNumeric btn " >Next  &gt;</button>
+			</div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</script>

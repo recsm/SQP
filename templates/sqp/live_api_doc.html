@@ -1,0 +1,101 @@
+<html>
+	<head>
+		<link href="/media/v2/live_docs/shCore.css" rel="stylesheet" type="text/css" />
+	    <link type="text/css" rel="Stylesheet" href="/media/v2/live_docs/shThemeDefault.css"/>
+	    <script type="text/javascript" src="/media/v2/live_docs/shCore.js"></script>
+	    <script type="text/javascript" src="/media/v2/live_docs/shBrushPython.js"></script>
+		<title>SQP API Documentation</title>
+		<style>
+		body {
+			font-family:arial,sans-serif;
+			font-size:16px;
+			background-color:#f9f7f7;
+		}
+		 
+		a, #function_name {
+			color:#22f;
+			text-decoration:none;
+		}
+		
+		a:hover {
+			color:#44e;
+			background-color:#eef;
+		}
+		
+		#menu, #menu li {
+			list-style:none;
+			margin:0px 1px;
+			padding:0px;
+		}
+		
+		#menu a {
+			display:block;
+			line-heigh:22px;
+			width:220px;
+			padding:6px;
+		}
+		h2 { color:#666}
+		h1,h2 {
+			text-shadow: 3px 3px 5px #999;
+		}
+		
+		h3 {
+			text-shadow: 3px 3px 2px #aaa;
+		}
+		</style>
+	</head>
+	<body>
+	    <h2>SQP API Documentation</h2>
+	    <div style="width:25%;float:left;">
+	    	<h3>API Calls</h3>
+	    	<ul id="menu">
+		    	{% for call in calls %}
+					<li><a href="/sqp/api/doc/{{call.name}}/{{call.method}}/">{{call.name}} - {{call.method}}</a></li>
+				{% endfor %}
+			</ul>
+	    </div>
+	    <div style="width:73%;float:left;">
+			<h1>{{selected_call.name}}   <span style="font-size:60%"> via {{selected_call.method}}</span></h1>
+			<h2 id="function_name">handled by {{function_name}}</h2>
+			<pre style="font-size:22px;font-family:arial,sans-serif;font-weight:normal;color:#44e">{{function_doc}}</pre>
+		
+			<h3>Required Arguments</h3>
+			{% if expected_args %}
+			   <ul>
+				{% for arg in expected_args %}
+					<li>{{arg}}</li>
+				{% endfor %}
+				</ul>
+			{% else %}
+			 	<p>This call does not expect any arguments</p>
+			{% endif%}
+			
+			
+			<h3>Optional Arguments</h3>
+			{% if default_args %}
+			   <ul>
+				{% for arg in default_args %}
+					<li>{{arg.name}} : default '{{arg.value}}'</li>
+				{% endfor %}
+				</ul>
+			{% else %}
+			 	<p>This call does not have any optional arguments</p>
+			{% endif%}
+			
+				
+			<h3>Return Method</h3>
+			<p>{{selected_call.return_type}}</p>
+			
+			<h3>Function Source</h3>
+			<h4>{{function_file}} on line {{function_line}} </h4>
+			<pre class="brush: py" >{% for line in source_lines %}{{line}}{% endfor %}
+			
+			</pre>
+			<p></p>
+		</div>
+		<!-- run the highlighter -->
+		<script type="text/javascript">
+		     SyntaxHighlighter.all()
+		</script>
+	</body>
+</html>

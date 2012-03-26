@@ -1,0 +1,16 @@
+<!-- ICanHaz templates -->
+<script id="codingListItem" type="text/html">
+	<td class="characteristicRow_first characteristicRow_{{ characteristicId }}">
+	
+	{{#completionId}}
+		<a href='#characteristic/{{ characteristicId }}/question/{{ questionId }}/{{completionId}}'>
+	{{/completionId}}
+	{{^completionId}}
+		<a href='#edit/characteristic/{{ characteristicId }}/question/{{ questionId }}'>
+	{{/completionId}}
+	
+		{{ characteristic }} 
+	</a></td>
+	<td class='characteristicRow_{{ characteristicId }} hlinkclass'>{{ choice }} </td>
+	<td class='characteristicRow_{{ characteristicId }} hlinkclass'>{{ code }}</td>
+</script>

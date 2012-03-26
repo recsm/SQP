@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="/media/admin/css/base.css" />
+
+    <title>MTMM report</title>
+
+    <style><!---
+        th.method-column { text-align: middle; }
+        td.estimate-cell { text-align: right; }
+        div.info {
+            font-style:italic;
+            margin-left: 1em;
+        }
+        td.country { 
+            background-repeat: no-repeat;
+            background-position: right;
+        } 
+    -->
+    </style>
+</head>
+<body>
+<h1>MTMM report</h1>
+
+<div class="info">
+    Experiment: {{exp}} ({{dat.model_version}})<br/>
+    {{study}}
+</div>
+{% spaceless %}
+
+<table>
+    <thead>
+        <tr><th colspan="3"></th>{% for item in items %}
+            {%ifchanged item.method%}
+                {%ifnotequal item items|first%}</th>{%endifnotequal%}
+            <th class="method-column" colspan="{{item.method_count}}">{{item.method}}
+            {%endifchanged%}
+        {%endfor%}</th></tr>
+        <tr><th colspan="3"></th>{% for item in items %}
+            <th>{% ifequal dat.display_name 'trait' %}{{item.trait}}
+                {% else%}
+                {% ifequal dat.display_name 'admin' %}{{item.admin}}
+                {%else%}{{item.name}}
+                {% endifequal %}
+                {%endifequal%} {%if debug%}({{item.id}}){%endif%}</th>
+        {%endfor%}</tr>
+    </thead>
+<tbody>
+{% for par in parameters %}
+{% ifchanged par.question.country %}
+{% ifnotequal par parameters|first %}</tr>{%endifnotequal%}
+<tr><td colspan="3" style="background-image: url('http://sqp.nl/media/img/flags/24/{{par.question.country.iso|lower}}.png');" class="country">{{ par.question.country }}
+</td></tr>
+{% endifchanged %}
+{% ifchanged par.question.language %}
+{% ifchanged par.question.country %}{%else%}
+{% ifnotequal par parameters|first %}</tr>{%endifnotequal%}
+{% endifchanged %}
+
+<tr><td>&nbsp;</td><td colspan="2">{{ par.question.language }}</td>
+    
+{% endifchanged %}
+{% ifchanged par.parameter_name %}
+{% ifchanged par.question.language %}{%else%} </tr> {% endifchanged %}
+<tr><td>&nbsp;</td><td>&nbsp;</td>
+    <td> {{ par.parameter_name }} </td>
+{% endifchanged %}
+
+<td class="estimate-cell">{{ par.estimate|floatformat:dat.number_of_digits }}
+    {%if debug%}({{par.question.item.id}}, {{par.model}}){%endif%}</td>
+
+{% endfor %}
+</tr></tbody></table>
+</body>
+{% endspaceless %}
+</html>
+

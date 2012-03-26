@@ -1,0 +1,159 @@
+{%load markup%}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+        <title>Codebook for {{charset}}</title>
+        <style type="text/css"><!--
+            @font-face {
+               font-family: "Frutiger CE 45 Light";
+               src: url('/usr/share/fonts/truetype/Frutiger/Frutiger CE 45 Light.ttf');
+            }
+            @font-face {
+               font-family: "Frutiger CE 45 Light";
+               src: url('/usr/share/fonts/truetype/Frutiger/Frutiger CE 55 Roman.ttf');
+               font-weight: bold;
+            }
+            @font-face {
+               font-family: "Frutiger CE 45 Light";
+               src: url('/usr/share/fonts/truetype/Frutiger/Frutiger CE 46 Light Italic.ttf');
+               font-style: italic;
+            }
+        pdftoc {
+            color: #666;
+        }
+        pdftoc.pdftoclevel0 {
+            font-weight: bold;
+            margin-top: 0.5em;
+        }
+        pdftoc.pdftoclevel1 {
+            margin-left: 1em;
+        }
+        pdftoc.pdftoclevel2 {
+            margin-left: 2em;
+            font-style: italic;
+        } 
+            @page {
+                -pdf-page-orientation: portrait;
+                -pdf-page-size: a4;
+                @frame {
+                    		margin: 2cm 2cm 4cm 2cm;
+                }
+                @frame footer {
+                    -pdf-frame-content: footerContent;
+           			bottom: 2cm;
+                    left: 4cm;
+                    right: 2cm;
+                    height: 1cm;
+                }
+            } 
+
+            body, * {
+                font-family: "Frutiger CE 45 Light";
+            }
+            strong {
+                font-family: "Frutiger CE 55 Roman";
+                font-weight: normal;
+                font-style: normal;
+            }
+            table { 
+                margin-bottom: 1em; 
+            }
+            table.wrapper {
+                margin: 1em 0 1em 0;
+                -pdf-keep-in-frame-mode: shrink;
+            }
+            td.desc {
+                padding: 0.3em;
+                width: 70%;
+                border: 1px solid darkgrey;
+                background-color: #e5e5f7;
+                margin: 0 0 1em 0.5em;
+                font-size: small;
+            }
+            div.characteristic {
+                height: 100%;
+                width: 100%;
+               	page-break-before: avoid;
+            }
+            div.characteristic .contents {
+                margin: 1em;
+            }
+            ol.labels, div.type {
+                margin: 0;
+            }
+            div.rules {
+                font-size: small;
+            }
+            div.rules ul {
+                margin: 0;
+                padding-right: 10em;
+            }
+            h1 {
+                font-size: 30pt;
+                page-break-after: always;
+            }
+            h2 { 
+                border-bottom: 1px solid grey;
+                margin-top: 2em;
+            }
+            h1, h2 {
+               -pdf-outline: true;
+               -pdf-outline-open: true;
+            }
+            h3, h4 {
+              -pdf-outline: false;
+            }
+            blockquote, em {
+                font-style: italic;
+                font-weight: normal;
+            }
+        -->
+        </style>
+	</head>
+	<body>
+        <h1>SQP Codebook for {{charset}}</h1>
+
+
+        {% for char in characteristics %}
+        <table cellspacing="0" cellpadding="0" class="wrapper"><tr><td>
+        <div class="characteristic" id="char_{{char.id}}">
+	    <h2>{{char}} [{{char.short_name}}]</h2>
+        <div class="contents">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr><td valign="top">
+        {% if char.is_categorical %}
+        <ul class="labels">
+        {% for label in char.label_set.all %}
+            <li>{{label.code}}: {{ label.name }}</li>
+        {% endfor %}
+        </ul>
+        {% else %}
+        <div class="type">Type of characteristic: {{char.widget}}</div>
+        {% endif %}
+        </td>
+        {% if char.desc %}<td valign="top" class="desc">{{char.desc|textile}}</td>{% endif %}
+        </table>
+        {% if char.validation_rules.all %}
+        <div class="rules">
+        The following rules are enforced when coding this characteristic:
+            <ul>
+            {% for rule in char.validation_rules.all %}
+                <li>{{rule.failure_message|capfirst}}</li>
+            {% endfor %}
+            </ul>
+        {%if char.suggestion%}
+            <p>The program provides an automatic suggestion for this characteristic.</p>
+        {%endif%}
+        </div>
+        {% endif %}
+        </div></div>
+        </table><br />
+        {% endfor %}
+
+        <div id="footerContent"><pdf:pagenumber /></div>
+
+	</body>
+</html>
+
+

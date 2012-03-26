@@ -1,0 +1,1039 @@
+
+
+td {
+	border:0px;
+}
+
+table {
+	border:0px;
+}
+
+img {
+	border:0px;
+}
+
+h1, h2, h3, h4, p, h5, div { 
+	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-size:1em;
+	color:#1F3743;
+	
+}
+
+h1, h2, h3, h4, h5 {
+	margin:6px 2px;
+	padding:2px;
+	font-size:1.1em;
+	}
+
+p {
+	margin: 6px 4px;
+	padding:2px;
+}
+
+h5 {
+	font-size:1em;
+}
+
+h2 {
+	font-size:130%;
+	color:#6E81A3;
+	margin-bottom:10px;
+	
+}
+
+h3 {
+	font-size:115%;
+	color:#6E81A3;
+	margin-bottom:10px;
+	font-weight:bold;
+
+}
+
+hr {
+    background-color:#D5DFE5;
+	border:0px;
+	height:2px;  	
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+body{
+	margin:0px;
+	padding:0;
+	border:0;				/* This removes the border around the viewport in old versions of IE */
+	min-width:600px;    	/* Minimum width of layout - remove line if not required */
+							/* The min-width property does not work in old versions of Internet Explorer */
+	font-size:12px;
+	background-color: #fff ; 
+}
+
+/* text areas for editing */
+
+input, textarea, select {
+	padding:2px;
+	margin:2px;
+	border:1px solid #9EB1C3;
+}
+
+.ui-autocomplete-input, .qListSearchText {
+	width:140px;
+}
+
+
+
+textarea {
+	color:#1F3743;
+	width:100%;
+	height:115px;
+	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #34515D;
+}
+
+input {
+	color: #34515D;
+}
+
+input:focus, textarea:focus, select:focus  {
+	background-color:#EDF6FF;
+	border:1px solid #5190AD;
+}
+
+
+/* Content block areas on the site */
+.block {
+	border:0px;
+	border-top:2px solid #D5DFE5;
+	border-left: 2px solid #D5DFE5;
+	padding:2px 0px 2px 2px;
+	margin-bottom:10px;
+}
+
+.blockHeader {
+	background-color:#9EB1C3;
+	margin:0px;
+	height:20px;
+	line-height:20px;
+	padding:3px 6px;
+
+}
+
+.blockContent {
+	padding:6px;
+}
+
+
+/* Columns */
+
+.leftColumn, .rightColumn{
+	float:left;
+	width:50%;
+}
+
+.leftColumnContent {
+	padding:20px 10px 20px 20px;
+}
+
+.rightColumnContent {
+	padding:20px 20px 20px 10px;
+}
+
+
+
+
+/* Labels for forms */
+.blockLabel {
+	font-weight:bold;
+	display:block;
+	clear:left;
+	margin-top:18px;
+}
+
+.blockLabelFloated {
+	clear:left;
+	font-weight:bold;
+	display:block;
+	float:left;
+	width:160px;
+	margin:20px 0px 0px;
+}
+
+.blockValueFloated {
+	display:block;
+	float:left;
+	margin:18px 0px 1px;
+	width:200px;
+}
+
+.floatedLabel, .floatedValue {
+	float:left;
+	margin: 2px 6px 8px 2px;	
+}
+
+.floatedValue {
+	margin-right:30px;
+}
+
+.inputHelp, .inputHelpForTextarea {
+	color:#888;
+	font-size:90%;
+	clear:left;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+}
+
+.inputHelp {
+	margin:0px 0px 0px 160px;
+	width:250px;
+}
+
+
+.inputErrorMessage, .inputErrorMessageForTextArea {
+	color:#DD4200;
+	clear:left;
+	padding-left:25px;
+	background:url('/media/img/ui/icon_error.png') left no-repeat;
+	min-height:20px;
+	padding-top:5px;
+	margin:0px 0px 0px 0px;
+}
+
+.inputErrorMessage{
+	margin:0px 0px 0px 160px;
+	width:225px;
+}
+
+
+.characteristicRow_first {
+	padding-left:15px;
+}
+
+.characteristicRow_first a {
+	display:block;
+}
+
+.characteristicRow_current {
+	font-weight:bold;
+	background-color:#F9CCA7;
+}
+
+.characteristicRow_first.characteristicRow_current {
+	background:url('/media/img/ui/current_row.png') left no-repeat #F9CCA7;
+}
+
+.characteristicRow_current a {
+    color:#8E4A12;
+}
+
+
+/* Customize css for jquery ui a bit */
+
+.ui-widget {
+	font-size:12px;
+}
+
+.ui-widget-content { border: 1px solid #8e846b; background: #fff; color: #383838; }
+
+
+
+.ui-button-icon-only .ui-button-text { padding: 0.35em; } 
+.qListSearchText, .ui-autocomplete-input { margin: 0; padding: 0.3em 0.2em 0.3em 0.3em; }
+.ui-select-holder { padding-bottom:3px;padding-left:3px;}
+
+
+.ui-menu {
+	height:180px;
+	overflow-y: auto;
+	/* prevent horizontal scrollbar */
+	overflow-x: hidden;
+	/* add padding to account for vertical scrollbar */
+	padding-right: 20px;
+	width:300px;
+}
+
+#sqpcontainer .ui-button-text
+{
+	line-height:1.1em;
+	padding: 4px 10px;
+	
+
+}
+
+/*We take advantage of some jQuery icon classes here */
+.not-coded {
+	background-image: none;
+}
+.partially-coded {
+	background-position: -112px -144px;
+}
+.completely-coded {
+	background-position: -208px -192px;
+}
+
+.completeNotice {
+	font-size:22px;
+	color:#4F9104;
+}
+
+/* A div for spacing out a button from content */
+.buttonHolder {
+	clear:both;
+	padding-top:10px;
+	padding-left:6px;
+}
+
+.searchHeader {
+	color:#999;
+}
+
+label {
+	cursor:pointer;
+}
+
+#continueCoding {
+	padding:10px;
+}
+
+#sqpcontainer {
+	background-color: #fff; 
+	min-width:960px;
+}
+
+#sqpheader {
+	background-color: #d4d0c8; 
+	width: 100%; 
+	height: 100px; 
+	background-image: url("/media/img/ui/ui-banner-background.png");
+	color: #41C5F3;
+	font-size: 14px;
+	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#sqpheadertoprow {
+ 	position:static;
+ 	padding: 2px 5px 0px 5px;
+ 	height: 14px;
+ 	background-color: #111122; 
+}
+
+#sqpheadertoprow a:link, #sqpheadertoprow a:visited{
+	
+	color: #ffffff;
+	text-decoration : none;
+
+}
+
+#sqpheadertoprow a:hover{
+	
+	text-decoration : underline;
+
+}
+
+#userdisplay{
+ 	float: left;
+ 	font-size: 10px;
+ 	color: #ffffff;
+}
+#toprowmenu{
+	float: right;
+	font-size: 10px;
+	color: #ffffff;
+}
+
+#sqpheaderinner{
+	
+	background-image: url("/media/img/ui/ui-banner.png");
+    background-position: 0 -16px;
+    background-repeat: no-repeat;
+	padding-top: 58px;
+	height: 26px;
+	
+}
+#sqpmain{ width: 100%;}
+
+
+.smlmenutxt{ font-size:9px;}
+
+
+#sqpcontent{
+ 
+ background-color: #f8f8f8;
+ margin: 10px;
+ 
+}
+
+/* Hide all of the pages to begin with */
+.uiPage {
+	display:none;
+}
+
+/* New and Edit Question */
+
+#questionEditContainer, #questionNewContainer {
+	width:650px;
+	margin:10px 20px;
+}
+
+
+.qEditAddNewStudy {
+	display:block;
+	line-height:22px;
+	float:left;
+	background:url('/media/img/ui/add_new_small.png') left no-repeat;
+	padding-left:26px;
+	cursor:pointer;
+	color:#4B8F00;
+	margin:18px 0px 0px 10px;
+}
+
+/* Question List Page */
+
+
+.qListQuestionItemCode {
+	font-weight:bold;
+	font-size:100%;
+	color:#000077;
+}
+
+.qListQuestionItemName {
+	font-weight:bold;
+	font-size:100%;
+	
+}
+
+.qListQuestionItemDescription {
+	color:#555;
+	font-size:80%;
+	font-style:italic;	
+}
+
+.studyListAddNew {
+	float:right;
+	margin:0px 20px;
+	color:#4B8F00;
+	font-size:120%;
+}
+
+
+.qlistAddNew {
+	margin:0px 5px;
+	color:#4B8F00;
+	font-size:120%;
+}
+
+
+.qListMain {
+	 margin: 10px 20px 10px 230px ;
+}
+
+.qListResults .overQuestionRow {
+	background-color:#99f;
+}
+
+.qListResults  .selectedQuestionRow {
+	background-color:#FE9231
+}
+
+
+.qListNav {
+	margin: 0px 0px 10px 20px;
+    width: 200px;
+	position:absolute;
+}
+
+.qListNav .ui-button { margin-left: -1px; }
+
+
+.qListResults, .qListNoResults {
+	display:none;
+}
+
+.qListResults {
+	position:relative;
+	overflow:hidden;
+}
+
+.questionTableHolder {
+	min-height:450px;
+}
+.qListPreview {
+	position:absolute;
+	right:-800px;
+	top:4px;
+	height:450px;
+	background-color:#fff;
+	border:2px solid #FE9231;
+	z-index:10;
+	width:680px;
+	padding:10px;
+	overflow:hidden;
+	-moz-box-shadow: 2px 2px 8px #444;
+	-webkit-box-shadow: 2px 2px 8px#444;
+	box-shadow: 2px 2px 8px #444;
+
+}
+
+.questionPreviewQuality {
+	font-weight:bold;
+}
+
+.questionPreview {
+	width:680px;
+}
+
+.questionSummaryTable th {
+	background-color:#eee;
+	color:#666;
+	font-size:1em;
+}
+
+.questionSummaryTable td {
+	background-color:#fff;
+	font-size:1em;
+}
+
+.closePreview {
+	float:right;
+	margin:-6px -6px 0px 0px;
+	display:block;
+}
+
+.qListNav select {
+	width:196px;
+	margin:2px 0px;
+}
+
+.qListRowNav {
+	text-align:right;
+	margin:2px 0px;
+}
+
+.qListLoading {
+	position:absolute;
+	z-index:1000;
+}
+
+.qListLoadingContent {
+	background-color:#fff;
+}
+
+
+.breadCrumb {
+	margin:20px 20px;
+	height:20px;
+	font-style:italic;
+	font-size:120%;
+}
+
+.breadCrumbSep {
+    color:#777;
+	font-style:normal;	
+}
+
+.breadCrumbCurrent {
+	color:#E48128;
+}
+
+/* Study List Page */
+
+.studyList {
+	margin:10px 20px;
+}
+
+.studyItemDelete {
+	cursor:pointer;
+	padding-right:0px;
+}
+
+.rowOver {
+	background-color:blue;
+}
+
+/* Question Prediction Page */
+
+#qPredictionContent {
+    margin: 10px 20px;
+}
+
+
+
+.predictionTable th, .predictionTable td {
+	border:0px;
+	background-color:#fff;
+	font-weight:bold;
+	font-size:140%;
+	vertical-align:bottom;
+	height:48px;
+	color:#666;
+}
+
+
+.predictionTable th {
+	color:#6E81A3;
+	margin-bottom:10px;
+	font-weight:normal;
+	height:54px;
+}
+
+
+.predictionTable sup {
+	font-size: small;
+	padding-left:2px;
+}
+
+.predictionTable .columnVarName {
+	width:220px;
+}
+
+.predictionTable .columnVar, .predictionTable .columnVarName  {
+	height:42px;
+}
+
+
+.predictionTable .columnPredictEstimate {
+	width:105px;
+	font-size:155%;
+}
+
+.predictionTable .columnPredictStdError {
+	width:115px;
+}
+
+
+
+.predictionTable .columnPredictInterquartile {
+	width:140px;
+}
+
+
+.predictionTable .columnMTMMInterval {
+	width:150px;
+}
+
+.predictionTable .columnVar {
+	width:50px;
+	font-size:155%;
+}
+
+#qPredictionContent .bold {
+	color:#2E4183;
+	font-weight:bold;
+}
+
+/* Question Detail Page */ 
+
+
+.questionText h5 {
+	margin-bottom:0px;
+	padding-bottom:0px;
+	color:#555;
+}
+
+.qListPreviewContent h2 {
+	margin-bottom:0px;
+}
+
+.qListPreviewContent .questionText {
+	min-height:200px;
+}
+
+.qListPreviewContent .questionText p, .qListPreviewContent .questionText ul  {
+		font-size:.9em;
+}
+
+.questionText p , .questionText ul {
+	margin-top:0px;
+	padding-top:0px;
+}
+
+#qDetailContent {
+	margin:10px 20px;
+}
+
+
+#pageQuestionDetail {
+	
+	}
+	
+#questionDetailContainer {
+	
+	}
+
+#questionContainer {
+	float: left;
+    width: 50%;
+	}
+	
+.editCodingLoading {
+	display:none;
+	position:absolute;
+	z-index:2000;
+}	
+
+.editCodingLoadingContent {
+	background-color:#fff;
+}
+
+#editCodingContainer {
+	}
+
+#charateristicDetailContainer{
+    float:left;
+	width:50%;
+	
+	}
+	
+#charateristicDetailContainerInner {
+	
+	}
+	
+#charateristicDetailContainerInnerWelcome {
+	}
+
+
+#introText {
+	
+	}
+	
+#requestForAnswerText {
+	
+	}
+
+.mainLabel {
+	margin:6px;
+	display:block;
+	font-weight:bold;
+}
+
+.characteristicNumericInput {
+	margin-left:6px;	
+}
+
+.suggestionAutoFilledNumeric {
+	margin:0px 10px;
+	float:left;
+	color:#888;
+}
+
+.suggestionAutoFilledRadio {
+	margin: 10px 4px;
+	color:#888;
+}
+
+.valueIncorrectIcon {
+	display:block;
+	margin: 1px 6px;
+	float:left;
+	display:none;
+}
+
+/* used for invalid inputs */
+.invalid {
+	border-color:#DD4200;
+	border-width:2px;
+}
+
+.errorInfo {
+	color:#DD4200;
+	clear:left;
+	width:220px;
+	margin:0px 6px;
+	padding:4px 0px;
+	display:none;
+}
+
+.characteristicDesc,.characteristicDescFull {
+	margin:3px 0px 10px 10px ;
+	width:45%;
+	float:right;
+	padding:4px 10px;
+	color:#555;
+	background-color:#F7FCCB;
+	border:1px solid #666;
+	position:relative;
+	min-height:150px;
+	
+}
+
+.characteristicDescFull {
+	position:absolute;
+	visibility:hidden;
+	top:-1px;
+	left:-1px;
+	width:550px;
+	margin:0px;
+	z-index:1000;
+}
+
+.characteristicDescIntro {
+	cursor:pointer;
+}
+
+.characteristicDescFull img  {
+	padding:2px;
+	border:1px solid #bbb;
+	z-index:999;
+}
+
+
+.characteristicDescFullShadow {
+	position:absolute;
+	visibility:hidden;
+	top:12px;
+	left:12px;
+	padding:4px 10px;
+	background-color:#1F3743;
+}
+
+
+.characteristicDescImprovements {
+	width:auto;
+	margin:30px 0px 0px;
+	min-height:0px;
+	float:none;
+}
+
+.readFullDesc, .hideFullDesc {
+	color:#C16719;
+}
+
+.hideFullDesc {
+	float:right;
+	margin-right: -5px;
+}
+
+.suggestionInfo {
+    margin-left:6px;
+}
+
+.suggestionInfo p {
+	font-weight:bold;
+	color:#778491;
+}
+
+ul#answerOptionsTexts li{
+	margin-left:8px;
+	padding-left:0px;
+}	
+
+	
+ul#answerOptionsTexts {
+	margin-left:6px;
+	padding-left:0px;
+}	
+
+#sqpquestion {
+	background-image: url("/media/img/ui/noise_dk.png");
+	color: #41C5F3;
+	float: left;
+	width: 55%;
+	}
+	
+#sqpquestioninner { 
+	padding: 10px
+	}
+
+#sqpcharacteristic{
+	padding: 10px;
+	background-image: url("/media/img/ui/noise_dk.png");
+	color: #41C5F3;
+	float: right;
+	width: 42%;
+	}
+	
+#sqpcharacteristicinner{
+	background-color: #000000;
+	border: 1px solid #ffffff;
+	 margin-top: 10px;
+	 color: #41C5F3;
+	font-size: 14px;
+	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	min-height: 50px;
+	padding: 5px;
+	/* for IE */
+  	filter:alpha(opacity=60);
+  	/* CSS3 standard */
+  	opacity:0.6;
+	}
+
+#sqphistoryinner{
+	background-color: #000000;
+	border: 1px solid #ffffff;
+	 margin-top: 10px;
+	 color: #41C5F3;
+	font-size: 14px;
+	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif;
+	min-height: 50px;
+	padding: 5px;
+	/* for IE */
+  	filter:alpha(opacity=60);
+  	/* CSS3 standard */
+  	opacity:0.6;
+	}
+
+.hlinkclass {
+	cursor:pointer;
+	}
+
+
+#sqpfooter {
+	width: 100%; 
+	background-color: #d4d0c8;
+	}
+
+
+ul.menu {
+     list-style:none;  /* removes bullets */
+     margin:0;        
+     padding:0;
+     width:220px;
+	}
+	
+ul.menu li {
+     padding:0 0 1px 0;    /* adds 1 pixel padding to bottom */
+     margin:0;
+	}
+	
+ul.menu li a:link, ul.menu li a:visited {
+     display:block;
+     background-color:#dddddd;
+     color:#333333;
+     text-decoration:none;
+     padding:5px;
+     font-family:Arial;
+	}
+	
+ul.menu li a:hover {
+     background-color:#cccccc;
+	}
+
+.str {
+    color: #F46FBD;
+	}
+	
+.wht {
+    color: #FFFFFF;
+	}	
+
+
+#tabsdiv {
+	position: relative;
+	}
+
+#menu {
+	border-bottom : 0px solid #9EB1C3;
+	margin : 0;
+	padding-bottom : 29px;
+	padding-left : 15px;
+}
+
+#menu ul, #menu li	{
+	display : inline;
+	list-style-type : none;
+	margin : 0;
+	padding : 0;
+}
+
+	
+#menu a:link, #menu a:visited	{
+	border-width: 1px 2px 0px 2px;
+	border-style: solid;
+	border-color:  #9EB1C3;
+	color : #30393E;
+	float : left;
+	font-size : small;
+	line-height : 14px;
+	margin-right : 8px;
+	padding : 5px 10px 6px 10px;
+	text-decoration : none;
+}
+
+#menu a:hover {
+	text-decoration : underline;
+	}
+
+
+.selectedtab {
+	background-color : #fff;
+	font-weight : bold;
+	}
+	
+.unselectedtab {
+	background-color : #9EB1C3;
+	font-weight : bold;
+	}
+
+
+a, .linkActive {
+	text-decoration:none;
+	color:#2452f5;
+}
+
+.linkDisabled {
+	color:#777;
+	text-decoration:none;
+}
+
+table {
+	border-collapse:collapse;
+	width:100%;
+	border:0px;
+	
+}
+
+td {
+	text-align:left;
+	padding:1px 4px 1px 6px;
+	height:24px;
+	border:0px;
+	font-size:94%;
+}
+
+th {
+	text-align:left;
+	padding:4px 4px 3px 6px;
+	border:0px;
+	border-bottom:1px solid #aaa;
+	color:#1F3743;
+	height:18px;
+	background-color:#9EB1C3;
+}
+
+
+tr:nth-child(even) {
+	background-color:#E5E8E9;	
+}
+
+
+.MTMMInfo {
+	border:1px solid #E7D7B3;
+	margin:10px 6px;
+	width:500px;
+}
+
+.yourPrediction {
+	border:4px double #FE9231;
+	margin:10px 6px;
+	width:300px;
+	float:right;
+}
+
+.resultTable {
+	margin:5%;
+	width:90%;
+}
+
+.resultTable th, .resultTable td {
+background-color:#fff;
+border:0px;
+}
+
+.resultTable td {
+	font-weight:bold;
+	font-size:110%;
+	color:#6E81A3;
+}
+	
+/* Potential Improvements */
+#qImprovementContent {
+ 	margin: 10px 20px;
+ }

@@ -1,0 +1,85 @@
+
+<script id="questionEdit" type="text/html">
+	<div class="block">
+		<h4 class="blockHeader">Question Details</h4>
+		<div class="blockContent">
+			
+			{{^canEditDetails}}
+		    <!-- User cannot edit details -->
+		    <label class="blockLabelFloated">Study:</label>
+		    <span class="qEditStudy blockValueFloated">{{studyName}}</span>
+		
+			<label class="blockLabelFloated">Language:</label>
+			<span class="qEditLanguage blockValueFloated">{{language}}</span>
+		
+			<label class="blockLabelFloated">Country:</label> 
+			<span class="qEditCountry blockValueFloated">{{country}}</span>
+			
+			<label class="blockLabelFloated">Name in the Questionnaire:</label> 
+			<span class="qEditQuestionItemCode blockValueFloated">{{itemCode}}</span>
+			
+			<label class="blockLabelFloated">Name in the Dataset:</label> 
+			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>
+			
+			<label class="blockLabelFloated">Brief Description:</label> 
+			<span class="qEditQuestionDescription blockValueFloated">{{itemDescription}}</span>
+			{{/canEditDetails}}
+			
+			{{#canEditDetails}}
+			 <!-- User can edit details -->
+			 
+		    <label class="blockLabelFloated" for="qEditStudy">Study:</label>
+		    <select id="qEditStudy" class="qEditStudy blockValueFloated"></select>
+		    <a class="qEditAddNewStudy" title="Add New Study">Add New Study</a>
+		    <p class="inputErrorMessage qEditStudyError"></p>
+		    
+			<label class="blockLabelFloated" for="qEditLanguage">Language:</label>
+			<select id="qEditLanguage" class="qEditLanguage blockValueFloated">{{language}}</select>
+			<p class="inputErrorMessage qEditLanguageError"></p>
+		
+			<label class="blockLabelFloated" for="qEditCountry">Country:</label> 
+			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
+			<p class="inputErrorMessage qEditCountryError"></p>
+			
+			<label class="blockLabelFloated" for="qEditQuestionItemName">Name in the Dataset:</label> 
+			<input id="qEditQuestionItemName" class="qEditQuestionItemName blockValueFloated" value="{{itemName}}" />
+			<p class="inputErrorMessage qEditQuestionItemNameError"></p>
+			<p class="inputHelp">Optional - The name of the variable measured in the dataset. For example: TVTOT, STFGOV, POLCMPL</p>
+			
+			<label class="blockLabelFloated" for="qEditQuestionItemCode" >Name in the Questionnaire:</label> 
+			<input id="qEditQuestionItemCode" class="qEditQuestionItemCode blockValueFloated" value="{{itemCode}}" />
+			<p class="inputErrorMessage qEditQuestionItemCodeError"></p>
+			<p class="inputHelp">This is the number or name of the question in the questionnaire. For example: 1, 2, 3, A1, B3</p>
+			
+			<label class="blockLabelFloated" for="qEditQuestionDescriptionError">Brief Description:</label> 
+			<input id="qEditQuestionDescriptionError" style="width:420px" class="qEditQuestionDescription blockValueFloated" value="{{itemDescription}}" />
+			<p class="inputErrorMessage qEditQuestionDescriptionError" style="width:420px"></p>
+			<p class="inputHelp" style="width:420px" >Optional - Brief description of the question for easy reference, in the questionnaire source language.</p>
+			
+			{{/canEditDetails}}
+			
+			<div style="clear:both"></div>
+			<label class="blockLabel" for="qEditIntroText">Introduction Text:</label>
+			<p class="inputErrorMessageForTextArea qEditIntroTextError"></p>
+			<p class="inputHelpForTextarea" >If Present - Text in the question used to introduce the concept of the question. Such as: "Now I am going to ask you about..."</p>
+			<textarea id="qEditIntroText" class="qEditIntroText">{{introText}}</textarea>
+			
+			<label class="blockLabel" for="qEditRequestForAnswerText">Request for Answer Text: </label>
+			<p class="inputErrorMessageForTextArea qEditRequestForAnswerTextError"></p>
+			<p class="inputHelpForTextarea" >Text in the question that requests an answer such as: "Please select the option....", "How much time..."</p>
+			<textarea id="qEditRequestForAnswerText" class="qEditRequestForAnswerText" >{{requestForAnswerText}}</textarea>
+			
+			<label class="blockLabel" for="qEditAnswerOptionsTexts">Answer options:</label>
+			<p class="inputErrorMessageForTextArea qEditAnswerOptionsTextsError"></p>
+			<p class="inputHelpForTextarea" >Answer options or numbers in the answer scale. One option per line.</p>
+			<textarea id="qEditAnswerOptionsTexts" class="qEditAnswerOptionsTexts">{{answerOptionsTextBlock}}</textarea>
+			
+			<p style="color:#DD4200" class="qEditPleaseCorrectErrors">There are some errors in the form. Please review and correct the errors in order to submit the form.</p>
+			
+			<div class="buttonHolder" style="text-align:right;">
+				<button class="buttonSaveQuestion btn" >Save Question</button>
+			</div>
+			
+		</div>
+	</div>
+</script>

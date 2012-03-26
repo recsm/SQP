@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.o/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>SQP Prediction System 2.0: {% block meta_title %} {% endblock %}</title>
+<style><!--
+    html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  padding: 0;
+  font: normal 12px/1.5em  sans-serif;
+  background: #fff url(/media/img/sqp/hdrtile-home.gif) repeat-x;
+  color: #555;
+}
+
+ form, dt, dl, dd, div, 
+blockquote, h1, a, 
+pre, code {
+  margin: 0;
+  padding: 0;
+}
+a { color: #555;  outline: none;}
+a:hover { 
+  color: #000;
+}
+#container {
+  margin:  0 auto;
+  border-right: none;
+  width: 800px;
+}
+
+#content {
+  margin-top: 80px;
+}
+
+#main {
+  padding-top: 20px;
+  font-size: 110%;
+  margin: 0 auto;
+  background: transparent;
+  text-align: left;
+}
+
+#header {
+  margin-top: 80px;
+  height: 123px; position: relative;
+}
+
+#header h1 {
+  position: absolute; left: 0px; top: 0;
+}
+
+#header h1 a {
+  display: block;
+  background: url(/media/img/sqp/sqp-logo.png) no-repeat;
+  text-indent: -9999px;
+  width:  202px;
+  height: 137px;
+}
+
+#tagline {
+	color:white;
+	height:82px;
+	left:350px;
+	padding:2em;
+	position:absolute;
+	text-align:left;
+	top:-21px;
+	width:350px;
+	font-weight:normal;
+}
+
+#footer {
+  margin-top: 1em;
+}
+
+.error {
+	color:red;
+}
+
+.field_wrapper {
+	padding:6px 0px 4px 0px;
+	clear:left;
+}
+
+.field_wrapper label {
+	width:140px;
+	float:left;
+}
+
+.field_input_block {
+	width:180px;
+	float:left;
+}
+
+.field_input_block input {
+	width:180px;
+}
+
+.submit_block {
+	text-align:right;
+	padding:10px;
+	clear:both;
+	padding-right:60px;
+}
+
+ --></style>
+</head>
+
+<body>
+  <div id="container">
+    
+    <!-- header -->
+    <div id="header">
+        <h1><a href="/">SQP</a></h1>
+      <h2 id="tagline">
+          <p>SQP 2.0 is a survey quality prediction system for questions used in survey research.</p>
+</h2>
+    </div>
+    <div id="content">
+      <div id="main" class="clearfix">
+      {% block content %}
+      {% endblock %}  
+      </div>
+    </div>
+    <div id="footer"></div>
+  <!-- /container -->
+
+</body>
+</html>

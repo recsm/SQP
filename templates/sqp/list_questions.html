@@ -1,0 +1,180 @@
+{%load sqp_custom_filters%}{% load markup %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SQP: Questions to be coded</title>
+<link rel="stylesheet" type="text/css" href="/media/css/sqp_main.css" />
+<script type="text/javascript" src="/media/js/prototype.js"></script>
+<script type="text/javascript" language="javascript">
+<!--
+function reload_question(id) {
+    new Ajax.Updater('item_' + id, 
+       '/sqp/get_one_listed_question/' + id + '/', {
+       method: 'get',
+       parameters: {
+         study:'{{request.GET.study}}',
+         language:'{{request.GET.language}}',
+         country:'{{request.GET.country}}'
+         }
+    });
+}
+
+function please_wait(obj_id) {
+    if ($(obj_id)) {
+        $(obj_id).innerHTML = '<p><img src="/media/img/sqp/ajax-loader.gif" align="left" />' + 
+            'One moment please, loading...</p>';
+    }
+}
+
+function submit_question_form (event) {
+    please_wait('question_list');
+    if (document.question_form) document.question_form.submit();
+}
+
+function submit_charset(event) {
+    if (document.options_form) document.options_form.submit();
+}
+
+document.observe('dom:loaded', function() {
+
+  // automatic submission in toolbar
+  try { Event.observe('id_characteristic_set', 'change', submit_charset); } catch(err) { errormsg(err); }
+  try { Event.observe('id_study', 'change', submit_question_form); } catch(err) { errormsg(err); }
+  try { Event.observe('id_language', 'change', submit_question_form); } catch(err) { errormsg(err); }
+  try { Event.observe('id_country', 'change', submit_question_form); } catch(err) { errormsg(err); }
+
+  if ($('question_form_submit')) $('question_form_submit').remove();
+
+  // Automatic resize
+  resize_to_viewport();
+  Event.observe(window, 'resize', resize_to_viewport.bind());
+
+  {%if selection_dict.edit_question%}
+  // Scroll the list to just before the selection
+  ScrollToElement($('item_{{selection_dict.edit_question}}').previous('li'));
+  {%endif%}
+});
+
+function resize_to_viewport() {
+   try {
+   $('question_list').style.height = document.viewport.getHeight() -
+       $('question_control').getHeight() - $('info_row').getHeight() - 
+       30 + 'px';
+   $('coding_frame').style.height = document.viewport.getHeight() - 
+        $('info_row').getHeight() -30  + 'px'; 
+   }
+   catch (err) { errormsg(err + 'could not resize in list'); }
+}
+
+function errormsg(err) {
+    if($('errordiv')) {
+        errordiv.innerHTML += "<p>" + err + "</p>"
+    }
+}
+
+function ScrollToElement(theElement){
+ if (theElement != null) {
+    var list = document.getElementById('question_list');
+    var selectedPosY = -1*list.offsetTop;
+    selectedPosY += theElement.offsetTop;
+    list.scrollTop = selectedPosY;
+ }
+}
+
+function select_item(id) {
+   if ($$('#question_list li.sel')) {
+       $$('#question_list li.sel')[0].removeClassName('sel');
+       $(id).addClassName('sel');
+   }
+}
+
+function edit_item(id) {
+    $('coding_frame').src = '/sqp/code/' + id + '/'; 
+    select_item('item_' + id);
+    ScrollToElement($('item_' + id).previous('li'));
+}
+
+-->
+</script>
+</head>
+<body>
+<table cellspacing="3" cellpadding="0" border="0" width="100%" id="main">
+<tr id="info_row"><td colspan="2">
+    <table width="100%" border="0"><tr>
+	<td id="info">
+        <img src="/media/img/sqp/sqp.png" width="42" height="22" 
+        alt="SQP" />
+        <b>Coder</b>: {{user}} | <a href="/sqp/logout/">Sign out</a>
+            &nbsp;{% if perms.can_export %}
+        <a href="/sqp/export" title="Export all codes to CSV (spreadsheet)">
+        <img src="/media/img/sqp/x-office-spreadsheet.png" width="22" height="22" 
+        alt="Export to CSV" border="0" /></a>
+        <a href="/sqp/export" title="Export all codes to CSV (spreadsheet)">
+        Export</a>{%endif%}
+    {%if perms.can_compare%}
+    <a href="/sqp/compare/items/" target="_blank" title="Create a report showing the differences between codings made for different questions.">
+        <img src="/media/img/sqp/compare_icon.png" width="22" height="22" 
+        alt="SQP Compare" border="0"></a>
+        <a href="/sqp/compare/items/" target="_blank" title="Create a report showing the differences between codings made for different questions.">Compare</a>
+    {%endif%}
+	</td>
+	<td align="right">
+        <form action="{{request.get_full_path}}" method="GET" name="options_form" id="options_form">
+        <input type="hidden" name="country" value="{{request.GET.country}}" />
+        <input type="hidden" name="language" value="{{request.GET.language}}" />
+        <input type="hidden" name="study" value="{{request.GET.study}}" />
+        Characteristic set: {{options_form.characteristic_set}}
+        <input type="submit" value="change" style="display:none;" />
+        <a href="/media/files/Codebook_all.pdf" title="Read the codebook (pdf)" target="_blank">
+        <img src="/media/img/sqp/text-x-generic.png" width="22" height="22" 
+        alt="Codebook" border="0" /></a>
+        </form>
+{%comment%}
+	Screen resolution: 
+	<a href="{{request.path}}?resolution=1280x1024">Big (1280x1024)</a> | 
+	<a href="{{request.path}}?resolution=1024x768">Medium (1024x768)</a> | 
+	<a href="{{request.path}}?resolution=800x600">Small (800x600)</a>
+{%endcomment%}
+	</td>
+    </tr></table>
+</td></tr>
+
+<tr id="bottom_row"><td id="left" valign="top" width="25%">
+    <div id="question_control">
+          Filter the list of questions by:
+          <form action="{{request.get_full_path}}" method="GET" name="question_form" id="question_form">
+            <table cellspacing="3" id="filter">
+            <tr><td>Study:</td><td>{{question_form.study}}</td></tr>
+            <tr><td>Language:</td><td> {{question_form.language}}</td></tr>
+            <tr><td>Country:</td><td> {{question_form.country}}</td></tr>
+            <tr><td id="question_form_submit">
+            <input type="submit" value="Filter" id="question_form_submit_btn"/>
+            </td></tr>
+            </table>
+          </form>
+    </div>
+    <div id="questions">
+		<h3>List of questions (total: {{questions.count}})</h3>
+		{% ifequal questions.count 0 %}
+		<ul class="nonefound" id="question_list">No questions were found for this language, country and study.</ul>
+		{%else%}
+		<ul id="question_list">
+		{% for q in questions %}
+	        <li class="{% ifequal q.id selection_dict.edit_question %} sel{%endifequal%}" id="item_{{q.id}}">
+        {% with q|completeness as completeness %}
+<a href="/sqp/code/{{q.id}}/?language={{request.GET.language}}&country={{request.GET.cnt}}&amp;study={{request.GET.study}}" target="coding_frame" onclick="select_item('item_{{q.id}}');" title="Code this question ({{completeness}})">
+<div class="{{completeness}}">{{q}}</div>
+			  <div class="long_name">{{q.item.long_name}}</div></a></li>
+        {% endwith %}
+		{% endfor %}
+		</ul>
+		{% endifequal %}
+    </div>
+</td>
+<td id="right" valign="top"><div id="coding-wrap">
+		<iframe scrolling="auto" src="{% if selection_dict.edit_question %}/sqp/code/{{selection_dict.edit_question}}/?language={{request.GET.language}}&country={{request.GET.country}}{% endif %}" name="coding_frame" width="100%" height="400" id="coding_frame" frameborder="0"></iframe></div>
+</td></tr></table>
+<span id="errordiv"></span>
+</body>
+</html>

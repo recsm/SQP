@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SQP web Compare</title>
+
+<script type="text/javascript" src="/admin_media/js/core.js"></script>
+<script type="text/javascript" src="/admin_media/js/getElementsBySelector.js"></script>
+<script type="text/javascript" src="/admin_media/js/actions.js"></script>
+<script type="text/javascript" src="/admin_media/js/SelectBox.js"></script>
+<script type="text/javascript" src="/admin_media/js/SelectFilter2.js"></script>
+<script type="text/javascript" src="/media/js/jsi18n.js"></script>
+<link rel="stylesheet" type="text/css" href="/media/css/admin/forms.css" />
+<style type="text/css"><!--
+  table.compare td {
+    padding: 7px;
+  }
+  table td  {
+    vertical-align: middle;
+  }
+  --></style>
+</head>
+<body>
+<h1>Compare codings for same items, different countries/languages</h1>
+<form action="" method="post">
+  <fieldset class="module aligned ">
+    <div class="form-row">        {{ item_form.items.errors }}
+      <label for="id_items">Items:</label>
+      {{item_form.items}}</div>
+  <div class="form-row">
+    Choose the country, language and coder you wish to compare:
+  <table class="compare">
+    <tr>
+      <td> {{ compare_form.from_country.errors }}
+        <label for="id_from_country">From country:</label>{{compare_form.from_country}}
+      </td>
+      <td rowspan="3" valign="middle">
+        <img src="/media/img/sqp/compare.png" width="100" height="60" alt="vs."/>
+      </td>
+      <td>{{ compare_form.to_country.errors }}
+        <label for="id_to_country">To country:</label>{{compare_form.to_country}}
+      </td>
+    </tr>
+    <tr>
+      <td> {{ compare_form.from_language.errors }}<label for="id_from_language">From language:</label>{{compare_form.from_language}} </td>
+      <td> {{ compare_form.to_language.errors }}<label for="id_to_language">To language:</label>{{compare_form.to_language}} </td>
+    </tr>
+    <tr>
+      <td> {{ compare_form.from_coder.errors }}<label for="id_from_coder">From coder:</label>{{compare_form.from_coder}} </td>
+      <td> {{ compare_form.to_coder.errors }}<label for="id_to_coder">To coder:</label>{{compare_form.to_coder}} </td>
+    </tr>
+  </table>
+  </div>
+  </fieldset>       
+  <div class="submit-row"> <input type="submit" value="Compare" /> </div> 
+</form>
+
+{{info}}
+</body></html>

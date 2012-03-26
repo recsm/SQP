@@ -1,0 +1,38 @@
+
+<script id="singleQuestionListItem" type="text/html">
+	<td>
+		<a class="questionItemLink hlinkclass" title="{{itemDescription}}">
+			<!--
+		    <span title="{{completeness}}" class="ui-icon {{completeness}}" style="float:left;margin-right:10px;"> </span>
+		    -->
+		    <span class="qListQuestionItemCode">{{ itemCode }}</span>
+		    {{#itemName}}
+		     <span style="color:#999">/</span>
+		     <span class="qListQuestionItemName">{{ itemName }}</span>
+		    {{/itemName}}
+		    
+		    {{#itemDescription}}
+		      <span style="color:#999">/</span>
+		      <span class='qListQuestionItemDescription'>{{itemDescription}}</span>
+		    {{/itemDescription}}
+		    
+		</a>
+	</td>
+	<td>{{studyName}}</td>
+	<td>{{language}}</td>
+	<td>{{country}}</td>
+	<td> {{#hasMTMM}}
+		    <img title="MTMM Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" />
+		 {{/hasMTMM}}
+		 {{#hasAuthorizedPrediction}} 
+			<img title="Authorized Prediction Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/a.png" />
+		 {{/hasAuthorizedPrediction}}
+		 {{#hasOwnPrediction}} 
+				<img title="My Quality Prediction Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/mine.png" />
+		 {{/hasOwnPrediction}}
+		 {{#totalOtherPredictions}} 
+				<img title="{{totalOtherPredictions}} User Prediction(s) Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/u{{totalOtherPredictions}}.png" />
+		 {{/totalOtherPredictions}}
+		 
+	</td>
+</script>

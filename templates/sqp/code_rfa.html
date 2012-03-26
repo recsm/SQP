@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+{% load markup %}
+<title>SQP: {{question}}</title>
+<link href="/media/css/code.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/media/css/prototip.css" />
+<script type="text/javascript" src="/media/js/prototype-1.6.0.2.js"></script>
+<script type='text/javascript' src='/media/js/prototip.js'></script>
+<script type="text/javascript">
+<!--
+document.observe('dom:loaded', function() {
+    new Tip('tip_intro', "{{intro_desc|textile|escapejs}}", 
+       {className: 'protoblue', title:'Help for introduction',  
+        borderColor:'#ffffff'});
+
+    new Tip('tip_code', "Click the button to start coding the characteristics of this question by hand.", 
+       {className: 'protoblue', title:'What is this?',  
+        borderColor:'#ffffff'});
+
+{%if perms.can_copy%}
+   new Tip('tip_copy', '<p> The Copy Tool is an <b>optional tool</b> that allows you to duplicate the codings chosen for another question into the codings for the present question. You will be able to change your choices afterwards.</p> <p>Choose the question from which you want to copy the codings by selecting the corresponding item, country, and language for that question. Then click <i>copy</i> to copy the codings for that question into the current question\'s codings.</p> <p>(The tool can be revealed by clicking on the plus sign).</p>', 
+       {className: 'protoblue', title:'What is the copy tool?',  
+        borderColor:'#ffffff'});
+    $('id_study').observe('change', function(event){
+        document.copy_form.submit();
+    });
+{%endif%}
+});
+
+
+function toggle_plus() {
+   var el = document.getElementById('copy_form');
+   if (el.style.display != 'none' ) {
+      el.style.display = 'none';
+      document.img_plus.src = '/media/img/sqp/list-add.png';
+   }
+   else {      
+      el.style.display = ''; 
+      document.img_plus.src = '/media/img/sqp/list-remove.png';
+   }
+}
+-->
+</script>
+</head>
+<body>
+<table cellspacing="2" cellpadding="1" border="0" width="100%" id="main">
+<tr><td id="header">Code Question:
+<h1>{{question}}</h1>
+</td></tr>
+<tr><td id="text">
+{% if message %}<div class="warning">{{message}}</div>{%endif%}
+
+<form id="code_form" name="code_form"  action="" method="post">
+<input type="hidden" name="characteristic_id" value="{{characteristic.id}}">
+<input type="hidden" name="label_id" value="{{label_id}}">
+
+Introduction text:
+   <div id="tip_intro" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div>
+<textarea name="introduction_text" id="introduction_text">{%if question.introduction_text%}{{question.introduction_text}}{%endif%}</textarea><br/>
+Request for an Answer text:<br/>
+<textarea name="rfa_text" id="rfa_text">{%if question.rfa_text%}{{question.rfa_text}}{%endif%}</textarea><br/>
+Answer categories text:<br/>
+<textarea name="answer_text" id="answer_text">{%if question.answer_text%}{{question.answer_text}}{%endif%}</textarea>
+<p id="save_p">
+<input type="submit" value="Code characteristics >>" class="smb" name="rfa_smb" />
+   <span id="tip_code" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></span>
+</p>
+</form>
+{%if perms.can_copy%}
+<p><b>OR</b></p>
+
+<h3>Use the Copy Tool <div id="tip_copy" class="tip"><img src="/media/img/sqp/help-browser.png" width="22" height="22" alt="?" /></div>
+<a href="#" onclick="javascript:toggle_plus();"><img src="/media/img/sqp/list-remove.png" name="img_plus" width="22" height="22" alt="open/close" /></a></h3>
+
+<form  action="" id="copy_form" name="copy_form" method="post">
+<input type="hidden" name="action" value="copy" />
+<table><tr><td colspan="2">&nbsp;</td><td>Study</td><td>Item</td><td>Country</td><td>Language</td><td>&nbsp;</td></tr>
+<tr><td><img src="/media/img/sqp/edit-redo.png" alt="tools" /></td><td>copy choices from: </td><td>{{copy_form.study}}</td><td>{{copy_form.item}}</td><td>{{copy_form.country}}</td><td>{{copy_form.language}}</td><td>
+<input type="submit" name="copy_submit" class="smb" value="copy!"/></td></tr></table>
+</form>
+{%endif%}
+
+</td></tr>
+</table>
+</body>
+</html>
