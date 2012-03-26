@@ -3,7 +3,6 @@ MySQL-python==1.2.3
 Pyro4==4.8
 South==0.7.3
 django-extensions==0.8
-pygraphviz==1.1
 ## FIXME: could not find svn URL in dependency_links for this package:
 rpy2==2.2.2dev-20110824
 textile==2.1.5
