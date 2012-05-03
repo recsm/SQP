@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from sqp import models
-from sqp.views_ui_utils import URL, get_branch, get_label
+from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list
 from django.db import connection, transaction
 import math
 import textile
@@ -88,7 +88,7 @@ def render_predictions(user, questionId, \
             
             if settings.DEBUG: print "Connected to predictor through Pyro4."
             
-            predictions = predictor.get_predictions(question, codes, user, charset)        
+            predictions = predictor.get_predictions(question.country.iso, question.language.iso, get_codes_list(codes))        
             
             if settings.DEBUG: 
                 elapsed = time.time() - start
@@ -213,8 +213,8 @@ def get_potential_improvements(user, questionId, xname, params, completionId=0, 
     
 
     for what in params:
-        selected_improvements = predictor.get_conditional_effects(question, \
-                                     codes, for_user, charset, what, xname)
+        selected_improvements = predictor.get_conditional_effects(question.country.iso, question.language.iso, \
+                                     get_codes_list(codes), what, xname)
         
         # for i in range(0, len(selected_improvements)):
         #     "Round any boolean keys"

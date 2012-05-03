@@ -46,3 +46,12 @@ def get_label(characteristic):
     from sqp.models import Label  
     labels = Label.objects.filter(characteristic = characteristic, compute = True)
     return labels[0] # TODO: evaluate rules (now just taking the first found)
+
+
+def get_codes_list(codes):
+    codes_list = []
+    for code in codes:
+        code_dict = {'code' : code['code'] ,
+                     'characteristic_short_name' : code['characteristic'].short_name} 
+        codes_list.append(code_dict)
+    return codes_list
