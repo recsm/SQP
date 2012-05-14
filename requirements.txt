@@ -6,4 +6,3 @@ django-extensions==0.8
 textile==2.1.5
 tornado==2.0
 wsgiref==0.1.2
-rpy2==2.2.6
