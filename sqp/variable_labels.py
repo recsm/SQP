@@ -1,7 +1,7 @@
 
 
 """
-These are extra labels for variables used in the potential iomprovements prediction engine
+These are extra labels for variables used in the potential improvements prediction engine
 """
 extra_variable_labels = {'concept' : [
                             {'labelCode' : '71' , 'labelName' : 'Other Simple Concepts: Judgement'},

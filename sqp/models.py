@@ -348,6 +348,7 @@ class CharacteristicSet(models.Model):
            Reads all characteristics into memory, provides O(1) lookup of
            chars without additional database queries"""
         # chars INNER JOIN on branches --> requires DISTINCT
+        print type(Characteristic)
         characteristics = Characteristic.objects.filter(\
                 label__branch__characteristicset = self).select_related().distinct()
         chardict = {} # cache in dict for fast lookup
@@ -627,6 +628,10 @@ class Country(models.Model):
         ordering = ['name',]
 
 
+characteristic_trees = {}
+
+
+
 class Question(models.Model):
     item     = models.ForeignKey(Item)
     language = models.ForeignKey(Language)
@@ -845,79 +850,17 @@ class Question(models.Model):
             charset = CharacteristicSet.objects.get(pk = \
                 request.session['characteristic_set'])
         
+        try:
+            tree = characteristic_trees[charset.id]
+        except:
+            #Trees have not been initialized yet, initialize them all here
+            for cset in CharacteristicSet.objects.all():
+                characteristic_trees[cset.id] = CharacteristicTree(cset)
+            tree = characteristic_trees[charset.id]
+                
+        codes = Coding.objects.filter(question = self, user = user)
+        return tree.iter_branches(codes)
 
-        
-#        tree = characteristic_trees[charset.id]
- #       codes = Coding.objects.filter(question = self, user = user)
- #       return tree.iter_branches(codes)
-
-        branches = Branch.objects.filter(characteristicset = charset).\
-           select_related('to_characteristic','label','label__characteristic').\
-           extra(select={'coding_choice' : \
-            """SELECT sqp_coding.choice from sqp_coding WHERE
-            sqp_coding.characteristic_id = sqp_label.characteristic_id AND """+\
-            "sqp_coding.user_id = %d AND sqp_coding.question_id = %d" % \
-            (user.id, self.id)})
-        # branches contains all branches for this characteristic set.
-        # Each branch has an attribute coding_choice which is a string with
-        #   the choice made for the coding chosen by User for this Question
-        #   for the characteristic from which the branch originates.
-        #   If there is no coding for that characteristic, coding_choice = None.
-        # Using to_characteristic, label, and label.characteristic will not
-        #   result in additional database queries.
-
-        # Find the starting characteristic (first characteristic to which the
-        #   start node points)
-        
-        start_char = Characteristic.objects.filter(\
-                branch__characteristicset = charset,
-                branch__label__characteristic__short_name__exact = start).\
-                distinct()
-        if not start_char: raise Exception('No starting characteristic found!')
-        elif len(start_char) > 1:
-            print start_char
-            raise Exception('There should be only 1 starting characteristic..')
-        next = start_char[0]
-
-        def last(next, user=user, self=self):
-            "Hack to include the last element"
-            try:
-                last_code = Coding.objects.get(user = user, characteristic = next,
-                        question = self)
-                return FakeBranch(last_code)
-                if fake_branch.label: return fake_branch
-                else: return None # guarantee that branch.label can be done
-            except Coding.DoesNotExist:
-                logging.debug('No coding found...')
-                return None
-
-        while True: # will return with either last element as FakeBranch or None
-            next_branches = branches.filter(label__characteristic = next)
-            if not next_branches:
-                if yield_last: yield last(next)
-                return # successfully reached the end
-            found = None
-            for branch in next_branches:
-                coding_choice = branch.coding_choice
-                if next.is_categorical(): # care about the label.code iff categ.
-                    if coding_choice and coding_choice == str(branch.label.code):
-                        found = branch; break
-                else: found = branch; break # unless coding_choice == None?
-            # If the branch of the code is found and the coding is not None
-            if found:
-                if found.coding_choice: yield found
-                else: yield None; return
-            # If the coding is None (non-categorical q's or no branch found)
-            #  stop iterations and yield None to signify it
-            else: # might be last, so if coded and label exists
-                if coding_choice:  # label might or might not exist
-                    try: Label.objects.get(characteristic=next, code=coding_choice)
-                    except Label.DoesNotExist: # No not after all
-                        yield None; return
-                    if yield_last: yield last(next)# yes, exists--> last
-                    return
-                else: yield None; return
-            next = found.to_characteristic
             
   
 
@@ -1945,7 +1888,7 @@ class CharacteristicTree():
         """Get the full coding history for a group of codings
             The codings must be one user coding one question """
         
-        history = []
+        tree = []
         
         from_char = self.get_char_by_short_name(from_char)
         
@@ -1959,20 +1902,21 @@ class CharacteristicTree():
                 code = code_dict[from_char.id]
             except:
                 #No code exists in the next branch.....
-                #Need to add a fake branch here?
                 break;
+
             #Copies are made of each branch since we have to append the coding_choice each time
             branch = copy.copy(self.get_branch(from_char, code.choice))
             
             if branch:
                 branch.coding_choice = code.choice
-                history.append(branch)
+                tree.append(branch)
                 from_char = branch.to_characteristic
             else:
-                history.append(FakeBranch(code))
+                #It should actually be impossible to get here in the loop....
+                tree.append(FakeBranch(code))
                 break;
             
-        return history
+        return tree
    
     def get_char_by_short_name(self, short_name):
         "Utility function used locally"
@@ -2006,13 +1950,3 @@ def compare(question_id=6321, user_id=8):
     print "For the iter branches it took", time.time() - start, " seconds - ", len(hist), ' codes.'
    
     return [hist_tree, hist]
-        
-characteristic_trees = {}
-
-for cset in CharacteristicSet.objects.all():
-    characteristic_trees[cset.id] = CharacteristicTree(cset)
-
-        
-
-        
-        

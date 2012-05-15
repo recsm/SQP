@@ -11,12 +11,9 @@ if settings.DEBUG: import time
 from django.db.models import Q
 from sqp import views_ui_exceptions
 from sqp.variable_labels import extra_variable_labels
-from sqp.predict.xlevels import xlevels
 
 import json
 import sys
-
-from rpy2.rinterface import RRuntimeError
 
 import Pyro4
 # MD5Sum of a now-famous password. Pyro uses this to sign the message

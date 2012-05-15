@@ -1,8 +1,9 @@
-#!/usr/local/bin/python2.5
+#/usr/local/bin/python2.7
 from django.core.management import execute_manager
 import sys
 sys.path.append('/home/sqp/webapps/django/sqp')
 sys.path.append('/home/daob/work')
+
 try:
     import settings # Assumed to be in the same directory.
 except ImportError:

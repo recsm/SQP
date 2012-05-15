@@ -22,7 +22,6 @@ def load_ui(request):
     return render_to_response('ui/coder_ui.html', {'title' : 'SQP Coder',
                                                    'user'  : request.user})
 
-
 def format_error_message(exception_inst):
     exc_type, exc_value, exc_traceback = sys.exc_info()
     return traceback.format_exception(exc_type, exc_value, exc_traceback)

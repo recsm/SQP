@@ -1,5 +1,0 @@
-import logging
-LOG_FILENAME = '/home/sqp/webapps/django/sqp_project/sqp/sqp_log.txt'
-logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG,)
-
-logging.debug('Started logging.')

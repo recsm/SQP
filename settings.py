@@ -109,7 +109,6 @@ INSTALLED_APPS = (
     'django.contrib.markup',
     'django.contrib.humanize',
     'sqp_project.sqp',
-    'sqp_project.calculate',
     'south'
 )
 
