@@ -56,6 +56,7 @@ ADMIN_MEDIA_PREFIX = '/media/admin/'
 GRAPPELLI_ADMIN_TITLE = 'SQP Admin'
 
 
+PREDICTOR_COUNT = 1
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (

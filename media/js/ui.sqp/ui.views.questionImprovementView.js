@@ -93,6 +93,7 @@
 		 	$('.questionImprovementCurrentlyLoading').html('Loading ' + this.improvementLists[listName]['title'] + '...');
 	 		if (!view.isLoading) {
 				view.loadImprovements_whileNext();
+				view.loadImprovements_whileNext();
 			} 
 			this.initImprovementModels();
 	 		this.renderList();
@@ -242,7 +243,10 @@
 			});
 			return loaded;
 		},
+		linkToAllVarsShown : false,
 		showLinkToAllVars : function() {
+			if(this.linkToAllVarsShown == true) return;
+			this.linkToAllVarsShown = true;
 			var view=this;
 			if(this.showImprovementList != 'all') {
 			

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from sqp import models
-from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list
+from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list, get_predictor
 from django.db import connection, transaction
 import math
 import textile
@@ -15,11 +15,7 @@ from sqp.variable_labels import extra_variable_labels
 import json
 import sys
 
-import Pyro4
-# MD5Sum of a now-famous password. Pyro uses this to sign the message
-#   Need to make sure nameserver and client use this 
-#   or more easily just export PYRO_HMAC_KEY='2d736347ff7487d559d7fb3cfc1e92dd'
-Pyro4.config.HMAC_KEY = "2d736347ff7487d559d7fb3cfc1e92dd"
+
 
 SUCCESS   = 1
 FAILED    = 0
@@ -81,9 +77,7 @@ def render_predictions(user, questionId, \
         try:
             # Connect to the predictor through Pyro. The pyro name server is used to
             #find the predictor object.
-            predictor = Pyro4.Proxy("PYRONAME:predictor")
-            
-            if settings.DEBUG: print "Connected to predictor through Pyro4."
+            predictor = get_predictor() 
             
             predictions = predictor.get_predictions(question.country.iso, question.language.iso, get_codes_list(codes))        
             
@@ -172,7 +166,7 @@ def get_prediction_list(user):
 
 
 def get_xnames(user):
-    predictor = Pyro4.Proxy("PYRONAME:predictor")
+    predictor = get_predictor()
     return json.dumps(predictor.get_xlevels(scale_basic='2'))
 
 def get_potential_improvements(user, questionId, xname, params, completionId=0, characteristicSetId=False):
@@ -194,10 +188,9 @@ def get_potential_improvements(user, questionId, xname, params, completionId=0, 
         
     charset = models.CharacteristicSet.objects.get(id=characteristicSetId) 
     codes = question.get_codes(for_user,charset)
-    
-    
-    predictor = Pyro4.Proxy("PYRONAME:predictor")
-    
+      
+    predictor = get_predictor()
+            
     improvements = {}
     
     params = params.split(',')

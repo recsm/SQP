@@ -1850,12 +1850,10 @@ post_delete.connect(post_delete_easy_handler)
 
 
 class CharacteristicTree():
-    
-    characteristic_set = None
-    characteristics = None
-    branches = {}
 
     def __init__(self, characteristic_set):
+        self.characteristics = None
+        self.branches = {}
         self.characteristic_set = characteristic_set
         self.characteristics = self.characteristic_set.get_characteristic_dict()
         
@@ -1865,24 +1863,26 @@ class CharacteristicTree():
             if branch.label.characteristic.is_categorical():
                
                 try:
-                    self.branches[branch.label.characteristic.short_name][branch.label.code] = branch
+                    self.branches[branch.label.characteristic.short_name][str(branch.label.code)] = branch
                 except:
                     self.branches[branch.label.characteristic.short_name]= {}
-                    self.branches[branch.label.characteristic.short_name][branch.label.code] = branch
+                    self.branches[branch.label.characteristic.short_name][str(branch.label.code)] = branch
             else:
                 self.branches[branch.label.characteristic.short_name] = branch
                
+        
             
     def get_branch(self, from_char, code):
         """For a choice on a characteristic, get a branch to another characteristic if it exists """
         try:
             if from_char.is_categorical():
-                return self.branches[from_char.short_name][code]
+                return self.branches[from_char.short_name][str(code)]
             else:
                 return self.branches[from_char.short_name]
         except:
-            pass
-        return None
+            return None
+        
+        
     
     def iter_branches(self, codes, from_char='domain'):
         """Get the full coding history for a group of codings
@@ -1915,7 +1915,7 @@ class CharacteristicTree():
                 #It should actually be impossible to get here in the loop....
                 tree.append(FakeBranch(code))
                 break;
-            
+                
         return tree
    
     def get_char_by_short_name(self, short_name):
