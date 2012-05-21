@@ -7,7 +7,7 @@ Coders View: {{title}}
 {% block content %}
 {% load straight_include %}
 
-<!-- Question Detail Coding and Characteistic List -->
+<!-- Question Detail Coding and Charactistic List -->
 {% straight_include "icanhaz.characteristicNumericTemplate.html" %}
 {% straight_include "icanhaz.characteristicRadioTemplate.html" %}
 {% straight_include "icanhaz.characteristicTextTemplate.html" %}
@@ -62,15 +62,12 @@ Coders View: {{title}}
 	
 	<!-- Question List View -->
 	<div id='pageQuestionList' class="uiPage">
-	    
 	    <div class="qListBreadCrumb breadCrumb">
 	        <a href="#">Home</a> 
 	        <span class="breadCrumbSep">&gt;</span>
 			<span class="breadCrumbCurrent questionListTitle">All Questions</span>
-			
 			<span class="breadCrumbSep qListCurrentQuestionBreadCrumb" style="display:none;">&gt;</span>
 			<a class="breadCrumbCurrent qListCurrentQuestionBreadCrumb" style="display:none;"></a>
-			
 	    </div>
 		<div class='qListNav'>
 			<div class="block ui-widget">
@@ -172,6 +169,19 @@ Coders View: {{title}}
 				</div>
 			</div>
 		</div>	
+	</div>
+	
+	
+	<!-- Assigned Questions View -->
+	<div id='pageAssignedQuestionList' class="uiPage">
+	    <div class="qListBreadCrumb breadCrumb">
+	        <a href="#">Home</a> 
+	        <span class="breadCrumbSep">&gt;</span>
+			<span class="breadCrumbCurrent">My Assigned Questions</span>
+	    </div>
+	    <div id="assignedQListView">
+	    	
+	    </div>
 	</div>
 	
 	
@@ -386,8 +396,23 @@ Coders View: {{title}}
 	<div id='pageSearch'  class="uiPage">Search</div>
 	<div id='pageSettings' class="uiPage">Settings</div>
 
+	
+	
+	<!-- Home Page -->
 	<div id='sqpmain' class="uiPage">
+		
 		<div id='sqpcontent'>
+			<div id="assignmentNotice" style="display:none;">
+				
+				<div class="block">
+				    <h4 class="blockHeader">Questions Assigned to You</h4>
+				    <div class="blockContent">
+				    	<h3>You have questions assigned to you!</h3>
+				    	<p><a href="#assignedQuestionsList">Work on my assignments!</a></p>
+				    </div>
+				</div>
+	
+			</div>
 			<div class="leftColumn">
 				<div class="leftColumnContent">
 					<div class="block">

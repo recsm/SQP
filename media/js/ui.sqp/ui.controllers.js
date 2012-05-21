@@ -59,6 +59,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	routes: {
 		"": 												 "home", //default
 		"home":												 "home",
+		"assignedQuestionsList": 							"assignedQuestionsList", //list of all questions
 		"questionList": 									 "questionList", //list of all questions
 		"questionList/:query": 								 "questionList", //filtered list of questions
 		"questionPrediction/:query/:query": 				 "questionPrediction", //prediction for a question by another user
@@ -77,12 +78,9 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		"edit/question/:query":								 "editQuestion",
 		"edit/characteristic/:query/question/:query":		 "editCharacteristic",
 		"edit/complete/question/:query":					 "editCodingComplete",
-		"characteristic/:query/question/:query/:query":		 "viewCharacteristic", //View characteristics from someone elses coding
-              "helloWorld":                                            "helloWorld"
+		"characteristic/:query/question/:query/:query":		 "viewCharacteristic" //View characteristics from someone elses coding
+
 	},
-       helloWorld : function () {
-           alert('hello');
-       },
 	currentCharacteristicId : false, //Which characteristic we are coding if any
 	currentQuestion : false, /* Keep track of the current question we are editing 
 	                            since a lot of sub views depend on the question 
@@ -91,7 +89,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	questionListRendered : false, /* Keep track if the question list is rendered */
 	questionListView : false, /* A reference to the question list view */
 	questionListCollection : false, /* A reference to the question list collection */
-	
+	isWorkingOnAssignment : false, /* Did the user come from the question list view or the assigned question view when coding a question? */ 
 	qImprovementView : false, /* A reference to the current potential improvement view */
 	currentView : false, /* Keep track of what view we are currently showing */
 	markCurrentRow : function () {
@@ -153,7 +151,35 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		this.currentQuestion = false;
 		this.currentCharacteristicId = false;
 	},
+	assignedQuestionsList : function () {
+		this.isWorkingOnAssignment = true;
+		if (this.currentView != 'assignedQuestionsList') {
+			sqpBackbone.helpers.hideAllPages();
+			$("#pageAssignedQuestionList").fadeIn();
+			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			this.currentView = 'assigne(dQuestionsList';
+			$('.openQuestionList').html('My Assigned Questions').attr('href', '#assignedQuestionsList');
+		}	
+		
+		var assignedQuestions = new sqpBackbone.collections.assignedQuestionsList();
+
+		assignedQuestions.fetch({
+			success: function() {
+				var assignedQuestionsListView = new sqpBackbone.views.assignedQuestionsListView({
+					el: $('#assignedQListView'),
+					collection: assignedQuestions
+				});
+			},
+			error : function() {
+				alert('There was an error contacting the server.');
+			}
+         });
+		
+	},
 	questionList: function(query){
+		
+		 this.isWorkingOnAssignment = false;
+		 
 		 if(query){
 			 var queryDict = {}
 			 var params = query.split('|');
@@ -169,6 +195,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			sqpBackbone.helpers.hideAllPages();
 			$("#pageQuestionList").fadeIn();
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
+			$('.openQuestionList').html('Questions').attr('href', '#qestionList');
 			this.currentView = 'questionList'
 		}		
 		
@@ -257,7 +284,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				controller.updateQuestionBreadCrumb(questionDetail);
 				
 				
-				if (completionId || questionDetail.toJSON().completeness == 'completely-coded' || questionDetail.toJSON().completeness == "partially-coded") {
+				if (questionDetail.toJSON().completeness == 'completely-coded' || questionDetail.toJSON().completeness == "partially-coded") {
 					//alert("load coding detail data" + questionDetail.toJSON().completeness);
 					$('#codingList').fadeIn();
 					$('#codingListWelcome').hide();
@@ -268,15 +295,15 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					
 					if(completionId) {
 						allCodings.url += '&completionId=' + completionId;
+					} 
+					
+					if(questionDetail.toJSON().completeness == "completely-coded") {
 						$('.nextCharacteristicButton').hide();
 						$('#continueCoding').hide();
+						
 					} else {
 						$('.nextCharacteristicButton').attr("href", "#edit/next/characteristic/question/" + questionId);
-							if(questionDetail.toJSON().completeness == 'completely-coded') {
-							$('#continueCoding').hide()
-						} else {
-							$('#continueCoding').fadeIn()
-						}
+						$('#continueCoding').fadeIn();
 					}
 					
 					allCodings.fetch({
@@ -451,13 +478,21 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		});
 	},
 	updateQuestionBreadCrumb : function (questionModel) {
-		$('.questionTitleBreadCrumb').html(questionModel.getShortTitle());
 		
-		if(!this.questionListView) {
-			$('.questionTitleBreadCrumb').attr('href', '#questionList/question|' + questionModel.get('id'));
+		$('.questionTitleBreadCrumb').html('Question ' + questionModel.getShortTitle());
+
+		if (this.isWorkingOnAssignment) {
+			$('.questionTitleBreadCrumb').removeAttr('href');
+			$('.questionTitleBreadCrumb').css('color', '#555');
+
 		} else {
-			$('.questionTitleBreadCrumb').attr('href', '#questionList/' + this.questionListView.collection.getURI());
+			if(!this.questionListView) {
+				$('.questionTitleBreadCrumb').attr('href', '#questionList/question|' + questionModel.get('id'));
+			} else {
+				$('.questionTitleBreadCrumb').attr('href', '#questionList/' + this.questionListView.collection.getURI());
+			}
 		}
+		
 	},
 	questionPrediction : function (questionId, completionId) {
 		var controller = this;completionId
@@ -718,8 +753,6 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				}
 			});
 		}
-		
-		
 	},
 	search: function(){
 		sqpBackbone.helpers.hideAllPages();
@@ -731,8 +764,23 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	home: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'home';
-		$('#sqpmain').fadeIn();
-		$('#homeTab').removeClass('unselectedtab').addClass('selectedtab');
+
+		var assignedQuestions = new sqpBackbone.collections.assignedQuestionsList();
 		
+		assignedQuestions.fetch({
+			success: function() {
+				if(assignedQuestions.length > 0) {
+					//Show a notice about assignment
+					$('#assignmentNotice').show();
+				}
+
+				$('#sqpmain').fadeIn();
+				$('#homeTab').removeClass('unselectedtab').addClass('selectedtab');
+		
+			},
+			error : function() {
+				alert('There was an error contacting the server.');
+			}
+         });
 	}
 });

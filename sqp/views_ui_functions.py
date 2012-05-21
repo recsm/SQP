@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 
 from sqp import models
+from sqp import views_ui_model_views
 from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list, get_predictor
+
 from django.db import connection, transaction
 import math
 import textile
@@ -30,6 +32,22 @@ def get_username(request_user, user):
     else:
         return "User %s" % user.id
 
+
+def get_assigned_questions(user):
+    """Returns a list of questions assigned to a user
+    """
+    characteristicSetId = user.profile.default_characteristic_set_id
+    charset = models.CharacteristicSet.objects.get(id=characteristicSetId) 
+    
+    obj_response_body = []
+    meta = {}
+    for user_question in models.UserQuestion.objects.filter(user=user):
+        question_model_view = views_ui_model_views.question_base(user_question.question)
+        question_model_view['completeness'] = user_question.question.get_completeness(user,charset)
+        obj_response_body.append(question_model_view)
+    
+    return obj_response_body, meta, SUCCESS
+
 def render_predictions(user, questionId, \
                       predictionKeyList, completionId=0, characteristicSetId = False):
     """Loads a list of prediction objects and returns the html from the 
@@ -57,7 +75,6 @@ def render_predictions(user, questionId, \
 
     if settings.DEBUG: start = time.time()
 
-    print "QUESTION ID %s CHAR ID  %s key list %s CODES %s USER %s" % (questionId, characteristicSetId, predictionKeyList, len(codes), completion.user) 
 
     try:
         #Here we check if the prediction was rendered
@@ -83,13 +100,10 @@ def render_predictions(user, questionId, \
             
             if settings.DEBUG: 
                 elapsed = time.time() - start
-                print predictions 
                 print "Got the predictions, took %2.4f s" % elapsed
          
             for prediction in models.Prediction.objects.all():
                 try:
-                    #DEBUG
-                    print "Trying %s : %s ..."%(prediction.paramater.name, prediction.view.name)
                     try:
                     # Look up the Prediction in the predictions dict
                         prediction_return = \
@@ -102,8 +116,6 @@ def render_predictions(user, questionId, \
             
                     completion.predictions[prediction.key] = prediction_return
                     
-                    print "%s : %s" % (prediction.key, prediction_return)
-
                 except Exception as e:
                     completion.predictions['errors'][prediction.key] =  "%s - %s" % (type(e), str(e))
                     print 'prediction %s failed with exception %s' % (prediction.key, e)
@@ -413,7 +425,6 @@ def get_question(user, questionId, characteristicSetId = False):
         
     if models.CodingSuggestion.objects.filter(question=question).count() == 0:
         #generate suggestions
-        print "Saving question from views_ui_functions.get_question to generate suggestions"
         question.save()
             
     completeness = question.get_completeness(user, charset)
@@ -842,7 +853,6 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
         sql = "SELECT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
         
-        print sql
         
         if q != '':
             qs = models.Question.objects.raw(sql, [q,q,q,q,q,q])
@@ -879,28 +889,18 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
                 if completion.user == user:
                     has_own_prediction = True
             
-
-            obj_response_body.append({
-                "id":                   question.id,
-                "url":                  URL.question(question.id),
-                "urlCodingHistory":     URL.question_coding_history(question.id),
-                "itemId":               question.item.id,
-                "studyId":              question.item.study.id,
-                "languageIso"  :        question.language.iso,
-                "countryIso"  :         question.country.iso,
-                "studyName":            question.item.study.name,
-                "itemPart":             question.item.main_or_supplementary(),
-                "itemCode":             question.item.admin,
-                "itemName" :            question.item.name,  
-                "country":              question.country.name,
-                "countryIso":           question.country.iso,
-                "language":             question.language.name,
-                "itemDescription":      question.item.long_name,
-                "completeness":         complete,  #This refers to the user's own coding of the question
+            
+            question_model_view = views_ui_model_views.question_base(question)
+            
+            question_model_view = dict(question_model_view.items() + {
+                
+                "completeness"            :     complete,  #This refers to the user's own coding of the question
                 "hasAuthorizedPrediction" :     has_authorized_prediction,
-                "hasOwnPrediction" :            has_own_prediction,
-                "totalOtherPredictions"  :      total_other_predictions,
-                "hasMTMM":              question.rel})
+                "hasOwnPrediction"        :     has_own_prediction,
+                "totalOtherPredictions"   :     total_other_predictions
+                }.items())
+            
+            obj_response_body.append(question_model_view)
         
         
         
@@ -1223,9 +1223,7 @@ def update_coding(user, obj_request_body, questionId, characteristicId, characte
     coding.seconds_taken = obj_request_body['secondsTaken']
    
     coding.save(charset=charset)
-    
-    print "SECONDS (%s ) %s" % (coding.id, coding.seconds_taken)
-    
+        
     obj_response_body['id'] = coding.id
        
     #Just mark the completion record as out of date

@@ -1,7 +1,13 @@
 
 from sqp import views_ui_functions
 
-calls = ({'name'             : 'predictionList',
+calls = ( {'name'            : 'getAssignedQuestions',
+           'return_type'     : 'payload_meta_success', 
+           'method'          : 'GET',
+           'user_required'   : True,
+           'function'        : views_ui_functions.get_assigned_questions},
+         
+          {'name'             : 'predictionList',
            'return_type'     : 'payload_meta_success', 
            'method'          : 'GET',
            'user_required'   : True,
