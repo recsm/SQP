@@ -1,3 +1,8 @@
 *.pyc
 local_settings.py
-
+_ReSharper*
+_Documentation*
+SQP.pyproj
+SQP.sln
+SQP.suo
+local/sqp_log.txt
