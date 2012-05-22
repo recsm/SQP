@@ -178,6 +178,11 @@
 			"click .characteristicDescIntro, .readFullDesc"	: "showFullDesc"
 		},
 		buttonSubmit: function(){ 
+			
+			if (this.completionId) {
+				return this.goNext()
+			}
+			
 			//Radio submit
 			
 			if (!this.canEdit) {
@@ -234,6 +239,10 @@
 								+ completionPart, this.completionId );
 		},
 		buttonSubmitNumeric: function(){ 
+			if (this.completionId) {
+				return this.goNext()
+			}
+			
 			// Update the model
 			var currentValue = $("[name='numeric']").val();
 			if (!/^\d+$/.test(currentValue)) /* reg exp numeric */{

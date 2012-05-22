@@ -195,7 +195,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			sqpBackbone.helpers.hideAllPages();
 			$("#pageQuestionList").fadeIn();
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
-			$('.openQuestionList').html('Questions').attr('href', '#qestionList');
+			$('.openQuestionList').html('Questions').attr('href', '#questionList');
 			this.currentView = 'questionList'
 		}		
 		
@@ -254,6 +254,9 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		var questionDetail = new sqpBackbone.models.questionItem;
 		questionDetail.url = questionDetail.url + questionId;
 		
+		if(completionId) {
+			questionDetail.url  += '&completionId=' + completionId;
+		} 
 		
 		this.currentCharacteristicId = false;
 		
@@ -298,7 +301,6 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					} 
 					
 					if(questionDetail.toJSON().completeness == "completely-coded") {
-						$('.nextCharacteristicButton').hide();
 						$('#continueCoding').hide();
 						
 					} else {
