@@ -109,41 +109,6 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		}
 	},
 	/*
-	 * Use jQuery to call the api with our current search
-	 * criteria and get back the next question after finsishing coding
-	 * upon success send it to our callback 
-	 */
-	getNextQuestion : function (callback) {
-			
-		var _controller = this;
-		
-		var questionId = this.currentQuestion.get('id');
-		
-		var currentSearch = '';
-		if (this.questionListCollection) {
-			if(this.questionListCollection.language) {
-				currentSearch += '&languageIso=' + this.questionListCollection.language;
-			}
-			
-			if(this.questionListCollection.country) {
-				currentSearch += '&countryIso=' + this.questionListCollection.country;
-			}
-			
-			if(this.questionListCollection.study) {
-				currentSearch += '&studyId=' + this.questionListCollection.study;
-			}
-		}
-	
-		$.ajax({
-				url: '/sqp/api/getNextQuestion/?fromQuestionId=' + questionId + currentSearch,
-				success: function(data){
-					callback(new sqpBackbone.models.questionItem(data.payload));
-				},
-				dataType : 'json'
-			}
-		 );
-	},
-	/*
 	 * Clear any cached questions so when a question is edited
 	 * the detail view and question list should be forced to refresh
 	 */
@@ -165,8 +130,10 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 
 		assignedQuestions.fetch({
 			success: function() {
+				
+				sqpBackbone.helpers.updateAssignedCount(assignedQuestions);
 				var assignedQuestionsListView = new sqpBackbone.views.assignedQuestionsListView({
-					el: $('#assignedQListView'),
+					el: $('#assignedQListTable'),
 					collection: assignedQuestions
 				});
 			},
@@ -488,6 +455,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			$('.questionTitleBreadCrumb').css('color', '#555');
 
 		} else {
+			$('.questionTitleBreadCrumb').css('color', '#2452F5');
+
 			if(!this.questionListView) {
 				$('.questionTitleBreadCrumb').attr('href', '#questionList/question|' + questionModel.get('id'));
 			} else {
@@ -774,6 +743,12 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				if(assignedQuestions.length > 0) {
 					//Show a notice about assignment
 					$('#assignmentNotice').show();
+					
+					sqpBackbone.helpers.updateAssignedCount(assignedQuestions);
+					
+					
+					$('#assignedQuestionListButton').button();
+					
 				}
 
 				$('#sqpmain').fadeIn();

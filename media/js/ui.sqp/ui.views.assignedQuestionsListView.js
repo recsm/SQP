@@ -8,17 +8,13 @@
 		
 			var view = this;
 			$(view.el).html('');
-			view.collection.each(function(assignedQuestion){
-				/*
-				var studyRowView = new sqpBackbone.views.studyRowView({
-					model: study
+				view.collection.each(function(assignedQuestion){
+				var qView = new sqpBackbone.views.assignedQuestionRowView({
+					model: assignedQuestion
 				});
-	
-				view.nodes.studyListTable.append(studyRowView.el);
-				*/
-				$(view.el).append('<p><a href="' + assignedQuestion.getCodingHref() +'">' + assignedQuestion.getTitle() + ' / ' + assignedQuestion.toJSON().completeness + '</a></p>');
+				console.log(view.el);
+				$(view.el).append(qView.el);
 			});
-			
 			return this;
 	  	}
   	});

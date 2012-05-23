@@ -14,8 +14,12 @@
 					
 			this.$('.btn').button();
 			this.$('.returnToList').click(function() {
-				//Call the main controller to open the current question list
-				sqpBackbone.app.openQuestionList();
+				if(sqpBackbone.app.isWorkingOnAssignment) {
+					window.location.hash = '#assignedQuestionsList';
+				} else {
+					//Call the main controller to open the current question list
+					sqpBackbone.app.openQuestionList();
+				}
 			});
 			
 			this.$('.getQualityPrediction').click(function() {
@@ -24,20 +28,30 @@
 			});
 			
 			var view = this;
-			//Load the next question id and info so we can link directly to it
-			sqpBackbone.app.getNextQuestion(function(question) {
-				if(question.get('id')) {
-					view.$('.codeNextNotice').show();
-					view.$('.codeNextInfo').html(question.getTitle());
-					view.$('.codeNextQuestion').click(function() {
-						window.location.hash='#question/' + question.get('id');
-					})
-					view.$('.codeNextLoading').hide();
-				} else {
-					view.$('.codeNextLoading').hide();
-				}
-			});
-			
+			if(sqpBackbone.app.isWorkingOnAssignment) {
+				
+				var assignedQuestions = new sqpBackbone.collections.assignedQuestionsList();
+				
+				assignedQuestions.fetch({
+					success: function() {
+						var nextQuestionFound = false;
+						assignedQuestions.each(function (assignedQuestion) {
+							if((assignedQuestion.get('completeness') != 'completely-coded') && !nextQuestionFound) {
+								nextQuestionFound = true;
+								view.$('.codeNextNotice').show();
+								view.$('.codeNextInfo').html(assignedQuestion.getTitle());
+								view.$('.codeNextQuestion').click(function() {
+									window.location.hash= assignedQuestion.getCodingHref();
+								})
+								view.$('.codeNextLoading').hide();
+							}
+						});
+					}
+				});
+				
+			} else {
+				view.$('.codeNextLoading').hide();
+			}
 			return this;
 		}
 	});

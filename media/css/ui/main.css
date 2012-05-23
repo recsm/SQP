@@ -425,11 +425,11 @@ label {
 	 margin: 10px 20px 10px 230px ;
 }
 
-.qListResults .overQuestionRow {
+.qListMain .overQuestionRow {
 	background-color:#99f;
 }
 
-.qListResults  .selectedQuestionRow {
+.qListMain .selectedQuestionRow {
 	background-color:#FE9231
 }
 
@@ -1036,4 +1036,31 @@ border:0px;
 /* Potential Improvements */
 #qImprovementContent {
  	margin: 10px 20px;
- }
+}
+  
+/* Assignment Notice */
+#assignmentNotice {
+	padding: 10px 20px;
+	background-color:#fff;
+}
+
+#assignmentNotice .blockHeader {
+	background-color:#FE9231;
+	color:#882200;
+}
+
+#assignmentNotice h3, #assignmentNotice a {
+	color:#882200;
+} 
+
+#assignmentNotice .block {
+	border-color:#FE9231;
+}
+
+.assignedQuestionsCount {
+	font-size:45px;
+	padding:5px 20px;
+	
+}
+
+
