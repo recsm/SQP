@@ -63,7 +63,7 @@ sqpBackbone.models.questionItem = Backbone.Model.extend({
 				if (otherPredictions[i]['completionId'] == completionId) return otherPredictions[i];
 			} 
 		}
-	},
+	}, 
 	getByInfo : function (completionId, itemType) {
 		if (!completionId) {
 			return this.getIcon('mine', 'My ' + itemType, '#86BD90');

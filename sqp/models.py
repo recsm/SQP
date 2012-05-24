@@ -833,7 +833,7 @@ class Question(models.Model):
         return codes
 
 
-    def iter_branches(self, request=None, user=None, charset=None, start='question', yield_last=True):
+    def iter_branches(self, request=None, user=None, charset=None, start='question'):
         """Not really an iterator anymore as an entire array is returned
            The last element is a branch for the last char if the interview is
                 complete. Otherwise the last branch is None.
@@ -881,10 +881,8 @@ class Question(models.Model):
            the return value is used in list_questions as a css class."""
         ncodings = Coding.objects.filter(question = self, user = user).count()
         if ncodings == 0: return 'not-coded'
-        for branch in self.iter_branches(user=user, charset=charset,
-                yield_last=False): pass
+        for branch in self.iter_branches(user=user, charset=charset): pass
         return branch and 'completely-coded' or 'partially-coded'
-
 
 
     def get_coding_for(self, characteristic_short_name, user):
@@ -1884,12 +1882,11 @@ class CharacteristicTree():
         
         
     
-    def iter_branches(self, codes, from_char='domain'):
+    def iter_branches(self, codes, from_char='domain', yield_last=True):
         """Get the full coding history for a group of codings
             The codings must be one user coding one question """
         
         tree = []
-        
         from_char = self.get_char_by_short_name(from_char)
         
         #build an index of the codes by char_id for faster lookup
@@ -1901,22 +1898,28 @@ class CharacteristicTree():
             try:
                 code = code_dict[from_char.id]
             except:
-                #No code exists in the next branch.....
-                break;
-
-            #Copies are made of each branch since we have to append the coding_choice each time
-            branch = copy.copy(self.get_branch(from_char, code.choice))
+                #Coding is not complete
+                #There is no code for the next char in the tree            
+                tree.append(None)
+                return tree
             
-            if branch:
+            try:
+                #Try to get a 
+                #Copies are made of each branch since we have to append the coding_choice each time
+                branch = copy.copy(self.get_branch(from_char, code.choice))
                 branch.coding_choice = code.choice
-                tree.append(branch)
                 from_char = branch.to_characteristic
-            else:
-                #It should actually be impossible to get here in the loop....
+                tree.append(branch)
+            except Exception as e:
+                print e
+                #Coding is complete
+                #A fake branch that will allow the last element in the tree to have a value
                 tree.append(FakeBranch(code))
-                break;
-                
-        return tree
+                return tree
+            
+            
+  
+       
    
     def get_char_by_short_name(self, short_name):
         "Utility function used locally"
@@ -1925,8 +1928,6 @@ class CharacteristicTree():
                 return self.characteristics[key]
         return None
         
-        
-    
         
 def compare(question_id=6321, user_id=8):
     """Quick compare to see iter_branches vs. CharacteristicTree"""

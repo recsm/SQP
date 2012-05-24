@@ -400,7 +400,7 @@ def get_language_list(user):
     return obj_response_body, {}, SUCCESS
 
 
-def get_question(user, questionId, characteristicSetId = False):
+def get_question(user, questionId, completionId=False, characteristicSetId = False):
     """
     Retrieve a Question object, annotating it with completion data from 
     the database and Related objects Item, Study, Language and Country."""
@@ -426,8 +426,12 @@ def get_question(user, questionId, characteristicSetId = False):
     if models.CodingSuggestion.objects.filter(question=question).count() == 0:
         #generate suggestions
         question.save()
-            
-    completeness = question.get_completeness(user, charset)
+    
+    if completionId:        
+        completion = models.Completion.objects.get(pk=completionId)
+        completeness = question.get_completeness(completion.user, completion.characteristic_set)
+    else:
+        completeness = question.get_completeness(user, charset)
     
     #Set some defaults
     prediction_quality = 0
@@ -438,7 +442,6 @@ def get_question(user, questionId, characteristicSetId = False):
     if completeness == 'completely-coded':
         
         try:
-            vars = 'question_quality,question_quality_coefficient,question_validity_coefficient,question_reliability_coefficient'
             qual = render_predictions(user, question.id, vars, characteristicSetId)
             prediction_quality = qual[0]['question_quality']
             prediction_quality_coefficient = qual[0]['question_quality_coefficient']
