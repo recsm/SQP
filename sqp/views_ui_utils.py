@@ -1,3 +1,4 @@
+from django.conf import settings
 
 
 import Pyro4
@@ -6,8 +7,10 @@ import Pyro4
 #   or more easily just export PYRO_HMAC_KEY='2d736347ff7487d559d7fb3cfc1e92dd'
 Pyro4.config.HMAC_KEY = "2d736347ff7487d559d7fb3cfc1e92dd"
 
-
-from django.conf import settings
+try:
+    Pyro4.config.HOST = settings.PYRO_HOST
+except:
+    pass
 
 API_BASE_URL = '/sqp/api'
 
