@@ -1127,14 +1127,17 @@ class QuestionBulkCreation(models.Model):
     item_group              = models.ForeignKey(ItemGroup, help_text ='Create questions for all items in the selected item group')
     country                 = models.ForeignKey(Country, help_text ='Question will be created only for this country')
     language                = models.ForeignKey(Language, help_text='Question will be created only for this language')
+    copy_text_from_study    = models.ForeignKey(Study, blank=True, null=True, help_text='Optional: Copy the intro, rfa text, and answer options from another study - when matching questions are available in that study.')
     created_questions       = models.ManyToManyField(Question, blank=True)
     has_been_run            = models.BooleanField(default=False,  verbose_name="Run and up to date")
     last_run_date           = models.DateField(blank=True, null=True, help_text = "The last time this assignment was run")
 
-    _run = False #Keep track if this instance was run to prevent multiple runs on save
-
-    _list = None #Cache of the question list for the model admin
-
+    def __init__(self, *args, **kwargs):
+        self._run = False #Keep track if this instance was run to prevent multiple runs on save
+        self._list = None #Cache of the question list for the model admin
+        self.copied_questions_count = 0   
+        return super(QuestionBulkCreation, self).__init__(*args, **kwargs)
+        
     class Meta:
         verbose_name = 'Bulk Question Creation Task'
         verbose_name_plural = 'Bulk Question Creation Tasks'
@@ -1176,7 +1179,7 @@ class QuestionBulkCreation(models.Model):
         """Used by the model admin to show which questions would be created in the confirm screen"""
         if self._list is None: #If none on the first call we create the list
             self._list = {'to_create' : [],
-                        'already_exist' : []}
+                          'already_exist' : []}
             for item in self.item_group.items.iterator():
                 question_summary = "%s in %s for country %s" % (item, self.language, self.country)
                 try:
@@ -1186,6 +1189,17 @@ class QuestionBulkCreation(models.Model):
                     self._list['to_create'].append(question_summary)
         return self._list
 
+    def get_copy_from_question(self, question):
+        if not self.copy_text_from_study:
+            return None
+         
+        try:
+            item = Item.objects.filter(study=self.copy_text_from_study, admin=question.item.admin, name=question.item.name)
+            question = Question.objects.get(item=item, country=question.country, language=question.language)
+            return question
+        except:
+            return None
+        
     def options(self):
         """Return some option buttons to link directly to the admin action"""
 
@@ -1209,8 +1223,16 @@ class QuestionBulkCreation(models.Model):
         for item in self.item_group.items.iterator():
             question, created = Question.objects.get_or_create(item=item, language=self.language, country=self.country)
             if created:
+                copy_from_question = self.get_copy_from_question(question)
+                if copy_from_question:
+                    question.introduction_text = copy_from_question.introduction_text
+                    question.rfa_text = copy_from_question.rfa_text
+                    question.answer_text = copy_from_question.answer_text
+                    question.save()
+                    self.copied_questions_count += 1
                 if question not in all_questions:
                     self.created_questions.add(question)
+                    
         self.has_been_run = True
         self.last_run_date = datetime.now()
 

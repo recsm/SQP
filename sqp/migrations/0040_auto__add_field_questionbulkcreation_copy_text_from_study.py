@@ -4,19 +4,19 @@ from south.db import db
 from south.v2 import SchemaMigration
 from django.db import models
 
-#from sqp_project.calculate.utilities import run_calculation
-#from sqp_project.sqp.calculations import CreateProfiles
-
-
 class Migration(SchemaMigration):
 
     def forwards(self, orm):
-        run_calculation(CreateProfiles())
-
-
+        
+        #This is manual becuase south or django fails to look up the type of column when making a foreign key index. 
+        db.execute_many("ALTER TABLE `sqp_questionbulkcreation` ADD `copy_text_from_study_id` INT( 10 ) UNSIGNED NOT NULL ;")
+        
+    
 
     def backwards(self, orm):
-        pass
+        
+        # Deleting field 'QuestionBulkCreation.copy_text_from_study'
+        db.delete_column('sqp_questionbulkcreation', 'copy_text_from_study_id')
 
 
     models = {
@@ -122,10 +122,13 @@ class Migration(SchemaMigration):
         },
         'sqp.completion': {
             'Meta': {'object_name': 'Completion'},
+            'authorized': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'characteristic_set': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.CharacteristicSet']"}),
             'complete': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'out_of_date': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
+            'potential_improvements': ('sqp.fields.PickledObjectField', [], {'null': 'True', 'blank': 'True'}),
+            'predictions': ('sqp.fields.PickledObjectField', [], {'null': 'True', 'blank': 'True'}),
             'question': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Question']"}),
             'user': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['auth.User']"})
         },
@@ -201,6 +204,7 @@ class Migration(SchemaMigration):
             'Meta': {'object_name': 'Prediction'},
             'function_name': ('django.db.models.fields.CharField', [], {'max_length': '80'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
+            'key': ('django.db.models.fields.CharField', [], {'max_length': '80', 'blank': 'True'}),
             'paramater': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Parameter']"}),
             'view': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.View']"})
         },
@@ -213,7 +217,13 @@ class Migration(SchemaMigration):
             'introduction_text': ('django.db.models.fields.TextField', [], {'null': 'True', 'blank': 'True'}),
             'item': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Item']"}),
             'language': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Language']"}),
-            'rfa_text': ('django.db.models.fields.TextField', [], {'null': 'True', 'blank': 'True'})
+            'rel': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'}),
+            'rel_hi': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'}),
+            'rel_lo': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'}),
+            'rfa_text': ('django.db.models.fields.TextField', [], {'null': 'True', 'blank': 'True'}),
+            'val': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'}),
+            'val_hi': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'}),
+            'val_lo': ('django.db.models.fields.FloatField', [], {'null': 'True', 'blank': 'True'})
         },
         'sqp.questionbulkassignments': {
             'Meta': {'object_name': 'QuestionBulkAssignments'},
@@ -230,6 +240,7 @@ class Migration(SchemaMigration):
         },
         'sqp.questionbulkcreation': {
             'Meta': {'object_name': 'QuestionBulkCreation'},
+            'copy_text_from_study': ('django.db.models.fields.related.ForeignKey', [], {'default': 'False', 'to': "orm['sqp.Study']"}),
             'country': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Country']"}),
             'created_questions': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['sqp.Question']", 'symmetrical': 'False', 'blank': 'True'}),
             'has_been_run': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),

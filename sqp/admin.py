@@ -76,7 +76,7 @@ admin.site.register(Country, CountryAdmin)
 
 class QuestionAdmin(ModelAdmin):
     list_display = ('item', 'language', 'country', 'created_by')
-    list_filter = ('item', 'language', 'country',)
+    list_filter = ('item', 'language', 'country', 'item')
     search = ('introduction_text', 'rfa_text', 'answer_text', 'created_by__name')
 
 admin.site.register(Question, QuestionAdmin)
@@ -191,7 +191,7 @@ admin.site.register(QuestionBulkAssignments, QuestionBulkAssignmentsAdmin)
 
 
 class QuestionBulkCreationAdmin(ModelAdmin):
-    list_display = ('item_group', 'country', 'language', 'has_been_run', 'last_run_date', 'questions_created', 'options')
+    list_display = ('item_group', 'country', 'language', 'copy_text_from_study','has_been_run', 'last_run_date', 'questions_created', 'options')
     readonly_fields = ('has_been_run', 'last_run_date', 'created_questions')
     
     #Add in some custom templates for deleting files
@@ -237,8 +237,13 @@ class QuestionBulkCreationAdmin(ModelAdmin):
                 obj.run_creation()
                 obj.save()
                 
-            self.message_user(request, "%s creation tasks were run correctly" % (len(queryset)))
+            self.message_user(request, "%s creation task(s) were run correctly" % (len(queryset)))
             # Return None to display the change list page again.
+            
+            if obj.copied_questions_count != 0:
+                self.message_user(request, "%s question(s) had text copied from study %s" % (obj.copied_questions_count, obj.copy_text_from_study.name))
+
+            
             return None
         
         opts = self.model._meta
