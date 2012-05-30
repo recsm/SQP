@@ -57,7 +57,7 @@ admin.site.register(Study, StudyAdmin)
 
 class ItemAdmin(ModelAdmin):
     list_display = ('name', 'admin', 'long_name', 'study')    
-    search_fields = ('admin',)
+    search_fields = ('admin','name','long_name',  )
     list_filter = ('study', )
 admin.site.register(Item, ItemAdmin)
 
