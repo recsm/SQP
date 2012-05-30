@@ -76,7 +76,7 @@ admin.site.register(Country, CountryAdmin)
 
 class QuestionAdmin(ModelAdmin):
     list_display = ('item', 'language', 'country', 'created_by')
-    list_filter = ('item', 'language', 'country', 'item')
+    list_filter = ('item__study', 'item', 'language', 'country')
     search = ('introduction_text', 'rfa_text', 'answer_text', 'created_by__name')
 
 admin.site.register(Question, QuestionAdmin)

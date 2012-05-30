@@ -1127,7 +1127,7 @@ class QuestionBulkCreation(models.Model):
     item_group              = models.ForeignKey(ItemGroup, help_text ='Create questions for all items in the selected item group')
     country                 = models.ForeignKey(Country, help_text ='Question will be created only for this country')
     language                = models.ForeignKey(Language, help_text='Question will be created only for this language')
-    copy_text_from_study    = models.ForeignKey(Study, blank=True, null=True, help_text='Optional: Copy the intro, rfa text, and answer options from another study - when matching questions are available in that study.')
+    copy_text_from_study    = models.ForeignKey(Study, blank=True, null=True, help_text='Optional: Copy the intro, rfa text, and answer options from another study - when matching questions by variable name (TVTOT), country, and language are available in that study.')
     created_questions       = models.ManyToManyField(Question, blank=True)
     has_been_run            = models.BooleanField(default=False,  verbose_name="Run and up to date")
     last_run_date           = models.DateField(blank=True, null=True, help_text = "The last time this assignment was run")
@@ -1194,7 +1194,7 @@ class QuestionBulkCreation(models.Model):
             return None
          
         try:
-            item = Item.objects.filter(study=self.copy_text_from_study, admin=question.item.admin, name=question.item.name)
+            item = Item.objects.filter(study=self.copy_text_from_study, name=question.item.name)
             question = Question.objects.get(item=item, country=question.country, language=question.language)
             return question
         except:
