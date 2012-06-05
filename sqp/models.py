@@ -1102,19 +1102,14 @@ class ItemGroup(models.Model):
         if isinstance(kwargs['instance'], ItemGroup)\
           and kwargs['action'] in ['post_add',  'post_remove', 'post_clear']:
 
-            try:
-                question_bulk_creation = QuestionBulkCreation.objects.get(item_group=kwargs['instance'])
+            for question_bulk_creation in QuestionBulkCreation.objects.filter(item_group=kwargs['instance']):
                 question_bulk_creation.has_been_run = False
                 question_bulk_creation.save()
-            except QuestionBulkCreation.DoesNotExist:
-                pass
-
-            try:
-                question_bulk_assignment = QuestionBulkAssignments.objects.get(item_group=kwargs['instance'])
+       
+            for question_bulk_assignment in QuestionBulkAssignments.objects.filter(item_group=kwargs['instance']):
                 question_bulk_assignment.has_been_run = False
                 question_bulk_assignment.save()
-            except QuestionBulkAssignments.DoesNotExist:
-                pass
+            
 #Bind the static method m2m_changed of the ItemGroup model so we can update related objects
 m2m_changed.connect(ItemGroup.m2m_changed, weak=False)
 
