@@ -3,7 +3,7 @@
 	sqpBackbone.views.studyListView = Backbone.View.extend({
 		//These all get converted into jQuery node selectors by class name in mapNodes
 		nodes : {
-			studyListTable			:null,
+			studyListTable			:null
 		},
 		events : {
 			'click .studyListAddNew' : 'addStudy'

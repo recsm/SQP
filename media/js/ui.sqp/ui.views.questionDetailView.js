@@ -38,9 +38,7 @@
 				this.$(".showQuestionTextLinkHolder").show();
 				this.$(".questionText").hide();
 			}
-			
-			
-			
+
 			return this;	
 	  	},
 	  	editQuestion : function () {

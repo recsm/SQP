@@ -481,7 +481,7 @@ class CharacteristicSet(models.Model):
 
 class Study(models.Model):
     name              = models.CharField(max_length=70)
-    coders            = models.ManyToManyField(User)
+    coders            = models.ManyToManyField(User, blank=True, help_text="Deprecated")
     created_by        = models.ForeignKey(User, blank=True, null=True, related_name="created_study_set")
 
     def can_delete(self, user):

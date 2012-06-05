@@ -9,20 +9,20 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		// Load our studies
 		sqpBackbone.shared.studies = new sqpBackbone.collections.studyList;
 		sqpBackbone.shared.studies.fetch({
-				error: function(err){ alert("error: " + JSON.stringify(err));},
+				error: function(err){ alert("error: " + JSON.stringify(err));}
 			});
 			
 			
 		// Load our countries
 		sqpBackbone.shared.countries = new sqpBackbone.collections.countryList;
 		sqpBackbone.shared.countries.fetch({
-				error: function(err){ alert("error: " + JSON.stringify(err));},
+				error: function(err){ alert("error: " + JSON.stringify(err));}
 			});
 			
 		// Load our languages
 		sqpBackbone.shared.languages = new sqpBackbone.collections.languageList;
 		sqpBackbone.shared.languages.fetch({
-				error: function(err){ alert("error: " + JSON.stringify(err));},
+				error: function(err){ alert("error: " + JSON.stringify(err));}
 			});
 			
 		//Run some global jQuery functions
@@ -157,6 +157,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		 } else {
 		 	queryDict = {}
 		 }
+		 
 		if (this.currentView != 'questionList') {
 			// Show hide tabs for question list / detail
 			sqpBackbone.helpers.hideAllPages();
@@ -173,15 +174,19 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			
 			// Create an instances of our question list model object
 			this.questionListCollection = new sqpBackbone.collections.questionList;
-			this.questionListCollection.setFromDict(queryDict);
+			if(queryDict != {}) {
+				
+				this.questionListCollection.setFromDict(queryDict);
+
+			}
+			
+			
 			this.questionListView = new sqpBackbone.views.questionListView({
 				el: $('#pageQuestionList'),
 				collection: this.questionListCollection
 			});
 			
-			if(this.questionListCollection.question != 0) {
-				this.questionListView.setQuestionPreview(this.questionListCollection.question);
-			}
+			this.questionListView.setQuestionPreview(this.questionListCollection.question);
 			
 		} else {
 			
@@ -191,6 +196,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		if(this.questionListCollection.question == 0) {
 			this.questionListView.clearPreviewId();
 		} else  {
+			
 			this.questionListView.showQuestionPreview();
 		}
 	},
@@ -674,7 +680,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 												if (onSavedCallback) {
 													onSavedCallback(model);
 												}
-											},
+											}
 										});
 										
 									} else {

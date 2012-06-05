@@ -628,15 +628,15 @@ label {
 	color:#555;
 }
 
-.qListPreviewContent h2 {
+#qListPreviewContent h2 {
 	margin-bottom:0px;
 }
 
-.qListPreviewContent .questionText {
+#qListPreviewContent .questionText {
 	min-height:200px;
 }
 
-.qListPreviewContent .questionText p, .qListPreviewContent .questionText ul  {
+#qListPreviewContent .questionText p, #qListPreviewContent .questionText ul  {
 		font-size:.9em;
 }
 

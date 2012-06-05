@@ -4,5 +4,6 @@ var sqpBackbone = { models 		: {},
                     controllers : {},
 					views 		: {},
 					helpers 	: {},
-					shared      : {}
+					shared      : {},
+					app			: false
 					};

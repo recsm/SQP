@@ -6,7 +6,7 @@
 		tagName: 'tr',
 		events : {
 			'click .studyItemDelete' : 'confirmDelete',
-			'click .studyItemEdit' : 'editStudy',
+			'click .studyItemEdit' : 'editStudy'
 		},
 		render: function(){ 
 			// render output with ICanHaz.js template

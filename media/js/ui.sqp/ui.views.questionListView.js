@@ -72,7 +72,7 @@
 			//Init buttons
 			this.nodes.qListNextPage.button({
 	            icons: {
-	                secondary: "ui-icon-circle-triangle-e",
+	                secondary: "ui-icon-circle-triangle-e"
 					
 	            },
 				text:false
@@ -80,14 +80,14 @@
 			
 			this.nodes.qListPrevPage.button({
 	            icons: {
-	                primary: "ui-icon-circle-triangle-w",
+	                primary: "ui-icon-circle-triangle-w"
 	            },
 				text:false
 			});
 			
 			this.nodes.qListSearch.button({
 	            icons: {
-	                primary: "ui-icon-search",
+	                primary: "ui-icon-search"
 	            },
 				text:false
 			});
@@ -273,7 +273,7 @@
 	  	
 	  		var showIt = function () {
 	  			$('.qListPreview').animate({'right' : '0px'}, 300, function () {view.previewShowing = true;});
-//	  			$('.qListPreview').height($('.questionTable').height() -4);
+
 			  	// Get the full question overview
 				var questionDetail = new sqpBackbone.models.questionItem();
 				questionDetail.url = questionDetail.url + view.currentRequestedPreviewId;
@@ -292,7 +292,7 @@
 						//console.log('rendering');
 						// render the json array with our view object.
 						var qDetail = new sqpBackbone.views.questionDetailView({
-							el: $('.qListPreviewContent'),
+							el: $('#qListPreviewContent'),
 							model: questionDetail
 						});
 			  		}, 
@@ -321,7 +321,7 @@
 	  	hideQuestionPreview : function() {
 	  		var view = this;
 	 		$('.qListPreview').animate({'right' : '-800px'}, 200, function () {
-	  			$('.qListPreviewContent').html('Loading Question Detail...');
+	  			$('#qListPreviewContent').html('Loading Question Detail...');
 	  		});
 	  		view.previewShowing = false;
 	  		

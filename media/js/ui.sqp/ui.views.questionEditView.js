@@ -53,7 +53,7 @@
 			"click .qEditAddNewStudy"           			: "addNewStudy",
 			"change .qEditStudy"     	       			    : "updateItemAutocomplete",
 			"change .qEditStudy, .qEditQuestionItemName"    : "updateItemInputs",
-			"change .qEditLanguage"     	       			: "updateLanguage",
+			"change .qEditLanguage"     	       			: "updateLanguage"
 		},
 		showInputError : function showInputError(inputNode, errorNode, message) {
 			inputNode.addClass('invalid');
@@ -74,7 +74,7 @@
 				 var errorNode  = this.$( '.' + rules['input'] + 'Error');
 				 var valid      = true;
 				 
-				 if (rules['is_detail'] && !canEditDetails) {
+				 if (rules['is_detail'] && !(canEditDetails)) {
 				 	//skip over detail validation if the user 
 					//can't edit details like country/language/item
 				 	continue;
