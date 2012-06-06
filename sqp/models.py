@@ -1184,22 +1184,22 @@ class QuestionBulkCreation(models.Model):
                     self._list['to_create'].append(question_summary)
         return self._list
 
-    def get_copy_from_question(self, question):
+    def get_copy_from_question(self, to_question):
         if not self.copy_text_from_study:
             return None
          
         
-        item = Item.objects.filter(study=self.copy_text_from_study, name=question.item.name)
-        for question in Question.objects.filter(item=item, country=question.country, language=question.language):
-            if question.rfa_text:
-                return question
+        item = Item.objects.filter(study=self.copy_text_from_study, name=to_question.item.name)
+        for q in Question.objects.filter(item=item, country=to_question.country, language=to_question.language):
+            if q.rfa_text:
+                return q
         
         #There was no text from the SOURCE in a previous study so we copy it from the UK    
-        if question.country.name == 'SOURCE':
+        if to_question.country.name == 'SOURCE':
             uk = Country.objects.get(iso='GB')
-            for question in Question.objects.filter(item=item, country=uk, language=question.language):
-                if question.rfa_text:
-                    return question
+            for q in Question.objects.filter(item=item, country=uk, language=to_question.language):
+                if q.rfa_text:
+                    return q
             
     
         return None
