@@ -191,7 +191,7 @@ admin.site.register(QuestionBulkAssignments, QuestionBulkAssignmentsAdmin)
 
 
 class QuestionBulkCreationAdmin(ModelAdmin):
-    list_display = ('item_group', 'country', 'language', 'copy_text_from_study','has_been_run', 'last_run_date', 'questions_created', 'options')
+    list_display = ('item_group', 'country', 'language', 'copy_text_from_study','has_been_run', 'last_run_date', 'questions_created', 'created_questions_with_text', 'options')
     readonly_fields = ('has_been_run', 'last_run_date', 'created_questions')
     
     #Add in some custom templates for deleting files

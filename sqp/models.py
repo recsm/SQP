@@ -649,6 +649,10 @@ class Question(models.Model):
 
     created_by  = models.ForeignKey(User, blank=True, null=True, related_name="created_question_set")
 
+    def has_text(self):
+        return bool(self.introduction_text or self.rfa_text or self.answer_text)
+
+
     def can_edit_text(self, user):
         """If a user can edit the introduction_text, rfa_text, and answer_text"""
         #If the user is the created_by then we return true
@@ -1137,6 +1141,16 @@ class QuestionBulkCreation(models.Model):
         verbose_name = 'Bulk Question Creation Task'
         verbose_name_plural = 'Bulk Question Creation Tasks'
 
+
+    def created_questions_with_text(self):
+        total = 0
+        with_text = 0
+        for q in self.created_questions.all():
+            total += 1
+            if q.has_text():
+                with_text += 1
+        
+        return "%s / %s" % (with_text, total)
 
     def is_deletable(self, question):
         if question.introduction_text or question.rfa_text or question.answer_text:
