@@ -1190,8 +1190,17 @@ class QuestionBulkCreation(models.Model):
          
         try:
             item = Item.objects.filter(study=self.copy_text_from_study, name=question.item.name)
-            question = Question.objects.get(item=item, country=question.country, language=question.language)
-            return question
+            for question in Question.objects.filter(item=item, country=question.country, language=question.language):
+                if question.rfa_text:
+                    return question
+            
+            #There was no text from the SOURCE in a previous study so we copy it from the UK    
+            if question.country.name == 'SOURCE':
+                uk = Country.objects.get(iso='GB')
+                for question in Question.objects.filter(item=item, country=uk, language=question.language):
+                    if question.rfa_text:
+                        return question
+                
         except:
             return None
         
