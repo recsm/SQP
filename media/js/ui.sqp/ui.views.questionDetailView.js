@@ -45,7 +45,13 @@
 	  		window.location.hash = "#edit/question/" + this.model.get('id');
 		},
 		showPrediction : function () {
-			window.location.hash = "#questionPrediction/" + this.model.get('id');
+			if (this.options.completionId) {
+				var completionPart = '/' + this.options.completionId;
+			} else {
+				var completionPart = '';
+			}
+			
+			window.location.hash = "#questionPrediction/" + this.model.get('id') + completionPart;
 		},
 		showPreviewMTMM : function () {
 			var view = this;

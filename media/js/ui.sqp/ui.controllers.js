@@ -253,7 +253,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				// render the json array with our view object.
 				var qDetail = new sqpBackbone.views.questionDetailView({
 					el: $('#questionDetailContainer'),
-					model: questionDetail
+					model: questionDetail,
+					completionId : completionId
 				});
 				
 				$("#qDetailBreadCrumb").html(questionDetail.getCodedByInfo(completionId));

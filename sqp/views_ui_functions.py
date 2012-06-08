@@ -439,10 +439,12 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
     prediction_validity_coefficient = 0
     prediction_reliability_coefficient = 0
     show_prediction = 0 #Falsy
+    
     if completeness == 'completely-coded':
         
         try:
-            qual = render_predictions(user, question.id, vars, characteristicSetId)
+            var_list = 'question_quality,question_quality_coefficient,question_validity_coefficient,question_reliability_coefficient'
+            qual = render_predictions(user, question.id, var_list, characteristicSetId=characteristicSetId)
             prediction_quality = qual[0]['question_quality']
             prediction_quality_coefficient = qual[0]['question_quality_coefficient']
             prediction_validity_coefficient = qual[0]['question_validity_coefficient']
@@ -554,7 +556,7 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
             
     
     try:
-        #TODO:Change the below line to use get, not filter as only one coding hsould exist
+        #TODO:Change the below line to use get, not filter as only one coding should exist
         #Also, put constraint on database
         completion = models.Completion.objects.get(question=question, complete=True, characteristic_set=charset, authorized=True)
         qual = render_predictions(user, question.id, 'question_quality', completion.id,characteristicSetId)

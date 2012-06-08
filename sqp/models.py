@@ -1858,8 +1858,6 @@ class UserProfile(models.Model):
 
 
 
-
-
 post_save.connect(UserProfile.on_user_created, sender=User)
 
 #Just add a on_before_save method to your instance
@@ -1953,16 +1951,12 @@ class CharacteristicTree():
                 from_char = branch.to_characteristic
                 tree.append(branch)
             except Exception as e:
-                print e
                 #Coding is complete
                 #A fake branch that will allow the last element in the tree to have a value
                 tree.append(FakeBranch(code))
                 return tree
             
             
-  
-       
-   
     def get_char_by_short_name(self, short_name):
         "Utility function used locally"
         for key in self.characteristics.keys():
@@ -1970,26 +1964,3 @@ class CharacteristicTree():
                 return self.characteristics[key]
         return None
         
-        
-def compare(question_id=6321, user_id=8):
-    """Quick compare to see iter_branches vs. CharacteristicTree"""
-    c_set = CharacteristicSet.objects.get(pk=3)
-    tree = CharacteristicTree(c_set)
-    codes = [code for code in Coding.objects.filter(question = question_id, user = user_id)] 
-
-    import time
-    start = time.time()
-    hist_tree = tree.iter_branches(codes)
-    
-    print "For the CharTree it took", time.time() - start, " seconds -", len(hist_tree), ' codes.'
-    
-    
-    
-    question = Question.objects.get(pk=6321)
-    from django.contrib.auth.models import User
-    u = User.objects.get(pk=user_id)
-    start = time.time()
-    hist = [code for code in question.iter_branches(user=u, charset=c_set)] 
-    print "For the iter branches it took", time.time() - start, " seconds - ", len(hist), ' codes.'
-   
-    return [hist_tree, hist]
