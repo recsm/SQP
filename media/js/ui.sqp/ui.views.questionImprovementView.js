@@ -148,7 +148,7 @@
 			var currentList = this.improvementLists[this.showImprovementList]['variables'];
 			
 			var xName = currentList[this._nextXNameIndex];
-			
+			this._nextXNameIndex += 1;
 			if (!xName) {
 				//Completed Loading
 				$('.questionImprovementCurrentlyLoading').hide();
@@ -191,7 +191,7 @@
 							  + view.model.get('id')
 							  + completionIdPart,
 						success: function(data){
-							view._nextXNameIndex += 1;
+							
 							
 							/* If the user changed views while the ajax callback was loading,
 							   we are no longer on this screen so we stop the loading loop. */
