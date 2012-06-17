@@ -47,7 +47,9 @@ class BranchAdmin(ModelAdmin):
     list_display = ('label', 'to_characteristic')
     search_fields = ('label__name', 'label__characteristic__name', 
             'to_characteristic__name')
-admin.site.register(Branch, BranchAdmin)
+#Commented out of admin to prevent changes to branches by non programmers
+#since changing the branch structure can break the prediction engine    
+#admin.site.register(Branch, BranchAdmin)
 
 
 class StudyAdmin(ModelAdmin):
