@@ -171,7 +171,6 @@
 				});
 				
 			if (found) {
-				 this._nextXNameIndex += 1;
 				 this.loadImprovements_whileNext();
 				 return;
 			}
@@ -237,9 +236,7 @@
 					if (improvementModel.get('loaded')) {
 						loaded += 1;
 					}
-				} else {
-					console.log(xName);
-				}
+				} 
 			});
 			return loaded;
 		},
