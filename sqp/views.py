@@ -139,13 +139,16 @@ def compare_items(request):
 class Comparison:
     """Allows for comparison of codes for one item in different country/languages"""
     def __init__(self, request, item, country_from, language_from, user_from, 
-            country_to, language_to, user_to):
+            country_to, language_to, user_to, characteristicSetId=False):
         """Take item and culture information and set up the comparison
         for use with difflib"""
         self.item = Item.objects.get(pk = item)
         self.request = request
-        self.charset = CharacteristicSet.objects.get(pk = \
-                request.session['characteristic_set'])
+        
+        if characteristicSetId is False:
+            characteristicSetId = request.user.profile.default_characteristic_set_id
+         
+        self.charset = CharacteristicSet.objects.get(id=characteristicSetId) 
 
         # The following may raise an Exception:
         self.question_from = Question.objects.get(item = item, 
