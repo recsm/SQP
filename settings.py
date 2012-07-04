@@ -9,8 +9,6 @@ MANAGERS = ADMINS
 
 DATABASE_ENGINE = 'mysql'           # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
 DATABASE_OPTIONS = {"init_command": "SET storage_engine=INNODB"}
-DATABASE_HOST = ''             #  Set to empty string for localhost. Not used with sqlite3.
-DATABASE_PORT = ''             # Set to empty string for default. Not used with sqlite3.
 
 
 # Local time zone for this installation. Choices can be found here:
@@ -66,7 +64,7 @@ TEMPLATE_LOADERS = (
 )
 
 TEMPLATE_CONTEXT_PROCESSORS = (
-     "django.contrib.auth.context_processors.auth",
+    "django.contrib.auth.context_processors.auth",
     "django.core.context_processors.request",
     "django.core.context_processors.i18n",
     'django.contrib.messages.context_processors.messages',
@@ -78,26 +76,12 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
 #    'django.middleware.http.SetRemoteAddrFromForwardedFor',
     'django.middleware.doc.XViewMiddleware',
-#    'django.contrib.csrf.middleware.CsrfMiddleware',
-#    'django.middleware.cache.CacheMiddleware',    
-#    'sqp.profile_middleware.ProfileMiddleware',
-#    'fullhistory.fullhistory.FullHistoryMiddleware',
 )
-#CACHE_BACKEND = 'file:///home/sqp/django_cache'
-#CACHE_MIDDLEWARE_ANONYMOUS_ONLY = True
 
 AUTH_PROFILE_MODULE = 'sqp.UserProfile'
 AUTH_PROFILE_DEFAULT_CHARACTERISTIC_SET_ID = 3
 
 ROOT_URLCONF = 'sqp_project.urls'
-
-TEMPLATE_DIRS = (
-    # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
-    "/home/sqp/webapps/django/sqp_project/templates/",
-    "/home/sqp/work/sqp/templates/",
-)
 
 INSTALLED_APPS = (
     'django.contrib.auth',
@@ -112,12 +96,6 @@ INSTALLED_APPS = (
     'sqp_project.sqp',
     'south'
 )
-
-HYPHENATION_DIR = "/home/sqp/webapps/django/sqp_project/sqp/hyphenation/"
-
-TAGGER_DIR = "/home/sqp/webapps/django/sqp_project/sqp/"
-
-LOG_FILENAME = '/home/sqp/webapps/django/sqp_project/sqp/sqp_log.txt'
 
 #Make a file called local_settings.py, but DON'T COMMIT IT TO THE SERVER
 #This will let you override all settings with your own local settings
