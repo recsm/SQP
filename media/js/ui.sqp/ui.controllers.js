@@ -229,7 +229,9 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		
 		if(completionId) {
 			questionDetail.url  += '&completionId=' + completionId;
-		} 
+		} else {
+			questionDetail.url  += '&prepSuggestions=True';
+		}
 		
 		this.currentCharacteristicId = false;
 		

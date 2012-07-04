@@ -400,7 +400,7 @@ def get_language_list(user):
     return obj_response_body, {}, SUCCESS
 
 
-def get_question(user, questionId, completionId=False, characteristicSetId = False):
+def get_question(user, questionId, completionId=False, characteristicSetId = False, prepSuggestions=False):
     """
     Retrieve a Question object, annotating it with completion data from 
     the database and Related objects Item, Study, Language and Country."""
@@ -423,8 +423,8 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
     else:
         answer_options_text = []
         
-    if models.CodingSuggestion.objects.filter(question=question).count() == 0:
-        #generate suggestions
+    if prepSuggestions and models.CodingSuggestion.objects.filter(question=question).count() == 0:
+        #generate suggestions which is done in Question.save()
         question.save()
     
     if completionId:        
