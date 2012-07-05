@@ -30,14 +30,10 @@ start:
 
 django-runserver:
 	supervisorctl stop tornado-8000
-	env PYRO_HMAC_KEY="2d736347ff7487d559d7fb3cfc1e92dd" PYRO_HOST=10.60.6.61 PYRO_NS_HOST=10.60.6.61 python /srv/sqp_project/manage.py runserver
- 8000
+	env PYRO_HMAC_KEY="2d736347ff7487d559d7fb3cfc1e92dd" PYRO_HOST=10.60.6.61 PYRO_NS_HOST=10.60.6.61 python /srv/sqp_project/manage.py runserver 8000
 	supervisorctl start tornado-8000
 
 profile:
 	supervisorctl stop tornado-8000
-	env PYRO_HMAC_KEY="2d736347ff7487d559d7fb3cfc1e92dd" PYRO_HOST=10.60.6.61 PYRO_NS_HOST=10.60.6.61 python -m cProfile -s time /srv/sqp_project
-/manage.py runserver 8000
+	env PYRO_HMAC_KEY="2d736347ff7487d559d7fb3cfc1e92dd" PYRO_HOST=10.60.6.61 PYRO_NS_HOST=10.60.6.61 python -m cProfile -s time /srv/sqp_project/manage.py runserver 8000
 	supervisorctl start tornado-8000
-
-
