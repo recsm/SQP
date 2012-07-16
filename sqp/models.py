@@ -126,7 +126,7 @@ class Characteristic(models.Model):
     """A characteristic of the Question, such as number of answer categories,
         social desirability, etc."""
     name    = models.CharField(max_length=100)
-    short_name = models.CharField(max_length=12)
+    short_name = models.CharField(max_length=32)
     desc    = models.TextField('Description, will appear as help text',
                 blank=True, db_column = 'description')
     widget  = models.ForeignKey(Widget)
@@ -643,9 +643,13 @@ class Question(models.Model):
     val     = models.FloatField(blank=True, null=True)
     val_lo  = models.FloatField(blank=True, null=True)
     val_hi  = models.FloatField(blank=True, null=True)
+    valz    = models.FloatField(blank=True, null=True)
+    valz_se = models.FloatField(blank=True, null=True)
     rel     = models.FloatField(blank=True, null=True)
     rel_lo  = models.FloatField(blank=True, null=True)
     rel_hi  = models.FloatField(blank=True, null=True)
+    relz    = models.FloatField(blank=True, null=True)
+    relz_se = models.FloatField(blank=True, null=True)
 
     created_by  = models.ForeignKey(User, blank=True, null=True, related_name="created_question_set")
 
@@ -902,7 +906,6 @@ class Question(models.Model):
 
 
     def save(self, *args, **kwargs):
-        print "In question.save()"
         super(Question,self).save(*args, **kwargs)
 
         #On save we update the suggestions for the question

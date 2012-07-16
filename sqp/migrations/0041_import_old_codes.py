@@ -70,12 +70,12 @@ class Migration(DataMigration):
         
         
         
-        n = 0
+        #n = 0
         
         for line in file:
-            n +=1
-            if n > 50:
-                break
+        #    n +=1
+        #    if n > 50:
+        #        break
             
             if not headers:
                 headers = getitems(line)
