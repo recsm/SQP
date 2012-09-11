@@ -906,10 +906,19 @@ class Question(models.Model):
 
 
     def save(self, *args, **kwargs):
+
+        if 'create_suggestions' in kwargs.keys():
+            create_suggestions = kwargs['create_suggestions']
+            del kwargs['create_suggestions']
+        else:
+            create_suggestions = True
+            
         super(Question,self).save(*args, **kwargs)
 
+
         #On save we update the suggestions for the question
-        self.update_suggestions()
+        if create_suggestions == True:
+            self.update_suggestions()
 
 
     class Meta:
@@ -1251,7 +1260,7 @@ class QuestionBulkCreation(models.Model):
                     question.introduction_text = copy_from_question.introduction_text
                     question.rfa_text = copy_from_question.rfa_text
                     question.answer_text = copy_from_question.answer_text
-                    question.save()
+                    question.save(create_suggestions = False)
                     self.copied_questions_count += 1
                 if question not in all_questions:
                     self.created_questions.add(question)
