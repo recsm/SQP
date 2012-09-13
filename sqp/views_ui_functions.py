@@ -757,7 +757,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
     obj_response_body          = []
     
-    query_params = []
+    query_params = ["1"]
     
     charset = models.CharacteristicSet.objects.get(id=characteristicSetId) 
     
@@ -801,7 +801,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     start_record = (page -1) * recordsPerPage
     
     #We only show trusted userprofile questions, created questions, or assigned questions
-    user_assigned_questions = [str(int(uq.question_id)) for uq in models.UserQuestion.objects.filter(user=user)]
+    """user_assigned_questions = [str(int(uq.question_id)) for uq in models.UserQuestion.objects.filter(user=user)]
     if len(user_assigned_questions) > 0:
         user_assigned_query = 'OR q.id IN (' +  ','.join(user_assigned_questions) + ')'
     else:
@@ -811,15 +811,16 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     trusted_user_query = 'OR (q.created_by_id IS NULL) OR (up.is_trusted = 1)'   
      
     query_params.append('(q.created_by_id = %s %s %s)' % (user.id, user_assigned_query, trusted_user_query))
-    
+    """
+
     if q != '':
         q =  '%' + q + '%'
         query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
         query_params.append(query)
     
-    where = 'WHERE (' + '\n AND '.join(query_params) + ')'
-        
     
+    where = 'WHERE (' + '\n AND '.join(query_params) + ')'
+       
         
     #Used to find the next question in the list for coders that need to code the next question
     if fromQuestionId is not None:
