@@ -96,10 +96,25 @@ class Migration(DataMigration):
                                                country=country,
                                                val=row['val'],
                                                valz=row['val.est'],
+                                               val_lo=row['val.lo'],
+                                               val_hi=row['val.hi'],
                                                rel=row['rel'],
                                                relz=row['rel.est'],
+                                               rel_hi=row['rel.hi'],
+                                               rel_lo=row['rel.lo'],
                                                )[0]
-                
+                """
+    val     = models.FloatField(blank=True, null=True)
+    val_lo  = models.FloatField(blank=True, null=True)
+    val_hi  = models.FloatField(blank=True, null=True)
+    valz    = models.FloatField(blank=True, null=True)
+    valz_se = models.FloatField(blank=True, null=True)
+    rel     = models.FloatField(blank=True, null=True)
+    rel_lo  = models.FloatField(blank=True, null=True)
+    rel_hi  = models.FloatField(blank=True, null=True)
+    relz    = models.FloatField(blank=True, null=True)
+    relz_se = models.FloatField(blank=True, null=True)
+                """
                 question.save()
                 print '------------------------------------------------'
                 print question
