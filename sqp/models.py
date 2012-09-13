@@ -687,7 +687,7 @@ class Question(models.Model):
 
     def can_access(self, user):
 
-        """If a user can read or code this question"""
+        """If a user can read or code this question
         #If the user is the created_by then we return true
         #have a null created_by value
         if not self.created_by or (self.created_by == user or self.created_by.profile.is_trusted):
@@ -700,7 +700,9 @@ class Question(models.Model):
 
         #Default return false
         return False
+        """
 
+        return True
 
     def update_completion(self, request=None, user=None, for_charset=None):
 

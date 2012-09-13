@@ -800,7 +800,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     recordsPerPage = int(recordsPerPage)
     start_record = (page -1) * recordsPerPage
     
-    #We only show trusted userprofile questions, created questions, or assigned questions
+    """   #We only show trusted userprofile questions, created questions, or assigned questions
     user_assigned_questions = [str(int(uq.question_id)) for uq in models.UserQuestion.objects.filter(user=user)]
     if len(user_assigned_questions) > 0:
         user_assigned_query = 'OR q.id IN (' +  ','.join(user_assigned_questions) + ')'
@@ -811,7 +811,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     trusted_user_query = 'OR (q.created_by_id IS NULL) OR (up.is_trusted = 1)'   
      
     query_params.append('(q.created_by_id = %s %s %s)' % (user.id, user_assigned_query, trusted_user_query))
-    
+    """
     
     if q != '':
         q =  '%' + q + '%'
