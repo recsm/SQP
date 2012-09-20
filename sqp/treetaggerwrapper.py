@@ -559,26 +559,26 @@ g_langsupport = {
             "replipexp" : ur' sustituir-ip <repdip text="\1" />',
             "repldnsexp" : ur' sustituir-dns <repdns text="\1" />'
            }, 
-       "el": { "binfile-win": "tree-tagger.exe",
-            "binfile-lin": "tree-tagger",
-            "binfile-darwin": "tree-tagger",
-            "tagparfile": "greek-utf8.par",
-            "abbrevfile": "greek-abbreviations",
-            "pchar"     : alonemarks+ur"'",
-            "fchar"     : alonemarks+ur"'",
-            "pclictic"  : ur"",
-            "fclictic"  : ur"",
-            "number"    : ur"""(
-                             [-+]?[0-9]+(?:[.,][0-9]*)?(?:[eE][-+]?[0-9]+)?
-                                |
-                            [-+]?[.,][0-9]+(?:[eE][-+]?[0-9]+)?
-                               )""",
-            "dummysentence": u"Αυτή είναι μια εικονική φράση για την εξασφάλιση της ώθησης .",
-            "replurlexp": ur' replaced-url <repurl text="\1" />',
-            "replemailexp": ur' replaced-email <repemail text="\1" />',
-            "replipexp" : ur' replaced-ip <repip text="\1" />',
-            "repldnsexp" : ur' replaced-dns <repdns text="\1" />'
-           },
+#       "el": { "binfile-win": "tree-tagger.exe",
+#            "binfile-lin": "tree-tagger",
+#            "binfile-darwin": "tree-tagger",
+#            "tagparfile": "greek-utf8.par",
+#            "abbrevfile": "greek-abbreviations",
+#            "pchar"     : alonemarks+ur"'",
+#            "fchar"     : alonemarks+ur"'",
+#            "pclictic"  : ur"",
+#            "fclictic"  : ur"",
+#            "number"    : ur"""(
+#                             [-+]?[0-9]+(?:[.,][0-9]*)?(?:[eE][-+]?[0-9]+)?
+#                                |
+#                            [-+]?[.,][0-9]+(?:[eE][-+]?[0-9]+)?
+#                               )""",
+#            "dummysentence": u"Αυτή είναι μια εικονική φράση για την εξασφάλιση της ώθησης .",
+#            "replurlexp": ur' replaced-url <repurl text="\1" />',
+#            "replemailexp": ur' replaced-email <repemail text="\1" />',
+#            "replipexp" : ur' replaced-ip <repip text="\1" />',
+#            "repldnsexp" : ur' replaced-dns <repdns text="\1" />'
+#           },
         "ru": { "binfile-win": "tree-tagger.exe",
             "binfile-lin": "tree-tagger",
             "binfile-darwin": "tree-tagger",

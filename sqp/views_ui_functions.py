@@ -492,47 +492,37 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
 
     if question.rel:
         obj_response_body['hasMTMM'] = True
-        rel      = question.rel
-        rel_lo   = question.rel_lo
-        rel_hi   = question.rel_hi
-        val      = question.val
-        val_lo   = question.val_lo
-        val_hi   = question.val_hi
-        qual     = question.rel * question.val
-        qual_lo  = question.rel_lo * question.val_lo
-        qual_hi  = question.rel_hi * question.val_hi
-        
-        rel2     = rel * rel
-        rel2_lo  = rel_lo * rel_lo
-        rel2_hi  = rel_hi * rel_hi
-        val2     = val * val
-        val2_lo  = val_lo * val_lo
-        val2_hi  = val_hi * val_hi
-        qual2    = qual * qual
-        qual2_lo = qual_lo * qual_lo
-        qual2_hi = qual_hi * qual_hi
-        
-        MTMM = {
-            "MTMM_qual":                 str(qual)[0:5],
-            "MTMM_qualLo":               str(qual_lo)[0:5],
-            "MTMM_qualHi":               str(qual_hi)[0:5],
-            "MTMM_rel":                  str(rel)[0:5],
-            "MTMM_relHi":                str(rel_hi)[0:5],
-            "MTMM_relLo":                str(rel_lo)[0:5],
-            "MTMM_val":                  str(val)[0:5],
-            "MTMM_valHi":                str(val_hi)[0:5],
-            "MTMM_valLo":                str(val_lo)[0:5],
-           
-            "MTMM_qual2":                 str(qual2)[0:5],
-            "MTMM_qual2Lo":               str(qual2_lo)[0:5],
-            "MTMM_qual2Hi":               str(qual2_hi)[0:5],
-            "MTMM_rel2":                  str(rel2)[0:5],
-            "MTMM_rel2Hi":                str(rel2_hi)[0:5],
-            "MTMM_rel2Lo":                str(rel2_lo)[0:5],
-            "MTMM_val2":                  str(val2)[0:5],
-            "MTMM_val2Hi":                str(val2_hi)[0:5],
-            "MTMM_val2Lo":                str(val2_lo)[0:5],}
-        
+        MTMM = {}
+
+
+        MTMM['MTMM_rel']      = question.rel
+        MTMM['MTMM_relLo']   = question.rel_lo
+        MTMM['MTMM_relHi']   = question.rel_hi
+        MTMM['MTMM_val']      = question.val
+        MTMM['MTMM_valLo']   = question.val_lo
+        MTMM['MTMM_valHi']   = question.val_hi
+        MTMM['MTMM_qual']     = question.rel * question.val
+
+        if question.rel_lo and question.val_lo:
+            MTMM['MTMM_qualLo']  = question.rel_lo * question.val_lo
+            MTMM['MTMM_qual2Lo'] = MTMM['MTMM_qualLo'] * MTMM['MTMM_qualLo']
+        if question.rel_hi and question.val_hi:
+            MTMM['MTMM_qualHi']  = question.rel_hi * question.val_hi
+            MTMM['MTMM_qual2Hi'] = MTMM['MTMM_qualHi'] * MTMM['MTMM_qualHi']
+
+        if question.rel: MTMM['MTMM_rel2']     = question.rel * question.rel
+        if question.rel_lo: MTMM['MTMM_rel2Lo']  = question.rel_lo * question.rel_lo
+        if question.rel_hi: MTMM['MTMM_rel2Hi']  = question.rel_hi * question.rel_hi
+        if question.val: MTMM['MTMM_val2']     = question.val * question.val
+        if question.rel_lo: MTMM['MTMM_val2Lo']  = question.val_lo * question.val_lo
+        if question.rel_hi: MTMM['MTMM_val2Hi']  = question.val_hi * question.val_hi
+        if question.rel and question.val: MTMM['MTMM_qual2']    = (question.rel * question.val) * (question.rel * question.val)
+
+
+        for key in MTMM:
+            MTMM[key] = str(MTMM[key])[0:5]
+
+
         obj_response_body = dict(MTMM.items() + obj_response_body.items())
 
     other_predictions = []

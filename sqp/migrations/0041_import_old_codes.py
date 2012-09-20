@@ -15,10 +15,9 @@ class Migration(DataMigration):
         headers = False
         file = open(settings.PROJECT_DIR + '/data/codes/Old-experiments.csv', 'r')
         
-        
         sql = 'ALTER TABLE `sqp_characteristic` CHANGE `short_name` `short_name` VARCHAR( 32 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL; ';
         db.execute_many(sql)
-        
+        print 'did sql'
         add_on_chars = ['avgabs_intro',
                         'from',
                         'nabst_total',
@@ -47,10 +46,10 @@ class Migration(DataMigration):
                                                             widget=none_widget)
             new_char.save()
             print 'Creating %s' %  new_char
-            
-            
-        
-        
+
+
+
+
         all_chars = [char for char in sqp_models.Characteristic.objects.all()]
 
         char_set = sqp_models.CharacteristicSet.objects.get(pk=3)
@@ -70,13 +69,15 @@ class Migration(DataMigration):
         
         
         
-        #n = 0
+        n = 0
         
         for line in file:
-        #    n +=1
-        #    if n > 50:
-        #        break
-            
+            n +=1
+            if n > 5:
+                break
+
+
+
             if not headers:
                 headers = getitems(line)
                 print headers
@@ -89,35 +90,37 @@ class Migration(DataMigration):
             item     = sqp_models.Item.objects.get_or_create(name=row['item_name'], study=study)[0]
             language = sqp_models.Language.objects.get(iso=row['language'])
             country  = sqp_models.Country.objects.get(iso=row['country'])
-            
+
+
+
+            for key in row.keys():
+                if row[key] == 'NA':
+                    row[key] = None
+
             try:
-                question = sqp_models.Question.objects.get_or_create(item=item, 
-                                               language=language, 
-                                               country=country,
-                                               val=row['val'],
-                                               valz=row['val.est'],
-                                               val_lo=row['val.lo'],
-                                               val_hi=row['val.hi'],
-                                               rel=row['rel'],
-                                               relz=row['rel.est'],
-                                               rel_hi=row['rel.hi'],
-                                               rel_lo=row['rel.lo'],
-                                               )[0]
-                """
-    val     = models.FloatField(blank=True, null=True)
-    val_lo  = models.FloatField(blank=True, null=True)
-    val_hi  = models.FloatField(blank=True, null=True)
-    valz    = models.FloatField(blank=True, null=True)
-    valz_se = models.FloatField(blank=True, null=True)
-    rel     = models.FloatField(blank=True, null=True)
-    rel_lo  = models.FloatField(blank=True, null=True)
-    rel_hi  = models.FloatField(blank=True, null=True)
-    relz    = models.FloatField(blank=True, null=True)
-    relz_se = models.FloatField(blank=True, null=True)
-                """
-                question.save()
-                print '------------------------------------------------'
+                try:
+                    question = sqp_models.Question.objects.get(item=item,
+                        language=language,
+                        country=country)
+                except sqp_models.Question.DoesNotExist:
+                    question = sqp_models.Question(item=item,
+                        language=language,
+                        country=country)
+
+                question.val=row['val']
+                question.valz=row['val.est']
+                question.val_lo=row['val.lo']
+                question.val_hi=row['val.hi']
+                question.rel=row['rel']
+                question.relz=row['rel.est']
+                question.rel_hi=row['rel.hi']
+                question.rel_lo=row['rel.lo']
+
+
                 print question
+                question.save(create_suggestions=False)
+                print '------------------------------------------------'
+
                 
                 try:
                     user = User.objects.get(username='Old Coder')
@@ -130,7 +133,7 @@ class Migration(DataMigration):
                     value = row[key]
                     
                     #skip values that are NA - Not Available
-                    if value == 'NA':
+                    if value == None:
                         continue
                     
                     #skip non characteristic keys 
