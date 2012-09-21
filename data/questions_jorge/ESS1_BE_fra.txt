@@ -1,0 +1,1759 @@
+﻿A1 
+{QUESTION}
+Combien de temps passez-vous à regarder la télévision un jour de semaine habituel ? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A2 
+{QUESTION}
+Et combien de temps passez-vous un jour de semaine habituel à regarder les informations ou les programmes sur la politique et l’actualité. Utilisez à nouveau cette carte pour répondre.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A3
+{QUESTION}
+Combien de temps passez-vous à écouter la radio un jour de semaine habituel ? Utilisez cette même carte pour répondre.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A4
+{QUESTION}
+Et combien de temps, un jour de semaine habituel, passez-vous à écouter les informations ou les programmes sur la politique et l’actualité à la radio? Utilisez de nouveau cette carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A5 
+{QUESTION}
+Combien de temps passez-vous à lire le journal un jour de semaine habituel ? Utilisez de nouveau cette carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A6
+{QUESTION}
+Et combien de temps, un jour de semaine habituel, passez-vous à lire des articles sur la politique et l’actualité dans les journaux ? Utilisez à nouveau cette carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'½ heure 
+Entre ½ heure et une heure 
+Plus d’une heure, jusqu'à une heure ½ 
+Plus d’une heure ½ , jusqu’à 2 heures 
+Plus de 2 heures, jusqu’à 2 heures ½ 
+Plus de 2 heures ½, Jusqu’a 3 heures 
+Plus de 3 heures 
+
+A7 
+{QUESTION}
+Maintenant, à l'aide de cette carte, dites-moi combien de fois utilisez-vous Internet, le Web ou l'e-mail pour votre usage personnel, que ce soit à la maison ou au travail ?
+
+{ANSWERS}
+Pas d'accès à domicile ou au travail 
+Jamais utilisé 
+Moins d'une fois par mois 
+Une fois par mois 
+Plusieurs fois par mois 
+Une fois par semaine 
+Plusieurs fois par semaine 
+Tous les jours 
+
+A8 
+{QUESTION}
+A l'aide de cette carte, diriez-vous que l’on peut généralement faire confiance à la plupart des personnes, ou que l'on n'est jamais trop prudent dans ses contacts avec les gens ? Veuillez indiquer votre réponse sur une échelle de 0 à 10, où 0 signifie que l'on n'est jamais trop prudent et 10 signifie que l'on peut faire confiance à la plupart des personnes.
+
+{ANSWERS}
+00 On est jamais trop prudent
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La plupart des personnes sont dignes de confiance
+
+A9 
+{QUESTION}
+En utilisant cette carte, diriez-vous que la plupart des gens tenteraient de profiter de vous s'ils en avaient l'occasion, ou essayeraient de rester corrects ?
+
+{ANSWERS}
+00 La plupart tenteraient de profiter de moi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La plupart essayeraient de rester corrects
+
+A10 
+{QUESTION}
+Diriez-vous que la plupart du temps, les gens tentent d'être utiles aux autres ou qu'ils se préoccupent le plus souvent d'eux-mêmes ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+00 Les gens se préoccupent le plus souvent d'eux-mêmes
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Les gens tentent le plus souvent d'être utiles aux autres
+
+{INTRO}
+A présent, nous aimerions vous poser quelques questions sur la politique et le gouvernement
+
+B1 
+{QUESTION}
+Quel intérêt avez-vous pour la politique – Êtes-vous… 
+
+{ANSWERS}
+Très intéressé 
+Assez intéressé 
+Peu intéressé 
+Ou, pas du tout intéressé 
+
+B2 
+{QUESTION}
+Est-ce qu’il vous arrive de penser que la politique est si compliquée que vous ne pouvez vraiment pas comprendre ce qui se passe ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Jamais 
+Rarement 
+De temps en temps 
+Souvent 
+Très souvent 
+
+B3
+{QUESTION}
+Pensez-vous que vous pourriez participer activement à un groupe s’occupant de politique ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Absolument pas 
+Probablement pas 
+Peut-être 
+Probablement 
+Absolument 
+
+B4
+{QUESTION}
+Dans quelle mesure trouvez-vous difficile ou facile de vous faire une opinion sur les sujets politiques ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Très difficile 
+Difficile 
+Ni difficile, ni facile 
+Facile 
+Très facile 
+
+B5
+{QUESTION}
+À l'aide de cette carte, pensez-vous que les hommes politiques en général se soucient de ce que pensent des gens comme vous ?
+
+{ANSWERS}
+Presque aucun homme politique ne se soucie de ce que des gens comme moi pensent 
+Très peu s'en soucient 
+Certains s'en soucient 
+Beaucoup s'en soucient 
+Presque tous les hommes politiques se soucient de ce que pensent les gens comme moi 
+
+B6
+{QUESTION}
+Diriez-vous que les hommes politiques sont seulement intéressés à récolter des voix plutôt qu’aux opinions des gens ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Presque tous les hommes politiques sont uniquement intéressés à récolter des voix 
+La plupart des hommes politiques sont uniquement intéressés à récolter des voix 
+Certains hommes politiques sont uniquement intéressés à récolter des voix, d'autres non 
+La plupart des hommes politiques s’intéressent aux opinions des gens 
+Presque tous les hommes politiques s’intéressent aux opinions des gens 
+
+B7
+{QUESTION}
+En utilisant cette carte, dites-moi, sur une échelle de 0 à 10 quelle confiance vous faites personnellement à chacune de ces institutions. 0 signifie que vous ne faites pas du tout confiance à une institution et 10 que vous lui faites complètement confiance. Tout d'abord… le Parlement fédéral belge ?
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B8 
+{QUESTION}
+… la justice ? 
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B9
+{QUESTION}
+ … la police ? 
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B10 
+{QUESTION}
+… les hommes politiques ?
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B11 
+{QUESTION}
+… le Parlement européen ?
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B12 
+{QUESTION}
+… les Nations Unies ?
+
+{ANSWERS}
+00 Pas du tout confiance
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complèteme nt confiance
+
+B13 
+{INTRO}
+Pour une raison ou une autre, il arrive aujourd’hui que des gens ne votent pas. 
+
+{QUESTION}
+Avez-vous vote aux dernières élections législatives (Chambre des Représentants) du 13 juin 1999 ?
+
+{ANSWERS}
+Oui
+Non
+
+B14 
+{QUESTION}
+Pour quel parti avez-vous voté à ces élections ?
+
+{ANSWERS}
+Agalev
+CVP
+SP
+PNPB (Paul Marchal)
+VLD
+VU-ID
+PVDA-AE
+Vlaams Blok
+Vivant
+Ecolo
+PSC
+PRL-FDF
+PS
+Front National
+PTB-UA
+Autre
+
+{INTRO}
+Il y a plusieurs moyens d’essayer d’améliorer la situation en Belgique ou d’éviter que les choses ne
+s’aggravent. 
+
+B15 
+{QUESTION}
+Durant les 12 derniers mois, avez-vous fait l’une des actions suivantes.. Contacté un homme politique, ou un responsable officiel au niveau fédéral, régional ou communal
+
+{ANSWERS}
+Oui
+Non
+
+B16 
+{QUESTION}
+Milité dans un parti politique ou un groupe engagé politiquement
+
+{ANSWERS}
+Oui
+Non
+
+B17 
+{QUESTION}
+Travaillé dans une autre organisation ou association
+
+{ANSWERS}
+Oui
+Non
+
+B18 
+{QUESTION}
+Porté ou affiché un badge ou un autocollant de campagne 
+
+{ANSWERS}
+Oui
+Non
+
+B19 
+{QUESTION}
+Signé une pétition
+
+{ANSWERS}
+Oui
+Non
+
+B20 
+{QUESTION}
+Participé à une manifestation publique autorisée
+
+{ANSWERS}
+Oui
+Non
+
+B21 
+{QUESTION}
+Boycotté certains produits
+
+{ANSWERS}
+Oui
+Non
+
+B22 
+{QUESTION}
+Acheté délibérément des produits pour des raisons politiques, éthiques ou écologiques
+
+{ANSWERS}
+Oui
+Non
+
+B23 
+{QUESTION}
+Donné de l’argent à une organisation ou à un groupe politique
+
+{ANSWERS}
+Oui
+Non
+
+B24 
+{QUESTION}
+Participé à des actions de protestation illégales
+
+{ANSWERS}
+Oui
+Non
+
+B25a 
+{QUESTION}
+Y a-t-il un parti politique dont vous vous sentiez plus proche que des autres partis ?
+
+{ANSWERS}
+Oui
+Non
+
+B25b 
+{QUESTION}
+Lequel ?
+
+{ANSWERS}
+Agalev
+CD&V
+SP.A
+N-VA
+VLD
+Spirit
+PVDA
+Vlaams Blok
+Vivant
+NCD
+Ecolo
+CDH (PSC)
+PS
+Mouvement Réformateur (MR)
+Front National
+Autre
+
+B25c 
+{QUESTION}
+A quel point vous sentez-vous proche de ce parti ? 
+
+{ANSWERS}
+Très proche 
+Assez proche 
+Pas tellement proche 
+Pas proche du tout 
+
+B26 
+{QUESTION}
+Êtes-vous membre d'un parti politique? 
+
+{ANSWERS}
+Oui
+Non
+
+B27 
+{QUESTION}
+Lequel ?
+
+{ANSWERS}
+Agalev
+CD&V
+SP.A
+N-VA
+VLD
+Spirit
+PVDA
+Vlaams Blok
+Vivant
+NCD
+Ecolo
+CDH (PSC)
+PS
+Mouvement Réformateur (MR)
+Front National
+Autre
+
+B28 
+{INTRO}
+En politique, les gens parlent parfois de “gauche” et de “droite”.
+
+{QUESTION}
+À l'aide de cette carte, où vous placeriez-vous sur cette échelle, 0 signifiant la gauche et 10 la droite ?
+
+{ANSWERS}
+00 Gauche 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Droite
+
+B29 
+{QUESTION}
+Dans l’ensemble, dans quelle mesure êtes-vous satisfait de votre vie actuelle ? Utilisez cette carte s’il vous plaît, où 0 signifie tout à fait insatisfait et 10 tout à fait satisfait?
+
+{ANSWERS}
+00 Tout à fait insatisfait 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tout à fait satisfait
+
+B30 
+{QUESTION}
+Dans l’ensemble, dans quelle mesure êtes-vous satisfait de l’état de l’économie en Belgique ? Utilisez encore cette carte.
+
+{ANSWERS}
+00 Tout à fait insatisfait 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tout à fait satisfait
+
+B31 
+{QUESTION}
+Maintenant, en pensant au gouvernement, dans quelle mesure êtesvous satisfait de son travail ? Utilisez encore cette carte.
+
+{ANSWERS}
+00 Tout à fait insatisfait 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tout à fait satisfait
+
+B32 
+{QUESTION}
+Et dans l’ensemble, dans quelle mesure êtes-vous satisfait de la manière dont la démocratie fonctionne en Belgique ? Utilisez encore cette carte.
+
+{ANSWERS}
+00 Tout à fait insatisfait 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tout à fait satisfait
+
+B33 
+{QUESTION}
+À l’aide de cette carte, dites-moi ce que vous pensez en général de l’état du système scolaire en Belgique de nos jours.
+
+{ANSWERS}
+00 Très mauvais
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Très bon
+
+B34 
+{QUESTION}
+Toujours à l’aide de cette carte, dites-moi ce que vous pensez dans l’ensemble de l’état des services de santé en Belgique de nos jours.
+
+{ANSWERS}
+00 Très mauvais
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Très bon
+
+{INTRO}
+Certaines mesures politiques peuvent être prises à différents niveaux. 
+
+B35
+{QUESTION}
+En utilisant cette carte, à quel niveau diriez-vous que les mesures suivantes devraient principalement être prises? … protection de l'environnement
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B36
+{QUESTION}
+… lutte contre le crime organisé 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B37
+{QUESTION}
+… agriculture 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B38
+{QUESTION}
+… défense 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B39
+{QUESTION}
+… sécurité sociale 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B40
+{QUESTION}
+… aide aux pays en développement 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B41
+{QUESTION}
+… immigration et réfugiés 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+B42
+{QUESTION}
+… taux d'intérêt 
+
+{ANSWERS}
+International Niveau 
+Européen Niveau 
+National Niveau 
+Régional ou local Niveau
+
+
+B43 
+{QUESTION}
+À l’aide de cette carte, dites-moi s’il vous plaît dans quelle mesure vous êtes d’accord ou non avec chacune des propositions suivantes. Moins le gouvernement intervient dans l’économie et mieux c’est pour la Belgique.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B44 
+{QUESTION}
+Le gouvernement devrait prendre des mesures pour réduire les différences de revenu.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B45 
+{QUESTION}
+Les travailleurs ont besoin de syndicats forts pour protéger leurs salaires et leurs conditions de travail.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B46 
+{QUESTION}
+Les homosexuels hommes et femmes devraient être libres de vivre leur vie comme ils le souhaitent.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B47 
+{QUESTION}
+Quelles que soient les circonstances, la loi devrait toujours être respectée.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B48 
+{QUESTION}
+Il faudrait interdire les partis politiques qui remettent en cause la démocratie.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B49 
+{QUESTION}
+La croissance économique finit toujours par porter atteinte à l’environnement.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+B50 
+{QUESTION}
+On peut faire confiance à la science d’aujourd’hui pour résoudre les problèmes environnementaux.
+
+{ANSWERS}
+Tout à fait d’accord
+Plutôt d’accord
+Ni d’accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+
+{INTRO}
+Je vais maintenant vous poser quelques questions à propos de vous et de votre vie
+
+C1 
+{QUESTION}
+Tout bien considéré, dans quelle mesure diriez-vous que vous êtes heureux ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+00 Très malheureux 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Très heureux
+
+C2 
+{QUESTION}
+À l’aide de cette carte, pouvez-vous me dire à quelle fréquence vous rencontrez des amis, de la famille ou des collègues en dehors du travail.
+
+{ANSWERS}
+Jamais 
+Moins d'une fois par mois 
+Une fois par mois 
+Plusieurs fois par mois 
+Une fois par semaine 
+Plusieurs fois par semaine 
+Chaque jour 
+
+C3 
+{QUESTION}
+Avez-vous dans votre entourage quelqu’un avec qui vous puissiez discuter de sujets intimes ou personnels?
+
+{ANSWERS}
+Oui 
+Non 
+
+C4
+{QUESTION}
+En vous comparant à d’autres personnes de vôtre âge, à quelle fréquence prenezvous part à des activités sociales ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Beaucoup moins souvent que la plupart
+Moins souvent que la plupart 
+A peu près la même chose 
+Plus souvent que la plupart 
+Beaucoup plus souvent que la plupart 
+
+C5 
+{QUESTION}
+Vous-même ou un membre de votre ménage, a-t-il été victime d’un cambriolage ou d’une agression ces 5 dernières années ?
+
+{ANSWERS}
+Oui 
+Non 
+
+C6 
+{QUESTION}
+Dans quelle mesure vous sentez-vous (ou sentiriez-vous) en sécurité seul le soir dans votre quartier ? Vous sentez-vous… 
+
+{ANSWERS}
+Tout à fait en sécurité, 
+En sécurité, 
+En insécurité, 
+Tout à fait en insécurité 
+
+C7 
+{QUESTION}
+Quel est votre état de santé en général. Diriez-vous qu’il est… 
+
+{ANSWERS}
+Très bon 
+Bon 
+Passable 
+Mauvais 
+Très mauvais 
+
+C8 
+{QUESTION}
+Êtes-vous gêné d’une quelconque manière dans vos activités quotidiennes par une maladie de longue durée, handicap, infirmité ou un problème de santé mentale ?
+
+{ANSWERS}
+Oui, fortement 
+Oui, dans une certaine mesure 
+Non 
+
+C9 
+{QUESTION}
+Est-ce que vous vous sentez appartenir à une religion ou confession particulière ?
+
+{ANSWERS}
+Oui
+Non
+
+C10 
+{QUESTION}
+Laquelle ?
+
+{ANSWERS}
+Catholique (romain) 
+Protestante 
+Orthodoxe 
+Autre église Chrétienne 
+Juive 
+Islamique / Musulmane 
+Hindouiste, Bouddhiste, Shintoïste… (Religions Orientales) 
+Autre religion non-chrétienne 
+
+C11 
+{QUESTION}
+Et vous êtes-vous une fois dans votre vie senti appartenir à une religion ou confession particulière ?
+
+{ANSWERS}
+Oui
+Non
+
+C12 
+{QUESTION}
+Laquelle ?
+
+{ANSWERS}
+Catholique (romain) 
+Protestante 
+Orthodoxe 
+Autre église Chrétienne 
+Juive 
+Islamique / Musulmane 
+Hindouiste, Bouddhiste, Shintoïste… (Religions Orientales) 
+Autre religion non-chrétienne 
+
+C13
+{QUESTION}
+Indépendamment de votre appartenance religieuse, dans quelle mesure vous sentezvous croyant ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+00 Pas du tout croyant
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Très croyant
+
+C14 
+{QUESTION}
+Sans compter les occasions spéciales comme les mariages ou les décès, à quelle fréquence environ suivez-vous actuellement des offices religieux ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Chaque jour 
+Plus d'une fois par semaine 
+Une fois par semaine 
+Au moins une fois par mois 
+Seulement à l’occasion de fêtes religieuses 
+Moins souvent 
+Jamais 
+
+C15
+{QUESTION}
+En dehors des offices religieux, à quelle fréquence, le cas échéant, priez-vous?
+
+{ANSWERS}
+Chaque jour 
+Plus d'une fois par semaine 
+Une fois par semaine 
+Au moins une fois par mois 
+Seulement à l’occasion de fêtes religieuses 
+Moins souvent 
+Jamais 
+
+C16 
+{QUESTION}
+Considérez-vous que vous appartenez à un groupe discriminé dans ce pays ?
+
+{ANSWERS}
+Oui
+Non
+
+C17 
+{QUESTION}
+Pour quelle raison, ce groupe est-il discriminé? Et pour quelle autre raison ?
+
+{ANSWERS}
+Couleur ou race 
+Nationalité 
+Religion 
+Langue 
+Groupe ethnique 
+Age 
+Genre (sexe) 
+Orientation sexuelle 
+Handicap 
+Autre 
+
+C18 
+{QUESTION}
+Êtes-vous citoyen belge ?
+
+{ANSWERS}
+Oui
+Non
+
+C19 
+{QUESTION}
+Quelle nationalité avez-vous ?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Êtes-vous né en Belgique?
+
+{ANSWERS}
+Oui
+Non
+
+C21 
+{QUESTION}
+Dans quel pays êtes-vous né ?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Depuis combien de temps êtes-vous venu vivre en Belgique pour la première fois ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Moins d’une année 
+Entre 1 et 5 ans 
+Entre 6 et 10 ans 
+Entre 11 et 20 ans 
+Plus de 20 ans 
+
+C23 
+{QUESTION}
+Quelle langue parlez-vous le plus souvent à la maison ?
+
+{ANSWERS}
+INSCRIVEZ MAX. 2 LANGUES
+
+C24 
+{QUESTION}
+Faites-vous partie d'une minorité ethnique en Belgique?
+
+{ANSWERS}
+Oui 
+Non 
+
+C25 
+{QUESTION}
+Votre père est-il né en Belgique?
+
+{ANSWERS}
+Oui
+Non
+
+C26
+{QUESTION}
+De quel continents est originaire votre père ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Europe 
+Afrique 
+Asie 
+Amérique du Nord 
+Amérique du Sud et Caraïbes 
+Australie, Océanie 
+
+C27 
+{QUESTION}
+Votre mère est-elle née en Belgique?
+
+{ANSWERS}
+Oui
+Non
+
+C28
+{QUESTION}
+De quel continents est originaire votre mère ? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Europe 
+Afrique 
+Asie 
+Amérique du Nord 
+Amérique du Sud et les Caraïbes 
+Australie, Océanie 
+
+{INTRO}
+Et finalement, je voudrais vous demander quelques détails à propos de vous et des autres membres de votre ménage.
+
+F1 
+{QUESTION}
+Combien de personnes, vous même et les enfants y compris, vivent régulièrement comme membres de votre ménage ?
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+CODE SEXE
+
+{ANSWERS}
+Masculin 
+Féminin 
+
+F3 
+{QUESTION}
+Et en quelle année êtes-vous né?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+à l’aide de cette carte, dites-moi quelle relation a-t-il avec vous ?
+
+{ANSWERS}
+Epoux/épouse/partenaire 
+Fils, fille (aussi beaufils/ belle fille ou adoptés, enfant placé dans une famille d’accueil, enfant du partenaire)
+Parents/beauxparents/ parents du partenaire/parents adoptifs
+Autres membres de la famille 
+Autre personne non apparentée 
+
+F5 
+{QUESTION}
+Quelle expression de cette carte décrit le mieux l’endroit où vous vivez ?
+
+{ANSWERS}
+Une grande ville 
+Une banlieue ou les faubourgs d’une grande ville 
+Un ville ou petite ville 
+Un village de campagne 
+Une ferme ou maison isolée dans campagne 
+
+F6 
+{QUESTION}
+Quel est le plus haut niveau de formation que vous avez terminé?
+
+{ANSWERS}
+Aucun terminé 
+Primaires 
+Secondaire inférieur professionnel ou technique 
+Secondaire inférieur général 
+Secondaire supérieur professionnel (A3) 
+Secondaire supérieur technique (A2) 
+Secondaire supérieur général 
+Supérieur de type court (A1) 
+Supérieur de type long 
+Universitaire 
+Doctorat ou post-doctorat 
+Autre 
+
+F7 
+{QUESTION}
+Combien d’années d’études à plein temps avez-vous accomplies ?
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+A l’aide de cette carte, dites-moi laquelle de ces descriptions correspond le mieux à ce que vous avez fait ces 7 derniers jour. Quoi d'autre ? 
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d’une entreprise familiale) 
+En formation (non payée par l’employeur), même si vous êtes actuellement en vacances 
+Sans travail mais voulant trouver un emploi et en le cherchant activement 
+Sans travail mais voulant trouver un emploi, sans le chercher activement 
+Malade ou handicapé de manière durable 
+Retraité 
+Service militaire ou service civil 
+Travail ménager, s’occuper des enfants ou d’une autre personne 
+Autres 
+
+F8b 
+{QUESTION}
+Et laquelle de ces descriptions décrit le mieux votre situation (ces sept derniers jours) ?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d’une entreprise familiale) 
+En formation (non payée par l’employeur), même si vous êtes actuellement en vacances 
+Sans travail mais voulant trouver un emploi et en le cherchant activement 
+Sans travail mais voulant trouver un emploi, sans le chercher activement 
+Malade ou handicapé de manière durable 
+Retraité 
+Service militaire ou service civil 
+Travail ménager, s’occuper des enfants ou d’une autre personne 
+Autres 
+
+F9 
+{QUESTION}
+J’aimerais encore savoir si vous avez effectué un quelconque travail rémunéré (une heure ou plus) ces 7 derniers jours?
+
+{ANSWERS}
+Oui
+Non
+
+F10 
+{QUESTION}
+Avez-vous déjà eu un travail rémunéré?
+
+{ANSWERS}
+Oui
+Non
+
+F11 
+{QUESTION}
+En quelle année avez-vous exercé votre dernier travail rémunéré ?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Dans votre emploi principal êtes-vous 
+
+{ANSWERS}
+Employé
+Indépendant
+Collaborateur dans votre propre entreprise familiale 
+
+F13 
+{QUESTION}
+Combien d'employés avez-vous ou aviez-vous (si c’est le cas) ?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Avez-vous ou aviez-vous un contrat de travail… 
+
+{ANSWERS}
+à durée in,déterminée 
+ou à durée déterminée 
+
+F15 
+{QUESTION}
+En vous comptant vous-mêmes, combien de personnes sont employées à l’endroit où vous travaillez habituellement 
+
+{ANSWERS}
+…moins de 10 
+…de 10 à 24 
+…de 25 à 99 
+… de 100 à 499 
+ou 500 et plus ? 
+
+F16 
+{QUESTION}
+Dans votre emploi principal, av(i)ez-vous la responsabilité de superviser le travail d’autres employés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F17 
+{QUESTION}
+De combien de personnes êtes-vous responsable ?
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Dans quelle mesure, pouvez-vous organiser votre propre travail? 
+
+{ANSWERS}
+…dans une large mesure 
+…dans une certaine mesure 
+…très peu 
+…ou pas du tout ? 
+
+F19 
+{QUESTION}
+Combien d’heures hebdomadaires de travail figurent (pour votre emploi principal) dans votre contrat, sans compter les heures supplémentaires, payées ou non ?
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+Indépendamment du contrat, combien d’heures hebdomadaires de travail accomplissez-vous habituellement, y compris les heures supplémentaires, payées ou non ?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Quel est le nom ou le titre de votre emploi principal ?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Dans le cadre de votre emploi principal, quel type de travail faites-vous principalement ?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Quelle formation ou qualifications sont-elles requises pour ce travail ?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Quelle est l’activité principale de l’entreprise/ organisation pour laquelle vous travaillez ?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Avez-vous déjà été sans emploi et à la recherche d’un travail pendant une période de plus de trois mois ?
+
+{ANSWERS}
+Oui
+Non
+
+F26 
+{QUESTION}
+L’une ou l’autre de ces périodes a-t-elle duré 12 mois ou plus?
+
+{ANSWERS}
+Oui 
+Non 
+
+F27 
+{QUESTION}
+Et l’une ou l’autre de ces périodes a-t-elle eu lieu ces 5 dernières années?
+
+{ANSWERS}
+Oui
+Non
+
+F28 
+{QUESTION}
+Êtes-vous ou avez-vous jamais été membre d'un syndicat ou d'une organisation similaire ?
+
+{ANSWERS}
+Oui, actuellement 
+Oui, précédemment 
+Non 
+
+F29
+{QUESTION}
+Considérez s’il vous plaît le revenu de tous les membres du ménage, ainsi que les revenus reçus par le ménage dans son ensemble. Quelle est la source principale de revenu de votre ménage ?
+
+{ANSWERS}
+Salaires 
+Revenu d’indépendant ou d’agriculteur 
+Rentes, pensions 
+Allocation de chômage, indemnités de licenciement 
+Autres aides sociales ou bourses 
+Revenus d’investissements, d’épargne, d’assurances ou de propriétés 
+Autres sources de revenus 
+
+
+F30 a
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage ? Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel.
+
+{ANSWERS}
+HEBDOMADAIRE
+J Moins de 40 € (Moins de 1.600 FB)
+R 40 € à moins de 70 € (1600 à 2799 FB)
+C 70 € à moins de 120 € (2.800 à 4.799 FB)
+M 120 € à moins de 230 € (4.800 à 9.199 FB)
+F 230 € à moins de 350 € (9.200 à 14.099 FB)
+S 350 € à moins de 460 € (14.100 à 18.499 FB)
+K 460 € à moins de 580 € (18.500 à 23.399 FB)
+P 580 € à moins de 690 € (23.400 à 27.799 FB)
+D 690 € à moins de 1.150 € (27.800 à 46.399 FB)
+H 1.150 € à moins de 1.730 € (46.400 à 69.799 FB)
+U 1.730 € à moins de 2.310 € (69.800 à 93.199 FB)
+N 2.310 € ou plus (93.200 FB ou plus)
+
+F30 b
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage ? Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel.
+
+{ANSWERS}
+MENSUEL
+J Moins de 150 € (Moins de 6.000 FB)
+R 150 € à moins de 300 € (6.000 à 12.099 FB)
+C 300 € à moins de 500 € (12.100 à 20.099 FB)
+M 500 € à moins de 1.000 € (20.100 à 40.299 FB)
+F 1.000 € à moins de 1.500 € (40.300 à 60.499 FB)
+S 1.500 € à moins de 2.000 € (60.500 à 80.599 FB)
+K 2.000 € à moins de 2.500 € (80.600 à 100.799 FB)
+P 2.500 € à moins de 3.000 € (100.800 à 120.999 FB)
+D 3.000 € à moins de 5.000 € (121.000 à 201.699 FB)
+H 5.000 € à moins de 7.500 € (201.700 à 302.499 FB)
+U 7.500 € à moins de 10.000 € (302.500 à 403.399 FB)
+N 10.000 € ou plus (403.400 FB ou plus)
+
+
+F30 c
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage ? Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel.
+
+{ANSWERS}
+ANNUEL
+J Moins de 1.800 € (Moins de 72.600 FB)
+R 1.800 € à moins de 3.600 € (72.600 à 145.199 FB)
+C 3.600 € à moins de 6.000 € (145.200 à 241.999 FB)
+M 6.000 € à moins de 12.000 € (242.000 à 483.999 FB)
+F 12.000 € à moins de 18.000 € (484.000 à 726.099 FB)
+S 18.000 € à moins de 24.000 € (726.100 à 968.099 FB)
+K 24.000 € à moins de 30.000 € (968.100 à 1.210.099 FB)
+P 30.000 € à moins de 36.000 € (1.210.100 à 1.452.199 FB)
+D 36.000 € à moins de 60.000 € (1.452.200 à 2.420.399 FB)
+H 60.000 € à moins de 90.000 € (2.420.400 à 3.630.599 FB)
+U 90.000 € à moins de 120.000 € (3.630.600 à 4.840.799 FB)
+N 120.000 € ou plus (4.840.800 FB ou plus)
+
+F31 
+{QUESTION}
+Laquelle des descriptions de cette carte correspond au mieux à ce que vous pensez du revenu actuel de votre ménage ?
+
+{ANSWERS}
+On peut vivre confortablement du revenu actuel 
+Le revenu actuel suffit 
+Il est difficile de vivre avec le revenu actuel 
+Il est très difficile de vivre avec le revenu actuel 
+
+F32
+{QUESTION}
+Si pour l’une ou l’autre raison vous étiez dans une situation financière difficile et ayez à emprunter de l’argent pour boucler les fins de mois, dans quelle mesure serait-ce facile ou difficile.
+
+{ANSWERS}
+Très difficile 
+Assez difficile 
+Ni facile, ni difficile 
+Assez facile 
+Très facile 
+
+F33
+{QUESTION}
+Le répondant vit avec son mari 
+
+{ANSWERS}
+Le répondant vit avec son mari/épouse/partenaire à F4 
+Vit seul 
+
+F34
+{QUESTION}
+Quel est le plus haut niveau de formation que votre époux, partenaire ait achevé? Veuillez utiliser cette carte.
+
+{ANSWERS}
+Aucune terminée 
+Primaires 
+Secondaire inférieur professionnel ou technique 
+Secondaire inférieur général 
+Secondaire supérieur professionnel (A3) 
+Secondaire supérieur technique (A2) 
+Secondaire supérieur général 
+Supérieur de type court (A1) 
+Supérieur de type long 
+Universitaire 
+Doctorat ou post-doctorat 
+Autre 
+
+F35a 
+{QUESTION}
+A l’aide de cette carte, dites-moi laquelle de ces descriptions correspond à ce qu’il a fait durant ces 7 derniers jours ? Quelles autres activités ? 
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d’une entreprise familiale)
+En formation (non payée par l’employeur), même si vous êtes actuellement en vacances 
+Sans travail mais voulant trouver un emploi et en le cherchant activement 
+Sans travail mais voulant trouver un emploi, sans le chercher activement 
+Malade ou handicapé de manière durable 
+Retraité 
+Service militaire ou service civil 
+Travail ménager, s’occuper des enfants ou d’une autre personne 
+Autres 
+
+F35b 
+{QUESTION}
+Et laquelle des descriptions de cette carte décrit le mieux sa situation(durant les 7 derniers jours)?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d’une entreprise familiale)
+En formation (non payée par l’employeur), même si vous êtes actuellement en vacances 
+Sans travail mais voulant trouver un emploi et en le cherchant activement 
+Sans travail mais voulant trouver un emploi, sans le chercher activement 
+Malade ou handicapé de manière durable 
+Retraité 
+Service militaire ou service civil 
+Travail ménager, s’occuper des enfants ou d’une autre personne 
+Autres 
+
+F36 
+{QUESTION}
+J’aimerais encore savoir s’il a effectué un travail rémunéré (d’une heure ou plus ) durant les 7 derniers jours ?
+
+{ANSWERS}
+Oui
+Non
+
+F37 
+{QUESTION}
+Quel est le nom ou le titre de son emploi principal ?
+
+{ANSWERS}
+
+F38 
+Dans le cadre de son emploi principal, quel type de travail fait-il principalement ?
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Quelle formation ou qualifications sont-elles requises pour ce travail ?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Dans son travail principal, est-il
+
+{ANSWERS}
+Employé(e)
+Indépendant(e)
+collaborateur/trice dans l’entreprise familiale 
+
+F41 
+{QUESTION}
+Combien d'employés (s'il y en a) a-t-il?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Dans son emploi principal, a-t-il la responsabilité de superviser le travail d’autres employés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F43 
+{QUESTION}
+De combien personnes est-il responsable ?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Combien d’heures travaille-t-il normalement par semaine (dans son emploi principal) ? Y compris les heures supplémentaires payées et non payées.
+
+{ANSWERS}
+
+F45
+{QUESTION}
+Quel est le plus haut niveau de formation que votre père a terminé ?.
+
+{ANSWERS}
+Aucune terminée 
+Primaires 
+Secondaire inférieur professionnel ou technique 
+Secondaire inférieur général 
+Secondaire supérieur professionnel (A3) 
+Secondaire supérieur technique (A2) 
+Secondaire supérieur général 
+Supérieur de type court (A1) 
+Supérieur de type long 
+Universitaire 
+Doctorat ou post-doctorat 
+Autre 
+
+F46 
+{QUESTION}
+Lorsque vous aviez 14 ans, est-ce que votre père travaillait en tant qu’employé, en tant qu’indépendant ou ne travaillait-il pas à cette époque ?
+
+{ANSWERS}
+Employé 
+Indépendant 
+Sans emploi rémunéré 
+ (Père décédé/absent lorsque le répondant avait 14 ans) 
+
+F47 
+{QUESTION}
+Combien d'employés avait-il (le cas échéant) ?
+
+{ANSWERS}
+Aucun 
+de 1 à 24 
+25 ou plus 
+
+F48 
+{QUESTION}
+Avait-il la responsabilité de superviser le travail d’autres employés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F49 
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Laquelle des descriptions de cette carte décrit au mieux le genre de travail qu’il faisait lorsque vous aviez 14 ans ?
+
+{ANSWERS}
+Professions libérales traditionnelles et assimilées : Expert-comptable, avocat, médecin, scientifique, ingénieur civil ou mécanique 
+Professions de services spécialisées : Enseignant, infirmier, physiothérapeute, travailleur social, assistant social, artiste, musicien, officier de police, programmeur 
+Intermédiaires et employés de bureau qualifiés : Secrétaire, assistant personnel, employé de bureau, téléphoniste, aide-infirmier, nurse 
+Cadres supérieurs et administratifs : Habituellement responsable d’élaboration, organisation, coordination, directeur des finances, directeur général 
+Professions techniques et artisanales : Mécaniciens, assembleurs, contrôleurs, plombier, imprimeurs, outilleurs, électriciens, jardinier, conducteur de train 
+Professions manuelles et de services semi-qualifiées : Employé de poste, opérateur de machine, agent de sécurité, concierge, réceptionniste, assistant de vente, employé de ferme 06
+Professions manuelles et de services, non-qualifiées : Conducteurs de camions, nettoyeurs, emballeurs, ouvrier en général, serveur, barman 
+Cadres inférieurs et moyens : Chefs de bureau, gérant de restaurant, fondé de pouvoir, directeur de succursale, patron de café-restaurant 
+
+F51 
+{QUESTION}
+Quel est le plus haut niveau de formation que votre mère a terminé ?
+
+{ANSWERS}
+Aucune terminée 
+Primaires 
+Secondaire inférieur professionnel ou technique 
+Secondaire inférieur général 
+Secondaire supérieur professionnel (A3) 
+Secondaire supérieur technique (A2) 
+Secondaire supérieur général 
+Supérieur de type court (A1) 
+Supérieur de type long 
+Universitaire 
+Doctorat ou post-doctorat 
+Autre 
+
+F52 
+{QUESTION}
+Lorsque vous aviez 14 ans, est-ce que votre mère travaillait en tant qu’employée, en tant qu’indépendante ou ne travaillait-elle pas à cette époque?
+
+{ANSWERS}
+Employée 
+Indépendante
+Sans emploi rémunéré 
+(Mère décédée/absente lorsque le répondant avait 14 ans) 
+
+F53 
+{QUESTION}
+Combien d'employés avait-elle (le cas échéant) ?
+
+{ANSWERS}
+Aucun 
+De 1 à 24 
+25 ou plus 
+
+F54 
+{QUESTION}
+Avait-elle la responsabilité de superviser le travail d’autres employés?
+
+{ANSWERS}
+Oui 
+Non 
+
+F55 
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ?
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Laquelle des descriptions de cette carte décrit le mieux le type de travail qu'elle faisait lorsque vous aviez 14 ans.
+
+{ANSWERS}
+Professions libérales traditionnelles et assimilées : Expert-comptable, avocat, médecin, scientifique, ingénieur civil ou mécanique 
+Professions de services spécialisées : Enseignant, infirmier, physiothérapeute, travailleur social, assistant social, artiste, musicien, officier de police, programmeur 
+Intermédiaires et employés de bureau qualifiés : Secrétaire, assistant personnel, employé de bureau, téléphoniste, aide-infirmier, nurse 
+Cadres supérieurs et administratifs : Habituellement responsable d’élaboration, organisation, coordination, directeur des finances, directeur général 
+Professions techniques et artisanales : Mécaniciens, assembleurs, contrôleurs, plombier, imprimeurs, outilleurs, électriciens, jardinier, conducteur de train 
+Professions manuelles et de services semi-qualifiées : Employé de poste, opérateur de machine, agent de sécurité, concierge, réceptionniste, assistant de vente, employé de ferme 
+Professions manuelles et de services, non-qualifiées : Conducteurs de camions, nettoyeurs, emballeurs, ouvrier en général, serveur, barman 
+Cadres inférieurs et moyens : Chefs de bureau, gérant de restaurant, fondé de pouvoir, directeur de succursale, patron de café-restaurant 
+
+F57 
+{QUESTION}
+Durant les 12 derniers mois, avez–vous suivi des cours ou assisté à des présentations afin d’améliorer vos compétences ou connaissances professionnelles ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F58 
+{QUESTION}
+Puis-je vous demander votre état civil légal actuel ? Laquelle des descriptions de cette fiche s'applique à vous?
+
+{ANSWERS}
+Marié
+Séparé (toujours légalement mariés) 
+Divorcé 
+Veuf/Veuve 
+Célibataire, jamais marié 
+
+F59 
+{QUESTION}
+Vivez-vous actuellement avec votre époux ?
+
+{ANSWERS}
+Oui 1
+Non
+
+F60 
+{QUESTION}
+Vivez-vous actuellement avec un autre partenaire ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F61 
+{QUESTION}
+Vivez-vous actuellement avec un partenaire ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F62 
+{QUESTION}
+Avez-vous déjà vécu avec un partenaire sans être marié à celui -ci ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F63
+{QUESTION}
+Avez-vous déjà divorcé ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F64 
+{QUESTION}
+Le répondant a des enfants chez vivant dans le ménage
+
+{ANSWERS}
+Le répondant a des enfants chez vivant dans le ménage
+N'en a pas 
+
+F65 
+{QUESTION}
+Vos propres enfants ou vos beaux-enfants ont-ils déjà vécu avec vous ?
+
+{ANSWERS}
+Oui 
+Non 
+
+

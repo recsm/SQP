@@ -526,8 +526,8 @@ class Study(models.Model):
 
 class Item(models.Model):
     name         = models.CharField(max_length=8)
-    admin        = models.CharField(max_length=8)
-    long_name    = models.CharField(max_length=300)
+    admin        = models.CharField(max_length=8, default='')
+    long_name    = models.CharField(max_length=300, default='')
     study        = models.ForeignKey(Study)
     admin_letter = models.CharField(max_length=1, blank=True, null=True)
     admin_number = models.IntegerField(blank=True, null=True)

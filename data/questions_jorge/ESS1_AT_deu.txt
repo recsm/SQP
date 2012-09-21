@@ -1,0 +1,1765 @@
+﻿A1 
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem normalen Wochentag insgesamt mit Fernsehen?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A2 
+{QUESTION}
+Wenn Sie wieder an einen normalen Wochentag denken, wie viel Ihrer Fernsehzeit verwenden Sie zum Anschauen von Nachrichten oder von Programmen über Politik und über das aktuelle Geschehen?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A3 
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem normalen Wochentag mit Radiohören?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A4 
+{QUESTION}
+Wenn Sie wieder an einen normalen Wochentag denken, wie viel Ihrer Zeit zum Radiohören verwenden Sie auf das Hören der Nachrichten oder von Programmen über Politik und über das aktuelle Geschehen?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A5 
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem durchschnittlichen Wochentag insgesamt mit dem Lesen von Zeitungen?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A6 
+{QUESTION}
+Wie viel dieser Zeit verwenden Sie für das Lesen über politische Themen und über das aktuelle Geschehen?
+
+{ANSWERS}
+gar keine Zeit 
+weniger als ½ Stunde 
+mehr als ½ Stunde, bis zu 1 Stunde
+mehr als 1 Stunde, bis zu 1 ½ Stunden
+mehr als 1½ Stunden, bis zu 2 Stunden
+mehr als 2 Stunden, bis zu 2½ Stunden
+mehr als 2½ Stunden, bis zu 3 Stunden
+3 Stunden und mehr 
+
+A7 
+{QUESTION}
+Wie oft verwenden Sie das Internet, das World Wide Web oder E-Mails – sowohl zu Hause oder bei der Arbeit – für Ihren persönlichen Gebrauch?
+
+{ANSWERS}
+kein Zugang zu Hause oder in der Arbeit
+niemals 
+weniger als einmal im Monat 
+einmal im Monat 
+mehrmals im Monat 
+einmal die Woche 
+mehrmals die Woche
+täglich 
+
+A8 
+{QUESTION}
+Würden Sie ganz generell sagen, dass man den meisten Menschen vertrauen kann, oder dass man im Umgang mit den Menschen nicht vorsichtig genug sein kann? Bitte beantworten Sie mir diese Frage auf einer Skala von 0 bis 10, wobei 0 bedeutet, dass man nicht vorsichtig genug sein kann und 10, dass man
+den meisten vertrauen kann.
+
+{ANSWERS}
+0 man kann nicht vorsichtig genug sein 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 den meisten Menschen kann man vertrauen
+
+
+A9 
+{QUESTION}
+Glauben Sie, dass die meisten Menschen Sie ausnutzen würden, wenn sie die Möglichkeit dazu hätten, oder würden sie Ihnen gegenüber fair und anständig sein?
+
+{ANSWERS}
+0 die meisten Menschen würden mich auszunutzen versuchen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 die meisten Menschen würden versuchen, fair und anständig zu sein
+
+A10 
+{QUESTION}
+Würden Sie sagen, dass die meisten Menschen im Großen und Ganzen versuchen, hilfsbereit zu sein, oder sind sie meistens nur auf den eigenen Vorteil bedacht?
+
+{ANSWERS}
+0 die meisten Menschen sind nur auf den eigenen Vorteil bedacht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 die meisten Menschen versuchen, hilfsbereit zu sein
+
+{INTRO}
+Nun würden wir Ihnen gerne ein paar Fragen zu Politik und Regierung stellen.
+
+B1 
+{QUESTION}
+Wie sehr sind Sie persönlich an Politik interessiert? Sind Sie ...? 
+
+{ANSWERS}
+sehr interessiert 
+ziemlich interessiert 
+kaum interessiert 
+überhaupt nicht interessiert 
+
+
+B2 
+{QUESTION}
+Wie oft erscheint Ihnen das politische Geschehen so kompliziert, dass Sie nicht wirklich verstehen, was vor sich geht?
+
+{ANSWERS}
+nie 
+selten 
+manchmal 
+ziemlich häufig 
+häufig 
+
+B3 
+{QUESTION}
+Glauben Sie, dass Sie eine aktive Rolle in einer politischen Gruppierung spielen könnten?
+
+{ANSWERS}
+ganz sicher nicht
+ziemlich sicher nicht
+unentschieden 
+ziemlich sicher 
+ganz sicher 
+
+B4 
+{QUESTION}
+Wie schwer oder leicht finden Sie es, sich bei politischen Themen eine eigene Meinung zu bilden?
+
+{ANSWERS}
+sehr schwierig
+schwierig 
+weder schwer noch leicht 
+leicht
+sehr leicht 
+
+B5 
+{QUESTION}
+Glauben Sie, dass sich Politiker im allgemeinen darum kümmern, was Leute wie Sie denken?
+
+{ANSWERS}
+kaum einen Politiker kümmert es, was Leute wie ich denken
+sehr wenige kümmert es
+manche kümmert es 
+viele kümmert es
+die meisten Politiker kümmert es, was Leute wie ich denken 
+
+B6 
+{QUESTION}
+Würden Sie sagen, dass Politiker eher interessiert sind an Wählerstimmen als an der Meinung der Leute?
+
+{ANSWERS}
+fast alle Politiker sind nur an der Wählerstimme interessiert
+die meisten Politiker sind nur an der Wählerstimme interessiert 
+manche Politiker sind an der Wählerstimme interessiert; andere nicht 
+die meisten Politiker sind an der Meinung anderer Leute interessiert 
+fast alle Politiker sind an der Meinung der Leute interessiert
+
+B7
+{QUESTION}
+Sagen Sie mir bitte – auf einer Skala von 1 bis 10 – wie stark Sie persönlich jeder dieser Institutionen, die ich Ihnen vorlese, vertrauen. 0 heißt, Sie vertrauen dieser Institution überhaupt nicht, 10 bedeutet, Sie vertrauen ihr vollkommen. Erstens, ...? dem österreichischen Parlament
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B8 
+{QUESTION}
+der Justiz 
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B9 
+{QUESTION}
+der Polizei 
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B10 
+{QUESTION}
+den Politikern 
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B11 
+{QUESTION}
+dem Europäischen Parlament 
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B12 
+{QUESTION}
+den Vereinten Nationen 
+
+{ANSWERS}
+0 Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vollständiges Vertrauen
+
+B13 
+{INTRO}
+Manche Menschen wählen heutzutage aus verschiedenen Gründen nicht mehr. 
+
+{QUESTION}
+Haben Sie bei den letzten Nationalratswahlen im November 2002 gewählt?
+
+{ANSWERS}
+ja 
+nein 
+nicht wahlberechtigt 
+
+B14 
+{QUESTION}
+Für welche Partei haben Sie bei dieser Wahl gestimmt?
+
+{ANSWERS}
+SPÖ 
+ÖVP 
+FPÖ
+Grüne
+LIF
+andere 
+
+B15 
+{INTRO}
+Es gibt verschiedene Wege, die Lage in Österreich zu verbessern oder zu versuchen, Fehlentwicklungen zu vermeiden. 
+
+{QUESTION}
+Haben Sie während der letzten 12 Monate eine der folgenden Handlungen gesetzt? Erstens, ...?
+
+{ANSWERS}
+ja 
+nein
+
+B15 
+{QUESTION}
+einen Politiker oder einen Vertreter der Bundesregierung, der Landesregierung oder der Gemeindeverwaltung kontaktiert 
+
+{ANSWERS}
+ja 
+nein
+
+B16 
+{QUESTION}
+in einer politischen Partei oder Gruppierung mitgearbeitet 
+
+{ANSWERS}
+ja 
+nein
+
+B17 
+{QUESTION}
+in irgend einer anderen Organisation oder Vereinigung gearbeitet 
+
+{ANSWERS}
+ja 
+nein
+
+B18 
+{QUESTION}
+ein Abzeichen oder einen Aufkleber für eine politische Kampagne getragen oder befestigt 
+
+{ANSWERS}
+ja 
+nein
+
+B19 
+{QUESTION}
+sich an einer Unterschriftensammlung beteiligt 
+
+{ANSWERS}
+ja 
+nein
+
+B19a 
+{QUESTION}
+ein Volksbegehren oder Bürgerbegehren unterschrieben 
+
+{ANSWERS}
+ja 
+nein
+
+B20 
+{QUESTION}
+an einer genehmigten öffentlichen Demonstration teilgenommen 
+
+{ANSWERS}
+ja 
+nein
+
+B21 
+{QUESTION}
+bestimmte Produkte boykottiert 
+
+{ANSWERS}
+ja 
+nein
+
+B22 
+{QUESTION}
+freiwillig bestimmte Produkte aus politischen, ethischen oder Umweltgründen gekauft 
+
+{ANSWERS}
+ja 
+nein
+
+B23 
+{QUESTION}
+Geld an eine politische Organisation oder Gruppe gespendet 
+
+{ANSWERS}
+ja 
+nein
+
+B24 
+{QUESTION}
+an illegalen Protestaktivitäten teilgenommen 
+
+{ANSWERS}
+ja 
+nein
+
+B25A 
+{QUESTION}
+Gibt es eine bestimmte politische Partei, der Sie sich mehr verbunden fühlen als anderen Parteien?
+
+{ANSWERS}
+ja 
+nein 
+
+B25B 
+{QUESTION}
+Welche?
+
+{ANSWERS}
+SPÖ 
+ÖVP 
+FPÖ
+Grüne
+LIF
+andere 
+
+B25C 
+{QUESTION}
+Wie nahe fühlen Sie sich dieser Partei? Fühlen Sie sich ...? 
+
+{ANSWERS}
+sehr nahe
+ziemlich nahe
+nicht nahe 
+ganz und gar nicht nahe 
+
+B26 
+{QUESTION}
+Sind Sie ein Mitglied irgendeiner politischen Partei?
+
+{ANSWERS}
+ja 
+nein 
+
+B27 
+{QUESTION}
+Bei welcher?
+
+{ANSWERS}
+SPÖ 
+ÖVP 
+FPÖ
+Grüne
+LIF
+andere 
+
+B28 
+{INTRO}
+In der Politik wird manchmal von “links” und “rechts” gesprochen. 
+
+{QUESTION}
+Wo würden Sie sich selbst auf dieser Skala positionieren, wobei 0 „sehr linksstehend“ bezeichnet und 10 „sehr rechtsstehend“?
+
+{ANSWERS}
+0 sehr linksstehend
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 sehr rechtsstehend
+
+B29 
+{QUESTION}
+Alles in allem betrachtet, wie zufrieden sind Sie derzeit mit Ihrem Leben insgesamt? 0 bezeichnet „äußerst unzufrieden“ und 10 „äußerst zufrieden“.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B30 
+{QUESTION}
+Wie zufrieden sind Sie im allgemeinen mit dem derzeitigen Zustand der österreichischen Wirtschaft?
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B31 
+{QUESTION}
+Wenn Sie nun an die österreichische Bundesregierung denken, wie zufrieden sind Sie mit der Art und Weise, wie Sie ihre Arbeit verrichtet?
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B32 
+{QUESTION}
+Und wie zufrieden sind Sie im allgemeinen mit der Art und Weise, wie die Demokratie in Österreich funktioniert?
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B33 
+{QUESTION}
+Sagen Sie mir bitte, was Sie vom derzeitigen Zustand des österreichischen Bildungssystems halten?
+
+{ANSWERS}
+0 Äußerst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst gut
+
+B34 
+{QUESTION}
+Sagen Sie mir bitte, was Sie vom derzeitigen Zustand des österreichischen Gesundheitssystems 
+halten?
+
+{ANSWERS}
+0 Äußerst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst gut
+
+B35 
+{INTRO}
+Politische Maßnahmen werden auf verschiedenen Ebenen entschieden. 
+
+{QUESTION}
+Auf welcher dieser Ebenen sollten Ihrer Meinung nach politische Aufgaben und Ziele hauptsächlich entschieden werden? Umweltschutz
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B36 
+{QUESTION}
+Kampf gegen das organisierte Verbrechen 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B37 
+{QUESTION}
+Landwirtschaft 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B38 
+{QUESTION}
+Landesverteidigung 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B39 
+{QUESTION}
+Soziale Sicherheit 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B40 
+{QUESTION}
+Entwicklungshilfe 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B41 
+{QUESTION}
+Einwanderung und Flüchtlinge 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B42 
+{QUESTION}
+Festlegung von Zinssätzen 
+
+{ANSWERS}
+Internationale Ebene
+Europäische Ebene
+Nationale Ebene
+Regionale oder lokale Ebene
+
+B43 
+{QUESTION}
+Sagen Sie mir, bis zu welchem Grad Sie den einzelnen Aussagen zustimmen bzw. Sie ablehnen. Je weniger der Staat in die Wirtschaft eingreift, desto besser ist es für Österreich
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B44 
+{QUESTION}
+Der Staat sollte Maßnahmen ergreifen, um Einkommensunterschiede zu reduzieren 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B45 
+{QUESTION}
+Arbeitnehmer brauchen starke Gewerkschaften, um Ihre Arbeitsbedingungen und Löhne zu schützen 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B46 
+{QUESTION}
+Schwulen und Lesben sollte es frei sein, ihr Leben so zu leben, wie sie es wollen 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B47 
+{QUESTION}
+Gesetze sollten unter allen Umständen immer befolgt werden 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B48 
+{QUESTION}
+Politische Parteien, welche die Demokratie stürzen wollen, sollten verboten werden. 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B49 
+{QUESTION}
+Wirtschaftliches Wachstum führt am Ende immer zu einer Verschlechterung der Umwelt 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+B50 
+{QUESTION}
+Auf die moderne Wissenschaft kann man sich verlassen, dass sie unsere Umweltprobleme lösen wird. 
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+{INTRO}
+Und nun ein paar Fragen zu Ihnen und Ihrem Leben.
+
+C1 
+{INTRO}
+Alles in allem betrachtet, wie glücklich sind Sie?
+
+{QUESTION}
+0 Äußerst unglücklich
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst glücklich
+
+C2 
+{QUESTION}
+Wie oft treffen Sie sich mit Freunden, Verwandten oder privat mit Arbeitskollegen?
+
+{ANSWERS}
+nie 
+weniger als einmal im Monat 
+einmal im Monat 
+mehrmals im Monat 
+einmal die Woche 
+mehrmals die Woche
+täglich 
+
+C3 
+{QUESTION}
+Haben Sie jemanden, mit dem Sie intime und persönliche Angelegenheiten besprechen können?
+
+{ANSWERS}
+ja 
+nein 
+
+C4 
+{QUESTION}
+Wenn Sie sich mit anderen Leuten in Ihrem Alter vergleichen, wie oft nehmen Sie an geselligen Ereignissen oder Treffen teil?
+
+{ANSWERS}
+viel weniger als die meisten
+weniger als die meisten 
+ungefähr gleich oft 
+mehr als andere
+viel mehr als andere 
+
+C5 
+{QUESTION}
+Waren Sie oder ein Mitglied Ihres Haushaltes in den letzten 5 Jahren Opfer eines Einbruchs oder eines Überfalls?
+
+{ANSWERS}
+ja 
+nein 
+
+C6 
+{QUESTION}
+Wie sicher fühlen Sie sich, wenn Sie nachts in Ihrem Wohngebiet unterwegs sind? Fühlen Sie sich ...?
+
+{ANSWERS}
+sehr sicher 
+sicher 
+unsicher 
+oder sehr unsicher 
+
+C7 
+{QUESTION}
+Wie ist Ihr allgemeiner Gesundheitszustand? Würden Sie sagen, er ist ...? 
+
+{ANSWERS}
+sehr gut
+gut
+mittelmäßig 
+schlecht
+oder sehr schlecht 
+
+C8 
+{QUESTION}
+Sind Sie in Ihrem täglichen Leben durch eine langwierige Krankheit, eine Behinderung, ein Gebrechen oder durch eine psychische Krankheit beeinträchtigt?
+
+{ANSWERS}
+ja, sehr 
+ja, bis zu einem gewissen Grad
+nein 
+
+C9 
+{QUESTION}
+Unabhängig davon, ob Sie Mitglied oder Angehöriger einer Kirche oder Religionsgemeinschaft sind, fühlen Sie sich einer bestimmten Religion oder Konfession zugehörig?
+
+{ANSWERS}
+ja 
+nein 
+
+C10 
+{QUESTION}
+Welcher?
+
+{ANSWERS}
+Römisch-Katholisch
+andere Christen 
+Griechisch oder Russisch Orthodox 
+andere östliche Orthodoxie 
+Evangelisch AB
+Evangelisch HB 
+andere Protestanten  
+Hindu
+Sikh
+Buddhist
+andere östliche Religionen 
+Jüdisch
+Moslem 
+andere Nicht-christliche Religion 
+
+C11 
+{QUESTION}
+Haben Sie jemals einer bestimmten Religion oder Glaubensrichtung angehört?
+
+{ANSWERS}
+ja 
+nein 
+
+C12 
+{QUESTION}
+Welcher?
+
+{ANSWERS}
+Römisch-Katholisch
+andere Christen 
+Griechisch oder Russisch Orthodox 
+andere östliche Orthodoxie 
+Evangelisch AB
+Evangelisch HB 
+andere Protestanten 
+Hindu
+Sikh
+Buddhist
+andere östliche Religionen 
+Jüdisch
+Moslem 
+andere Nicht-christliche Religion 
+
+C13 
+{QUESTION}
+Ungeachtet, ob Sie einer bestimmten Religion angehören, für wie religiös halten Sie sich?
+
+{ANSWERS}
+0 Überhaupt nicht religiös
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Sehr religiös
+
+C14 
+{QUESTION}
+Abgesehen von besonderen Anlässen wie Hochzeiten und Begräbnissen, wie oft besuchen Sie derzeit einen Gottesdienst?
+
+{ANSWERS}
+täglich 
+mehr als einmal die Woche 
+einmal die Woche 
+zumindest einmal im Monat
+nur an besonderen Feiertagen 
+weniger oft 
+nie 
+
+C15 
+{QUESTION}
+Wie oft beten Sie außerhalb von Gottesdiensten?
+
+{ANSWERS}
+täglich 
+mehr als einmal die Woche 
+einmal die Woche 
+zumindest einmal im Monat
+nur an hohen Feiertagen 
+weniger oft 
+nie 
+
+C16 
+{QUESTION}
+Würden Sie sich als Angehörige einer Gruppe bezeichnen, die in diesem Land diskriminiert und benachteiligt wird?
+
+{ANSWERS}
+ja 
+nein 
+
+C17 
+{QUESTION}
+Aus welchen Gründen wird Ihre Gruppierung diskriminiert und benachteiligt? 
+
+{ANSWERS}
+Hautfarbe 
+Nationalität
+Religion
+Sprache 
+Volksgruppe oder ethnische Gruppe
+Alter
+Geschlecht
+Sexuelle Neigungen
+Behinderung 
+andere 
+
+C18 
+{QUESTION}
+Sind Sie österreichischer Staatsbürger?
+
+{ANSWERS}
+ja 
+nein 
+
+C19 
+{QUESTION}
+Welche Staatsbürgerschaft haben Sie?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Wurden Sie in Österreich geboren?
+
+{ANSWERS}
+ja 
+nein 
+
+C21 
+{QUESTION}
+{ANSWERS}
+In welchem Land sind Sie geboren?
+
+
+C22 
+{QUESTION}
+Wann sind Sie zum ersten Mal nach Österreich gekommen, um hier zu leben?
+
+{ANSWERS}
+im letzten Jahr 
+vor 1-5 Jahren
+vor 6-10 Jahren
+vor 11-20 Jahren
+vor mehr als 20 Jahren
+
+C23 
+{QUESTION}
+Welche Sprache beziehungsweise Sprachen sprechen Sie zu Hause am häufigsten?
+
+{ANSWERS}
+ (Tragen Sie bis zu 2 Sprachen ein) 
+
+C24 
+{QUESTION}
+Gehören Sie einer Volksgruppe oder einer ethnischen Minderheit in Österreich an?
+
+{ANSWERS}
+ja 
+nein 
+
+C25 
+{QUESTION}
+Wurde Ihr Vater in Österreich geboren?
+
+{ANSWERS}
+ja 
+nein 
+
+C26 
+{QUESTION}
+Von welchem dieser Erdteile kam Ihr Vater ursprünglich?
+
+{ANSWERS}
+Europa 
+Afrika
+Asien
+Nordamerika 
+Südamerika und Karibik 
+Australien und Ozeanien 
+
+C27 
+{QUESTION}
+Wurde Ihre Mutter in Österreich geboren?
+
+{ANSWERS}
+ja 
+nein 
+
+C28 
+{QUESTION}
+Von welchem dieser Erdteile kam Ihre Mutter ursprünglich?
+
+{ANSWERS}
+Europa 
+Afrika
+Asien
+Nordamerika 
+Südamerika und Karibik 
+Australien und Ozeanien 
+
+{INTRO}
+Nun würde ich noch gerne einige Einzelheiten über Sie selbst und die anderen Menschen in Ihrem Haushalt
+erfahren.
+
+F1 
+{QUESTION}
+Sie selbst miteinbezogen, wie viele Menschen – inklusive Kindern – leben regelmäßig als Mitglieder in Ihrem Haushalt?
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+Welches Geschlecht hat diese Person?
+
+{ANSWERS}
+männlich 
+weiblich 
+
+F3 
+{QUESTION}
+Und in welchem Jahr wurden Sie er geboren? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+In welchem Verhältnis steht er/sie zu Ihnen?
+
+{ANSWERS}
+Ehemann, Ehefrau oder Partner/in 
+Sohn oder Tochter (beinhaltet auch Stiefkinder und adoptierte Kinder) 
+Elternteil oder Schwiegerelternteil 
+andere/r Verwandte/r 
+andere/r Nicht-Verwandte/r 
+(weiß nicht) 
+
+F5 
+{QUESTION}
+Welche dieser Bezeichnungen beschreibt am besten Ihr Wohngebiet?
+
+{ANSWERS}
+eine große Stadt 
+ein Vorort oder Randbezirk einer großen Stadt
+eine Stadt oder Kleinstadt 
+ein ländliches Dorf 
+ein Bauernhof oder Haus auf dem Land
+
+F6 
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Sie erreicht haben?
+
+{ANSWERS}
+keine Qualifikation 
+Pflichtschule
+Abschluss einer weiterbildenden Schule
+Matura
+akademischer Grad, Fachhochschulabschluss oder äquivalent 
+andere 
+
+F7 
+{QUESTION}
+Wie viele Ausbildungsjahre haben Sie im ganzen abgeschlossen?
+
+{ANSWERS}
+
+F8A 
+{QUESTION}
+Welche dieser Beschreibungen passt zu dem, was Sie die letzten 7 Tage gemacht haben?
+
+{ANSWERS}
+in einem bezahlten Job (oder zeitweilig weg) (Arbeitnehmer/in, Selbständige/r Arbeiter, arbeite im Familienunternehmen)
+in Ausbildung, auch wenn in Urlaub (nicht von einem Arbeitgeber bezahlt)
+arbeitslos und aktiv auf der Suche nach Arbeit 
+arbeitslos, will einen Job, aber nicht aktiv suchen
+chronisch krank oder behindert 
+pensioniert 
+leiste Zivil- oder Militärdienst 
+bin zu hause, kümmere mich um die Kinder oder andere Personen 
+(andere) 
+
+F8B 
+{QUESTION}
+Und welche dieser Beschreibungen bezeichnet am besten Ihre Situation (in den letzten 7 Tagen)?
+
+{ANSWERS}
+in einem bezahlten Job (oder zeitweilig weg) (Arbeitnehmer/in, Selbständige/r Arbeiter, arbeite im Familienunternehmen)
+in Ausbildung, auch wenn in Urlaub (nicht von einem Arbeitgeber bezahlt)
+arbeitslos und aktiv auf der Suche nach Arbeit 
+arbeitslos, will einen Job, aber nicht aktiv suchen
+chronisch krank oder behindert 
+pensioniert 
+leiste Zivil- oder Militärdienst 
+bin zu hause, kümmere mich um die Kinder oder andere Personen 
+(andere) 
+
+F9 
+{QUESTION}
+Darf ich Sie kurz fragen, ob Sie in den letzten 7 Tagen irgendeine bezahlte Arbeit gehabt haben (für eine Stunde oder länger)?
+
+{ANSWERS}
+ja 
+nein 
+
+F10 
+{QUESTION}
+Hatten Sie jemals einen bezahlten Job?
+
+{ANSWERS}
+ja 
+nein 
+
+F11 
+{QUESTION}
+Die folgenden Fragen beziehen sich auf Ihren letzten Job. In welchem Jahr hatten Sie zuletzt einen bezahlten Job?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+In Ihrer Hauptbeschäftigung sind Sie zuletzt …? 
+
+{ANSWERS}
+unselbständig beschäftigt 
+selbständig
+Mithelfende/r im eigenen Familienunternehmen 
+
+F13 
+{QUESTION}
+Wie viele Beschäftigte (wenn überhaupt) haben Sie?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Haben Sie einen Arbeitsvertrag von …? 
+
+{ANSWERS}
+unbeschränkter Dauer 
+oder beschränkter Dauer
+
+F15 
+{QUESTION}
+Sie selbst eingeschlossen, ungefähr wie viele Menschen sind dort, wo Sie normalerweise arbeiten, beschäftigt? 
+
+{ANSWERS}
+weniger als 10
+10 bis 24 
+25 bis 99
+100 bis 499 
+500 oder mehr 
+
+F16 
+{QUESTION}
+Haben Sie In Ihrer Hauptbeschäftigung irgendwelche Verantwortung In der Aufsicht über die Arbeit anderer Beschäftigter?
+
+{ANSWERS}
+ja 
+nein 
+
+F17 
+{QUESTION}
+Für wie viele Leute waren Sie verantwortlich?
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Bis zu welchem Ausmaß können Sie Ihre Arbeit selbst organisieren? 
+
+{ANSWERS}
+in großem Maße 
+in kleinerem Maße 
+sehr wenig 
+oder überhaupt nicht
+
+F19 
+{QUESTION}
+Wie viele Stunden sind Sie (in Ihrer Hauptbeschäftigung) jede Woche vertraglich verpflichtet zu arbeiten, ohne bezahlte und unbezahlte Überstunden miteinzurechnen?
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+Ungeachtet Ihrer Mindest- oder vertraglichen Arbeitszeit, wie viele Stunden arbeiten Sie normalerweise (in Ihrer Hauptbeschäftigung) in der Woche, inklusive bezahlter und unbezahlter Überstunden?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Was ist die Bezeichnung Ihrer Hauptbeschäftigung?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Was arbeiten Sie in Ihrer Hauptbeschäftigung die meiste Zeit Sie gearbeitet?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Welche besondere Ausbildung oder Qualifikationen sind für den Job notwendig?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Was macht die Firma/ Organisation, für die Sie arbeiten, in der Hauptsache?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Waren Sie jemals über einen längeren Zeitraum als 3 Monate arbeitslos und auf der Suche nach Arbeit?
+
+{ANSWERS}
+ja 
+nein 
+
+F26 
+{QUESTION}
+Hat dieser Zeitraum 12 Monate oder mehr umfasst?
+
+{ANSWERS}
+ja 
+nein 
+
+F27 
+{QUESTION}
+War dies innerhalb der letzten 5 Jahre?
+
+{ANSWERS}
+ja 
+nein 
+
+F28 
+{QUESTION}
+Sind Sie oder waren Sie jemals Mitglied einer Gewerkschaft oder einer ähnlichen Organisation?
+
+{ANSWERS}
+ja, zur Zeit 
+ja, früher
+nein 
+
+F29 
+{QUESTION}
+Bitte berücksichtigen Sie das Einkommen aller Haushaltsmitglieder und jedwedes Einkommen, das der Haushalt als Ganzes erhält. Was ist die Haupteinkommensquelle des Haushalts?
+
+{ANSWERS}
+Gehälter oder Löhne
+Einkommen aus selbständiger Beschäftigung oder Landwirtschaft
+Pensionen
+Arbeitslosengeld oder Abfertigung 
+jedwede andere Art von Sozialleistungen oder Subventionen
+Einkommen aus Investments, Ersparnissen, Versicherungszahlungen oder Eigentum
+Einkommen aus anderen Quellen 
+
+F30a 
+Wenn Sie das Einkommen aus allen Quellen zusammenrechnen, welcher Buchstabe bezeichnet am besten das gesamte Nettoeinkommen Ihres Haushaltes? Wenn Sie die genaue Zahl nicht kennen, geben Sie bitte eine Schätzung ab. Verwenden Sie den Teil der Vorgaben, den Sie am besten kennen: wöchentliches, monatliches oder jährliches Einkommen.
+
+{ANSWERS}
+Ungefähr öchentlich
+J weniger als € 40
+R € 40 bis unter € 70
+C € 70 bis unter € 120
+M € 120 bis unter € 230
+F € 230 bis unter € 350
+S € 350 bis unter € 460
+K € 460 bis unter € 580
+P € 580 bis unter € 690
+D € 690 bis unter € 1.150
+H € 1.150 bis unter € 1.730
+U € 1.730 bis unter € 2.310
+N € 2.310 oder mehr
+
+F30b 
+Wenn Sie das Einkommen aus allen Quellen zusammenrechnen, welcher Buchstabe bezeichnet am besten das gesamte Nettoeinkommen Ihres Haushaltes? Wenn Sie die genaue Zahl nicht kennen, geben Sie bitte eine Schätzung ab. Verwenden Sie den Teil der Vorgaben, den Sie am besten kennen: wöchentliches, monatliches oder jährliches Einkommen.
+
+{ANSWERS}
+Ungefähr monatlich
+J weniger als € 150
+R € 150 bis unter € 300
+C € 300 bis unter € 500
+M € 500 bis unter € 1.000
+F € 1.000 bis unter € 1.500
+S € 1.500 bis unter € 2.000
+K € 2.000 bis unter € 2.500
+P € 2.500 bis unter € 3.000
+D € 3.000 bis unter € 5.000
+H € 5.000 bis unter € 7.500
+U € 7.500 bis unter € 10.000
+N € 10.000 oder mehr
+
+F30c 
+Wenn Sie das Einkommen aus allen Quellen zusammenrechnen, welcher Buchstabe bezeichnet am besten das gesamte Nettoeinkommen Ihres Haushaltes? Wenn Sie die genaue Zahl nicht kennen, geben Sie bitte eine Schätzung ab. Verwenden Sie den Teil der Vorgaben, den Sie am besten kennen: wöchentliches, monatliches oder jährliches Einkommen.
+
+{ANSWERS}
+Ungefähr jährlich
+J weniger als € 1.800
+R € 1.800 bis unter € 3.600
+C € 3.600 bis unter € 6.000
+M € 6.000 bis unter € 12.000
+F € 12.000 bis unter € 18.000
+S € 18.000 bis unter € 24.000
+K € 24.000 bis unter € 30.000
+P € 30.000 bis unter € 36.000
+D € 36.000 bis unter € 60.000
+H € 60.000 bis unter € 90.000
+U € 90.000 bis unter € 120.000
+N € 120.000 oder mehr
+
+F31 
+{QUESTION}
+Welche dieser Beschreibungen kommt dem am nächsten, wie Sie sich in bezug auf Ihr derzeitiges Haushaltseinkommen fühlen?
+
+{ANSWERS}
+leben bequem vom derzeitigen Einkommen 
+kommen mit dem derzeitigen Einkommen aus 
+finden es schwer mit dem derzeitigen Einkommen
+finden es sehr schwer mit dem derzeitigen Einkommen 
+
+F32 
+{QUESTION}
+Wenn Sie aus irgendeinem Grund in ernste finanzielle Probleme kämen und Geld borgen müssten, um über die Runden zu kommen, wie schwer oder leicht wäre das?
+
+{ANSWERS}
+sehr schwierig
+ziemlich schwierig
+weder schwierig noch leicht
+ziemlich leicht 
+sehr leicht 
+
+F33 
+{QUESTION}
+Befragte lebt mit Ehemann?
+
+{ANSWERS}
+ja 
+nein 
+
+F34 
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihr Ehemann erreicht hat?
+
+{ANSWERS}
+Pflichtschulausbildung nicht abgeschlossen 
+abgeschlossene Pflichtschulausbildung 
+abgeschlossene weiterführende Ausbildung
+Höhere Schule abgeschlossen
+weiterführende Berufsausbildung nach Abschluss einer Höheren Schule
+(Fach-)Hochschulausbildung
+(andere) 
+
+F35A 
+{QUESTION}
+Welche dieser Beschreibungen passt zu dem, was er in den letzten 7 Tagen gearbeitet hat?
+
+{ANSWERS}
+in einem bezahlten Job (oder zeitweilig weg) (Arbeitnehmer/in, Selbständige/r Arbeiter, arbeitet im Familienunternehmen 
+in Ausbildung, auch wenn in Urlaub (nicht von einem Arbeitgeber bezahlt)
+arbeitslos und aktiv auf der Suche nach Arbeit 
+arbeitslos, will einen Job, aber nicht aktiv auf der Suche
+chronisch krank oder behindert 
+pensioniert 
+leistet Zivil- oder Militärdienst 
+ist zu hause, kümmert sich um die Kinder oder andere Personen
+(andere) 
+
+F35B 
+{QUESTION}
+Und welche dieser Beschreibungen bezeichnet am besten seine Situation in den letzten 7 Tagen?
+
+{ANSWERS}
+in einem bezahlten Job (oder zeitweilig weg) (Arbeitnehmer/in, Selbständige/r Arbeiter, arbeitet im Familienunternehmen 
+in Ausbildung, auch wenn in Urlaub (nicht von einem Arbeitgeber bezahlt)
+arbeitslos und aktiv auf der Suche nach Arbeit 
+arbeitslos, will einen Job, aber nicht aktiv auf der Suche
+chronisch krank oder behindert 
+pensioniert 
+leistet Zivil- oder Militärdienst 
+ist zu hause, kümmert sich um die Kinder oder andere Personen
+(andere) 
+
+F36 
+{QUESTION}
+Darf ich Sie kurz fragen, ob er in den letzten 7 Tagen irgendeine bezahlte Arbeit gehabt hat (für eine Stunde oder länger)?
+
+{ANSWERS}
+ja 
+nein 
+
+F37 
+{QUESTION}
+Was ist die Bezeichnung für seine Hauptbeschäftigung?
+
+{ANSWERS}
+
+F38 
+{QUESTION}
+Im Rahmen seiner Hauptbeschäftigung, welche Art von Arbeit macht er in der Hauptsache?
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Welche Ausbildung oder Qualifikation sind für die Arbeit notwendig?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+In seiner Hauptbeschäftigung ist er …? 
+
+{ANSWERS}
+Angestellte/r
+Selbständige/r
+Mithelfende/r im eigenen Familienunternehmen 
+
+F41 
+{QUESTION}
+Wie viele Beschäftigte (wenn überhaupt) hat er?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+In seiner Hauptbeschäftigung, hat er irgendwelche Verantwortung in der Aufsicht über die Arbeit anderer Beschäftigter?
+
+{ANSWERS}
+ja 
+nein 
+
+F43 
+{QUESTION}
+Für wie viele Leute ist er verantwortlich?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Wie viele Stunden arbeitet er normalerweise in der Woche (in seiner Hauptbeschäftigung)? Bitte rechnen Sie auch bezahlte oder unbezahlte Überstunden dazu.
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihr Vater erreicht hat?
+
+{ANSWERS}
+Pflichtschulausbildung nicht abgeschlossen 
+abgeschlossene Pflichtschulausbildung 
+abgeschlossene weiterführende Ausbildung
+Höhere Schule abgeschlossen
+weiterführende Berufsausbildung nach Abschluss einer Höheren Schule
+(Fach-)Hochschulausbildung
+(andere) 
+
+F46 
+{QUESTION}
+Als Sie 14 waren, war Ihr Vater damals unselbständig beschäftigt, war er selbständig oder hat er überhaupt nicht gearbeitet?
+
+{ANSWERS}
+unselbständig beschäftigt 
+selbständig
+keine Arbeit
+(Vater starb bzw. war nicht da, als Befragte/r 14 war) 
+
+F47 
+{QUESTION}
+Wie viele Beschäftigte hatte er?
+
+{ANSWERS}
+keine 
+1 bis 24 
+25 oder mehr 
+
+F48 
+{QUESTION}
+In seiner Hauptbeschäftigung, trug er Verantwortung in der Aufsicht über die Arbeit anderer Beschäftigter?
+
+{ANSWERS}
+ja 
+nein 
+
+F49 
+{QUESTION}
+Was war die Bezeichnung für seine Hauptbeschäftigung? 
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Welche dieser Bezeichnungen beschreibt am besten die Art von Arbeit, die er machte, als Sie 14 waren?
+
+{ANSWERS}
+klassische akademische und freie Berufe wie z.B.: Rechtsanwalt – Arzt – Wissenschafter – Zivil-/technischer Ingenieur
+Berufe mit akademischer oder Fachschulausbildung wie z.B.: Lehrer – Krankenpfleger – Physiotherapeut – Sozialarbeiter – Künstler – Musiker – Software-Entwickler
+mittlere Verwaltungs- oder Dienstleistungsberufe wie z.B.: Sekretär – persönlicher Assistent – Büroangestellter – Telefonist – Hilfspfleger –Kindergartenbetreuer
+höhere Management- oder Verwaltungsberufe (normalerweise verantwortlich für Planung,
+Organisation und Koordination von Arbeit und Finanzen)
+wie z.B.: Finanzmanager – Geschäftsführer – Betriebsleiter 
+gelernte technische oder handwerkliche Berufe wie z.B.: Kfz-Mechaniker – Maschinenschlosser – Installateur – Drucker – Werkzeugmacher – Elektriker – Gärtner – Zugsführer
+angelernte handwerkliche und Dienstleistungsberufe wie z.B.: Postbeamter – Maschinenarbeiter – Sicherheits-/Wachebeamter – Hausmeister – Rezeptionist – Verkäufer 
+ungelernte handwerkliche und Dienstleistungsberufe wie z.B.: LKW-Fahrer – Lieferant – Reinigungskraft – Portier – Packer – Lagerarbeiter – Bote – Hilfsarbeiter – Landarbeiter – Kellner
+mittleres Management wie z.B.: Büroleiter – Filialleiter im Einzelhandel – Filialleiter einer Bank – Filialleiter einer Restaurantkette – Gastwirt
+
+F51 
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihre Mutter erreicht hat?
+
+{ANSWERS}
+Pflichtschulausbildung nicht abgeschlossen 
+abgeschlossene Pflichtschulausbildung
+abgeschlossene weiterführende Ausbildung
+Höhere Schule abgeschlossen
+weiterführende Berufsausbildung nach Abschluss einer Höheren Schule
+(Fach-)Hochschulausbildung
+(andere) 
+
+F52 
+{QUESTION}
+Als Sie 14 waren, war Ihre Mutter unselbständig beschäftigt, war sie damals selbständig oder hat sie überhaupt nicht gearbeitet?
+
+{ANSWERS}
+unselbständig beschäftigt
+selbständig
+keine Arbeit
+(Mutter starb bzw. war nicht da, als Befragte/r 14 war)
+
+F53 
+{QUESTION}
+Wie viele Beschäftigte hatte sie?
+
+{ANSWERS}
+keine 
+1 bis 24 
+25 oder mehr 
+
+F54 
+{QUESTION}
+Trug sie Verantwortung in der Aufsicht über die Arbeit anderer Angestellter?
+
+{ANSWERS}
+ja 
+nein 
+
+F55 
+{QUESTION}
+Was war die Bezeichnung für ihre Hauptbeschäftigung? 
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Welche dieser Bezeichnungen beschreibt am besten die Art von Arbeit, die sie machte, als Sie 14 waren.
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie z.B.: Rechtsanwältin – Ärztin – Wissenschafterin – Zivil-/technische Ingenieurin
+Berufe mit akademischer oder Fachschulausbildung wie z.B.: Lehrerin – Krankenpflegerin – Physiotherapeutin – Sozialarbeiterin – Künstlerin – Musikerin – Software-Entwicklerin
+Mittlere Verwaltungs- oder Dienstleistungsberufe wie z.B.: Sekretärin – persönliche Assistentin – Büro- Angestellte – Telefonistin – Hilfspflegerin – Hilfskrankenschwester - Kindergartenbetreuerin ................................................
+Höhere Management- oder Verwaltungsberufe (normalerweise verantwortlich für Planung, Organisation und Koordination von Arbeit und Finanzen) wie z.B.: Finanzmanagerin – Geschäftsführerin – Betriebsleiterin
+Gelernte Technische oder handwerkliche Berufe wie z.B.: Kfz-Mechanikerin – Maschinenschlosserin – Installateurin – Druckerin – Werkzeugmacherin – Elektrikerin – Gärtnerin – Zugsführerin 
+Angelernte handwerkliche und Dienstleistungsberufe wie z.B.: Postbeamtin – Maschinenarbeiterin – Sicherheits-/Wachebeamtin – Hausmeisterin – Rezeptionistin – Verkäuferin
+Ungelernte handwerkliche und Dienstleistungsberufe wie z.B.: LKW-Fahrerin – Lieferantin – Reinigungskraft – Portierin – Lagerarbeiterin – Packerin – Botin – Landarbeiterin – Hilfsarbeiterin – Kellnerin 
+Mittleres Management wie z.B.: Büroleiterin – Filialleiterin im Einzelhandel – Filialleiterin einer Bank – Filialleiterin einer Restaurantkette – Gastwirtin 
+
+F57 
+{QUESTION}
+Während der letzten 12 Monate, haben Sie irgendwelche Kurse oder Seminare oder Konferenzen besucht, um Ihr Wissen oder Ihre Arbeitsfähigkeiten zu verbessern?
+
+{ANSWERS}
+ja 
+nein 
+
+F58 
+{QUESTION}
+Darf ich Sie zu Ihrem derzeitigen Familienstand befragen? Welche dieser Bezeichnungen trifft auf Sie zu?
+
+{ANSWERS}
+verheiratet
+getrennt (noch immer verheiratet) 
+geschieden 
+verwitwet
+ledig 
+
+F59 
+{QUESTION}
+Leben Sie derzeit mit Ihrem Mann Frau zusammen?
+
+{ANSWERS}
+ja 
+nein 
+
+F60 
+{QUESTION}
+Leben Sie zur Zeit mit einem anderen Partner/in zusammen?
+
+{ANSWERS}
+ja 
+nein 
+
+F61 
+{QUESTION}
+Leben Sie zur Zeit mit einem Partner zusammen?
+
+{ANSWERS}
+ja 
+nein 
+
+F62 
+{QUESTION}
+Haben Sie jemals mit einem Partner gelebt, ohne mit diesem verheiratet zu sein?
+
+{ANSWERS}
+ja 
+nein 
+
+F63 
+{QUESTION}
+Sind Sie schon jemals geschieden worden?
+
+{ANSWERS}
+ja 
+nein 
+
+F64 
+{QUESTION}
+Der Befragte hat Kinder, die zu Hause leben?
+
+{ANSWERS}
+ja 
+nein 
+
+F65 
+{QUESTION}
+Haben Sie jemals mit eigenen oder adoptierten Kindern, Stiefkindern, Pflegekindern oder Kindern eines Partners in Ihrem Haushalt zusammengelebt?
+
+{ANSWERS}
+ja 
+nein 
+
+F66 
+{QUESTION}
+Gibt es in diesem Haushalt ein Telefon, sei es Festnetz oder Handy?
+
+{ANSWERS}
+nur Festnetz
+nur Handy 
+beides (Festnetz- und Handy) 
+kein Telefon im Haushalt 
+
+F67 
+{QUESTION}
+Ist Ihr Haushalt im österreichischen Telefonbuch eingetragen oder nicht (z.B. Geheimnummer)?
+
+{ANSWERS}
+eingetragen
+nicht eingetragen 
+
+F68 
+{QUESTION}
+Sind Zweit- oder Drittwohnsitze Ihres Haushalts im österreichischen Telefonbuch eingetragen?
+
+{ANSWERS}
+nein 
+ja, einer 
+ja, zwei
+ja, drei oder mehr
+
