@@ -652,6 +652,7 @@ class Question(models.Model):
     relz_se = models.FloatField(blank=True, null=True)
 
     created_by  = models.ForeignKey(User, blank=True, null=True, related_name="created_question_set")
+    imported_from = models.CharField(null=True, blank=True, max_length=120)
 
     def has_text(self):
         return bool(self.introduction_text or self.rfa_text or self.answer_text)

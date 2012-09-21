@@ -1,18 +1,149 @@
 # encoding: utf-8
 import datetime
 from south.db import db
-from south.v2 import SchemaMigration
+from south.v2 import DataMigration
 from django.db import models
+from django.core.exceptions import ObjectDoesNotExist
+from django.contrib.auth.models import User
+from sqp import models as sqp_models
+from django.conf import settings
 
-class Migration(SchemaMigration):
+
+class Migration(DataMigration):
 
     def forwards(self, orm):
-        
-        pass
+        headers = False
+        file = open(settings.PROJECT_DIR + '/data/codes/Old-experiments.csv', 'r')
+
+
+        def getitems(line, sep=','):
+            return line.replace('\n', '').replace('"', '').split(sep)
+
+        missed_rows = []
+        OK = 0
+
+        n = 0
+
+        for line in file:
+            n +=1
+            if n > 50:
+                break
+
+
+
+            if not headers:
+                headers = getitems(line)
+                print headers
+                continue
+
+            row = dict(zip(headers, getitems(line)))
+
+
+            study    = sqp_models.Study.objects.get_or_create(name=row['study'])[0]
+            item     = sqp_models.Item.objects.get_or_create(name=row['item_name'], study=study)[0]
+            language = sqp_models.Language.objects.get(iso=row['language'])
+            country  = sqp_models.Country.objects.get(iso=row['country'])
+
+
+
+            for key in row.keys():
+                if row[key] == 'NA':
+                    row[key] = None
+
+            try:
+                try:
+                    question = sqp_models.Question.objects.get(item=item,
+                        language=language,
+                        country=country)
+                except sqp_models.Question.DoesNotExist:
+                    question = sqp_models.Question(item=item,
+                        language=language,
+                        country=country)
+
+                question.val=row['val']
+                question.valz=row['val.est']
+                question.val_lo=row['val.lo']
+                question.val_hi=row['val.hi']
+                question.rel=row['rel']
+                question.relz=row['rel.est']
+                question.rel_hi=row['rel.hi']
+                question.rel_lo=row['rel.lo']
+
+
+                print question
+                question.save(create_suggestions=False)
+                print '------------------------------------------------'
+
+
+                try:
+                    user = User.objects.get(username='Old Coder')
+                except ObjectDoesNotExist:
+                    user = User.objects.create_user('Old Coder', 'none@noreply.com', 'abcdefg')
+
+
+                for key in row.keys():
+
+                    value = row[key]
+
+                    #skip values that are NA - Not Available
+                    if value == None:
+                        continue
+
+                    #skip non characteristic keys
+                    if key in  [     'study',
+                                     'country',
+                                     'val',
+                                     'val.est',
+                                     'val.est.orig',
+                                     'val.hi',
+                                     'val.lo',
+                                     'val.se',
+                                     'rel',
+                                     'rel.est',
+                                     'rel.est.orig',
+                                     'rel.hi',
+                                     'rel.lo',
+                                     'rel.se',
+                                     'language',
+                                     'item_name',
+                                     ]:
+                        continue
+
+                    char = getch(key)
+                    if char is not None:
+                        coding, created = sqp_models.Coding.objects.get_or_create(question=question,
+                            characteristic=char,
+                            choice = value,
+                            user = user)
+                        if created:
+                            coding.save()
+                            #print coding
+
+                    else:
+                        if key not in missed_chars:
+                            missed_chars.append(key)
+                            #print '%s' % key
+
+                #Here the coding is never complete since there are no position / comp_asisted etc...
+                question.set_completion(user=user, charset=char_set, complete=False, authorized=True)
+                #print 'OK %s' % question
+                OK += 1
+
+            except Exception as e:
+                error = "MISSED  '%s' '%s' '%s' '%s' Exception %s" %\
+                        (row['study'], row['country'], row['language'], row['item_name'], e)
+                #print error
+                missed_rows.append(error)
+
+        print 'MISSED ROWS %s' % missed_rows
+        print 'MISSED CHARS %s' % missed_chars
+
+
+        print "MISSED %s, OK %s" % (len(missed_rows), OK)
+
 
     def backwards(self, orm):
-        
-       pass
+        "Write your backwards methods here."
 
 
     models = {
@@ -64,7 +195,7 @@ class Migration(SchemaMigration):
             'desc': ('django.db.models.fields.TextField', [], {'db_column': "'description'", 'blank': 'True'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'name': ('django.db.models.fields.CharField', [], {'max_length': '100'}),
-            'short_name': ('django.db.models.fields.CharField', [], {'max_length': '12'}),
+            'short_name': ('django.db.models.fields.CharField', [], {'max_length': '32'}),
             'suggestion': ('django.db.models.fields.CharField', [], {'max_length': '50', 'null': 'True', 'blank': 'True'}),
             'validation_rules': ('django.db.models.fields.related.ManyToManyField', [], {'symmetrical': 'False', 'to': "orm['sqp.ValidationRule']", 'null': 'True', 'blank': 'True'}),
             'widget': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Widget']"})
