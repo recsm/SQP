@@ -514,8 +514,8 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
         if question.rel_lo: MTMM['MTMM_rel2Lo']  = question.rel_lo * question.rel_lo
         if question.rel_hi: MTMM['MTMM_rel2Hi']  = question.rel_hi * question.rel_hi
         if question.val: MTMM['MTMM_val2']     = question.val * question.val
-        if question.rel_lo: MTMM['MTMM_val2Lo']  = question.val_lo * question.val_lo
-        if question.rel_hi: MTMM['MTMM_val2Hi']  = question.val_hi * question.val_hi
+        if question.val_lo: MTMM['MTMM_val2Lo']  = question.val_lo * question.val_lo
+        if question.val_hi: MTMM['MTMM_val2Hi']  = question.val_hi * question.val_hi
         if question.rel and question.val: MTMM['MTMM_qual2']    = (question.rel * question.val) * (question.rel * question.val)
 
 
