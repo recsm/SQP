@@ -25,7 +25,7 @@ class Migration(DataMigration):
             CREATED_QUESTIONS = 0
             EDITED_QUESTIONS = 0
 
-            file = open('/tdev/projects/sqp_project/data/questions_jorge/%s' % file_name)
+            file = open(Q_BASE_DIR + file_name)
 
             if not '.txt' in file_name:
                 continue
