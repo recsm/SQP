@@ -1,0 +1,1698 @@
+﻿
+A1 
+{QUESTION}
+Prosimo ocenite, koliko časa na dan gledate televizijo na običajen dan v tednu?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A2 
+{QUESTION}
+Ponovno povejte za običajen dan v tednu, koliko od časa, ki ga porabite za gledanje televizije, gledate poročila ali oddaje s politično tematiko oziroma tematiko aktualnih dogodkov?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A3 
+{QUESTION}
+Koliko časa na dan poslušate radio na običajen dan v tednu?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A4 
+{QUESTION}
+In koliko časa na običajen dan v tednu na radiu poslušate poročila ali oddaje s politično tematiko, oziroma tematiko aktualnih dogodkov?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A5 
+{QUESTION}
+Koliko časa na dan berete časopise na običajen dan v tednu? 
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A6 
+{QUESTION}
+In koliko tega časa porabite za branje o politiki oziroma aktualnih dogodkih?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A7 
+{QUESTION}
+Kako pogosto za osebno rabo uporabljate internet - svetovni splet ali elektronsko pošto - bodisi doma, bodisi v službi?
+
+{ANSWERS}
+doma in v službi nima dostopa
+nikoli
+manj kot enkrat mesečno
+enkrat mesečno
+nekajkrat mesečno
+enkrat tedensko
+večkrat tedensko
+vsak dan
+
+A8 
+{QUESTION}
+Če govorimo na splošno, ali bi rekli, da večini ljudi lahko zaupamo, ali menite, da je treba biti z ljudmi zelo previden? Izberite ustrezno vrednost na lestvici od 0 do 10, pri čemer 0 pomeni, da je treba biti z ljudmi zelo previden, 10 pa, da večini ljudi lahko zaupamo.
+
+{ANSWERS}
+0 treba je biti zelo previden
+1 
+2 
+3 
+4 
+5 
+6
+7 
+8 
+9
+10 večini ljudi lahko zaupamo
+
+A9 
+{QUESTION}
+Ali menite, da bi vas večina ljudi skušala izkoristiti, če bi za to dobila priložnost, ali pa bi večina skušala ravnati pošteno?
+
+{ANSWERS}
+0 večina bi me skušala izkoristiti
+1 
+2 
+3 
+4 
+5 
+6
+7 
+8 
+9
+10 večina bi skušala ravnati pošteno
+
+A10 
+{QUESTION}
+Kaj bi rekli, ali so ljudje večinoma pripravljeni pomagati drugim ali pa večinoma gledajo predvsem nase?
+
+{ANSWERS}
+0 Večinoma gledajo predvsem nase 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 večinoma so pripravljeni pomagati drugim
+
+{INTRO}
+ZDAJ VAM BOMO ZASTAVILI NEKAJ VPRAŠANJ O VLADI IN POLITIKI NASPLOH
+
+B1 
+{QUESTION}
+Kaj bi rekli, koliko se zanimate za politiko?
+
+{ANSWERS}
+zelo se zanimam
+še kar se zanimam
+komaj kaj se zanimam
+sploh se ne zanimam
+
+
+B2 
+{QUESTION}
+Kako pogosto se vam zdi politika tako zapletena, da pravzaprav ne razumete, kaj se dogaja?
+
+{ANSWERS}
+nikoli
+zelo redko
+občasno
+pogosto
+zelo pogosto
+
+B3 
+{QUESTION}
+Ali menite, da bi lahko opravljali dejavno vlogo v kakšni skupini, ki se ukvarja s političnimi vprašanji?
+
+{ANSWERS}
+zagotovo ne
+verjetno ne
+težko rečem ali bi lahko ali ne
+verjetno da
+zagotovo da
+
+B4 
+{QUESTION}
+Kako težko ali lahko si vi osebno ustvarite mnenje o različnih političnih vprašanjih?
+
+{ANSWERS}
+zelo težko
+težko
+niti težko, niti lahko
+lahko
+zelo lahko
+
+B5 
+{QUESTION}
+Ali menite, da se politiki na splošno zanimajo za mnenje ljudi, kot ste vi?
+
+{ANSWERS}
+komaj kakšen politik se zanima za mnenje ljudi, kot sem jaz
+le malo se jih zanima
+kar nekaj se jih zanima
+mnogo se jih zanima
+večina politikov se zanima za mnenje ljudi, kot sem jaz
+
+B6 
+{QUESTION}
+Ali bi rekli, da politike zanimajo le volilni glasovi ljudi in ne njihova mnenja?
+
+{ANSWERS}
+skoraj vse politike zanimajo le glasovi
+večino politikov zanimajo le glasovi
+nekatere politike zanimajo le glasovi, za druge pa to ne velja
+večino politikov zanimajo mnenja ljudi
+skoraj vse politike zanimajo mnenja ljudi
+
+
+B7
+{QUESTION}
+Prosim da s pomočjo lestvice od 0-10 ocenite, koliko vi osebno zaupate vsaki od naslednjih ustanov. 0 pomeni, da ustanovi sploh ne zaupate, 10 pa, da ji povsem zaupate. Najprej.. državnemu zboru
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B8 
+{QUESTION}
+pravnemu sistemu 
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B9 
+{QUESTION}
+policiji 
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B10 
+{QUESTION}
+politikom 
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B11 
+{QUESTION}
+Evropskemu parlamentu 
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B12 
+{QUESTION}
+Združenim narodom 
+
+{ANSWERS}
+0 sploh ne zaupam 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 povsem zaupam 
+
+B13 
+{INTRO}
+Danes je običajno, da se nekateri ljudje iz takšnih ali drugačnih razlogov ne udeležujejo volitev. 
+
+{QUESTION}
+Ali ste se vi udeležili volitev v državni zbor leta 2000?
+
+{ANSWERS}
+da 
+ne 
+nisem imel(a) volilne pravice 
+
+B14 
+{QUESTION}
+Za katero stranko oz. kandidata katere stranke ste glasovali na volitvah za državni zbor leta 2000?
+
+{ANSWERS}
+Demokratično stranko upokojencev Slovenije (DESUS)
+Liberalno demokracijo Slovenije (LDS)
+SLS+SKD - Slovensko ljudsko stranko (SLS)
+Slovensko nacionalno stranko(SNS)
+Socialdemokratsko stranko Slovenije (SDS)
+Novo Slovenijo - Krščansko ljudsko stranko (NSI)
+Združeno listo socialnih demokratov (ZLSD)
+Stranko mladih Slovenije (SMS)
+drugo stranko 
+
+{INTRO}
+Obstaja več načinov, kako bi v Sloveniji lahko izboljšali stvari ali pa preprečili, da bi šlo kaj narobe. 
+
+B15 
+{QUESTION}
+Ali ste v zadnjih 12 mesecih naredili kaj od navedenega? stopili v stik s politikom ali predstavnikom državne ali občinske oblasti
+
+{ANSWERS}
+da 
+ne 
+
+B16 
+{QUESTION}
+delovali v politični stranki ali skupini aktivistov 
+
+{ANSWERS}
+da 
+ne 
+
+B17 
+{QUESTION}
+delovali v kakšni drugi politični organizaciji ali zvezi 
+
+{ANSWERS}
+da 
+ne 
+
+B18 
+{QUESTION}
+nosili značko ali nalepko v podporo neki politični akciji 
+
+{ANSWERS}
+da 
+ne 
+
+B19 
+{QUESTION}
+podpisali peticijo 
+
+{ANSWERS}
+da 
+ne 
+
+B20 
+{QUESTION}
+se udeležili zakonitih demonstracij 
+
+{ANSWERS}
+da 
+ne 
+
+B21 
+{QUESTION}
+bojkotirali določene izdelke 
+
+{ANSWERS}
+da 
+ne 
+
+B22 
+{QUESTION}
+zavestno kupili določen izdelek zaradi političnih, etičnih ali okoljevarstvenih razlogov 
+
+{ANSWERS}
+da 
+ne 
+
+B23 
+{QUESTION}
+prispevali denar politični organizaciji ali skupini 
+
+{ANSWERS}
+da 
+ne 
+
+B24 
+{QUESTION}
+sodelovali v nezakonitih protestnih aktivnostih 
+
+{ANSWERS}
+da 
+ne 
+
+B25a 
+{QUESTION}
+Ali je kakšna politična stranka, ki se ji čutite bližje kot drugim strankam?
+
+{ANSWERS}
+da 
+ne 
+
+B25b 
+{QUESTION}
+Katera stranka je to?
+
+{ANSWERS}
+Demokratična stranka upokojencev Slovenije (DESUS)
+Liberalna demokracija Slovenije (LDS)
+Slovenska ljudska stranka (SLS)
+Slovenska nacionalna stranka (SNS)
+Socialdemokratska stranka Slovenije (SDS)
+Nova Slovenija - Krščanska ljudska stranka (NSI) 
+Združena lista socialnih demokratov (ZLSD)
+Stranka mladih Slovenije (SMS)
+druga stranka 
+
+B25c 
+{QUESTION}
+Kako blizu se čutite tej stranki? Se ji čutite...
+
+{ANSWERS}
+zelo blizu
+blizu
+ne preveč blizu
+sploh ne blizu
+
+B26 
+{QUESTION}
+Ali ste član kakšne politične stranke
+
+{ANSWERS}
+da 
+ne 
+
+B27 
+{QUESTION}
+Katera stranka je to?
+
+{ANSWERS}
+Demokratična stranka upokojencev Slovenije (DESUS)
+Liberalna demokracija Slovenije (LDS)
+Slovenska ljudska stranka (SLS)
+Slovenska nacionalna stranka (SNS)
+Socialdemokratska stranka Slovenije (SDS)
+Nova Slovenija - Krščanska ljudska stranka (NSI)
+Združena lista socialnih demokratov (ZLSD)
+Stranka mladih Slovenije (SMS)
+druga stranka 
+
+B28 
+{INTRO}
+V politiki se včasih govori o levici in desnici. 
+
+{QUESTION}
+Kam bi vi uvrstili sami sebe na lestvici od 0 do 10, kjer pomeni 0 levico in 10 desnico?
+
+{ANSWERS}
+0 levo 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 desno
+
+B29 
+{QUESTION}
+V celoti gledano, kako zadovoljni ste sedaj s svojim življenjem? Prosim, izberite ustrezno vrednost na lestvici od 0 do 10, pri čemer pomeni 0, da ste zelo nezadovoljni, 10 pa, da ste zelo zadovoljni.
+
+{ANSWERS}
+0 zelo nezadovoljen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo zadovoljen
+
+B30 
+{QUESTION}
+Kako zadovoljni ste na splošno s sedanjim gospodarskim stanjem v Sloveniji? Prosimo, uporabite enako lestvico.
+
+{ANSWERS}
+0 zelo nezadovoljen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo zadovoljen
+
+B31 
+{QUESTION}
+Kako zadovoljni ste s sedanjo slovensko vlado, s tem, kako opravlja svoje delo? Prosimo, uporabite enako lestvico.
+
+{ANSWERS}
+0 zelo nezadovoljen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo zadovoljen
+
+B32 
+{QUESTION}
+Kako zadovoljni ste na splošno z delovanjem demokracije v Sloveniji?
+
+{ANSWERS}
+0 zelo nezadovoljen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo zadovoljen
+
+B33 
+{QUESTION}
+Kakšno je po vašem mnenju splošno stanjem šolstva danes v Sloveniji?
+
+{ANSWERS}
+0 zelo slabo 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo dobro 
+
+B34 
+{QUESTION}
+In kakšno je po vašem mnenju splošno stanje zdravstva danes v Sloveniji?
+
+{ANSWERS}
+0 zelo slabo 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo dobro 
+
+{INTRO}
+O političnih zadevah se lahko odloča na različnih ravneh. 
+
+B35
+{QUESTION}
+Kaj menite, na kateri ravni bi morali predvsem odločati o naslednjih političnih zadevah? o varovanju okolja
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B36 
+{QUESTION}
+o boju proti organiziranemu kriminalu 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B37 
+{QUESTION}
+o kmetijstvu 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B38 
+{QUESTION}
+o obrambi 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B39 
+{QUESTION}
+o socialni varnosti 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B40 
+{QUESTION}
+o pomoči državam v razvoju 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B41 
+{QUESTION}
+o priseljevanju in beguncih 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B42 
+{QUESTION}
+o obrestnih merah 
+
+{ANSWERS}
+na svetovni ravni
+na ev-ropski ravni
+na nacionalni (slovenski) ravni
+na regio nalni, lokalni ravni
+ 
+B43
+{QUESTION}
+Prosim povejte, koliko soglašate ali ne soglašate z vsako od naslednjih trditev? Manj ko se vlada vmešava v gospodarstvo, bolje je za Slovenijo
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B44 
+{QUESTION}
+Vlada bi morala sprejeti ukrepe za zmanjšanje razlik v dohodkih med ljudmi 
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B45 
+{QUESTION}
+Zaposleni potrebujejo močne sindikate, da zaščitijo njihove pogoje dela in plače 
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B46 
+{QUESTION}
+Homoseksualci in lezbijke morajo imeti svobodo, da si uredijo življenje po lastnih željah 
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B47 
+{QUESTION}
+Ne glede na okoliščine je treba zakone vedno spoštovati 
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B48 
+{QUESTION}
+Politične stranke, katerih cilj je odprava demokracije, je potrebno prepovedati 8
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B49 
+{QUESTION}
+Ekonomska rast na koncu vedno škoduje okolju 
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+B50 
+{QUESTION}
+Lahko smo prepričani, da bo moderna znanost rešila probleme v zvezi z okoljem 
+
+
+{ANSWERS}
+Močno soglašam
+Soglašam
+Niti soglašam, niti ne soglašam
+Ne soglašam
+sploh ne
+soglašam
+
+{INTRO}
+ZDAJ PA VAM BOMO ZASTAVILI NEKAJ VPRAŠANJ O VAS IN VAŠEM ŽIVLJENJU
+
+C1 
+{QUESTION}
+V celoti gledano, kako srečni bi rekli, da ste? Prosimo izberite ustrezno vrednost na lestvici od 0 do 10.
+
+{ANSWERS}
+0 zelo nesrečen 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo srečen 
+
+C2 
+{QUESTION}
+Prosim ocenite, kako pogosto se iz družabnih razlogov dobivate s prijatelji, sorodniki ali kolegi z dela?
+
+{ANSWERS}
+nikoli
+manj kot enkrat na mesec
+enkrat na mesec
+nekajkrat na mesec
+enkrat na teden
+večkrat na teden
+vsak dan
+
+
+C3 
+{QUESTION}
+Ali imate koga, s katerim se lahko pogovorite o intimnih in osebnih stvareh?
+
+{ANSWERS}
+da
+ne
+
+C4 
+{QUESTION}
+Če se primerjate z drugimi ljudmi vaše starosti, kako pogosto bi zase rekli, da se udeležujete različnih družabnih srečanj?
+
+{ANSWERS}
+precej manj kot večina drugih
+manj kot večina drugih
+približno enako
+več kot večina drugih
+precej več kot večina drugih
+
+C5 
+{QUESTION}
+Ste bili vi ali kdo od članov vašega gospodinjstva v zadnjih petih letih žrtev vloma ali fizičnega napada?
+
+{ANSWERS}
+da
+ne
+
+C6 
+{QUESTION}
+Kako varno se počutite (bi se počutili), kadar zvečer hodite (ali bi hodili) sami po vaši soseski?
+
+{ANSWERS}
+zelo varno
+varno
+ogroženo
+zelo ogroženo
+
+C7 
+{QUESTION}
+Kako bi na splošno ocenili vaše zdravje? Bi rekli, da je..
+
+{ANSWERS}
+zelo dobro
+dobro
+zadovoljivo
+slabo
+zelo slabo
+
+C8 
+{QUESTION}
+Ali vas pri vaših vsakdanjih opravilih kakorkoli ovira kakšna kronična bolezen, invalidnost ali psihična težava?
+
+{ANSWERS}
+da, precej
+da, do neke mere
+ne
+
+C9 
+{QUESTION}
+Ali se imate za pripadnika kakšne religije ali veroizpovedi?
+
+{ANSWERS}
+da 
+ne 
+
+C10 
+{QUESTION}
+Katere?
+
+{ANSWERS}
+krščanske (splošno)
+rimskokatoliške
+pravoslavne
+protestantske
+druge krščanske 
+vzhodnjaške (hinduizem, budizem)
+judovske
+muslimanske
+druge nekrščanske
+
+C11 
+{QUESTION}
+Ali ste se kdaj v preteklosti čutili pripadnika kakšne religije ali verske skupnosti?
+
+{ANSWERS}
+da 
+ne 
+
+C12 
+{QUESTION}
+Katere?
+
+{ANSWERS}
+krščanske (splošno)
+rimskokatoliške
+pravoslavne
+protestantske
+druge krščanske 
+vzhodnjaške (hinduizem, budizem)
+judovske
+muslimanske
+druge nekrščanske
+
+C13 
+{QUESTION}
+Ne glede na to, ali pripadate kateri od religij ali ne, prosimo ocenite, koliko ste verni?
+
+{ANSWERS}
+0 Sploh nisem veren 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 zelo sem veren
+
+C14 
+{QUESTION}
+Če odštejete posebne priložnosti, kot so poroke ali pogrebi, kako pogosto obiskujete verske obrede?
+
+{ANSWERS}
+vsak dan
+več kot enkrat na teden
+enkrat na teden
+vsaj enkrat na mesec
+le ob posebnih verskih praznikih
+še redkeje
+nikoli
+
+C15 
+{QUESTION}
+Če odštejete udeležbo pri verskih obredih, kako pogosto sicer molite, če sploh molite?
+
+{ANSWERS}
+vsak dan
+več kot enkrat na teden
+enkrat na teden
+vsaj enkrat na mesec
+le ob posebnih verskih praznikih
+še redkeje
+nikoli
+
+C16 
+{QUESTION}
+Ali bi zase lahko rekli, da pripadate kakšni skupini, ki v naši državi trpi zaradi diskriminacije, neenakopravnosti?
+
+{ANSWERS}
+da 
+ne 
+
+C17 
+{QUESTION}
+Na podlagi česa je ta skupina neenakopravno obravnavana? 
+
+{ANSWERS}
+barve kože ali rase
+tujega državljanstva
+vere
+jezika
+narodnostne pripadnosti
+starosti
+spola
+spolne usmerjenosti
+invalidnosti
+drugo 
+
+C18 
+{QUESTION}
+Ali ste državljan Slovenije?
+
+{ANSWERS}
+da 
+ne 
+
+C19 
+{QUESTION}
+Kakšno državljanstvo imate?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Ste bili rojeni v Sloveniji, na njenem sedanjem ozemlju?
+
+{ANSWERS}
+da 
+ne 
+
+C21 
+{QUESTION}
+V kateri državi ste bili rojeni? 
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Koliko let je od tega, ko ste prvič prišli živeti v Slovenijo?
+
+{ANSWERS}
+manj kot eno leto nazaj
+pred 1-5 leti
+pred 6-10 leti
+pred 11-20 leti
+pred več kot 20 leti
+
+C23 
+{QUESTION}
+Kateri jezik ali jezike doma najpogosteje govorite?
+
+{ANSWERS}
+VPIŠITE DO DVA JEZIKA 
+
+C24 
+{QUESTION}
+Ali se čutite pripadnika katere od manjšinskih narodnosti v Sloveniji?
+
+{ANSWERS}
+da
+ne
+
+C25 
+{QUESTION}
+Je bil vaš oče rojen v Sloveniji, oziroma v eni od republik nekdanje Jugoslavije?
+
+{ANSWERS}
+da, na ozemlju današnje Slovenije 
+da, v eni od drugih republik nekdanje Jugoslavije 
+ne 
+
+C26 
+{QUESTION}
+Iz katere celine izhaja vaš oče?
+
+{ANSWERS}
+Evrope
+Afrike
+Azije
+Severne Amerike
+Južne Amerike in Karibov
+Avstralije in Oceanije 
+
+C27 
+{QUESTION}
+Je bil vaša mama rojena v Sloveniji, oziroma eni od republik nekdanje Jugoslavije?
+
+{ANSWERS}
+da, na ozemlju današnje Slovenije 
+da, v eni od drugih republik nekdanje Jugoslavije 
+ne 
+
+C28
+{QUESTION}
+Iz katere celine izhaja vaša mama?
+
+{ANSWERS}
+Evrope
+Afrike
+Azije
+Severne Amerike
+Južne Amerike in Karibov
+Avstralije in Oceanije 
+
+{INTRO}
+NAZADNJE BI VAS RADI VPRAŠALI ŠE NEKAJ STVARI O VAS IN ČLANIH VAŠEGA GOSPODINJSTVA.
+
+F1 
+{QUESTION}
+Koliko oseb živi v vašem gospodinjstvu, vključno z otroci in z vami?
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+SPOL
+
+{ANSWERS}
+moški 
+ženski 
+
+F3 
+{QUESTION}
+Katerega leta ste bili rojeni?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+V kakšnem odnosu, sorodstvu, je z vami?
+
+{ANSWERS}
+mož / žena / partner 
+sin / hči (tudi pastorki / posvojeni / rejenci)
+mama / oče / tašča / tast / starši partnerja
+drug sorodnik 
+ni v sorodu 
+
+F5 
+{QUESTION}
+Kako bi opisali območje, na katerem živite?
+
+{ANSWERS}
+veliko mesto
+predmestje ali obrobje velikega mesta
+manjše mesto
+vas
+kmetija ali hiša na deželi
+
+F6 
+{QUESTION}
+Katera je zadnja šola, ki ste jo končali, redno ali izredno?
+
+{ANSWERS}
+nedokončana osnovna šola
+dokončana osnovna šola
+2-3 letna poklicna šola
+splošna gimnazija, poklicna gimnazija, štiriletna strokovna šola
+2-letna višja (strokovna) šola
+visoka šola ali fakulteta
+magisterij, doktorat
+
+F7 
+{QUESTION}
+Koliko let je trajalo vaše šolanje (redno ali izredno)? Upoštevajte vso izobrazbo,
+pridobljeno v okviru različnih šolskih ustanov. 
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Kaj od naštetega opisuje vašo delovno aktivnost v zadnjem tednu dni?
+
+{ANSWERS}
+opravlja plačano delo (tudi če je bil(a) na dopustu)(zaposlen samozaposlen, dela za svoje družinsko podjetje) 
+se izobražuje (tudi če je trenutno na počitnicah; izobraževanje, ki ga ne plačuje delodajalec) 
+je nezaposlen(a), aktivno je iskal(a) delo 
+je nezaposlen(a), ni aktivno iskal(a)dela 
+trajno bolan ali delovno nezmožen 
+upokojen(a) 
+služenje vojaškega roka ali civilno služenje 
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe 
+(drugo) 
+
+F8b 
+{QUESTION}
+Kaj od naštetega predvsem opisuje vašo delovno aktivnost v zadnjem tednu dni?
+
+{ANSWERS}
+opravlja plačano delo (tudi če je bil(a) na dopustu)(zaposlen samozaposlen, dela za svoje družinsko podjetje) 
+se izobražuje (tudi če je trenutno na počitnicah; izobraževanje, ki ga ne plačuje delodajalec) 
+je nezaposlen(a), aktivno je iskal(a) delo 
+je nezaposlen(a), ni aktivno iskal(a)dela 
+trajno bolan ali delovno nezmožen 
+upokojen(a) 
+služenje vojaškega roka ali civilno služenje 
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe 
+(drugo) 
+
+F9 
+{QUESTION}
+Ali lahko še enkrat preverim, ali ste v zadnjih sedmih dneh opravili kakršnokoli plačano delo (vsaj uro ali več)?
+
+{ANSWERS}
+da 
+ne 
+
+F10 
+{QUESTION}
+Ste kdaj prej imeli plačano delo?
+
+{ANSWERS}
+da 
+ne 
+
+F11 
+{QUESTION}
+Katerega leta ste imeli zadnje plačano delo, zaposlitev?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Ali pri svoji poglavitni zaposlitvi...
+
+{ANSWERS}
+delate/ ste delali za koga drugega 
+ste (bili) samozaposleni 
+delate v družinskem podjetju 
+
+F13 
+{QUESTION}
+Koliko ljudi zaposlujete (če sploh)?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Ali imate imeli pogodbo za...
+
+{ANSWERS}
+nedoločen čas
+določen čas
+
+F15 
+{QUESTION}
+Koliko ljudi je zaposlenih v podjetju, organizaciji, kjer delate?
+
+{ANSWERS}
+manj kot 10
+10 do 24
+25 do 99
+100 do 499
+500 ali več
+
+F16 
+{QUESTION}
+Ali pri svojem delu tudi nadzorujete delo drugih zaposlenih, oziroma ste zanj odgovorni?
+
+{ANSWERS}
+da 
+ne 
+
+F17 
+{QUESTION}
+Koliko podrejenih imate pri svojem delu
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Koliko si lahko sami organizirate svoje delo?
+
+{ANSWERS}
+v veliki meri
+v določeni meri
+le malo
+sploh ne
+
+F19 
+{QUESTION}
+Kolikšno je osnovno število delovnih ur, ki jih morate tedensko opraviti (ste jih morali opraviti) po pogodbi, pri čemer ne upoštevajte plačanih ali neplačanih nadur.
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+Ne glede na število ur, ki jih morate opraviti po pogodbi, prosim ocenite, koliko ur na teden običajno dejansko opravit, vključno s plačanimi ali neplačanimi nadurami.
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Kakšen je naziv vašega delovnega mesta?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Kakšno delo pretežno opravljate v okviru tega delovnega mesta?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Kakšno usposabljanje ali kvalifikacije so potrebne za opravljanje tega dela?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Kaj podjetje ali organizacija, za katero delate predvsem proizvaja, oziroma kaj je poglavitna dejavnost?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Ali ste bili kdaj brezposelni in ste iskali zaposlitev več kot tri mesece?
+
+da 
+ne 
+
+{ANSWERS}
+
+F26 
+{QUESTION}
+Ali je katero od teh obdobij trajalo 12 mesecev ali več?
+
+da
+ne
+
+{ANSWERS}
+
+F27 
+{QUESTION}
+Ali je bilo katero od teh obdobij v zadnjih 5 letih?
+
+{ANSWERS}
+da
+ne
+
+F28 
+{QUESTION}
+Ali ste zdaj, oziroma ste kdaj bili član sindikata ali podobne organizacije?
+
+{ANSWERS}
+da, sedaj sem
+da, v preteklosti sem bil(a)
+ne
+
+F29 
+{QUESTION}
+Prosim, pomislite na dohodke vsakega od članov vašega gospodinjstva in na morebitne druge dohodke gospodinjstva kot celote. Kaj bi rekli, kateri je glavni vir dohodka v vašem gospodinjstvu?
+
+{ANSWERS}
+plače
+dohodek iz samozaposlitve ali kmetovanja
+pokojnine
+podpora za brezposelne ali presežne delavce
+druge socialne podpore ali štipendije
+dohodek iz naložb, prihrankov, zavarovanja ali lastnine
+dohodki iz drugih virov
+
+F30 
+{QUESTION}
+Če seštejete dohodke iz vseh virov, katera kategorija najbolje ustreza celotnemu mesečnemu neto dohodku vašega gospodinjstva? Če ne veste povsem natančno, prosimo ocenite.
+
+{ANSWERS}
+manj kot 35.000
+od 35.000 - manj kot 70.000
+od 70.000 do manj kot 115.000
+od 115.000 do manj kot 230.000
+od 230.000 do manj kot 350.000
+od 350.000 do manj kot 450.000
+od 450.000 do manj kot 580.000
+od 580.000 do manj kot 700.000
+od 700.000 do manj kot 1.200.000
+od 1.200.000 do manj kot 1.700.000
+od 1.700.000 do manj kot 2.300.000
+več kot 2.300.000
+
+F31 
+{QUESTION}
+Kako vidite situacijo z dohodkom v vašem gospodinjstvu? Kateri od naslednjih opisov ji najbolj ustreza?
+
+{ANSWERS}
+s sedanjimi dohodki se lahko brez težav preživljamo
+s sedanjimi dohodki ravno še shajamo
+s sedanjimi dohodki se le težko preživljamo
+s sedanjimi dohodki se izredno težko preživljamo
+
+F32 
+{QUESTION}
+Če bi se nenadoma iz kakršnegakoli razloga znašli v resnih finančnih težavah in bi si morali od nekoga sposoditi denar, da bi se lahko preživljali, kako enostavno ali težko bi bilo to za vas?
+
+{ANSWERS}
+zelo težko
+dokaj težko
+niti težko niti enostavno
+dokaj enostavno
+zelo enostavno
+
+F33 
+{QUESTION}
+anketiranec živi z zakoncem oziroma partnerjem
+
+{ANSWERS}
+anketiranec(ka) živi z zakoncem oziroma partnerjem (glej F4) 
+ne živi z zakoncem ali partnerjem 
+
+F34 
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegel vaš zakonec, partner?
+
+{ANSWERS}
+nedokončana osnovna šola
+dokončana osnovna šola
+2-3 letna poklicna šola
+splošna gimnazija, poklicna gimnazija, štiriletna strokovna šola
+2-letna višja (strokovna) šola
+visoka šola, fakulteta, akademija
+magisterij, doktorat
+
+F35a 
+{QUESTION}
+Kaj od naštetega opisuje njegovo delovno aktivnost v zadnjem tednu dni?
+
+{ANSWERS}
+opravlja plačano delo (tudi če je bil(a) na dopustu)(zaposlen samozaposlen, dela za svoje družinsko podjetje) 
+se izobražuje (tudi če je trenutno na počitnicah; izobraževanje, ki ga ne plačuje delodajalec) 
+je nezaposlen(a), aktivno je iskal(a) delo 
+je nezaposlen(a), ni aktivno iskal(a)dela 
+trajno bolan ali delovno nezmožen 
+upokojen(a) 
+služenje vojaškega roka ali civilno služenje 
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe 
+(drugo) 
+
+F35b 
+{QUESTION}
+Kaj od naštetega predvsem opisuje njeno delovno aktivnost v zadnjem tednu dni?
+
+{ANSWERS}
+opravlja plačano delo (tudi če je bil(a) na dopustu)(zaposlen samozaposlen, dela za svoje družinsko podjetje) 
+se izobražuje (tudi če je trenutno na počitnicah; izobraževanje, ki ga ne plačuje delodajalec) 
+je nezaposlen(a), aktivno je iskal(a) delo 
+je nezaposlen(a), ni aktivno iskal(a)dela 
+trajno bolan ali delovno nezmožen 
+upokojen(a) 
+služenje vojaškega roka ali civilno služenje 
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe 
+(drugo) 
+
+F36 
+{QUESTION}
+Ali lahko še enkrat preverim, ali je v zadnjem tednu dni opravil kakšno delo za plačilo (uro ali več)?
+
+{ANSWERS}
+da 
+ne 
+
+F37 
+{QUESTION}
+Kakšen je naziv njegovega delovnega mesta?
+
+{ANSWERS}
+
+F38 
+{QUESTION}
+Kakšno delo večinoma opravlja na svojem delovnem mestu?
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Kakšno znanja ali kvalifikacije so potrebne za opravljanje tega dela?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Ali pri svoji poglavitni zaposlitvi...
+
+{ANSWERS}
+dela za koga drugega 
+je samozaposlen(a) 
+dela v družinskem podjetju 
+
+F41 
+{QUESTION}
+Koliko ljudi zaposluje (če sploh)?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Ali pri svojem delu nadzoruje delo drugih zaposlenih, oziroma je zanj odgovoren?
+
+{ANSWERS}
+da 
+ne 
+
+F43 
+{QUESTION}
+Koliko podrejenih ima pri svojem delu?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Koliko ur na teden običajno dela, vključno s plačanimi ali neplačanimi nadurami.
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegel vaš oče?
+
+{ANSWERS}
+01 - nedokončana osnovna šola
+02 - dokončana osnovna šola
+03 - 2-3 letna poklicna šola
+04 - splošna gimnazija, poklicna gimnazija, štiriletna strokovna šola
+05 - 2-letna višja (strokovna) šola
+06 - visoka šola ali fakulteta
+07 - magisterij, doktorat
+
+F46 
+{QUESTION}
+Ko ste bili stari 14 let, ali je vaš oče...
+
+{ANSWERS}
+delal za koga drugega 
+bil je samozaposlen(a) 
+ni bil zaposlen 
+ni bil prisoten / že umrl 
+
+F47 
+{QUESTION}
+Koliko ljudi je zaposloval?
+
+{ANSWERS}
+nič
+1 do 24
+25 ali več 
+
+F48 
+{QUESTION}
+Ali je pri svojem delu nadzoroval delo drugih zaposlenih, oziroma je bil zanj odgovoren?
+
+{ANSWERS}
+da
+ne
+
+F49 
+{QUESTION}
+Kakšen je bil naziv njegovega delovnega mesta?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Katera od stvari najbolje opisuje vrsto dela, ki ga je opravljal, ko ste imeli 14 let?
+
+{ANSWERS}
+tradicionalni izvedenski poklici (odvetnik, zdravnik, znanstvenik, inženir, računovodja)
+moderni izvedenski poklici (učitelj, medicinska sestra, psihiater, socialni delavec, strokovnjak-svetovalec, umetnik, višji policist, računalniški programer)
+uradniški poklici, poklici srednje ravni (tajnica, osebni tajnik, administrator, uradnik v pisarni, delo telefonskem servisu, pomožna medicinska sestra, vzgojiteljica v vrtcu)
+višji manager ali administrator (planiranje, organizacija, koordinacija dela ali financ - finančni direktor, direktor)
+tehnični in obrtniški poklici (mehanik, monter, vodovodni inštalater, tiskar, orodjar, električar, vrtnar, voznik vlaka)
+polrutinski proizvodni in storitveni poklici (poštar, varnostnik, upravljalec stroja, hišnik, kmet, pomožni gostinski delavec, receptor, prodajalec)
+rutinski proizvodni in storitveni poklici (voznik tovornjaka, čistilec, vratar, delavec pri pakiranju, industrijska šivilja, kurir, fizični delavec, natakar)
+srednji ali nižji management (vodja pisarne, poslovodja, direktor bančne podružnice, vodja restavracije, vodja skladišča, gostilničar)
+
+F51 
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegla vaša mama?
+
+{ANSWERS}
+nedokončana osnovna šola
+dokončana osnovna šola
+2-3 letna poklicna šola
+splošna gimnazija, poklicna gimnazija, štiriletna strokovna šola
+2-letna višja (strokovna) šola
+visoka šola ali fakulteta
+magisterij, doktorat
+
+F52 
+{QUESTION}
+Ko ste bili stari 14 let, ali je vaša mama...
+
+{ANSWERS}
+delala za koga drugega 
+bila je samozaposlen(a) 
+ni bila zaposlena 
+ni bila prisotna / že umrla 
+
+F53 
+{QUESTION}
+Koliko ljudi je zaposlovala, če sploh?
+
+{ANSWERS}
+nič
+1 do 24
+25 ali več 
+
+F54 
+{QUESTION}
+Ali je pri svojem delu nadzorovala delo drugih zaposlenih, oziroma je bila zanj odgovorna?
+
+{ANSWERS}
+da
+ne
+
+F55 
+{QUESTION}
+Kakšen je bil naziv njenega delovnega mesta?
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Katera od stvari najbolje opisuje vrsto dela, ki ga je opravljala, ko ste imeli 14 let?
+
+{ANSWERS}
+tradicionalni izvedenski poklici (odvetnik, zdravnik, znanstvenik, inženir, računovodja)
+moderni izvedenski poklici (učitelj, medicinska sestra, psihiater, socialni delavec, strokovnjak-svetovalec, umetnik, višji policist, računalniški programer)
+uradniški poklici, poklici srednje ravni (tajnica, osebni tajnik, administrator, uradnik v pisarni, delo telefonskem servisu, pomožna medicinska sestra, vzgojiteljica v vrtcu)
+višji manager ali administrator (planiranje, organizacija, koordinacija dela ali financ - finančni direktor, direktor)
+tehnični in obrtniški poklici (mehanik, monter, vodovodni inštalater, tiskar, orodjar, električar, vrtnar, voznik vlaka)
+polrutinski proizvodni in storitveni poklici (poštar, varnostnik, upravljalec stroja, hišnik, kmet, pomožni gostinski delavec, receptor, prodajalec)
+rutinski proizvodni in storitveni poklici (voznik tovornjaka, čistilec, vratar, delavec pri pakiranju, industrijska šivilja, kurir, fizični delavec, natakar)
+srednji ali nižji management (vodja pisarne, poslovodja, direktor bančne podružnice, vodja restavracije, vodja skladišča, gostilničar)
+
+F57 
+{QUESTION}
+Ali ste se v zadnjih 12 mesecih udeležili kakšnega tečaja, predavanja ali konference, da bi izboljšali svoje znanje ali delovne veščine?
+
+{ANSWERS}
+da
+ne
+
+F58 
+{QUESTION}
+Vas lahko vprašam o vašem sedanjem zakonskem stanu? Kateri od naslednjih opisov najbolj ustreza vaši situaciji?
+
+{ANSWERS}
+poročen(a) 
+živi ločeno (legalno še poročen)
+ločen(a)
+vdovec, vdova 
+nikoli ni bil(a) poročen(a)
+
+F59 
+{QUESTION}
+Ali sedaj živite s svojim zakoncem?
+
+{ANSWERS}
+da 
+ne
+
+F60 
+{QUESTION}
+Ali sedaj živite z drugim partnerjem?
+
+{ANSWERS}
+da 
+ne
+
+F61 
+{QUESTION}
+Ali sedaj živite s kakšnim partnerjem?
+
+{ANSWERS}
+da 
+ne
+
+F62 
+{QUESTION}
+Ali ste kdaj živeli s partnerjem, ne da bi bili z njim poročeni?
+
+{ANSWERS}
+da, s sedanjim zakoncem
+da, z nekom drugim
+ne
+
+F63 
+{QUESTION}
+Ali ste bili kdaj ločeni?
+
+{ANSWERS}
+da
+ne
+
+F64 
+{QUESTION}
+pri anketirancu doma živijo otroci 
+
+{ANSWERS}
+pri anketirancu doma živijo otroci 
+ne živijo 
+
+F65 
+{QUESTION}
+Ali so v vašem gospodinjstvu kdaj živeli otroci (vaši, posvojeni, pastorki, rejenci)?
+
+{ANSWERS}
+da
+ne
+
+
+

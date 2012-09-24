@@ -1,0 +1,1803 @@
+﻿A1 
+{QUESTION}
+On an average weekday, how much time, in total do you spend on the following activities: Watching Television
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A2 
+{QUESTION}
+Watching news or politics And current affairs on TV
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A3 
+{QUESTION}
+Listening to the radio
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A4 
+{QUESTION}
+Listening to news or politics and current affairs on radio
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A5 
+{QUESTION}
+Reading the newspapers
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A6 
+{QUESTION}
+Reading about news or politics & current affairs in newspapers
+
+{ANSWERS}
+No time at all
+Less than ½ hour
+½ hour to 1 hour
+More than 1 hour up to 1½ hours
+More than 1 ½ hours up to 2 hours
+More than 2 hours up to 2 ½ hours
+More than 2 ½ hours up to 3 hours
+More than 3 hours
+
+A7 
+{QUESTION}
+Now, using this card, how often do you use the internet, the World Wide Web or e-mail – whether at home or at work – for your personal use?
+
+{ANSWERS}
+No access at Home or Work
+Never Use
+Less than Once a month
+Once a month
+Several times a month
+Once a week
+Several times a week
+Every day
+
+A8 
+{QUESTION}
+Using this card, generally speaking, would you say that most people can be trusted, or that you can’t be too careful in dealing with people? Please tell me on a score of 0 to 10, where 0 means you can’t be too careful and 10 means that most people can be trusted.
+
+{ANSWERS}
+0 You can’t be too careful
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Most people can be trusted
+
+A9 
+{QUESTION}
+Using this card, do you think that most people would try to take advantage of you if they got the chance, or would they try to be fair? 
+
+{ANSWERS}
+0 Most people would try to take advantage of me
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Most people would try to be fair
+
+A10 
+{QUESTION}
+Would you say that most of the time people try to be helpful or that they are mostly looking out for themselves? 
+
+{ANSWERS}
+0 People mostly look out for themselves
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 People mostly try to be helpful
+
+
+{INTRO}
+Now we want to ask you a few questions about politics and government
+
+B1 
+{QUESTION}
+How interested would you say you are in politics – are you……
+
+{ANSWERS}
+Very interested 
+Quite interested 
+Hardly interested 
+Not at all interested
+
+B2 
+{QUESTION}
+How often does politics seem so complicated that you can’t really understand what is going on? Please use this card. 
+
+{ANSWERS}
+Never 
+Seldom 
+Occasionally 
+Regularly 
+Frequently
+
+B3 
+{QUESTION}
+Do you think that you could take an active role in a group involved with political issues? Please use this card.
+
+{ANSWERS}
+Definitely not 
+Probably not 
+Not sure either way 
+Probably 
+Definitely
+
+B4 
+{QUESTION}
+How difficult or easy do you find it to make your mind up about political issues? Please use this card.
+
+{ANSWERS}
+Very difficult 
+Difficult 
+Neither difficult nor easy 
+Easy 
+Very easy
+
+B5 
+{QUESTION}
+Using this card, do you think that politicians in general care what people like you think? Please use this card.
+
+{ANSWERS}
+Hardly any politicians care what people like me think
+Very few care
+Some care 
+Many care 
+Most politicians care what people like me think
+
+B6 
+{QUESTION}
+Would you say that politicians are just interested in getting people’s votes rather than in people’s opinions?
+
+{ANSWERS}
+Nearly all politicians are just interested in votes
+Most politicians are just interested in votes
+Some politicians are just interested in votes, others aren’t
+Most politicians are interested in people’s opinions
+Nearly all politicians are interested in people’s opinions
+
+B7 
+{QUESTION}
+Using this card, please tell me on a score of 0-10 how much you personally trust each of the institutions I read out. 0 means you do not trust the institution at all, and 10 means you have complete trust. The Dáil?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+B8 
+{QUESTION}
+The legal system?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+B9 
+{QUESTION}
+The Gardaí?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+B10 
+{QUESTION}
+Politicians?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+B11 
+{QUESTION}
+The European Parliament?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+B12 
+{QUESTION}
+The United Nations?
+
+{ANSWERS}
+0 No trust at all
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Complete trust
+
+
+B13 
+{INTRO}
+Some people don’t vote nowadays for one reason or another.
+
+{QUESTION}
+Did you vote in the last general election in May 2002?
+
+{ANSWERS}
+Yes
+No
+Not eligible to vote
+
+B14 
+{QUESTION}
+Which party did you give your first preference vote to in that election?
+
+{ANSWERS}
+Fianna Fail
+Fine Gael
+Labour
+Progressive Democrats
+Green Party
+Sinn Féin
+Independent
+Other
+
+{INTRO}
+There are different ways of trying to improve things in Ireland or help prevent things from going wrong.
+
+B15
+{QUESTION}
+During the last 12 months, have you done any of the following? Firstly…… Contacted a politician, government or local government official
+
+{ANSWERS}
+Yes
+No
+
+B16
+{QUESTION}
+Worked in a political party or action group
+
+{ANSWERS}
+Yes
+No
+
+B17
+{QUESTION}
+Worked in another organisation or association
+
+{ANSWERS}
+Yes
+No
+
+B18
+{QUESTION}
+Worn or displayed a campaign badge/sticker
+
+{ANSWERS}
+Yes
+No
+
+B19
+{QUESTION}
+Signed a petition
+
+{ANSWERS}
+Yes
+No
+
+B20 
+{QUESTION}
+Taken part in a lawful public demonstration
+
+{ANSWERS}
+Yes
+No
+
+B21
+{QUESTION}
+Boycotted certain products
+
+{ANSWERS}
+Yes
+No
+
+B22
+{QUESTION}
+Deliberately bought certain products for political, ethical or environmental reasons
+
+{ANSWERS}
+Yes
+No
+
+B23
+{QUESTION}
+Donated money to a political organisation or group
+
+{ANSWERS}
+Yes
+No
+
+B24
+{QUESTION}
+Participated in illegal protest activities
+
+{ANSWERS}
+Yes
+No
+
+B25a 
+{QUESTION}
+Is there a particular political party you feel closer to than all the other parties?
+
+{ANSWERS}
+Yes
+No
+
+B25b 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Fianna Fáil
+Fine Gael
+Labour
+Progressive Democrats 
+Green Party
+Sinn Fein
+Other 
+
+B25c 
+{QUESTION}
+How close do you feel to this party. Do you feel that you are……
+
+{ANSWERS}
+Very Close 
+Quite Close 
+Not Close 
+Not at all Close 
+
+B26 
+{QUESTION}
+Are you a member of any political party?
+
+{ANSWERS}
+Yes
+No
+
+B27 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Fianna Fáil 
+Fine Gael 
+Labour 
+Progressive Democrats 
+Green Party
+Sinn Fein
+Other 
+
+B28 
+{INTRO}
+In politics people sometimes talk of “left” and “right”. 
+
+{QUESTION}
+Using this card, where would you place yourself on this scale, where ‘0’ means the left and ‘10’ means the right?
+
+{ANSWERS}
+0 Left 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Right
+
+B29 
+{QUESTION}
+All things considered, how satisfied are you with the following statements? Please answer using this card, where ‘0’ means extremely dissatisfied and ‘10’ means extremely satisfied.
+
+{ANSWERS}
+0 Extremely dissatisfied
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely satisfied 
+
+B29 
+{QUESTION}
+Your life as a whole nowadays
+
+{ANSWERS}
+0 Extremely dissatisfied
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely satisfied 
+
+B30 
+{QUESTION}
+The present state of the Irish economy
+
+{ANSWERS}
+0 Extremely dissatisfied
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely satisfied 
+
+B31 
+{QUESTION}
+The Dáil
+
+{ANSWERS}
+0 Extremely dissatisfied
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely satisfied 
+
+B32 
+{QUESTION}
+How democracy works in Ireland
+
+{ANSWERS}
+0 Extremely dissatisfied
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely satisfied 
+
+B33 
+{QUESTION}
+Now, using this card, please say what you think overall about the state of the following services in Ireland nowadays? Education
+
+{ANSWERS}
+0 Extremely bad
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely good
+
+B34 
+{QUESTION}
+The Health Services
+
+{ANSWERS}
+0 Extremely bad
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely good
+
+{INTRO}
+Policies can be decided at different levels. 
+
+B35 
+{QUESTION}
+Using this card, at which level do you think the following policies should mainly be decided? protecting the environment
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B36 
+{QUESTION}
+fighting against organised crime
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B37 
+{QUESTION}
+Agriculture
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B38 
+{QUESTION}
+defence
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B39 
+{QUESTION}
+social welfare
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B40 
+{QUESTION}
+aid to developing countries
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B41 
+{QUESTION}
+immigration and refugees
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B42 
+{QUESTION}
+interest rates
+
+{ANSWERS}
+International level
+European level
+National level
+Regional or local level
+
+B43 
+{QUESTION}
+Using this card, please say to what extent you agree or disagree with each of the following statements. The less that government intervenes in the economy, the better it is for Ireland
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B44 
+{QUESTION}
+The government should take measures to reduce differences in income levels
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B45 
+{QUESTION}
+Employees need strong trade unions to protect their working conditions and wages
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B46 
+{QUESTION}
+Gay men and lesbians should be free to live their own life as they wish
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B47 
+{QUESTION}
+Whatever the circumstances, the law must always be obeyed
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B48 
+{QUESTION}
+Political parties that wish to overthrow democracy should be banned
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B49 
+{QUESTION}
+Economic growth always ends up harming the environment
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B50 
+{QUESTION}
+Modern science can be relied on to solve our environmental problems
+
+{ANSWERS}
+Agree Strongly
+Agree
+Neither agree nor disagree
+Disagree
+Disagree Strongly
+
+B51 
+{QUESTION}
+Many people think of themselves as being part of a particular nationality, for example as French or American or whatever. Do you think of yourself as Irish or as belonging to another nationality, or do you not think of yourself in this way?
+
+{ANSWERS}
+I think of myself as Irish
+I think of myself as another nationality
+No, I don’t think of myself in this way
+
+B52 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+
+B53 
+{QUESTION}
+Overall, how important is it to you that you are Irish
+
+{ANSWERS}
+Extremely Important
+Somewhat important
+Only a little important
+Not important at all
+
+B54 
+{QUESTION}
+Overall, has being Irish become more important or less important to you, or has its importance stayed much the same over the last 10 years?
+
+{ANSWERS}
+Extremely Important
+Somewhat important
+Stayed the same
+Somewhat less important
+Much less important
+
+B55 
+{QUESTION}
+Some people also think of themselves as belonging to part of a larger group which includes people from other countries. For example, European, North American, African, Asian, Chinese, Islamic etc. What about you? Do you think of yourself in this way as part of a larger group?
+
+{ANSWERS}
+Yes 
+No
+
+B56 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+
+B57 
+{QUESTION}
+Overall, how important is it to you that you are European
+
+{ANSWERS}
+Extremely Important
+Somewhat important
+Only a little important
+Not important at all
+
+B58 
+{QUESTION}
+Overall, has being part of European become more important or less important to you, or has its importance stayed much the same over the last 10 years?
+
+{ANSWERS}
+Extremely Important
+Somewhat important
+Stayed the same
+Somewhat less important
+Much less important
+
+{INTRO}
+AND NOW A FEW QUESTIONS ABOUT YOU AND YOUR LIFE.
+
+C1 
+{QUESTION}
+Taking all things together, how happy would you say you are? 
+
+{ANSWERS}
+0 Extremely unhappy
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Extremely happy
+
+C2 
+{QUESTION}
+Using this card, how often do you meet socially with friends, relatives or work colleagues?
+
+{ANSWERS}
+Never 
+Less than once a month 
+Once a month 
+Several times a month 
+Once a week
+Several times a week
+Every day
+
+C3 
+{QUESTION}
+Do you have anyone with whom you can discuss intimate and personal matters?
+
+{ANSWERS}
+Yes
+No
+
+C4 
+{QUESTION}
+Compared to other people of your age, how often would you say you take part in social activities?
+
+{ANSWERS}
+Much less than most
+Less than most
+About the same
+More than most
+Much more than most
+
+C5 
+{QUESTION}
+Have you or a member of your household been the victim of burglary or assault in the last 5 years?
+
+{ANSWERS}
+Yes
+No
+
+C6 
+{QUESTION}
+How safe do you feel walking alone in this area after dark? Do you feel…
+
+{ANSWERS}
+Very Safe 
+Safe 
+Unsafe 
+Very unsafe
+
+C7 
+{QUESTION}
+How is your health in general? Would you say it is …
+
+{ANSWERS}
+Very good 
+Good 
+Fair Bad 
+Very bad
+
+C8 
+{QUESTION}
+Are you hampered in your daily activities in any way by any longstanding illness, or disability, infirmity or mental health problem? 
+
+{ANSWERS}
+Yes a lot 
+Yes to some extent
+No
+
+C9 
+{QUESTION}
+Do you consider yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes
+No
+
+C10 
+{QUESTION}
+Which one? 
+
+{ANSWERS}
+
+C11 
+{QUESTION}
+Have you ever considered yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes
+No
+
+C12
+{QUESTION}
+ .....Which one? 
+
+{ANSWERS}
+
+C13 
+{QUESTION}
+Regardless of whether you belong to a particular religion, how religious would you say you are? Please use this card. 
+
+{ANSWERS}
+0 Not at all religious
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Very religious
+
+C14 
+{QUESTION}
+Apart from special occasions such as weddings and funerals, about how often do you attend religious services nowadays?
+
+{ANSWERS}
+Every day
+More than once a week
+Once a week
+At least once a month
+Only on special holy days
+Less often
+Never
+
+C15 
+{QUESTION}
+Apart from when you are at religious services, how often, if at all, do you pray? 
+
+{ANSWERS}
+Every day
+More than once a week
+Once a week
+At least once a month
+Only on special holy days
+Less often
+Never
+
+C16 
+{QUESTION}
+Would you describe yourself as being a member of a group that is discriminated against in this country?
+
+{ANSWERS}
+Yes
+No
+
+C17 
+{QUESTION}
+On what grounds is your group discriminated against? 
+
+{ANSWERS}
+Colour or race 
+Nationality 
+Religion 
+Language 
+Ethnic group 
+Age
+Gender
+Sexuality
+Disability
+Other
+
+C18 
+{QUESTION}
+Are you a citizen of Ireland?
+
+{ANSWERS}
+Yes 
+No
+
+C19 
+{QUESTION}
+What citizenship do you hold? 
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Were you born in Ireland?
+
+{ANSWERS}
+Yes
+No
+
+C21 
+{QUESTION}
+In which country were you born? 
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+How long ago did you first come to live in Ireland?
+
+{ANSWERS}
+Within the last year
+1-5 years ago
+6-10 years ago
+11-20 years ago
+More than 20 years ago
+
+C23 
+{QUESTION}
+What language or languages do you speak most often at home?
+
+{ANSWERS}
+WRITE IN UP TO 2 LANGUAGES 
+
+C24 
+{QUESTION}
+Do you belong to a minority ethnic group in Ireland?
+
+{ANSWERS}
+Yes
+No
+
+C25 
+{QUESTION}
+Was your father born in Ireland?
+
+{ANSWERS}
+Yes
+No
+
+C26 
+{QUESTION}
+From which of these continents does your father originally come?
+
+{ANSWERS}
+Europe
+Africa
+Asia
+North America
+South America and the Caribbean
+Australasia
+
+C27 
+{QUESTION}
+Was your mother born in Ireland?
+
+{ANSWERS}
+Yes
+No
+
+C28 
+{QUESTION}
+From which of these continents does your mother originally come?
+
+{ANSWERS}
+Europe
+Africa
+Asia
+North America
+South America and the Caribbean
+Australasia
+
+{INTRO}
+In this final section I would like to ask you for a few details about yourself and the others in your household.
+
+F1 
+{QUESTION}
+How many people in total (including yourself and all children of all ages) live here regularly as members of
+this household?
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+Record Gender of each person
+
+{ANSWERS}
+Male
+Female
+
+F3 
+{QUESTION}
+Record year of birth of each person
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Record relationship of each person TO THE RESPONDENT
+
+{ANSWERS}
+
+F5 
+{QUESTION}
+Which phrase on this card best describes the area where you live?
+
+{ANSWERS}
+A big city 
+The suburbs or outskirts of a big city
+A town or small city
+A country village
+A farm or home in the countryside
+
+F6 
+{QUESTION}
+What is the highest level of education you have completed to date?
+
+{ANSWERS}
+None/Primary not completed
+Primary or equivalent
+Intermediate/Junior/Group Certificate or equivalent 
+Leaving Certificate or equivalent 
+Diploma/Certificate 
+Primary degree 
+Post graduate/higher degree 
+
+F7 
+{QUESTION}
+How many years of full-time education have you completed?
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Using this card, which of these descriptions applies to what you have been doing for the last 7 days? 
+
+{ANSWERS}
+In paid work (or away temporarily) (employee, self-employed, working for your family business) 
+In education, even if on vacation (not paid for by employer) 
+Unemployed and actively looking for a job 
+Unemployed, wanting a job but not actively looking for a job 
+Permanently sick or disabled 
+retired 
+Doing housework, looking after children or other persons 
+Other 
+
+F8b 
+{QUESTION}
+And which of these descriptions BEST describes your situation (in the last seven days)?
+
+{ANSWERS}
+In paid work (or away temporarily) (employee, self-employed, working for your family business) 
+In education, even if on vacation (not paid for by employer) 
+Unemployed and actively looking for a job 
+Unemployed, wanting a job but not actively looking for a job 
+Permanently sick or disabled 
+retired 
+Doing housework, looking after children or other persons 
+Other 
+
+F9 
+{QUESTION}
+Can I just check, did you do any paid work (of an hour or more) in the last seven days?
+
+{ANSWERS}
+Yes
+No
+
+F10 
+{QUESTION}
+Have you ever had a paid job?
+
+{ANSWERS}
+Yes
+No
+
+F11 
+{QUESTION}
+In what year were you last in a paid job? 
+
+{ANSWERS}
+
+F12
+{QUESTION}
+In your main job are you…
+
+{ANSWERS}
+An employee
+Self-employed 
+Work in own family’s business
+
+F13 
+{QUESTION}
+How many employees (if any) do you have?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Do you have a work contract of…
+
+{ANSWERS}
+Unlimited duration 
+Limited duration 
+
+F15 
+{QUESTION}
+Including yourself, about how many people are employed at the place where you usually work?
+
+{ANSWERS}
+Under 10 
+10 to 24 
+25 to 99 
+100 to 499 
+500 or more 
+
+F16 
+{QUESTION}
+In your main job, do you have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes
+No
+
+F17 
+{QUESTION}
+How many people are you responsible for?
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+To what extent can you organise your own work? Can you…
+
+{ANSWERS}
+To a large extent 
+To some extent 
+Very Little 
+Not at all
+
+F19 
+{QUESTION}
+What are your total ‘basic’ or contracted hours each week (in your main job), excluding any paid  and unpaid overtime?
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+Regardless of your basic or contracted hours, how many hours do you normally work a week (in your main job), including any paid or unpaid overtime?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+What is the name or title of your main job?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+In your main job, what kind of work do you do most of the time? 
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+What training or qualifications are/were needed for the job? 
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+What does the firm/ organisation you work for mainly make or do? 
+{ANSWERS}
+
+F25 
+{QUESTION}
+Have you ever been unemployed and seeking work for a period of more than three months?
+
+{ANSWERS}
+Yes
+No
+
+F26 
+{QUESTION}
+Has any of these periods lasted for 12 months or more?
+
+{ANSWERS}
+Yes
+No
+
+F27 
+{QUESTION}
+Have any of these periods been within the past 5 years?
+
+{ANSWERS}
+Yes
+No
+
+F28 
+{QUESTION}
+Are you or have you ever been a member of a trade union or similar organisation?
+
+{ANSWERS}
+Yes, currently
+Yes, previously
+No
+
+F29 
+{QUESTION}
+Please consider the income of all household members and any income which may be received by the household as a whole. What is the main source of income in your household?
+
+{ANSWERS}
+Wages or salaries
+Income from self-employment or farming 
+Pension 
+Unemployment/redundancy benefit 
+Any other Social Welfare payment
+Income from investment, savings, insurance or property
+Income from other sources
+ 
+F30 
+{QUESTION}
+Which of the descriptions on this card comes closest to how you feel about your household’s income nowadays? 
+
+{ANSWERS}
+Living comfortably on present income
+Coping on present income
+Finding it difficult on present income
+Finding it very difficult on present income
+
+F31a 
+{QUESTION}
+Using this card, if you add up the income from all sources, which letter describes your household’s total net income? If you don’t know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income. 
+
+{ANSWERS}
+Per Week
+Under €130 
+€130 - €215
+€216 - €300
+€301 - €400
+€401 - €530
+€531 - €650
+€651 - €800
+€801 - €1,000
+€1,001 - €1,300
+€1,301 or more
+
+F31b
+{QUESTION}
+Using this card, if you add up the income from all sources, which letter describes your household’s total net income? If you don’t know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income. 
+
+{ANSWERS}
+Per Month
+Under €575
+€576 - €900
+€901 - €1,300
+€1,301 - €1,750
+€1,751 - €2,300
+€2,301 - €2,850
+€2,851 - €3,500
+€3,501 - €4,400
+€4,401 - €5,800
+€5,801 or more
+
+F31c 
+{QUESTION}
+Using this card, if you add up the income from all sources, which letter describes your household’s total net income? If you don’t know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income. 
+
+{ANSWERS}
+Per Year
+Under €6,900
+€6,901 - €11,150
+€11,151 - €16,000
+€16,001 - €21,400
+€21,401 - €27,500
+€27,501 - €34,500
+€34,501 - €42,150
+€42,151 - €52,850
+€52,851 - €69,500
+€69,501 or more
+
+F32 
+{QUESTION}
+If for some reason you were in serious financial difficulties and had to borrow money to make ends meet, how difficult or easy would that be?
+
+{ANSWERS}
+Very difficult 
+Quite difficult 
+Neither 
+easy nor difficult 
+Quite easy 
+Very Easy 
+
+F34 
+{QUESTION}
+What is the highest level of education your husband has achieved?
+
+{ANSWERS}
+None/Primary not completed
+Primary or equivalent 
+Junior/Inter Cert/Group Cert or equivalent 
+Leaving Cert or equivalent 
+Diploma/Certificate
+Primary degree
+Post graduate/higher degree
+
+F35a 
+{QUESTION}
+Which of the descriptions on this card applies to what he has been doing for the last 7 days?
+
+{ANSWERS}
+In paid work (or away temporarily) (employee, self-employed, working for your family business)
+In education, even if on vacation (not paid for by employer)
+Unemployed and actively looking for a job
+Unemployed, wanting a job but not actively looking for a job
+Permanently sick or disabled
+Retired
+Doing housework, looking after children or other persons
+
+F35b 
+{QUESTION}
+And which of the descriptions on this card best describes his situation (in the last 7 days)?
+
+{ANSWERS}
+In paid work (or away temporarily) (employee, self-employed, working for your family business)
+In education, even if on vacation (not paid for by employer)
+Unemployed and actively looking for a job
+Unemployed, wanting a job but not actively looking for a job
+Permanently sick or disabled
+Retired
+Doing housework, looking after children or other persons
+
+F 36 
+{QUESTION}
+Can I just check, did he do any paid work (of an hour or more) in the last 7 days?
+
+{ANSWERS}
+Yes
+No
+
+F37 
+{QUESTION}
+What is the name or title of his main job? 
+{ANSWERS}
+
+F38 
+{QUESTION}
+In his main job, what kind or work does he do most of the time? 
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+What training or qualifications are needed for the job?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+In his main job is he…
+
+{ANSWERS}
+Don’t
+An employee 
+Self-employed 
+family’s business
+Work in own
+
+F41 
+{QUESTION}
+How many employees (if any) does he have?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+In his main job, does he have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes
+No
+
+F43 
+{QUESTION}
+How many people is he responsible for?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+How many hours does he normally work a week (in his main job)? Please include any paid or unpaid overtime
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+What was the highest level of education your father completed
+
+{ANSWERS}
+None/Primary not completed
+Primary or equivalent
+Junior/Inter Cert/Group Cert or equivalent
+Leaving Cert or equivalent
+Diploma/Certificate
+Primary Degree
+Post graduate/higher degree
+
+F46 
+{QUESTION}
+When you were 14 did your father work as:
+
+{ANSWERS}
+Employee
+Self Employed
+Not working
+Father died/absent when respondent 14
+
+F47 
+{QUESTION}
+How many employee’s did he have?
+
+{ANSWERS}
+None 
+1-24 
+25 or more 
+
+F48 
+{QUESTION}
+Did he have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F49 
+{QUESTION}
+What was the name/title of his main job? Write in:
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work he did?
+
+{ANSWERS}
+Traditional professional occupations
+Modern professional occupations
+Clerical and intermediate occupations
+Senior Management or administrators 
+Technical/craft occupations 
+Semi-routine manual or service occupations 
+Routine manual or service occupations 
+Middle/junior manager 
+
+
+F51 
+{QUESTION}
+What was the highest level of education your mother completed:
+
+{ANSWERS}
+None/Primary not completed 
+Primary or equivalent
+Junior/Inter Cert/Group Cert or equivalent
+Leaving Cert or equivalent
+Diploma/Certificate
+Primary Degree
+Post graduate/higher degree
+
+F52 
+{QUESTION}
+When you were 14 did your mother work as:
+
+{ANSWERS}
+Employee 
+Self Employed
+Not working
+Mother died/absent when respondent 14
+
+F53 
+{QUESTION}
+How many employee’s did she have?
+
+{ANSWERS}
+None 
+1-24 
+25 or more 
+
+F54 
+{QUESTION}
+Did she have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F55 
+{QUESTION}
+What was the name/title of her main job? Write in
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work she did?
+
+{ANSWERS}
+Traditional professional occupations 
+Modern professional occupations
+Clerical and intermediate occupations 
+Senior Management or administrators 
+Technical/craft occupations 
+Semi-routine manual or service occupations 
+Routine manual or service occupations 
+Middle/junior manager 
+
+F57 
+{QUESTION}
+During the last twelve months, have you taken any course or attended any lecture or conference to improve your knowledge or skills for work?
+
+{ANSWERS}
+Yes
+No
+
+F58 
+{QUESTION}
+Could you tell me your present marital status and since when you have held this status?
+
+{ANSWERS}
+Married … Since 2000
+Separated … Since 2000
+Divorced … Since 2000
+Widowed … Since 2000
+Never Married
+
+F59 
+{QUESTION}
+Are you currently living With your husband?
+
+{ANSWERS}
+Yes
+No
+
+F60 
+{QUESTION}
+Are you currently living with another partner? 
+
+{ANSWERS}
+Yes 
+No
+
+F61 
+{QUESTION}
+Are you currently living with a partner?
+
+{ANSWERS}
+Yes
+No
+
+F62 
+{QUESTION}
+Have you ever lived with a partner without being married to them?
+
+{ANSWERS}
+Yes 
+No 
+
+F63 
+{QUESTION}
+Have you ever been divorced?
+
+{ANSWERS}
+Yes
+No
+
+F64 
+{QUESTION}
+RESPONDENT HAS CHILDREN LIVING AT HOME
+
+{ANSWERS}
+RESPONDENT HAS CHILDREN LIVING AT HOME 
+DOES NOT
+
+F65 
+{QUESTION}
+Have you ever had any children living in your household? Include your own, your partner’s step-children and foster children.
+
+{ANSWERS}
+Yes
+No
+
+F66 
+{QUESTION}
+Does your household own this dwelling or are you a tenant or a sub-tenant? If you are purchasing, please say whether the purchase is through a local authority or with a private mortgage. 
+
+{ANSWERS}
+Owned outright
+Owned with a mortgage
+Owned through a local Authority Tenant Purchase 
+Rented from a Local Authority 
+Rented from a private landlord
+Accommodation provided free or subsidised by employer
+Other
+
+{INTRO}
+Finally, I have a few factual questions about politics. Many people may not know the answers to these questions, so, if there are some you don’t know, just tell me and we’ll go on.
+
+F67 
+{QUESTION}
+Who is the current Minister for Foreign Affairs?
+ 
+{ANSWERS}
+
+
+F68 
+{QUESTION}
+Who is the current Minister for Justice? 
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+How many member states are there currently in the European Union? 
+
+{ANSWERS}
+
+F70 
+{QUESTION}
+Five countries have permanent seats on the Security Council of the United Nations. Can you tell me the
+names of any of these five countries? 
+
+{ANSWERS}
+
+

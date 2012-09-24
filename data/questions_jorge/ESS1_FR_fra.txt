@@ -1,0 +1,1847 @@
+﻿A1
+{QUESTION}
+En dehors des week-end, combien de temps passez vous par jour, en moyenne, à regarder la télévision ? 
+
+{ANSWERS}
+Je ne regarde pas la télévision
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A2
+{QUESTION}
+En dehors des week-end, combien de temps par jour, en moyenne, passez-vous à regarder à la télévision les informations ou les émissions sur la politique et l'actualité?
+
+{ANSWERS}
+Je ne les regarde pas
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A3
+{QUESTION}
+En dehors des week-end, combien de temps passez vous par jour, en moyenne, à écouter la radio?
+
+{ANSWERS}
+Je n'écoute pas la radio
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A4
+{QUESTION}
+En dehors des week-end, combien de temps, en moyenne, passez-vous par jour à écouter à la radio les informations ou les émissions sur la politique et l'actualité?
+
+{ANSWERS}
+Je ne les écoute pas
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A5
+{QUESTION}
+En dehors des week-end, combien de temps passez vous par jour, en moyenne, à lire les journaux ?
+
+{ANSWERS}
+Je ne lis pas de journal
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A6
+{QUESTION}
+En dehors des week-end, combien de temps par jour, en moyenne, passez-vous à lire dans les journaux les informations sur la politique et l'actualité ?
+
+{ANSWERS}
+Je ne les lis pas
+Moins d'une demi-heure
+De une demi-heure à une heure
+De plus d'une heure à une heure et demie
+De plus d'une heure et demie à 2 heures
+De plus de 2 heures à 2 heures et demie
+De plus de 2 heures et demie à 3 heures
+Plus de 3 heures
+
+A7-1
+{QUESTION}
+A présent, combien de fois vous arrive-t-il d'utiliser Internet, le Web ou l'e_mail / courrier électronique pour votre usage personnel, a votre domicile ?
+
+{ANSWERS}
+Pas d'accès à internet
+Ne l'utilise jamais
+Moins d'une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Tous les jours
+
+A7-2
+{QUESTION}
+A présent, combien de fois vous arrive-t-il d'utiliser Internet, le Web ou l'e_mail / courrier électronique pour votre usage personnel, au travail ?
+
+{ANSWERS}
+Pas d'accès à internet
+Ne l'utilise jamais
+Moins d'une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Tous les jours
+
+A8
+{QUESTION}
+D'une manière générale, sur une échelle de 0 à 10, diriez vous que l'on peut faire confiance à la plupart des gens ou que l'on n'est jamais assez prudent quand on a affaire aux autres ? 0 signifie que l'on n'est jamais assez prudent, 10 signifie que l'on peut faire confiance aux gens et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 ON N’EST JAMAIS ASSEZ PRUDENT 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ON PEUT FAIRE CONFIANCE AUX GENS 
+
+A9
+{QUESTION}
+Sur une échelle de 0 à 10, diriez-vous que la plupart des gens cherchent à profiter de vous quand ils le peuvent ou qu'ils font leur possible pour se conduire correctement ? - 0 signifie que la plupart des gens cherchent à profiter de vous, - 10 signifie que la plupart des gens font leur possible pour se conduire correctement et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 LA PLUPART DES GENS CHERCHENT A PROFITER DE VOUS 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 LA PLUPART DES GENS FONT LEUR POSSIBLE POUR SE CONDUIRE CORRECTEMENT 
+
+A10
+{QUESTION}
+Toujours, sur une échelle de 0 à 10, diriez-vous que la plupart du temps les gens essaient de rendre service ou qu'ils s'occupent surtout d'eux mêmes ? - 0 signifie que les gens s'occupent surtout d'eux mêmes, - 10 signifie que les gens essaient de rendre service - et les notes intermédiaires permettent de nuancer votre jugement.
+
+{ANSWERS}
+0 LES GENS S’OCCUPENT SURTOUT D’EUX- MEMES 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 LES GENS ESSAIENT DE RENDRE SERVICE 
+
+{INTRO}
+B1
+{QUESTION}
+Vous intéressez-vous beaucoup, assez, peu ou pas du tout à la politique ?
+
+{ANSWERS}
+Beaucoup
+Assez
+Peu
+Pas du tout
+
+B2
+{QUESTION}
+On dit parfois que la politique c'est si compliqué que l'on ne comprend pas vraiment ce qui se passe. 
+
+{ANSWERS}
+Je n'ai JAMAIS cette impression
+J'ai RAREMENT cette impression
+J'ai DE TEMPS EN TEMPS cette impression
+J'ai SOUVENT cette impression
+J'ai TRES SOUVENT cette impression
+
+B3
+{QUESTION}
+Pourriez vous participer activement à une organisation s'occupant de problèmes politiques ?
+
+{ANSWERS}
+Sûrement pas
+Probablement pas
+Je n'en suis pas sur
+Probablement
+Surement
+
+B4
+{QUESTION}
+Trouvez-vous difficile ou facile de vous faire une opinion sur les problèmes politiques ?
+
+{ANSWERS}
+Très difficile
+Difficile
+Ni difficile, ni facile
+Facile
+Très facile
+
+B5
+{QUESTION}
+Pensez-vous que les hommes politiques se préoccupent de ce que pensent les gens comme vous ? 
+
+{ANSWERS}
+Presque aucun homme politique ne se préoccupe de ce que pensent les gens comme moi
+Très peu s'en préoccupent
+Certains s'en préoccupent
+Beaucoup s'en préoccupent
+La plupart des hommes politiques se préoccupent de ce que pensent les gens comme moi.
+
+B6
+{QUESTION}
+Diriez-vous que les hommes politiques veulent seulement obtenir des voix aux élections ou qu'ils s'intéressent aux opinions des gens?
+
+{ANSWERS}
+Beaucoup d'hommes politiques veulent seulement obtenir des voix
+Presque tous les hommes politiques veulent seulement obtenir des voix
+Certains hommes politiques veulent seulement obtenir des voix, d'autre non
+Presque tous les hommes politiques s'intéressent aux opinions des gens
+Beaucoup d'hommes politiques s'intéressent aux opinions des gens
+
+B7 
+{QUESTION}
+Sur une échelle de 0 à 10, quelle confiance avez-vous, personnellement, dans L'Assemblée nationale ?
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B8
+{QUESTION}
+La justice ?
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B9
+{QUESTION}
+La police ?
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B10
+{QUESTION}
+Les hommes politiques ?
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B11
+{QUESTION}
+Le parlement européen ?
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B12
+{QUESTION}
+Les Nations Unies ? 0 signifie que vous ne faites pas du tout confiance à cette institution, 10 signifie que vous lui faites complètement confiance et les notes intermédiaires permettent de nuancer votre jugement 
+
+{ANSWERS}
+0 VOUS NE FAITES PAS DU TOUT CONFIANCE A CETTE INSTITUTION
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10 VOUS LUI FAITES COMPLETEMENT CONFIANCE
+
+B13
+{QUESTION}
+Aujourd'hui un certain nombre de gens ne votent pas aux élections pour une raison ou pour une autre. Vous-même avez-vous voté lors du premier tour de l'élection présidentielle le 21 avril 2002 ?
+
+{ANSWERS}
+Oui
+Non
+N'avait pas le droit de vote
+Non inscrit sur les listes
+
+B13a
+{QUESTION}
+Pour quel candidat avez-vous voté lors de la présidentielle ?
+
+{ANSWERS}
+Bayrou
+Besancenot
+Boutin
+Chevenement
+Chirac
+Gluckstein
+Hue
+Jospin
+Laguiller
+Lepage
+Le Pen
+Madelin
+Mamère
+Megret
+Saint Josse
+Taubira
+
+B14
+{QUESTION}
+Vous-même avez-vous voté lors du premier tour des élections législatives de Juin 2002 ?
+
+{ANSWERS}
+Oui
+Non
+N'avait pas le droit de vote
+Non inscrit sur les listes
+
+B14a
+{QUESTION}
+Pour quel parti avez-vous voté lors des législatives ?
+
+{ANSWERS}
+CPNT (Chasse, Pêche, Nature et Traditions)
+DL (Démocratie Libérale)
+FN (Front National)
+LCR (ligue communiste révolutionnaire)
+LO (Lutte ouvrière)
+MDC (Mouvement des citoyens)
+MNR (Mouvement National Républicain)
+MPF (Mouvement pour la France)
+PC (Parti communiste)
+PS (Parti Socialiste)
+RPF (Rassemblement du Peuple Français)
+UMP (Union de la Majorité Présidentielle)
+UDF (Union pour la Démocratie Française)
+Les Verts
+Autres mouvements écologistes
+Autre
+
+{INTRO}
+Il existe différents moyens pour essayer d'améliorer les choses en France ou pour empêcher que les choses n'aillent mal. 
+
+B15 
+{QUESTION}
+Au cours des 12 derniers mois, avez-vous fait l'une des choses suivantes ? Avez-vous contacté un homme ou une femme politique, un élu ou une élue au niveau national ou local
+
+{ANSWERS}
+Oui
+Non
+
+B16
+{QUESTION}
+milité dans un collectif, un mouvement, une organisation politique
+
+{ANSWERS}
+Oui
+Non
+
+B17
+{QUESTION}
+milité au sein d'une autre organisation ou association
+
+{ANSWERS}
+Oui
+Non
+
+B18
+{QUESTION}
+porté un badge ou affiché un auto-collant pour faire campagne pour une cause
+
+{ANSWERS}
+Oui
+Non
+
+B19
+{QUESTION}
+signé une pétition
+
+{ANSWERS}
+Oui
+Non
+
+B20
+{QUESTION}
+pris part à une manifestation autorisée
+
+{ANSWERS}
+Oui
+Non
+
+B21
+{QUESTION}
+boycotté, c'est-à-dire refusé d'acheter, certains produits pour des raisons politiques, morales ou de protection de l'environnement
+
+{ANSWERS}
+Oui
+Non
+
+B22
+{QUESTION}
+acheté volontairement certains produits pour des raisons politiques, morales ou de protection de l'environnement
+
+{ANSWERS}
+Oui
+Non
+
+B23
+{QUESTION}
+fait un don d'argent à une organisation politique ou à un groupe politique
+
+{ANSWERS}
+Oui
+Non
+
+B24
+{QUESTION}
+participé à des actions de protestations illégales
+
+{ANSWERS}
+Oui
+Non
+
+B25a
+{QUESTION}
+Y a-t-il un parti politique dont vous vous sentez plus proche que de tous les autres?
+
+{ANSWERS}
+Oui
+Non
+
+B25b
+ {QUESTION}
+Lequel ?
+
+{ANSWERS}
+CPNT (Chasse, Pêche, Nature et Traditions)
+DL (Démocratie Libérale)
+FN (Front National)
+LCR (ligue communiste révolutionnaire)
+LO (Lutte ouvrière)
+MDC (Mouvement des citoyens)
+MNR (Mouvement National Républicain)
+MPF (Mouvement pour la France)
+PC (Parti communiste)
+PS (Parti Socialiste)
+RPF (Rassemblement du Peuple Français)
+UMP (Union de la Majorité Présidentielle)
+UDF (Union pour la Démocratie Française)
+Les Verts
+Autres mouvements écologistes
+Autre 
+
+B25c
+{QUESTION}
+Diriez-vous que vous êtes très proche, assez proche, peu proche ou pas proche du tout de ce parti ?
+
+{ANSWERS}
+Très proche
+Assez proche
+Peu proche
+Pas proche du tout
+
+B26
+{QUESTION}
+Êtes vous membre d'un parti politique?
+
+{ANSWERS}
+Oui
+Non
+
+B27 
+{QUESTION}
+Lequel ?
+
+{ANSWERS}
+CPNT (Chasse, Pêche, Nature et Traditions)
+DL (Démocratie Libérale)
+FN (Front National)
+LCR (ligue communiste révolutionnaire)
+LO (Lutte ouvrière)
+MDC (Mouvement des citoyens)
+MNR (Mouvement National Républicain)
+MPF (Mouvement pour la France)
+PC (Parti communiste)
+PS (Parti Socialiste)
+RPF (Rassemblement du Peuple Français)
+UMP (Union pour la Majorité Présidentielle)
+UDF (Union pour la Démocratie Française)
+Les Verts
+Autres mouvements écologistes
+Autre
+
+B28
+{INTRO}
+On classe habituellement les français sur une échelle de ce genre qui va de la gauche à la droite. 
+
+{QUESTION}
+Vous personnellement, o vous classeriez-vous sur cette échelle ? 0 signifie que vous êtes à gauche, 10 signifie que vous êtes à droite, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 A GAUCHE 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A DROITE 
+
+
+B29
+{QUESTION}
+Sur une échelle de 0 à 10, à quel point, êtes vous satisfait ou pas satisfait de la vie que vous menez en ce moment ? 0 signifie que vous n'êtes pas du tout satisfait, 10 signifie que vous êtes tout à fait satisfait, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 PAS DU TOUT SATISFAIT 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TOUT A FAIT SATISFAIT 
+
+B30
+{QUESTION}
+Dans l'ensemble, êtes-vous satisfait ou pas satisfait de l'état actuel de l'économie française ? 0 signifie que vous n'êtes pas du tout satisfait, 10 signifie que vous êtes tout à fait satisfait,
+
+{ANSWERS}
+0 PAS DU TOUT SATISFAIT 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TOUT A FAIT SATISFAIT 
+
+B31
+{QUESTION}
+Maintenant, en ce qui concerne les pouvoirs publics actuels, êtes vous satisfait ou pas satisfait de la manière dont ils font leur travail ? 0 signifie que vous n'êtes pas du tout satisfait, 10 signifie que vous êtes tout à fait satisfait, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 PAS DU TOUT SATISFAIT 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TOUT A FAIT SATISFAIT 
+
+B32
+{QUESTION}
+Et dans l'ensemble, êtes-vous satisfait ou pas satisfait de la manière dont la démocratie fonctionne en France ? 0 signifie que vous n'êtes pas du tout satisfait, 10 signifie que vous êtes tout à fait satisfait, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 PAS DU TOUT SATISFAIT 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TOUT A FAIT SATISFAIT 
+
+B33
+{QUESTION}
+Que pensez vous du système scolaire en France aujourd'hui ? A votre avis, il fonctionne 0 signifie qu'il fonctionne extrêmement mal, 10 signifie qu'il fonctionne extrêmement bien, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 EXTREMEMENT MAL 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EXTREMEMENT BIEN 
+
+B34
+{QUESTION}
+Que pensez vous de l'état du système de santé en France aujourd'hui ? A votre avis, il fonctionne 0 signifie qu'il fonctionne extrêmement mal, 10 signifie qu'il fonctionne extrêmement bien, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 EXTREMEMENT MAL 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EXTREMEMENT BIEN 
+
+{INTRO}
+Les décisions politiques peuvent être prises à différents niveaux
+B35
+{QUESTION}
+A votre avis, à quel niveau devraient, principalement, être décidées les mesures en matière de protection de l'environnement
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B36
+{QUESTION}
+de lutte contre le crime organisé
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B37
+{QUESTION}
+d'agriculture
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B38
+{QUESTION}
+de défense
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B39
+{QUESTION}
+de protection sociale
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B40
+{QUESTION}
+d'aide aux pays en développement
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B41
+{QUESTION}
+d'immigration et des réfugiés
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B42
+{QUESTION}
+des taux d'intérêts
+
+{ANSWERS}
+Au niveau international
+Au niveau européen
+Au niveau national
+Au niveau local
+
+B43
+{QUESTION}
+Voici maintenant une liste de phrases. Pour chacune d'elles, dites moi si vous êtes d'accord ou pas d'accord ? Moins le gouvernement intervient dans l'économie, mieux c'est pour la France
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B44
+{QUESTION}
+Le gouvernement devrait prendre des mesures pour réduire les inégalités de revenu
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B45
+{QUESTION}
+Les salariés ont besoin de syndicats forts pour défendre leurs conditions de travail et leurs salaires
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B46
+{QUESTION}
+Les homosexuels hommes et femmes devraient être libres de vivre leur vie comme ils le souhaitent
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B47
+{QUESTION}
+On devrait toujours obéir à la loi, quelles que soient les circonstances.
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B48
+{QUESTION}
+Il faudrait interdire les partis politiques qui remettent en cause la démocratie
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B49
+{QUESTION}
+La croissance économique finit toujours par nuire à l'environnement.
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+B50
+{QUESTION}
+Aujourd'hui, on peut faire confiance à la science pour résoudre les problèmes d'environnement.
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni pas d'accord
+Plutôt pas d'accord
+Pas du tout d'accord
+
+{INTRO}
+Je vais maintenant vous poser quelques questions à propos de vous et de votre vie.
+
+C1
+{QUESTION}
+Sur une échelle de 0 à 10, globalement, diriez-vous que vous êtes heureux ou malheureux ? 0 signifie extrêmement malheureux, 10 signifie extrêmement heureux, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 EXTREMEMENT MALHEUREUX 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EXTREMEMENT HEUREUX 
+
+C2
+{QUESTION}
+Dites moi s'il vous arrive, en dehors du travail, de fréquenter des amis, des membres de votre famille ou des collègues ?
+
+{ANSWERS}
+Jamais
+Moins d'une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Tous les jours
+
+C3
+{QUESTION}
+Y a-t-il quelqu'un avec qui vous pouvez parler de choses intimes et personnelles ?
+
+{ANSWERS}
+Oui
+Non
+
+C4
+{QUESTION}
+Par rapport aux personnes de votre âge, diriez-vous que vous avez une vie sociale (sorties, loisirs, invitations, etc.) 
+
+{ANSWERS}
+Beaucoup plus réduite que la plupart d'entre elles
+Plus réduite
+A peu près la même
+Plus importante
+Beaucoup plus importante que la plupart d'entre elles
+
+C5
+{QUESTION}
+Vous-même ou un membre de votre foyer, avez-vous été victime d'un cambriolage ou d'une agression au cours des cinq dernières années ?
+
+{ANSWERS}
+Oui
+Non
+
+C6
+{QUESTION}
+Vous sentez-vous en sécurité quand vous marchez seul la nuit dans votre quartier ? Diriez-vous...
+
+{ANSWERS}
+...tout à fait en sécurité
+...en sécurité
+...pas en sécurité
+...ou pas du tout en sécurité
+
+C7
+{QUESTION}
+D'une manière générale, diriez-vous que votre santé est 
+
+{ANSWERS}
+très bonne
+bonne
+assez bonne
+mauvaise
+très mauvaise
+
+C8
+{QUESTION}
+Etes-vous gêné d'une manière ou d'une autre dans vos activités quotidiennes par une maladie de longue durée, un handicap, une infirmité ou un problème psychiatrique ?
+
+{ANSWERS}
+Oui fortement
+Oui assez / dans une certaine mesure
+Non
+
+C9
+{QUESTION}
+Considérez vous que vous appartenez à une religion ou à une confession religieuse ?
+
+{ANSWERS}
+Oui
+Non
+
+C10
+{QUESTION}
+Laquelle ?
+
+{ANSWERS}
+Boudhiste
+Catholique
+Hindoue
+Juive
+Mulsumane
+Orthodoxe
+Protestante
+Autres 
+
+C11
+{QUESTION}
+Avez vous déjà eu le sentiment d'appartenir à une religion ?
+
+{ANSWERS}
+Oui
+Non
+
+C12
+{QUESTION}
+Laquelle ?
+
+{ANSWERS}
+Boudhiste
+Catholique
+Hindoue
+Juive
+Mulsumane
+Orthodoxe
+Protestante
+Autres 
+
+C13
+{QUESTION}
+Indépendamment du fait que vous appartenez ou non à une religion, diriez-vous que vous êtes quelqu'un de religieux ou de non religieux ? 0 signifie pas du tout religieux, 10 signifie très religieux, et les notes intermédiaires permettent de nuancer votre jugement. 
+
+{ANSWERS}
+0 signifie pas du tout religieux 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 signifie très religieux
+
+C14
+{QUESTION}
+En dehors des occasions comme les mariages et les enterrements, tous les combien assistez-vous à un service religieux ? 
+
+{ANSWERS}
+Chaque jour
+Plusieurs fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement à l'occasion des fêtes religieuses
+Moins souvent
+Jamais
+
+C15
+{QUESTION}
+En dehors des services religieux, vous arrive-t-il de prier ? Cela vous arrive
+
+{ANSWERS}
+Chaque jour
+Plusieurs fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement pour des fêtes religieuses
+Moins souvent
+Jamais
+
+C16
+{QUESTION}
+Diriez-vous que vous faites partie d'une catégorie de gens qui subit des discriminations dans ce pays ?
+
+{ANSWERS}
+Oui
+Non
+
+C17
+{QUESTION}
+Sur quels critères se fait cette discrimination ? 
+
+{ANSWERS}
+La couleur de la peau, la race
+La nationalité
+La religion
+La langue
+Le groupe ethnique
+L'âge
+Le fait d'être un homme ou une femme
+le comportement sexuel
+Le handicap
+D'autres formes de discrimination
+
+C17bis
+{QUESTION}
+ Quelle autre forme de discrimination ?
+
+{ANSWERS}
+
+C18
+{QUESTION}
+Etes-vous de nationalité française ?
+
+{ANSWERS}
+Oui
+Non
+
+C19
+{QUESTION}
+De quelle nationalité êtes-vous ?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Etes-vous né en France ?
+
+{ANSWERS}
+Oui
+Non
+
+C21
+{QUESTION}
+Dans quel pays êtes-vous né ?
+{ANSWERS}
+
+C22
+{QUESTION}
+Depuis combien de temps êtes vous arrivé en France ?
+
+{ANSWERS}
+Moins d'un an
+Entre 1 et 5 ans
+Entre 6 et 10 ans
+Entre 11 et 20 ans
+Il y a plus de 20 ans
+
+C23
+{QUESTION}
+Quelle langue parlez-vous généralement à la maison y compris le français? 
+{ANSWERS}
+
+
+C24
+{QUESTION}
+Avez-vous le sentiment d'appartenir à une minorité ethnique en France ?
+
+{ANSWERS}
+Oui
+Non
+
+C25
+{QUESTION}
+Votre père est-il né en France ?
+
+{ANSWERS}
+Oui
+Non
+
+C26
+{QUESTION}
+De quel continent, votre père est-il originaire ?
+
+{ANSWERS}
+Afrique du nord, Egypte comprise
+Afrique Noire
+Amérique du Nord
+Amérique du Sud
+Asie
+Australie, Oceanie
+Caraibes, Antilles
+Europe de l'est
+Europe de l'ouest
+Proche Orient
+Turquie
+
+C27
+{QUESTION}
+Votre mère est-elle née en France ?
+
+{ANSWERS}
+Oui
+Non
+
+C28
+{QUESTION}
+De quel continent, votre mère est-il originaire ?
+
+{ANSWERS}
+Afrique du nord, Egypte comprise
+Afrique Noire
+Amérique du Nord
+Amérique du Sud
+Asie
+Australie, Oceanie
+Caraibes, Antilles
+Europe de l'est
+Europe de l'ouest
+Proche Orient
+Turquie
+
+F1 
+{QUESTION}
+ Combien de personnes vivent dans votre foyer, y compris vous même et les enfants ? 
+
+ {ANSWERS}
+
+F1a
+{QUESTION}Afin de faciliter les choses, nous avons besoin de connaître la composition de votre foyer. Quel est tout d'abord VOTRE PRENOM ? Prénom de l'interviewé : 
+
+ {ANSWERS}
+
+F1b. 
+{QUESTION}
+ Et quels sont les prénoms des AUTRES PERSONNES vivant dans votre foyer ? Autres personnes du foyer : 
+
+ {ANSWERS}
+
+F1c. 
+{QUESTION}
+Je vais vous relire les prénoms des différentes personnes vivant dans votre logement. Vous allez me dire si je n'ai oublié personne.
+
+ {ANSWERS}
+
+F2
+ {QUESTION}
+ Quel est le sexe de Thomas Frederik Gruner?
+
+{ANSWERS}
+Homme
+Femme
+
+F3
+{QUESTION}
+Quel est l'année de naissance de Thomas Frederik Gruner?
+{ANSWERS}
+
+F4
+{QUESTION}
+Quelle relation de parenté avez-vous avec Thomas Frederik Gruner?  Thomas Frederik Gruner est votre...
+
+{ANSWERS}
+Conjointe/conjoint, compagne/compagnon
+Fils, fille (y compris beau-fils/belle fille ou adoptés, enfant placé dans
+une famille d'accueil, enfant du conjoint ou compagnon)
+Parents/beaux-parents/parents du conjoint/conjointe ou compagnon/compagne
+Autres membres de la famille
+Autre personne non membre de la famille
+
+F5
+{QUESTION}
+Vivez-vous...
+
+{ANSWERS}
+...dans une grande ville
+...à la périphérie d'une grande ville
+...dans une petite ville ou une ville moyenne
+...dans un village
+...dans une ferme ou une maison à la campagne
+
+F6
+{QUESTION}
+Quel est le niveau d'étude le plus élevé que vous avez atteint ?
+
+{ANSWERS}
+Sans diplôme
+Non diplomés jusqu'à la fin 3ème, 2nd, 1ere filière générale
+Non diplomés du Cap BEP filière professionnelle
+Certificat d'études primaires
+Cap, examen de fin d'apprentissage artisanal
+BEP, BP, BEA, BEC, BEI, BES
+Brevet élémentaire, Brevet d'étude du premier cycle, brevet des collèges
+Baccalauréat général, Brevet supérieur
+brevet de technicien, baccalauréat de technicien, baccalauréat technologique, baccalauréat professionnel
+Diplôme universitaires du premier cycle (DEUG), diplôme universitaire de technologie (DUT), Brevet de technicien supérieur (BTS), certificat d'aptitude Pédagogique
+Diplôme universitaire des deuxième et troisième cycles, Doctorat, CAPES, Agrégation, Diplôme de grandes écoles
+
+F7
+{QUESTION}
+Combien d'années d'études à plein temps avez-vous faites, depuis le cours préparatoire ? 
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Parmi ces situations, quelles sont celles qui s'appliquent à ce que vous avez fait au cours de ces 7 derniers jours ? 
+
+Travail rémunéré même si absence temporaire (salarié, à son compte, aide familiale, en formation)
+En formation rémunérée (non payée par l'employeur)
+Sans emploi et recherchant activement un emploi
+Sans emploi et voulant trouver un emploi, mais sans le chercher activement pour le moment
+Malade ou handicapé de manière permanente
+Retraité ou pré-retraité
+service national volontaire/ service civil/bénévolat/Travail d'intérêt général
+Au foyer, s'occupant des enfants ou d'une autre personne
+Apprenti sous contrat
+Etudiants, lycéens, collégiens
+Autres 
+
+F8b
+{QUESTION}
+Parmi ces situations, laquelle s'applique le mieux à ce que vous avez fait au cours de ces 7 derniers jours ? 
+
+
+{ANSWERS}
+Travail rémunéré même si absence temporaire (salarié, à son compte, aide familiale, en formation)
+En formation rémunérée (non payée par l'employeur)
+Sans emploi et recherchant activement un emploi
+Sans emploi et voulant trouver un emploi, mais sans le chercher activement pour le moment
+Malade ou handicapé de manière permanente
+Retraité ou pré-retraité
+service national volontaire/ service civil/bénévolat/Travail d'intérêt général
+Au foyer, s'occupant des enfants ou d'une autre personne
+Apprenti sous contrat
+Etudiants, lycéens, collégiens
+Autres 
+
+F9
+{QUESTION}
+Avez-vous effectué un quelconque travail rémunéré (une heure ou plus) ces 7 derniers jours ?
+
+{ANSWERS}
+Oui
+Non
+
+F10
+{QUESTION}
+Avez-vous déjà eu un travail rémunéré?
+
+{ANSWERS}
+Oui
+Non
+
+F11
+{QUESTION}
+En quelle année avez-vous exercé votre dernier travail rémunéré ?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Dans votre travail êtes-vous? 
+
+{ANSWERS}
+A votre compte, travailleur indépendant, employeur
+Salarié du privé
+Salarié d'une entreprise publique
+Salarié de l'Etat ou des collectivités locales
+Aide familiale
+
+F13
+{QUESTION}
+Combien de salariés avez-vous ? 
+
+{ANSWERS}
+
+F14a
+{QUESTION}
+Avez-vous ... 
+
+{ANSWERS}
+...un contrat à durée indéterminée
+...un contrat à durée déterminée
+...un stagiaire, interimaire
+...un contrat saisonnier
+autre
+
+
+F14b
+{QUESTION}
+Êtes vous
+
+{ANSWERS}
+...fonctionnaire
+...salarié du public sous contrat
+autre
+
+
+F15
+{QUESTION}
+Y compris vous-même, combien de personnes sont employées à l'endroit o vous travaillez habituellement ?
+ 
+{ANSWERS}
+Moins de 10
+10 à 24
+25 à 99
+100 à 499
+500 et plus
+
+F16
+{QUESTION}
+Dans votre travail, avez-vous la responsabilité d'encadrer d'autres personnes ?
+
+{ANSWERS}
+Oui
+Non
+
+F17
+{QUESTION}
+Combien de personnes, en moyenne, sont ou étaient sous votre responsabilité ? 
+
+{ANSWERS}
+
+F18
+{QUESTION}
+Dans quelle mesure, diriez-vous que vous pouvez organiser vous même votre travail ? 
+
+{ANSWERS}
+Dans une large mesure
+Dans une certaine mesure
+Très peu
+Pas du tout
+
+F19
+{QUESTION}
+Sans compter les heures supplémentaires payées ou non quelle est la durée officielle de votre travail par semaine ? 
+
+{ANSWERS}
+
+F20
+{QUESTION}
+Dans la pratique, combien d'heures travaillez-vous habituellement par semaine, y compris les heures supplémentaires payées ou non ? 
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Quel est l'intitulé de votre travail ?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Dans votre travail, quel type de travail faites-vous habituellement ? 
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Quels types de formation sont nécessaires pour ce travail ? 
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Quelle est la principale activité de l'entreprise ou de l'organisation pour laquelle vous travaillez? 
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Avez-vous déjà été sans emploi et à la recherche d'un emploi pendant une période de plus de trois mois ?
+
+{ANSWERS}
+Oui
+Non
+
+F26
+{QUESTION}
+Est-ce que l'une de ces périodes a duré 12 mois ou plus ?
+
+{ANSWERS}
+Oui
+Non
+
+F27
+{QUESTION}
+Est-ce que l'une de ces périodes a eu lieu au cours des 5 dernières années?
+
+{ANSWERS}
+Oui
+Non
+
+F28
+{QUESTION}
+Êtes-vous ou avez-vous déjà été membre d'un syndicat ?
+
+{ANSWERS}
+Oui, actuellement
+Oui, auparavant
+Non, jamais
+
+F29
+{QUESTION}
+En prenant en compte tous les revenus de tous les membres de votre foyer et les prestations sociales, dites moi quelle est la source principale de revenu de votre foyer ?
+
+{ANSWERS}
+Salaires
+Revenu de travailleur indépendant ,d'exploitant agricole, honoraires
+Rentes, pensions de retraite
+Allocation de chômage, indemnités de licenciement
+Autres aides sociales ou bourses
+Revenus immobiliers , de placement, d'épargne, d'assurances
+Autres sources de revenus
+
+F30
+{QUESTION}
+Si vous additionnez toutes les sources de revenu NETTES de votre foyer, quelle lettre correspond le mieux au revenu de votre foyer. Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. 
+
+{ANSWERS}
+MOINS DE 3000 F PAR MOIS OU MOINS DE 457 EUROS PAR MOIS
+DE 3.001 F A 5.000 F PAR MOIS OU DE 457,50 A 762,25 EUROS PAR MOIS
+DE 5.001 F A 7.500 F PAR MOIS OU DE 762,40 A 1.143,37 EUROS PAR MOIS
+DE 7.501 F A 10.000 F PAR MOIS OU DE 1.143,52 A 1.524,49 EUROS PAR MOIS
+DE 10.001 F A 15.000 F PAR MOIS OU DE 1.524,64 A 2.286,74 EUROS PAR MOIS
+DE 15.001 F A 20.000 F PAR MOIS OU DE 2.286,89 A 3 048,98 EUROS PAR MOIS
+DE 20.001 F A 30.000 F PAR MOIS OU DE 3.049,13 A 4.573,47 EUROS PAR MOIS
+DE 30.001 F A 50.000 F PAR MOIS OU DE 4.573,62 A 7.622,45 EUROS PAR MOIS
+PLUS DE 50.000 F PAR MOIS OU PLUS DE 7.622,45 EUROS PAR MOIS
+
+F31
+{QUESTION}
+Laquelle des phrases suivantes correspond le mieux au revenu de votre foyer ?
+
+{ANSWERS}
+On vit très confortablement
+On vit assez confortablement
+On arrive à s'en sortir
+On a du mal à s'en sortir
+On ne s'en sort vraiment pas
+
+F32
+{QUESTION}
+Si pour une raison ou une autre vous aviez de graves difficultés financières dans quelle mesure cela vous serait-il facile ou difficile d'emprunter de l'argent pour boucler les fins de mois ?
+
+{ANSWERS}
+Très difficile
+Assez difficile
+Ni facile, ni difficile
+Assez facile
+Très facile
+
+F33 
+{QUESTION}
+le répondant vit avec un partenaire, son conjoint, conjointe
+
+{ANSWERS}
+le répondant vit avec un partenaire, son conjoint, conjointe
+ne vit pas avec 
+
+F34
+{QUESTION}
+Quel est le niveau d'études le plus élevé que votre époux, compagnon a atteint ? 
+
+{ANSWERS}
+Sans diplôme
+Non diplomés jusqu'à la fin 3ème, 2nd, 1ere filière générale
+Non diplomés du Cap BEP filière professionnelle
+Certificat d'études primaires
+Cap, examen de fin d'apprentissage artisanal
+BEP, BP, BEA, BEC, BEI, BES
+Brevet élémentaire, Brevet d'étude du premier cycle, brevet des collèges
+Baccalauréat général, Brevet supérieur
+brevet de technicien, baccalauréat de technicien, baccalauréat technologique, baccalauréat professionnel
+Diplôme universitaires du premier cycle(DEUG), diplôme universitaire de technologie (DUT), brevet de technicien supérieur (BTS), certificat d'aptitude Pédagogique
+Diplôme universitaire des deuxième et troisième cycles, Doctorat, CAPES, Agrégation, Diplôme de grandes écoles
+
+F35a
+{QUESTION}
+Parmi ces situations, qu'elles sont celles qui s'appliquent à ce qu'il a fait au cours des 7 derniers jours ? 
+
+{ANSWERS}
+Travail rémunéré même si absence temporaire (salarié, à son compte, aide familiale, en formation)
+En formation rémunérée (non payée par l'employeur)
+Sans emploi et recherchant activement un emploi
+Sans emploi et voulant trouver un emploi, mais sans le chercher activement pour le moment
+Malade ou handicapé de manière permanente
+Retraité ou pré-retraité
+service national volontaire/ service civil/bénévolat/Travail d'intérêt général
+Au foyer, s'occupant des enfants ou d'une autre personne
+Apprenti sous contrat
+Etudiants, lycéens, collégiens
+Autres 
+
+F35b
+{QUESTION}
+Parmi ces situations, laquelle s'applique le mieux à ce qu'il a fait au cours de ces 7 derniers jours ?
+
+{ANSWERS}
+Travail rémunéré même si absence temporaire (salarié, à son compte, aide familiale, en formation)
+En formation rémunérée (non payée par l'employeur)
+Sans emploi et recherchant activement un emploi
+Sans emploi et voulant trouver un emploi, mais sans le chercher activement pour le moment
+Malade ou handicapé de manière permanente
+Retraité ou pré-retraité
+service national volontaire/ service civil/bénévolat/Travail d'intérêt général
+Au foyer, s'occupant des enfants ou d'une autre personne
+Apprenti sous contrat
+Etudiants, lycéens, collégiens
+Autres
+
+F36
+{QUESTION}
+A-t-il effectué un quelconque travail rémunéré (une heure ou plus) ces 7 derniers jours?
+
+{ANSWERS}
+Oui
+Non
+
+F37
+{QUESTION}
+Quel est l'intitulé de son emploi principal ? 
+
+{ANSWERS}
+
+F38
+{QUESTION}
+Dans son emploi principal, quel type de travail fait-il habituellement ? 
+
+{ANSWERS}
+
+F39
+{QUESTION}
+Quels types de formations sont-ils nécessaires pour ce travail ? 
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Est-il... 
+
+{ANSWERS}
+...à son compte, travailleur indépendant, employeur
+...Salarié du privé
+...Salarié d'une entreprise publique
+...Salarié de l'Etat ou des collectivités locales
+...Aide familiale
+
+F40a
+{QUESTION}
+A-t-il...? 
+
+{ANSWERS}
+Un contrat à durée indéterminée
+Un contrat à durée déterminée
+Stagiaire, interimaire
+Contrat saisonnier
+autre
+
+F40b
+{QUESTION}
+Est il?
+
+{ANSWERS}
+Fonctionnaire
+Salarié du public sous contrat
+autre
+
+F41
+{QUESTION}
+Combien de salariés a -t-il? 
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Dans son emploi principal, a t'il la responsabilité d'encadrer d'autres personnes ?
+
+{ANSWERS}
+Oui
+Non
+
+F43
+{QUESTION}
+Combien de personnes, en moyenne, sont sous sa responsabilité ? 
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Dans la pratique, combien d'heures travaille-til par semaine y compris les heures supplémentaires payées ou non ? 
+
+{ANSWERS}
+
+F45
+{QUESTION}
+Quel est le niveau d'études le plus élevé atteint par votre père? 
+
+{ANSWERS}
+Sans diplôme
+Non diplomés jusqu'à la fin 3ème, 2nd, 1ere filière générale
+Non diplomés du Cap BEP filière professionnelle
+Certificat d'études primaires
+Cap, examen de fin d'apprentissage artisanal
+BEP, BP, BEA, BEC, BEI, BES
+Brevet élémentaire, Brevet d'étude du premier cycle, brevet des collèges
+Baccalauréat général, Brevet supérieur
+brevet de technicien, baccalauréat de technicien, baccalauréat technologique, baccalauréat professionnel
+Diplôme universitaires du premier cycle(DEUG), diplôme universitaire de technologie (DUT), brevet de technicien supérieur (BTS), certificat d'aptitude Pédagogique
+Diplôme universitaire des deuxième et troisième cycles, Doctorat, CAPES, Agrégation, Diplôme de grandes écoles
+
+F46
+{QUESTION}
+Lorsque vous aviez 14 ans, votre père travaillait-il en tant que salarié, à son compte ou il ne travaillait pas ?
+
+{ANSWERS}
+Salarié
+A son compte
+Ne travaillait pas
+[Père décédé/absent lorsque le répondent avait 14 ans]
+
+F47
+{QUESTION}
+Combien d'employés avait-il ?
+
+{ANSWERS}
+Aucun
+De 1 à 24
+25 ou plus
+
+F48
+{QUESTION}
+Avait-il la responsabilité d'encadrer le travail d'autres personnes ?
+
+{ANSWERS}
+Oui
+Non
+
+F49
+{QUESTION}
+Quel était son emploi principal ? 
+
+{ANSWERS}
+
+F50
+{QUESTION}
+Parmi ces situations, quelles sont celles qui s'appliquent le mieux à ce qu'il faisait quand vous aviez 14 ans ? 
+
+{ANSWERS}
+Agriculteurs exploitants
+Artisans
+Commerçants et assimilés
+Chefs d'entreprises de 10 salariés et plus
+Professions libérales
+Cadres de la fonction publique, professions intellectuelles et artistiques
+Cadres d'entreprises
+Professions intermédiaires de l'enseignement, de la santé, de la fonction publique et assimilés
+Professions intermédiaires administratives et commerciales des entreprises
+Techniciens
+Contremaîtres, agents de maîtrise
+Employés de la Fonction publique
+Employés administratifs d'entreprise
+Employés de commerce
+Personnels des services directs aux particuliers
+Ouvriers qualifiés
+Ouvriers non qualifiés
+Ouvriers agricoles
+
+F51
+{QUESTION}
+Quel est le niveau d'études le plus élevé atteint par votre mère ?
+
+{ANSWERS}
+Sans diplôme
+Non diplomés jusqu'à la fin 3ème, 2nd, 1ere filière générale
+Non diplomés du Cap BEP filière professionnelle
+Certificat d'études primaires
+Cap, examen de fin d'apprentissage artisanal
+BEP, BP, BEA, BEC, BEI, BES
+Brevet élémentaire, Brevet d'étude du premier cycle, brevet des collèges
+Baccalauréat général, Brevet supérieur
+brevet de technicien, baccalauréat de technicien, baccalauréat technologique, baccalauréat professionnel
+Diplôme universitaires du premier cycle(DEUG), diplôme universitaire de technologie (DUT), brevet de technicien supérieur (BTS), certificat d'aptitude Pédagogique
+Diplôme universitaire des deuxième et troisième cycles, Doctorat, CAPES, Agrégation, Diplôme de grandes écoles
+
+F52
+{QUESTION}
+Lorsque vous aviez 14 ans, votre mère travaillait-elle en tant que salariée, à son compte ou elle ne travaillait pas ?
+
+{ANSWERS}
+Salarié
+A son compte
+Ne travaillait pas
+[Mère décédée/absente lorsque répondent avait 14 ans]
+
+F53
+{QUESTION}
+Combien d'employés avait-elle?
+
+{ANSWERS}
+Aucun
+De 1 à 24
+25 ou plus
+
+F54
+{QUESTION}
+Avait-elle la responsabilité d'encadrer le travail d'autres personnes ?
+
+{ANSWERS}
+Oui
+Non
+
+F55
+{QUESTION}
+Quel était son emploi principal ?
+
+{ANSWERS}
+
+F56
+{QUESTION}
+Parmi ces situations, quelles sont celles qui s'appliquent le mieux à ce qu'elle faisait quand vous aviez 14 ans ?
+
+{ANSWERS}
+Agriculteurs exploitants
+Artisans
+Commerçants et assimilés
+Chefs d'entreprises de 10 salariés et plus
+Professions libérales
+Cadres de la fonction publique, professions intellectuelles et artistiques
+Cadres d'entreprises
+Professions intermédiaires de l'enseignement, de la santé, de la fonction publique et assimilés
+Professions intermédiaires administratives et commerciales des entreprises
+Techniciens
+Contremaîtres, agents de maîtrise
+Employés de la Fonction publique
+Employés administratifs d'entreprise
+Employés de commerce
+Personnels des services directs aux particuliers
+Ouvriers qualifiés
+Ouvriers non qualifiés
+Ouvriers agricoles
+
+F57
+{QUESTION}
+Au cours des 12 derniers mois, avez-vous suivi des formations afin d'améliorer vos connaissances et compétences pour votre travail?
+
+{ANSWERS}
+Oui
+Non
+
+F58
+{QUESTION}
+Quelle est votre situation familiale légale ?
+
+{ANSWERS}
+Marié
+Séparé
+Divorcé
+Veuf 
+Célibataire, jamais marié
+PACS
+
+F59
+{QUESTION}
+Actuellement, vivez-vous avec votre mari?
+
+{ANSWERS}
+Oui
+Non
+
+F60
+{QUESTION}
+Actuellement, vivez-vous maritalement avec quelqu'un d'autre ?
+
+{ANSWERS}
+Oui
+Non
+
+F61
+{QUESTION}
+Actuellement, vivez-vous avec un compagnon?
+
+{ANSWERS}
+Oui
+Non
+
+F62
+{QUESTION}
+Avez-vous déjà vécu avec un partenaire sans être marié (en concubinage) ?
+
+{ANSWERS}
+Oui
+Non
+
+F63
+{QUESTION}
+Avez-vous déjà divorcé ?
+
+{ANSWERS}
+Oui
+Non
+
+F64 
+{QUESTION}
+En se référant à la grille du ménage, coder
+
+{ANSWERS}
+Le répondant a des enfants vivant sous son toit
+N'en a pas
+
+F65
+{QUESTION}
+Avez-vous déjà eu des enfants vivant dans votre foyer que ce soit les vôtres ou ceux de votre conjoint, y compris des enfants adoptés ?
+
+{ANSWERS}
+Oui
+Non
+

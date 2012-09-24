@@ -1,0 +1,1843 @@
+﻿A1 
+{QUESTION}
+Ile w sumie czasu spędza Pan na oglądaniu telewizji w przeciętny dzień powszedni? Odpowiadając proszę posłużyć się następującą kartą. 
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A2 
+{QUESTION}
+A ile spośród czasu, który spędza Pan oglądając telewizję w przeciętny dzień powszedni, zajmuje Pan oglądanie dzienników telewizyjnych, programów informacyjnych lub innych programów poświęconych polityce i bieżącym wydarzeniom? Proszę posłużyć się tą samą kartą. 
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A3 
+{QUESTION}
+Ile w sumie czasu spędza Pan słuchając radia w przeciętny dzień powszedni? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A4 
+{QUESTION}
+A ile spośród czasu, który spędza Pan słuchając radia w przeciętny dzień powszedni, zajmuje Pan słuchanie wiadomości lub innych programów poświęconych polityce i bieżącym wydarzeniom? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A5 
+{QUESTION}
+Ile w sumie czasu spędza Pan na czytaniu gazet w przeciętny dzień powszedni? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A6 
+{QUESTION}
+Ile spośród tego czasu poświęca Pan na czytanie artykułów o polityce i bieżących wydarzeniach? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+W ogóle 
+Poniżej ½ godziny 
+½ godziny do 1 godziny 
+Ponad 1 godzinę do 1½ godziny 
+Ponad 1½ godziny do 2 godzin 
+Ponad 2 godziny do 2½ godziny 
+Ponad 2½ godziny do 3 godzin 
+Ponad 3 godziny 
+
+A7 
+{QUESTION}
+A teraz posługując się tą kartą proszę powiedzieć, jak często korzysta Pan - w domu lub w pracy - z Internetu, sieci WWW lub poczty elektronicznej do celów osobistych? nie związanych bezpośrednio z pracą zawodową.
+
+{ANSWERS}
+Nie mam dostępu do tych urządzeń, ani w domu, ani w pracy 
+Nigdy nie korzystam 
+Rzadziej niż raz w miesiącu 
+Raz w miesiącu 
+Kilka razy w miesiącu 
+Raz w tygodniu 
+Kilka razy w tygodniu 
+Codziennie 
+
+A8 
+{QUESTION}
+Czy, ogólnie biorąc, uważa Pan że większości ludzi można ufać, czy też, że w kontaktach z ludźmi ostrożności nigdy za wiele? Posługując się tą kartą proszę wskazać liczbę od 0 do 10, gdzie 0 oznacza, że ostrożności nigdy za wiele, a 10 oznacza, że większości ludzi można ufać. Pozostałe liczby służą do wyrażenia opinii pośrednich.
+
+{ANSWERS}
+00 Ostrożności nigdy za wiele
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 ` Większości ludzi można ufać
+
+A9 
+{QUESTION}
+Czy uważa Pan, że gdyby nadarzyła się okazja, większość ludzi starałaby się Pan wykorzystać, czy też starałaby się postępować uczciwie? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+00 Większość ludzi starałaby się mnie wykorzystać
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 ` Większość ludzi starałaby się postępować uczciwie
+
+A10 
+{QUESTION}
+Czy uważa Pan, że ludzie przede wszystkim starają się służyć pomocą innym, czy też, że przede wszystkim dbają o własny interes? Przy odpowiedzi proszę posłużyć się tą kartą.
+
+{ANSWERS}
+00 Ludzie przede wszystkim dbają o własny interes
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ludzie przede wszystkim starają się służyć pomocą innym
+
+{INTRO}
+Chcielibyśmy teraz zadać Pan kilka pytań dotyczących polityki i rządzenia.
+
+B1 
+{QUESTION}
+Jak by Pan określił swoje zainteresowanie polityką? Czy Pan:
+
+{ANSWERS}
+Bardzo się interesuje 
+Dość się interesuje 
+Niezbyt się interesuje 
+Czy w ogóle się nie interesuje? 
+
+B2 
+{QUESTION}
+Jak często polityka wydaje się Pan na tyle skomplikowana, że tak naprawdę nie może Pan zrozumieć, o co chodzi? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Nigdy 
+Bardzo rzadko 
+Od czasu do czasu 
+Dość często 
+Często 
+
+B3 
+{QUESTION}
+Czy sądzi Pan, że mógłby Pan brać czynny udział w działalności jakiegoś stowarzyszenia lub organizacji zaangażowanej w sprawy polityki? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Na pewno nie 
+Prawdopodobnie nie 
+Nie jestem pewien, czy tak, czy nie 
+Prawdopodobnie tak 
+Na pewno tak 
+
+B4 
+{QUESTION}
+Na ile trudne lub łatwe jest dla Pan wyrobienie sobie własnej opinii w sprawach związanych z wydarzeniami politycznymi? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Bardzo trudne 
+Trudne 
+Ani trudne, ani łatwe 
+Łatwe 
+Bardzo łatwe 
+
+B5 
+{QUESTION}
+Czy uważa Pan, że ogólnie rzecz biorąc politycy przywiązują wagę do tego, co myślą ludzie tacy jak Pan? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Prawie żaden polityk nie przywiązuje wagi do tego, co myślą ludzie tacy jak ja
+Bardzo niewielu przywiązuje do tego wagę 
+Niektórzy przywiązują do tego wagę 
+Wielu przywiązuje do tego wagę 
+Większość polityków przywiązuje wagę do tego, co myślą ludzie tacy jak ja
+
+B6 
+{QUESTION}
+Czy uważa Pan, że polityków interesuje tylko uzyskanie głosów wyborców, czy raczej poznanie ich opinii? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Prawie wszystkich polityków interesuje tylko uzyskanie głosów 
+Większość polityków interesuje tylko uzyskanie głosów 
+Niektórych polityków interesuje tylko uzyskanie głosów, a innych także i opinie
+Większość polityków interesują opinie wyborców 
+Prawie wszystkich polityków interesują opinie wyborców 
+
+B7
+{QUESTION}
+Posługując się tą kartą proszę wskazać na skali od 0 do 10 na ile osobiście ma Pan zaufanie do każdej z instytucji, które odczytam. 0 oznacza całkowity brak zaufania wobec instytucji, a 10 oznacza, że ma Pan do niej całkowite zaufanie. Pozostałe liczby służą do wyrażenia opinii pośrednich. … polski parlament, tzn. sejm i senat?
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B8 
+{QUESTION}
+… system prawny? 
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B9 
+{QUESTION}
+… policja? 
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B10 
+{QUESTION}
+… politycy? 
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B11 
+{QUESTION}
+… Parlament Europejski? 
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B12
+{QUESTION}
+… Organizacja Narodów Zjednoczonych?
+
+{ANSWERS}
+00 Całkowity brak zaufania 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowite zaufanie 
+
+B13 
+{INTRO}
+wielu ludzi z różnych przyczyn nie bierze udziału w wyborach. 
+
+{QUESTION}
+Czy brał Pan udział w ostatnich wyborach do sejmu we wrześniu 2001 roku?
+
+{ANSWERS}
+Tak
+Nie
+Nie byłem uprawniony/-a do głosowania
+
+
+B14 
+{QUESTION}
+Na którą partię lub ugrupowanie głosował Pan w tamtych wyborach do sejmu?
+
+{ANSWERS}
+Koalicja Sojusz Lewicy Demokratycznej - Unia Pracy
+Akcja Wyborcza Solidarność Prawicy 
+Unia Wolności 
+Samoobrona Rzeczypospolitej Polskiej 
+Prawo i Sprawiedliwość 
+Polskie Stronnictwo Ludowe 
+Platforma Obywatelska Rzeczypospolitej Polskiej 
+Alternatywa Ruch Społeczny 
+Polska Wspólnota Narodowa 
+Liga Polskich Rodzin 
+Mniejszość Niemiecka 
+Polska Unia Gospodarcza 
+Polska Partia Socjalistyczna 
+Niemiecka Mniejszość Górnego Śląska 
+
+{INTRO}
+Istnieją różne sposoby działania na rzecz poprawy sytuacji w Polsce lub zapobiegania pogorszeniu się jej. 
+
+B15 
+{QUESTION}
+Czy w ciągu ostatnich 12 miesięcy podjął Pan któreś z poniższych działań? Po pierwsze, czy … Kontaktował się Pan z politykiem, urzędnikiem na szczeblu rządowym lub samorządowym
+
+{ANSWERS}
+Tak
+Nie
+
+B16 
+{QUESTION}
+Działał Pan w partii politycznej lub organizacji podejmującej działalność społeczną lub polityczną
+
+{ANSWERS}
+Tak
+Nie
+
+B17 
+{QUESTION}
+Działał w innego rodzaju organizacji lub stowarzyszeniu 
+
+{ANSWERS}
+Tak
+Nie
+
+B18 
+{QUESTION}
+Nosił lub umieszczał w widocznym miejscu znaczek/nalepkę propagującą jakąś kampanię lub akcję
+
+{ANSWERS}
+Tak
+Nie
+
+B19 
+{QUESTION}
+Podpisywał petycję 
+
+{ANSWERS}
+Tak
+Nie
+
+B20 
+{QUESTION}
+Brał udział w legalnej publicznej demonstracji 
+
+{ANSWERS}
+Tak
+Nie
+
+B21 
+{QUESTION}
+Bojkotował Pan, celowo nie kupował określonych towarów, produktów
+
+{ANSWERS}
+Tak
+Nie
+
+B22 
+{QUESTION}
+Ze względów politycznych, etycznych lub ekologicznych celowo kupował Pan określone produkty, towary
+
+{ANSWERS}
+Tak
+Nie
+
+B23 
+{QUESTION}
+Dawał datki pieniężne na rzecz organizacji lub ugrupowania politycznego
+
+{ANSWERS}
+Tak
+Nie
+
+B24 
+{QUESTION}
+Brał udział w nielegalnych protestach
+
+{ANSWERS}
+Tak
+Nie
+
+B25a 
+{QUESTION}
+Czy istnieje jakaś partia polityczna, z którą czuje się Pan bardziej związany niż z innymi partiami, jest Pan jej sympatykiem?
+
+{ANSWERS}
+Tak 
+Nie 
+
+B25b 
+{QUESTION}
+Jaka to partia?
+
+{ANSWERS}
+Alternatywa Partia Pracy (D. Podrzycki) 
+Konfederacja (A. Słomka) 
+Krajowa Partia Emerytów i Rencistów (T. Mamiński) 
+Liga Polskich Rodzin (M. Kotlinowski) 
+Partia Ludowo-Demokratyczna (R. Jagieliński) 
+Platforma Obywatelska Rzeczypospolitej Polskiej (M. Płażyński) 
+Polska Partia Socjalistyczna - PPS (Z. Puchajda) 
+Polska Unia Gospodarcza (W. Kornowski) 
+Polska Wspólnota Narodowa (B. Tejkowski) 
+Polskie Stronnictwo Ludowe - PSL (J. Kalinowski) 
+„Prawo i Sprawiedliwość” (L. Kaczyński) 
+Ruch Społeczny (K. Piesiewicz) 
+Samoobrona Rzeczypospolitej Polskiej (A. Lepper) 
+Sojusz Lewicy Demokratycznej - SLD (L. Miller) 
+Stronnictwo Demokratyczne - SD (A. Arendarski) 
+Stronnictwo Konserwatywno Ludowe – Ruch Nowej Polski (A. Balazs) 
+Unia Polityki Realnej - UPR (J. Korwin-Mikke) 
+Unia Pracy - UP (M. Pol) 
+Unia Wolności - UW (W. Frasyniuk) 
+Zjednoczenie Chrześcijańsko-Narodowe - ZChN (J. Kropiwnicki) 
+Inna 
+
+B25c 
+{QUESTION}
+Na ile blisko czuje się Pan związany z tą partią? Czy jest ona Pan …
+
+{ANSWERS}
+Bardzo bliska 
+Dość bliska 
+Niezbyt bliska 
+Czy też w ogóle nie jest bliska 
+
+B26 
+{QUESTION}
+Czy jest Pan członkiem jakiejś partii politycznej?
+
+{ANSWERS}
+Tak
+Nie 
+
+B27 
+{QUESTION}
+Do której partii Pan należy?
+
+{ANSWERS}
+Alternatywa Partia Pracy (D. Podrzycki) 
+Konfederacja (A. Słomka) 
+Krajowa Partia Emerytów i Rencistów (T. Mamiński) 
+Liga Polskich Rodzin (M. Kotlinowski) 
+Partia Ludowo-Demokratyczna (R. Jagieliński) 
+Platforma Obywatelska Rzeczypospolitej Polskiej (M. Płażyński) 
+Polska Partia Socjalistyczna - PPS (Z. Puchajda) 
+Polska Unia Gospodarcza (W. Kornowski) 
+Polska Wspólnota Narodowa (B. Tejkowski) 
+Polskie Stronnictwo Ludowe - PSL (J. Kalinowski) 
+„Prawo i Sprawiedliwość” (L. Kaczyński) 
+Ruch Społeczny (K. Piesiewicz) 
+Samoobrona Rzeczypospolitej Polskiej (A. Lepper) 
+Sojusz Lewicy Demokratycznej - SLD (L. Miller) 
+Stronnictwo Demokratyczne - SD (A. Arendarski) 
+Stronnictwo Konserwatywno Ludowe – Ruch Nowej Polski (A. Balazs) 
+Unia Polityki Realnej - UPR (J. Korwin-Mikke) 
+Unia Pracy - UP (M. Pol) 
+Unia Wolności - UW (W. Frasyniuk) 
+Zjednoczenie Chrześcijańsko-Narodowe - ZChN (J. Kropiwnicki) 
+Inna 
+
+B28 
+{INTRO}
+W polityce mówi się czasem o „lewicy” i „prawicy”.
+
+{QUESTION}
+Posługując się tą kartą [KARTA 12], proszę
+powiedzieć, gdzie umieściłby/łaby się Pan na tej skali, na której 0 oznacza lewicę, a 10 - prawicę?
+Pozostałe liczby służą do wyrażenia opinii pośrednich.
+
+{ANSWERS}
+00 Lewica 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Prawica
+
+B29 
+{QUESTION}
+Biorąc wszystko pod uwagę, ogólnie, na ile jest Pan zadowolony ze swojego obecnego życia? Odpowiadając proszę posłużyć się kartą, gdzie 0 oznacza zupełnie niezadowolony, a 10 oznacza całkowicie zadowolony.
+
+{ANSWERS}
+00 Zupełnie niezadowolony/a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowicie zadowolony/a
+
+B30 
+{QUESTION}
+Ogólnie biorąc, na ile jest Pan zadowolony z obecnego stanu polskiej gospodarki? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+00 Zupełnie niezadowolony/a
+00 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowicie zadowolony/a
+
+B31
+{QUESTION}
+A jeśli chodzi o obecny polski rząd, na ile jest Pan zadowolony ze sposobu jego działania? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+00 Zupełnie niezadowolony/a
+00 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowicie zadowolony/a
+
+B32 
+{QUESTION}
+A ogólnie rzecz biorąc, w jakim stopniu jest Pan zadowolony z funkcjonowania demokracji w Polsce? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+00 Zupełnie niezadowolony/a
+00 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Całkowicie zadowolony/a
+
+B33 
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, co ogólnie Pan sądzi o obecnym stanie kształcenia, edukacji w Polsce?
+
+{ANSWERS}
+00 Bardzo zły
+01 
+02 
+03 
+04 
+05 
+06
+07 
+08 
+09 
+10 Bardzo dobry
+
+B34 
+{QUESTION}
+Korzystając z tej samej karty proszę powiedzieć, co ogólnie Pan sądzi o obecnym stanie służby zdrowia i dostępnych w Polsce usługach medycznych?
+
+{ANSWERS}
+00 Bardzo Zły
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bardzo dobry
+
+{INTRO}
+Decyzje w poszczególnych dziedzinach mogą być podejmowane na różnych szczeblach.
+
+B35 
+{QUESTION}
+Korzystając z tej karty proszę powiedzieć, na jakim szczeblu Pan zdaniem powinny być głównie podejmowane decyzje w następujących dziedzinach? … ochrona środowiska
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B36 
+{QUESTION}
+… walka z przestępczością zorganizowaną
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B37
+{QUESTION}
+ … rolnictwo 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B38 
+{QUESTION}
+… obronność 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B39 
+{QUESTION}
+… opieka społeczna 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B40 
+{QUESTION}
+… pomoc dla krajów rozwijających się 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B41 
+{QUESTION}
+… imigracja i uchodźcy 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+B42 
+{QUESTION}
+… stopy procentowe w bankach 
+
+{ANSWERS}
+na szczeblu międzynarodowym
+Na szczeblu Europejskim
+na szczeblu krajowym
+na szczeblu regionalnym lub lokalnym
+
+
+B43
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, w jakim stopniu zgadza się Pan albo nie zgadza z następującymi stwierdzeniami. Im mniej rząd angażuje się w sferę gospodarczą, tym lepiej dla Polski
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B44 
+{QUESTION}
+Rząd powinien podjąć działania zmierzające do zmniejszenia różnic w dochodach
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B45 
+{QUESTION}
+Pracownicy potrzebują silnych związków zawodowych dla ochrony warunków pracy i poziomu płac
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B46 
+{QUESTION}
+Osoby o orientacji homoseksualnej, geje i lesbijki, powinni mieć swobodę układania sobie życia wg własnych przekonań
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B47 
+{QUESTION}
+Prawo powinno być zawsze przestrzegane, niezależnie od okoliczności
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B48 
+{QUESTION}
+Powinno się zakazać działalności partiom politycznym, które dążą do obalenia demokracji
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B49 
+{QUESTION}
+Rozwój gospodarczy nieuchronnie szkodzi środowisku naturalnemu
+
+{ANSWERS}
+Zdecydowanie się zgadzam
+Zgadzam
+Ani się zgadzam, ani nie zgadzam
+Nie zgadzam się
+Zdecydowanie się nie zgadzam
+
+B50 
+{QUESTION}
+Przy rozwiązywaniu naszych problemów ekologicznych możemy liczyć na współczesną naukę
+
+{ANSWERS}
+
+{INTRO}
+A teraz chcielibyśmy zadać Pan kilka pytań na temat Pan życia.
+
+C1 
+{QUESTION}
+Biorąc wszystko pod uwagę, na ile czuje się Pan szczęśliwy? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+00 Bardzo nieszczęśliwy/a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bardzo szczęśliwy/a
+
+C2 
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, jak często spotyka się Pan w celach towarzyskich z przyjaciółmi, znajomymi, krewnymi lub kolegami z pracy ?
+
+{ANSWERS}
+Nigdy 
+Rzadziej niż raz w miesiącu 
+Raz w miesiącu 
+Kilka razy w miesiącu 
+Raz w tygodniu 
+Kilka razy w tygodniu 
+Codziennie 
+
+C3 
+{QUESTION}
+Czy ma Pan kogoś, z kim może Pan otwarcie porozmawiać o wszystkich sprawach osobistych I związanych z pracą zawodową?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C4 
+{QUESTION}
+Jak często – w porównaniu z innymi osobami w Pan wieku – uczestniczy Pan w spotkaniach, imprezach lub wydarzeniach towarzyskich? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Znacznie rzadziej niż większość osób w moim wieku 
+Rzadziej niż większość z nich 
+Mniej więcej tak samo 
+Częściej niż większość z nich 
+Znacznie częściej niż większość osób w moim wieku 
+
+C5 
+{QUESTION}
+Czy Pan lub ktoś z Pan gospodarstwa domowego był ofiarą włamania lub napadu w ciągu ostatnich 5 lat?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C6 
+{QUESTION}
+Na ile bezpiecznie czuje się lub czułby się Pan chodząc samotnie po zmroku w okolicy swojego domu? Czy czuje się lub czułby się Pan …
+
+{ANSWERS}
+Całkowicie bezpiecznie 
+Bezpiecznie 
+Zagrożony 
+Czy bardzo zagrożony? 
+
+C7 
+{QUESTION}
+Jak oceniłby Pan stan swojego zdrowia? Proszę wziąć pod uwagę zarówno samopoczucie fizyczne, jak i psychiczne. Czy stan swojego zdrowia określiłby Pan jako: . . .
+
+{ANSWERS}
+Bardzo dobry 
+Dobry 
+Taki sobie 
+Zły 
+Czy też bardzo zły? 
+
+C8 
+{QUESTION}
+Czy w wykonywaniu codziennych czynności napotyka Pan jakieś utrudnienia wynikające z długotrwałej choroby, niepełnosprawności, jakichś dolegliwości, czy też problemów natury psychicznej?
+
+{ANSWERS}
+Tak, w dużym stopniu 
+Tak, do pewnego stopnia 
+Nie 
+
+C9 
+{QUESTION}
+Czy uważa się Pan za wyznawcę jakiejś religii lub czuje się związany z jakimś Kościołem lub wyznaniem?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C10 
+{QUESTION}
+Z jaką religią, wyznaniem lub Kościołem ?
+
+{ANSWERS}
+Katolicyzm (bez wskazania Kościoła) 
+Kościół Rzymsko - Katolicki 
+Kościół Grecko - Katolicki 
+Kościół Ormiański 
+Inne katolickie 
+Protestantyzm (bez wskazania Kościoła) 
+Baptyści 
+Kościół Kongregacyjny 
+Kościół Wolnych Chrześcijan (Anabaptyści) 
+Kościół Ewangelicko Augsburski (Luteranizm) 
+Kościół Ewangelicko-Metodystyczny (Metodyści) 
+Kościół Zielonoświątkowy, Ewangeliczna Wspólnota Zielonoświątkowa
+Kościół Ewangelicko-Reformowany (Kalwinizm)/ Prezbiterianie 
+Adwentyści Dnia Siódmego 
+Inne protestanckie 
+Wschodni Kościół Ortodoksyjny, Prawosławny (bez wskazania Kościoła)
+Polski Kościół Ortodoksyjny 
+Rosyjski Kościół Ortodoksyjny 
+Polski Autokefaliczny Kościół Prawosławny 
+Wschodni Kościół Staroobrzędowców w RP 
+Inne prawosławno-ortodoksyjne 
+Kościół Jezusa Chrystusa Świętych Dni Ostatnich (Mormoni) 
+Świadkowie Jehowy 
+Kościół Starokatolicki Mariawitów 
+Kościół Polskokatolicki 
+Kościół Katolicki Mariawitów 
+Kościół Starokatolicki 
+Inne chrześcijańskie 
+Judaizm 
+Islam/ Muzułmanie 
+Sunnici 
+Inne islamskie 
+Religie wschodu (Buddyzm, Hinduizm, Międzynarodowe Towarzystwo Świadomości Kryszny, Tao, Zen itd )
+Inne nie-chrześcijańskie 
+
+C11 
+{QUESTION}
+Czy kiedykolwiek uważał się Pan za wyznawcę jakiejś religii lub czuł się związany z jakimś Kościołem lub religią?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C12 
+{QUESTION}
+Z jaką religią ? Z jakim wyznaniem lub Kościołem ?
+
+{ANSWERS}
+Katolicyzm (bez wskazania Kościoła) 
+Kościół Rzymsko – Katolicki 
+Kościół Grecko – Katolicki 
+Kościół Ormiański 
+Inne katolickie 
+Protestantyzm (bez wskazania Kościoła) 
+Baptyści 
+Kościół Kongregacyjny 
+Kościół Wolnych Chrześcijan (Anabaptyści) 
+Kościół Ewangelicko Augsburski (Luteranizm) 
+Kościół Ewangelicko-Metodystyczny (Metodyści) 
+Kościół Zielonoświątkowy, Ewangeliczna Wspólnota Zielonoświątkowa
+Kościół Ewangelicko-Reformowany (Kalwinizm)/ Prezbiterianie 
+Adwentyści Dnia Siódmego 
+Inne protestanckie 
+Wschodni Kościół Ortodoksyjny, Prawosławny (bez wskazania Kościoła) 
+Polski Kościół Ortodoksyjny 
+Rosyjski Kościół Ortodoksyjny 
+Polski Autokefaliczny Kościół Prawosławny 
+Wschodni Kościół Staroobrzędowców w RP 
+Inne prawosławno-ortodoksyjne 
+Kościół Jezusa Chrystusa Świętych Dni Ostatnich (Mormoni) 
+Świadkowie Jehowy 
+Kościół Starokatolicki Mariawitów 
+Kościół Polskokatolicki 
+Kościół Katolicki Mariawitów 
+Kościół Starokatolicki 
+Inne chrześcijańskie 
+Judaizm 
+Islam/ Muzułmanie 
+Sunnici 
+Inne islamskie 
+Religie wschodu (Buddyzm, Hinduizm, Międzynarodowe Towarzystwo Świadomości Kryszny, Tao, Zen itd )
+Inne nie-chrześcijańskie 
+
+C13 
+{QUESTION}
+Niezależnie od swojej przynależności do konkretnej religii lub wyznania, jak określiłby Pan stopień swojej religijności? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+00 W ogóle niereligijny/a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bardzo religijny/a
+
+C14 
+{QUESTION}
+Poza sytuacjami szczególnymi, takimi jak śluby czy pogrzeby, mniej więcej jak często bierze Pan obecnie udział w mszach, nabożeństwach i spotkaniach religijnych?
+
+{ANSWERS}
+Codziennie 
+Częściej niż raz w tygodniu 
+Raz na tydzień 
+Co najmniej raz w miesiącu 
+Tylko z okazji szczególnych świąt 
+Jeszcze rzadziej 
+Nigdy 
+
+C15 
+{QUESTION}
+Poza udziałem w mszach, nabożeństwach i spotkaniach religijnych, jak często się Pan modli - o ile w ogóle się Pan modli ? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Codziennie 
+Częściej niż raz w tygodniu 
+Raz na tydzień 
+Co najmniej raz w miesiącu 
+Tylko z okazji szczególnych świąt 
+Jeszcze rzadziej 
+Nigdy 
+
+C16 
+{QUESTION}
+Czy uznałby się Pan za osobę należącą do grupy ludzi, która jest w Polsce dyskryminowana, gorzej traktowana niż inne grupy w naszym kraju?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C17 Z 
+{QUESTION}
+jakich powodów Pan grupa jest dyskryminowana, gorzej traktowana niż inne grupy ?
+
+{ANSWERS}
+Kolor skóry lub rasa 
+Narodowość 
+Religia/wyznanie 
+Język 
+Przynależność etniczna 
+Wiek 
+Płeć 
+Orientacja seksualna 
+Niepełnosprawność [Inwalidztwo] 
+Inne 
+
+C18 
+{QUESTION}
+Czy ma Pan obywatelstwo polskie?
+
+{ANSWERS}
+Tak
+Nie
+
+C19 
+{QUESTION}
+Jakie ma Pan obywatelstwo?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Czy urodził się Pan w Polsce?
+
+{ANSWERS}
+Tak
+Nie
+
+C21 
+{QUESTION}
+W jakim kraju się Pan urodził?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Kiedy przyjechał Pan, żeby zamieszkać w Polsce? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+W ciągu ostatniego roku 
+1-5 lat temu 
+6-10 lat temu 
+11-20 lat temu 
+Ponad 20 lat temu 
+
+C23 
+{QUESTION}
+W jakim języku/językach mówi się najczęściej w Pan domu?
+
+{ANSWERS}
+
+C24 
+{QUESTION}
+Czy należy Pan do jakiejś mniejszości etnicznej lub czuje się związany osobiście z jakąś mniejszością etniczną w Polsce?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C25 
+{QUESTION}
+Czy Pan ojciec urodził się w Polsce?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C26 
+{QUESTION}
+Z jakiego kontynentu pochodzi Pan ojciec? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Europa 
+Afryka 
+Azja 
+Ameryka Północna 
+Ameryka Południowa i Karaiby 
+Australia z Oceanią 
+
+C27 
+{QUESTION}
+Czy Pan matka urodziła się w Polsce?
+
+{ANSWERS}
+Tak 
+Nie 
+
+C28 
+{QUESTION}
+Z jakiego kontynentu pochodzi Pan matka? Odpowiadając proszę posłużyć się tą kartą.
+
+{ANSWERS}
+Europa 
+Afryka 
+Azja 
+Ameryka Północna 
+Ameryka Południowa i Karaiby 
+Australia z Oceanią 
+
+{INTRO}
+I wreszcie chciałbym poprosić Pan o podanie kilku informacji o sobie i innych członkach gospodarstwa domowego.
+
+F1 
+{QUESTION}
+Ile osób, wliczając dzieci, mieszka tu na stałe, tworząc wspólne gospodarstwo domowe? Proszę wliczyć również siebie.
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+Zaznaczyć płeć
+
+{ANSWERS}
+Mężczyzna
+Kobieta
+
+F3 
+{QUESTION}
+Proszę podać Pan jego rok urodzenia?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Jaki jest stopień pokrewieństwa między Pan a tą osobą?
+
+{ANSWERS}
+Mąż/żona/ partner/partnerka
+Syn/córka, (w tym dzieci przysposobione, adoptowane, wychowankowie, dzieci partnera).
+Rodzic/teść, teściowa, ojczym, macocha, dziadkowie.
+Inny krewny
+Osoba niespokrewniona
+
+F5 
+{QUESTION}
+Które z przedstawionych na tej karcie określeń najlepiej opisuje miejsce, w którym Pan mieszka?
+
+{ANSWERS}
+Duże miasto 
+Przedmieścia lub obrzeża dużego miasta 
+Średnie lub małe miasto 
+Wieś 
+Pojedyncze gospodarstwo lub dom na terenie wiejskim 
+
+F6 
+{QUESTION}
+Jakie ma Pan wykształcenie? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+Nieukończone podstawowe 
+Ukończone podstawowe 
+Gimnazjalne 
+Zasadnicze zawodowe (także 2-letnia SPR) 
+Nieukończone średnie (ukończone co najmniej 2 lata nauki) 
+Średnie ogólnokształcące 
+Średnie zawodowe (technikum, liceum zawodowe lub liceum techniczne) 
+Pomaturalne, policealne 
+Licencjackie, inżynierskie
+Nieukończone wyższe magisterskie lub lekarskie (ukończone co najmniej 2 lata nauki)
+Ukończone wyższe magisterskie lub lekarskie 
+Inne 
+
+F6a 
+{QUESTION}
+Proszę podać nazwę ostatniej szkoły, do której Pan uczęszczał lub do której uczęszcza Pan obecnie.
+
+{ANSWERS}
+
+F6b 
+{QUESTION}
+Czy ukończył Pan tę szkołę?
+
+{ANSWERS}
+Tak 
+Nie 
+Jeszcze się uczę 
+
+F7 
+{QUESTION}
+Ile lat nauki szkolnej Pan ukończył? Proszę nie liczyć powtarzanych klas i powtarzanych lat studio
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, które z poniższych określeń opisuje to, czym się Pan zajmował przez ostatnie 7 dni?
+
+{ANSWERS}
+Wykonuję pracę odpłatną (praca najemna, na własny rachunek, w firmie rodzinnej, we własnym gospodarstwie rolnym) - także w przypadku tymczasowej przerwy w pracy 
+Uczę się w szkole lub na uczelni, także wakacyjna przerwa w nauce (o ile nie jest opłacana przez pracodawcę) 
+Jestem bezrobotny i aktywnie poszukuję pracy 
+Jestem bezrobotny, nie poszukuję aktywnie pracy, ale chciałbym pracować 
+Długotrwała choroba lub niepełnosprawność 
+Jestem na emeryturze, rencie 
+Odbywam służbę wojskową lub służbę zastępczą 
+Zajmuję się domem, opiekuję się dziećmi lub innymi osobami 
+(Inna sytuacja) 
+
+F8b 
+{QUESTION}
+A które z poniższych określeń najlepiej opisuje Pan sytuację (w ciągu ostatnich siedmiu dni)?
+
+{ANSWERS}
+Wykonuję pracę odpłatną (praca najemna, na własny rachunek, w firmie rodzinnej, we własnym gospodarstwie rolnym) - także w przypadku tymczasowej przerwy w pracy 
+Uczę się w szkole lub na uczelni, także wakacyjna przerwa w nauce (o ile nie jest opłacana przez pracodawcę) 
+Jestem bezrobotny i aktywnie poszukuję pracy 
+Jestem bezrobotny, nie poszukuję aktywnie pracy, ale chciałbym pracować 
+Długotrwała choroba lub niepełnosprawność 
+Jestem na emeryturze, rencie 
+Odbywam służbę wojskową lub służbę zastępczą 
+Zajmuję się domem, opiekuję się dziećmi lub innymi osobami 
+(Inna sytuacja) 
+
+F9 
+{QUESTION}
+Chciałbym się upewnić – czy może wykonywał Pan jakąkolwiek odpłatną pracę w ciągu ostatnich 7 dni przez co najmniej godzinę?
+
+{ANSWERS}
+Tak wykonywałem/-łam pracę 
+Nie wykonywałem/-łam pracy 
+
+F10 
+{QUESTION}
+Czy kiedykolwiek wykonywał Pan jakąś odpłatną pracę?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F11 
+{QUESTION}
+Kiedy ostatnio wykonywał Pan jakąś odpłatną pracę?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Czy Pan główna praca jest …
+
+{ANSWERS}
+Pracą najemną 
+Pracą na własny rachunek (także praca lub pomoc w gospodarstwie rolnym)
+Pracą w firmie rodzinnej 
+
+F13 
+{QUESTION}
+Ilu pracowników Pan zatrudnia - jeśli w ogóle Pan zatrudniał ?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Czy pracuje Pan na umowę …..
+
+{ANSWERS}
+na czas nieokreślony 
+na czas określony 
+
+F15 
+{QUESTION}
+Ile mniej więcej osób – łącznie z Pan – jest zatrudnionych w Pan firmie/instytucji. (Jeśli jest to filia, chodzi o liczbę zatrudnionych w filii)?
+
+{ANSWERS}
+Poniżej 10 
+Między 10 a 24 
+Między 25 a 99 
+Między 100 a 499 
+Czy też 500 i więcej? 
+
+F16 
+{QUESTION}
+Czy w swoim głównym miejscu pracy kieruje  Pan pracą innych osób?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F17 
+{QUESTION}
+Pracą ilu osób Pan kieruje?
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Na ile może Pan samodzielnie organizować sobie pracę? Czy może to Pan robić …
+
+{ANSWERS}
+…w dużym zakresie 
+…w znacznym zakresie 
+…w niewielkim zakresie 
+…w ogóle Pan nie może? 
+
+F19 
+{QUESTION}
+Ile godzin tygodniowo Pan pracuje w głównym miejscu pracy? Proszę nie brać pod uwagę odpłatnej i nieodpłatnej pracy w nadgodzinach?
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+A ile godzin tygodniowo zazwyczaj Pan pracuje  (w głównym miejscu pracy) wliczając w to odpłatną i nieodpłatną pracę w nadgodzinach?
+
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Jak nazywa się Pan stanowisko lub funkcja w głównym miejscu pracy?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Jakiego rodzaju czynności wykonuje Pan przez większą część czasu w swoim głównym miejscu pracy?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Jakiego rodzaju wykształcenie lub kwalifikacje są niezbędne do wykonywania tej pracy?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Co przede wszystkim produkuje lub czym się zajmuje się Pan firma/instytucja?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Czy kiedykolwiek był Pan bezrobotny lub poszukiwał pracy przez okres dłuższy niż trzy miesiące?
+
+{ANSWERS}
+Tak
+Nie 
+
+F26 
+{QUESTION}
+Czy któryś z tych okresów trwał 12 miesięcy lub dłużej?
+
+{ANSWERS}
+Tak
+Nie
+
+F27 
+{QUESTION}
+Czy któryś z okresów bezrobocia miał miejsce w ciągu ostatnich 5 lat?
+
+{ANSWERS}
+Tak
+Nie
+
+F28 
+{QUESTION}
+Czy jest lub był Pan członkiem związku zawodowego lub organizacji o podobnym charakterze?
+
+{ANSWERS}
+Tak, obecnie 
+Tak, w przeszłości 
+Nie 
+
+F29 
+{QUESTION}
+Proszę wziąć pod uwagę dochody wszystkich członków gospodarstwa domowego oraz wszelkie dochody, jakie otrzymuje Pan gospodarstwo domowe jako całość. Co jest głównym źródłem dochodów w Pan gospodarstwie domowym? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+Pensja, pobory 
+Dochody z pracy na własny rachunek lub pracy na roli 
+Renty i emerytury 
+Zasiłki dla bezrobotnych/odprawy 
+Inne świadczenia społeczne i zapomogi 
+Dochody z inwestycji, oszczędności, ubezpieczeń lub własności 
+Dochody z innych źródeł 
+
+F30a 
+{QUESTION}
+Proszę spojrzeć na tę kartę. Jeśli doda Pan dochody członków Pan gospodarstwa domowego, ze wszystkich źródeł , która litera odpowiada całkowitemu dochodowi netto w Pan gospodarstwie? Jeśli nie zna Pan dokładnej ich wysokości, proszę je oszacować . Proszę posłużyć się tą częścią karty, która pokazuje wartości najlepiej Pan znane: dochody tygodniowe, miesięczne lub roczne. 
+
+{ANSWERS}
+TYGODNIOWE
+J poniżej 160 zł
+R od 160 zł do 280 zł
+C ponad 280 zł ale mniej niż 480 zł
+M ponad 480 zł ale mniej niż 920 zł
+F ponad 920 zł ale mniej niż 1400 zł
+S ponad 1400 zł ale mniej niż 1900 zł
+K ponad 1900 zł ale mniej niż 2400 zł
+P ponad 2400 zł ale mniej niż 2800 zł
+D ponad 2800 zł ale mniej niż 4600 zł
+H ponad 4600 zł ale mniej niż 7000 zł
+U ponad 7000 zł ale mniej niż 9300 zł
+N ponad 9300 zł lub więcej
+
+F30b 
+{QUESTION}
+Proszę spojrzeć na tę kartę. Jeśli doda Pan dochody członków Pan gospodarstwa domowego, ze wszystkich źródeł , która litera odpowiada całkowitemu dochodowi netto w Pan gospodarstwie? Jeśli nie zna Pan dokładnej ich wysokości, proszę je oszacować . Proszę posłużyć się tą częścią karty, która pokazuje wartości najlepiej Pan znane: dochody tygodniowe, miesięczne lub roczne. 
+
+{ANSWERS}
+MIESIĘCZNE
+J poniżej 600 zł
+R od 600 zł do 1200 zł
+C ponad 1200 zł ale mniej niż 2000 zł
+M ponad 2000 zł ale mniej niż 4000 zł
+F ponad 4000 zł ale mniej niż 6000 zł
+S ponad 6000 zł ale mniej niż 8000 zł
+K ponad 8000 zł ale mniej niż 10000 zł
+P ponad 10000 zł ale mniej niż 12000 zł
+D ponad 12000 zł ale mniej niż 20000 zł
+H ponad 20000 zł ale mniej niż 30000 zł
+U ponad 30000 zł ale mniej niż 40000 zł
+N ponad 40000 zł lub więcej
+
+F30c
+{QUESTION}
+Proszę spojrzeć na tę kartę. Jeśli doda Pan dochody członków Pan gospodarstwa domowego, ze wszystkich źródeł , która litera odpowiada całkowitemu dochodowi netto w Pan gospodarstwie? Jeśli nie zna Pan dokładnej ich wysokości, proszę je oszacować . Proszę posłużyć się tą częścią karty, która pokazuje wartości najlepiej Pan znane: dochody tygodniowe, miesięczne lub roczne. 
+
+{ANSWERS}
+ROCZNE
+J poniżej 7000 zł
+R od 7000 zł do 14000 zł
+C ponad 14000 zł ale mniej niż 24000 zł
+M ponad 24000 zł ale mniej niż 48000 zł
+F ponad 48000 zł ale mniej niż 72000 zł
+S ponad 72000 zł ale mniej niż 96000 zł
+K ponad 96000 zł ale mniej niż 120000 zł
+P ponad 120000 zł ale mniej niż 144000 zł
+D ponad 144000 zł ale mniej niż 240000 zł
+H ponad 240000 zł ale mniej niż 360000 zł
+U ponad 360000 zł ale mniej niż 480000 zł
+N ponad 480000 zł lub więcej
+
+F31 
+{QUESTION}
+Które z określeń na tej karcie najlepiej opisuje Pan odczucia na temat obecnych dochodów w gospodarstwie domowym?
+
+{ANSWERS}
+Żyjemy dostatnio przy obecnym poziomie dochodów 
+Dajemy sobie radę przy obecnym poziomie dochodów 
+Z trudem dajemy sobie radę przy obecnym poziomie dochodów 
+Praktycznie nie dajemy sobie rady przy obecnym poziomie dochodów 
+
+F32 
+{QUESTION}
+Gdyby z jakichś powodów znalazł się Pan w bardzo trudnej sytuacji finansowej i musiał pożyczyć pieniądze, aby starczyło na życie, na ile byłoby to łatwe lub trudne? Przy odpowiedzi proszę posłużyć się kartą.
+
+{ANSWERS}
+Bardzo trudne 
+Dość trudne 
+Ani łatwe, ani trudne 
+Dość łatwe 
+Bardzo łatwe 
+
+F33 
+{QUESTION}
+Jeśli respondent mieszka z małżonkiem, zgodnie z odpowiedzią w pyt.
+
+{ANSWERS}
+Jeśli respondent mieszka z małżonkiem/ką, partnerem/ką zgodnie z odpowiedzią w pyt. F4 
+Nie mieszka 
+
+
+F34 
+{QUESTION}
+Jakie jest wykształcenie Pan męża? Przy odpowiedzi proszę posłużyć się kartą.
+
+{ANSWERS}
+Nieukończone podstawowe 
+Podstawowe, gimnazjalne 
+Zasadnicze zawodowe 
+Liceum ogólnokształcące, liceum zawodowe, technikum 
+Pomaturalne, policealne 
+Licencjackie, inżynierskie 
+Wyższe magisterskie lub lekarskie 
+
+F35a 
+{QUESTION}
+Które z poniższych określeń opisuje to, czym zajmował się w ciągu ostatnich siedmiu dni Pan mąż?
+
+{ANSWERS}
+Praca odpłatną (praca najemna, na własny rachunek, w firmie rodzinnej, we własnym gospodarstwie rolnym) - także w przypadku tymczasowej przerwy w pracy 
+Nauka w szkole lub na uczelni, także wakacyjna przerwa w nauce – (o ile nie jest opłacana przez pracodawcę) 
+Bezrobotny i aktywnie poszukujący pracy 
+Bezrobotny, nie poszukujący aktywnie pracy, ale chce pracować 
+Długotrwała choroba, niepełnosprawność 
+Emerytura, renta 
+Odbywa służbę wojskową lub służbę zastępczą 
+Zajmuje się domem, opieka nad dziećmi lub innymi osobami 
+(Inna sytuacja) 
+
+F35b 
+{QUESTION}
+A które z poniższych określeń najlepiej opisuje to, czym zajmował (w ciągu ostatnich 7 dni) mąż?
+
+{ANSWERS}
+Praca odpłatną (praca najemna, na własny rachunek, w firmie rodzinnej, we własnym gospodarstwie rolnym) - także w przypadku tymczasowej przerwy w pracy 
+Nauka w szkole lub na uczelni, także wakacyjna przerwa w nauce – (o ile nie jest opłacana przez pracodawcę) 
+Bezrobotny i aktywnie poszukujący pracy 
+Bezrobotny, nie poszukujący aktywnie pracy, ale chce pracować 
+Długotrwała choroba, niepełnosprawność 
+Emerytura, renta 
+Odbywa służbę wojskową lub służbę zastępczą 
+Zajmuje się domem, opieka nad dziećmi lub innymi osobami 
+(Inna sytuacja) 
+
+F36 
+{QUESTION}
+Chciałbym się upewnić – czy Pan mąż wykonywał jakąkolwiek odpłatną pracę w ciągu ostatnich 7 dni (przez co najmniej godzinę) ?
+
+{ANSWERS}
+Tak, wykonywał/a prace 
+Nie wykonywał/a pracy 
+
+F37 
+{QUESTION}
+Jak nazywa się stanowisko lub funkcja w głównym miejscu pracy Pan meża?
+
+{ANSWERS}
+
+F38
+{QUESTION}
+ Jakiego rodzaju czynności wykonuje mąż przez większą część czasu w swoim głównym miejscu pracy?
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Jakiego rodzaju wykształcenie lub kwalifikacje są niezbędne do wykonywania tej pracy?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Czy główna praca męża jest …
+
+{ANSWERS}
+pracą najemną
+pracą na własny rachunek (także w gospodarstwie rolnym) 
+pracą w firmie rodzinnej 
+
+F41
+{QUESTION}
+ Ilu pracowników zatrudnia (jeśli w ogóle kogoś zatrudnia)?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Czy w swoim głównym miejscu pracy Pan mąż kieruje pracą innych osób?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F43 
+{QUESTION}
+Pracą ilu osób kieruje?
+
+F44 
+{QUESTION}
+Ile godzin tygodniowo Pan mąż pracuje zazwyczaj (w głównym miejscu pracy), wliczając w to odpłatną i nieodpłatną pracę w nadgodzinach?
+
+{ANSWERS}
+
+F45
+{QUESTION}
+Jakie jest wykształcenie Pan ojca? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+Nieukończone podstawowe 
+Podstawowe, gimnazjalne 
+Zasadnicze zawodowe 
+Liceum ogólnokształcące, liceum zawodowe, technikum 
+Pomaturalne, policealne 
+Licencjackie, inżynierskie 
+Wyższe magisterskie lub lekarskie 
+
+F46 
+{QUESTION}
+Kiedy miał Pan 14 lat, czy Pan ojciec był pracownikiem najemnym, pracował na własny rachunek, czy też w ogóle w tym czasie nie pracował?
+
+{ANSWERS}
+Praca najemna
+Praca na własny rachunek (także praca lub pomoc w gospodarstwie rolnym)
+Nie pracował 
+(Ojciec nie żył /nie mieszkał razem kiedy respondent miał 14 lat) 
+
+F47 
+{QUESTION}
+Ile osób zatrudniał Pan ojciec?
+
+{ANSWERS}
+Nikogo 
+Od 1 do 24 
+25 lub więcej 
+
+F48 
+{QUESTION}
+Czy kierował pracą innych osób?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F49 
+{QUESTION}
+Jak nazywało się stanowisko lub funkcja Pan ojca w jego głównym miejscu pracy?
+
+{ANSWERS}
+
+F49a
+{QUESTION}
+ Jakiego rodzaju czynności wykonywał Pan ojciec przez większą część czasu w swoim głównym miejscu pracy?
+
+{ANSWERS}
+
+F49b 
+{QUESTION}
+Co przede wszystkim produkowała lub czym się zajmowała firma/instytucja Pan ojca?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Które z określeń na tej karcie najlepiej opisuje rodzaj pracy wykonywanej przez Pan ojca, kiedy miał Pan 14 lat?
+
+{ANSWERS}
+Tradycyjne wolne zawody nPan księgowy - adwokat - lekarz – naukowiec - inżynier mechanik/inżynier budownictwa 
+Zawody inteligencji pracującej nPan nauczyciel – pielęgniarz – fizykoterapeuta – pracownik opieki społecznej – artysta – muzyk – funkcjonariusz policji (w stopniu sierżanta lub wyższym) – informatyk programista 
+Zawody urzędnicze i średniego szczebla nPan sekretarz – asystent prezesa/dyrektora– pracownik biurowy – urzędnik – pracownik usług lub informacji telefonicznej – pomoc medyczna – opiekun w przedszkolu 
+Wyższe stanowiska kierownicze i administracyjne (zwykle odpowiedzialni za planowanie, organizację i koordynację pracy i sprawy finansowe) nPan dyrektor finansowy – dyrektor generalny 
+Zawody robotników wykwalifikowanych i rzemieślnicze nPan mechanik samochodowy – monter – kontroler – hydraulik – drukarz – ślusarz narzędziowy – elektryk – ogrodnik – maszynista 
+Półwykwalifikowana praca fizyczna i półwykwalifikowana praca w usługach i handlu nPan pracownik poczty – operator maszyn – pracownik ochrony – dozorca – rolnik – pomoc kuchenna – recepcjonista – sprzedawca 
+Niewykwalifikowana praca fizyczna i niskokwalifikowana praca w usługach nPan kierowca ciężarówki– kierowca samochodu dostawczego – sprzątacz – tragarz – pakowacz – szwacz– goniec – pracownik fizyczny – kelner – barman 
+Kierownicy średniego i niższego szczebla nPan kierownik biura – kierownik sklepu detalicznego – kierownik w banku – kierownik restauracji – kierownik magazynu – kierownik pubu 
+
+F51 
+{QUESTION}
+Jakie jest wykształcenie Pan matki? Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+Nieukończone podstawowe 
+Podstawowe, gimnazjalne 
+Zasadnicze zawodowe 
+Liceum ogólnokształcące, liceum zawodowe, technikum 
+Pomaturalne, policealne 
+Licencjackie, inżynierskie 
+Wyższe magisterskie lub lekarskie 
+
+F52 
+{QUESTION}
+Kiedy miał Pan 14 lat, czy Pan matka była pracownikiem najemnym, pracowała na własny rachunek, czy też w ogóle w tym czasie nie pracowała?
+
+{ANSWERS}
+Praca najemna 
+Praca na własny rachunek (także praca lub pomoc w gospodarstwie rolnym)
+Nie pracowała 
+ (Matka nie żyła /nie mieszkała razem kiedy respondent miał 14 lat) 
+
+F53
+ {QUESTION}
+Ile osób zatrudniała Pan matka?
+
+{ANSWERS}
+Nikogo
+Od 1 do 24 
+25 lub więcej 
+
+F54 
+{QUESTION}
+Czy kierowała pracą innych osób?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F55
+{QUESTION}
+ Jak nazywało się stanowisko lub funkcja matki w jej głównym miejscu pracy?
+
+{ANSWERS}
+
+F55a 
+{QUESTION}
+Jakiego rodzaju czynności wykonywała Pan matka przez większą część czasu w swoim głównym miejscu pracy?
+
+{ANSWERS}
+
+F55b 
+{QUESTION}
+Co przede wszystkim produkowała lub czym się zajmowała się firma/instytucja Pan matki?
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Które z określeń na tej karcie najlepiej opisuje rodzaj pracy wykonywanej przez Pana matkę, kiedy miał Pan 14 lat?
+
+{ANSWERS}
+Tradycyjne wolne zawody nPan księgowa - adwokat - lekarz – naukowiec - inżynier mechanik/inżynier budownictwa 
+Zawody inteligencji pracującej nPan nauczycielka – pielęgniarka – fizykoterapeuta – pracownik opieki społecznej – artysta –
+muzyk – funkcjonariusz policji (w stopniu sierżanta lub wyższym) – informatyk programista 
+Zawody urzędnicze i średniego szczebla nPan sekretarka – asystentka prezesa/dyrektora– pracownik biurowy – urzędniczka –
+pracownik usług lub informacji telefonicznej – pomoc medyczna – opiekunka w przedszkolu 
+Wyższe stanowiska kierownicze i administracyjne (zwykle odpowiedzialni za planowanie, organizację i koordynację pracy i sprawy finansowe) nPan dyrektor finansowy – dyrektor generalny 
+Zawody robotników wykwalifikowanych i rzemieślnicze nPan mechanik samochodowy – monter – kontroler – hydraulik – drukarz – ślusarz narzędziowy – elektryk – ogrodnik – maszynista 
+Półwykwalifikowana praca fizyczna i półwykwalifikowana praca w usługach i handle nPan pracownik poczty – operator maszyn – pracownik ochrony – dozorca – rolnik – pomoc kuchenna – recepcjonistka – sprzedawczyni 
+Niewykwalifikowana praca fizyczna i niskokwalifikowana praca w usługach nPan kierowca ciężarówki– kierowca samochodu dostawczego – sprzątaczka – tragarz – pakowacz – szwaczka– goniec – pracownik fizyczny – kelnerka – barmanka 
+Kierownicy średniego i niższego szczebla nPan kierownik biura – kierownik sklepu detalicznego – kierownik w banku – kierownik
+restauracji – kierownik magazynu – kierownik pubu 
+
+F57 
+{QUESTION}
+Czy w ciągu ostatnich dwunastu miesięcy brał Pan udział w jakimś kursie, był obecny na wykładzie, konferencji, aby pogłębić wiedzę lub podnieść kwalifikacje zawodowe?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F58
+{QUESTION}
+ Jaki jest Pan obecny stan cywilny? Chodzi o stan formalno-prawny. Odpowiadając proszę posłużyć się kartą.
+
+{ANSWERS}
+Żonaty, mężatka 
+W separacji (nadal prawnie w związku małżeńskim) 
+Rozwiedziony/-a 
+Wdowiec, wdowa 
+Kawaler, panna 
+
+F59 
+{QUESTION}
+Czy obecnie mieszka Pan ze swoim mężem?
+
+{ANSWERS}
+Tak 
+Nie
+
+F60 
+{QUESTION}
+Czy obecnie mieszka Pan z innym partnerem?
+
+{ANSWERS}
+Tak
+Nie 
+
+F61 
+{QUESTION}
+Czy obecnie mieszka Pan z partnerem?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F62 
+{QUESTION}
+Czy kiedykolwiek mieszkał Pan z partnerem nie będąc z nim w związku małżeńskim?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F63 
+{QUESTION}
+Czy kiedykolwiek był Pan rozwiedziony?
+
+{ANSWERS}
+Tak 
+Nie 
+
+F64 
+{QUESTION}
+RESPONDENT MIESZKA Z DZIEĆMI 
+
+{ANSWERS}
+RESPONDENT MIESZKA Z DZIEĆMI 
+NIE MIESZKA 
+
+F65 
+{QUESTION}
+Czy kiedykolwiek mieszkał Pan w tym samym gospodarstwie domowym z dziećmi, własnymi lub przysposobionymi?
+
+{ANSWERS}
+Tak 
+Nie 
+

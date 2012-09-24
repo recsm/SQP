@@ -12,7 +12,7 @@ class Migration(DataMigration):
 
     def forwards(self, orm):
         
-        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
+cgh        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
         files = []
         r,d,files = os.walk(Q_BASE_DIR).next()
 
