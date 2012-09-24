@@ -1155,9 +1155,10 @@ F1
  {ANSWERS}
 
 F1a
-{QUESTION}Afin de faciliter les choses, nous avons besoin de connaître la composition de votre foyer. Quel est tout d'abord VOTRE PRENOM ? Prénom de l'interviewé : 
+{QUESTION}
+Afin de faciliter les choses, nous avons besoin de connaître la composition de votre foyer. Quel est tout d'abord VOTRE PRENOM ? Prénom de l'interviewé : 
 
- {ANSWERS}
+{ANSWERS}
 
 F1b. 
 {QUESTION}

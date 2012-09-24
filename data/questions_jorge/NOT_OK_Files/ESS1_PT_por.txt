@@ -1345,7 +1345,7 @@ F30a:
 {QUESTION}
 Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido do seu agregado familiar? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
 
-{ANSWERS} 1
+{ANSWERS}
 Aproximadamente
 POR SEMANA
 J Menos de €40
@@ -1361,27 +1361,11 @@ H €1150 a menos de €1730
 U €1730 a menos de €2310
 N €2310 ou mais
 
-{ANSWERS} 2
-Aproximadamente
-POR SEMANA
-J Menos de 8.019$
-R 8.019$ a menos de 14.034$
-C 14.034$ a menos de 24.058$
-M 24.058$ a menos de 46.111$
-F 46.111$ a menos de 70.169$
-S 70.169$ a menos de 92.222$
-K 92.222$ a menos de 116.280$
-P 116.280$ a menos de 138.333$
-D 138.333$ a menos de 230.554$
-H 230.554$ a menos de 346.834$
-U 346.834$ a menos de 463.114$
-N 463.114$ ou mais
-
 F30b: 
 {QUESTION}
 Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido do seu agregado familiar? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
 
-{ANSWERS} 1
+{ANSWERS}
 Aproximadamente
 POR MÊS
 J Menos de €150
@@ -1397,27 +1381,11 @@ H €5000 a menos de €7500
 U €7500 a menos de €10000
 N €10000 ou mais
 
-{ANSWERS} 2
-Aproximadamente
-POR MÊS
-J Menos de 30.072$
-R 30.072$ a menos de 60.145$
-C 60.145$ a menos de 100.241$
-M 100.241$ a menos de 200.482$
-F 200.482$ a menos de 300.723$
-S 300.723$ a menos de 400.964$
-K 400.964$ a menos de 501.205$
-P 501.205$ a menos de 601.446$
-D 601.446$ a menos de 1.002.410$
-H 1.002.410$ a menos de 1.503.615$
-U 1.503.615$ a menos de 2.004.820$
-N 2.004.820$ ou mais
-
 F30c: 
 {QUESTION}
 Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido do seu agregado familiar? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
 
-{ANSWERS} 1
+{ANSWERS}
 Aproximadamente
 POR ANO
 Menos de €1800 
@@ -1432,22 +1400,6 @@ D €36000 a menos de €60000
 H €60000 a menos de €90000 
 U €90000 a menos de €120000 
 N €120000 ou mais 
-
-{ANSWERS} 2
-Aproximadamente
-POR ANO
-J Menos de 360.868$ J
-R 360.868$ a menos de 721.735$ 
-C 721.735$ a menos de 1.202.892$ 
-M 1.202.892$ a menos de 2.405.784$ 
-F 2.405.784$ a menos de 3.608.676$ 
-S 3.608.676$ a menos de 4.811.568$ 
-K 4.811.568$ a menos de 6.014.460$ 
-P 6.014.460$ a menos de 7.217.352$ 
-D 7.217.352$ a menos de 12.028.920$ 
-H 12.028.920$ a menos de 18.043.380$ 
-U 18.043.380$ a menos de 24.057.840$ 
-N 24.057.840$ ou mais 
 
 F31
 {QUESTION}

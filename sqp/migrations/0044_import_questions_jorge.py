@@ -12,7 +12,7 @@ class Migration(DataMigration):
 
     def forwards(self, orm):
         
-cgh        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
+        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
         files = []
         r,d,files = os.walk(Q_BASE_DIR).next()
 
@@ -29,6 +29,8 @@ cgh        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
 
             if not '.txt' in file_name:
                 continue
+
+            print "NOW CHECKING file %s" % file.name
 
             round_name, country_iso, language_iso = file_name.replace('.txt', '').split('_')
 
@@ -61,7 +63,9 @@ cgh        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
                     questions[key][current_text_area] += line
 
             for key in questions:
-            
+
+                print "NOW SAVING question %s" % key
+
                 item, i_was_created = sqp_models.Item.objects.get_or_create(admin=key, study=study)
                 if i_was_created:
                     CREATED_ITEMS += 1
@@ -376,4 +380,4 @@ cgh        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
         }
     }
 
-    complete_apps = ['sqp']
+complete_apps = ['sqp']

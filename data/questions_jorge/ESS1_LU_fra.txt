@@ -1,4 +1,4 @@
-﻿A 1
+﻿A1
 {QUESTION}
 Durant une journée ordinaire de la semaine (du lundi au vendredi), combien de temps passez-vous en moyenne devant la télévision?
 
@@ -12,7 +12,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 2
+A2
 {QUESTION}
 Toujours durant une journée ordinaire de la semaine, combien de ce temps regardez-vous les nouvelles ou des programmes de politique et d’actualités?
 
@@ -26,7 +26,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 3
+A3
 {QUESTION}
 Durant une journée ordinaire de la semaine, combien de temps écoutez-vous en moyenne la radio?
 
@@ -40,7 +40,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 4
+A4
 {QUESTION}
 Toujours durant une journée normale de la semaine, combien de ce temps indiqué ci-dessus consacrez-vous aux nouvelles ou aux programmes de politique et d’actualités?
 
@@ -54,7 +54,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 5
+A5
 {QUESTION}
 Durant une journée ordinaire de la semaine, combien de temps passez-vous à lire les journaux?
 
@@ -68,7 +68,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 6
+A6
 {QUESTION}
 Et combien de ce temps passez-vous à lire des articles concernant la politique et les actualités?
 
@@ -82,7 +82,7 @@ Entre 2 heures et 2 heures ½
 Entre 2 heures ½ et 3 heures
 Plus de trois heures
 
-A 7
+A7
 {QUESTION}
 Que ce soit à la maison ou au travail, précisez la régularité avec laquelle vous utilisez l'Internet, le world wide web ou l’email, à des fins personnelles?
 
@@ -96,7 +96,7 @@ Une fois par semaine
 Plusieurs fois par semaine
 Tous les jours
 
-A 8
+A8
 {QUESTION}
 D’après vous, peut-on faire confiance à la majorité des gens, ou faut-il plutôt s’en méfier? Utilisez une échelle de 0 à 10, pour indiquer votre confiance dans la majorité des gens (10), ou votre méfiance (0).
 
@@ -130,7 +130,7 @@ Pensez-vous que, s'ils en avaient la possibilité, la majorité des gens abusera
 9
 10 La majorité des gens essayeraient d'être corrects
 
-A 10
+A10
 {QUESTION}
 De manière générale, diriez-vous que les gens sont disposés à aider autrui, ou plutôt qu’ils ne sont intéressés qu’à leurs propres affaires ?
 
@@ -150,7 +150,7 @@ De manière générale, diriez-vous que les gens sont disposés à aider autrui,
 {INTRO}
 Maintenant nous voudrions vous poser quelques questions touchant à la politique et au gouvernement.
 
-B 1
+B1
 {QUESTION}
 Indiquez votre intérêt dans les affaires politiques. Etes-vous…
 
@@ -160,7 +160,7 @@ Assez intéressé
 Peu intéressé
 Pas du tout intéressé
 
-B 2
+B2
 {QUESTION}
 Vous arrive-t-il de trouver les affaires politiques trop compliquées pour réellement les comprendre:
 
@@ -171,7 +171,7 @@ Occasionnellement
 Régulièrement
 Souvent
 
-B 3
+B3
 {QUESTION}
 Vous jugeriez-vous capable de prendre un rôle actif au sein d’un groupe engagé dans les affaires politiques?
 
@@ -182,7 +182,7 @@ Pas décidé dans l'un ou l'autre sens
 Probablement
 Sûrement
 
-B 4
+B4
 {QUESTION}
 Trouvez-vous que se former des opinions en matière de politique est:
 
@@ -193,7 +193,7 @@ Ni difficile ni facile
 Facile
 Très facile
 
-B 5
+B5
 {QUESTION}
 Estimez-vous, que de manière générale, les hommes politiques se soucient de ce que pensent les gens comme vous?
 
@@ -204,7 +204,7 @@ Quelques-uns s’en soucient
 Beaucoup s’en soucient
 La majorité des hommes politiques s’en soucient 
 
-B 6
+B6
 {QUESTION}
 Diriez-vous que les hommes politiques sont intéressés uniquement par les votes plutôt que par les opinions des citoyens?
 
@@ -215,7 +215,7 @@ Quelques hommes politiques sont uniquement intéressés par les votes, d'autres 
 La majorité des hommes politiques s’intéressent aux opinions des électeurs
 Presque tous les hommes politiques s’ intéressent aux opinions des électeurs
 
-B 7 
+B7 
 {QUESTION}
 Indiquez, sur une échelle de 0 à 10, quelle confiance vous avez personnellement dans les institutions que je vais vous citer. (0 signifie aucune confiance dans l'institution, et 10 équivaut à une confiance complète). La Chambre des Députés
 
@@ -232,7 +232,7 @@ Indiquez, sur une échelle de 0 à 10, quelle confiance vous avez personnellemen
 9
 10 Confiance totale
 
-B 8 
+B8 
 {QUESTION}
 Le système légal
 
@@ -249,7 +249,7 @@ Le système légal
 9
 10 Confiance totale
 
-B 9 
+B9 
 {QUESTION}
 La police
 
@@ -266,7 +266,7 @@ La police
 9
 10 Confiance totale
 
-B 10 
+B10 
 {QUESTION}
 Les hommes politiques
 
@@ -283,7 +283,7 @@ Les hommes politiques
 9
 10 Confiance totale
 
-B 11 
+B11 
 {QUESTION}
 Le Parlement Européen
 
@@ -300,7 +300,7 @@ Le Parlement Européen
 9
 10 Confiance totale
 
-B 12 
+B12 
 {QUESTION}
 L’Organisation des Nations Unies
 
@@ -317,7 +317,7 @@ L’Organisation des Nations Unies
 9
 10 Confiance totale
 
-B 13
+B13
 {INTRO}
 Pour l’une ou l’autre raison, certaines personnes ne votent plus de nos jours. 
 
@@ -329,7 +329,7 @@ Oui
 Non
 Je n’ai pas le droit de vote
 
-B 14
+B14
 {QUESTION}
 Pour quel parti avez-vous voté lors de cette élection nationale?
 
@@ -345,7 +345,7 @@ Autres partis. Lequel?
 {INTRO}
 Il y a différents moyens pour essayer d’améliorer l’état de la situation du pays ou pour essayer de faire en sorte que cet état ne s’aggrave. 
 
-B 15
+B15
 {QUESTION}
 Pendant les 12 mois précédents, avez-vous entrepris une des actions suivantes ? Contacter un homme politique, un représentant des autorités nationales ou locales
 
@@ -353,7 +353,7 @@ Pendant les 12 mois précédents, avez-vous entrepris une des actions suivantes 
 Oui
 Non
 
-B 16
+B16
 {QUESTION}
 Travailler dans un parti politique ou dans un groupe d’action
 
@@ -361,7 +361,7 @@ Travailler dans un parti politique ou dans un groupe d’action
 Oui
 Non
 
-B 17
+B17
 {QUESTION}
 Travailler dans une autre organisation ou association
 
@@ -369,7 +369,7 @@ Travailler dans une autre organisation ou association
 Oui
 Non
 
-B 18
+B18
 {QUESTION}
 Porter ou exposer un autocollant avec un message politique
 
@@ -377,7 +377,7 @@ Porter ou exposer un autocollant avec un message politique
 Oui
 Non
 
-B 19
+B19
 {QUESTION}
 Signer une pétition
 
@@ -385,7 +385,7 @@ Signer une pétition
 Oui
 Non
 
-B 20
+B20
 {QUESTION}
 Participer à une manifestation publique légale
 
@@ -393,7 +393,7 @@ Participer à une manifestation publique légale
 Oui
 Non
 
-B 21
+B21
 {QUESTION}
 Boycotter certains produits
 
@@ -401,7 +401,7 @@ Boycotter certains produits
 Oui
 Non
 
-B 22
+B22
 {QUESTION}
 Délibérément acheter certains produits pour des raisons politiques, éthiques ou environnementales
 
@@ -409,7 +409,7 @@ Délibérément acheter certains produits pour des raisons politiques, éthiques
 Oui
 Non
 
-B 23
+B23
 {QUESTION}
 Faire un don à une organisation ou un groupe politique
 
@@ -417,7 +417,7 @@ Faire un don à une organisation ou un groupe politique
 Oui
 Non
 
-B 24
+B24
 {QUESTION}
 Participer à des manifestations non autorisées
 
@@ -425,7 +425,7 @@ Participer à des manifestations non autorisées
 Oui
 Non
 
-B 25a
+B25a
 {QUESTION}
 Y a-t-il un parti politique dont vous vous sentez le plus proche?
 
@@ -433,7 +433,7 @@ Y a-t-il un parti politique dont vous vous sentez le plus proche?
 Oui
 Non
 
-B 25b
+B25b
 {QUESTION}
 Lequel?
 
@@ -446,7 +446,7 @@ La Gauche / Déi Lenk
 Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale
 Autres partis. Lequel?
 
-B 25c
+B25c
 {QUESTION}
 Comment décririez-vous votre relation avec ce parti, est-elle :
 
@@ -456,7 +456,7 @@ Assez proche
 Peu proche
 Pas du tout proche
 
-B 26
+B26
 {QUESTION}
 Etes-vous membre d’un parti politique?
 
@@ -464,7 +464,7 @@ Etes-vous membre d’un parti politique?
 Oui
 Non
 
-B 27
+B27
 {QUESTION}
 Duquel?
 
@@ -477,7 +477,7 @@ La Gauche / Déi Lenk
 Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale
 Autres partis. Lequel?
 
-B 28
+B28
 {INTRO}
 Dans les affaires politiques, on utilise parfois les termes « gauche » et «droite». 
 
@@ -497,7 +497,7 @@ Où vous placeriez-vous sur cette échelle, où 0 représente la gauche et 10 la
 9
 10 Droite
 
-B 29
+B29
 {QUESTION}
 Globalement, indiquez votre degré de satisfaction en ce qui concerne votre vie d’aujourd’hui? 0 signifie extrêmement mécontent et 10 extrêmement satisfait.
 
@@ -514,7 +514,7 @@ Globalement, indiquez votre degré de satisfaction en ce qui concerne votre vie 
 9
 10 Extrême-ment satisfait
 
-B 30
+B30
 {QUESTION}
 De façon globale, indiquez votre degré de satisfaction en ce qui concerne l’état actuel de l’économie luxembourgeoise ?
 
@@ -531,7 +531,7 @@ De façon globale, indiquez votre degré de satisfaction en ce qui concerne l’
 9
 10 Extrême-ment satisfait
 
-B 31
+B31
 {QUESTION}
 En ce qui concerne le travail réalisé par le gouvernement luxembourgeois actuel, indiquez votre degré de satisfaction.
 
@@ -548,7 +548,7 @@ En ce qui concerne le travail réalisé par le gouvernement luxembourgeois actue
 9
 10 Extrême-ment satisfait
 
-B 32
+B32
 {QUESTION}
 Globalement, indiquez votre degré de satisfaction sur la manière dont fonctionne la démocratie au Luxembourg ?
 
@@ -566,7 +566,7 @@ Globalement, indiquez votre degré de satisfaction sur la manière dont fonction
 10 Extrême-ment satisfait
 
 
-B 33
+B33
 {QUESTION}
 Indiquez ce que vous pensez globalement de l’état actuel de l’enseignement au Luxembourg?
 
@@ -583,7 +583,7 @@ Indiquez ce que vous pensez globalement de l’état actuel de l’enseignement 
 9
 10 Extrême-ment bon
 
-B 34
+B34
 {QUESTION}
 Indiquez ce que vous pensez globalement de l’état actuel du système de santé luxembourgeois?
 
@@ -603,7 +603,7 @@ Indiquez ce que vous pensez globalement de l’état actuel du système de sant�
 {INTRO}
 Des décisions politiques peuvent être prises à des niveaux différents. 
 
-B 35 
+B35 
 {QUESTION}
 En utilisant cette carte, indiquez à quel niveau vous jugez que les politiques suivantes devraient surtout être traitées. La protection de l’environnement
 
@@ -613,7 +613,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 36 
+B36 
 {QUESTION}
 La lutte contre le crime organisé
 
@@ -623,7 +623,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 37 
+B37 
 {QUESTION}
 L’agriculture
 
@@ -633,7 +633,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 38 
+B38 
 {QUESTION}
 La défense
 
@@ -643,7 +643,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 39 
+B39 
 {QUESTION}
 La protection sociale
 
@@ -653,7 +653,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 40 
+B40 
 {QUESTION}
 L’aide aux pays en voie de développement
 
@@ -663,7 +663,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 41 
+B41 
 {QUESTION}
 L’immigration et les réfugiés
 
@@ -673,7 +673,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 42 
+B42 
 {QUESTION}
 Les taux d’intérêt
 
@@ -683,7 +683,7 @@ Niveau Européen
 Niveau National
 Niveau Local
 
-B 43 
+B43 
 {QUESTION}
 Indiquez à quel point vous êtes en accord ou en désaccord avec les constats suivants. Moins le gouvernement intervient, mieux c’est
 
@@ -694,7 +694,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 44 
+B44 
 {QUESTION}
 Le gouvernement devrait prendre des mesures visant à réduire les différences de revenus
 
@@ -705,7 +705,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 45 
+B45 
 {QUESTION}
 Pour protéger leurs conditions de travail ainsi que leurs salaires, les employés ont besoin de syndicats forts
 
@@ -716,7 +716,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 46 
+B46 
 {QUESTION}
 Les homosexuel(les) devraient avoir le droit de vivre leur vie privée comme ils le désirent
 
@@ -727,7 +727,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 47 
+B47 
 {QUESTION}
 La loi doit toujours être respectée quelles que soient les circonstances
 
@@ -738,7 +738,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 48 
+B48 
 {QUESTION}
 Les partis politiques qui visent à renverser la démocratie devraient être interdits
 
@@ -749,7 +749,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 49 
+B49 
 {QUESTION}
 La croissance économique finit toujours par nuire à l’environnement
 
@@ -760,7 +760,7 @@ Ni d’accord ni en désaccord
 Pas d’accord
 Pas du tout d’accord
 
-B 50 
+B50 
 {QUESTION}
 On peut avoir confiance en la science moderne pour résoudre nos problèmes écologiques
 
@@ -774,7 +774,7 @@ Pas du tout d’accord
 {INTRO}
 Et maintenant quelques questions sur vous-même et votre vie
 
-C 1
+C1
 {QUESTION}
 Globalement parlant, à quel point diriez-vous que vous êtes satisfait de votre vie?
 
@@ -791,7 +791,7 @@ Globalement parlant, à quel point diriez-vous que vous êtes satisfait de votre
 9
 10 Extrême-ment satisfait
 
-C 2
+C2
 {QUESTION}
 Combien de fois, rencontrez-vous de façon spontanée, des amis, des membres de la famille ou des collègues de travail? (en dehors du travail)
 
@@ -804,7 +804,7 @@ Une fois par semaine
 Plusieurs fois par semaine
 Tous les jours
 
-C 3
+C3
 {QUESTION}
 Avez-vous quelqu'un avec qui vous pouvez discuter d’affaires personnelles ou intimes?
 
@@ -812,7 +812,7 @@ Avez-vous quelqu'un avec qui vous pouvez discuter d’affaires personnelles ou i
 Oui
 Non
 
-C 4
+C4
 {QUESTION}
 En vous comparant à d’autres personnes de votre âge, diriez-vous que vous participez à des activités sociales.
 
@@ -823,7 +823,7 @@ Plus ou moins comme la moyenne
 Plus que la majorité
 Beaucoup plus que la majorité
 
-C 5
+C5
 {QUESTION}
 Avez-vous vous-même, ou un membre de votre foyer, été la victime d’un cambriolage ou d’une agression dans les cinq dernières années?
 
@@ -831,7 +831,7 @@ Avez-vous vous-même, ou un membre de votre foyer, été la victime d’un cambr
 Oui
 Non
 
-C 6
+C6
 {QUESTION}
 En marchant seul le soir dans votre voisinage, à quel point vous sentez-vous en sécurité ? Est-ce que vous vous sentez – ou vous vous sentiriez…
 
@@ -841,7 +841,7 @@ En sécurité
 Pas en sécurité
 Pas du tout en sécurité
 
-C 7
+C7
 {QUESTION}
 En général, comment est votre santé? Diriez-vous qu’elle est…
 
@@ -852,7 +852,7 @@ Normale
 Mauvaise
 Très mauvaise
 
-C 8
+C8
 {QUESTION}
 Etes-vous limité dans vos activités quotidiennes par une maladie de longue durée, un handicap, une infirmité, ou un problème de santé mentale?
 
@@ -861,7 +861,7 @@ Oui beaucoup
 Oui jusqu'à un certain degré
 Non
 
-C 9
+C9
 {QUESTION}
 Vous considérez-vous comme appartenant à une religion ou à une communauté religieuse définie?
 
@@ -869,7 +869,7 @@ Vous considérez-vous comme appartenant à une religion ou à une communauté re
 Oui
 Non
 
-C 10 
+C10 
 {QUESTION}
 Laquelle?
 
@@ -889,7 +889,7 @@ Juif
 Islamique/Musulman
 Autre non Chrétien 
 
-C 11
+C11
 {QUESTION}
 Vous êtes-vous déjà considéré comme appartenant à une religion ou à une communauté religieuse particulière?
 
@@ -897,7 +897,7 @@ Vous êtes-vous déjà considéré comme appartenant à une religion ou à une c
 Oui
 Non
 
-C 12 
+C12 
 {QUESTION}
 Laquelle?
 
@@ -917,7 +917,7 @@ Juif
 Islamique/Musulman
 Autre non Chrétien 
 
-C 13
+C13
 {QUESTION}
 Indépendamment de votre appartenance à une religion particulière, à quel point vous estimez-vous religieux ?
 
@@ -934,7 +934,7 @@ Indépendamment de votre appartenance à une religion particulière, à quel poi
 9
 10 Très religieux
 
-C 14
+C14
 {QUESTION}
 En dehors des occasions religieuses, telles les mariages et les enterrements, avec quelle régularité assistez-vous, actuellement, à des services religieux?
 
@@ -947,7 +947,7 @@ Seulement lors des fêtes religieuses
 Moins souvent
 Jamais
 
-C 15
+C15
 
 {QUESTION}
 En dehors des services religieux, avec quelle régularité priez-vous ?
@@ -961,7 +961,7 @@ Seulement lors des fêtes religieuses
 Moins souvent
 Jamais 
 
-C 16
+C16
 {QUESTION}
 Vous décririez-vous comme appartenant à un groupe qui souffre de discrimination, au Luxembourg?
 
@@ -969,7 +969,7 @@ Vous décririez-vous comme appartenant à un groupe qui souffre de discriminatio
 Oui
 Non
 
-C 17
+C17
 {QUESTION}
 Si oui, pour quelles raisons votre groupe souffre-t-il de discrimination ?
 
@@ -985,7 +985,7 @@ Préférence Sexuelle
 Handicap
 Autre 
 
-C 18
+C18
 {QUESTION}
 Etes-vous citoyen luxembourgeois?
 
@@ -993,13 +993,13 @@ Etes-vous citoyen luxembourgeois?
 Oui
 Non
 
-C 19
+C19
 {QUESTION}
 Quelle nationalité avez-vous?
 
 {ANSWERS}
 
-C 20
+C20
 {QUESTION}
 Etes-vous né au Luxembourg?
 
@@ -1007,11 +1007,11 @@ Etes-vous né au Luxembourg?
 Oui
 Non
 
-C 21
+C21
 {QUESTION}
 Dans quel pays êtes-vous né?
 
-C 22
+C22
 {QUESTION}
 Depuis quand êtes-vous arrivé pour la première fois au Luxembourg, pour y vivre ?
 
@@ -1022,14 +1022,14 @@ Cela fait 6 à 10 ans
 Cela fait 11 à 20 ans
 Il y a plus de 20 ans
 
-C 23
+C23
 {QUESTION}
 Quelle langue utilisez-vous le plus souvent à la maison?
 
 {ANSWERS}
 Précisez jusqu’à 2 langues
 
-C 24
+C24
 {QUESTION}
 Est-ce que vous appartenez à un groupe minoritaire au Luxembourg?
 
@@ -1037,7 +1037,7 @@ Est-ce que vous appartenez à un groupe minoritaire au Luxembourg?
 Oui
 Non
 
-C 25
+C25
 {QUESTION}
 Votre père est-il né au Luxembourg?
 
@@ -1045,7 +1045,7 @@ Votre père est-il né au Luxembourg?
 Oui
 Non
 
-C 26
+C26
 {QUESTION}
 De quel continent votre père provient-il?
 
@@ -1057,7 +1057,7 @@ Amérique du Nord
 Amérique du Sud et Caraïbes
 Australasie (Australie et Nouvelle Zélande) 
 
-C 27
+C27
 {QUESTION}
 Votre mère est-elle née au Luxembourg?
 
@@ -1065,7 +1065,7 @@ Votre mère est-elle née au Luxembourg?
 Oui
 Non
 
-C 28
+C28
 {QUESTION}
 De quel continent votre mère provient-elle ?
 
@@ -1080,7 +1080,7 @@ Australasie (Australie et Nouvelle Zélande)
 {INTRO}
 Les questions suivantes concernent vous-même et d'autres membres de votre ménage.
 
-F 1
+F1
 {QUESTION}
 Y compris vous-même – et vos enfants – combien de personnes vivent ici de façon régulière comme membres de votre ménage?
 
@@ -1111,7 +1111,7 @@ Parent, beau-parent, parent du partenaire, parent d'adoption
 Autre relation familiale
 autre relation non familiale
 
-F 5
+F5
 {QUESTION}
 Quelle phrase, sur cette carte, décrit le mieux le quartier dans lequel vous vivez?
 
@@ -1122,7 +1122,7 @@ Une autre ville
 Un village 
 Une ferme ou une résidence dans la campagne 
 
-F 6
+F6
 {QUESTION}
 Quel est le niveau éducatif le plus élevé que vous avez obtenu?
 
@@ -1148,13 +1148,13 @@ Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctora
 Enseignement supérieur - Doctorat
 Autre: 
 
-F 7
+F7
 {QUESTION}
 Combien d'années d'éducation à plein-temps avez-vous suivies?
 
 {ANSWERS}
 
-F 8a
+F8a
 {QUESTION}
 Laquelle des descriptions suivantes correspond à ce que vous avez fait dans les 7 derniers jours ? (plusieurs réponses possibles)
 
@@ -1184,7 +1184,7 @@ Dans un service collectif ou militaire
 Faisant du travail ménager, s’occupant des enfants ou autres personnes
 Autre
 
-F 9
+F9
 {QUESTION}
 Avez-vous exercé un quelconque travail rémunéré (d’une heure ou plus) pendant les 7 derniers jours ?
 
@@ -1192,7 +1192,7 @@ Avez-vous exercé un quelconque travail rémunéré (d’une heure ou plus) pend
 Oui
 Non
 
-F 10
+F10
 {QUESTION}
 Avez-vous déjà exercé un travail rémunéré?
 
@@ -1200,13 +1200,13 @@ Avez-vous déjà exercé un travail rémunéré?
 Oui
 Non
 
-F 11
+F11
 {QUESTION}
 En quelle année avez-vous effectué votre dernier travail rémunéré ?
 
 {ANSWERS}
 
-F 12
+F12
 {QUESTION}
 Dans votre emploi principal êtes-vous ….
 
@@ -1215,13 +1215,13 @@ Salarié
 Indépendant
 Actif pour votre entreprise familiale
 
-F 13
+F13
 {QUESTION}
 Combien de salariés (si vous en avez) avez-vous ?
 
 {ANSWERS}
 
-F 14
+F14
 {QUESTION}
 Avez-vous un contrat de travail à durée…
 
@@ -1229,7 +1229,7 @@ Avez-vous un contrat de travail à durée…
 Indéterminée
 Déterminée
 
-F 15
+F15
 {QUESTION}
 Y compris vous-même, environ combien de personnes sont employées là où vous travaillez travaillé ?
 
@@ -1240,7 +1240,7 @@ Moins de 10
 100 à 499
 ou 500 et plus
 
-F 16
+F16
 {QUESTION}
 Dans votre travail principal, avez-vous des responsabilités de supervision du travail d’autres employés ?
 
@@ -1248,13 +1248,13 @@ Dans votre travail principal, avez-vous des responsabilités de supervision du t
 Oui
 Non
 
-F 17
+F17
 {QUESTION}
 De combien de personnes êtes-vous responsable ?
 
 {ANSWERS}
 
-F 18
+F18
 {QUESTION}
 Jusqu’à quel point êtes-vous libre d’organiser votre propre travail ?
 
@@ -1264,43 +1264,43 @@ Jusqu'à un certain point
 Très peu
 Pas du tout
 
-F 19
+F19
 {QUESTION}
 Combien d’heures comprend votre contrat de travail par semaine, heures supplémentaires payées ou non payées non comprises ?
 
 {ANSWERS}
 
-F 20
+F20
 {QUESTION}
 Hormis les heures de travail officielles (stipulées dans le contrat), combien d’heures travaillez-vous normalement par semaine (dans votre travail principal), y compris toutes heures supplémentaires payées ou non-payées ?
 
 {ANSWERS}
 
-F 21
+F21
 {QUESTION}
 Quel est le nom ou le titre de votre emploi principal ?
 
 {ANSWERS}
 
-F 22
+F22
 {QUESTION}
 Dans votre emploi principal, quel type de travail faites-vous la plupart du temps?
 
 {ANSWERS}
 
-F 23
+F23
 {QUESTION}
 Quelle formation ou qualifications sont requises pour ce travail?
 
 {ANSWERS}
 
-F 24
+F24
 {QUESTION}
 Que fait ou fabrique l’entreprise/ l’organisation pour laquelle vous travaillez principalement ?
 
 {ANSWERS}
 
-F 25
+F25
 {QUESTION}
 Avez-vous déjà été au chômage et/ou à la recherche d’un emploi pour une période de plus de trois mois?
 
@@ -1308,7 +1308,7 @@ Avez-vous déjà été au chômage et/ou à la recherche d’un emploi pour une 
 Oui
 Non
 
-F 26
+F26
 {QUESTION}
 Une de ces périodes a-t-elle dépassé les 12 mois?
 
@@ -1316,7 +1316,7 @@ Une de ces périodes a-t-elle dépassé les 12 mois?
 Oui
 Non
 
-F 27
+F27
 {QUESTION}
 Une de ces périodes a-t-elle eu lieu au cours des cinq dernières années?
 
@@ -1324,7 +1324,7 @@ Une de ces périodes a-t-elle eu lieu au cours des cinq dernières années?
 Oui
 Non
 
-F 28
+F28
 {QUESTION}
 Etes-vous ou avez-vous déjà été membre d’un syndicat ou d’une organisation comparable?
 
@@ -1333,7 +1333,7 @@ Oui, en ce moment
 Oui, auparavant
 Non
 
-F 29
+F29
 {QUESTION}
 Quelle est la source principale de revenu de votre ménage?
 
@@ -1346,7 +1346,7 @@ Autres allocations sociales ou bourses
 Revenus provenant des investissements, de l’épargne, d’une assurance ou de la propriété immobilière
 Revenus d’autres sources
 
-F 30a 
+F30a 
 {QUESTION}
 En faisant la somme de tous les revenus de votre ménage, utilisez cette carte pour indiquer la lettre qui décrit le revenu net total de votre foyer. Si vous ne connaissez pas le chiffre exact veuillez donner un chiffre arrondi. Utilisez la partie de la carte (mensuel ou annuel) que vous connaissez le mieux.
 
@@ -1368,7 +1368,7 @@ U entre 7500 € et 9999
 N 10000 € et plus
 
 
-F 30b 
+F30b 
 {QUESTION}
 En faisant la somme de tous les revenus de votre ménage, utilisez cette carte pour indiquer la lettre qui décrit le revenu net total de votre foyer. Si vous ne connaissez pas le chiffre exact veuillez donner un chiffre arrondi. Utilisez la partie de la carte (mensuel ou annuel) que vous connaissez le mieux.
 
@@ -1388,7 +1388,7 @@ H Entre 60000 € et 89999 €
 U entre 90000 € et 119999 €
 N 120000 € et plus
 
-F 31
+F31
 {QUESTION}
 Quelle description s’approche le plus de l’opinion que vous avez du revenu actuel de votre ménage ?
 
@@ -1398,7 +1398,7 @@ On s’en sort avec le revenu actuel
 On trouve la vie difficile avec le revenu actuel
 On trouve la vie très difficile avec le revenu actuel
 
-F 32
+F32
 {QUESTION}
 Si vous aviez de sérieux problèmes financiers et si vous étiez obligé d’emprunter de l’argent pour pouvoir vous en sortir, à quel point ceci vous serait-il facile ou difficile ?
 
@@ -1409,7 +1409,7 @@ Ni difficile ni facile
 Assez facile
 Très facile
 
-F 33
+F33
 {QUESTION}
 La personne interrogée habite avec mari
 
@@ -1417,7 +1417,7 @@ La personne interrogée habite avec mari
 La personne interrogée habite avec mari
 Ne s’applique pas 
 
-F 34
+F34
 {QUESTION}
 Quel est le niveau d’éducation le plus élevé atteint par votre mari?
 
@@ -1442,7 +1442,7 @@ Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctora
 Enseignement supérieur - Doctorat
 Autre
 
-F 35a
+F35a
 {QUESTION}
 Laquelle des descriptions suivantes s’applique à ce qu’il faisait pendant les 7 derniers jours ? (plusieurs réponses possibles)
 
@@ -1457,7 +1457,7 @@ Dans un service collectif ou militaire
 Faisant du travail ménager, s’occupant des enfants ou autres personnes
 Autre
 
-F 35b
+F35b
 {QUESTION}
 Et laquelle des descriptions citées en F35a décrit le mieux sa situation dans les 7 derniers jours? (une seule réponse possible)
 
@@ -1472,7 +1472,7 @@ Dans un service collectif ou militaire
 Faisant du travail ménager, s’occupant des enfants ou autres personnes
 Autre
 
-F 36
+F36
 {QUESTION}
 A-t-il exercé un travail rémunéré (d’une heure ou plus) pendant les sept derniers jours?
 
@@ -1480,25 +1480,25 @@ A-t-il exercé un travail rémunéré (d’une heure ou plus) pendant les sept d
 Oui
 Non
 
-F 37
+F37
 {QUESTION}
 Quel est le nom ou titre de son travail principal?
 
 {ANSWERS}
 
-F 38
+F38
 {QUESTION}
 Dans son travail principal, quel type d’activité exerce-t-il la plupart du temps?
 
 {ANSWERS}
 
-F 39
+F39
 {QUESTION}
 Quelle formation ou qualification est requise pour ce travail?
 
 {ANSWERS}
 
-F 40
+F40
 {QUESTION}
 Dans son emploi principal est-il….
 
@@ -1506,13 +1506,13 @@ Dans son emploi principal est-il….
 Salarié
 Actif pour votre entreprise familiale 
 
-F 41
+F41
 {QUESTION}
 Combien d’employés (si il en a) a-t-il?
 
 {ANSWERS}
 
-F 42
+F42
 {QUESTION}
 Dans son travail principal a-t-il des responsabilités de supervision du travail des autres employés ?
 
@@ -1520,19 +1520,19 @@ Dans son travail principal a-t-il des responsabilités de supervision du travail
 Oui
 Non
 
-F 43 
+F43 
 {QUESTION}
 De combien de personnes est-t-il responsable ?
 
 {ANSWERS}
 
-F 44
+F44
 {QUESTION}
 Combien d’heures travaille-t-il normalement par semaine (dans son travail principal), y compris des heures supplémentaires payées ou non payées?
 
 {ANSWERS}
 
-F 45
+F45
 {QUESTION}
 Quel est le niveau d’éducation le plus élevé atteint par votre père?
 
@@ -1558,7 +1558,7 @@ Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctora
 Enseignement supérieur - Doctorat
 Autre
 
-F 46
+F46
 {QUESTION}
 Quand vous aviez 14 ans, votre père travaillait-il comme:
 
@@ -1568,7 +1568,7 @@ Indépendant
 Il ne travaillait pas
 Père mort/absent quand l’interlocuteur avait 14 ans
 
-F 47
+F47
 {QUESTION}
 Combien de salariés avait-il?
 
@@ -1577,7 +1577,7 @@ Aucun
 1 à 24
 25 ou plus
 
-F 48
+F48
 {QUESTION}
 Avait-il une responsabilité de supervision du travail des autres employés?
 
@@ -1585,13 +1585,13 @@ Avait-il une responsabilité de supervision du travail des autres employés?
 Oui
 Non
 
-F 49
+F49
 {QUESTION}
 Quel était le nom ou titre de son travail principal?
 
 {ANSWERS}
 
-F 50
+F50
 {QUESTION}
 Laquelle des descriptions sur cette carte correspond le mieux au travail qu’il faisait quand vous aviez 14 ans?
 
@@ -1605,7 +1605,7 @@ Professions manuelles et de services semi-qualifiés comme: employé de la poste
 Professions manuelles et de services non-qualifiés Comme: camionneur – conducteur de fourgonnette/camionnette – porteur – emballeur - messager – ouvrier – serveur – employé de bar
 Cadres inférieurs et moyens Comme: cadre de bureau - manager de commerce – manager de banque – manager de dépôt – patron de bar
 
-F 51
+F51
 {QUESTION}
 Quel est le niveau d’éducation le plus élevé atteint par votre mère?
 
@@ -1631,7 +1631,7 @@ Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctora
 Enseignement supérieur - Doctorat
 Autre
 
-F 52
+F52
 {QUESTION}
 Quand vous aviez 14 ans, votre mère travaillait-elle comme:
 
@@ -1641,7 +1641,7 @@ Indépendante
 Elle ne travaillait pas
 Mère morte/absente quand l’interlocuteur avait 14 ans
 
-F 53
+F53
 {QUESTION}
 Combien d’employés avait-elle?
 
@@ -1650,7 +1650,7 @@ Aucun
 1 à 24
 25 ou plus
 
-F 54
+F54
 {QUESTION}
 Avait-elle une responsabilité pour superviser le travail d’autres employés?
 
@@ -1658,13 +1658,13 @@ Avait-elle une responsabilité pour superviser le travail d’autres employés?
 Oui
 Non
 
-F 55
+F55
 {QUESTION}
 Quel était le nom ou titre de son travail principal?
 
 {ANSWERS}
 
-F 56
+F56
 {QUESTION}
 Laquelle des descriptions sur cette carte correspond le mieux au travail qu’elle faisait quand vous aviez 14 ans?
 
@@ -1678,7 +1678,7 @@ Professions manuelles et de services semi-qualifiés comme: employé de la poste
 Professions manuelles et de services non-qualifiés Comme: camionneur – conducteur de fourgonnette/camionnette – porteur – emballeur - messager – ouvrier – serveur – employé de bar
 Cadres inférieurs et moyens Comme: cadre de bureau - manager de commerce – manager de banque – manager de dépôt – patron de bar 
 
-F 57
+F57
 {QUESTION}
 Pendant les douze derniers mois, avez-vous suivi des cours ou des conférences afin d’améliorer vos connaissances ou votre savoir-faire pour votre travail?
 
@@ -1686,7 +1686,7 @@ Pendant les douze derniers mois, avez-vous suivi des cours ou des conférences a
 Oui
 Non
 
-F 58
+F58
 {QUESTION}
 Concernant votre état civil actuel, laquelle des descriptions sur cette carte s’applique à vous ?
 
@@ -1697,7 +1697,7 @@ Divorcé
 Veuf
 Jamais marié
 
-F 59
+F59
 {QUESTION}
 En ce moment vivez-vous avec votre mari?
 
@@ -1705,7 +1705,7 @@ En ce moment vivez-vous avec votre mari?
 Oui
 Non
 
-F 60
+F60
 {QUESTION}
 Vivez-vous actuellement avec un autre partenaire?
 
@@ -1713,7 +1713,7 @@ Vivez-vous actuellement avec un autre partenaire?
 Oui
 Non
 
-F 61
+F61
 {QUESTION}
 Vivez-vous actuellement avec un partenaire?
 
@@ -1721,7 +1721,7 @@ Vivez-vous actuellement avec un partenaire?
 Oui
 Non
 
-F 62
+F62
 {QUESTION}
 Avez-vous déjà vécu avec un partenaire sans être marié
 
@@ -1729,7 +1729,7 @@ Avez-vous déjà vécu avec un partenaire sans être marié
 Oui
 Non
 
-F 63
+F63
 {QUESTION}
 Avez-vous déjà divorcé?
 
@@ -1738,7 +1738,7 @@ Oui
 Non
 
 
-F 64
+F64
 {QUESTION}
 L’interlocuteur a des enfants vivant actuellement à la maison 
 
@@ -1746,7 +1746,7 @@ L’interlocuteur a des enfants vivant actuellement à la maison
 L’interlocuteur a des enfants vivant actuellement à la maison 
 Ne s’applique pas (pas d’enfants vivant actuellement à la maison) 
 
-F 65
+F65
 {QUESTION}
 Avez-vous eu des enfants vivant dans votre ménage, y compris les vôtres, ceux de votre partenaire, les beaux-enfants et les enfants adoptifs ?
 
