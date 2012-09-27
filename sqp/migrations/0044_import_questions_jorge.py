@@ -2,6 +2,8 @@
 import os
 import datetime
 import re
+import codecs 
+
 from south.db import db
 from south.v2 import DataMigration
 from django.db import models
@@ -11,26 +13,48 @@ from sqp import models as sqp_models
 class Migration(DataMigration):
 
     def forwards(self, orm):
+
+        try:
+            sql = 'ALTER TABLE sqp_item DROP INDEX unique_name;'
+            db.execute_many(sql)
+            print "unique_name index dropped"
+        except:
+            print "unique_name index not dropped (most likely already deleted)"
+
         
+
+        log_text = ''
+
         Q_BASE_DIR  = settings.PROJECT_DIR + '/data/questions_jorge/'
         files = []
         r,d,files = os.walk(Q_BASE_DIR).next()
 
-        item_regex = re.compile(r'[A-Z]{1}[0-9]{1,4}([A-Za-z]{1,2})?')
-        text_area_regex = re.compile(r'\{[A-Z]+\}')
+        #looking for crazy russian A and B chars
+        item_regex = re.compile(ur'[A-ZАВ]{1}[0-9]{1,4}([A-Za-z]{1,2})?\.?')
+        text_area_regex = re.compile(ur'\{[A-Z]+\}')
+        q_regex = re.compile(ur'Q{1}[0-9]{1,4}')
 
         for file_name in files:
-
+            file_log_text = []
             CREATED_ITEMS = 0
             CREATED_QUESTIONS = 0
             EDITED_QUESTIONS = 0
+            NOT_EDITED = 0
+            SKIPPED_AREAS = 0
+            IMPORTED_LINES = 0
+            SKIPPED_LINES = []
 
-            file = open(Q_BASE_DIR + file_name)
+            #utf-8-sig to get rid of the utf-8 BOM /ufeff
+            #http://stackoverflow.com/questions/9228202/tokenizing-unicode-using-nltk
+            file = codecs.open(Q_BASE_DIR + file_name, "r", "utf-8-sig")
 
             if not '.txt' in file_name:
                 continue
 
-            print "NOW CHECKING file %s" % file.name
+            if not 'IL_rus' in file_name:
+                continue
+
+            #print "NOW CHECKING file %s" % file.name
 
             round_name, country_iso, language_iso = file_name.replace('.txt', '').split('_')
 
@@ -44,28 +68,52 @@ class Migration(DataMigration):
             text_areas = ['INTRO', 
                           'QUESTION', 
                           'ANSWERS']
-
+            line_number = 0
             for line in file:
+                line_number += 1
+                #Get rid of any Q13 Q12 crap
+                if q_regex.match(line):
+                    line = re.sub(q_regex, '', line).strip()
+                    key = None
                 if item_regex.match(line):
-                    key = line.strip()
+                    key = item_regex.match(line).group(0)
+                    #crazy russians
+                    key = key.replace(u'\u0410', 'A')
+                    key = key.replace(u'\u0412', 'B')
                     questions[key] = {'INTRO'   : '',
                                       'QUESTION' : '',
-                                      'ANSWERS'  : ''}
+                                      'ANSWERS'  : ''
+                                      }
 
                     current_text_area = 'QUESTION'
                     continue
                 elif text_area_regex.match(line):
-                    current_text_area = line.strip().replace('{', '').replace('}', '')
+                    match = text_area_regex.match(line).group(0)
+                    current_text_area = match.replace('{', '').replace('}', '')
+                    
+                    if current_text_area == 'ANSWERS 1':
+                        current_text_area ='ANSWERS'
+                    elif current_text_area == 'ANSWERS 2':
+                        SKIPPED_AREAS += 1
+                        continue                    
+
                     if current_text_area not in text_areas:
-                        raise Exception('Bad text area ""' % current_text_area)
+                        raise Exception('Unrecognized text area "%s"' % current_text_area)
                     continue
+
                 if key:
                     questions[key][current_text_area] += line
+                    IMPORTED_LINES += 1
+                elif line.strip() != '':
+                    SKIPPED_LINES.append({'line_number' : line_number,
+                                          'content': line})
 
+            n = 0
             for key in questions:
-
-                print "NOW SAVING question %s" % key
-
+                n +=1
+                #if n > 10:break
+                #print "NOW SAVING question %s" % key
+                print "'%s' '%s'" % (key, study)
                 item, i_was_created = sqp_models.Item.objects.get_or_create(admin=key, study=study)
                 if i_was_created:
                     CREATED_ITEMS += 1
@@ -75,7 +123,9 @@ class Migration(DataMigration):
                 if q_was_created:
                     CREATED_QUESTIONS += 1
 
-                if not (question.rfa_text or question.introduction_text or question.answer_text):
+                if question.rfa_text or question.introduction_text or question.answer_text:
+                    NOT_EDITED += 1
+                else:
                     question.introduction_text = questions[key]['INTRO'].strip()
                     question.rfa_text = questions[key]['QUESTION'].strip()
                     question.answer_text = questions[key]['ANSWERS'].strip()
@@ -84,11 +134,23 @@ class Migration(DataMigration):
                     EDITED_QUESTIONS += 1
 
 
-            print '%s %s %s created items: %s created questions %s edited questions %s' % \
-                     (country_iso, language_iso, round_name, CREATED_ITEMS, CREATED_QUESTIONS, EDITED_QUESTIONS)
+            file_log_text.append('%s %s %s new items:%s, created qs:%s, edited qs:%s, not edited qs:%s, skipped keys:%s' % \
+                     (country_iso, language_iso, round_name, 
+                      CREATED_ITEMS, CREATED_QUESTIONS, EDITED_QUESTIONS, NOT_EDITED, SKIPPED_AREAS))
+            file_log_text.append('LINES SKIPPED %s / IMPORTED %s' % (len(SKIPPED_LINES), IMPORTED_LINES))
+            if SKIPPED_LINES:
+                file_log_text.append('SKIPPED_LINES')
+                for l in SKIPPED_LINES:
+                    file_log_text.append('     %s: %s' % (l['line_number'], l['content'].replace('\n', '')))
+            
+            print '\n'.join(file_log_text)
+            print
+            log_text += '\n'.join(file_log_text) + '\n\n\n'
 
-        
-
+        log_file = codecs.open('/tmp/jorge_import.log', 'w', "utf-8-sig")
+        log_file.write(log_text)
+        log_file.close()
+        print "LOG STORED AT '/tmp/jorge_import.log'"
 
 
     def backwards(self, orm):
