@@ -12,7 +12,7 @@ Da due ore a due ore e mezza
 Da due ore e mezza a tre ore
 Più di tre ore
 
-Q13 A 2 
+Q13 A2 
 {QUESTION}
 E per ciò che riguarda il tempo dedicato ai notiziari o ai programmi a sfondo politico e di attualità? Utilizzi ancora 
 la scheda.
@@ -27,7 +27,7 @@ Da due ore a due ore e mezza
 Da due ore e mezza a tre ore
 Più di tre ore
 
-Q13 A 3 
+Q13 A3 
 {QUESTION}
 Quanto tempo trascorre, mediamente, ad ascoltare la radio in un normale giorno lavorativo della settimana? Utilizzi, per cortesia, la stessa scheda.
 
@@ -41,7 +41,7 @@ Da due ore a due ore e mezza
 Da due ore e mezza a tre ore
 Più di tre ore
 
-Q13 A 4 
+Q13 A4 
 {QUESTION}
 E per ciò che riguarda il tempo dedicato ai notiziari o ai programmi a sfondo politico e di attualità? Continui con questa scheda.
 
@@ -55,7 +55,7 @@ Da due ore a due ore e mezza
 Da due ore e mezza a tre ore
 Più di tre ore
 
-Q13 A 5 
+Q13 A5 
 {QUESTION}
 Quanto tempo dedica, in media, in un normale giorno lavorativo della settimana, alla lettura dei giornali? Continui a utilizzare la scheda.
 
@@ -69,7 +69,7 @@ Da due ore a due ore e mezza
 Da due ore e mezza a tre ore
 Più di tre ore
 
-Q13 A 6 
+Q13 A6 
 {QUESTION}
 E per ciò che riguarda la lettura di articoli politici e di attualità? Utilizzi sempre la scheda.
 
