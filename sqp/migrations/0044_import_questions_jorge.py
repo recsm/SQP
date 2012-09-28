@@ -29,7 +29,7 @@ class Migration(DataMigration):
         files = []
         r,d,files = os.walk(Q_BASE_DIR).next()
 
-        #looking for crazy russian A and B chars
+        #looking for russian A and B chars
         item_regex = re.compile(ur'[A-ZАВ]{1}[0-9]{1,4}([A-Za-z]{1,2})?\.?')
         text_area_regex = re.compile(ur'\{[A-Z]+\}')
         q_regex = re.compile(ur'Q{1}[0-9]{1,4}')
@@ -77,7 +77,7 @@ class Migration(DataMigration):
                     key = None
                 if item_regex.match(line):
                     key = item_regex.match(line).group(0)
-                    #crazy russians
+                    #russian chars
                     key = key.replace(u'\u0410', 'A')
                     key = key.replace(u'\u0412', 'B')
                     questions[key] = {'INTRO'   : '',
@@ -113,7 +113,6 @@ class Migration(DataMigration):
                 n +=1
                 #if n > 10:break
                 #print "NOW SAVING question %s" % key
-                print "'%s' '%s'" % (key, study)
                 item, i_was_created = sqp_models.Item.objects.get_or_create(admin=key, study=study)
                 if i_was_created:
                     CREATED_ITEMS += 1
