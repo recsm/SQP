@@ -1,0 +1,1801 @@
+﻿A1
+{QUESTION}
+In genere, per quanto tempo al giorno guarda la televisione? Per favore, usi questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A2
+{QUESTION}
+E in genere, per quanto tempo al giorno guarda telegiornali o programmi di politica e attualità alla televisione? Usare ancora questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A3
+{QUESTION}
+In genere, per quanto tempo al giorno ascolta la radio? Usare ancora questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A4
+{QUESTION}
+E in genere, per quanto tempo al giorno ascolta notizie o programmi di politica e attualità alla radio? Usare ancora questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A5
+{QUESTION}
+In genere, per quanto tempo al giorno legge i giornali? Usare ancora questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A6
+{QUESTION}
+E in genere, quanto tempo al giorno dedica alla lettura di articoli di politica e attualità? Usare ancora questo cartellino.
+
+{ANSWERS}
+Mai
+Meno di ½ ora
+½ ora -1 ora
+Più di 1 ora - 1 ora e ½
+Più di 1ora e ½ - 2 ore
+Più di 2 ore - 2 ore e ½
+Più di 2 ore e ½- 3 ore
+Più di 3 ore
+
+A7 
+{QUESTION}
+Usando questo cartellino, mi può dire con quale frequenza usa internet, la posta elettronica o il World Wide Web - sia a casa sia a lavoro - per ragioni personali?
+
+{ANSWERS}
+Non ho internet a casa o al lavoro
+Mai 
+Meno di una volta al mese 
+Una volta al mese 
+Più volte al mese 
+Una volta alla settimana 
+Più volte alla settimana 
+Tutti i giorni 
+
+A8 
+{QUESTION}
+In generale, Lei ritiene che si possa avere fiducia nella maggior parte delle persone, o che non si è mai abbastanza diffidenti con gli estranei? Usando questo cartellino me lo indichi per favore, su una scala da 0 a 10, dove 0 rappresenta la necessità di essere diffidenti e 10 rappresenta la possibilità di fidarsi.
+
+{ANSWERS}
+00 E’ meglio essere diffidenti
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Ci si può fidare
+
+A9
+{QUESTION}
+Pensa che la maggior parte delle persone tenterebbe di approfittare di Lei se ne avesse l'opportunità, o cercherebbe di agire correttamente? Usare il cartellino
+
+{ANSWERS}
+00 La maggior parte delle persone tenterebbe di approfittarne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La maggior parte delle persone agirebbe correttamente
+
+A10 
+{QUESTION}
+Ritiene che la maggior parte delle persone di solito cerca di rendersi utile o cura, soprattutto, il proprio interesse? Usi questo cartellino.
+
+{ANSWERS}
+00 Le persone per lo più curano il proprio interesse 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Le persone per lo più cercano di rendersi 
+
+{INTRO}
+Ora Le rivolgeremo alcune domande sulla politica ed il governo.
+
+B1 
+{QUESTION}
+In che misura Lei direbbe di essere interessato alla politica? – Lei è… 
+
+{ANSWERS}
+Molto interessato
+Abbastanza interessato
+Poco interessato
+O per nulla interessato?
+
+B2
+{QUESTION}
+Quanto spesso le questioni che riguardano la politica e il governo le sembrano così complicate da non riuscire proprio a capire quello che sta succedendo? Per favore usi questo cartellino.
+
+{ANSWERS}
+Mai 
+Raramente 
+Ogni tanto 
+Regolarmente 
+Molto frequentemente 
+
+B3 
+{QUESTION}
+Lei si considera una persona che potrebbe avere un ruolo attivo in un’organizzazione che tenta di influenzare le decisioni e le attività politiche? Per favore usi questo cartellino.
+
+{ANSWERS}
+Senz’altro no 
+Probabilmente no 
+Forse in qualche modo 
+Probabilmente sì 
+Senz’altro sì 
+
+B4
+{QUESTION}
+Quanto ritiene che sarebbe difficile o facile per lei esprimere il proprio giudizio su complesse questioni politiche? Per favore usi questo cartellino.
+
+{ANSWERS}
+Molto difficile 
+Difficile 
+Né difficile né facile 
+Facile 
+Molto facile 
+
+B5
+{QUESTION}
+Usando questo cartellino mi dica per favore se pensa che i politici, in generale, sono interessati alle opinioni della gente.
+
+{ANSWERS}
+Difficilmente i politici sono interessati alle opinioni della gente 
+Pochi se ne interessano 
+Qualcuno se ne interessa 
+Molti se ne interessano 
+La maggior parte dei politici è interessata alle opinioni della gente 
+
+B6
+{QUESTION}
+Lei ritiene che i politici siano interessati solo a ottenere i voti dalle persone piuttosto che alle loro opinioni? Usi questo cartellino.
+
+{ANSWERS}
+Quasi tutti i politici sono interessati solo a ottenere voti 
+La maggior parte dei politici sono interessati solo a ottenere voti 
+Alcuni politici sono interessati solo a ottenere voti, altri non lo sono 
+La maggior parte dei politici sono interessati alle opinioni delle persone 
+Quasi tutti i politici sono interessati alle opinioni delle persone 
+
+
+B7
+{QUESTION}
+Utilizzando questo cartellino, mi dica per favore, su una scala da 0 a 10, qual è il grado di fiducia che Lei personalmente ripone nelle seguenti istituzioni (0 corrisponde ad un’assoluta mancanza di fiducia, 10 ad una forte fiducia). Il Parlamento nazionale
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B8
+{QUESTION}
+La Magistratura
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B9
+{QUESTION}
+La polizia 
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B10 
+{QUESTION}
+I politici 
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B11 
+{QUESTION}
+Il Parlamento Europeo
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B12
+{QUESTION}
+Le Nazioni Unite
+
+{ANSWERS}
+00 Nessuna Fiducia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completa fiducia
+
+B13 
+{INTRO}
+Negli ultimi anni molte persone, per una ragione o per l'altra, non hanno votato o non votano. 
+
+{QUESTION}
+Lei in occasione delle ultime elezioni politiche nazionali (nel maggio 2001) ha votato?
+
+{ANSWERS}
+Si 
+No 
+Non avente diritto di voto 
+
+B14 
+{QUESTION}
+Per quale partito ha votato in quelle elezioni?
+
+{ANSWERS}
+Democratici di sinistra 
+La Margherita 
+Comunisti Italiani 
+Verdi e SDI (Girasole) 
+SVP (Sudtirol Volkspartei – Partito Popolare Sudtirolese) 
+Rifondazione Comunista 
+Forza Italia 
+Alleanza Nazionale 
+CCD-CDU 
+Lega Nord 
+Nuovo PSI 
+Lista di Pietro 
+Democrazia Europea 
+Pannella-Bonino 
+Fiamma Tricolore 
+Altro 
+Ha votato solo al maggioritario 70
+
+{INTRO}
+Ci possono essere diversi modi per tentare di migliorare le cose in Italia o per impedire che peggiorino. 
+
+B15 
+{QUESTION}
+Nel corso degli ultimi 12 mesi ha svolto qualcuna delle seguenti attività? Contattato un uomo politico, un governante o un
+funzionario pubblico.
+
+{ANSWERS}
+Si
+No
+
+B16 
+{QUESTION}
+Lavorato in un partito politico o in un gruppo di pressione. 1 2 8
+
+{ANSWERS}
+Si
+No
+
+B17 
+{QUESTION}
+Lavorato per un’altra organizzazione o associazione.
+
+{ANSWERS}
+Si
+No
+
+B18 
+{QUESTION}
+Messo in mostra (anche indossato) il simbolo di un’associazione o di una campagna a favore di qualcosa.
+
+{ANSWERS}
+Si
+No
+
+B19 
+{QUESTION}
+Firmato una petizione.
+
+{ANSWERS}
+Si
+No
+
+B20 
+{QUESTION}
+Partecipato ad una manifestazione pubblica autorizzata.
+
+{ANSWERS}
+Si
+No
+
+B21 
+{QUESTION}
+Boicottato dei prodotti. 
+
+{ANSWERS}
+Si
+No
+
+B22 
+{QUESTION}
+Promosso deliberatamente certi prodotti per ragioni politiche, etiche o ambientali.
+
+{ANSWERS}
+Si
+No
+
+B23 
+{QUESTION}
+Dato del denaro ad un’organizzazione politica o gruppo politico.
+
+{ANSWERS}
+Si
+No
+
+B24 
+{QUESTION}
+Partecipato ad attività di protesta non autorizzata.
+
+{ANSWERS}
+Si
+No
+
+B25a 
+{QUESTION}
+Tra i partiti politici presenti oggi in Italia ce n’è uno in particolare al quale si sente più vicino?
+
+{ANSWERS}
+Si
+No
+
+B25b 
+{QUESTION}
+Se sì. può indicare il partito al quale si sente più vicino?
+
+{ANSWERS}
+Democratici di sinistra 
+La Margherita 
+Comunisti Italiani 
+Verdi 
+SDI 
+SVP 
+Rifondazione Comunista 
+Forza Italia 
+Alleanza Nazionale 
+CCD-CDU 
+Lega Nord 
+Nuovo PSI 
+Lista di Pietro 
+Democrazia Europea 
+Pannella-Bonino 
+Fiamma Tricolore 
+Altro 
+
+B25c 
+{QUESTION}
+In quale misura si sente vicino a questo partito ? Pensa di essere…
+
+{ANSWERS}
+Molto vicino 
+Piuttosto vicino 
+Non vicino 
+Niente affatto vicino 
+
+
+B26 
+{QUESTION}
+Lei è iscritto ad un partito politico?
+
+{ANSWERS}
+Si
+No 
+
+B27 
+{QUESTION}
+Se sì, qual è il partito?
+
+{ANSWERS}
+Democratici di sinistra 
+La Margherita 
+Comunisti Italiani 
+Verdi 
+SDI 
+SVP 
+Rifondazione Comunista 
+Forza Italia 
+Alleanza Nazionale 
+CCD-CDU 
+Lega Nord 
+Nuovo PSI 
+Lista di Pietro 
+Democrazia Europea 
+Pannella-Bonino 
+Fiamma Tricolore 
+Altro
+
+B28 
+{INTRO}
+In politica si parla di destra e di sinistra.
+
+{QUESTION}
+Usando questo cartellino, lei dove si collocherebbe in una scala da 0 a 10, dove 0 rappresenta la sinistra e 10 rappresenta la destra?
+
+{ANSWERS}
+00 Sinistra 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Destra 
+
+B29 
+{QUESTION}
+Complessivamente, quanto è soddisfatto della sua vita attuale? Per favore risponda usando questo cartellino, dove 0 indica assolutamente insoddisfatto e 10 assolutamente soddisfatto.
+
+{ANSWERS}
+00 Assolutamente Insoddisfatto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente soddisfatto 
+
+B30 
+{QUESTION}
+Qual è la Sua opinione sullo stato attuale dell'economia in Italia? Lo definirebbe…? Usi ancora questo cartellino.
+
+{ANSWERS}
+00 Assolutamente Insoddisfatto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente soddisfatto 
+
+B31 
+{QUESTION}
+Può dirmi in quale misura Lei si ritiene soddisfatto del modo in cui il governo sta svolgendo il suo lavoro? Si definirebbe… 
+
+{ANSWERS}
+00 Assolutamente Insoddisfatto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente soddisfatto 
+
+B32 
+{QUESTION}
+Nel complesso, in quale misura Lei si ritiene soddisfatto del funzionamento della democrazia in Italia? Usi ancora questo cartellino.
+
+{ANSWERS}
+00 Assolutamente Insoddisfatto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente soddisfatto 
+
+B33 
+{QUESTION}
+Ora, usando questo cartellino, mi dica per favore cosa pensa dello stato del sistema educativo oggi in Italia.
+
+{ANSWERS}
+00 Assolutamente cattivo
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente buono 
+
+B34
+{QUESTION}
+Usando ancora questo cartellino, mi dica per favore cosa ne pensa dello stato del sistema sanitario oggi in Italia?
+
+{ANSWERS}
+00 Assolutamente cattivo
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Assolutamente buono 
+
+{INTRO}
+Le questioni politiche possono essere decise a diversi livelli di competenza (internazionale, europeo, nazionale, regionale o locale). 
+
+B35
+{QUESTION}
+Mi dica a quale livello ritiene che debbano essere decise prevalentemente le seguenti questioni. Usi questo cartellino. Politiche contro la disoccupazione 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B36 
+{QUESTION}
+Lotta al crimine organizzato 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B37 
+{QUESTION}
+Politiche agricole 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B38 
+{QUESTION}
+Politiche militari e di difesa 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B39 
+{QUESTION}
+Politiche di assistenza sociale 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B40 
+{QUESTION}
+Aiuti al terzo mondo 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B41 
+{QUESTION}
+Politiche di immigrazione e per i rifugiati 
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B42 
+{QUESTION}
+Politiche monetarie e definizione dei tassi di interesse ufficiali
+
+{ANSWERS}
+livello Internazionale
+livello Europeo
+livello Nazionale
+livello Regionale o locale
+
+B43 
+{QUESTION}
+Usando questo cartellino, indichi per favore in quale misura Lei è d’accordo con le seguenti affermazioni. Minore è l’intervento del governo nell’economia, meglio è per l’Italia.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B44 
+{QUESTION}
+Il governo dovrebbe prendere provvedimenti per ridurre le differenze nei livelli di reddito.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B45 
+{QUESTION}
+I lavoratori hanno bisogno di sindacati forti per proteggere le loro condizioni di lavoro e i loro salari.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B46 
+{QUESTION}
+Gli omosessuali dovrebbero essere liberi di vivere la loro vita come desiderano.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B47 
+{QUESTION}
+In qualsiasi circostanza, la legge dovrebbe sempre essere rispettata.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B48 
+{QUESTION}
+I partiti politici che vogliono il rovesciamento della democracia dovrebbero essere banditi dal sistema politico.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B49 
+{QUESTION}
+La crescita economica finisce sempre per danneggiare l'ambiente.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+B50 
+{QUESTION}
+La scienza può contribuire a risolvere i problemi ambientali.
+
+{ANSWERS}
+Molto d’accordo
+D’accor do
+Né d’accordo né in disaccordo
+In disaccordo
+Molto disaccordo
+
+{INTRO}
+Ora le faro alcune domande su di lei e sulla sua vita.
+
+C1 
+{QUESTION}
+Nel complesso, come vanno le cose in questo periodo? Lei si definirebbe … Per favore usi questo cartellino.
+
+{ANSWERS}
+00 Del tutto infelice
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Del tutto felice
+
+C2
+{QUESTION}
+Usando questo cartellino, con quale frequenza si ritrova con amici, parenti o colleghi di lavoro per stare insieme nel tempo libero?
+
+{ANSWERS}
+Mai 
+Meno di una volta al mese 
+Una volta al mese 
+Più volte al mese 
+Una volta alla settimana 
+Più volte alla settimana 
+Tutti i giorni 
+
+C3 
+{QUESTION}
+Ha un amico o parente con cui può parlare di questioni intime e personali?
+
+{ANSWERS}
+Si 
+No 
+
+C4
+{QUESTION}
+Rispetto alle altre persone della Sua età, con quale frequenza Lei prende parte alla vita sociale e alle attività del suo quartiere? Usi per favore questo cartellino.
+
+{ANSWERS}
+Molto meno degli altri 
+Meno degli altri 
+Circa quanto gli altri 
+Più degli altri 
+Molto più degli altri 
+
+C5 
+{QUESTION}
+Negli ultimi 5 anni Lei o la Sua famiglia siete stati vittima di furto, furto con scasso o aggressione fisica?
+
+{ANSWERS}
+Si 
+No 
+(Non so) 
+
+C6
+{QUESTION}
+Quanto si sente sicuro a camminare di sera da solo nella zona in cui abita? Si sente….
+
+{ANSWERS}
+Molto sicuro 
+sicuro 
+insicuro 
+molto insicuro 
+
+C7 
+{QUESTION}
+Attualmente come è, in generale, la Sua salute? La definirebbe… 
+
+{ANSWERS}
+Molto buona 
+buona 
+discreta 
+cattiva 
+pessima 
+
+C8 
+{QUESTION}
+In qualche modo Lei è ostacolato nelle Sue attività da qualche malattia di vecchia data, da qualche inabilità, infermità o problema di salute mentale?
+
+{ANSWERS}
+Si, molto 
+Si, in parte 
+No 
+
+C9 
+{QUESTION}
+Lei si sente di appartenente ad una particolare religione o confessione religiosa?
+
+{ANSWERS}
+Si 
+No 
+
+C10 
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Cattolica 
+Protestante 
+Ortodossa 
+Buddista 
+Ebraica 
+Islamica 
+Testimoni di Geova 
+Altra 
+
+C11 
+{QUESTION}
+Si è mai considerato appartenente ad una particolare religione o confessione?
+
+{ANSWERS}
+SI 
+No 
+
+C12 
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Cattolica 
+Protestante 
+Ortodossa 
+Buddista 
+Ebraica 
+Islamica 
+Testimoni di Geova 
+Altra 
+
+C13 
+{QUESTION}
+Riguardo alla religione, usando questo cartellino, Lei si definirebbe
+
+{ANSWERS}
+00 Del tutto estraneo ad ogni religione
+01
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Molto religioso 
+
+C14 
+{QUESTION}
+Attualmente con quale frequenza partecipa a funzioni religiose (escluse occasioni speciali come matrimoni, battesimi, funerali, e simili celebrazioni)?
+
+{ANSWERS}
+Tutti i giorni 
+Più di una volta alla settimana 
+Una volta alla settimana 
+Una volta al mese 
+Solamente nelle festività più importanti 
+Raramente 
+Mai 
+
+C15 
+{QUESTION}
+Con quale frequenza Lei prega, al di fuori delle funzioni religiose?
+
+{ANSWERS}
+Tutti i giorni 
+Più di una volta alla settimana 
+Una volta alla settimana 
+Una volta al mese 
+Solamente nelle festività più importanti 
+Raramente 
+Mai 
+
+C16 
+{QUESTION}
+Ritiene di far parte di un gruppo di minoranza che, per un motivo qualsiasi, è oggi discriminato in Italia?
+
+{ANSWERS}
+Si
+No
+
+C17 
+{QUESTION}
+Per quali motivi questo gruppo è discriminato?
+
+{ANSWERS}
+Colore or razza 
+Nazionalità 
+Religione 
+Lingua 
+Gruppo etnico 
+Età 
+Genere 
+Sessualità 
+Disabilità 
+Altro motivo
+
+C18 
+{QUESTION}
+Lei è cittadino italiano?
+
+{ANSWERS}
+Sì
+No 
+
+C19 
+{QUESTION}
+Qual è la sua cittadinanza?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Lei è nato in Italia?
+
+{ANSWERS}
+Si
+No
+
+C21 
+{QUESTION}
+Se no, in che Paese è nato?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Da quanti anni vive in Italia? Usi questo cartellino
+
+{ANSWERS}
+Dalla nascita 
+Da 1-5 anni 
+Da 6-10 anni 
+Da 11-20 anni 
+Da più di 20 anni 
+
+C23 
+{QUESTION}
+Qual è la lingua che Lei usa principalmente in casa?
+
+{ANSWERS}
+SCRIVERE FINO A DUE LINGUE
+
+C24
+{QUESTION}
+Lei appartiene ad una minoranza etnica in Italia?
+
+{ANSWERS}
+Si 
+No 
+
+C25
+{QUESTION}
+Suo padre è nato in Italia?
+
+{ANSWERS}
+Si
+No
+
+C26
+{QUESTION}
+Tra i seguenti continenti, qual è quello di cui è originaria la famiglia di Suo padre? Usi questo cartellino
+
+{ANSWERS}
+Europa 
+Africa 
+Asia 
+Nord America 
+Sud America e Caraibi 
+Oceania 
+
+C27 
+{QUESTION}
+Sua madre è nata in Italia?
+
+{ANSWERS}
+Si
+No
+
+C28
+{QUESTION}
+Tra i seguenti continenti, qual è quello di cui è originaria la famiglia di Sua madre? Usi questo cartellino.
+
+{ANSWERS}
+Europa 
+Africa 
+Asia 
+Nord America 
+Sud America e Caraibi 
+Oceania 
+
+{INTRO}
+Desidererei avere alcune informazioni su di Lei e su ciascuna persona che compone la sua famiglia.
+
+F1 
+{QUESTION}
+Compresi Lei ed eventuali bambini, quante persone vivono regolarmente in questa casa come membri della famiglia?
+
+{ANSWERS}
+
+F2 
+{QUESTION}
+CODICE SESSO 
+
+{ANSWERS}
+Maschio 
+Femmina 
+
+F3 
+{QUESTION}
+E in che anno lui/lei è nato? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+E quale relazione ha con Lei?
+
+{ANSWERS}
+Marito/moglie/partNer
+Figlio/figlia (inclusi figli adottivi e del coniuge/convivente)
+Genitore/Genitore acquisito
+Altro parente 
+Altra persona senza relazione di parentela
+
+F5 
+{QUESTION}
+Quale dei seguenti termini Lei utilizzerebbe per descrivere il luogo in cui abita?
+
+{ANSWERS}
+Una grande città 
+Sobborgo o periferia di una grande città 
+Una città o una piccola città 
+Un villaggio di paese 
+Una fattoria o casa nella campagna 
+
+F6 
+{QUESTION}
+Quale è il titolo di studio più elevato che Lei ha conseguito? Usi questo cartellino.
+
+{ANSWERS}
+Senza titolo 
+Licenza elementare 
+Licenza media/avviamento professionale 
+Diploma di scuola media superiore
+Diploma universitario 
+Laurea 
+Specializzazione post-laurea 
+Altro 
+
+F7 
+{QUESTION}
+Quanti anni ha trascorso a tempo pieno nel sistema scolastico? 
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Quale di queste situazioni meglio descrive ciò che Lei stava facendo la settimana scorsa?
+
+{ANSWERS}
+Occupato (o temporaneamente in congedo) (lavoratore Subordinato,autonomo o coadiuvante famigliare)
+Studente/essa, inclusi i periodi di vacanza (non retribuito da un datore di lavoro)
+disoccupato e attivamente in cerca di lavoro 
+disoccupato in attesa di lavoro ma senza cercarlo attivamente 
+inabile al lavoro 
+pensionato 
+in servizio civile o servizio militare 
+dedito alla cura del nucleo famigliare 
+
+F8b 
+{QUESTION}
+In Quale delle seguenti alternative indica meglio la condizione in cui si trovava la settimana scorsa?
+
+{ANSWERS}
+Occupato (o temporaneamente in congedo) (lavoratore Subordinato,autonomo o coadiuvante famigliare)
+Studente, inclusi i periodi di vacanza (non retribuito da un datore di lavoro)
+disoccupato e attivamente in cerca di lavoro 
+disoccupato in attesa di lavoro ma senza cercarlo attivamente 
+inabile al lavoro 
+pensionato 
+in servizio civile o servizio militare 
+dedito alla cura del nucleo famigliare 
+
+F9 
+{QUESTION}
+Ha svolto un lavoro retribuito (di un'ora o più) negli ultimi 7 giorni?
+
+{ANSWERS}
+Si
+No 
+
+F10 
+{QUESTION}
+Ha mai svolto una attività lavorativa?
+
+{ANSWERS}
+Si
+No 
+
+F11 
+{QUESTION}
+In quale hanno Lei ha svolto per l’ultima volta un’attività lavorativa?
+
+{ANSWERS}
+
+
+F12 
+{QUESTION}
+In quale posizione Lei svolge la sua attività principale? 
+
+{ANSWERS}
+Lavoratore dipendente 
+Lavoratore autonomo 
+Coadiuvante familiare 
+
+F13 
+{QUESTION}
+Quante persone lavorano come dipendenti nella Sua impresa?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Lei lavora con un contratto ….. 
+
+{ANSWERS}
+A tempo indeterminato 
+A tempo determinato 
+
+F15
+{QUESTION}
+Incluso Lei, quante persone sono occupate nell’organizzazione per cui Lei lavora?
+
+{ANSWERS}
+meno di 10 
+da 10 a 24 
+da 25 a 99 
+da 100 a 499 
+500 o più 
+
+F16 
+{QUESTION}
+Nella Sua attività principale, Lei ha la supervisione o la responsabilità diretta sul lavoro di altre persone?
+
+{ANSWERS}
+Si  
+No 
+
+F17 
+{QUESTION}
+Di quante persone ha la responsabilità diretta?
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Le è consentito organizzare autonomamente il Suo lavoro….
+
+{ANSWERS}
+in modo ampio 
+per certi aspetti 
+pochissimo 
+per nulla 
+
+F19 
+{QUESTION}
+Quante sono le ore di lavoro in totale, nella Sua attività principale, escludendo delle ore di lavoro straordinario pagato o non retribuito?
+
+{ANSWERS}
+
+F20 
+{QUESTION}
+Nella Sua attività principale, quante ore lavora normalmente in una settimana, tenendo conto anche delle ore di lavoro straordinario
+pagato o non retribuito?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Qual è la denominazione della Sua attività principale?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Nella Sua attività principale, che tipo di mansioni svolge prevalentemente?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Che tipo di addestramento o qualificazione professionale è richiesta per svolgere quel tipo di occupazione?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Di cosa si occupa principalmente la ditta/ organizzazione per cui Lei lavora? 
+
+{ANSWERS}
+
+
+F25 
+{QUESTION}
+E’ mai stato disoccupato o in cerca di lavoro per un periodo più lungo di tre mesi?
+
+{ANSWERS}
+Si
+No
+
+F26 
+{QUESTION}
+Uno di questi periodi è durato 12 mesi o più?
+
+{ANSWERS}
+Si 
+No 
+
+F27 
+{QUESTION}
+Negli ultimi 5 anni Le è mai successo di rimanere disoccupato per più di tre mesi?
+
+{ANSWERS}
+Si 
+No 
+
+F28 
+{QUESTION}
+Lei fa parte o ha mai fatto parte di un sindacato o di un’associazione di categoria?
+
+{ANSWERS}
+Si, attualmente
+Si, in passato
+No
+
+F29
+{QUESTION}
+Per favore, consideri i redditi di tutti i membri della sua famiglia e qualunque altra entrata che può essere percepita complessivamente dalla sua famiglia. Qual è la principale fonte di reddito nella sua famiglia? Usi questo cartellino.
+
+{ANSWERS}
+Retribuzioni e salari 
+Redditi da lavoro autonomo o agricoltura 
+Pensione 
+Sussidio di disoccupazione /cassa integrazione guadagni 
+Altro sussidio sociale o indennità 
+Reddito da investimento, risparmio, assicurazione o proprietà 
+Redditi di altra origine 
+
+F30a
+{QUESTION}
+Usando questo cartellino, calcolando i redditi di tutte le origini, quale lettera descrive meglio le entrate totali nette della sua famiglia? Se non sa l’esatto valore, per favore, faccia una stima. Usi la parte di cartellino che conosce meglio: reddito settimanale, mensile, annuale.
+
+{ANSWERS} 1
+Approssimativo
+SETTIMANALE
+J Meno di €40
+R Da €40 a €70
+C Da €70 a €120
+M Da €120 a €230
+F Da €230 a €350
+S Da €350 a €460
+K Da €460 a €580
+P Da €580 a €690
+D Da €690 a €1150
+H Da €1150 a €1730
+U Da €1730 a €2310
+N €2310 o più
+
+{ANSWERS} 2
+Approssimativo
+SETTIMANALE
+J Meno di Lire 80.000
+R Da Lire 80.000 a Lire 135.000
+C Da Lire 135.000 a Lire 235.000
+M Da Lire 235.000 a Lire 445.000
+F Da Lire 445.000 a Lire 680.000
+S Da Lire 680.000 a Lire 890.000
+K Da Lire 890.000 a Lire 1.120.000
+P Da Lire 1.120.000 a € 1. 340.000
+D Da Lire 1.340.000 a Lire 2.230.000
+H Da Lire 2.230.000 a Lire 3.350.000
+U Da Lire 3.350.000 a Lire 4.470.000
+N Lire 4.470.000 o più
+
+F30b
+{QUESTION}
+Usando questo cartellino, calcolando i redditi di tutte le origini, quale lettera descrive meglio le entrate totali nette della sua famiglia? Se non sa l’esatto valore, per favore, faccia una stima. Usi la parte di cartellino che conosce meglio: reddito settimanale, mensile, annuale.
+
+{ANSWERS} 1
+Approssimativo
+MESE
+J Meno di €150
+R Da €150 a €300
+C Da €300 a €500
+M Da €500 a €1000
+F Da €1000 a €1500
+S Da €1500 a €2000
+K Da €2000 a €2500
+P Da €2500 a €3000
+D Da €3000 a €5000
+H Da €5000 a €7500
+U Da €7500 a €10000
+N €10000 o più
+
+{ANSWERS} 2
+Approssimativo
+MESE
+J Meno Lire 300.000
+R Da Lire 300.000 a Lire 600.000
+C Da Lire 600.000 a Lire 1000.000
+M Da Lire 1000.000 a Lire 2000.000
+F Da Lire 2000.000 a Lire 3000.000
+S Da Lire 3.000.000 a Lire 4.000.000
+K Da Lire 4.000.000 a Lire 5000.000
+P Da Lire 5.000.000 a Lire 6000.000
+D Da Lire 6.000.000 a Lire 10.000.000
+H Da Lire 10.000.000 a Lire 15.000.000
+U Da Lire 15.000.000 a Lire 20.000.000
+N Lire 20.000.000 o più
+
+F30c
+{QUESTION}
+Usando questo cartellino, calcolando i redditi di tutte le origini, quale lettera descrive meglio le entrate totali nette della sua famiglia? Se non sa l’esatto valore, per favore, faccia una stima. Usi la parte di cartellino che conosce meglio: reddito settimanale, mensile, annuale.
+
+{ANSWERS} 1
+Approssimativo
+ANNUALE
+J Meno di €1800
+R Da €1800 a €3600
+C Da €3600 a €6000
+M Da €6000 a €12000
+F Da €12000 a €18000
+S Da €18000 a €24000
+K Da €24000 a €30000
+P Da €30000 a €36000
+D Da €36000 a €60000
+H Da €60000 a €90000
+U Da €90000 a €120000
+N €120000 o più
+
+{ANSWERS} 2
+Approssimativo
+ANNUALE
+J Meno di Lire 3.500.000
+R Da Lire 3.5000.000 a Lire 7.000.000
+C Da Lire 7.000.000 a Lire 11.700.000
+M Da Lire 11.700.000 a Lire24.000.000
+F Da Lire 24.000.000 a € 36.000.000
+S Da Lire 36.000.000 a Lire 48.000.000
+K Da Lire 48.000.000 a Lire 60.000.000
+P Da Lire 60.000.000 a Lire 70.000.000
+D Da Lire 70.000.000 a lire 120.000.000
+H Da €Lire 120.000.000 a Lire 180.000.000
+U Da Lire 180.000.000a Lire 240.000.000
+N Lire 240.000.000 o più
+
+F31 
+{QUESTION}
+Quale tra le seguenti frasi descrive meglio il suo modo di vedere la situazione della sua famiglia rispetto al reddito che avete attualmente a disposizione?
+
+{ANSWERS}
+Ci consente di vivere comodamente 
+Ci consente di fare fronte alle spese correnti 
+Abbiamo delle difficoltà 
+Ci troviamo in grandi difficoltà 
+
+F32 
+{QUESTION}
+Se per una qualunque ragione dovesse trovarsi in serie difficoltà economiche e dovesse chiedere in prestito del denaro per far fronte alle necessità quotidiane, pensa che trovare un prestito per Lei sarebbe… Usi questo cartellino.
+
+{ANSWERS}
+Molto difficile 
+Difficile 
+Né difficile né facile 
+Facile 
+Molto facile 
+
+F33
+{QUESTION}
+SE L’INTERVISTATO HA RISPOSTO DI VIVERE CON CONIUGE O PARTER 
+
+{ANSWERS}
+SE L’INTERVISTATO HA RISPOSTO DI VIVERE CON CONIUGE O PARTER 
+SE NO
+
+F34 CARTELLINO 
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto dal Suo coniuge? Usi questo cartellino.
+
+{ANSWERS}
+Senza titolo 
+Licenza elementare 
+Licenza media/avviamento professionale 
+Diploma di scuola media superiore 
+Diploma universitario 
+Laurea 
+Specializzazione post-laurea 
+Altro
+
+F35a 
+{QUESTION}
+Quale tra le seguenti situazione describe meglio ciò che il Suo coniuge stava facendo la settimana scorsa?
+
+{ANSWERS}
+Occupato (o temporaneamente in congedo) (lavoratore Subordinato,autonomo o coadiuvante famigliare)
+Studente, inclusi i periodi di vacanza (non retribuito da un datore di lavoro)
+disoccupato e attivamente in cerca di lavoro 
+disoccupato in attesa di lavoro ma senza cercarlo attivamente 
+inabile al lavoro 
+pensionato
+in servizio civile o servizio militare 
+dedito alla cura del nucleo famigliare 
+
+F35b 
+{QUESTION}
+In quale delle seguenti alternative indica meglio la condizione del Suo coniuge (la settimana scorsa)?
+
+{ANSWERS}
+Occupato (o temporaneamente in congedo) (lavoratore Subordinato,autonomo o coadiuvante famigliare)
+Studente, inclusi i periodi di vacanza (non retribuito da un datore di lavoro)
+disoccupato e attivamente in cerca di lavoro 
+disoccupato in attesa di lavoro ma senza cercarlo attivamente 
+inabile al lavoro 
+pensionato
+in servizio civile o servizio militare 
+dedito alla cura del nucleo famigliare 
+
+
+F36 
+{QUESTION}
+Il suo coniuge ha svolto un lavoro retribuito (di un'ora o più) negli ultimi 7 giorni?
+
+{ANSWERS}
+Si
+No
+
+F37 
+{QUESTION}
+Qual è la denominazione della sua attività principale?
+
+{ANSWERS}
+
+F38 
+{QUESTION}
+Nella sua attività principale, che tipo di mansioni svolge prevalentemente? 
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Che tipo di addestramento o qualificazione professionale è richiesta per svolgere quel tipo di occupazione?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+In quale posizione svolge la sua attività principale il suo coniuge? 
+
+{ANSWERS}
+Lavoratore dipendente 
+Lavoratore autonomo 
+Coadiuvante familiare 
+
+F41 
+{QUESTION}
+Ci può dire quanti dipendenti ha?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Nella Sua attività principale, il suo coniuge ha la supervisione sul lavoro di altre persone?
+
+{ANSWERS}
+Si
+No
+
+F43 
+{QUESTION}
+Di quante persone ha la responsabilità diretta?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Quante ore lavora normalmente in una settimana, il suo coniuge? Tenga conto anche, per favore, delle ore di lavoro straordinario pagato o non retribuito.
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto da Suo padre? Usi questo cartellino.
+
+{ANSWERS}
+Senza titolo
+Licenza elementare 
+Licenza media/avviamento professionale 
+Diploma di scuola media superiore 
+Diploma universitario 
+Laurea 
+Specializzazione post-laurea 
+Altro
+
+F46 
+{QUESTION}
+Quando Lei aveva 14 anni, suo padre svolgeva un lavoro dipendente, era lavoratore autonomo o non lavorava?
+
+{ANSWERS}
+Lavoratore dipendente 
+Lavoratore autonomo 
+Disoccupato 
+ (Padre deceduto/assente quando l’intervistato aveva 14 anni)
+
+F47 
+{QUESTION}
+Ci può dire quanti dipendenti aveva suo padre?
+
+{ANSWERS}
+Nessuno 
+da 1 a 24 
+25 o più 
+
+F48 
+{QUESTION}
+Suo padre aveva la supervisione sul lavoro di altre persone?
+
+{ANSWERS}
+Si 
+No 
+
+F49 
+{QUESTION}
+Qual’era la denominazione della sua attività principale?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Quale tra le descrizioni proposte su questo cartellino descrive meglio il tipo di lavoro che Suo padre svolgeva quando Lei aveva 14 anni?
+
+{ANSWERS}
+Libere professioni o occupazioni corrispondenti svolte in posizione dipendente commercialista – avvocato - medico professionista –
+scienziato – ingegnere civile/meccanico
+Professioni intermedie ad elevata qualificazione insegnante – infermiere diplomato– fisioterapista – assistente sociale
+– artista– musicista – ufficiale di polizia – programmatore software 
+Occupazioni di carattere impiegatizio a media e alta qualificazione segretario d’ufficio –segretario del personale – impiegato di concetto – coordinatore di un centro telefonico 
+Medi e alti dirigente manager finanziario – direttore esecutivo 
+Occupazioni manuali ad alta qualificazione svolte in posizione autonoma o dipendente meccanico –collaudatore – idraulico – tipografo – artigiano – elettricista – giardiniere – conducente di treno 
+Occupazioni manuali a media qualificazione svolte in posizione autonoma o dipendente Quale: impiegato postale – operaio specializzato – guardia giurata – custode – lavoratore agricolo –
+Occupazioni manuali a bassa qualificazione svolte in posizione autonoma o dipendente Quale: autotrasportatore – camionista – uomo delle pulizie – portinaio – imballatore – addetto alla macchina da cucire – fattorino – manovale – cameriere –barman 
+Impiegati direttivi Quale: dirigente d’ufficio – direttore delle vendite – direttore di banca – direttore di ristorante – direttore di magazzino
+
+F51 
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto da Sua madre? Usi questo cartellino.
+
+{ANSWERS}
+Senza titolo 
+Licenza elementare 
+Licenza media/avviamento professionale 
+Diploma di scuola media superiore 
+Diploma universitario 
+Laurea 
+Specializzazione post-laurea 
+Altro 
+
+F52 
+{QUESTION}
+Quando Lei aveva 14 anni, sua madre svolgeva un lavoro dipendente, era lavoratrice autonoma o non lavorava?
+
+{ANSWERS}
+Lavoratrice dipendente 
+Lavoratrice autonoma 
+Disoccupata 
+(madre deceduta/assente quando l’intervistato aveva 14 anni) 
+
+F53 
+{QUESTION}
+Ci può dire quanti dipendenti aveva sua madre ?
+
+{ANSWERS}
+Nessuno 
+Da 1 a 24 
+25 o più 
+
+F54 
+{QUESTION}
+Sua madre aveva la supervisione sul lavoro di altre persone?
+
+{ANSWERS}
+Si
+No 
+
+F55 
+{QUESTION}
+Qual era la denominazione della sua attività principale?
+
+{ANSWERS}
+
+F56 
+{QUESTION}
+Quale tra le descrizioni proposte su questo cartellino descrive meglio il tipo di lavoro che Sua madre svolgeva quando Lei aveva 14 anni?
+
+{ANSWERS}
+Libere professioni o occupazioni corrispondenti svolte in posizione dipendente commercialista – avvocato - medico professionista –
+scienziato – ingegnere civile/meccanico 
+Professioni intermedie ad elevata qualificazione insegnante – infermiere diplomato– fisioterapista – assistente sociale – artista– musicista – ufficiale di polizia – programmatore software 
+Occupazioni di carattere impiegatizio a media e alta qualificazione segretario d’ufficio –segretario del personale – impiegato di concetto – coordinatore di un centro telefonico 
+Medi e alti dirigente manager finanziario – direttore esecutivo 
+Occupazioni manuali ad alta qualificazione svolte in posizione autonoma o dipendente meccanico –collaudatore – idraulico – tipografo – artigiano – elettricista – giardiniere – conducente di treno 
+Occupazioni manuali a media qualificazione svolte in posizione autonoma o dipendente Quale: impiegato postale – operaio specializzato – guardia giurata – custode – lavoratore agricolo – 
+Occupazioni manuali a bassa qualificazione svolte in posizione autonoma o dipendente Quale: autotrasportatore – camionista – uomo delle pulizie – portinaio – imballatore – addetto alla macchina da cucire – fattorino – manovale – cameriere –barman 
+Impiegati direttivi Quale: dirigente d’ufficio – direttore delle vendite – direttore di banca – direttore di ristorante – direttore di magazzino 
+
+F57 
+{QUESTION}
+Negli ultimi 12 mesi ha frequentato, per motivi di lavoro, un seminario, una conferenza o un convegno per migliorare le Sue conoscenze o capacità?
+
+{ANSWERS}
+Si 
+No 
+
+F58 
+{QUESTION}
+Posso rivolgerLe qualche domanda riguardo il suo stato civile attuale? Quale fra queste alternative corresponde alla Sua condizione?
+
+{ANSWERS}
+Sposato 
+Separato (ancora legalmente sposato) 
+Divorziato 
+Vedovo 
+Mai sposato 
+
+F59 
+{QUESTION}
+Lei attualmente vive con suo marito?
+
+{ANSWERS}
+Si 
+No 
+
+F60 
+{QUESTION}
+Lei attualmente convive con un altro partner?
+
+{ANSWERS}
+Si 
+No 
+
+F61 
+{QUESTION}
+Lei attualmente vive con il Suo partner?
+
+{ANSWERS}
+Si 
+No 
+
+F62
+{QUESTION}
+Hai mai convissuto con un Suo partner senza essere sposato?
+
+{ANSWERS}
+Si 
+No 
+
+F63 
+{QUESTION}
+E’ mai stato divorziato?
+
+{ANSWERS}
+Si
+No
+
+F64
+{QUESTION}
+SE CI SONO BAMBINI NELLA CASA DELL’INTERVISTATO
+
+{ANSWERS}
+SE CI SONO BAMBINI NELLA CASA DELL’INTERVISTATO
+SE NON CI SONO
+
+F65 
+{QUESTION}
+Nella sua famiglia hanno mai vissuto figli Suoi o del Suo coniuge?
+
+{ANSWERS}
+Si 
+No 
+
+
