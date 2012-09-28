@@ -51,8 +51,6 @@ class Migration(DataMigration):
             if not '.txt' in file_name:
                 continue
 
-            if not 'IL_rus' in file_name:
-                continue
 
             #print "NOW CHECKING file %s" % file.name
 
