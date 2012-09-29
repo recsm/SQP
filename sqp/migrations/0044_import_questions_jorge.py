@@ -30,7 +30,7 @@ class Migration(DataMigration):
         r,d,files = os.walk(Q_BASE_DIR).next()
 
         #looking for russian A and B chars
-        item_regex = re.compile(ur'[A-ZАВ]{1}[0-9]{1,4}([A-Za-z]{1,2})?\.?')
+        item_regex = re.compile(ur'^(P\.)?[A-ZАВ]{1}[0-9]{1,3}([A-Za-z]{1,3})?(\.)?$')
         text_area_regex = re.compile(ur'\{[A-Z]+\}')
         q_regex = re.compile(ur'Q{1}[0-9]{1,4}')
 
@@ -52,7 +52,7 @@ class Migration(DataMigration):
                 continue
 
 
-            #print "NOW CHECKING file %s" % file.name
+            print "NOW CHECKING file %s" % file.name
 
             round_name, country_iso, language_iso = file_name.replace('.txt', '').split('_')
 
@@ -65,7 +65,8 @@ class Migration(DataMigration):
             questions = {}
             text_areas = ['INTRO', 
                           'QUESTION', 
-                          'ANSWERS']
+                          'ANSWERS',
+                          'TRASH']
             line_number = 0
             for line in file:
                 line_number += 1
@@ -73,19 +74,27 @@ class Migration(DataMigration):
                 if q_regex.match(line):
                     line = re.sub(q_regex, '', line).strip()
                     key = None
-                if item_regex.match(line):
-                    key = item_regex.match(line).group(0)
+                if item_regex.match(line.strip()):
+                    key = item_regex.match(line.strip()).group(0)
                     #russian chars
                     key = key.replace(u'\u0410', 'A')
                     key = key.replace(u'\u0412', 'B')
+                    #P.
+                    key = key.replace('P.', '')
+                    key = key.replace(' ', '')
+                    
+                    #Trailing .
+                    key = key.replace('.', '')
+
                     questions[key] = {'INTRO'   : '',
                                       'QUESTION' : '',
-                                      'ANSWERS'  : ''
+                                      'ANSWERS'  : '',
+                                      'found_text_areas' : []
                                       }
 
                     current_text_area = 'QUESTION'
                     continue
-                elif text_area_regex.match(line):
+                elif key and text_area_regex.match(line):
                     match = text_area_regex.match(line).group(0)
                     current_text_area = match.replace('{', '').replace('}', '')
                     
@@ -95,11 +104,19 @@ class Migration(DataMigration):
                         SKIPPED_AREAS += 1
                         continue                    
 
+
+                    if current_text_area in questions[key]['found_text_areas']:
+                        current_text_area = 'TRASH'
+                    else:
+                        questions[key]['found_text_areas'].append(current_text_area)
+
                     if current_text_area not in text_areas:
                         raise Exception('Unrecognized text area "%s"' % current_text_area)
                     continue
 
-                if key:
+
+                #Only take the first occurence of QUESTION / INTRO / ANSWERS
+                if key and current_text_area != 'TRASH':
                     questions[key][current_text_area] += line
                     IMPORTED_LINES += 1
                 elif line.strip() != '':
@@ -111,10 +128,13 @@ class Migration(DataMigration):
                 n +=1
                 #if n > 10:break
                 #print "NOW SAVING question %s" % key
-                item, i_was_created = sqp_models.Item.objects.get_or_create(admin=key, study=study)
-                if i_was_created:
-                    CREATED_ITEMS += 1
-
+                try:
+                    item, i_was_created = sqp_models.Item.objects.get_or_create(admin=key, study=study)
+                    if i_was_created:
+                        CREATED_ITEMS += 1
+                except:
+                    print '!!!!!!!!!!BAD KEY!!!!!!!!!!!!!!!%s' % key
+                    raise Exception()
                
                 question, q_was_created = sqp_models.Question.objects.get_or_create(item=item, country=country, language=language)
                 if q_was_created:
@@ -131,15 +151,18 @@ class Migration(DataMigration):
                     EDITED_QUESTIONS += 1
 
 
-            file_log_text.append('%s %s %s new items:%s, created qs:%s, edited qs:%s, not edited qs:%s, skipped keys:%s' % \
+            file_log_text.append('%s %s %s new items:%s, total qs:%s, created qs:%s, edited qs:%s, not edited qs:%s, skipped keys:%s' % \
                      (country_iso, language_iso, round_name, 
-                      CREATED_ITEMS, CREATED_QUESTIONS, EDITED_QUESTIONS, NOT_EDITED, SKIPPED_AREAS))
+                      CREATED_ITEMS, len(questions), CREATED_QUESTIONS, EDITED_QUESTIONS, NOT_EDITED, SKIPPED_AREAS))
             file_log_text.append('LINES SKIPPED %s / IMPORTED %s' % (len(SKIPPED_LINES), IMPORTED_LINES))
             if SKIPPED_LINES:
                 file_log_text.append('SKIPPED_LINES')
                 for l in SKIPPED_LINES:
                     file_log_text.append('     %s: %s' % (l['line_number'], l['content'].replace('\n', '')))
-            
+           
+            file_log_text.append('IMPORTED ITEMS: %s' % ','.join(questions.keys()))
+            file_log_text.append('------------------------------------------------------------------------')
+
             print '\n'.join(file_log_text)
             print
             log_text += '\n'.join(file_log_text) + '\n\n\n'
