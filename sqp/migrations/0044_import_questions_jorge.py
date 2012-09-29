@@ -146,7 +146,12 @@ class Migration(DataMigration):
                     question.introduction_text = questions[key]['INTRO'].strip()
                     question.rfa_text = questions[key]['QUESTION'].strip()
                     question.answer_text = questions[key]['ANSWERS'].strip()
-                    question.imported_from = 'jorge'
+                    
+                    if q_was_created:
+                        question.imported_from = 'jorge-created'
+                    else:
+                        question.imported_from = 'jorge-existing' 
+
                     question.save(create_suggestions = False)
                     EDITED_QUESTIONS += 1
 
