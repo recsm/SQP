@@ -1,0 +1,1863 @@
+﻿A1
+{QUESTION}
+Hvor mye tid bruker du, alt i alt, til å se på TV en vanlig ukedag? Velg et svaralternativ fra dette kortet.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A2
+{QUESTION}
+Hvor mye av tv-tiden bruker du til å se nyheter og programmer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A3
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å høre på radio, på en vanlig ukedag? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A4
+{QUESTION}
+Hvor mye av tiden, alt i alt, bruker du til å høre nyheter og radioprogrammer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A5
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å lese aviser, på en vanlig ukedag? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A6
+{QUESTION}
+Hvor mye av denne tiden bruker du til å lese om politikk og aktuelle samfunnsspørsmål? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+Ikke noe tid
+Mindre enn en ½ time
+Fra ½ til 1 time
+Mer enn 1 time, opptil 1½ time
+Mer enn 1½, opptil 2 timer
+Mer enn 2 timer, opptil 2½ timer
+Mer enn 2½ timer, opptil 3 timer
+Mer enn 3 timer
+
+A7
+{QUESTION}
+Bruk dette kortet, og vis hvor ofte du bruker internett, World Wide Web eller e-post til privat bruk, enten hjemme eller på jobben?
+
+{ANSWERS}
+Har ikke nettilgang, verken hjemme eller på jobben
+Bruker aldri
+Mindre enn en gang i måneden
+En gang i måneden
+Flere ganger i måneden
+En gang i uken
+Flere ganger i uken
+Hver dag
+
+A8
+{QUESTION}
+Vil du stort sett si at folk flest er til å stole på, eller at en ikke kan være for forsiktig når en har med andre å gjøre. Oppgi svaret på en skala fra 0-10, der 0 betyr at en ikke kan være for forsiktig, mens 10 betyr at folk flest er til å stole på.
+
+{ANSWERS}
+0. En kan ikke være for forsiktig
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. De fleste er til å stole på
+
+A9
+{QUESTION}
+Tror du at folk flest vil prøve å utnytte deg hvis de fikk sjansen, eller vil de prøve å behandle deg rimelig og rettferdig?
+
+{ANSWERS}
+0. Folk flest vil prøve å utnytte meg
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Folk flest vil prøve å være rimelige og rettferdige
+
+A10
+{QUESTION}
+Vil du si at folk stort sett prøver å være hjelpsomme, eller har de stort sett nok med seg selv? 
+
+{ANSWERS}
+0. Folk har stort sett nok med seg selv
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Folk forsøker stort sett å være hjelpsomme
+
+B1
+{INTRO}
+Nå vil vi stille noen spørsmål om politikk og politikere.
+
+{QUESTION}
+Hvor interessert vil du si at du er i politikk? Er du...
+
+{ANSWERS}
+ veldig interessert
+ ganske interessert
+ litt interessert
+ eller ikke interessert i det hele tatt?
+
+B2
+{QUESTION}
+Hvor ofte virker politikk så komplisert at du egentlig ikke skjønner noe av det? Bruk dette kortet til å svare
+
+{ANSWERS}
+Aldri
+Sjelden
+Av og til
+Jevnlig
+Ofte
+
+B3
+{QUESTION}
+Hvor vanskelig eller lett synes du det er å bestemme deg for hva du mener om politiske saker? Bruk kortet til å svare.
+
+{ANSWERS}
+Veldig vanskelig
+Vanskelig
+Verken vanskelig eller lett
+Lett
+Veldig lett
+
+B4
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. Null står for at du ikke har noen tillit til institusjonen i det hele tatt, mens ti står for at du har full tillit til institusjonen. Vi begynner med... Stortinget?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B5
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen. Neste... rettsvesenet?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B6
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen.Neste... politiet?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B7
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen.Neste... politikere?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B8
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen.Neste... politiske partier?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B9
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen.Neste... Europaparlamentet?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B10
+{QUESTION}
+Se på dette kortet og fortell meg på en skala fra 0 - 10 hvor stor tillit du personlig har til hver av de institusjonene jeg leser opp. 0 står for at du ikke har noen tillit til institusjonen i det hele tatt, mens 10 står for at du har full tillit til institusjonen.Neste... FN?
+
+{ANSWERS}
+0. Ingen tillit i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Full tillit
+
+B11
+{INTRO}
+Noen stemmer ikke ved valg, av ulike grunner.
+
+{QUESTION}
+Stemte du ved siste Stortingsvalg, høsten 2005?
+
+{ANSWERS}
+Ja
+Nei 
+Hadde ikke stemmerett 
+
+B12
+{QUESTION}
+Hvilket parti stemte du på i det valget?
+
+{ANSWERS}
+Rød Valgallianse/AKP
+Sosialistisk Venstreparti
+Det Norske Arbeiderparti
+Venstre
+Kristelig Folkeparti
+Senterpartiet
+Høyre
+Fremskrittpartiet
+Kystpartiet
+Andre partier/lister
+
+B12sps
+{QUESTION}
+Hvilket annet parti?
+
+{ANSWERS}
+
+B13
+{INTRO}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt.
+
+{QUESTION}
+Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du... kontaktet en politiker eller en statlig, kommunal eller fylkeskommunal tjenestemann?
+
+{ANSWERS}
+Ja
+Nei
+
+B14
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du...arbeidet i et politisk parti eller en aksjonsgruppe? 
+
+{ANSWERS}
+Ja
+Nei
+
+B15
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du... arbeidet i en annen organisasjon eller forening? 
+
+{ANSWERS}
+Ja
+Nei
+
+B16
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du...gått med eller vist fram et merke til støtte for en sak?
+
+{ANSWERS}
+Ja
+Nei
+
+B17
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du...skrevet under på en underskriftskampanje?
+
+{ANSWERS}
+Ja
+Nei
+
+B18
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du...deltatt i en lovlig offentlig demonstrasjon?
+
+{ANSWERS}
+Ja
+Nei
+
+B19
+{QUESTION}
+Det finnes flere måter å gå frem på for å prøve og forbedre ulike forhold i Norge eller å forhindre at ting går galt. Har du i løpet av de siste 12 månedene gjort noe av følgende? Har du...boikottet spesielle produkter?
+
+{ANSWERS}
+Ja
+Nei
+
+B20a
+{QUESTION}
+Er det et spesielt politisk parti du føler deg nærmere knyttet til enn de andre partiene?
+
+{ANSWERS}
+Ja
+Nei
+
+B20b
+{QUESTION}
+Hvilket parti er det?
+
+{ANSWERS}
+Rød Valgallianse/AKP
+Sosialistisk Venstreparti
+Det Norske Arbeiderparti
+Venstre
+Kristelig Folkeparti
+Senterpartiet
+Høyre
+Fremskrittpartiet
+Kystpartiet
+Andre partier/lister
+
+B20bSps
+{QUESTION}
+Hvilket annet parti?
+
+{ANSWERS}
+
+B20c
+{QUESTION}
+Hvor nær føler du deg knyttet til dette partiet? Er du...
+
+{ANSWERS}
+svært nær
+ganske nær
+ikke nær
+eller absolutt ikke nær?
+
+B21
+{QUESTION}
+Er du medlem av et politisk parti?
+
+{ANSWERS}
+Ja
+Nei 
+
+B22
+{QUESTION}
+Hvilket parti er det?
+
+{ANSWERS}
+Rød Valgallianse/AKP
+Sosialistisk Venstreparti
+Det Norske Arbeiderparti
+Venstre
+Kristelig Folkeparti
+Senterpartiet
+Høyre
+Fremskrittpartiet
+Kystpartiet
+Andre partier/lister
+
+B22sps
+{QUESTION}
+Hvilket annet parti?
+
+B23
+{INTRO}
+I politikken snakkes det iblant om venstresiden og høyresiden.
+
+{QUESTION}
+Se på dette kortet, og plasser deg selv på en skala der 0 står for venstresiden og 10 står for høyresiden.
+
+{ANSWERS}
+0. Venstresiden
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Høyresiden
+
+B24
+{QUESTION}
+Alt i alt, hvor tilfreds er du med livet nå om dagen? Svar ved å bruke tallene på dette kortet, hvor 0 betyr ekstremt misfornøyd og 10 betyr ekstremt fornøyd.
+
+{ANSWERS}
+0. Ekstremt misfornøyd
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt fornøyd
+
+B25
+{QUESTION}
+Hvor fornøyd er du i det store og hele med den nåværende økonomiske situasjonen i Norge? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+0. Ekstremt misfornøyd
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt fornøyd
+
+B26
+{QUESTION}
+Tenk nå på regjeringen i Norge. Hvor fornøyd er du med måten den gjør jobben sin på? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+0. Ekstremt misfornøyd
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt fornøyd
+
+B27
+{QUESTION}
+Og sett under ett, hvor fornøyd er du med måten demokratiet fungerer på i Norge? Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+0. Ekstremt misfornøyd
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt fornøyd
+
+B28
+{QUESTION}
+Nå vil jeg gjerne at du forteller meg hva du synes om utdanningssystemet i Norge. Bruk fortsatt kortet til å svare.
+
+{ANSWERS}
+0. Ekstremt dårlig
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt godt
+
+B29
+{QUESTION}
+Bruk det samme kortet til å fortelle hva du mener om helsetjenestene i Norge nå om dagen.
+
+{ANSWERS}
+0. Ekstremt dårlig
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Ekstremt godt
+
+B30
+{QUESTION}
+Bruk dette kortet til å vise i hvilken grad du er enig eller uenig i følgende påstander. Regjeringen bør gjennomføre tiltak for å redusere inntektsforskjellene.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+B31
+{QUESTION}
+Bruk dette kortet og si hvor enig eller uenig du er i følgende påstander.Homofile og lesbiske bør ha frihet til å kunne velge å leve som de selv ønsker.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+B32
+{QUESTION}
+Bruk dette kortet og si hvor enig eller uenig du er i følgende påstander.Politiske partier som ønsker å avskaffe demokratiet bør forbys.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+B33
+{QUESTION}
+Bruk dette kortet og si hvor enig eller uenig du er i følgende påstander:Vi kan stole på at moderne vitenskap kan løse miljøproblemene våre.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+B34
+{QUESTION}
+Tenk nå på Den Europeiske Unionen. Noen sier den europeiske samlingsprosessen bør gå lenger. Andre sier den allerede har gått for langt. Bruk dette kortet, hvilket tall beskriver best din oppfatning?
+
+{ANSWERS}
+0. Samlingsprosessen har gått for langt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Samlingsprosessen bør gå lenger
+
+B35
+{INTRO}
+Her er noen spørsmål om folk som kommer til Norge for å bosette seg her.
+
+{QUESTION}
+I hvilken utstrekning synes du at Norge bør la folk av samme rase eller etnisk gruppe som de fleste i Norge, få bosette seg her?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+B36
+{QUESTION}
+Hva med folk av en annen rase eller etnisk gruppe enn de fleste i Norge? 
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+B37
+{QUESTION}
+Hva med folk fra fattige land utenfor Europa? 
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+B38
+{QUESTION}
+Vil du si at det, alt i alt, er bra eller dårlig for den norske økonomien at folk kommer fra andre land for å bosette seg her? Bruk kortet til å svare.
+
+{ANSWERS}
+0. Dårlig for økonomien
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Bra for økonomien
+
+B39
+{QUESTION}
+Vil du si at norsk kultur stort sett blir undergravet eller beriket av folk som kommer fra andre land for å bosette seg her? Bruk kortet til å svare.
+
+{ANSWERS}
+0. Norsk kultur blir undergravet
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Norsk kultur blir beriket
+
+B40
+{QUESTION}
+Er det blitt verre eller bedre å bo i Norge på grunn av at folk kommer fra andre land for å bosette seg her? Bruk kortet til å svare.
+
+{ANSWERS}
+0. Et verre sted å bo
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.  Et bedre sted å bo
+
+C1
+{INTRO}
+Og nå noen spørsmål om deg og livet ditt.
+
+{QUESTION}
+I det store og hele, hvor lykkelig er du? 
+
+{ANSWERS}
+0. Svært ulykkelig
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+9. 
+10. Svært lykkelig
+
+C2
+{QUESTION}
+Hvor ofte omgås du venner, slektninger eller arbeidskollegaer? 
+
+{ANSWERS}
+Aldri
+Sjeldnere enn en gang i måneden
+En gang i måneden
+Flere ganger i måneden
+En gang i uka
+Flere ganger i uka
+Hver dag
+
+C3
+{QUESTION}
+Har du noen du kan diskutere intime og personlige spørsmål med?
+
+{ANSWERS}
+Ja
+Nei
+
+C4
+{QUESTION}
+Hvor ofte deltar du i sosiale aktiviteter, sammenlignet med andre på din alder?
+
+{ANSWERS}
+Mye mindre enn folk flest
+Mindre enn folk flest
+Omtrent som andre
+Mer enn folk flest
+Mye mer enn folk flest
+
+C5
+{QUESTION}
+Har du eller et annet medlem av din husholdning blitt utsatt for innbrudd, ran eller overfall i løpet av de siste fem årene?
+
+{ANSWERS}
+Ja
+Nei
+
+C6
+{QUESTION}
+Hvor trygg føler du deg, eller ville du følt deg, hvis du går alene i ditt nabolag etter at det har blitt mørkt? Føler du deg - eller ville du følt deg...
+
+{ANSWERS}
+veldig trygg
+trygg
+utrygg
+eller veldig utrygg?
+
+C7
+{QUESTION}
+Hvor ofte bekymrer du deg for innbrudd i hjemmet, eller er dette noe du ikke bekymrer deg for?
+
+{ANSWERS}
+Hele eller mesteparten av tiden
+En del av tiden
+Bare en gang i blant
+Aldri 
+
+C8
+{QUESTION}
+Har disse bekymringene for innbrudd i hjemmet...
+
+{ANSWERS}
+ ...en stor innvirkning på livskvaliteten din,
+ ...noe innvirkning,
+ eller ingen reell innvirkning på livskvaliteten din?
+
+C9
+{QUESTION}
+Hvor ofte bekymrer du deg for at du kan bli offer for voldskriminalitet, eller er dette noe du ikke bekymrer deg for?
+
+{ANSWERS}
+Hele eller mesteparten av tiden
+En del av tiden
+Bare en gang i blant
+Aldri 
+
+C10
+{QUESTION}
+Har disse bekymringene for å bli offer for voldskriminalitet...
+
+{ANSWERS}
+...en stor innvirkning på livskvaliteten din,
+...noe innvirkning,
+eller ingen reell innvirkning på livskvaliteten din?
+
+C11
+{INTRO}
+Nå vil jeg stille deg noen spørsmål om terrorisme.
+
+{QUESTION}
+Tror du at et terrorangrep i Europa i løpet av de neste 12 månedene er ...
+
+{ANSWERS}
+...veldig sannsynlig,
+sannsynlig,
+ikke veldig sannsynlig,
+eller, ikke sannsynlig i det hele tatt?
+
+C12
+{QUESTION}
+Tror du at et terrorangrep i Norge i løpet av de neste 12 månedene er ...
+
+{ANSWERS}
+...veldig sannsynlig,
+sannsynlig,
+ikke veldig sannsynlig,
+eller, ikke sannsynlig i det hele tatt?
+
+C13
+{QUESTION}
+Bruk dette kortet til å si hvor enig eller uenig du er i de følgende påstandene: Hvis en mann er mistenkt for å planlegge et terrorangrep, bør politiet ha myndighet til å holde han i varetekt inntil de er overbevist om at han ikke er involvert.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+C14
+{QUESTION}
+Bruk dette kortet til å si hvor enig eller uenig du er i de følgende påstandene: Å torturere en fange i et norsk fengsel kan aldri forsvares, selv om det kan gi informasjon som kan forhindre et terrorangrep.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+C15
+{INTRO}
+De neste spørsmålene handler om deg
+
+{QUESTION}
+Hvordan er helsen din stort sett? Vil du si at den er...
+
+{ANSWERS}
+svært god
+god
+middels
+dårlig
+eller svært dårlig?
+
+C16
+{QUESTION}
+Er du på noen måte hemmet i dine daglige aktiviteter på grunn av langvarig sykdom, funksjonshemning, dårlig helse eller psykiske problemer?
+
+{ANSWERS}
+Ja, mye
+Ja, til en viss grad
+Nei
+
+C17
+{QUESTION}
+Vil du si at du tilhører en bestemt religion eller trosretning?
+
+{ANSWERS}
+Ja
+Nei 
+
+C18
+{QUESTION}
+Hvilken er det?
+
+{ANSWERS}
+Den norske Kirke
+Katolsk kirke
+Ortodoks kirke (gresk, russisk, andre)
+Andre protestantiske trossamfunn (f.eks. frikirker, anglikanske kirke, pinsevenner og andre)
+Andre kristne trossamfunn (f.eks. Jehovas vitner, mormonerne)
+Det mosaiske trossamfunn (jødisk)
+Islam (muslimsk)
+Østlige religioner (f.eks. buddhisme, hinduisme, sikh, shintoisme, taoisme, konfutsianisme)
+Andre ikke-kristne religioner
+
+C19
+{QUESTION}
+Vil du si at du noen gang har tilhørt en bestemt religion eller trosretning?
+
+{ANSWERS}
+Ja
+Nei 
+
+C20
+{QUESTION}
+Hvilken var det?
+
+{ANSWERS}
+Den norske Kirke
+Katolsk kirke
+Ortodoks kirke (gresk, russisk, andre)
+Andre protestantiske trossamfunn (f.eks. frikirker, anglikanske kirke, pinsevenner og andre)
+Andre kristne trossamfunn (f.eks. Jehovas vitner, mormonerne)
+Det mosaiske trossamfunn (jødisk)
+Islam (muslimsk)
+Østlige religioner (f.eks. buddhisme, hinduisme, sikh, shintoisme, taoisme, konfutsianisme)
+Andre ikke-kristne religioner
+
+C21
+{QUESTION}
+Uavhengig av om du tilhører en bestemt religion, hvor religiøs vil du si at du er? 
+
+{ANSWERS}
+0. Ikke religiøs i det hele tatt
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8.
+9. 
+10.  Veldig religiøs
+
+C22
+{QUESTION}
+Hvis du ser bort fra spesielle anledninger som bryllup og begravelser, hvor ofte deltar du i gudstjenester og religiøse møter?
+
+{ANSWERS}
+Hver dag
+Mer enn en gang i uka
+En gang i uka
+Minst en gang i måneden
+Bare på spesielle helligdager
+Sjeldnere
+Aldri
+
+C23
+{QUESTION}
+Hvis du ser bort ifra de gangene du går til gudstjeneste, hvor ofte ber du, hvis du ber i det hele tatt?
+
+{ANSWERS}
+Hver dag
+Mer enn en gang i uka
+En gang i uka
+Minst en gang i måneden
+Bare på spesielle helligdager
+Sjeldnere
+ Aldri
+
+C24
+{QUESTION}
+Vil du si at du er medlem av en gruppe som blir diskriminert her i landet?
+
+{ANSWERS}
+Ja
+Nei 
+
+C25
+{QUESTION}
+Hvorfor blir gruppen diskriminert? 
+
+{ANSWERS}
+Hudfarge
+Nasjonalitet
+Religion
+Språk
+Etnisk tilhørighet
+Alder
+Kjønn
+Seksuell legning
+Funksjonshemming
+Andre
+
+C25sps
+{QUESTION}
+Hvilke andre grunner?
+
+{ANSWERS}
+
+C26
+{QUESTION}
+Er du norsk statsborger?
+
+{ANSWERS}
+Ja 
+Nei
+
+C27
+{QUESTION}
+Hvilket statsborgerskap har du?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Er du født i Norge?
+
+{ANSWERS}
+Ja 
+Nei
+
+C29
+{QUESTION}
+I hvilket land ble du født?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+Hvor lenge er det siden du kom til Norge for å bosette deg? 
+
+{ANSWERS}
+I løpet av det siste året
+1-5 år siden
+6-10 år siden
+11-20 år siden
+Mer enn 20 år siden
+
+C31
+{QUESTION}
+Hvilket eller hvilke språk bruker du stort sett hjemme? 
+
+{ANSWERS}
+SKRIV INN MAKSIMALT TO SPRÅK:
+
+C32
+{QUESTION}
+Tilhører du en etnisk minoritet i Norge?
+
+{ANSWERS}
+Ja 
+Nei
+
+C33
+{QUESTION}
+Er faren din født i Norge?
+
+{ANSWERS}
+Ja 
+Nei
+
+C34
+{QUESTION}
+I hvilket land er faren din født?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Er moren din født i Norge?
+
+{ANSWERS}
+Ja 
+Nei
+
+C36
+{QUESTION}
+I hvilket land er moren din født?
+
+{ANSWERS}
+
+F1
+{INTRO}
+Nå vil jeg stille noen spørsmål om deg og de andre i husholdningen din.
+
+{QUESTION}
+Hvor mange bor til vanlig i din husholdning, medregnet deg selv og eventuelle barn?
+
+{ANSWERS}
+
+F3
+{QUESTION}
+Hvilket år er hun født?
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Hvilket familieforhold har hun til deg?
+
+{ANSWERS}
+IO SELV
+Ektefelle/partner/samboer
+Sønn/datter (medregnet stebarn, adopterte, fosterbarn, barn av partner)
+Foreldre, svigerforeldre, partners foreldre, steforeldre
+Bror/søster (medregnet stesøsken, adopterte, fostersøsken
+Annen slektning
+Annen ikke-slektning
+
+F5
+{QUESTION}
+ Hvilken betegnelse på dette kortet passer best på området du bor i? 
+
+{ANSWERS}
+En storby
+En forstad eller utkanten av en storby
+En liten by
+Bygdesentrum
+En gård eller et hjem på landet
+
+F6
+{QUESTION}
+ Hva er din høyeste utdanning? Bruk dette kortet.
+
+{ANSWERS}
+Ingen utdanning eller førskoleutdanning 
+Barneskole (første del av obligatorisk utdanning)
+Ungdomsskole (grunnskole, 7-årig folkeskole, framhaldsskole)
+Videregående grunnutdanning (grunnkurs, VK1, folkehøyskole, realskole, ettårig eller toårig utdanning etter folkeskole)
+Videregående avsluttende utdanning (VK2, VK3, gymnas, fagprøve, påbygging til studiekompetanse)
+Teknisk fagskole, godkjent fagskole og forkurs til universitetet som ikke gir studiepoeng
+Universitet/høyskole, 4 år eller mindre med eksamen (bachelor, cand.mag, lærerskole, sykepleieskole, ingeniør, siviløkonom)
+Universitet/høyskole, mer enn 4 år med eksamen (mastergrad, hovedfag, sivilingeniør, siviløkonom høyere avdeling)
+Forskernivå (Dr.grad, Ph.D.)
+
+F6a
+{QUESTION}
+ I hvilket av disse fagområder eller emner er din høyeste utdanning?
+
+{ANSWERS}
+Generell utdanning, ikke noe spesielt fagområde
+Kunst- og håndverksfag
+Humanistiske fag - språk, historie, teologi og liknende
+Tekniske fag eller ingeniørutdanning, arkitektur, yrkesfag, bygningsfag
+Jordbruk og skogbruk
+Lærerutdanning
+Realfag, matematikk, informatikk og liknende
+Medisin, helsefag, sykepleie
+Økonomisk utdanning, handelsfag, revisorutdanning
+Samfunnsfag, mediefag, film, drama, teater, idrettsfag
+Juss, juridiske fag
+Personlig tjenesteyting - hotell- og restaurantfag, catering, frisør og liknende
+Offentlig sikkerhet - politi, forsvar, brannvesen, vekter
+Transport og telekommunikasjon
+
+F7
+{QUESTION}
+Omtrent hvor mange år utdanning har du fullført, enten heltid eller deltid? Vennligst oppgi antall år dette hadde blitt hvis du hadde studert heltid. Ta også med obligatorisk skolegang.
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+ Se på dette kortet. Hvilke av beskrivelsene passer på det du har gjort de siste 7 dagene?
+
+{ANSWERS}
+I lønnet arbeid (eller midlertidig fraværende) (ansatt, selvstendig eller har arbeid i familiebedrift)
+Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning på grunn av ferie)
+Arbeidsledig og aktivt arbeidssøkende
+Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende
+Varig syk eller funksjonshemmet
+Pensjonert
+I siviltjeneste eller millitærtjeneste
+husarbeid, passer barn eller andre personer
+Annet
+
+F8c
+{QUESTION}
+Og hvilke av disse beskrivelsene passer best på din situasjon (de siste 7 dagene)?
+
+{ANSWERS}
+I lønnet arbeid (eller midlertidig fraværende) (ansatt, selvstendig eller har arbeid i familiebedrift)
+Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning på grunn av ferie)
+Arbeidsledig og aktivt arbeidssøkende
+Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende
+Varig syk eller funksjonshemmet
+Pensjonert
+I siviltjeneste eller millitærtjeneste
+Husarbeid, passer barn eller andre personer
+Annet
+
+F9
+{QUESTION}
+Kan jeg bare sjekke, har du utført noe lønnet arbeid i en time eller mer i løpet av de siste syv dagene?
+
+{ANSWERS}
+Ja 
+Nei
+
+F10
+{QUESTION}
+Har du noen gang hatt lønnet arbeid?
+
+{ANSWERS}
+Ja
+Nei 
+
+F11
+{QUESTION}
+I hvilket år hadde du sist betalt arbeid?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+I hovedyrket ditt er du...
+
+{ANSWERS}
+ansatt
+selvstendig næringsdrivende, eller
+arbeider/ arbeidet i familiebedrift? 
+
+F13
+{QUESTION}
+Hvor mange ansatte har du?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Har du en arbeidskontrakt... 
+
+{ANSWERS}
+uten tidsbegrensning
+eller for en begrenset tid
+eller, hadde du ikke kontrakt
+
+F15
+{QUESTION}
+Medregnet deg selv omtrent hvor mange er ansatt der du vanligvis arbeider?
+
+{ANSWERS}
+under 10,
+10 til 24,
+25 til 99,
+100 til 499,
+ eller, 500 eller flere?
+
+F16
+{QUESTION}
+Har du noe ansvar for å lede andre ansattes arbeid i hovedjobben din?
+
+{ANSWERS}
+Ja
+Nei 
+
+F17
+{QUESTION}
+Hvor mange mennesker er du leder for?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Jeg vil nå lese opp en liste med ting som har med arbeidet ditt å gjøre. 
+
+{QUESTION}
+Bruk kortet til å si i hvor stor grad ledelsen på jobben din lar deg... ... selv organisere arbeidsdagen din? 
+
+{ANSWERS}
+0.  Jeg har/hadde ingen innflytelse over det
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Jeg har/hadde full kontroll
+
+F19
+{QUESTION}
+Bruk kortet til å si i hvor stor grad ledelsen på jobben din lar deg.. påvirke beslutninger om organisasjonens aktiviteter? 
+
+{ANSWERS}
+0.  Jeg har/hadde ingen innflytelse over det
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Jeg har/hadde full kontroll
+
+F20
+{QUESTION}
+Hvor mange timer star det at du i utgangspunktet skal jobbe i løpet av en uke i arbeidsavtalen din?  Regn ikke med eventuell betalt eller ubetalt overtid.
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Uavhengig av den egentlige arbeidstiden din, hvor mange timer arbeider du vanligvis i løpet av en uke? Regn med eventuell betalt eller ubetalt overtid.
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Hva lager eller gjør hovedsakelig firmaet eller organisasjonen du jobber i?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Bruk dette kortet og si hva slags type virksomhet du arbeider i?
+
+{ANSWERS}
+Stats-, fylkes- eller kommuneadministrasjon
+Offentlig sektor (f.eks. skole og helsevesen)
+Offentlig eid virksomhet
+Privat bedrift
+Selvstendig næringsdrivende
+Annet
+
+F24
+{QUESTION}
+Hva er navnet eller tittelen på hovedyrket ditt?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Hva slags arbeid gjør du stort sett i hovedyrket ditt?
+
+{ANSWERS}
+
+F25a
+{QUESTION}
+Hva slags opplæring eller kvalifikasjoner trengs i denne jobben?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Har du i løpet av de siste 10 årene hatt lønnet arbeid i et annet land for en periode på 6 måneder eller mer?
+
+{ANSWERS}
+Ja
+Nei
+
+F27
+{QUESTION}
+Har du noen gang vært arbeidsledig og søkt arbeid i en periode på mer enn tre måneder?
+
+{ANSWERS}
+Ja
+Nei 
+
+F28
+{QUESTION}
+Har en slik periode vart i 12 måneder eller mer?
+
+{ANSWERS}
+Ja
+Nei
+
+F29
+{QUESTION}
+Har noen av periodene du har fortalt om funnet sted i løpet av de siste 5 årene?
+
+{ANSWERS}
+Ja
+Nei
+
+F30
+{QUESTION}
+Er du eller har du noen gang vært medlem i en fagforening eller lignende organisasjon?
+
+{ANSWERS}
+Ja, er medlem nå
+Ja, har vært medlem før
+NEI
+
+F31
+{QUESTION}
+Tenk på all inntekt husholdningen mottar. Hva er den viktigste inntektskilden i din husholdning? Velg et alternativ fra kortet.
+
+{ANSWERS}
+Lønn
+Inntekt fra egen næringsvirksomhet (ikke gårdsdrift)
+Inntekt fra gårdsdrift
+Pensjoner
+Arbeidsledighetstrygd eller etterlønn
+Andre trygder eller bidrag
+Inntekt fra investeringer, sparepenger, forsikring eller eiendom
+Annen inntekt (studielån)
+
+F32A
+{QUESTION}
+Slå sammen inntekten du får fra alle kilder. Hvilken bokstav på kortet beskriver husholdningens totale inntekt etter at skatten er trukket fra. Hvis du ikke vet, velg den bokstaven du tror passer best. Bruk den delen av kortet som du kjenner best, enten ukentlig, månedlig eller årlig inntekt.
+
+{ANSWERS}
+Omtrentlig UKENTLIG
+J Mindre enn NOK 2 400
+R NOK 2 400 til NOK 3 300
+C NOK 3 300 til NOK 4 300
+M NOK 4 300 til NOK 5 200
+F NOK 5 200 til NOK 6 300
+S NOK 6 300 til NOK 7 600
+K NOK 7 600 til NOK 9 100
+P NOK 9 100 til NOK 10 600
+D NOK 10 600 til NOK 12 900
+H NOK 12 900 eller mer
+
+F32B
+{QUESTION}
+Slå sammen inntekten du får fra alle kilder. Hvilken bokstav på kortet beskriver husholdningens totale inntekt etter at skatten er trukket fra. Hvis du ikke vet, velg den bokstaven du tror passer best. Bruk den delen av kortet som du kjenner best, enten ukentlig, månedlig eller årlig inntekt.
+
+{ANSWERS}
+Omtrentlig MÅNEDLIG
+J Mindre enn NOK 10 500
+R NOK 10 500 til NOK 14 000
+C NOK 14 000 til NOK 18 500
+M NOK 18 500 til NOK 22 500
+F NOK 22 500 til NOK 27 000
+S NOK 27 000 til NOK 33 000
+K NOK 33 000 til NOK 39 500
+P NOK 39 500 til NOK 46 000
+D NOK 46 000 til NOK 56 000
+H NOK 56 000 eller mer
+
+F32C
+{QUESTION}
+Slå sammen inntekten du får fra alle kilder. Hvilken bokstav på kortet beskriver husholdningens totale inntekt etter at skatten er trukket fra. Hvis du ikke vet, velg den bokstaven du tror passer best. Bruk den delen av kortet som du kjenner best, enten ukentlig, månedlig eller årlig inntekt.
+
+{ANSWERS}
+Omtrentlig ÅRLIG
+J Mindre enn NOK 125 000
+R NOK 125 000 til NOK 170 000
+C NOK 170 000 til NOK 220 000
+M NOK 220 000 til NOK 270 000
+F NOK 270 000 til NOK 325 000
+S NOK 325 000 til NOK 400 000
+K NOK 400 000 til NOK 475 000
+P NOK 475 000 til NOK 550 000
+D NOK 550 000 til NOK 670 000
+H NOK 670 000 eller mer
+
+F33
+{QUESTION}
+Hvilken av beskrivelsene på dette kortet passer best med hvordan du opplever husholdningens inntekt for tiden?
+
+{ANSWERS}
+Har det bra med nåværende inntekt
+Klarer meg/oss med nåværende inntekt
+Det er vanskelig å klare seg på nåværende inntekt
+Det er svært vanskelig å klare seg på nåværende inntekt
+
+F34
+{QUESTION}
+Hvis du av en eller annen grunn fikk alvorlige økonomiske problemer og måtte låne penger for å få endene til å møtes, hvor vanskelig eller lett ville det være?
+
+{ANSWERS}
+Veldig vanskelig
+Ganske vanskelig
+Verken lett eller vanskelig
+Ganske lett
+Veldig lett
+
+F36
+{QUESTION}
+Hva er den høyeste utdanningen til din ektefelle? Bruk kategoriene på kortet.
+
+{ANSWERS}
+Ingen utdanning eller førskoleutdanning
+Barneskole (første del av obligatorisk utdanning)
+Ungdomsskole (grunnskole, 7-årig folkeskole, framhaldsskole)
+Videregående grunnutdanning (grunnkurs, VK1, folkehøyskole, realskole, ettårig eller toårig utdanning etter folkeskole)
+Videregående avsluttende utdanning (VK2, VK3, gymnas, fagprøve, påbygging til studiekompetanse)
+Teknisk fagskole, godkjent fagskole og forkurs til universitetet som ikke gir studiepoeng
+Universitet/høyskole, 4 år eller mindre med eksamen (bachelor, cand.mag, lærerskole, sykepleieskole, ingeniør, siviløkonom)
+Universitet/høyskole, mer enn 4 år med eksamen (mastergrad, hovedfag, sivilingeniør, siviløkonom høyere avdeling)
+Forskernivå (Dr.grad, Ph.D.)
+
+F37a
+{QUESTION}
+Hvilke av beskrivelsene på kortet passer for det han har gjort de siste 7 dagene? 
+
+{ANSWERS}
+I lønnet arbeid (eller midlertidig fraværende), (ansatt, selvstendig næringsdrivende eller har arbeid i familiebedrift)
+Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning pga ferie)
+Arbeidsledig og aktivt arbeidssøkende
+Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende
+Varig syk eller funksjonshemmet
+Pensjonert
+I siviltjeneste eller militærtjeneste
+Husarbeid, passer barn eller andre personer
+
+F37b
+{QUESTION}
+Mer enn ett nevnt i F37a? 
+
+{ANSWERS}
+Ja
+Nei
+
+F37c
+{QUESTION}
+Og hvilken av beskrivelsene passer best på hans situasjon (de siste 7 dagene)?
+
+{ANSWERS}
+I lønnet arbeid (eller midlertidig fraværende), (ansatt, selvstendig næringsdrivende eller har arbeid i familiebedrift)
+Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning pga ferie)
+Arbeidsledig og aktivt arbeidssøkende
+Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende
+Varig syk eller funksjonshemmet
+Pensjonert
+I siviltjeneste eller militærtjeneste
+Husarbeid, passer barn eller andre personer
+
+F38
+{QUESTION}
+Skal vi se, har han utført lønnet arbeid (i minst en time) i løpet av de siste syv dagene? 
+
+{ANSWERS}
+Ja
+Nei 
+
+F39
+{QUESTION}
+Hva er navnet eller tittelen på hans hovedyrke? 
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Hva slags arbeid gjør han stort sett i sitt hovedyrke?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Hva slags opplæring eller kvalifikasjoner trengs i jobben?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+I hovedjobben hans, er han ...
+
+{ANSWERS}
+ansatt, 
+selvstendig næringsdrivende
+eller arbeider i familiebedrift? 
+
+F43
+{QUESTION}
+Hvor mange ansatte har han?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Har han noe ansvar for å lede andre ansattes arbeid i hovedjobben sin?
+
+{ANSWERS}
+Ja
+Nei 
+
+F45
+{QUESTION}
+Hvor mange mennesker er han leder for?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Jeg vil nå lese opp en liste med ting som har med din partners arbeid å gjøre. 
+
+{QUESTION}
+Bruk kortet til å si i hvor stor grad ledelsen på jobben lar han... selv organisere arbeidsdagen sin?
+
+{ANSWERS}
+0.  Han/hun har ingen innflytelse over det
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+7. 
+8. 
+9. 
+10. Han/hun har full kontroll
+
+F47
+{QUESTION}
+Jeg vil nå lese opp en liste med ting som har med din partners arbeid å gjøre. Bruk kortet til å si hvor stor grad ledelsen på jobben lar ham ... påvirke beslutninger om organisasjonens aktiviteter?
+
+{ANSWERS}
+0.  Han/hun har ingen innflytelse over det
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+7. 
+8. 
+9. 
+10. Han/hun har full kontroll
+
+F48
+{QUESTION}
+Hvor mange timer arbeider han vanligvis i løpet av en uke (i hovedjobben sin)? Ta med eventuell betalt eller ubetalt overtid.
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Hva er den høyeste utdanningen til faren din? Bruk kategoriene på kortet.
+
+{ANSWERS}
+Ingen utdanning eller førskoleutdanning
+Barneskole (første del av obligatorisk utdanning)
+Ungdomsskole (grunnskole, 7-årig folkeskole, framhaldsskole)
+Videregående grunnutdanning (grunnkurs, VK1, folkehøyskole, realskole, ettårig eller toårig utdanning etter folkeskole)
+Videregående avsluttende utdanning (VK2, VK3, gymnas, fagprøve, påbygging til studiekompetanse)
+Teknisk fagskole, godkjent fagskole og forkurs til universitetet som ikke gir studiepoeng
+Universitet/høyskole, 4 år eller mindre med eksamen (bachelor, cand.mag, lærerskole, sykepleieskole, ingeniør, siviløkonom)
+Universitet/høyskole, mer enn 4 år med eksamen (mastergrad, hovedfag, sivilingeniør, siviløkonom høyere avdeling)
+Forskernivå (Dr.grad, Ph.D.)
+
+F50
+{QUESTION}
+Da du var i fjortenårsalderen, var faren din ansatt, var han selvstendig næringsdrivende, eller arbeidet han ikke da?
+
+{ANSWERS}
+Ansatt 
+Selvstendig næringsdrivende
+Arbeidet ikke 
+Far død eller fraværende da IO var 14 år
+
+F51
+{QUESTION}
+Hvor mange ansatte hadde han?
+
+{ANSWERS}
+Ingen,
+1 til 24,
+25 eller flere
+
+F52
+{QUESTION}
+Hadde han noe ansvar for å lede andre ansattes arbeid?
+
+{ANSWERS}
+Ja
+Nei
+
+F53
+{QUESTION}
+Hva var navnet eller tittelen på hovedyrket hans?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Hvilken av beskrivelsene på kortet passer best på arbeidet han utførte da du var 14 år?
+
+{ANSWERS}
+Profesjons- og tekniske yrker slik som: lege - lærer – ingeniørkunstner - revisor
+Høyere administrative stillinger slik som: banksjef – leder I større bedrift – enhetsleder i offentlig sektor - fagforeningsleder
+Kontorstillinger slik som: sekretær - kontorassistent – kontorsjef - bokholder
+Salgsyrker slik som: salgsdirektør - butikkeier - butikkselger - forsikringsagent
+Serviceyrker slik som: restauranteier - politibetjent – servitør omsorgsarbeider – frisør – militære yrker
+Faglært arbeider slik som: formann - motormekaniker - trykkeriarbeider - verktøymaker - elektriker
+Spesialisert arbeider slik som: murer - bussjåfør – spesialisert fabrikkarbeider - tømrer - blikkenslager - baker
+Ufaglært arbeider slik som: arbeider - vaktmester – ufaglært fabrikkarbeider
+Landbruks- og fiskeriyrker slik som: bonde - gårdsarbeider - traktorkjører – fisker
+
+F55
+{QUESTION}
+Hva er den høyeste utdanningen til moren din? Bruk kategoriene på kortet. 
+
+{ANSWERS}
+Ingen utdanning eller førskoleutdanning
+Barneskole (første del av obligatorisk utdanning)
+Ungdomsskole (grunnskole, 7-årig folkeskole, framhaldsskole)
+Videregående grunnutdanning (grunnkurs, VK1, folkehøyskole, realskole, ettårig eller toårig utdanning etter folkeskole)
+Videregående avsluttende utdanning (VK2, VK3, gymnas, fagprøve, påbygging til studiekompetanse)
+Teknisk fagskole, godkjent fagskole og forkurs til universitetet som ikke gir studiepoeng
+Universitet/høyskole, 4 år eller mindre med eksamen (bachelor, cand.mag, lærerskole, sykepleieskole, ingeniør, siviløkonom)
+Universitet/høyskole, mer enn 4 år med eksamen (mastergrad, hovedfag, sivilingeniør, siviløkonom høyere avdeling)
+Forskernivå (Dr.grad, Ph.D.)
+
+F56
+{QUESTION}
+Da du var i fjortenårsalderen, var moren din ansatt, var hun selvstendig næringsdrivende, eller arbeidet hun ikke da?
+
+{ANSWERS}
+Ansatt 
+Selvstendig næringsdrivende
+Arbeidet ikke 
+Mor død eller fraværende da IO var 14 år
+
+F57
+{QUESTION}
+Hvor mange ansatte hadde hun?
+
+{ANSWERS}
+Ingen,
+1 til 24,
+25 eller flere
+
+F58
+{QUESTION}
+Hadde hun noe ansvar for å lede andre ansattes arbeid?
+
+{ANSWERS}
+Ja
+Nei
+
+F59
+{QUESTION}
+Hva var navnet eller tittelen på hovedyrket hennes?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Hvilken av beskrivelsene på kortet passer best på arbeidet han utførte da du var 14 år?
+
+{ANSWERS}
+Profesjons- og tekniske yrker slik som: lege - lærer – ingeniørkunstner - revisor
+Høyere administrative stillinger slik som: banksjef – leder I større bedrift – enhetsleder i offentlig sektor - fagforeningsleder
+Kontorstillinger slik som: sekretær - kontorassistent – kontorsjef - bokholder
+Salgsyrker slik som: salgsdirektør - butikkeier - butikkselger - forsikringsagent
+Serviceyrker slik som: restauranteier - politibetjent - servitør - omsorgsarbeider - frisør
+Faglært arbeider slik som: formann - motormekaniker - trykkeriarbeider - verktøymaker - elektriker
+Spesialisert arbeider slik som: murer - bussjåfør – spesialisert fabrikkarbeider - tømrer - blikkenslager - baker
+Ufaglært arbeider slik som: arbeider - vaktmester – ufaglært fabrikkarbeider
+Gårdsarbeider slik som: bonde - gårdsarbeider – traktorkjører
+
+F61
+{QUESTION}
+Har du fulgt kurs, undervisning eller deltatt på konferanser for å forbedre kunnskap og ferdigheter for jobben i løpet av de siste 12 månedene? 
+
+{ANSWERS}
+Ja
+Nei
+
+F62
+{QUESTION}
+Kan jeg få spørre om din nåværende ekteskaplige status? Hvilken av beskrivelsene på dette kortet passer for deg?
+
+{ANSWERS}
+Gift
+I registrert partnerskap
+Separert (men fortsatt gift) 
+Separert (men fortsatt i partnerskap) 
+Skilt 
+Enke/enkemann 
+Tidligere i partnerskap som nå er oppløst 
+Tidligere i partnerskap, partneren døde 
+Aldri vært gift OG aldri vært i partnerskap
+
+F63
+{QUESTION}
+Bor du for tiden sammen med din ektefelle?
+
+{ANSWERS}
+Ja 
+Nei
+
+F64
+{QUESTION}
+Bor du for tiden sammen med en annen partner? 
+
+{ANSWERS}
+Ja 
+Nei
+
+F66
+{QUESTION}
+Kan jeg bare sjekke, har du noen gang bodd sammen med en partner uten å være gift? 
+
+{ANSWERS}
+Ja 
+Nei
+
+F68
+{QUESTION}
+Har du noen gang vært skilt?
+
+{ANSWERS}
+Ja 
+Nei
+
+F70
+{QUESTION}
+Har du noen gang hatt egne barn, stebarn, fosterbarn eller partners barn boende i din husholdning?
+
+{ANSWERS}
+Ja 
+Nei
+
+F71
+{QUESTION}
+Er det fasttelefon i din bolig?
+
+{ANSWERS}
+Ja 
+Nei
+
+F72
+{QUESTION}
+Har du din egen mobiltelefon?
+
+{ANSWERS}
+Ja 
+Nei
+
+F73
+{QUESTION}
+Hender det at du bruker Internett til å ringe hjemmefra?
+
+{ANSWERS}
+Ja 
+Nei
+Har ikke Internett hjemme

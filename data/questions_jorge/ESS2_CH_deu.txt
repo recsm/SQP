@@ -1,0 +1,2050 @@
+﻿Q154 A1
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Fernsehen? Bitte verwenden Sie für Ihre Antwort Karte 1.
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q154 A2 
+{QUESTION}
+Und wieviel von dieser Zeit verbringen Sie damit, die Nachrichten oder Fernsehsendungen zu Politik und Zeitgeschehen zu sehen? Bitte verwenden Sie auch dafür diese Karte
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q154 A3 
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Radiohören? Verwenden Sie die gleiche Karte.
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q154 A4 
+{QUESTION}
+Und wieviel von dieser Zeit verbringen Sie damit die Nachrichten oder Sendungen zu Politik und Zeitgeschehen zu hören?
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q154 A5 
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Zeitunglesen? Verwenden Sie die gleiche Karte nochmals.
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q154 A6 
+{QUESTION}
+Und wieviel von dieser Zeit verbringen Sie damit Artikel zu Politik und Zeitgeschehen zu lesen?
+
+{ANSWERS}
+Überhaupt keine Zeit
+Weniger als ½ Stunde
+½ Stunde, bis zu 1 Stunde
+Mehr als 1 Stunde, bis zu 1 ½ Stunden
+Mehr als 1 ½ Stunde, bis zu 2 Stunden
+Mehr als 2 Stunden, bis zu 2 ½ Stunden
+Mehr als 2 ½ Stunden, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+Q155 A7 
+{QUESTION}
+Nun, mit Hilfe der Karte 2, wie oft benutzen Sie das Internet oder e-mail- egal ob zu Hause oder am Arbeitsplatz - für Ihren personlichen Gebrauch.
+
+{ANSWERS}
+Kein Zugang, weder zu Hause noch am Arbeitsplatz
+Nie
+Weniger als einmal pro Monat
+Einmal pro Monat
+Mehrmals pro Monat
+Einmal pro Woche
+Mehrmals pro Woche
+Jeden Tag
+
+Q156 A8 
+{QUESTION}
+Gehen Sie in der Regel davon aus, dass man den meisten Menschen trauen kann, oder sind Sie eher der Meinung, dass man nicht vorsichtig genug sein kann? Verwenden Sie diese Karte. 0 bedeutet hier, dass man nicht vorsichtig genug sein kann, 10, dass man den meisten Menschen trauen kann.
+
+{ANSWERS}
+0 - Man kann nicht genug vorsichtig sein.
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Man kann den meisten Menschen trauen.
+
+Q157 A9
+{QUESTION}
+Glauben Sie, dass die meisten Menschen versuchen würden, Sie auszunützen, wenn sie die Gelegenheit dazu hätten, oder gehen Sie eher davon aus, dass sie sich fair verhalten würden? Verwenden Sie diese Karte
+
+{ANSWERS}
+0 - Die meisten Menschen würden versuchen, mich auszunützen..
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Die meisten Menschen würden sich fair verhalten
+
+Q158 A10 
+{QUESTION}
+Würden Sie sagen, dass die meisten Menschen im Grossen und Ganzen versuchen, hilfsbereit zu sein, oder sind sie meistens nur auf den eigenen Vorteil bedacht?
+
+{ANSWERS}
+0 - Die meisten Menschen sind nur auf den eigenen Vorteil bedacht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Die meisten Menschen versuchen, hilfsbereit zu sein.
+
+Q161 B1 
+{INTRO}
+Nun ein paar Fragen über Politik und Regierung.
+
+{QUESTION}
+Wie stark interessieren Sie sich für Politik? Würden Sie sagen, Sie sind:
+
+{ANSWERS}
+ ... Sehr interessiert
+ ... Ziemlich interessiert
+ ... Kaum interessier
+ Oder überhaupt nicht interessiert?
+
+Q162 B2 
+{QUESTION}
+Wie oft erscheint Ihnen Politik so kompliziert, dass Sie gar nicht richtig verstehen, worum es eigentlich geht?
+
+{ANSWERS}
+Nie
+Selten
+Manchmal
+Ziemlich häufig
+Häufig
+
+Q163 B3 
+{QUESTION}
+Wie schwer oder leicht fällt es Ihnen, sich bei politischen Fragen eine Meinung zu bilden ? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+Sehr schwer
+Schwer
+Weder schwer noch leicht
+Leicht
+Sehr leicht
+
+Q164 B4
+{QUESTION}
+Bitte sagen Sie mir, wie Sie persönlich Ihr Vertrauen in die folgenden Institutionen oder Personengruppen auf einer Skala von 0 bis 10 einstufen würden. 0 bedeutet, dass Sie in eine Institution überhaupt kein Vertrauen haben, 10 steht für Ihr volles Vertrauen. Erstens… National- und Ständerat
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B5 
+{QUESTION}
+… Justiz
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B6 
+{QUESTION}
+… Polizei
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B7 
+{QUESTION}
+… Politiker
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B8 
+{QUESTION}
+ ... Politische Parteien
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B9 
+{QUESTION}
+… Europäisches Parlament
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+Q164 B10 
+{QUESTION}
+ … Vereinte Nationen (UNO)
+
+{ANSWERS}
+0 - Überhaupt kein Vertrauen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Volles Vertrauen
+
+
+Q165 B11 
+{INTRO}
+Es gibt Leute, die aus dem einen oder anderen Grund nicht wählen oder stimmen gehen.
+
+{QUESTION}
+Wie ist das bei Ihnen? Haben Sie an den letzten National- und Ständeratswahlen vom Oktober
+2003 Ihre Stimme abgegeben?
+
+{ANSWERS}
+Ja
+Nein
+Bin nicht stimm- und wahlberechtigt
+
+Q166 B12 
+{QUESTION}
+Welcher Partei haben Sie damals Ihre Stimme gegeben?
+
+{ANSWERS}
+Freisinnig-Demokratische Partei (FDP)
+Christlich-demokratische Volkspartei (CVP)
+Sozialdemokratische Partei (SP)
+Schweizerische Volkspartei (SVP)
+Liberale Partei (LP)
+Evangelische Volkspartei der Schweiz (EVP)
+Christlich-soziale Partei (CSP)
+Partei der Arbeit (PdA)
+Grüne (Grüne Partei, Freie Grüne, Freie Liste, Grünes Bündnis, Sozialistisch-Grüne Alternative)
+Schweizer Demokraten (SD)
+Eidgenössische Demokratische Union (EDU)
+Freiheitspartei (FPS, ehemals Auto-Partei)
+Frauenparteien (Frauen machen Politik (FraP), Frauenliste, Frauen ins Parlament)
+Lega dei Ticinesi (Lega)
+Sonstige
+Leere Stimmabgabe
+
+Q167 B12_N 
+{QUESTION}
+Welcher Partei haben Sie damals Ihre Stimme gegeben?
+
+{ANSWERS}
+
+Q168 B13
+{INTRO}
+Es gibt verschiedene Möglichkeiten, wie man gewisse Missstände in der Schweiz verbessern könnte oder wie man dafür sorgen könnte, dass sie gar nicht erst entstehen. 
+
+{QUESTION}
+Haben Sie in den vergangenen 12 Monaten einen der folgenden Schritte unternommen? Erstens… Einen Politiker oder einen Vertreter der Bundesbehörden, der Kantons- oder der Gemeindeverwaltung kontaktiert
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B14 
+{QUESTION}
+In einer politischen Partei oder einer Gruppierung mitgewirkt
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B15 
+{QUESTION}
+In einer sonstigen Organisation oder in einem Verband mitgewirkt
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B16 
+{QUESTION}
+Ein Abzeichen oder einen Kleber einer Kampagne getragen oder irgendwo angebracht
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B17 
+{QUESTION}
+Eine Petition unterzeichnet
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B18 
+{QUESTION}
+An einer bewilligten Demonstration teilgenommen
+
+{ANSWERS}
+Ja
+Nein
+
+Q168 B19
+{QUESTION}
+Bestimmte Produkte boykottiert
+
+{ANSWERS}
+Ja
+Nein
+
+Q169 B20a 
+{QUESTION}
+Gibt es eine bestimmte politische Partei, die Ihnen näher steht als alle übrigen Parteien?
+
+{ANSWERS}
+Ja
+Nein
+
+Q170 B20b 
+{QUESTION}
+Welche?
+
+{ANSWERS}
+Freisinnig-Demokratische Partei (FDP)
+Christlich-demokratische Volkspartei (CVP)
+Sozialdemokratische Partei (SP)
+Schweizerische Volkspartei (SVP)
+Liberale Partei (LP)
+Evangelische Volkspartei der Schweiz (EVP)
+Christlich-soziale Partei (CSP)
+Partei der Arbeit (PdA)
+Grüne (Grüne Partei, Freie Grüne, Freie Liste, Grünes Bündnis, Sozialistisch-Grüne Alternative)
+Schweizer Demokraten (SD)
+Eidgenössische Demokratische Union (EDU)
+Freiheitspartei (FPS, ehemals Auto-Partei)
+Frauenparteien (Frauen machen Politik (FraP), Frauenliste, Frauen ins Parlament)
+Lega dei Ticinesi (Lega)
+Sonstige 
+
+Q171 B20b_N 
+{QUESTION}
+Wenn "sonstige", welche ?
+
+{ANSWERS}
+
+Q172 B20c 
+{QUESTION}
+Wie nahe steht Ihnen diese Partei?
+
+{ANSWERS}
+Sehr nahe
+Ziemlich nahe
+Nicht nahe
+Überhaupt nicht nahe
+
+Q173 B21 
+{QUESTION}
+Sind Sie Mitglied einer politischen Partei?
+
+{ANSWERS}
+Ja
+Nein
+
+Q174 B22
+{QUESTION}
+Bei welcher?
+
+{ANSWERS}
+Freisinnig-Demokratische Partei (FDP)
+Christlich-demokratische Volkspartei (CVP)
+Sozialdemokratische Partei (SP)
+Schweizerische Volkspartei (SVP)
+Liberale Partei (LP)
+Evangelische Volkspartei der Schweiz (EVP)
+Christlich-soziale Partei (CSP)
+Partei der Arbeit (PdA)
+Grüne (Grüne Partei, Freie Grüne, Freie Liste, Grünes Bündnis, Sozialistisch-Grüne Alternative)
+Schweizer Demokraten (SD)
+Eidgenössische Demokratische Union (EDU)
+Freiheitspartei (FPS, ehemals Auto-Partei)
+Frauenparteien (Frauen machen Politik (FraP), Frauenliste, Frauen ins Parlament)
+Lega dei Ticinesi (Lega)
+Sonstige 
+
+Q175 B22_N
+{QUESTION}
+Wenn "sonstige", welche ?
+
+{ANSWERS}
+
+Q176 B23 
+{INTRO}
+In der Politik spricht man manchmal von "links" und "rechts". 
+
+{QUESTION}
+Wo auf der Skala auf Liste 9 würden Sie sich selbst einstufen, wenn 0 für links steht und 10 für rechts?
+
+{ANSWERS}
+0 - Links
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Rechts
+
+Q177 B24
+{QUESTION}
+Wie zufrieden sind Sie insgesamt mit Ihrem gegenwärtigen Leben? Bitte antworten Sie anhand von Liste 10. 0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 - Äusserst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst zufrieden
+
+Q177 B25 
+{QUESTION}
+Wie zufrieden sind Sie insgesamt mit der aktuellen wirtschaftlichen Lage in der Schweiz? Verwenden Sie bitte wieder diese Liste
+
+{ANSWERS}
+0 - Äusserst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst zufrieden
+
+Q177 B26 
+{QUESTION}
+Wenn Sie nun an die Schweizer Regierung denken: Wie sehr sind Sie mit der Art und Weise, wie diese die Geschicke des Landes lenkt, zufrieden? Bitte benutzen Sie noch einmal Liste 10.
+
+{ANSWERS}
+0 - Äusserst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst zufrieden
+
+Q177 B27 
+{QUESTION}
+Und wie sehr sind Sie mit der Art und Weise, wie die Demokratie in der Schweiz funktioniert, zufrieden? Bitte sagen Sie es mir noch einmal anhand von Liste 10
+
+{ANSWERS}
+0 - Äusserst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst zufrieden
+
+Q178 B28
+{QUESTION}
+Bitte benutzen Sie Liste 11 und sagen Sie mir bitte, wie Sie - alles in allem - den aktuellen Zustand des schweizerischen Schul- und Bildungssystems beurteilen?
+
+{ANSWERS}
+0 - Äusserst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst gut
+
+Q178 B29 
+{QUESTION}
+Bitte benutzen Sie wieder Liste 11 und sagen Sie mir wie Sie – alles in allem - den aktuellen Zustand des schweizerischen Gesundheitswesens beurteilen?
+
+{ANSWERS}
+0 - Äusserst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst gut
+
+Q179 B30
+{QUESTION}
+Bitte schauen Sie jetzt auf Liste 12 und sagen Sie mir, wie sehr Sie jeder der folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Der Staat sollte Massnahmen ergreifen, um die Einkommensunterschiede zu vermindern.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+Q179 B31 
+{QUESTION}
+Schwule und Lesben sollten ihr Leben nach eigenen Vorstellungen leben können.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+Q179 B32 
+{QUESTION}
+Politische Parteien, welche die Abschaffung der Demokratie anstreben, sollten verboten werden
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+Q179 B33 
+{QUESTION}
+Man kann darauf vertrauen, dass die moderne Wissenschaft unsere Umweltprobleme lösen wird.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+Q180 B34 
+{QUESTION}
+Und jetzt kommen wir zum Thema Europäische Union. Einige meinen, dass die europäische Integration verstärkt werden soll. Andere meinen, dass sie schon zu weit gegangen ist. Bitte benutzen Sie jetzt die Karte 13und sagen Sie mir, welche Zahl auf der Skala Ihre Meinung dazu am besten wiedergibt?
+
+{ANSWERS}
+0 - Die europäische Integration ist bereits zu weit gegangen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Die europäische Integration sollte verstärkt werden
+
+Q181 B35
+{INTRO}
+Nun ein paar Fragen zu Menschen, die aus anderen Ländern stammen und in der Schweiz leben.
+
+{QUESTION}
+Nun zu der Frage, wievielen Zuwanderern es die Schweiz erlauben sollte, hier zu leben. Zunächst geht es um die Zuwanderer, die derselben Volksgruppe oder ethnischen Gruppe angehören wie die Mehrheit der Schweizer. Wievielen von ihnen sollte es die Schweiz erlauben, sich hier niederzulassen?
+
+{ANSWERS}
+Vielen erlauben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+Q181 B36 
+{QUESTION}
+Wie ist das mit Zuwanderern, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die Mehrheit der Schweizer. Bitte benutzen Sie wieder Liste 14. Sollte die Schweiz es
+
+{ANSWERS}
+Vielen erlauben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+Q181 B37 
+{QUESTION}
+Und wie steht es um Menschen aus den ärmeren nichteuropäischen Ländern?
+
+{ANSWERS}
+Vielen erlauben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+Q182 B38 
+{QUESTION}
+Was würden Sie sagen, ist es im allgemeinen gut oder schlecht für die schweizer Wirtschaft, dass Zuwanderer hierher kommen?
+
+{ANSWERS}
+0 - Schlecht für die Wirtschaft
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Gut für die Wirtschaft
+
+Q183 B39 
+{QUESTION}
+Und, wenn Sie diese Liste benutzen, würden Sie sagen, dass Zuwanderer das schweizerische Kulturleben generell eher untergraben oder bereichern?
+
+{ANSWERS}
+0 - Untergraben das Kulturleben
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Bereichern das Kulturleben
+
+Q184 B40 
+{QUESTION}
+Lässt es sich in der Schweiz wegen der Zuwanderer schlechter oder besser leben?
+
+{ANSWERS}
+0 - Schlechter
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Besser
+
+Q187 C1 
+{QUESTION}
+Wenn Sie alle Aspekte Ihres Lebens berücksichtigen: Wie glücklich sind Sie?
+
+{ANSWERS}
+0 - Äusserst unglücklich
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Äusserst glücklich
+
+Q188 C2 
+{QUESTION}
+Benutzen Sie diese Liste und sagen Sie mir, wie häufig treffen Sie sich mit Freunden, Verwandten, Bekannten oder privat mit Arbeitskollegen?
+
+{ANSWERS}
+Nie
+Weniger als einmal pro Monat
+Einmal pro Monat
+Mehrmals pro Monat
+Einmal pro Woche
+Mehrmals pro Woche
+Jeden Tag
+
+Q189 C3 
+{QUESTION}
+Haben Sie jemanden, mit dem Sie vetrauliche und persönliche Angelegenheiten besprechen können?
+
+{ANSWERS}
+Ja
+Nein
+
+Q190 C4 
+{QUESTION}
+Wenn Sie sich mit Gleichaltrigen vergleichen, wie oft nehmen Sie an geselligen Ereignissen oder Treffen teil? Bitte sagen Sie es mir anhand von Karte 20.
+
+{ANSWERS}
+Viel seltener als die meisten
+Seltener als die meisten
+Etwa gleich häufig
+Häufiger als die meisten
+Viel häufiger als die meisten
+
+Q191 C5 
+{QUESTION}
+Ist in den vergangenen 5 Jahren ein Mitglied Ihres Haushalts Opfer eines Einbruchs oder eines Überfalls geworden ?
+
+{ANSWERS}
+Ja
+Nein
+
+Q192 C6 
+{QUESTION}
+Wie sicher fühlen Sie sich oder würden Sie sich fühlen, wenn Sie in Ihrer Wohngegend nach Einbruch der Dunkelheit allein zu Fuss unterwegs sind oder wären? Fühlen Sie sich…
+
+{ANSWERS}
+Sehr sicher
+Sicher
+Unsicher
+Oder sehr unsicher
+
+Q193 C7 
+{QUESTION}
+Wie würden Sie Ihren allgemeinen Gesundheitszustand einstufen? Halten Sie Ihren Gesundheitszustand für:
+
+{ANSWERS}
+... Sehr gut
+... Gut
+... Mittelmässig
+... Schlecht
+... Sehr schlecht ?
+
+Q194 C8 
+{QUESTION}
+Werden Sie bei Ihren täglichen Aktivitäten in irgendeiner Form durch eine langwierige Krankheit, eine Behinderung, ein Gebrechen oder durch eine seelische Krankheit eingeschränkt? Wenn ja, sehr stark oder bis zu einem gewissen Grad?
+
+{ANSWERS}
+Ja, sehr stark
+Ja, bis zu einem gewissen Grad
+Nein
+
+Q195 C9 
+{QUESTION}
+Fühlen Sie sich einer bestimmten Religion oder Konfession zugehörig?
+
+{ANSWERS}
+Ja
+Nein
+
+Q196 C10 
+{QUESTION}
+Welcher?
+
+{ANSWERS}
+ (Römisch-)Katholisch
+Protestantisch
+Orthodox (Russische, griechische Kirche)
+Andere christliche Religion 
+Jüdisch
+Islamisch
+Asiatische Religionen
+Andere nicht christliche Religion 
+
+Q197 C10_N1 
+{QUESTION}
+Andere christliche Religion
+
+{ANSWERS}
+
+Q198 C10_N2 
+{QUESTION}
+Andere nicht christliche Religion 
+
+{ANSWERS}
+
+Q199 C11 
+{QUESTION}
+Haben Sie sich jemals einer bestimmten Religion oder Konfession zugehörig gefühlt?
+
+{ANSWERS}
+Ja
+Nein
+
+Q200 C12 
+{QUESTION}
+Welcher ?
+
+{ANSWERS}
+ (Römisch-)Katholisch
+Protestantisch
+Orthodox (Russische, griechische Kirche)
+Andere christliche Religion 
+Jüdisch
+Islamisch
+Asiatische Religionen
+Andere nicht christliche Religion 
+
+Q201 C12_N1 
+{QUESTION}
+Andere christliche Religion 
+
+{ANSWERS}
+
+Q202 C12_N2 
+{QUESTION}
+Andere nicht christliche Religion 
+
+{ANSWERS}
+
+Q203 C13 
+{QUESTION}
+Ungeachtet der Tatsache, ob Sie nun einer bestimmten Religion angehören oder nicht: Wie religiös sind Sie?
+
+{ANSWERS}
+0 - Überhaupt nicht religiös
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Sehr religiös
+
+Q204 C14 
+{QUESTION}
+Wie oft nehmen Sie abgesehen von besonderen Ereignissen wie Hochzeiten oder Beerdigungen heutzutage an Gottesdiensten teil?
+
+{ANSWERS}
+Jeden Tag
+Mehr als einmal pro Woche
+Einmal pro Woche
+Mindestens einmal pro Monat
+Nur an besonderen Feiertagen
+Noch seltener
+Nie
+
+Q204 C15 
+{QUESTION}
+Abgesehen von Gottesdiensten, wie oft beten Sie – wenn überhaupt? Bitte benutzen Sie dazu wieder Karte 22.
+
+{ANSWERS}
+Jeden Tag
+Mehr als einmal pro Woche
+Einmal pro Woche
+Mindestens einmal pro Monat
+Nur an besonderen Feiertagen
+Noch seltener
+Nie
+
+Q205 C16 
+{QUESTION}
+Würden Sie sich als Angehörige einer Gruppe beschreiben, die in diesem Land diskriminiert wird?
+
+{ANSWERS}
+Ja
+Nein
+
+206 C17 
+{QUESTION}
+Aus welchen Gründen wird Ihre Gruppe diskriminiert?
+
+{ANSWERS}
+Hautfarbe
+Nationalität
+Religion
+Sprache
+Volksgruppe oder ethnische Gruppe
+Alter
+Geschlecht
+Sexuelle Neigungen
+Behinderung
+Andere Gründe 
+
+Q207 C17_N 
+{QUESTION}
+Andere Gründe ?
+
+{ANSWERS}
+
+Q208 C18 
+{QUESTION}
+Sind Sie Schweizerbürger oder Schweizerbürgerin?
+
+{ANSWERS}
+Ja
+Nein
+
+Q209 C19 
+{QUESTION}
+Welche Staatsbürgerschaft besitzen Sie?
+
+{ANSWERS}
+Schweiz
+Belgien
+Dänemark
+Deutschland
+Griechenland
+Spanien
+Frankreich
+Irland
+Italien
+Luxemburg
+Niederlande
+Portugal
+Grossbritanien (inkl. Nordirland)
+Österreich
+Schweden
+Finnland
+Andere Länder 
+Staatenlos
+
+Q210 C19_N 
+{QUESTION}
+Welche andere Staatsbürgerschaft ?
+
+{ANSWERS}
+
+Q211 C20 
+{QUESTION}
+Sind Sie in der Schweiz geboren?
+
+{ANSWERS}
+Ja
+Nein
+
+Q212 C21 
+{QUESTION}
+In welchem Land sind Sie geboren?
+
+{ANSWERS}
+Schweiz
+Belgien
+Dänemark
+Deutschland
+Griechenland
+Spanien
+Frankreich
+Irland
+Italien
+Luxemburg
+Niederlande
+Portugal
+Grossbritanien (inkl. Nordirland)
+Österreich
+Schweden
+Finnland
+Andere Länder 
+Staatenlos
+
+Q213 C21_N 
+{QUESTION}
+Andere Länder ?
+
+{ANSWERS}
+
+Q214 C22 
+{QUESTION}
+Vor wie viel Jahren sind Sie zum ersten Mal in die Schweiz gekommen, um hier zu leben? Bitte sagen Sie es mir anhand von Karte 23.
+
+{ANSWERS}
+Innerhalb des letzten Jahres
+Vor 1 bis 5 Jahren
+Vor 6 bis 10 Jahren
+Vor 11 bis 20 Jahren
+Vor über 20 Jahren
+
+Q215 C23 
+{QUESTION}
+Welche Sprache oder Sprachen sprechen Sie zuhause am häufigsten?
+
+{ANSWERS}
+Deutsch (Schweizerdeutsch oder Hochdeutsch)
+Französisch
+Italienisch
+Rätoromanisch
+Portugiesisch
+Spanisch
+Kurdisch
+Japanisch
+Albanisch
+Serbisch
+Kroatisch
+Englisch
+Andere
+
+Q216 C23_N 
+{QUESTION}
+Welche Sprache oder Sprachen sprechen Sie zuhause am häufigsten?
+
+{ANSWERS}
+
+Q217 C24 
+{QUESTION}
+Gehören Sie einer Volksgruppe oder ethnischen Gruppe an, die in der Schweiz in der Minderheit ist?
+
+{ANSWERS}
+Ja
+Nein
+
+Q218 C25 
+{QUESTION}
+Ist Ihr Vater in der Schweiz geboren?
+
+{ANSWERS}
+Ja
+Nein
+
+Q219 C26 
+{QUESTION}
+In welchen Land ist Ihr Vater geboren?
+
+{ANSWERS}
+Schweiz
+Belgien
+Dänemark
+Deutschland
+Griechenland
+Spanien
+Frankreich
+Irland
+Italien
+Luxemburg
+Niederlande
+Portugal
+Grossbritanien (inkl. Nordirland)
+Österreich
+Schweden
+Finnland
+Andere Länder 
+Staatenlos
+
+Q220 C26_N 
+{QUESTION}
+In welchen Land ist Ihr Vater geboren?
+
+{ANSWERS}
+
+Q221 C27 
+{QUESTION}
+Ist Ihre Mutter in der Schweiz geboren?
+
+{ANSWERS}
+Ja
+Nein
+
+Q222 C28 
+{QUESTION}
+In welchem Land ist Ihre Mutter geboren?
+
+{ANSWERS}
+Schweiz
+Belgien
+Dänemark
+Deutschland
+Griechenland
+Spanien
+Frankreich
+Irland
+Italien
+Luxemburg
+Niederlande
+Portugal
+Grossbritanien (inkl. Nordirland)
+Österreich
+Schweden
+Finnland
+Andere Länder
+Staatenlos
+
+Q223 C28_N 
+{QUESTION}
+In welchem Land ist Ihre Mutter geboren?
+
+{ANSWERS}
+
+Q259 F1 
+{INTRO}
+Und nun möchte ich Ihnen noch ein paar Fragen zu Ihrer Person und zu den anderen Personen in Ihrem Haushalt stellen.
+
+{QUESTION}
+Wenn Sie sich selbst dazuzählen, wie viele Personen - Kinder eingeschlossen - leben regelmässig als Mitglieder in Ihrem Haushalt ?
+
+{ANSWERS}
+
+Q296 F4
+{QUESTION}
+In welchem auf Karte 40 genannten Beziehungsverhältnis steht diese Person zu Ihnen? Tom ist Ihr ... ?
+
+{ANSWERS}
+Ehemann/Ehefrau/Partner/Partnerin
+Sohn/Tochter (einschliesslich Stief-,Pflege- und Adoptivkinder, Kinder des Partners/der Partnerin, Pflegekinder))
+Eltern/Schwiegereltern/Stiefeltern, Vater/Mutter des Partners/der Partnerin, Stiefvater/Stiefmutter
+Bruder/Schwester (einschliesslich Stief-,Pflege- und Adoptivgeschwister)
+Andere verwandte Person
+Andere nichtverwandte Person
+
+Q297 F5 
+{QUESTION}
+Welche der auf Karte 41 aufgeführten Kategorien beschreibt Ihr Wohngebiet am treffendsten?
+
+{ANSWERS}
+Grossstadt
+Aussenquartier oder Vorort einer Grossstadt
+Mittel- oder Kleinstadt
+Dorf
+Bauernhof oder Weiler
+
+Q298 F5a 
+{QUESTION}
+Sind Sie oder ein anderes Mitglied des Haushalts Eigentümer der Wohnung / des Hauses?
+
+{ANSWERS}
+Ja
+Nein
+
+Q299 F5b 
+{QUESTION}
+Wie viele Zimmer stehen Ihrem Haushalt zur Verfügung, ohne Küche, Bäder und Toiletten?
+
+{ANSWERS}
+
+Q300 F6 
+{QUESTION}
+Welches ist Ihre höchste abgeschlossene Ausbildung? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV, (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung (notieren)
+
+Q301 F6_N 
+{QUESTION}
+Andere Ausbildung : Welche ?
+
+{ANSWERS}
+
+Q302 F6a 
+{QUESTION}
+In welchem der folgenden Gebiete haben Sie Ihre höchste Qualifikation?
+
+{ANSWERS}
+Allgemeine Qualifikation oder kein spezieller Bereich
+Kunst, Kunstgewerbe
+Philosophische Wissenschaften - Geisteswissenschaften, Sprachen, Philosophie, Geschichte, Theologie, usw.
+Technik einschl. Maschinenbau, Architektur, Stadtplanung, Industrie, Handwerk, Baugewerbe, usw.
+Land- und Forstwirtschaft
+Lehrerausbildung oder Bildungswesen
+Naturwissenschaften, Mathematik, Informatik, usw.
+Medizin, Gesundheitswesen, Pflege, usw.
+Wirtschaft, Handel, Management, Rechnungswesen, usw.
+Sozial- und Verhaltenswissenschaften, öffentliche Verwaltung, Medien, Kultur, Sportwissenschaften, usw.
+Rechtswissenschaften
+Dienstleistungssektor - Restauration und Hotellerie, Hauswirtschaft, Coiffeur, usw.
+Öffentliche Ordnung und Sicherheit - Polizei, Armee, Feuerwehr, usw.
+Transportwesen und Telekommunikation
+
+Q303 F7 
+{QUESTION}
+Wie viele Jahre Vollzeitausbildung haben Sie seit der ersten Primarschulklasse absolviert, jedoch ohne eine eventuelle Lehrzeit?
+
+{ANSWERS}
+
+Q304 F7bis 
+{QUESTION}
+Und falls Sie eine Lehre gemacht haben, wieviele Jahre hat diese gedauert ?
+
+{ANSWERS}
+
+Q305 F8a 
+{QUESTION}
+Bitte sehen Sie diese Liste einmal durch, und sagen Sie mir alles, was davon in den letzten 7 Tagen auf Sie zutraf.
+
+{ANSWERS}
+Erwerbstätig (auch wenn vorübergehend abwesend) (angestellt, selbständig erwerbend, im Familienbetrieb tätig)
+În Ausbildung, auch wenn zur Zeit in den Ferien (nicht von einem Auftraggeber bezahlt )
+Arbeitslos und aktiv auf Stellensuche
+Arbeitslos mit dem Wunsch, eine Stelle zu haben, aber nicht aktiv auf Stellensuche
+Chronisch krank oder behindert
+Pensioniert
+Im Zivil- oder Militärdienst
+Mit Hausarbeit und der Betreuung von Kindern oder anderen Personen beschäftigt
+Andere
+
+Q307 F8c 
+{QUESTION}
+Und welche dieser Beschreibungen beschreibt Ihre Situation (in den vergangenen 7 Tagen) am besten?
+
+{ANSWERS}
+Erwerbstätig (auch wenn vorübergehend abwesend) (angestellt, selbständig erwerbend, im Familienbetrieb tätig)
+În Ausbildung, auch wenn zur Zeit in den Ferien (nicht von einm Auftraggeber bezahlt )
+Arbeitslos und aktiv auf Stellensuche
+Arbeitslos mit dem Wunsch, eine Stelle zu haben, aber nicht aktiv auf Stellensuche
+Chronisch krank oder behindert
+Pensioniert
+Im Zivil- oder Militärdienst
+Mit Hausarbeit und der Betreuung von Kindern oder anderen Personen beschäftigt
+Andere
+
+Q308 F8d 
+{QUESTION}
+Bitte sehen Sie diese Liste einmal durch, und sagen Sie mir alles, was davon in den letzten sieben Tagen auf Sie zutraf.
+
+{ANSWERS}
+Erwerbstätig (auch wenn vorübergehend abwesend) (angestellt, selbständig erwerbend, im Familienbetrieb tätig)
+În Ausbildung, auch wenn zur Zeit in den Ferien (nicht von einem Auftraggeber bezahlt )
+Arbeitslos und aktiv auf Stellensuche
+Arbeitslos mit dem Wunsch, eine Stelle zu haben, aber nicht aktiv auf Stellensuche
+Chronisch krank oder behindert
+Pensioniert
+Im Zivil- oder Militärdienst
+Mit Hausarbeit und der Betreuung von Kindern oder anderen Personen beschäftigt
+Andere
+
+Q309 F9 
+{QUESTION}
+Darf ich nochmals nachfragen: Sind Sie in den vergangenen 7 Tagen einer bezahlten Beschäftigung (von einer Stunde oder mehr) nachgegangen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q310 F10 
+{QUESTION}
+Sind Sie jemals einer bezahlten Beschäftigung nachgegangen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q311 F11 
+{QUESTION}
+In welchem Jahr sind Sie zum letzen Mal einer bezahlten Beschäftigung nachgegangen?
+
+{ANSWERS}
+
+Q312 F12 
+{QUESTION}
+Sind oder waren Sie bei Ihrer Hauptbeschäftigung…
+
+{ANSWERS}
+ ... angestellt
+ ... selbständig erwerbend
+ ... im Familienbetrieb tätig
+
+Q313 F13 
+{QUESTION}
+Wie viele Angestellte haben Sie?
+
+{ANSWERS}
+
+Q314 F14 
+{QUESTION}
+Ist Ihr Arbeitsvertrag…
+
+{ANSWERS}
+...unbefristet,
+oder befristet,
+oder haben/hatten Sie keinen Arbeitsvertrag?
+
+Q315 F15 
+{QUESTION}
+Wie viele Personen sind an Ihrem üblichen Arbeitsplatz beschäftigt, Sie mit eingerechnet?
+
+{ANSWERS}
+Weniger als 10
+10 bis 24
+25 bis 99
+100 bis 499
+Oder 500 oder mehr?
+
+Q316 F16 
+{QUESTION}
+Sind Sie in Ihrem Hauptberuf für die Beaufsichtigung von anderen Mitarbeitenden verantwortlich?
+
+{ANSWERS}
+Ja
+Nein
+
+Q317 F17 
+{QUESTION}
+Wie viele Personen sind Ihnen unterstellt?
+
+{ANSWERS}
+
+Q318 F18 
+{INTRO}
+Ich lese jetzt eine Liste mit Aussagen über Ihr Arbeitsleben vor. 
+
+{QUESTION}
+Bitte sagen Sie mir, in welchem Maße Ihr Arbeitgeber oder Ihre Geschäftsleitung zuläßt, daß Sie an Ihrem Arbeitsplatz. Ihren täglichen Arbeitsablauf selber bestimmen?
+
+{ANSWERS}
+0 - Ich habe keinen Einfluss
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Ich habe grossen Einfluss
+
+Q318 F19 
+{QUESTION}
+...strategische Entscheidungen über die Tätigkeit des Betriebs oder der Organisation beeinflussen?
+
+{ANSWERS}
+0 - Ich habe keinen Einfluss
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Ich habe grossen Einfluss
+
+Q318 F19a 
+{QUESTION}
+... das eigene Arbeitsrhythmus bestimmen oder ändern?
+
+{ANSWERS}
+0 - Ich habe keinen Einfluss
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Ich habe grossen Einfluss
+
+Q319 F20 
+{QUESTION}
+Wieviele Wochenarbeitstunden sind vorgesehen, mündlich oder vertraglich geregelt - ohne bezahlte oder unbezahlte Überstunden?
+
+{ANSWERS}
+
+Q320 F21 
+{QUESTION}
+Wie viele Stunden pro Woche arbeiten Sie (bei Ihrer Hauptbeschäftigung) effektiv - die bezahlten oder unbezahlten Überstunden mit eingerechnet?
+
+{ANSWERS}
+
+Q321 F22_N 
+{QUESTION}
+Was ist die Bezeichnung oder der Titel Ihres Hauptberufes?
+
+{ANSWERS}
+
+Q322 F23_N 
+{QUESTION}
+Welche Art von Arbeit beinhaltet Ihr Beruf hauptsächlich?
+
+{ANSWERS}
+
+Q323 F24 
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für hren Hauptberuf erforderlich?
+
+{ANSWERS}
+Keine besonderen Kenntnisse
+Erfahrung
+Menschliche Qualitäten
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung 
+
+Q324 F24_N 
+{QUESTION}
+Andere Ausbildung : Welche ?
+
+{ANSWERS}
+
+Q325 NACE F25 
+{QUESTION}
+In welchem Bereich ist die Firma/ Organisation, für die Sie hauptsächlich arbeiten, tätig?
+
+{ANSWERS}
+
+Q327 F26 
+{QUESTION}
+Sind Sie in den letzten 10 Jahren für 6 Monate oder länger im Ausland einer bezahlten Arbeit nachgegangen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q327 F27 
+{QUESTION}
+Waren Sie jemals während mehr als drei Monaten arbeitslos und auf Stellensuche?
+
+{ANSWERS}
+Ja
+Nein
+
+Q327 F28 
+{QUESTION}
+Waren Sie einmal ununterbrochen mehr als 12 Monate arbeitslos?
+
+{ANSWERS}
+Ja
+Nein
+
+Q327 F29 
+{QUESTION}
+Haben Sie solche Phasen der Arbeitslosigkeit innerhalb der vergangen 5 Jahren durchlebt? 
+
+{ANSWERS}
+Ja
+Nein
+
+Q328 F30 
+{QUESTION}
+Sind Sie oder waren Sie jemals Mitglied einer Gewerkschaft oder einer vergleichbaren Organisation? Falls JA, sind Sie das heute noch oder waren Sie das früher einmal?
+
+{ANSWERS}
+Ja, heute noch
+Ja, früher einmal
+Nein
+
+Q329 F31 
+{QUESTION}
+Bitte berücksichtigen Sie bei der nächsten Frage das Einkommen sämtlicher Mitglieder Ihres Haushaltes und die Einnahmen, die der Haushalt als Ganzes erhalten kann. Was ist die Haupteinnahmequelle in Ihrem Haushalt? Bitte sagen Sie es mir anhand von Karte 45.
+
+{ANSWERS}
+Löhne oder Gehälter
+Einkommen aus selbständiger Erwerbstätigkeit (ausgenommen Landwirtschaft)
+Einkommen aus der Landwirtschaft
+Renten oder Pensionen
+Arbeitslosenunterstützung oder Abfindungen
+Andere Sozialleistungen oder -hilfen
+Einkommen aus Vermögensanlagen, Ersparnissen, Versicherungen oder Eigentum
+Einkommen aus anderen Quellen
+
+Q330 F32A 
+{QUESTION}
+Bitte benutzen Sie Karte 46. Wenn Sie das Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe auf Karte 46 trifft auf das gesamte Nettoeinkommen Ihres Haushaltes zu? Falls Sie die genauen Zahlen nicht kennen: Bitte geben Sie eine ungefähre Schätzung an. Verwenden Sie den Abschnitt der Karte, der Ihnen am geläufigsten ist: Wochen-, Monats- oder Jahreseinkommen
+
+{ANSWERS}
+Ungefähr pro WOCHE
+J Weniger als CHF 60
+R CHF 60 bis weniger als CHF 105
+C CHF 105 bis weniger als CHF 180
+M CHF 180 bis weniger als CHF 345
+F CHF 345 bis weniger als CHF 525
+S CHF 525 bis weniger als CHF 690
+K CHF 690 bis weniger als CHF 870
+P CHF 870 bis weniger als CHF 1035
+D CHF 1035 bis weniger als CHF 1725
+H CHF 1725 bis weniger als CHF 2595
+U CHF 2595 bis weniger als CHF 3465
+N CHF 2465 oder mehr
+
+Q330 F32B 
+{QUESTION}
+Bitte benutzen Sie Karte 46. Wenn Sie das Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe auf Karte 46 trifft auf das gesamte Nettoeinkommen Ihres Haushaltes zu? Falls Sie die genauen Zahlen nicht kennen: Bitte geben Sie eine ungefähre Schätzung an. Verwenden Sie den Abschnitt der Karte, der Ihnen am geläufigsten ist: Wochen-,
+Monats- oder Jahreseinkommen
+
+{ANSWERS}
+Ungefähr pro MONAT
+J Weniger als CHF 225
+R CHF 225 bis weniger als CHF 450
+C CHF 450 bis weniger als CHF 750
+M CHF 750 bis weniger als CHF 1500
+F CHF 1500 bis weniger als CHF 2250
+S CHF 2250 bis weniger als CHF 3000
+K CHF 3000 bis weniger als CHF 3750
+P CHF 3750 bis weniger als CHF 4500
+D CHF 4500 bis weniger als CHF 7500
+H CHF 7500 bis weniger als CHF 11’250
+U CHF 11’250 bis weniger als CHF 15’000
+N CHF 15’000 oder mehr
+
+
+Q330 F32C 
+{QUESTION}
+Bitte benutzen Sie Karte 46. Wenn Sie das Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe auf Karte 46 trifft auf das gesamte Nettoeinkommen Ihres Haushaltes zu? Falls Sie die genauen Zahlen nicht kennen: Bitte geben Sie eine ungefähre Schätzung an. Verwenden Sie den Abschnitt der Karte, der Ihnen am geläufigsten ist: Wochen-,
+Monats- oder Jahreseinkommen
+
+{ANSWERS}
+Ungefähr pro JAHR
+J Weniger als CHF 2700
+R CHF 2700 bis weniger als CHF 5400
+C CHF 5400 bis weniger als CHF 9000
+M CHF 9000 bis weniger als CHF 18000
+F CHF 18000 bis weniger als CHF 27’000
+S CHF 27’000 bis weniger als CHF 36’000
+K CHF 36’000 bis weniger als CHF 45’000
+P CHF 45’000 bis weniger als CHF 54’000
+D CHF 54’000 bis weniger als CHF 90’000
+H CHF 90’000 bis weniger als CHF 135’000
+U CHF 135’000 bis weniger als CHF 180’000
+N CHF 180’000 oder mehr
+
+Q331 F32a 
+{QUESTION}
+Wie gross ist ungefähr Ihr persönlicher Beitrag zum Haushaltseinkommen?
+
+{ANSWERS}
+Kein Beitrag
+Sehr klein
+Weniger als die Hälfte
+Etwa die Hälfte
+Mehr als die Hälfte
+Sehr gross
+Alles
+
+Q332 F33 
+{QUESTION}
+Welche der Aussagen auf Karte 48 entspricht am ehesten Ihrer Einschätzung der gegenwärtigen Einkommenssituation Ihres Haushaltes?
+
+{ANSWERS}
+Mit dem gegenwärtigen Einkommen lässt es sich gut leben
+Das gegenwärtige Einkommen reicht gerade
+Mit dem gegenwärtigen Einkommen ist es schwierig, über die Runden zu kommen
+Mit dem gegenwärtigen Einkommen ist es sehr schwierig, über die Runden zu kommen
+
+Q333 F34 
+{QUESTION}
+Wenn Sie aus irgendeinem Grund in ernsthafte finanzielle Schwierigkeiten geraten sollten und Geld leihen müssten, um über die Runden zu kommen, wie schwierig oder leicht wäre das für Sie? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+Sehr schwierig
+Schwierig
+Weder schwierig noch leicht
+Ziemlich leicht
+Sehr leicht
+
+Q335 F36 
+{QUESTION}
+Welches ist die höchste abgeschlossene Ausbildung Ihres Ehemanns oder Ihres Partners? Bitte sagen Sie es mir anhand von Karte 50.
+
+{ANSWERS}
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV, Konservartorium (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung (notieren)
+
+Q336 F37a 
+{QUESTION}
+Welche der Beschreibungen auf dieser Karte trifft auf seine Tätigkeit in den vergangenen 7 Tagen zu?
+
+{ANSWERS}
+Erwerbstätig (auch wenn vorübergehend abwesend) (angestellt, selbständig erwerbend, im Familienbetrieb tätig)
+in Ausbildung, auch wenn zur Zeit in den Ferien (nicht von einem Auftraggeber bezahlt)
+Arbeitslos und aktiv auf Stellensuche
+Arbeitslos mit dem Wunsch, eine Stelle zu haben, aber nicht aktiv auf Stellensuche
+Chronisch krank oder behindert
+Pensioniert
+im Zivil- oder Militärdienst
+mit Hausarbeit und der Betreuung von Kindern oder anderen Personen
+Andere
+
+Q338 F37c 
+{QUESTION}
+Und welche dieser Beschreibungen beschreibt seine Situation (in den vergangenen 7 Tagen) am besten?
+
+{ANSWERS}
+Erwerbstätig (auch wenn vorübergehend abwesend) (angestellt, selbständig erwerbend, im Familienbetrieb tätig)
+in Ausbildung, auch wenn zur Zeit in den Ferien (nicht von einem Auftraggeber bezahlt)
+Arbeitslos und aktiv auf Stellensuche
+Arbeitslos mit dem Wunsch, eine Stelle zu haben, aber nicht aktiv auf Stellensuche
+Chronisch krank oder behindert
+Pensioniert
+im Zivil- oder Militärdienst
+mit Hausarbeit und der Betreuung von Kindern oder anderen Personen
+Andere
+
+Q339 F38 
+{QUESTION}
+Darf ich nochmals kurz nachfragen: Ist ihr Partner in den vergangenen 7 Tagen einer bezahlten Beschäftigung (von einer Stunde oder mehr) nachgegangen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q340 F39_N 
+{QUESTION}
+Was ist die Bezeichnung oder der Titel seines Hauptberufes?
+
+{ANSWERS}
+
+Q341 F40_N 
+{QUESTION}
+Welche Art von Arbeit beinhaltet sein Beruf hauptsächlich?
+
+{ANSWERS}
+
+Q342 F41 
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für den Hauptberuf erforderlich?
+
+{ANSWERS}
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV, (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung 
+
+Q343 F42 
+{QUESTION}
+Ist oder war er bei seiner Hauptbeschäftigung…
+
+{ANSWERS}
+angestellt
+selbständig erwerbend
+im Familienbetrieb tätig
+
+Q344 F43 
+{QUESTION}
+Wie viele Personen waren ihm unterstellt?
+
+{ANSWERS}
+
+Q345 F44 
+{QUESTION}
+Ist er an seinem Hauptarbeitsort für die Beaufsichtigung von anderen Mitarbeitenden verantwortlich?
+
+{ANSWERS}
+Ja
+Nein
+
+Q346 F45 
+{QUESTION}
+Wie viele Personen sind ihm unterstellt ?
+
+{ANSWERS}
+
+Q347 F46 
+{INTRO}
+Ich lese Ihnen nun eine Liste von Aussagen über das Arbeitsleben Ihres Partners vor. 
+
+{QUESTION}
+Bitte verwenden Sie zur Beantwortung der Frage diese Karte. Wie viel Spielraum gibt ihm die Geschäftsleitung , um ... zu entscheiden, wie seine tägliche Arbeit organisiert ist?
+
+{ANSWERS}
+0 - Er/sie hat keinen Einfluss
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Er/sie hat grossen Einfluss
+
+Q347 F47 
+ {QUESTION}
+... Einfluss zu nehmen auf strategische Massnahmen zur Tätigkeit der Organisation/ Firma?
+
+{ANSWERS}
+0 - Er/sie hat keinen Einfluss
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10- Er/sie hat grossen Einfluss
+
+Q348 F48 
+{QUESTION}
+Wieviele Stunden arbeitet er normalerweise in einer Woche in seinem Hauptberuf, einschliesslich bezahlter oder unbezahlter Überstunden?
+
+{ANSWERS}
+
+Q349 F49 
+{QUESTION}
+Welches ist die höchste abgeschlossene Bildung Ihres Vater? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV, (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung 
+
+Q350 F50 
+{QUESTION}
+War Ihr Vater zum Zeitpunkt, als Sie 14 Jahre alt waren, angestellt, selbständig erwerbend oder nicht berufstätig?
+
+{ANSWERS}
+Angestellt
+Selbständig erwerbend
+Nicht berufstätig
+Als Befragte/r 14 war, war der Vater tot/abwesend
+
+Q351 F51 
+{QUESTION}
+Wie viele Beschäftigte hatte er?
+
+{ANSWERS}
+Keine
+1 bis 24
+25 oder mehr
+
+Q352 F52 
+{QUESTION}
+War er an seinem Hauptarbeitsort für die Beaufsichtigung von anderen Mitarbeitenden verantwortlich?
+
+{ANSWERS}
+Ja
+Nein
+
+Q353 F53_N 
+{QUESTION}
+Was ist die Bezeichnung oder der Titel seiner Hauptbeschäftigung?
+
+{ANSWERS}
+
+Q354 F54 
+{QUESTION}
+Welche der Berufskategorien auf dieser Karte beschreibt die Arbeit Ihres Vaters, als Sie 14 Jahre alt waren, am besten?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwalt, Arzt, Wissenschaftler, Ingenieur
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrer, Krankenpfleger, Physiotherapeut, Sozialarbeiter, Künstler, Musiker, Polizeibeamter (im höheren oder gehobenen Dienst), Software Entwickler
+Mittlere Verwaltungs- oder Dienstleistungsberufe wie: Sekretär, Sachbearbeiter, kaufmännischer Angestellter, Telefonist, Hilfspfleger, Hilfskrankenschwester, Kindermädchen
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und Koordination von Arbeit und Finanzen) wie z.B. Finanzchef, Geschäftsführer.
+Gelernte technische und handwerkliche Berufe z.B.: Automechaniker, Schlosser, Sanitär, Drucker, Werkzeugmacher, Elektriker, Gärtner, Lokomotivführer
+Angelernte handwerkliche und Dienstleistungsberufe z.B.: Postangestellter, Maschinenarbeiter, Sicherheitsbediensteter, Hauswart, Landarbeiter, Empfangspersonal, Verkaufspersonal
+Ungelernte handwerkliche und Dienstleistungsberufe z.B.: LKW-Fahrer, Reinigungspersonal, Portier, Packer, Näherin, Bote, Hilfsarbeiter, Servierpersonal, Barpersonal
+Mittlere oder untere Managementberufe wie: Büroleiter, Filialleiter im Einzelhandel, Filialleiter einer Bank, Filialleiter einer Restaurantkette, Kaufhausdirektor, Wirt
+
+Q355 F55 
+{QUESTION}
+Welches ist die höchste abgeschlossene Ausbildung Ihrer Mutter? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+Keine abgeschlossene obligatorische Ausbildung
+Obligatorische Schule (Sekundarschule)
+Anlehre (in Betrieb und Schule)
+Maturitätsschulen, Gymnasium, Lehrerseminar, Schule für Unterrichtsberufe
+Berufsmaturität
+1 Jahr Handelsschule/allgemeine Schule, Haushaltslehrjahr, Sprachaufenthalt
+Berufslehren, BMS, KV
+2-3 Jahre: allgemeinbildende Schule, (Diplommittelschule, Verkehrsschule)
+2-3 Jahre: Vollzeitberufsschule (Handelsschule, Lehrwerkstätte)
+Höhere Berufsausbildung mit Meisterdiplom, Eidgenössischer Fachausweis
+Techniker- oder Fachschule (2 Jahre Voll- oder 3 Jahre Teilzeit)
+Höhere Fachschule, HTL, HMV, Konservartorium (3 Jahre Voll- oder 4 Jahre Teilzeit)
+Universität (3 Jahre)
+Universität, Hochschule (4 Jahre und mehr, Lizentiat)
+Universität, Hochschule (Dissertation, Nachdiplom)
+Andere Ausbildung 
+
+Q356 F56 
+{QUESTION}
+War Ihre Mutter zum Zeitpunkt, als Sie 14 Jahre alt waren, angestellt, selbständig erwerbend oder war sie nicht berufstätig?
+
+{ANSWERS}
+Angestellte
+Selbständig erwerbend
+Nicht berufstätig
+Als Befragte/r 14 war, war die Mutter tot/abwesend
+
+Q357 F57 
+{QUESTION}
+Wie viele Beschäftigte hatte sie?
+
+{ANSWERS}
+Keine
+1 bis 24
+25 und mehr
+
+Q358 F58 
+{QUESTION}
+War sie an ihrem Hauptarbeitsort für die Beaufsichtigung von anderen Mitarbeitenden verantwortlich?
+
+{ANSWERS}
+Ja
+Nein
+
+Q359 F59_N 
+{QUESTION}
+Was war die Bezeichnung oder der Titel ihrer Hauptbeschäftigung?
+
+{ANSWERS}
+
+Q360 F60 
+{QUESTION}
+Welche der Beschreibungen auf dieser Karte beschreibt die Arbeit Ihrer Mutter, als Sie 14 Jahre alt waren, am besten?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwalt, Arzt, Wissenschaftler, Ingenieur
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrer, Krankenpfleger, Physiotherapeut, Sozialarbeiter, Künstler, Musiker, Polizeibeamter (im höheren oder gehobenen Dienst), Software Entwickler
+Mittlere Verwaltungs- oder Dienstleistungsberufe wie: Sekretär, Sachbearbeiter, kaufmännischer Angestellter, Telefonist, Hilfspfleger, Hilfskrankenschwester, Kindermädchen
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und Koordination von Arbeit und Finanzen) wie z.B. Finanzchef, Geschäftsführer.
+Gelernte technische und handwerkliche Berufe z.B.: Automechaniker, Schlosser, Sanitär, Drucker, Werkzeugmacher, Elektriker, Gärtner, Lokomotivführer
+Angelernte handwerkliche und Dienstleistungsberufe z.B.: Postangestellter, Maschinenarbeiter, Sicherheitsbediensteter, Hauswart, Landarbeiter, Empfangspersonal, Verkaufspersonal
+Ungelernte handwerkliche und Dienstleistungsberufe z.B.: LKW-Fahrer, Reinigungspersonal, Portier, Packer, Näherin, Bote, Hilfsarbeiter, Servierpersonal, Barpersonal
+Mittlere oder untere Managementberufe wie: Büroleiter, Filialleiter im Einzelhandel, Filialleiter einer Bank, Filialleiter einer Restaurantkette, Kaufhausdirektor, Wirt
+
+Q361 F61 
+{QUESTION}
+Haben Sie in den vergangenen 12 Monaten Kurse, Vorträge oder Veranstaltungen besucht, um Ihr berufliches Wissen zu erweitern oder Ihre berufliche Kompetenz zu erweitern?
+
+{ANSWERS}
+Ja
+Nein
+
+Q362 F62 
+{QUESTION}
+Darf ich Sie zu Ihrem gegenwärtigen Zivilstand befragen? Welche der nachstehenden Kategorien auf dieser Karte treffen auf Sie zu?
+
+{ANSWERS}
+Verheiratet
+Getrennt (aber offiziell noch verheiratet)
+Geschieden
+Verwitwet
+Ledig, nie verheiratet gewesen
+
+Q363 F63 
+{QUESTION}
+Leben Sie gegenwärtig mit Ihrem Ehemann zusammen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q364 F64 
+{QUESTION}
+Leben Sie gegenwärtig mit einem anderen Partner zusammen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q365 F65 
+{QUESTION}
+Leben Sie gegenwärtig mit einem Partner zusammen?
+
+{ANSWERS}
+Ja
+Nein
+
+Q366 F66 
+{QUESTION}
+Haben Sie schon jemals mit einem Partner zusammengelebt, mit dem Sie nicht verheiratet waren?
+
+{ANSWERS}
+Ja
+Nein
+
+Q368 F68 
+{QUESTION}
+Wurden Sie schon jemals geschieden?
+
+{ANSWERS}
+Ja
+Nein
+
+Q370 F70 
+{QUESTION}
+Haben Sie jemals mit eigenen oder adoptierten Kindern, Stiefkindern, Pflegekindern oder Kindern eines Partners in Ihrem Haushalt zusammengelebt?
+
+{ANSWERS}
+Ja
+Nein
+
+Q371 F70a 
+{QUESTION}
+Ist Ihre Mutter noch am Leben?
+
+{ANSWERS}
+Ja
+Nein
+
+Q372 F70b 
+{QUESTION}
+Ist Ihr Vater noch am Leben?
+
+{ANSWERS}
+Ja
+Nein
+
+
+

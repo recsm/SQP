@@ -1,0 +1,1779 @@
+﻿A1 
+{QUESTION}
+Hversu lengi horfir þú á sjónvarp á venjulegum virkum degi? Notaðu svarmöguleikana á þessu spjaldi.
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A2 
+{QUESTION}
+Hversu mikið af þeim tíma sem þú notar til að horfa á sjónvarp á venjulegum virkum degi fer í að horfa á fréttir eða umfjöllun um stjórnmál? Notaðu þetta spjald áfram til að svara.
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A3 
+{QUESTION}
+Hversu lengi hlustar þú á útvarp á venjulegum virkum degi? Notaðu sama spjald til að svara.
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A4 
+{QUESTION}
+Hversu mikið af þeim tíma sem þú hlustar á útvarp á venjulegum virkum degi fer í að hlusta á fréttir eða umfjöllun um stjórnmál? Notaðu þetta spjald áfram til að svara.
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A5 
+{QUESTION}
+Hve löngum tíma alls verð þú í að lesa dagblöð á venjulegum virkum degi? Notaðu þetta sama spjald aftur til að svara.
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A6 
+{QUESTION}
+Og hvað fer mikið af þessum tíma í að lesa um stjórnmál og þjóðmálaumræðu?
+
+{ANSWERS}
+0 klst.
+Minna en hálftíma
+½ til 1 klst.
+Meira en 1 klst. og allt að1½ klst.
+Meira en 1½ klst. og allt að 2 klst.
+Meira en 2 klst. og allt að 2½ klst.
+Meira en 2½ klst. og allt að 3 klst.
+Meira en 3 klst.
+
+A7 
+{QUESTION}
+Hversu oft notar þú Internetið eða tölvupóst í einkaerindum - annað hvort heima hjá þér eða í vinnunni? Notaðu nú þetta spjald til að svara.
+
+{ANSWERS}
+Hef hvorki aðgang heima né í vinnu 
+Fer aldrei á netið 
+Sjaldnar en einu sinni í mánuði 
+Einu sinni í mánuði 
+Nokkrum sinnum í mánuði 
+Einu sinni í viku 
+Nokkrum sinnum í viku 
+Daglega 
+
+A8 
+{QUESTION}
+Telur þú almennt að flestu fólki sé treystandi eða finnst þér að aldrei sé of varlega farið í samskiptum við fólk? Svaraðu með því að nefna tölu á bilinu 0-10 þar sem 0 þýðir að aldrei sé of varlega farið og 10 að flestu fólki sé treystandi
+
+{ANSWERS}
+00 Það er aldrei of varlega farið
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Flestu fólki er treystandi
+
+A9 
+{QUESTION}
+Telur þú að flestir myndu reyna að notfæra3 sér þig ef þeir gætu, eða telur þú að flestir myndu reyna að koma fram af sanngirni?
+
+{ANSWERS}
+00 Flestir myndu reyna að notfæra sér mig
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Flestir myndu reyna að koma fram af sanngirni
+
+A10
+{QUESTION}
+Telur þú að fólk reyni oftast að vera hjálpsamt, eða telur þú að oftast hugsi fólk aðallega um sjálft sig? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+00 Fólk hugsar aðallega um sjálft sig
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Fólk reynir oftast að vera hjálpsamt
+
+{INTRO}
+Nú langar mig að spyrja þig nokkurra spurninga um þjóðmál
+
+B1 
+{QUESTION}
+Hversu mikinn áhuga hefur þú á stjórnmálum? Hefur þú... … 
+
+{ANSWERS}
+mikinn áhuga
+nokkurn áhuga
+ekki mikinn áhuga
+eða, engan áhuga?
+
+B2 
+{QUESTION}
+Hversu oft finnast þér stjórnmál vera svo flókin að þú skilur varla hvað er að gerast? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Aldrei 
+Sjaldan 
+Stundum 
+Oft 
+Mjög oft 
+
+B3 
+{QUESTION}
+Hversu erfitt eða auðvelt finnst þér að taka afstöðu til pólitískra álitamála? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Mjög erfitt 
+Erfitt 
+Hvorki erfitt né auðvelt 
+Auðvelt 
+Mjög auðvelt 
+
+
+B4
+{QUESTION}
+Með því að nota þetta spjald til að svara, hversu mikið traust berð þú til eftirfarandi stofnana eða aðila sem ég tel upp? 0 þýðir að þú treystir þeim alls ekki og 10 að þú treystir þeim fullkomlega. Hversu mikið traust berð þú til.... Alþingis?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B5 
+{QUESTION}
+... réttarkerfisins?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B6 
+{QUESTION}
+… lögreglunnar?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B7 
+{QUESTION}
+… stjórnmálamanna?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B8
+{QUESTION}
+…stjórnmálaflokka?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B9 
+{QUESTION}
+… Evrópuþingsins?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B10
+{QUESTION}
+… Sameinuðu þjóðanna?
+
+{ANSWERS}
+00 Treysti alls ekki
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Treysti fullkomlega
+
+B11 
+{QUESTION}
+Af ýmsum ástæðum taka sumir ekki þátt í kosningum. Kaust þú í síðustu Alþingiskosningum sem haldnar voru í maí 2003?
+
+{ANSWERS}
+Já
+Nei
+Hafði ekki kosningarétt
+
+B12 
+{QUESTION}
+Hvaða flokk eða lista kaust þú í þeim kosningum
+
+{ANSWERS}
+Framsóknarflokkinn 
+Frjálslynda flokkinn 
+Nýtt afl 
+Samfylkinguna 
+Sjálfstæðisflokkinn 
+T-lista Kristjáns Pálssonar 
+Vinstri hreyfinguna – Grænt framboð 
+Annað
+
+{INTRO}
+Fara má ólíkar leiðir til að stuðla að úrbótum á Íslandi eða varna því að eitthvað fari úrskeiðis7. 
+
+B13 
+{QUESTION}
+Hefur þú gert eitthvað af eftirfarandi á síðustu 12 mánuðum? Hefur þú…haft samband við stjórmálamann eða opinberan starfsmann hjá ríki eða sveitarfélagi?
+
+{ANSWERS}
+Já
+Nei
+
+B14 
+{QUESTION}
+…tekið þátt í starfi stjórnmálaflokks eða baráttuhóps? 
+
+{ANSWERS}
+Já
+Nei
+
+B15
+{QUESTION}
+…tekið þátt í starfi annarra félaga eða samtaka? 
+
+{ANSWERS}
+Já
+Nei
+
+B16 
+{QUESTION}
+…borið á þér eða sýnt með öðrum hætti barmmerki eða límmiða til stuðnings einhverjum málstað?
+
+{ANSWERS}
+Já
+Nei
+
+B17 
+{QUESTION}
+…skrifað nafn þitt á undirskriftalista?
+
+{ANSWERS}
+Já
+Nei
+
+B18 
+{QUESTION}
+…tekið þátt í löglegum mótmælaaðgerðum eða baráttufundum?
+
+{ANSWERS}
+Já
+Nei
+
+B19
+{QUESTION}
+…sniðgengið ákveðnar vörur í mótmælaskyni? 
+
+{ANSWERS}
+Já
+Nei
+
+
+B20a 
+{QUESTION}
+Finnst þér þú standa nær9 einhverjum sérstökum stjórnmálaflokki eða lista fremur en öðrum?
+
+{ANSWERS}
+Já
+Nei
+
+B20b 
+{QUESTION}
+Hvaða flokki eða lista?
+
+{ANSWERS}
+Framsóknarflokknum 
+Frjálslynda flokknum 
+Nýju afli 
+Samfylkingunni 
+Sjálfstæðisflokknum 
+T-lista Kristjáns Pálssonar 
+Vinstri hreyfingunni – Grænu framboði 
+Öðrum 
+
+B20c 
+{QUESTION}
+Hversu náin finnst þér þú vera þessum flokki eða lista? Finnst þér þú vera...
+
+{ANSWERS}
+mjög náin(n)
+nokkuð náin(n)
+ekki náin(n)
+eða, alls ekki náin(n)?
+
+B21
+{QUESTION}
+Ert þú meðlimur í einhverjum stjórnmálaflokki eða lista?
+
+{ANSWERS}
+. Já
+Nei
+
+B22 
+{QUESTION}
+Hvaða flokki eða lista?
+
+{ANSWERS}
+Framsóknarflokknum 
+Frjálslynda flokknum 
+Nýju afli 
+Samfylkingunni 
+Sjálfstæðisflokknum 
+T-lista Kristjáns Pálssonar 
+Vinstri hreyfingunni – Grænu framboði 
+
+B23 
+{INTRO}
+Í stjórnmálum er oft talað um “vinstri” og “hægri”. 
+
+{QUESTION}
+Með því að nota þetta spjald, hvar myndir þú staðsetja sjálfa þig á slíkum kvarða þar sem 0 þýðir vinstri og 10 þýðir hægri?
+
+{ANSWERS}
+00 Vinstri 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hægri 
+
+B24 
+{QUESTION}
+Þegar á heildina er litið, hversu ánægð ert þú með lífið þessa dagana? Vinsamlega svaraðu með því að nota þetta spjald, þar sem 0 merkir mjög óánægð og 10 merkir mjög ánægð…
+
+{ANSWERS}
+00 Mjög óánægð(ur)
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög ánægð(ur) 
+
+B25 
+{QUESTION}
+Þegar á heildina er litið, hversu ánægð ert þú með efnahagsástandið á Íslandi um þessar mundir? Notaðu áfram þetta spjald til að svara.
+
+{ANSWERS}
+00 Mjög óánægð(ur)
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög ánægð(ur) 
+
+B26 
+{QUESTION}
+Ef við víkjum nú að ríkisstjórninni, hversu ánægð ert þú með störf hennar? Notaðu enn þetta spjald.
+
+{ANSWERS}
+00 Mjög óánægð(ur)
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög ánægð(ur) 
+
+B27 
+{QUESTION}
+Og þegar á heildina er litið, hversu ánægð ert þú með hvernig lýðræði virkar á Íslandi? Notaðu enn þetta spjald.
+
+{ANSWERS}
+00 Mjög óánægð(ur)
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög ánægð(ur) 
+
+B28 
+{QUESTION}
+Þegar á heildina er litið, hvað finnst þér um stöðu menntamála hér á landi? Notaðu núna þetta spjald með svarmöguleikum.
+
+{ANSWERS}
+00 Mjög slæm 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög góð 
+
+B29 
+{QUESTION}
+Þegar á heildina er litið, hvað finnst þér um stöðu heilbrigðismála hér á landi? Notaðu enn þetta spjald til að svara.
+
+{ANSWERS}
+00 Mjög slæm 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög góð 
+
+B30 
+{QUESTION}
+Segðu mér hversu sammála eða ósammála þú ert eftirfarandi fullyrðingum. Stjórnvöld ættu að gera
+ráðstafanir til að draga úr tekjumun í samfélaginu
+
+{ANSWERS}
+Mjög sammála
+Sammála
+Hvorki sammála né ósammála
+Ósammála
+Mjög ósammála
+
+B31
+{QUESTION}
+Samkynhneigðir ættu að geta hagað lífi sínu eins og þeir sjálfir kjósa.
+
+{ANSWERS}
+Mjög sammála
+Sammála
+Hvorki sammála né ósammála
+Ósammála
+Mjög ósammála
+
+B32
+{QUESTION}
+Banna ætti stjórnmálaflokka sem vilja afnema lýðræðið
+
+{ANSWERS}
+Mjög sammála
+Sammála
+Hvorki sammála né ósammála
+Ósammála
+Mjög ósammála
+
+B33
+{QUESTION}
+Hægt að treysta nútímavísindum til að finna lausn á umhverfisvandamálum
+
+{ANSWERS}
+Mjög sammála
+Sammála
+Hvorki sammála né ósammála
+Ósammála
+Mjög ósammála
+
+B34
+{QUESTION}
+Víkjum nú að Evrópusambandinu. Sumum finnst að sameining Evrópuríkja ætti að ganga lengra. Öðrum finnst að hún hafi þegar gengið of langt. Getur þú, með því að nota þetta spjald, sagt hvaða tala á kvarðanum lýsir best þinni afstöðu?
+
+{ANSWERS}
+00 Samruni Evrópuríkja hefur nú þegar gengið of langt
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Vinna ætti að frekari samruna Evrópuríkja
+
+{INTRO}
+Nú koma nokkrar spurningar um fólk sem flust hefur frá öðrum löndum til búsetu á Íslandi
+
+B35
+{QUESTION}
+Að hvaða marki ætti að leyfa fólki sem er af sama kynþætti eða hefur svipaðan menningarlegan uppruna og flestir Íslendingar að flytjast hingað til lands?
+
+{ANSWERS}
+Leyfa mörgum að flytjast hingað 
+Leyfa nokkrum 
+Leyfa fáeinum 
+Leyfa engum 
+
+B36
+{QUESTION}
+En hvað með fólk af öðrum kynþætti eða ólíkum menningarlegum uppruna en flestir Íslendingar? Notaðu enn þetta spjald.
+
+{ANSWERS}
+Leyfa mörgum að flytjast hingað 
+Leyfa nokkrum 
+Leyfa fáeinum 
+Leyfa engum 
+
+B37
+{QUESTION}
+Hvað með fólk sem kemur frá fátækari löndum utan Evrópu? Notaðu enn sama spjaldið til að svara.
+
+{ANSWERS}
+Leyfa mörgum að flytjast hingað 
+Leyfa nokkrum 
+Leyfa fáeinum 
+Leyfa engum 
+
+B38
+{QUESTION}
+Almennt séð, telur þú að það sé gott eða slæmt fyrir efnahag Íslands að fólk frá öðrum löndum flytjist hingað? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+00 Slæmt fyrir efnahaginn
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Gott fyrir efnahaginn
+
+B39
+{QUESTION}
+Telur þú, almennt séð, að fólk frá öðrum löndum sem hingað flyst grafi undan eða auðgi íslenskt menningarlíf? Notaðu þetta spjald til að svara.
+
+{ANSWERS}
+00 Grefur undan menningarlífi 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Auðgar menningarlíf 
+
+B40
+{QUESTION}
+Gerir það Ísland að verri eða betri stað til búa á ef fólk frá öðrum löndum flyst hingað? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+00 Verri stað til að búa á 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Betri stað til að búa á 
+
+{INTRO}
+Nú koma nokkrar spurningar um þig og þína hagi
+
+C1 
+{QUESTION}
+Þegar á heildina er litið, hversu hamingjusama telur þú þig vera? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+00 Mjög óhamingjusöm/-samur 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög hamingjusöm/-samur 
+
+C2 
+{QUESTION}
+Hve oft hittir þú vini, ættinga eða vinnufélaga þér til ánægju?
+
+{ANSWERS}
+Aldrei 
+Sjaldnar en einu sinni í mánuði 
+Einu sinni í mánuði 
+Nokkrum sinnum í mánuði 
+Einu sinni í viku 
+Nokkrum sinnum í viku 
+Á hverjum degi 
+
+C3 
+{QUESTION}
+Er einhver sem þú getur talað við um viðkvæm og persónuleg málefni?
+
+{ANSWERS}
+Já 
+Nei 
+
+C4 
+{QUESTION}
+Miðað við jafnaldra þína, hversu oft hittir þú annað fólk þér til ánægju? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Mun sjaldnar en flestir 
+Sjaldnar en flestir 
+Álíka oft 
+Oftar en flestir 
+Mun oftar en flestir 
+
+C5 
+{QUESTION}
+Hefur þú eða einhver á þínu heimili verið fórnarlamb innbrotsþjófa eða orðið fyrir líkamsárás á síðustu 5 árum?
+
+{ANSWERS}
+Já 
+Nei 
+
+C6 
+{QUESTION}
+Hversu öruggt telur þú að sé fyrir þig að vera á ein á gangi hér í nágrenninu eftir að dimmt er orðið? Er það ... 
+
+{ANSWERS}
+...mjög öruggt
+öruggt
+ekki mjög öruggt
+eða, alls ekki öruggt? 
+
+C7 
+{QUESTION}
+Hvernig er heilsufar þitt, svona almennt séð? Myndir þú segja að það væri … 
+
+{ANSWERS}
+...mjög gott
+gott
+sæmilegt
+slæmt
+eða, mjög slæmt? 
+
+C8 
+{QUESTION}
+Hamla langvarandi veikindi, fötlun, heilsubrestur eða geðræn vandamál þér á einhvern hátt í daglegu
+lífi? Ef já, háir það þér mikið eða að nokkru leyti??
+
+{ANSWERS}
+Já, mikið 
+Já, að nokkru leyti 
+Nei 
+
+C9 
+{QUESTION}
+Líturðu svo á að þú tilheyrir einhverjum sérstökum trúarbrögðum eða trúfélagi?
+
+{ANSWERS}
+Já
+Nei
+
+C10 
+{QUESTION}
+Hvaða?
+
+{ANSWERS}
+Þjóðkirkjunni 
+Fríkirkjusöfnuðum 
+Kaþólsku kirkjunni 
+Annað trúfélag/trúarbrögð 
+
+C11 
+{QUESTION}
+Hefur þú einhvern tíma litið svo á að þú tilheyrðir einhverjum trúarbrögðum eða trúfélagi?
+
+{ANSWERS}
+Já
+Nei
+
+C12 
+{QUESTION}
+Hvaða?
+
+{ANSWERS}
+Þjóðkirkjunni 
+Fríkirkjusöfnuðum 
+Kaþólsku kirkjunni 
+Annað trúfélag/trúarbrögð 
+
+C13 
+{QUESTION}
+Án tillits til þess hvort þú aðhyllist einhver sérstök trúarbrögð, hversu trúuð myndirðu segja að þú sért?
+
+{ANSWERS}
+00 Alls ekki trúuð/trúaður 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mjög trúuð/trúaður
+
+C14 
+{QUESTION}
+Fyrir utan sérstök tilefni, s.s. brúðkaup og jarðarfarir, hversu oft sækir þú trúarlegar athafnir um þessar mundir? Notaðu þetta spjald til að svara.
+
+{ANSWERS}
+Á hverjum degi 
+Oftar en einu sinni í viku 
+Einu sinni í viku 
+Að minnsta kosti einu sinni í mánuði 
+Aðeins á sérstökum helgidögum 
+Sjaldnar 
+Aldrei 
+
+C15
+{QUESTION}
+Að trúarlegum athöfnum frátöldum, hversu oft, ef einhvern tíma, biðstu fyrir? Notaðu þetta spjald til að svara.
+
+{ANSWERS}
+Á hverjum degi 
+Oftar en einu sinni í viku 
+Einu sinni í viku 
+Að minnsta kosti einu sinni í mánuði 
+Aðeins á sérstökum helgidögum 
+Sjaldnar 
+Aldrei 
+
+C16 
+{QUESTION}
+Telur þú þig tilheyra hópi sem beittur er misrétti hér á landi?
+
+{ANSWERS}
+Já 
+Nei 
+
+C17 
+{QUESTION}
+Hvers vegna er þessi hópur beittur misrétti?
+
+{ANSWERS}
+Vegna húðlitar eða kynþáttar 
+Vegna þjóðernis 
+Vegna trúarbragða 
+Vegna tungumáls 
+Því hann er þjóðernislegur minnihlutahópur 
+Vegna aldurs 
+Vegna kynferðis 
+Vegna kynhneigðar 
+Vegna fötlunar 
+Af öðrum ástæðum 
+
+C18 
+{QUESTION}
+Ert þú íslenskur ríkisborgari?
+
+{ANSWERS}
+Já 
+Nei 
+
+C19 
+{QUESTION}
+Í hvaða landi ert þú með ríkisborgararétt
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Fæddist þú á Íslandi?
+
+{ANSWERS}
+Já 
+Nei 
+
+C21
+{QUESTION}
+ Í hvaða landi fæddist þú?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Hvað er langt síðan þú fluttist fyrst til Íslands? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Innan við ár 
+1-5 ár 
+6-10 ár 
+11-20 ár 
+Meira en 20 ár 
+
+C23 
+{QUESTION}
+Hvaða tungumál talar þú oftast heima hjá þér?
+
+{ANSWERS}
+SKRÁ ALLT AÐ 2 TUNGUMÁL HÉR
+
+C24 
+{QUESTION}
+Tilheyrir þú þjóðarbroti hér á Íslandi?
+
+{ANSWERS}
+Já 
+Nei 
+
+C25 
+{QUESTION}
+Fæddist faðir þinn á Íslandi?
+
+{ANSWERS}
+Já
+Nei
+
+C26 
+{QUESTION}
+Í hvaða landi fæddist faðir þinn?
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+Fæddist móðir þín á Íslandi
+
+{ANSWERS}
+Já 
+Nei 
+
+C28 
+{QUESTION}
+Í hvaða landi fæddist móðir þín?
+
+{ANSWERS}
+
+{INTRO}
+Nú langar mig að fá upplýsingar um þig og aðra á heimilinu.
+
+F1 
+{QUESTION}
+Að þér meðtöldum, hversu margir, þar með talin börn, búa venjulega hér á heimilinu?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Og hvaða ár fæddist þú?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Hvernig tengist þú honum?
+
+{ANSWERS}
+Maki
+Sonur/dóttir (þ.m.t. stjúpbörn, fósturbörn, börn maka)
+Foreldri/tengdaforeldri, foreldri maka, stjúpforeldri
+Systkini (þ.m.t. stjúp-, og fóstursystkyni, ættleidd systkini )
+Annar ættingi 
+Önnur óskyld manneskja 
+
+F5 
+{QUESTION}
+Hvað á þessu spjaldi á best við um þann stað þar sem þú býrð?
+
+{ANSWERS}
+Stór borg 
+Úthverfi stórrar borgar 
+Bær eða lítil borg 
+Þorp 
+Býli eða hús utan þéttbýlis 
+
+F5a
+{QUESTION}
+Er þetta húsnæði í eigu einhvers sem býr á heimilinu?
+
+{ANSWERS}
+Já 
+Nei 
+
+F5b
+{QUESTION}
+Hvað er þetta margra herbergja hús, að frátöldu eldhúsi, baðherbergjum og klósettum?
+
+{ANSWERS}
+
+F6 
+{QUESTION}
+Hvaða námi hefur þú lokið? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Engu, barnaskólanám eða minna
+Grunnskólapróf/gagnfræðapróf
+Stutt starfsnám, ár eða minna
+Lengra starfsnám, iðnnám
+Stúdentspróf 
+Háskólastig, fyrsta gráða, t.d. BA/BS/BEd 
+Háskólastig, framhaldsnám 
+Annað 
+
+F6a
+{QUESTION}
+Á hverju þessara sviða er hæsta prófgráða þín? Veldu aðeins eitt svið.
+
+{ANSWERS}
+Almenns eðlis 
+Í listum 
+Í hugvísindum, svo sem tungumálum, bókmenntafræði, sagnfræði, guðfræði o.s.frv.
+Í tækni- og verkfræði, arkítektúr, skipulagsfræði, iðnaði, handiðn o.s.frv.
+Í landbúnaði og skógrækt 
+Í kennslu og menntamálum 
+Í vísindum, stærðfræði, tölvunarfræði o.s.frv. 
+Í læknavísindum, heilbrigðisþjónustu, hjúkrunarfræði, o.s.frv. 
+Í hagfræði, viðskiptum, fyrirtækjastjórnun, bókhaldi o.s.frv. 
+Í félags- og atferlisvísindum, opinberri stjórnsýslu, fjölmiðlun, menningarmálum, íþrótta- og tómstundafræðum o.s.frv.
+Í lögfræði og lögfræðiþjónustu 
+Í persónulegri þjónustu – veitingarekstri, hússtjórn, hárgreiðslu, o.þh. 
+Á sviði löggæslu og öryggismála, s.s. lögregla, herþjónusta, slökkvilið o.s.fr.
+Í samgöngum og fjarskiptum 
+
+F7 
+{QUESTION}
+Í hversu mörg ár hefur þú stundað fullt nám?
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Hvað af því sem talið er upp á þessu spjaldi lýsir því sem þú hefur fengist við síðustu 7 daga? Veldu allt sem á við.
+
+{ANSWERS}
+í launuðu starfi (eða í tímabundnu fríi), launþegi, sjálfstæður atvinnurekandi eða einyrki, starfaði hjá fjölskyldufyrirtæki 
+í námi, (sem ekki er greitt fyrir af vinnuveitanda) einnig ef nám er stundað í fríi frá vinnu 
+atvinnulaus og var að leita mér að vinnu 
+atvinnulaus en ekki í atvinnuleit 
+öryrki 
+á eftirlaunum 
+gegndi samfélags- eða herþjónustu
+sinnti heimilisstörfum, annaðist börn eða annað fólk 
+(annað) 
+
+F8c 
+{QUESTION}
+Og hver þessara lýsinga á best við þig (miðað við síðustu 7 daga)? Vinsamlega veldu aðeins eina.
+
+{ANSWERS}
+í launuðu starfi (eða í tímabundnu fríi), launþegi, sjálfstæður atvinnurekandi eða einyrki, starfaði hjá fjölskyldufyrirtæki 
+í námi, (sem ekki er greitt fyrir af vinnuveitanda) einnig ef nám er stundað í fríi frá vinnu 
+atvinnulaus og var að leita mér að vinnu 
+atvinnulaus en ekki í atvinnuleit 
+öryrki 
+á eftirlaunum 
+gegndi samfélags- eða herþjónustu
+sinnti heimilisstörfum, annaðist börn eða annað fólk 
+(annað) 
+
+F9 
+{QUESTION}
+Svo ég hafi það á hreinu, stundaðir þú einhverja launaða vinnu (klukkustund eða meira) síðustu sjö dagana?
+
+{ANSWERS}
+Já
+Nei
+
+F10 
+{QUESTION}
+Hefur þú einhvern tíma verið í launuðu starfi?
+
+{ANSWERS}
+Já
+Nei 
+
+F11 
+{QUESTION}
+Hvaða ár varst þú síðast í launuðu starfi?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Í aðalstarfi þínu ert þú/ varst þú... 
+
+{ANSWERS}
+…launþegi, 
+með eigin rekstur, 
+eða að vinna við fjölskyldufyrirtæki þitt? 
+
+F13 
+{QUESTION}
+Hversu margir starfsmenn vinna hjá þér ?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Er ráðningarsamningur þinn... 
+
+{ANSWERS}
+…ótímabundinn 
+eða, tímabundinn 
+eða, hefur/hafðir þú engan ráðningarsamning? 
+
+F15 
+{QUESTION}
+Ef þú telur sjálfa þig með, hversu margir vinna á þínum vinnustað? Voru það 
+
+{ANSWERS}
+…færri en 10
+10 til 24
+25 til 99
+100 til 499
+eða, 500 eða fleiri? 
+
+F16 
+{QUESTION}
+Þarft þú, í aðalstarfi þínu, að hafa umsjón með vinnu annars starfsfólks?
+
+{ANSWERS}
+Já 
+Nei 
+
+F17 
+{QUESTION}
+Hvað eru margir undir þinni stjórn?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Nú les ég upp lista með atriðum sem varða vinnuumhverfi þitt. 
+
+{QUESTION}
+Hversu mikið svigrúm veita stjórnendur þér til þess að... að skipuleggja dagleg störf þín?
+
+{ANSWERS}
+00 Ég ræð/réð engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+Ég ræð/réð því algjörlega
+
+
+F19
+{QUESTION}
+ ...hafa áhrif á stefnumótun um starfsemi fyrirtækisins/ stofnunarinnar
+
+{ANSWERS}
+00 Ég ræð/réð engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+Ég ræð/réð því algjörlega
+
+F19a
+{QUESTION}
+… að ráða vinnuhraða þínum?
+
+{ANSWERS}
+00 Ég ræð/réð engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+Ég ræð/réð því algjörlega
+
+F20 
+{QUESTION}
+Hver er vikulegur vinnutími þinn (í aðalstarfi) samkvæmt samningi, ef frá er talin launuð eða ólaunuð yfirvinna?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+En burtséð frá tímafjölda í ráðningarsamningi, hver er vikulegur vinnutími þinn venjulega (í aðalstarfi) að meðtaldri launaðri og ólaunaðri yfirvinnu?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Hvaða starfsheiti hefur þú í þínu aðalstarfi?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Hvert er meginverkefni þitt í aðalstarfi þínu?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Hvaða þjálfun eða menntun þarf til að vinna þetta starf?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Hvað gerir fyrirtækið/ stofnunin, sem þú vinnur hjá, aðallega?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Á síðustu 10 árum, hefur þú verið 6 mánuði eða lengur í launuðu starfi erlendis?
+
+{ANSWERS}
+Já 
+Nei 
+
+F27 
+{QUESTION}
+Hefur þú einhverntímann verið atvinnulaus og að leita að vinnu í meira en þrjá mánuði?
+
+{ANSWERS}
+Já 
+Nei 
+
+F28 
+{QUESTION}
+Hefur eitthvert þessara atvinnuleysistímabila varað í 12 mánuði eða lengur?
+
+{ANSWERS}
+Já 
+Nei 
+
+F29 
+{QUESTION}
+Var eitthvert þessara þriggja mánaða atvinnuleysistímabila á síðustu 5 árum?
+
+{ANSWERS}
+Já 
+Nei 
+
+F30 
+{QUESTION}
+Ert þú eða hefur þú einhvern tíma verið í stéttarfélagi eða sambærilegu félagi? EF JÁ, ertu það núna?
+
+{ANSWERS}
+Já, ég er núna í stéttarfélagi 
+Já, ég var áður í stéttarfélagi 
+Nei 
+
+F31 
+{QUESTION}
+Ef tekið er tillit til tekna allra heimilismanna sem og allra þeirra tekna sem renna til heimilisins í heild sinni, hver er aðaltekjulind heimilisins? Vinsamlega notaðu þetta spjald.
+
+{ANSWERS}
+Launagreiðslur 
+Tekjur af eigin atvinnurekstri (nema búskap) 
+Af búskap 
+Lífeyrir 
+Atvinnuleysisbætur eða starfslokagreiðslur 
+Aðrar félagslegar bætur eða styrkir 
+Fjármagnstekur, sparifé, líftryggingafé eða tekjur vegna fasteigna 
+Aðrar tekjur 
+
+F32A 
+{QUESTION}
+Þegar lagðar eru saman allar tekjur heimilisins, getur þú sagt mér hvaða bókstafur á þessu spjaldi lýsir best ráðstöfunartekjum heimilisins? Vinsamlega áætlaðu upphæðina ef þú veist hana ekki nákvæmlega og miðaðu við þann hluta spjaldsins sem hentar þér best, þ.e. vikulegar, mánaðarlegar eða árlegar tekjur.
+
+{ANSWERS}
+Um það bil Á VIKU
+J Minna en kr. 3.000
+R kr. 3.000 til kr. 5.000
+C kr. 5.100 til kr. 9.000
+M kr. 9.100 til kr. 18.000
+F kr. 18.100 til kr. 27.000
+S kr. 27.100 til kr. 36.000
+K kr. 36.100 til kr. 45.000
+P kr. 45.100 til kr. 55.000
+D kr. 55.100 til kr. 90.000
+H kr. 90.100 til kr. 135.000
+U kr. 135.100 til kr. 180.000
+N Meira en kr. 180.000
+
+F32B
+{QUESTION}
+Þegar lagðar eru saman allar tekjur heimilisins, getur þú sagt mér hvaða bókstafur á þessu spjaldi lýsir best ráðstöfunartekjum heimilisins? Vinsamlega áætlaðu upphæðina ef þú veist hana ekki nákvæmlega og miðaðu við þann hluta spjaldsins sem hentar þér best, þ.e. vikulegar, mánaðarlegar eða árlegar tekjur.
+
+{ANSWERS}
+Um það bil Á MÁNUÐI
+J Minna en kr. 15.000
+R kr.15.100 til kr. 25.000
+C kr. 25.100 til kr. 40.000
+M kr. 40.100 til kr. 80.000
+F kr. 80.100 til kr. 120.000
+S kr. 120.100 til kr. 150.000
+K kr. 150.100 til kr. 190.000
+P kr. 190.100 til kr. 230.000
+D kr. 230.100 til kr. 390.000
+H kr. 390.100 til kr. 580.000
+U kr. 580.100 til kr. 780.000
+N Meira en kr. 780.000
+F32C 
+{QUESTION}
+Þegar lagðar eru saman allar tekjur heimilisins, getur þú sagt mér hvaða bókstafur á þessu spjaldi lýsir best ráðstöfunartekjum heimilisins? Vinsamlega áætlaðu upphæðina ef þú veist hana ekki nákvæmlega og miðaðu við þann hluta spjaldsins sem hentar þér best, þ.e. vikulegar, mánaðarlegar eða árlegar tekjur.
+
+{ANSWERS}
+Um það bil Á ÁRI
+J Minna en kr. 150.000
+R kr. 151.000 til kr. 280.000
+C kr. 281.000 til kr. 470.000
+M kr. 471.000 til kr. 940.000
+F kr. 941.000 til kr. 1.400.000
+S kr. 1.401.000 til kr. 1.900.000
+K kr. 1.901.000 til kr. 2.300.000
+P kr. 2.301.000 til kr. 2.800.000
+D kr. 2.801.000 til kr. 4.700.000
+H kr. 4.701.000 til kr. 7.000.000
+U kr. 7.001.000 til kr. 9.400.000
+N Meira en 9.400.000
+
+F32a
+{QUESTION}
+Hversu mikið af tekjum heimilisins kemur frá þér?
+
+{ANSWERS}
+Ekkert 
+Mjög lítið 
+Minna en helmingur 
+Um það bil helmingur 
+Meira en helmingur 
+Stærstur hluti 
+Allt 
+
+F33 
+{QUESTION}
+Hvað á þessu spjaldi lýsir best fjárhagslegri afkomu heimilisins þessa dagana?
+
+{ANSWERS}
+Heimilið kemst vel af 
+Það tekst að ná endum saman 
+Það er frekar erfitt að láta enda ná saman 
+Það er mjög erfitt að láta enda ná saman 
+
+F34 
+{QUESTION}
+Ef þú værir í verulegum fjárhagsvandræðum af einhverjum ástæðum og þyrftir að fá peninga að láni til að ná endum saman, hversu erfitt eða auðvelt yrði það?
+
+{ANSWERS}
+Mjög erfitt 
+Frekar erfitt 
+Hvorki erfitt né auðvelt 
+Frekar auðvelt 
+Mjög auðvelt 
+
+F36 
+{QUESTION}
+Hvaða námi hefur maki þinn lokið?
+
+{ANSWERS}
+Engu 
+Barnaskólanámi 
+Grunnskólaprófi/gagnfræðaprófi 
+Námi á framhaldsskólastigi 
+Nám eftir framhaldsskólastig, ekki á háskólastigi 
+Grunnnám á háskólastigi 
+Framhaldsnám á háskólastigi 
+
+F37a 
+{QUESTION}
+Hvað af því sem talið er upp á þessu spjaldi lýsir því sem hann/hún hefur fengist við síðustu 7 daga? Veldu allt sem á við. 
+
+{ANSWERS}
+í launuðu starfi (eða í tímabundnu fríi), launþegi, sjálfstæður atvinnurekandi eða einyrki, starfaði hjá fjölskyldufyrirtæki 
+í námi, (sem ekki er greitt fyrir af vinnuveitanda) einnig ef nám er stundað í fríi frá vinnu 
+atvinnulaus og var að leita sér að vinnu 
+atvinnulaus en ekki í atvinnuleit 
+öryrki 
+á eftirlaunum 
+gegndi samfélags- eða herþjónustu
+sinnti heimilisstörfum, annaðist börn eða annað fólk 
+(annað) 
+
+F37c 
+{QUESTION}
+Og hver þessara lýsinga á best við hann (miðað við síðustu 7 daga)? Vinsamlega veldu aðeins eina.
+
+{ANSWERS}
+í launuðu starfi (eða í tímabundnu fríi), launþegi, sjálfstæður atvinnurekandi eða einyrki, starfaði hjá fjölskyldufyrirtæki 
+í námi, (sem ekki er greitt fyrir af vinnuveitanda) einnig ef nám er stundað í fríi frá vinnu 
+atvinnulaus og var að leita mér að vinnu 
+atvinnulaus en ekki í atvinnuleit 
+öryrki 
+á eftirlaunum 
+gegndi samfélags- eða herþjónustu
+sinnti heimilisstörfum, annaðist börn eða annað fólk 
+(annað) 
+
+F38 
+{QUESTION}
+Svo ég hafi það á hreinu, stundaði hann einhverja launaða vinnu (klukkustund eða meira) síðustu sjö dagana?
+
+{ANSWERS}
+Já 
+Nei 
+
+F39 
+{QUESTION}
+Hvaða starfsheiti hefur hann í sínu aðalstarfi?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Hvert er meginverkefni hans í aðalstarfi sínu?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+Hvaða þjálfun eða menntun þarf til að vinna þetta starf?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Í aðalstarfi sínu er hann... 
+
+{ANSWERS}
+...launþegi
+með eigin rekstur
+eða að vinna við fjölskyldufyrirtæki þitt? 
+
+F43 
+{QUESTION}
+Hversu margir starfsmenn vinna hjá honum/henni?
+
+{ANSWERS}
+
+44 
+{QUESTION}
+Þarf hann, í aðalstarfi sínu, að hafa umsjón með vinnu annars starfsfólks?
+
+{ANSWERS}
+Já 
+Nei 
+
+F45 
+{QUESTION}
+Hvað eru margir undir hans stjórn?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Nú les ég upp lista með atriðum sem varða vinnuumhverfi maka þíns. 
+
+{QUESTION}
+Hversu mikið svigrúm veita stjórnendur honum til þess að... að skipuleggja dagleg störf sín?
+
+{ANSWERS}
+00 Hann/hún ræður engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Hann/hún ræður því algjörlega
+
+F47
+{QUESTION}
+ … Hafa áhrif á stefnumótun um starfsemi fyrirtækisins/ stofnunarinnar
+
+{ANSWERS}
+00 Hann/hún ræður engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Hann/hún ræður því algjörlega
+
+F48 
+{QUESTION}
+Hvað vinnur hann venjulega marga tíma á viku (í aðalstarfi) meðtaldri launaðri og ólaunaðri yfirvinnu?
+
+{ANSWERS}
+00 Hann/hún ræður engu um það
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Hann/hún ræður því algjörlega
+
+F49 
+{QUESTION}
+Hvaða námi lauk faðir þinn? Vinsamlega notaðu þetta spjald og segðu mér hvert hæsta stigið var.
+
+{ANSWERS}
+Engu 
+Barnaskólanámi 
+Grunnskólaprófi/gagnfræðaprófi 
+Námi á framhaldsskólastigi 
+Námi eftir framhaldsskólastig, ekki á háskólastigi 
+Grunnnámi á háskólastigi 
+Framhaldsnámi á háskólastigi 
+
+F50 
+{QUESTION}
+Þegar þú varst 14 ára, var faðir þinn launþegi, með eigin rekstur eða ekki í starfi?
+
+{ANSWERS}
+Launþegi 
+Með eigin rekstur 
+Ekki í starfi 
+ (Faðir látinn eða fjarverandi þegar viðmælandi var 14)
+
+F51 
+{QUESTION}
+Hvað störfuðu margir hjá honum?
+
+{ANSWERS}
+Engir 
+1 til 24 
+25 eða fleiri 
+
+F52 
+{QUESTION}
+Þurfti hann, í aðalstarfi sínu, að hafa umsjón með vinnu annars starfsfólks?
+
+{ANSWERS}
+já 
+Nei 
+
+F53 
+{QUESTION}
+Hvert var starfsheiti hans í aðalstarfi sínu?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Hvaða flokkur starfa sem sjá má á þessu spjaldi kemst næst þeirri vinnu sem hann stundaði þegar þú varst 14 ára?
+
+{ANSWERS}
+Hefðbundin sérfræðistörf s.s. endurskoðandi, lögfræðingur, læknir, vísindamaður, bygginga- eða vélaverkfræðingur 
+Nýrri sérfræðistörf svo sem: Kennari, hjúkrunarfræðingur, sjúkraþjálfari, félagsráðgjafi, listamaður, tónlistarmaður lögreglumaður (aðstoðarvarðstjóri eða hærra settur) eða sérfræðingur í
+hugbúnaðarþróun 
+Skrifstofustörf og störf sem krefjast náms af styttri námsbrautum svo sem: ritari, aðstoðarmaður stjórnanda, skrifstofumaður, starfsmaður í símaveri, sjúkraliði, leikskólastarfsmaður eða leiðbeinandi á leikskóla 
+Yfirstjórnendur (sem gera áætlanir, skipuleggja og samræma vinnuferli og bera ábyrgð á fjármálum)
+svo sem: Fjármálastjóri, aðalframkvæmdastjóri 
+Tækni- og iðnaðarstörf svo sem: Vélvirki, vélastillingamaður, eftirlitsmaður, pípulagningamaður, prentiðnaðarmaður, verkfærasmiður, rafvirki, bóndi, garðyrkumaður, lestarstjóri 
+Frekar fastmótuð líkamleg vinna og þjónustustörf svo sem: Póstburðarmaður, vélstjórnandi, öryggisvörður,
+umsjónarmaður (svo sem húsvörður), vinnumaður í sveit, aðstoðarmaður kokka eða annarra veitingamanna, starfsmaður í móttöku, afgreiðslumaður 
+Fastmótuð líkamleg vinna og þjónustustörf svo sem: Vöruflutningabílstjóri, sendibílstjóri, ræstitæknir,
+dyravörður, pökkunarmaður, starfsmaður á saumastofu, sendill, verkamaður, þjónn, barþjónn 
+Millistjórnendur svo sem: skrifstofustjóri, verslunarstjóri, útibússtjóri, framleiðslustjóri í landbúnaði, rekstrarstjóri veitingahúss, lagerstjóri, kráareigandi 
+
+F55 
+{QUESTION}
+Hvaða námi lauk móðir þín? Vinsamlega notaðu þetta spjald og segðu mér hvert hæsta stigið var.
+
+{ANSWERS}
+Engu 
+Barnaskólanámi 
+Grunnskólaprófi/gagnfræðaprófi 
+Námi á framhaldsskólastigi 
+Námi eftir framhaldsskólastig, ekki á háskólastigi 
+Grunnnámi á háskólastigi 
+Framhaldsnámi á háskólastigi 
+
+F56 
+{QUESTION}
+Þegar þú varst 14 ára, var móðir þín launþegi, með eigin rekstur eða ekki í starfi?
+
+{ANSWERS}
+Launþegi 
+Með eigin rekstur 
+Ekki í starfi 
+ (Móðir látin eða fjarverandi63 þegar viðmælandi var 14) 
+
+F57 
+{QUESTION}
+Hvað störfuðu margir hjá henni?
+
+{ANSWERS}
+Engir 
+1 til 24 
+25 eða fleiri 
+
+F58 
+{QUESTION}
+Þurfti hún, í aðalstarfi sínu, að hafa umsjón með vinnu annars starfsfólks?
+
+{ANSWERS}
+Já 
+Nei 
+
+F59 
+{QUESTION}
+Hvert var starfsheiti hennar í aðalstarfi sínu?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Hvaða flokkur starfa sem sjá má á þessu spjaldi kemst næst þeirri vinnu sem hún stundaði þegar þú varst 14 ára?
+
+{ANSWERS}
+Hefðbundin sérfræðistörf ss. endurskoðandi, lögfræðingur, læknir, vísindamaður,
+bygginga- eða vélaverkfræðingur 
+Nýrri sérfræðistörf svo sem: Kennari, hjúkrunarfræðingur, sjúkraþjálfari, félagsráðgjafi, listamaður, tónlistarmaður lögreglumaður (aðstoðarvarðstjóri eða hærra settur) eða sérfræðingur í hugbúnaðarþróun 
+Skrifstofustörf og störf sem krefjast náms af styttri námsbrautum svo sem: ritari, aðstoðarmaður stjórnanda, skrifstofumaður, starfsmaður í símaveri, sjúkraliði, leikskólastarfsmaður eða leiðbeinandi á leikskóla 
+Yfirstjórnendur (sem gera áætlanir, skipuleggja og samræma vinnuferli og bera ábyrgð á fjármálum)
+svo sem: Fjármálastjóri, aðalframkvæmdastjóri 
+Tækni- og iðnaðarstörf svo sem: Vélvirki, vélastillingamaður, eftirlitsmaður, pípulagningamaður, prentiðnaðarmaður, verkfærasmiður, rafvirki, bóndi, garðyrkumaður, lestarstjóri 
+Frekar fastmótuð líkamleg vinna og þjónustustörf svo sem: Póstburðarmaður, vélstjórnandi, öryggisvörður,
+umsjónarmaður (svo sem húsvörður), vinnumaður í sveit, aðstoðarmaður kokka eða annarra veitingamanna, starfsmaður í móttöku, afgreiðslumaður 
+Fastmótuð líkamleg vinna og þjónustustörf svo sem: Vöruflutningabílstjóri, sendibílstjóri, ræstitæknir,
+dyravörður, pökkunarmaður, starfsmaður á saumastofu, sendill, verkamaður, þjónn, barþjónn 
+Millistjórnendur svo sem: skrifstofustjóri, verslunarstjóri, útibússtjóri, framleiðslustjóri í landbúnaði, rekstrarstjóri veitingahúss, lagerstjóri, kráareigandi 
+
+F61 
+{QUESTION}
+Á síðustu tólf mánuðum, hefur þú sótt námskeið, fyrirlestra eða ráðstefnur til að auka þekkingu þína eða færni í vinnu?
+
+{ANSWERS}
+Já 
+Nei 
+
+F62 
+{QUESTION}
+Hver er hjúskaparstaða þín?
+
+{ANSWERS}
+Gift/kvæntur 
+Skilin(n) að borði og sæng 
+Fráskilin(n) 
+Ekkja/ekkill 
+Hef aldrei gengið í hjónaband 5
+
+F63 
+{QUESTION}
+Búið þið hjónin saman?
+
+{ANSWERS}
+Já 
+Nei 
+
+F64 
+{QUESTION}
+Ert þú í sambúð með einhverjum öðrum?
+
+{ANSWERS}
+Já 
+Nei 
+
+F65 
+{QUESTION}
+Ert þú í sambúð?
+
+{ANSWERS}
+Já 
+Nei 
+
+F66 
+{QUESTION}
+Hefur þú einhvern tíma verið í óvígðri sambúð?
+
+{ANSWERS}
+Já 
+Nei 
+
+F68 
+{QUESTION}
+Hefur þú einhvern tíma verið fráskilin
+
+{ANSWERS}
+Já 
+Nei 
+
+F70 
+{QUESTION}
+Hafa þín eigin börn, stjúpbörn, ættleidd börn, fósturbörn eða börn maka þíns einhvern tíma búið á heimili þínu?
+
+{ANSWERS}
+Já 
+Nei 
+
+F70a
+{QUESTION}
+Er móðir þín á lífi?
+
+{ANSWERS}
+Já 
+Nei 
+
+F70b
+{QUESTION}
+Er faðir þinn á lífi?
+
+{ANSWERS}
+Já 
+Nei 
+

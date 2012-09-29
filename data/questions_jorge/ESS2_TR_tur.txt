@@ -1,0 +1,1773 @@
+﻿A1 
+{QUESTION}
+Tipik haftaiçi bir günde, toplamda ne kadar zamanınızı televizyon izleyerek geçiriyorsunuz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A2 
+{QUESTION}
+Yine tipik haftaiçi bir günde, televizyon izleyerek geçirdiğiniz zamanın ne kadarını haberleri ya da siyaset ve güncel olaylarla ilgili programları izlemeye ayırıyorsunuz? Lütfen yine bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A3 
+{QUESTION}
+Tipik haftaiçi bir günde, toplamda ne kadar zamanınızı radyo dinleyerek geçiriyorsunuz? Lütfen aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A4 
+{QUESTION}
+Yine tipik haftaiçi bir günde, radyo dinleyerek geçirdiğiniz bu zamanın ne kadarını haberleri ya da siyaset ve güncel olaylarla ilgili programları dinlemeye ayırıyorsunuz? Lütfen aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A5 
+{QUESTION}
+Yine tipik haftaiçi bir günde, toplamda ne kadar zamanınızı gazete okuyarak geçiriyorsunuz? Lütfen aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A6 
+{QUESTION}
+Ve bu zamanın ne kadarını siyaset ve güncel olaylarla ilgili konuları okumaya ayırıyorsunuz? Lütfen yine aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Yarım saatten az 
+Yarım saatten 1 saate kadar 
+1 saatten fazla 1,5 saate kadar 
+1,5 saatten fazla 2 saate kadar 
+2 saatten fazla 2,5 saate kadar 
+2,5 saatten fazla 3 saate kadar 
+3 saatten fazla 
+
+A7 
+{QUESTION}
+Şimdi interneti, web sitelerini ya da e-mail’i (elektronik postayı), evde ya da işte, kişisel amaçlarla ne sıklıkta kullandığınızı söyler misiniz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Evde ya da işte internet erişimim yok 
+Hiç kullanmıyorum 
+Ayda bir defadan az 
+Ayda bir defa 
+Ayda birkaç defa 
+Haftada bir defa 
+Haftada birkaç defa 
+Her gün 
+
+A8
+{QUESTION}
+Sizce genelde insanların çoğunluğuna güvenilebilir mi, yoksa insanlara karşı hiçbir zaman dikkati elden bırakmamak mı gerekir? Lütfen bu kartı kullanarak 0 ile 10 arasında bir puan veriniz. “0” dikkati hiç elden bırakmamak gerekir ve “10” insanların çoğuna güvenilebilir anlamına geliyor.
+
+{ANSWERS}
+00 Dikkati elden bırakma mak gerekir
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 İnsanların çoğuna güvenile bilir
+
+A9
+{QUESTION}
+Sizce insanların çoğu fırsat bulduklarında sizden yararlanmaya mı çalışırlar; yoksa adil olmaya mı çalışırlar? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Çoğu insan benden yararlanmaya çalışır 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Çoğu insan adil olmaya çalışır
+
+A10 
+{QUESTION}
+Sizce, insanlar çoğunlukla birbirlerine yardımcı olmaya mı çalışırlar yoksa çoğunlukla kendi başlarının çaresine bakmaya mı çalışırlar? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 İnsanlar çoğunlukla kendi başlarının çaresine bakmaya çalışırlar
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 İnsanlar çoğunlukla birbirlerine yardımcı olmaya çalışırlar
+
+{INTRO}
+Şimdi siyaset ve hükümet hakkında birkaç soru sormak istiyoruz.
+
+B1: 
+{QUESTION}
+Siyasete ne kadar ilgi duyuyorsunuz?
+
+{ANSWERS}
+Çok ilgi duyarım 
+Epey ilgi duyarım 
+Pek ilgi duymam 
+Hiç ilgi duymam 
+
+B2 
+{QUESTION}
+Ne sıklıkta, siyasetin, neler olup bittiği anlaşılamayacak kadar karmaşık olduğunu düşünüyorsunuz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Nadiren 
+Bazen 
+Düzenli olarak 
+Sıkça 
+
+B3
+{QUESTION}
+Siyasi konular hakkında görüş sahibi olmayı ne kadar zor ya da kolay buluyorsunuz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Çok zor 
+Zor 
+Ne zor ne de kolay 
+Kolay 
+Çok kolay 
+
+B4
+{QUESTION}
+Şimdi size okuyacağım kurumların her birine, kişisel olarak ne kadar güvendiğinizi, bu kart üzerinde 0-10 arası
+bir puan vererek söyler misiniz?. “0” o kuruma hiç güvenmediğinizi,”10” ise tamamen güvendiğinizi göstermektedir. İlk
+olarak… Türkiye Büyük Millet Meclisi
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B5 
+{QUESTION}
+Mahkemeler ve Adalet Sistemi
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B6 
+{QUESTION}
+Polis
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B7 
+{QUESTION}
+Politikacılar
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B8
+{QUESTION}
+Siyasi Partiler
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B9 
+{QUESTION}
+Avrupa Parlamentosu
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B10 
+{QUESTION}
+Birleşmiş Milletler
+
+{ANSWERS}
+00 Hiç güvenmiyorum
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tamamen güveniyor um
+
+B11
+{QUESTION}
+Bazı insanlar bugünlerde, çeşitli nedenlerden dolayı, oy kullanmıyorlar. Siz en son yapılan Kasım 2002 genel seçimlerinde oy kullandınız mı?
+
+{ANSWERS}
+Evet
+Hayır 
+Oy vermek için gerekli koşullara sahip değilim 
+
+B12: 
+{QUESTION}
+Kasım 2002 genel seçimlerinde hangi partiye oy verdiniz?
+
+{ANSWERS}
+ (AKP) Adalet ve Kalkınma Partisi 
+(ANAP) Anavatan Partisi 
+(BBP) Büyük Birlik Partisi 
+(CHP) Cumhuriyet Halk Partisi 
+(DEHAP) Demokratik Halk Partisi 
+(DSP) Demokratik Sol Parti 
+(DYP) Doğru Yol Partisi 
+(GP) Genç Parti 
+(MHP) Milliyetçi Hareket Partisi 
+(ÖDP) Özgürlük ve Dayanışma Partisi 
+(SP) Saadet Partisi 
+(SHP) Sosyal Demokrat Halk Partisi 
+Diğer 
+
+{INTRO}
+Türkiye’de bir şeyleri düzeltmeye çalışmanın ya da bir takım şeylerin yanlış gitmesini önlemek için çaba harcamanın
+farklı yolları vardır. 
+
+B13 
+{QUESTION}
+Son 12 ay içerisinde, şimdi size sayacaklarımdan herhangi birini yaptınız mı? Bir politikacı, hükümet görevlisi ya da yerel hükümet memuru ile bağlantı kurmak
+
+{ANSWERS}
+Evet
+Hayır
+
+B14 
+{QUESTION}
+Siyasi bir parti ya da eylem grubunda çalışmak 
+
+{ANSWERS}
+Evet
+Hayır
+
+B15
+{QUESTION}
+Başka bir organizasyon ya da dernekte çalışmak 
+
+{ANSWERS}
+Evet
+Hayır
+
+B16 
+{QUESTION}
+Bir kampanya rozeti ya da çıkartması takmak ya da göstermek 
+
+{ANSWERS}
+Evet
+Hayır
+
+B17 
+{QUESTION}
+Dilekçe imzalamak
+
+{ANSWERS}
+Evet
+Hayır
+
+B18 
+{QUESTION}
+Yasal bir gösteriye katılmak
+
+{ANSWERS}
+Evet
+Hayır
+
+B19
+{QUESTION}
+Belirli ürünleri boykot etmek 
+
+{ANSWERS}
+Evet
+Hayır
+
+B20a: 
+{QUESTION}
+Kendinize diğer tüm partilerden daha yakın hissettiğiniz bir parti var mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+B20b: 
+{QUESTION}
+Hangisi?
+
+{ANSWERS}
+ (AKP) Adalet ve Kalkınma Partisi 
+(ANAP) Anavatan Partisi 
+(BBP) Büyük Birlik Partisi 
+(CHP) Cumhuriyet Halk Partisi 
+(DEHAP) Demokratik Halk Partisi / (DTH) Demokratik Toplum Hareketi 
+(DSP) Demokratik Sol Parti 
+(DYP) Doğru Yol Partisi 
+(GP) Genç Parti 
+(MHP) Milliyetçi Hareket Partisi 
+(ÖDP) Özgürlük ve Dayanışma Partisi 
+(SP) Saadet Partisi 
+(SHP) Sosyal Demokrat Halk Partisi 
+Diğer 
+
+B20c: 
+{QUESTION}
+Bu partiye kendinizi ne kadar yakın hissediyorsunuz?
+
+{ANSWERS}
+Çok yakın
+Epey yakın
+Yakın değil
+Hiç yakın değil?
+
+B21
+{QUESTION}
+Herhangi bir siyasi partiye üye misiniz?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+B22
+{QUESTION}
+Hangisi?
+
+{ANSWERS}
+ (AKP) Adalet ve Kalkınma Partisi 
+(ANAP) Anavatan Partisi 
+(BBP) Büyük Birlik Partisi 
+(CHP) Cumhuriyet Halk Partisi 
+(DEHAP) Demokratik Halk Partisi / (DTH) Demokratik Toplum Hareketi 
+(DSP) Demokratik Sol Parti 
+(DYP) Doğru Yol Partisi 
+(GP) Genç Parti 
+(MHP) Milliyetçi Hareket Partisi 
+(ÖDP) Özgürlük ve Dayanışma Partisi 
+(SP) Saadet Partisi 
+(SHP) Sosyal Demokrat Halk Partisi 
+Diğer 
+
+B23 
+{INTRO}
+Siyasi konularda insanlar bazen “sol” ve “sağ” kavramlarından bahsederler. 
+
+{QUESTION}
+0’ın en solu ve 10’un en sağı gösterdiği bu cetvelde siz kendinizi nereye koyarsınız? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Sol 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Sağ
+
+B24 
+{QUESTION}
+Her şeyi göz önünde bulundurduğunuzda, bugünlerde hayatınızdan ne kadar memnunsunuz? Lütfen, “0”
+ın son derece memnuniyetsizim ve “10”un son derece memnunum anlamına geldiği bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Son derece memnuniyetsizim 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece memnunum
+
+B25 
+{QUESTION}
+Genel olarak, Türkiye’de ekonominin şu anki durumundan ne kadar memnunsunuz? Lütfen aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Son derece memnuniyetsizim 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece memnunum
+
+B26 
+{QUESTION}
+Peki, hükümetin görevini yapma şeklinden ne kadar memnunsunuz? Lütfen yine bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Son derece memnuniyetsizim 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece memnunum
+
+B27 
+{QUESTION}
+Genel olarak, Türkiye’de demokrasinin işleyiş biçiminden ne kadar memnunsunuz? Lütfen yine bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Son derece memnuniyetsizim 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece memnunum
+
+B28 
+{QUESTION}
+Şimdi, bugünlerde genel olarak Türkiye’deki eğitim sisteminin durumu hakkında ne düşündüğünüzü söyler misiniz? Lütfen bu kartı kullanarak cevaplayınız.
+
+{ANSWERS}
+00 Son derece kötü 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece iyi 
+
+B29 
+{QUESTION}
+Yine bu kartı kullanarak, bugünlerde genel olarak, Türkiye’deki sağlık hizmetlerinin durumu hakkında ne düşündüğünüzü söyler misiniz?
+
+{ANSWERS}
+00 Son derece kötü 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece iyi 
+
+B30 
+{QUESTION}
+Lütfen bu kartı kullanarak, şimdi size sayacaklarımın her birine ne kadar katılıp katılmadığınızı söyler misiniz? Hükümet insanların gelir seviyeleri arasındaki farkı azaltacak önlemler almalıdır
+
+{ANSWERS}
+Kesinlikle katılırım
+Katılırım
+Ne katılırım ne katılmam
+Katılmam
+Kesinlikle katılmam
+
+B31
+{QUESTION}
+Eşcinseller hayatlarını istedikleri gibi yaşabilme özgürlüğüne sahip olmalıdır
+
+{ANSWERS}
+Kesinlikle katılırım
+Katılırım
+Ne katılırım ne katılmam
+Katılmam
+Kesinlikle katılmam
+
+B32
+{QUESTION}
+Demokrasiyi ortadan kaldırmak isteyen partiler yasaklanmalıdır
+
+{ANSWERS}
+Kesinlikle katılırım
+Katılırım
+Ne katılırım ne katılmam
+Katılmam
+Kesinlikle katılmam
+
+B33
+{QUESTION}
+Modern bilime, doğa ve çevre ile ilgili problemlerimizin çözümü için güvenilebilir
+
+{ANSWERS}
+Kesinlikle katılırım
+Katılırım
+Ne katılırım ne katılmam
+Katılmam
+Kesinlikle katılmam
+
+B34 
+{QUESTION}
+Şimdi Avrupa Birliği’ni düşünecek olursak, bazıları Avrupanın kendi içerisinde bütünleşmesinin daha ileri gitmesi gerektiğini, diğerleri ise bu bütünleşmenin zaten çok ileri gitmiş olduğunu söylüyorlar. Bu kartı kullanarak, sizin görüşünüzü en iyi ifade eden rakamı cetvelde gösterir misiniz?
+
+{ANSWERS}
+00 Bütünleşme zaten çok ileri gitti 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bütünleşme daha ileri gitmeli 
+
+{INTRO}
+Şimdi yabancı ülkelerden Türkiye’ye yerleşmeye gelen insanlarla ilgili bazı sorular var.
+
+B35 
+{QUESTION}
+Sizce, çoğu Türk insanıyla aynı ırk ya da etnik gruptan olanların, Türkiye’ye gelip yerleşmesine ne dereceye kadar izin verilmelidir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Birçok kişinin buraya gelip yerleşmesine izin verilmeli 
+Bir kısmına izin verilmeli 
+Az miktarda kişiye izin verilmeli 
+Hiç kimseye izin verilmemeli 
+
+B36 
+{QUESTION}
+Peki, çoğu Türk insanından farklı ırk ya da etnik gruptan olanların Türkiye’ye gelip yerleşmesi konusunda ne düşünürsünüz? Lütfen aynı kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Birçok kişinin buraya gelip yerleşmesine izin verilmeli 
+Bir kısmına izin verilmeli 
+Az miktarda kişiye izin verilmeli 
+Hiç kimseye izin verilmemeli 
+
+B37 
+{QUESTION}
+Peki Avrupa dışından, daha fakir ülkelerden olan insanların Türkiye’ye gelip yerleşmesi konusunda ne düşünürsünüz? Lütfen aynı kartı kullanarak cevaplayınız.
+
+{ANSWERS}
+Birçok kişinin buraya gelip yerleşmesine izin verilmeli 
+Bir kısmına izin verilmeli 
+Az miktarda kişiye izin verilmeli 
+Hiç kimseye izin verilmemeli 
+
+B38 
+{QUESTION}
+Sizce, yabancı ülkelerden insanların Türkiye’ye gelip yerleşmesi Türkiye’nin ekonomisi için genel olarak kötü mü yoksa iyi mi olur? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Ekonomi için kötüdür 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ekonomi için iyidir 
+
+B39 
+{QUESTION}
+Sizce yabancı ülkelerden Türkiye’ye yerleşmeye gelen insanlar, Türkiye’nin kültürel hayatını genel olarak zenginleştirir mi; yoksa zarar mı verir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Kültürel hayat zarar görür 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Kültürel hayat zenginleşir 
+
+B40
+{QUESTION}
+Yabancı ülkelerden Türkiye’ye yerleşmek için gelen insanlarla, Türkiye yaşamak için daha mı kötü yoksa daha mı iyi bir yer haline gelir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Yaşamak için daha kötü bir yer olur 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Yaşamak için daha iyi bir yer olur 
+
+{INTRO}
+Şimdi siz ve yaşamınız hakkında birkaç soru var.
+
+C1 
+{QUESTION}
+Her şeyi göz önünde bulundurduğunuzda, ne kadar mutlu olduğunuzu söylerdiniz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Son derece mutsuzum 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Son derece mutluyum
+
+C2
+{QUESTION}
+Arkadaşlarınız, akrabalarınız ya da iş arkadaşlarınızla, iş ya da görev dışında sosyal amaçla, ne sıklıkta görüşüyorsunuz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hiçbir zaman 
+Ayda bir defadan az 
+Ayda bir defa 
+Ayda birkaç defa 
+Haftada bir defa 
+Haftada birkaç defa 
+Hergün 
+
+C3
+{QUESTION}
+Özel hayatınızla ilgili konuları ve kişisel meselelerinizi konuşabileceğiniz kimse var mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+C4 
+{QUESTION}
+Sizin yaşınızdaki diğer insanlarla karşılaştırdığınızda, siz sosyal aktivitelere ne sıklıkta katılıyorsunuz? Lütfen bu kartı kullanarak cevap verir misiniz?
+
+{ANSWERS}
+Birçok kişiden çok daha az 
+Birçok kişiden daha az 
+Birçok kişiyle hemen hemen aynı 
+Birçok kişiden daha fazla 
+Birçok kişiden çok daha fazla 
+
+C5
+{QUESTION}
+Siz ya da hanehalkında biri, son 5 yıl içerisinde hırsızlık ya da fiziksel bir saldırıya maruz kaldı mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+C6
+Yaşadığınız bölgede, hava karardıktan sonra yalnız yürürken kendinizi ne kadar güvende hissedersiniz?
+
+{ANSWERS}
+Çok güvenli
+Güvenli
+Güvensiz
+Çok güvensiz 
+
+C7
+{QUESTION}
+Genel olarak sağlık durumunuz nasıl?
+
+{ANSWERS}
+Çok iyi
+İyi
+Orta
+Kötü
+ya da, çok kötü? 
+
+C8
+{QUESTION}
+Uzun süreli bir hastalık, sakatlık, halsizlik ya da akli bir sağlık sorunu, herhangi bir şekilde günlük faaliyetlerinizi sürdürmenize engel oluyor mu? EVET ise; bu engel çok mu; yoksa bir dereceye kadar mı?
+
+{ANSWERS}
+Evet, çok 
+Evet, bir dereceye kadar 
+Hayır 
+
+C9
+{QUESTION}
+Kendinizi herhangi bir dine ya da mezhebe ait hissediyor musunuz?
+
+{ANSWERS}
+Evet
+Hayır
+
+C10
+{QUESTION}
+Hangisi?
+
+{ANSWERS}
+Müslüman – mezhep yok 
+Müslüman – Sunni 
+Müslüman – Alevi 
+Musevi 
+Gregoryen 
+Rum Ortodoks 
+Hıristiyan 
+Diğer 
+
+C11
+{QUESTION}
+Kendinizi hiç belirli bir din ya da mezhebe ait hissetiniz mi?
+
+{ANSWERS}
+Evet
+Hayır
+
+C12
+{QUESTION}
+Hangisi?
+
+{ANSWERS}
+Müslüman – mezhep yok 
+Müslüman – Sunni 
+Müslüman – Alevi 
+Musevi 
+Gregoryen 
+Rum Ortodoks 
+Hıristiyan 
+Diğer 
+
+C13 
+{QUESTION}
+Kendinizi belli bir dine ait hissedip hissetmemenize bakmaksızın, kendinizi ne kadar dindar görüyorsunuz? 
+Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+00 Hiç dindar değilim 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Çok dindarım
+
+C14 
+{QUESTION}
+Cenazeler (düğünler) gibi özel durumlar dışında, bugünlerde camiye (kiliseye, sinagoga) ne sıklıkta gidiyorsunuz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Hergün 
+Haftada bir defadan fazla 
+Haftada bir defa 
+En azından ayda bir defa 
+Sadece özel dini günlerde 
+Daha az sıklıkta 
+Hiçbir zaman 
+
+C15 
+{QUESTION}
+Dini törenlerin dışında, ne sıklıkta dua edersiniz? Lütfen aynı kartı kullanarak cevaplayınız.
+
+{ANSWERS}
+Hergün 
+Haftada bir defadan fazla 
+Haftada bir defa 
+En azından ayda bir defa 
+Sadece özel dini günlerde 
+Daha az sıklıkta 
+Hiçbir zaman 
+
+C16
+{QUESTION}
+Kendinizi ülkede ayrımcılığa uğrayan ya da kötü muamele gören bir gruba ait hissediyor musunuz?
+
+{ANSWERS}
+Evet
+Hayır 
+
+C17
+{QUESTION}
+Grubunuz hangi konularda ayrımcılığa uğruyor?
+
+{ANSWERS}
+Renk ya da ırk 
+Milliyet 
+Din 
+Dil 
+Etnik grup 
+Ekonomik durum 
+Yaş 
+Cinsiyet 
+Cinsel tercih 
+Bedensel engelli 
+Diğer 
+
+C18
+{QUESTION}
+Türkiye Cumhuriyeti vatandaşı mısınız?
+
+{ANSWERS}
+Evet
+Hayır
+
+C19
+{QUESTION}
+Hangi ülkenin vatandaşısınız?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Türkiye doğumlu musunuz?
+
+{ANSWERS}
+Evet
+Hayır
+
+C21
+{QUESTION}
+Hangi ülkede doğdunuz?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Türkiye’ye ilk ne kadar zaman önce yerleştiniz? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Geçen yıl içerisinde 
+1-5 yıl önce 
+6-10 yıl önce 
+11-20 yıl önce 
+20 yıldan daha uzun zaman önce 
+
+C23: 
+{QUESTION}
+Evde çoğunlukla hangi dili ya da dilleri konuşuyorsunuz?
+
+{ANSWERS}
+EN FAZLA 2 DİL YAZINIZ
+
+C24
+{QUESTION}
+Ülkede azınlıkta bulunan herhangi bir etnik gruba ait misiniz?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+C25
+{QUESTION}
+Babanız Türkiye doğumlu mu?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+C26
+{QUESTION}
+Babanız hangi ülke doğumlu?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+Anneniz Türkiye doğumlu mu?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+C28
+{QUESTION}
+Anneniz hangi ülke doğumlu?
+
+{ANSWERS}
+
+{INTRO}
+Şimdi siz ve hanehalkı hakkında daha ayrıntılı bazı sorular sormak istiyorum.
+
+F1
+{QUESTION}
+Çocuklar ve siz de dahil olmak üzere bu evde sürekli olarak yaşayan kaç kişi var?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+KAÇ YILINDA DOĞDUNUZ/DOĞDU? (BİLMİYOR = 8888)
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+AKRABALIK DERECESİ NEDİR? LÜTFEN BU KARTA BAKARAK SÖYLER MİSİNİZ?
+
+{ANSWERS}
+Eşi ya da partneri 
+Oğlu/kızı (üvey, evlatlık, manevi, partnerin çocuğu)
+Anne ya da baba, kayınvalide ya da kayınpeder, partnerin ailesi, üvey anne ya da baba
+Erkek kardeş/kız kardeş (üvey, evlatlık, manevi) 
+Başka bir akraba 
+Akrabalık ilişkisi olmayan başka biri 
+
+F5 
+{QUESTION}
+Bu kartta yazanlardan hangisi yaşadığınız bölgeyi en iyi şekilde tanımlıyor?
+
+{ANSWERS}
+Büyük şehir 
+Büyük bir şehrin banliyosu ya da kent dışı 
+İlçe ya da küçük bir şehir 
+Köy 
+Bir çiftlik ya da kırsal bölgede bir ev 
+
+F5a
+{QUESTION}
+Aile üyelerinden herhangi biri bu konutun sahibi mi?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F5b
+{QUESTION}
+Mutfak, banyo ve tuvalet hariç; ancak salon dahil bu evin kaç odası var?
+
+{ANSWERS}
+
+F6 
+{QUESTION}
+Eğitim durumunuz nedir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Okuma-yazma bilmiyor
+Okuma-yazma biliyor ama okul bitirmemiş/diplomasız
+İlkokul mezunu (5 yıl)
+İlköğretim mezunu (8 yıl)
+Genel ortaokul mezunu
+Mesleki ortaokul mezunu
+Genel lise mezunu 
+Mesleki lise mezunu 
+Universite veya yüksekokul mezunu
+Master ve ya doktora derecesi sahibi
+DİĞER 
+
+F6a 
+{QUESTION}
+Sizin en üst seviyede eğitim aldığınız alan ya da konu aşağıdakilerden hangisidir?
+
+{ANSWERS}
+Belirli bir alanı yok ya da genel 
+Uygulamalı ya da güzel sanatlar 
+Beşeri ilimler– eski ve modern diller, felsefe, tarih, ilahiyat, vb. 
+Teknik eğitim ve mühendislik (mimarlık ve planlama, endüstri, zanaatkarlık, müteahhitlik, vb. dahil olmak üzere) 
+Tarım ve ormancılık 
+Öğretmenlik eğitimi ve eğitim 
+Temel bilimler, matematik, bilgisayar programlama, vb. 
+Tıp, sağlık hizmetleri, hemşirelik, vb. 
+Ekonomi, ticaret, işletme, muhasebecilik vb. 
+Sosyal bilimler ve davranışsal çalışmalar, kamu yönetimi, medya, kültür, spor ve boş zaman çalışmaları, vb. 
+Hukuk ve adli hizmetler 
+Kişisel bakım hizmetleri – yiyecek ve içecek sağlama, ev idaresi, kuaförlük, vb. 
+Kamu düzeni ve güvenliği – polis, ordu, itfaiye hizmeti, vb. 
+Nakliye ve telekominikasyon 
+
+F7
+{QUESTION}
+Toplam kaç yıl eğitim aldınız?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Bu kartta yazan tanımlamalardan hangisi son 7 gün içerisinde ne yapmakta olduğunuzu açıklar? Lütfen ilgili olanların hepsini seçiniz.
+
+{ANSWERS}
+Ücretli bir işte (ya da geçici bir süre için bu işten ayrı) (işçi, memur, kendi işinin sahibi, işveren ya da aile şirketinde) çalışıyor 
+Okuyor (maaş almıyor), tatilde de çalışmıyor 
+İşsiz ve aktif olarak iş arıyor
+İşsiz, iş istiyor ancak aktif olarak iş aramıyor 
+Kalıcı olarak hasta yada malul 
+Emekli 
+Zorunlu askerlik hizmetini yapıyor 
+Ev işi yapıyor, çocuklara ya da başka birilerine bakıyor 
+(Diğer) 
+
+F8c 
+{QUESTION}
+Peki bu tanımlamalardan hangisi sizin (son yedi gün içierisindeki) durumunuzu en iyi açıklar? Lütfen yalnızca birini seçiniz.
+
+{ANSWERS}
+Ücretli bir işte (ya da geçici bir süre için bu işten ayrı) (işçi, memur, kendi işinin sahibi, işveren ya da aile şirketinde) çalışıyor 
+Okuyor (maaş almıyor), tatilde de çalışmıyor 
+İşsiz ve aktif olarak iş arıyor 
+İşsiz, iş istiyor ancak aktif olarak iş aramıyor 
+Kalıcı olarak hasta yada malul 
+Emekli 
+Zorunlu askerlik hizmetini yapıyor 
+Ev işi yapıyor, çocuklara ya da başka birilerine bakıyor 
+(Diğer) 
+
+F9: 
+{QUESTION}
+İzninizle bir kez daha sorabilir miyim? Son yedi gün içerisinde hiç ücretli bir işte (bir saat ya da daha fazla) çalıştınız
+mı?
+
+{ANSWERS}
+Evet
+Hayır 
+
+F10
+{QUESTION}
+Şu ana kadar hiç ücretli bir işte çalıştınız mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F11
+{QUESTION}
+En son hangi yılda ücretli bir işiniz vardı?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Sizin asıl işinizde konumunuz nedir/neydi?
+
+{ANSWERS}
+İşçi/memur 
+Kendi işinin sahibi/işveren 
+Aile işinde çalışan 
+
+F13
+{QUESTION}
+Eğer varsa, kaç tane çalışanınız var/vardı?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Yaptığınız iş sözleşmesi…
+
+{ANSWERS}
+…Süresiz mi
+Sınırlı bir süre için mi
+Yoksa sözleşmesiz mi çalışıyorsunuz / çalıştınız? 
+
+F15
+{QUESTION}
+Sürekli çalıştığınız yerde, siz de dahil olmak üzere yaklaşık olarak kaç kişi çalışıyor?
+
+{ANSWERS}
+10’dan az
+10 ile 24 arası
+25 ile 99 arası
+100 ile 499 arası
+500 ya da daha fazla? 
+
+F16
+{QUESTION}
+Size bağlı olarak çalışan var mı mıydı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F17
+{QUESTION}
+Kaç kişiden sorumlusunuz?
+
+{ANSWERS}
+
+F18 
+{INTRO}
+Şimdi size çalışma hayatınız ile ilgili bazı şeyler okuyacağım. 
+
+{QUESTION}
+Lütfen bu kartı kullanarak çalıştığınız yerdeki yönetimin sayacağım konularda size ne derece müsaade ettiğini belirtiniz. Günlük işinizin nasıl düzenleneceğine karar verme?
+
+{ANSWERS}
+00 Hiç etkim yok/yoktu
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tamamen kendi kontrolüm altında/altındaydı
+
+F19 
+{QUESTION}
+Kurumun faaliyetleri ile ilgili önemli (stratejik) kararları etkilemek?
+
+{ANSWERS}
+00 Hiç etkim yok/yoktu
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tamamen kendi kontrolüm altında/altındaydı
+
+F19a 
+{QUESTION}
+Ne hızda çalışacağınızı seçmek ya da değiştirmek?
+
+{ANSWERS}
+00 Hiç etkim yok/yoktu
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tamamen kendi kontrolüm altında/altındaydı
+
+F20
+{QUESTION}
+Ödenen ya da ödenmeyen fazla mesai saatleri dışında, bir hafta içerisinde (asıl işinizde) temel ya da sözleşmeli olarak toplam kaç saat çalışıyorsunuz?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+İster temel ister sözleşmeli çalışma saatleriniz olsun, normalde bir hafta içerisinde, ödenen ya da ödenmeyen fazla
+mesailer de dahil olmak üzere kaç saat çalışıyorsunuz?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Asıl işinizin adı ya da ünvanı nedir?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Asıl işinizde, zamanınızın çoğunda ne gibi işlerle uğraşırsınız?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+İşiniz ne tür eğitimleri ve vasıfları gerektirmektedir?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Çalıştığınız olduğunuz firma/ kurum asıl olarak neler üretir ya da hangi alanda faaliyet gösterir?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Son 10 yıl içerisinde başka bir ülkede altı ay ya da daha fazla bir süre için çalıştınız mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F27
+{QUESTION}
+Hiç 3 aydan fazla bir süre işsiz kalıp iş aradığınız oldu mu?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F28
+{QUESTION}
+Bu süre hiç 12 ay ya da daha uzun sürdü mü?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F29
+{QUESTION}
+Bu sürelerden herhangi biri geçtiğimiz 5 yıl içerisinde yaşandı mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F30
+{QUESTION}
+Herhangi bir sendikaya ya da bu tür başka bir organizasyona üye misiniz ya da hiç üye oldunuz mu? Eğer evet ise, şu anda mı, önceden mi?
+
+{ANSWERS}
+Evet, şu anda 
+Evet, önceden 
+Hayır 
+
+F31 
+{QUESTION}
+Hanenizdeki bütün aile fertlerinin gelirlerini ve hanehalkı olarak elde edilen gelirleri düşündüğünüzde, hanenizin başlıca gelir kaynağı nedir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Ücret ve maaşlar 
+Kendi işinizden elde ettiğiniz gelir (çiftçilik gelirleri hariç) 
+Çiftçilikten elde ettiğiniz gelir 
+Emekli maaşlarınız 
+İşsizlik ya da tazminat yardımları 
+Diğer sosyal yardımlar 
+Yatırımlarınızdan, tasarruflarınızdan, sigortadan ya da mülklerinizden elde ettiğiniz gelirler 
+Diğer kaynaklardan elde ettiğiniz gelirler 
+
+F32A
+{QUESTION}
+Gelir kaynaklarınızın hepsinin toplamını düşündüğünüzde aşağıdaki seçeneklerden hangisi sizin hanenizin toplam net gelirini ifade ediyor? Tam olarak bilmiyorsanız, lütfen tahmini bir bilgi veriniz. Kartta en iyi bildiğiniz kısmı kullanınız: haftalık, aylık ya da yıllık gelir olarak.
+
+{ANSWERS}
+Yaklaşık AYLIK
+J 250YTL’den az
+R 250YTL’den 500YTL’ye kadar
+C 500YTL’den 800YTL’ye kadar
+M 800YTL’den 1500YTL’ye kadar
+F 1500YTL’den 2500YTL’ye kadar
+S 2500YTL’den 3000YTL’ye kadar
+K 3000YTL’den 4000YTL’ye kadar
+P 4000YTL’den 5000YTL’ye kadar
+D 5000YTL’den 8000YTL’ye kadar
+H 8000YTL’den 12000YTL’ye kadar
+U 12000YTL’den 15000YTL’ye kadar
+N 15000YTL ya da daha fazla
+
+F32B
+{QUESTION}
+Gelir kaynaklarınızın hepsinin toplamını düşündüğünüzde aşağıdaki seçeneklerden hangisi sizin hanenizin toplam net gelirini ifade ediyor? Tam olarak bilmiyorsanız, lütfen tahmini bir bilgi veriniz. Kartta en iyi bildiğiniz kısmı kullanınız: haftalık, aylık ya da yıllık gelir olarak.
+
+{ANSWERS}
+Yaklaşık YILLIK
+J 3000YTL’den az
+R 3000YTL’den 6000YTL’ye kadar
+C 6000YTL’den 9600YTL’ye kadar
+M 9600YTL’den 18000YTL’ye kadar
+F 18000YTL’den 30000YTL’ye kadar
+S 30000YTL’den 36000YTL’ye kadar
+K 36000YTL’den 48000YTL’ye kadar
+P 48000YTL’den 60000YTL’ye kadar
+D 60000YTL’den 96000YTL’ye kadar
+H 96000YTL’den 144000YTL’ye kadar
+U 144000YTL’den 180000YTL’ye kadar
+N 180000YTL ya da daha fazla
+
+F32a 
+{QUESTION}
+Hanenizin gelirinin yaklaşık ne kadarlık bir bölümünü siz sağlıyorsunuz?
+
+{ANSWERS}
+Hiç 
+Çok az 
+Yarısından az 
+Yaklaşık yarısı 
+Yarısından fazla 
+Büyük bir kısmı 
+Tamamı 
+
+F33
+{QUESTION}
+Aşağıdaki ifadelerden hangisi bugünlerde hanenizin gelir durumunu nasıl gördüğünüzü en iyi tanımlıyor?
+
+{ANSWERS}
+Mevcut gelirimizle rahat bir şekilde yaşıyoruz 
+Mevcut gelirimizle idare ediyoruz. 
+Mevcut gelirimizle zar zor yaşıyoruz. 
+Mevcut gelirimizle çok zor yaşıyoruz. 
+
+F34
+{QUESTION}
+Herhangi bir nedenle ciddi bir ekonomik sıkıntı içerisinde olsanız ve bu sıkıntıyı çözmek, ödemelerinizi yapmak için bir yerden borç almanız gerekse, bu sizin için ne kadar zor ya da kolay olurdu? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+Çok zor 
+Oldukça zor 
+Ne zor ne de kolay 
+Oldukça kolay 
+Çok kolay 
+
+F36 
+{QUESTION}
+Eşinizin eğitim durumu nedir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+İlkokulu tamamlamamış 
+İlkokul 
+Ortaokul 
+Lise 
+İki yıllık yüksek okul 
+Üniversite 
+
+F37a 
+{QUESTION}
+Aşağıdaki ifadelerden hangileri eşinizin son 7 gün içerisinde yapmakta olduğu işi tanımlamaktadır? Lütfen uygun olanların hepsini seçiniz.
+
+{ANSWERS}
+Ücretli bir işte (ya da geçici bir süre için bu işten ayrı) (işçi, memur, kendi işinin sahibi, işveren ya da aile şirketinde) çalışıyor 
+Okuyor (maaş almıyor), tatilde de çalışmıyor 
+İşsiz ve aktif olarak iş arıyor 
+İşsiz, iş istiyor ancak aktif olarak iş aramıyor 
+Kalıcı olarak hasta yada malul 
+Emekli 
+Zorunlu askerlik hizmetini yapıyor 
+Ev işi yapıyor, çocuklara ya da başka birilerine bakıyor 
+(Diğer) 
+
+F37c 
+{QUESTION}
+Bu karttaki tanımlamalardan hangisi eşinizin (son 7 gün içerisindeki) durumunu en iyi şekilde yansıtmaktadır? Lütfen yalnızca bir tanesini seçiniz.
+
+{ANSWERS}
+Ücretli bir işte (ya da geçici bir süre için bu işten ayrı) (işçi, memur, kendi işinin sahibi, işveren ya da aile şirketinde) çalışıyor 
+Okuyor (maaş almıyor), tatilde de çalışmıyor 
+İşsiz ve aktif olarak iş arıyor 
+İşsiz, iş istiyor ancak aktif olarak iş aramıyor 
+Kalıcı olarak hasta yada malul 
+Emekli 
+Zorunlu askerlik hizmetini yapıyor 
+Ev işi yapıyor, çocuklara ya da başka birilerine bakıyor 
+(Diğer) 
+
+F38
+{QUESTION}
+İzninizle, bir kez daha sormak istiyorum. Eşiniz son 7 gün içerisinde ücretli bir işte çalıştı mı (bir saat ya da daha fazla)?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F39
+{QUESTION}
+Eşinizin asıl işinin adı ya da ünvanı nedir ?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Eşiniz asıl işinde zamanının çoğunda ne gibi işlerle uğraşmaktadır?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Eşinizin işi ne tür eğitimleri ve vasıfları gerektirmektedir?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Eşinizin asıl işinde konumu nedir?
+
+{ANSWERS}
+İşçi/memur 
+Kendi işinin sahibi /işveren 
+Aile şirketinde çalışan 
+
+F43
+{QUESTION}
+Eğer varsa, kaç tane çalışanı var?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+İşinde, eşinize bağlı olarak çalışan kimse var mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F45
+{QUESTION}
+Eşiniz kaç kişiden sorumlu?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Simdi size eşinizin çalışma hayatı ile ilgili bazı şeyler okuyacağım. 
+
+{QUESTION}
+Lütfen bu kartı kullanarak, eşinizin çalıştığı yerdeki yönetimin sayacağım konularda eşinize ne derece müsaade ettiğini belirtiniz. …günlük işlerinin nasıl düzenleneceğine karar vermede?
+
+{ANSWERS}
+00 Hiçbir etkisi yok
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tamamen kendi kontrolü altında
+
+F47 
+{QUESTION}
+…kurumun faaliyetleri ile ilgili önemli (stratejik) kararları etkilemekte?
+
+{ANSWERS}
+00 Hiçbir etkisi yok
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tamamen kendi kontrolü altında
+
+F48
+{QUESTION}
+Eşiniz normalde haftada kaç saat çalışmaktadır? Lütfen ücretli ve ücretsiz fazla mesai saatlerini de dahil ediniz.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Babanızın eğitim durumu nedir? Lütfen bu kartı kullanarak cevap veriniz.
+
+{ANSWERS}
+İlkokulu tamamlamamış 
+İlkokul 
+Ortaokul 
+Lise 
+İki yıllık yüksek okul 
+Üniversite 
+
+F50
+{QUESTION}
+Siz 14 yaşındayken, babanız işçi/memur olarak mı çalışıyordu, kendi işinin sahibi miydi, yoksa çalışmıyor muydu?
+
+{ANSWERS}
+İşçi/memur 
+Kendi işinin sahibi /işveren 
+Çalışmıyordu 
+ (Denek 14 yaşındayken, baba vefat etmiş ya da aynı evde yaşamıyorsa) 
+
+F51
+{QUESTION}
+Babanızın kaç çalışanı vardı?
+
+{ANSWERS}
+Hiç 
+1 ile 24 
+25 ya da daha fazla 
+
+F52
+{QUESTION}
+Babanıza bağlı olarak çalışan var mıydı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F53
+{QUESTION}
+Babanızın asıl işinin adı ya da ünvanı neydi?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Bu karttaki tanımlamalardan hangisi, siz 14 yaşındayken babanızın yaptığı işi en iyi şekilde tanımlamaktadır?
+
+{ANSWERS}
+Geleneksel profesyonel meslekler Örneğin: muhasebeci – hukuk müşaviri – tıp doktoru – bilim insanı – inşaat/makine mühendisi
+Modern profesyonel meslekler Örneğin: öğretmen – hemşire – fizyoterapist – sosyal hizmetler uzmanı – sanatçı – müzisyen – polis memuru (komiser muavini ya da daha üzt düzeyde) – yazılım mühendisi
+Küçük ya da orta dereceli çalışan Örneğin: sekreter – kişisel asistan – büro çalışanı – büro memuru –
+çağrı merkezi görevlisi - hasta bakıcı – çocuk bakıcısı
+Üst düzey yönetici (genellikle işi planlama, organize etme, koordine etmeden ve finanstan
+sorumlu) Örneğin: finansman müdürü – genel müdür
+Zanaatkarlar ve teknik ustalar Örneğin: araba tamircisi – tesisatçı – su tesisatçısı – matbaacı -
+alet edavatçı – elektrikçi - çiftçi – bahçıvan – makinist
+Bazen fiziksel güç gerektiren hizmet sektörü çalışanları Örneğin: postacı – iş makinası operatörü– güvenlik görevlisi – kat görevlisi (kapıcı)–yiyecek içecek asistanı – resepsiyonist – satış görevlisi
+Fiziksel güç gerektiren hizmet sektörü çalışanı Örneğin: Ağır vasıta şoförü – kamyon şoförü – temizlikçi – hademe –
+ambalajcı – overlokçu – kurye – gündelik işçi – garson – bar çalışanı – tarla işçisi – gemici – boyacı
+Orta ya da ikinci derece yöneticiler Örneğin: ofis yöneticisi – perakende yöneticisi – banka yöneticisi – çiftlik
+yöneticisi – restaurant yöneticisi – depo yöneticisi – meyhane yöneticisi
+Küçük ve orta ölçekli işletme sahipleri Örneğin: esnaf – kuyumcu – müteahit – eczacı – vida üreticisi – tekstil atölyesi sahibi – çay ocağı işletmecisi
+
+F55 
+{QUESTION}
+Annenizin eğitim durumu nedir? Lütfen bu kartı kulanarak cevap veriniz.
+
+{ANSWERS}
+İlkokulu tamamlamamış 
+İlkokul 
+Ortaokul 
+Lise 
+İki yıllık yüksek okul 
+Üniversite 
+
+F56
+{QUESTION}
+Siz 14 yaşındayken, anneniz işçi olarak mı çalışıyordu, kendi işinin sahibi miydi, yoksa çalışmıyor muydu?
+
+{ANSWERS}
+İşçi/memur 
+Kendi işinin sahibi /işveren 
+Çalışmıyordu 
+ (Anne vefat etmiş ya da o yıllarda evde değilse) 
+
+F57
+{QUESTION}
+Annenizin kaç çalışanı vardı?
+
+{ANSWERS}
+Hiç 
+1 ile 24 
+25 ya da daha fazla 
+
+F58
+{QUESTION}
+Annenize bağlı olarak çalışan var mıydı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F59
+{QUESTION}
+Annenizin asıl işinin adı ya da ünvanı neydi?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Bu karttaki tanımlamalardan hangisi, siz 14 yaşındayken annenizin yaptığı işi en iyi şekilde tanımlamaktadır?
+
+{ANSWERS}
+Geleneksel profesyonel meslekler Örneğin: muhasebeci – hukuk müşaviri – tıp doktoru – bilim insanı – inşaat/makine mühendisi
+Modern profesyonel meslekler Örneğin: öğretmen – hemşire – fizyoterapist – sosyal hizmetler uzmanı– sanatçı – müzisyen – polis memuru (komiser muavini ya da daha üzt düzeyde) – yazılım mühendisi
+Küçük ya da orta dereceli çalışan Örneğin: sekreter – kişisel asistan – büro çalışanı – büro memuru – çağrı merkezi görevlisi - hasta bakıcı – çocuk bakıcısı
+Üst düzey yönetici (genellikle işi planlama, organize etme, koordine etmeden ve finanstan sorumlu) Örneğin: finansman müdürü – genel müdür
+Zanaatkarlar ve teknik ustalar Örneğin: araba tamircisi – tesisatçı – su tesisatçısı – matbaacı - alet edavatçı – elektrikçi - çiftçi – bahçıvan – makinist
+Bazen fiziksel güç gerektiren hizmet sektörü çalışanları Örneğin: postacı – iş makinası operatörü– güvenlik görevlisi – kat görevlisi (kapıcı)– yiyecek içecek asistanı – resepsiyonist – satış görevlisi
+Fiziksel güç gerektiren hizmet sektörü çalışanı Örneğin: Ağır vasıta şoförü – kamyon şoförü – temizlikçi – hademe –
+ambalajcı – overlokçu – kurye – gündelik işçi – garson – bar çalışanı – tarla işçisi – gemici – boyacı
+Orta ya da ikinci derece yöneticiler Örneğin: ofis yöneticisi – perakende yöneticisi – banka yöneticisi – çiftlik yöneticisi – restaurant yöneticisi – depo yöneticisi – meyhane yöneticisi
+Küçük ve orta ölçekli işletme sahipleri Örneğin: esnaf – kuyumcu – müteahit – eczacı – vida üreticisi – tekstil atölyesi sahibi – çay ocağı işletmecisi
+
+F61
+{QUESTION}
+Geçtiğimiz 12 ay boyunca işteki becerinizi ya da bilginizi geliştirmek için herhangi bir eğitim ya da kurs aldınız mı; ya da herhangi bir seminer ya da konferansa katıldınız mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F62 
+{QUESTION}
+Şu anki medeni durumunuzu öğrenebilir miyim? Bu karttaki tanımlamalardan hangisi size uymaktadır?
+
+{ANSWERS}
+Evli 
+Ayrı (yasal olarak hala evli) 
+Boşanmış 
+Dul (eşi hayatta değil) 
+Hiç evlenmemiş 
+
+F63
+{QUESTION}
+Şu anda eşinizle birlikte mi yaşıyorsunuz?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F64
+{QUESTION}
+Şu anda başka biriyle beraber yaşıyor musunuz?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F65
+{QUESTION}
+Şu anda partnerinizle mi yaşıyorsunuz?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F66
+{QUESTION}
+Hiç, partnerinizle, evlenmeden bir arada yaşadınız mı ?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F68
+{QUESTION}
+Hiç boşandınız mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F70
+{QUESTION}
+Hiç, öz, üvey, evlat edinilmiş, manevi ya da eşinizin sizinle beraber yaşayan çocuğu oldu mu?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F70a
+{QUESTION}
+Anneniz hala hayatta mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+
+F70b
+{QUESTION}
+Babanız hala hayatta mı?
+
+{ANSWERS}
+Evet 
+Hayır 
+

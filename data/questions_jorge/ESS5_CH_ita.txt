@@ -1,0 +1,2097 @@
+﻿A1 
+{QUESTION}
+Quante ore passa, complessivamente, guardando la televisione in un normale giorno lavorativo della settimana? Per favore utilizzi questa scheda per rispondere.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A2 
+{QUESTION}
+E per ciò che riguarda il tempo dedicato ai notiziari o ai programmi a sfondo politico e di attualità? Utilizzi ancora la scheda.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A3 
+{QUESTION}
+Quanto tempo trascorre, mediamente, ad ascoltare la radio in un normale giorno lavorativo della settimana? Utilizzi, per cortesia, la stessa scheda.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A4 
+{QUESTION}
+E per ciò che riguarda il tempo dedicato ai notiziari o ai programmi a sfondo politico e di attualità? Utilizzi, per cortesia, la stessa scheda.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A5 
+{QUESTION}
+Quanto tempo dedica, in media, in un normale giorno lavorativo della settimana, alla lettura dei giornali? Continui a utilizzare la scheda.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A6 
+{QUESTION}
+E per ciò che riguarda la lettura di articoli politici e di attualità? Utilizzi sempre la scheda.
+
+{ANSWERS}
+Non affatto
+Meno di mezz'ora
+Da mezz'ora a un'ora
+Da un'ora a un'ora e mezza
+Da un'ora e mezza a due ore
+Da due ore a due ore e mezza
+Da due ore e mezza a tre ore
+Più di tre ore
+
+A7 
+{QUESTION}
+Ora, utilizzando questa scheda, con che frequenza usa Internet, Worldwide Web o l'e-mail, sia a casa che al lavoro - a uso esclusivamente personale?
+
+{ANSWERS}
+Nessun accesso né a casa né sul lavoro
+Non li utilizzo mai
+Meno di una volta al mese
+Una volta al mese
+Varie volte al mese
+Una volta alla settimana
+Varie volte alla settimana
+Tutti i giorni
+
+A8 
+{QUESTION}
+Usando questa scheda, direbbe che in generale ci si possa fidare della maggior parte della gente o piuttosto che non si è mai troppo cauti nei confronti della gente? Risponda, per favore, basandosi sulla scala da 0 a 10, dove 0 significa che non si è mai abbastanza cauti e 10 che ci si può fidare della maggior parte della gente.
+
+{ANSWERS}
+0 - Non si è mai abbastanza cauti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Ci si può fidare della maggior parte della gente
+
+A9 
+{QUESTION}
+Utilizzando questa scheda, indichi se pensa che la maggior parte della gente la sfrutterebbe se ne avesse l'occasione o se sarebbe invece onesta nei suoi confronti?
+
+{ANSWERS}
+0 - La maggior parte della gente mi sfrutterebbe se ne avesse l'occasione
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- La maggior parte della gente sarebbe onesta
+
+A10 
+{QUESTION}
+Ritiene che nella maggior parte dei casi la gente sia altruista o che pensi invece solo a se stessa? Per favore, utilizzi questa scheda.
+
+{ANSWERS}
+0 - In generale la gente pensa solo a se stessa
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- La gente nella maggior parte dei casi è altruista
+
+B1 
+{INTRO}
+Ora vorremmo porle qualche domanda sulla politica e sul governo.
+
+{QUESTION}
+In che misura è interessato alla politica - È ...
+
+{ANSWERS}
+... molto interessato/a
+... piuttosto interessato/a
+... appena interessato/a
+o, per niente interessato/a ?
+
+B4 
+{QUESTION}
+Utilizzando questa scheda indichi, per favore, su una scala da 0 a 10, quanta fiducia ripone personalmente nelle istituzioni che le elencherò ora. 0 significa che non ha alcuna fiducia nell'istituzione in questione e 10 significa che ha piena fiducia. Parlamento svizzero?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B5 
+{QUESTION}
+Il sistema legale?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B6 
+{QUESTION}
+La polizia?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B7 
+{QUESTION}
+I politici?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B8 
+{QUESTION}
+i Partiti politici?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B9 
+{QUESTION}
+Il Parlamento Europeo?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B10
+{QUESTION}
+Le Nazioni Unite?
+
+{ANSWERS}
+0 - Nessuna fiducia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Piena fiducia
+
+B11 
+{INTRO}
+Alcuni, oggigiorno, per un motivo o per l'altro non votano. 
+
+{QUESTION}
+Lei ha votato alle ultime elezioni del Consiglio Nazionale nell' ottobre 2007?
+
+{ANSWERS}
+Sì
+No
+Senza diritto di voto
+
+B12 
+{QUESTION}
+Per quale partito politico ha votato in quella elezione?
+
+{ANSWERS}
+Partito radicale (PLR)
+Partito popolare democratico (PPD)
+Partito socialista (PSS)
+Unione democratica del centro (UDC)
+Parito liberale (PLS)
+Partito cristiano sociale (PCS)
+Partito del lavoro (PdL)
+Partito dei verdi (PES)
+Partito dei verdi-liberali (PEL)
+Democratici svizzeri (DS)
+Unione democratica Federale (UDF)
+Partito popolare evangelico (PEV)
+Lega dei Ticinesi (Lega)
+Altro partito 
+(Votare scheda bianca)
+
+B12_N 
+{QUESTION}
+Se "altro partito", quale?
+
+{ANSWERS}
+
+B13
+{INTRO}
+Vi sono vari modi per cercare di migliorare le cose in Svizzera o per evitare che sorgano problemi.
+
+{QUESTION}
+Negli ultimi dodici mesi è ricorso a una delle soluzioni che sto per elencarle? Contattato un politico, il governo o un suo rappresentante locale?
+
+{ANSWERS}
+Sì
+No
+
+B14 
+{QUESTION}
+Lavorato per un partito politico o gruppo d'azione?
+
+{ANSWERS}
+Sì
+No
+
+B15 
+{QUESTION}
+Lavorato per un'altra organizzazione o associazione?
+
+{ANSWERS}
+Sì
+No
+
+B16 
+{QUESTION}
+Indossato o esibito un distintivo/ adesivo per una campagna politica?
+
+{ANSWERS}
+Sì
+No
+
+B17 
+{QUESTION}
+Firmato una petizione?
+
+{ANSWERS}
+Sì
+No
+
+B18 
+{QUESTION}
+Preso parte a una dimostrazione autorizzata?
+
+{ANSWERS}
+Sì
+No
+
+B19 
+{QUESTION}
+Boicottato determinati prodotti?
+
+{ANSWERS}
+Sì
+No
+
+B20a 
+{QUESTION}
+C'è un partito politico con il quale meglio si identifica?
+
+{ANSWERS}
+Sì
+No
+
+B20b 
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Partito radicale (PLR)
+Partito popolare democratico (PPD)
+Partito socialista (PSS)
+Unione democratica del centro (UDC)
+Parito liberale (PLS)
+Partito cristiano sociale (PCS)
+Partito del lavoro (PdL)
+Partito dei verdi (PES)
+Partito dei verdi-liberali (PEL)
+Democratici svizzeri (DS)
+Unione democratica Federale (UDF)
+Partito popolare evangelico (PEV)
+Lega dei Ticinesi (Lega)
+Altro partito 
+
+B20b_N 
+{QUESTION}
+Se "altro partito", quale?
+
+{ANSWERS}
+
+B20c 
+{QUESTION}
+In che misura si identifica con questo partito? 
+
+{ANSWERS}
+molto
+piuttosto
+poco
+o per niente ?
+
+B21 
+{QUESTION}
+È iscritto a un partito politico?
+
+{ANSWERS}
+Sì
+No
+
+B22 
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Partito radicale (PLR)
+Partito popolare democratico (PPD)
+Partito socialista (PSS)
+Unione democratica del centro (UDC)
+Parito liberale (PLS)
+Partito cristiano sociale (PCS)
+Partito del lavoro (PdL)
+Partito dei verdi (PES)
+Partito dei verdi-liberali (PEL)
+Democratici svizzeri (DS)
+Unione democratica Federale (UDF)
+Partito popolare evangelico (PEV)
+Lega dei Ticinesi (Lega)
+Altro partito 
+
+B22_N 
+{QUESTION}
+Se "altro partito", quale?
+
+{ANSWERS}
+
+B23 
+{INTRO}
+In politica si parla generalmente di "sinistra" e di "destra". 
+
+{QUESTION}
+Basandosi su questa scala, dove 0 sta per la sinistra e 10 per la destra, dove si collocherebbe?
+
+{ANSWERS}
+0 - Sinistra
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Destra
+
+B24 
+{QUESTION}
+Tutto sommato, in che misura è soddisfatto, attualmente, della sua vita in generale? Per favore, risponda utilizzando questa scheda, dove 0 indica extremamente insoddisfatto e 10 estremamente soddisfatto.
+
+{ANSWERS}
+0 - Estremamente insoddisfatto/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente soddisfatto/a
+
+B25 
+{QUESTION}
+In che misura è soddisfatto dell'attuale situazione economica in Svizzera? Continui con questa scheda.
+
+{ANSWERS}
+0 - Estremamente insoddisfatto/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente soddisfatto/a
+
+B26 
+{QUESTION}
+In che misura è soddisfatto dell'agire attuale del governo svizzero? Continui con questa scheda.
+
+{ANSWERS}
+0 - Estremamente insoddisfatto/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente soddisfatto/a
+
+B27 
+{QUESTION}
+E in generale, in che misura è soddisfatto del modo in cui funziona la democrazia in Svizzera? Continui con questa scheda.
+
+{ANSWERS}
+0 - Estremamente insoddisfatto/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente soddisfatto/a
+
+B28 
+{QUESTION}
+Adesso, utilizzando questa scheda, indichi, per favore, come reputa lo stato attuale dell'istruzione pubblica in Svizzera?
+
+{ANSWERS}
+0 - Estremamente negativo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente positivo
+
+B29 
+{QUESTION}
+Ora, sempre con l'ausilio di questa scheda, indichi, per favore, come reputa lo stato attuale del servizio sanitario in Svizzera?
+
+{ANSWERS}
+0 - Estremamente negativo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente positivo
+
+B30
+{QUESTION}
+Utilizzando questa scheda, indichi per favore in che misura è in accordo o in disaccordo con ciascuna di queste affermazioni. Il governo dovrebbe attuare misure volte a ridurre le discrepanze a livello di redditi
+
+{ANSWERS}
+Totalmente d'accordo
+D'accordo
+Né d'accordo né in disaccordo
+In disaccordo
+Totalmente in disaccordo
+
+B31 
+{QUESTION}
+Omosessuali di ambo i sessi dovrebbero essere liberi di vivere la propria vita come vogliono
+
+{ANSWERS}
+Totalmente d'accordo
+D'accordo
+Né d'accordo né in disaccordo
+In disaccordo
+Totalmente in disaccordo
+
+B32 
+{QUESTION}
+ I partiti politici che cercano di rovesciare la democrazia dovrebbero essere vietati
+
+{ANSWERS}
+Totalmente d'accordo
+D'accordo
+Né d'accordo né in disaccordo
+In disaccordo
+Totalmente in disaccordo
+
+B33 
+{QUESTION}
+Ci si può affidare alla scienza moderna per risolvere i problemi ambientali
+
+{ANSWERS}
+Totalmente d'accordo
+D'accordo
+Né d'accordo né in disaccordo
+In disaccordo
+Totalmente in disaccordo
+
+B35
+{INTRO}
+Adesso le farò qualche domanda su persone, provenienti da altri paesi, che vengono a vivere in Svizzera.
+
+{QUESTION}
+Ora, utilizzando questa scheda, in che misura la Svizzera dovrebbe consentire alle persone dello stesso gruppo etnico di venire a vivere qui?
+
+{ANSWERS}
+A molti
+Ad alcuni
+A pochi
+A nessuno
+
+B36 
+{QUESTION}
+E le persone di gruppo etnico diverso da quelli della maggior parte degli svizzeri? Continui con questa scheda.
+
+{ANSWERS}
+A molti
+Ad alcuni
+A pochi
+A nessuno
+
+B37 
+{QUESTION}
+E le persone provenienti da paesi non europei più poveri? Continui con questa scheda.
+
+{ANSWERS}
+A molti
+Ad alcuni
+A pochi
+A nessuno
+
+B38 
+{QUESTION}
+Secondo lei, per l'economia svizzera è in generale un bene o un male che gente di altri paesi venga a vivere qui? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 - Un male
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Un bene
+
+B39 
+{QUESTION}
+E, continuando a utilizzare questa scheda, direbbe che la cultura svizzera viene in generale impoverita o piuttosto arricchita dalla gente proveniente da altri paesi che viene a stabilirsi qui?
+
+{ANSWERS}
+0 - La vita culturale si impoverisce
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- La vita culturale si arricchisce
+
+B40 
+{QUESTION}
+Secondo lei, la gente che viene dall'estero a stabilirsi qui rende la vita in Svizzera migliore o peggiore? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 - Peggiore
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Migliore
+
+C1 
+{INTRO}
+Ed adesso qualche domanda su di lei ed il suo modo di vivere.
+
+{QUESTION}
+Nell'insieme, in che misura si ritiene felice? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 - Estremamente infelice
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Estremamente felice
+
+C2 
+{QUESTION}
+Utilizzando questa scheda, con quale frequenza si incontra con gli amici, i parenti o i colleghi di lavoro?
+
+{ANSWERS}
+Mai
+Meno di una volta al mese
+Una volta al mese
+Più volte al mese
+Una volta alla settimana
+Più volte alla settimana
+Ogni giorno
+
+C3 
+{QUESTION}
+Ha qualcuno con cui discutere di cose intime e personali?
+
+{ANSWERS}
+Sì
+No
+
+C4 
+{QUESTION}
+Utilizzando questa scheda, rispetto ai suoi coetanei, con che frequenza partecipa ad attività sociali? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+Molto meno spesso della maggior parte di loro
+Meno spesso della maggior parte di loro
+Più o meno quanto loro
+Più spesso della maggior parte di loro
+Molto più spesso della maggior parte di loro
+
+C5 
+{QUESTION}
+Negli ultimi 5 anni lei o un membro del suo nucleo familiare è stato vittima di un furto o di un'aggressione?
+
+{ANSWERS}
+Sì
+No
+
+C6 
+{QUESTION}
+Quanto si sente - o si sentirebbe - sicuro camminando solo nel suo quartiere quando fa buio? Si sente ...
+
+{ANSWERS}
+Perfettamente al sicuro
+Al sicuro
+Insicuro/a
+Molto insicuro/a
+
+C7 
+{QUESTION}
+Con quale frequenza - se mai - teme che la casa le venga svaligiata? Scelga per cortesia la risposta da questa scheda. 
+
+{ANSWERS}
+Sempre o quasi sempre
+Qualche volte
+Solo occasionalmente
+Mai
+
+C8 
+{QUESTION}
+Questo timore di avere la casa svaligiata, comporta ... 
+
+{ANSWERS}
+… una seria ripercussione sulla sua qualità di vita,
+… soltanto qualche effetto particolare,
+... o nessun effetto significativo sulla sua qualità di vita?
+
+C9 
+{QUESTION}
+Con che frequenza - se mai - teme di essere vittima di un'agressione o di violenza fisica? Scelga per cortesia la risposta da questa scheda. 
+
+{ANSWERS}
+Sempre o quasi sempre
+Qualche volta
+Solo occasionalmente
+Mai
+
+C10 
+{QUESTION}
+Questo timore d'essere vittima di un'aggressione o di violenza fisica comporta … 
+
+{ANSWERS}
+… una seria ripercussione sulla sua qualità di vita,
+… soltanto qualche effetto particolare,
+... o nessun effetto significativo sulla sua qualità di vita?
+
+C15 
+{INTRO}
+Il prossimo gruppo di domande la riguardano personalmente.
+
+{QUESTION}
+Com'è il suo stato generale di salute ? Direbbe che è ...
+
+{ANSWERS}
+... ottimo
+... buono
+... discreto
+... cattivo
+... o pessimo ?
+
+C16
+{QUESTION}
+Nelle sue attività quotidiane è limitato da qualche malattia che dura da molto tempo, o invalidità, infermità fisica o mentale? IN CASO AFFERMATIVO, si tratta di un impedimento notevole o soltanto di un minimo disturbo ?
+
+{ANSWERS}
+Sì, molto
+Sì, fino a un certo punto
+No
+
+C17
+{QUESTION}
+Si considera appartenente a una particolare religione o confessione?
+
+{ANSWERS}
+Sì
+No
+
+C18
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Cattolica Romana
+Cattolica Cristiana
+Altra chiesa cattolica, confessione non specificata
+Protestante Riformata
+Chiese Evangeliche libere
+Altra chiesa protestante, confessione non specificata
+Ortodossa Cristiana
+Altra religione cristiana, confessione non specificata
+Ebraica
+Islamica
+Buddista
+Induista
+Altra religione asiatica, confessione non specificata
+Altra religione non cristiana, confessione non specificata
+Altra 
+
+C18_N1 
+{QUESTION}
+Altra : Religione o confessione
+
+{ANSWERS}
+
+C19
+{QUESTION}
+Si è mai considerato appartenente a una particolare religione o confessione?
+
+{ANSWERS}
+Sì
+No
+
+C20
+{QUESTION}
+Quale?
+
+{ANSWERS}
+Cattolica Romana
+Cattolica Cristiana
+Altra chiesa cattolica, confessione non specificata
+Protestante Riformata
+Chiese Evangeliche libere
+Altra chiesa protestante, confessione non specificata
+Ortodossa Cristiana
+Altra religione cristiana, confessione non specificata
+Ebraica
+Islamica
+Buddista
+Induista
+Altra religione asiatica, confessione non specificata
+Altra religione non cristiana, confessione non specificata
+Altra 
+
+C20_N1 
+{QUESTION}
+Altra :
+
+{ANSWERS}
+
+C21
+{QUESTION}
+Indipendentemente dal suo appartenere a una particolare religione, in che misura si definirebbe religioso? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 - Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10- Molto
+
+C22
+{QUESTION}
+Fatta eccezione per certe occasioni particolari, quali i matrimoni e i funerali, con che frequenza partecipa attualmente a funzioni religiose? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+Tutti i giorni
+Più di una volta alla settimana
+Una volta alla settimana
+Almeno una volta al mese
+Soltanto in occasione di festività religiose
+Meno spesso
+Mai
+
+C23
+{QUESTION}
+Fatta eccezione per quando assiste a funzioni religiose, con che frequenza prega? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+Tutti i giorni
+Più di una volta alla settimana
+Una volta alla settimana
+Almeno una volta al mese
+Soltanto in occasione di festività religiose
+Meno spesso
+Mai
+
+C24
+{QUESTION}
+Ritiene lei di appartenere ad un gruppo discriminato in questo paese?
+
+{ANSWERS}
+Sì
+No
+
+C25
+{QUESTION}
+In base a quali criteri il suo gruppo è soggetto a discriminazioni?
+
+{ANSWERS}
+Colore o razza
+Nazionalità
+Confessione religiosa
+Lingua
+Gruppo etnico
+Età
+Sesso
+Orientamento sessuale
+Invalidità
+Altro 
+
+C25_N 
+{QUESTION}
+Quale altro motivo?
+
+{ANSWERS}
+
+C26
+{QUESTION}
+E' cittadino svizzero?
+
+{ANSWERS}
+Sì
+No
+
+C27
+{QUESTION}
+Qual è la sua cittadinanza?
+
+{ANSWERS}
+Svizzera
+Italia
+Portogallo
+Germania
+Spagna
+Turchia
+Francia
+Austria
+Regno Unito (Gran Bretagna, Irlanda del Norte)
+Paesi Bassi
+Belgio
+Serbia
+Montenegro
+Croazia
+Bosnia-Erzegovina
+Macedonia (Ex-Repubblica Jugoslava di)
+Kosovo
+Albania
+Altro paese 
+(Senza cittadinanza)
+
+C27_N 
+{QUESTION}
+Qual'altro paese? 
+
+{ANSWERS}
+
+C28
+{QUESTION}
+È nato in Svizzera?
+
+{ANSWERS}
+Sì
+No
+
+C29
+{QUESTION}
+In quale paese è nato?
+
+{ANSWERS}
+Svizzera
+Italia
+Portogallo
+Germania
+Spagna
+Turchia
+Francia
+Austria
+Regno Unito (Gran Bretagna, Irlanda del Norte)
+Paesi Bassi
+Belgio
+Serbia
+Montenegro
+Croazia
+Bosnia-Erzegovina
+Macedonia (Ex-Repubblica Jugoslava di)
+Kosovo
+Albania
+Altro paese 
+
+C29_N 
+{QUESTION}
+In quale paese è nato ?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+In che anno è arrivato la prima volta in Svizzera per stabilirsi?
+
+{ANSWERS}
+
+C31
+{QUESTION}
+Che lingua o lingue parla più spesso nell'ambito familiare?
+
+{ANSWERS}
+Svizzero-tedesco
+Francese
+Dialetto ticinese
+Retoromancio
+Tedesco
+Italiano
+Serbo
+Croato
+Albanese
+Portoghese
+Spagnolo
+Inglese
+Turco
+Altra lingua 
+
+C31_N 
+{QUESTION}
+Che lingua o lingue parla più spesso nell'ambito familiare?
+
+{ANSWERS}
+
+C32
+{QUESTION}
+Appartiene a una minoranza etnica in Svizzera?
+
+{ANSWERS}
+Sì
+No
+
+C33
+{QUESTION}
+Suo padre è nato in Svizzera?
+
+{ANSWERS}
+Sì
+No
+
+C34
+{QUESTION}
+In quale paese è nato Suo padre?
+
+{ANSWERS}
+Svizzera
+Italia
+Portogallo
+Germania
+Spagna
+Turchia
+Francia
+Austria
+Regno Unito (Gran Bretagna, Irlanda del Norte)
+Paesi Bassi
+Belgio
+Serbia
+Montenegro
+Croazia
+Bosnia-Erzegovina
+Macedonia (Ex-Repubblica Jugoslava di)
+Kosovo
+Albania
+Altro paese 
+
+C34_N 
+{QUESTION}
+In quale paese è nato Suo padre?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Sua madre è nata in Svizzera?
+
+{ANSWERS}
+Sì
+No
+
+C36
+{QUESTION}
+In quale paese è nata Sua madre ?
+
+{ANSWERS}
+Svizzera
+Italia
+Portogallo
+Germania
+Spagna
+Turchia
+Francia
+Austria
+Regno Unito (Gran Bretagna, Irlanda del Norte)
+Paesi Bassi
+Belgio
+Serbia
+Montenegro
+Croazia
+Bosnia-Erzegovina
+Macedonia (Ex-Repubblica Jugoslava di)
+Kosovo
+Albania
+Altro paese 
+
+C36_N 
+{QUESTION}
+In quale paese è nata Sua madre?
+
+{ANSWERS}
+
+F1 
+{INTRO}
+E ora, vorrei conoscere alcuni dettagli su di lei e gli altri componenti del suo nucleo familiare.
+
+{QUESTION}
+Quante persone, i bambini e Lei inclusi - vivono qui regolarmente, come membri del suo nucleo familiare?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Guardando questa scheda, qual'è il suo rapporto con lui? Tom è Suo ...?
+
+{ANSWERS}
+Marito/moglie/partner
+Figlio/figlia (incl. figliastri/figli acquisito, adottivi, figli in una famiglia d'affidamento, figli del partner)
+Genitore/suoceri/Genitori del partner/Genitori adottivi
+Fratello/sorella (incl.fratellastro/sorellastra, acquisuto, adottati, in famiglia d’affidamento)
+Altro parente
+Altro non-parente
+
+F6 
+{QUESTION}
+Mi ha appena detto che vive con suo marito. Quale descrizione su questa scheda illustra la sua relazione con lui? 
+
+{ANSWERS}
+Sposato/a
+Unione domestica registrata (federale)
+Abito con partner - senza riconoscimento legale
+Abito con partner - con riconoscimento legale a livello cantonale
+Separato/a legalmente
+Divorziato/a, unione domestica sciolta
+
+F7
+{QUESTION}
+E ha mai vissuto con un partner, senza essere sposato o in unione domestica registrata? 
+
+{ANSWERS}
+Sì
+No
+
+F8 
+{QUESTION}
+È mai stato divorziato o ha avuto una unione domestica poi sciolta? 
+
+{ANSWERS}
+Sì
+No
+
+F11 
+{QUESTION}
+Questa domanda si riferisce alla sua condizione giuridica di stato civile e non a con chi possa o non possa abitare al momento. Quale delle descrizioni in questa scheda illustra la sua attuale condizione giuridica di stato civile? 
+
+{ANSWERS}
+Sposato/a
+Unione domestica registrata (federale)
+Separato/a legalmente (ma ancora sposato/a, vincolato/a da un’unione domestica registrata)
+Divorziato/a, unione domestica sciolta
+Vedovo/a, partner registrato/a deceduto/a
+Celibe/nubile, MAI sposato/a e mai vincolato/a da un’unione domestica registrata
+
+F13
+{QUESTION}
+Ha mai avuto figli suoi, figliastri, figli adottivi, figli in una famiglia d'affidamento o figli del partner che hanno vissuto nel suo nucleo familiare?
+
+{ANSWERS}
+Sì
+No
+
+F13a 
+{QUESTION}
+C’è un telefono fisso in suo alloggio?
+
+{ANSWERS}
+Sì
+No
+
+F14
+{QUESTION}
+Quale delle caratteristiche elencate su questa scheda descrive al meglio l'area in cui vive? 
+
+{ANSWERS}
+Una grande città
+I sobborghi o la periferia di una grande città
+Una città o una cittadina
+Un paese
+Una fattoria o una casa in campagna
+
+F15
+{QUESTION}
+Quale è il livello di formazione più alto che ha terminato? Usi per favore questa scheda. 
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+
+F15_N 
+{QUESTION}
+Altra formazione : Quale? 
+
+{ANSWERS}
+
+F16 
+{QUESTION}
+Quanti anni di studio a tempo pieno ha completato dalla prima elementare in poi e senza contare gli anni di apprendistato? 
+
+{ANSWERS}
+
+F16bis 
+{QUESTION}
+E, se del caso, quanti anni d'apprendistato ha portato a termine? 
+
+{ANSWERS}
+
+F17a è 
+{QUESTION}
+Utilizzando questa scheda, indichi quali delle seguenti descrizioni corrisponde a ciò che ha fatto negli ultimi 7 giorni. Indichi tutto ciò che corrisponde. 
+
+{ANSWERS}
+Lavoro remunerato (o temporaneamente fuori sede) (dipendente, indipendente, impiegato/a nell'azienda familiare)
+Formazione, anche se in vacanza (non pagata dal datore di lavoro)
+Disoccupato/a e attivamente in cerca di lavoro
+Disoccupato/a, desiderando un lavoro ma senza cercarlo attivamente
+Malattia o invalidità permanente
+Pensionato/a
+In servizio civile o militare
+Dedito ai lavori di casa, cura di bambini o di altre persone
+Altro
+
+F17c 
+{QUESTION}
+E quali delle seguenti descrizioni illustra al meglio la sua situazione (negli ultimi 7 giorni)? 
+
+{ANSWERS}
+Lavoro remunerato (o temporaneamente fuori sede) (dipendente, indipendente, impiegato/a nell'azienda familiare)
+Formazione, anche se in vacanza (non pagata dal datore di lavoro)
+Disoccupato/a e attivamente in cerca di lavoro
+Disoccupato/a, desiderando un lavoro ma senza cercarlo attivamente
+Malattia o invalidità permanente
+Pensionato/a
+In servizio civile o militare
+Dedito ai lavori di casa, cura di bambini o di altre persone
+Altro
+
+F18
+{QUESTION}
+Potrebbe confermarmi se ha svolto un lavoro remunerato per un'ora o più negli ultimi 7 giorni? 
+
+{ANSWERS}
+Sì
+No
+
+F19
+{QUESTION}
+Ha mai avuto un lavoro remunerato? 
+
+{ANSWERS}
+Sì
+No
+
+F20
+{QUESTION}
+Qual'è l'ultimo anno in cui ha svolto un lavoro remunerato? 
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Nel suo lavoro principale è stato ... 
+
+{ANSWERS}
+... dipendente,
+... indipendente,
+o lavora per l'azienda familiare?
+
+F22
+{QUESTION}
+Quante persone ha (se del caso) alle sue dipendenze? 
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Ha un contratto di lavoro con … 
+
+{ANSWERS}
+durata illimitata, 
+... o durata limitata, 
+o non ha/ha avuto un contratto di lavoro?
+
+F23a
+{QUESTION}
+Quando ha avuto inizio il suo lavoro, pensa che questo fosse considerato dal suo datore di lavoro come ... 
+
+{ANSWERS}
+... una attività temporanea o a tempo determinato di una durata inferiore ai 12 mesi,
+... una attività temporanea o a tempo determinato uguale o superiore a 12 mesi,
+o una attività a tempo indeterminato?
+
+F24
+{QUESTION}
+Quante persone, lei incluso, sono impiegate al posto dove generalmente lavora … 
+
+{ANSWERS}
+... meno di 10,
+... da 10 a 24,
+... da 25 a 99,
+... da 100 a 499,
+5 o, 500 e più?
+
+F25 
+{QUESTION}
+Nel suo lavoro principale ha un incarico di supervisione del lavoro di altri impiegati? 
+
+{ANSWERS}
+Sì
+No
+
+F26 
+{QUESTION}
+Di quante persone è stato responsabile? 
+
+{ANSWERS}
+
+F27
+{INTRO}
+Ora le leggerò una lista di domande relative alla sua vita lavorativa. 
+
+{QUESTION}
+Utilizzando questa scheda, mi indichi, per favore, in che misura la direzione del posto in cui lavora le concede... di decidere su come organizzare la sua giornata di lavoro?
+
+{ANSWERS}
+0 - Non ho/avevo influenza alcuna
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+ 9 -
+10- Ne ho/avevo il completo controllo
+
+F28 
+{QUESTION}
+... influenzare decisioni politiche sulle attività dell'organizzazione?
+
+{ANSWERS}
+0 - Non ho/avevo influenza alcuna
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+ 9 -
+10- Ne ho/avevo il completo controllo
+
+F28a 
+{INTRO}
+Ora le leggerò una lista di domande relative alla sua vita lavorativa. 
+
+{QUESTION}
+Utilizzando questa scheda, mi indichi, per favore, in che misura la direzione del posto in cui lavora le concede...  scegliere o cambiare il ritmo di lavoro? 
+
+{ANSWERS}
+0 - Non ho/avevo influenza alcuna
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+ 9 -
+10- Ne ho/avevo il completo controllo
+
+F29 
+{QUESTION}
+Quante sono state le sue ore "base" o contrattuali settimanali (nel suo lavoro principale), esclusi gli straordinari pagati e non pagati? 
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Indipendentemente dalle sue ore stabilite su base contrattuale, quante ore lavora solitamente alla settimana (nella sua principale attività), inclusi gli straordinari pagati o non pagati? 
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Cosa produce o fa principalmente la ditta/ organizzazione per cui lavora? 
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+Per quale di queste organizzazioni, indicate sulla scheda, lavora o ha lavorato? 
+
+{ANSWERS}
+Amministrazione pubblica (Confederazione, cantone o comune)
+Altro settore pubblico (scuole, ospedale, ecc.)
+Azienda statale
+Società privata
+Indipendente
+Altro
+
+F33 
+{QUESTION}
+Qual'è il nome o titolo del suo lavoro principale? 
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+Che tipo di lavoro svolge in prevalenza nell'ambito della sua occupazione principale? 
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Che tipo di formazione professionale o qualifica è richiesta per il lavoro? 
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+Nessuna competenza particolare
+Esperienza
+Qualita umana
+
+F34a_N 
+{QUESTION}
+Altra formazione : Quale? 
+
+{ANSWERS}
+
+F34b 
+{QUESTION}
+Quale dei motivi indicati in questa scheda meglio descrive il motivo principale che le ha fatto lasciare il suo ultimo datore di lavoro? 
+
+{ANSWERS}
+Ho ottenuto un lavoro migliore
+Ho deciso di iniziare una mia attività / diventare indipendente
+Il mio contratto è giunto a termine
+Il mio posto di lavoro è stato soppresso/ sono stato licenziato/a
+Il mio datore di lavoro ha cessato la sua attività
+La mia azienda/quella della mia famiglia ha cessato attività
+Malattia o invalidità
+Sono andato/a in pensione
+Motivi personali o familiari
+Altro
+Mai lasciato un datore di lavoro
+
+F35
+{QUESTION}
+Durante gli ultimi 10 anni ha svolto un lavoro retribuito in qualche altro paese per un periodo di 6 mesi o più?
+
+{ANSWERS}
+Sì
+No
+
+F36
+{QUESTION}
+stato disoccupato e in cerca di lavoro per oltre 3 mesi?
+
+{ANSWERS}
+Sì
+No
+
+F37 
+{QUESTION}
+È capitato che qualcuno di questi periodi durasse 12 mesi o più?
+
+{ANSWERS}
+Sì
+No
+
+F38
+{QUESTION}
+Qualcuno di questi periodi è occorso negli ultimi 5 anni?
+
+{ANSWERS}
+Sì
+No
+
+F39
+{QUESTION}
+È o è mai stato membro di un sindacato o di un'organizzazione simile? Se SÌ, detta appartenenza si riferisce al momento attuale o ad un periodo precedente? 
+
+{ANSWERS}
+Sì, al momento attuale
+Sì, ad un periodo precedente
+No
+
+F40
+{QUESTION}
+Per favore consideri le entrate di tutti i membri del nucleo familiare e qualsiasi introito complessivamente percepito da esso. Qual'è la principale fonte di reddito nella sua economia domestica? Per favore utilizzi questa scheda. 
+
+{ANSWERS}
+Salari o retribuzioni
+Reddito da lavoro indipendente (escluso il settore agricolo)
+Reddito agrario
+Pensioni
+Indennità di disoccupazione/liquidazione
+Altre prestazioni o contributi
+Reddito da investimenti, risparmi, assicurazioni o immobili
+Reddito da altre fonti
+
+F41A
+{QUESTION}
+Utilizzando questa scheda, sommando i ricavi da tutte le fonti, a quanto ammonta il reddito netto totale del suo nucleo familiare? Se non conosce la cifra esatta, per favore ne fornisca una stima. Utilizzi la parte della scheda che meglio conosce: reddito settimanale, mensile o annuo. 
+
+{ANSWERS}
+Approssimativamente ALLA SETTIMANA
+J Meno di CHF 625
+R CHF 625 fino a meno di CHF 875
+C CHF 875 fino a meno di CHF 1'100
+M CHF 1'100 fino a meno di CHF 1'300
+F CHF 1'300 fino a meno di CHF 1'525
+S CHF 1'525 fino a meno di CHF 1'750
+K CHF 1'750 fino a meno di CHF 2'050
+P CHF 2'050 fino a meno di CHF 2'450
+D CHF 2'450 fino a meno di CHF 3'200
+H CHF 3'200 o di più
+
+F41B
+{QUESTION}
+Utilizzando questa scheda, sommando i ricavi da tutte le fonti, a quanto ammonta il reddito netto totale del suo nucleo familiare? Se non conosce la cifra esatta, per favore ne fornisca una stima. Utilizzi la parte della scheda che meglio conosce: reddito settimanale, mensile o annuo. 
+
+{ANSWERS}
+Approssimativamente AL MESE
+J Meno di CHF 2'700
+R CHF 2'700 fino a meno di CHF 3'800
+C CHF 3'800 fino a meno di CHF 4'700
+M CHF 4'700 fino a meno di CHF 5'700
+F CHF 5'700 fino a meno di CHF 6'600
+S CHF 6'600 fino a meno di CHF 7'600
+K CHF 7'600 fino a meno di CHF 8'900
+P CHF 8'900 fino a meno di CHF 10'600
+D CHF 10'600 fino a meno di CHF 13'800
+H CHF 13'800 o di più
+
+F41C
+{QUESTION}
+Utilizzando questa scheda, sommando i ricavi da tutte le fonti, a quanto ammonta il reddito netto totale del suo nucleo familiare? Se non conosce la cifra esatta, per favore ne fornisca una stima. Utilizzi la parte della scheda che meglio conosce: reddito settimanale, mensile o annuo. 
+
+{ANSWERS}
+Approssimativamente ALL’ANNO
+J Meno di CHF 32'500
+R CHF 32'500 fino a meno di CHF 45'500
+C CHF 45'500 fino a meno di CHF 56'500
+M CHF 56'500 fino a meno di CHF 68'000
+F CHF 68'000 fino a meno di CHF 79'500
+S CHF 79'500 fino a meno di CHF 91'500
+K CHF 91'500 fino a meno di CHF 106'000
+P CHF 106'000 fino a meno di CHF 127'500
+D CHF 127'500 fino a meno di CHF 165'500
+H CHF 165'500 o di più
+
+F41a 
+{QUESTION}
+Qual è approssimativamente la quota di reddito da lei stesso prodotta per il nucleo familiare? Per favore usi questa scheda. 
+
+{ANSWERS}
+Nessuna
+Molto modesta
+Meno della metà
+Circa la metà
+Più della metà
+Quasi tutta
+Tutta
+
+F42
+{QUESTION}
+Quali delle seguenti descrizioni riportate sulla scheda si avvicina di più a ciò che pensa oggi dell'attuale reddito del suo nucleo familiare? 
+
+{ANSWERS}
+Il reddito attuale consente una vita comoda
+Ci arrangiamo con il reddito attuale
+È difficile vivere con il reddito attuale
+È molto difficile vivere con il reddito attuale
+
+F43
+{QUESTION}
+Se per qualche motivo venisse a trovarsi in serie difficoltà economiche e dovesse farsi prestare dei soldi per poter affrontare i propri impegni, le sarebbe difficile o facile poter ottenere il succitato aiuto? Per favore utilizzi questa scheda. 
+
+{ANSWERS}
+Molto difficile
+Piuttosto difficile
+Né facile né difficile
+Piuttosto facile
+Molto facile
+
+F45
+{QUESTION}
+ Qual'è il più alto livello di istruzione raggiunto da: suo marito? Per favore utilizzi questa scheda. _
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+
+F46a
+{QUESTION}
+Quale di queste descrizioni è riconducibile a quanto lui ha fatto negli ultimi 7 giorni? Indichi tutto che corrisponde. 
+
+{ANSWERS}
+Lavoro remunerato (o temporaneamente fuori sede) (dipendente, indipendente, impiegato/a nell'azienda familiare)
+Formazione, anche se in vacanza (non pagata dal datore di lavoro)
+Disoccupato/a e attivamente in cerca di lavoro
+Disoccupato/a, desiderando un lavoro ma senza cercarlo attivamente
+Malattia o invalidità permanente
+Pensionato/a
+In servizio civile o militare
+Dedito ai lavori di casa, cura di bambini o di altre persone
+
+F46c 
+{QUESTION}
+E quali delle seguenti descrizioni illustra al meglio la sua situazione (sempre negli ultimi 7 giorni)? 
+
+{ANSWERS}
+Lavoro remunerato (o temporaneamente fuori sede) (dipendente, indipendente, impiegato/a nell'azienda familiare)
+Formazione, anche se in vacanza (non pagata dal datore di lavoro)
+Disoccupato/a e attivamente in cerca di lavoro
+Disoccupato/a, desiderando un lavoro ma senza cercarlo attivamente
+Malattia o invalidità permanente
+Pensionato/a
+In servizio civile o militare
+Dedito ai lavori di casa, cura di bambini o di altre persone
+
+F47 
+{QUESTION}
+Potrebbe confermarmi se lui ha svolto un lavoro remunerato (di un'ora o più) negli ultimi 7 giorni? 
+
+{ANSWERS}
+Sì
+No
+
+F48 
+{QUESTION}
+Qual'è stato il nome o titolo del principale lavoro da lui svolto? 
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Nel suo principale lavoro, che cosa fa in concreto per la maggior parte del tempo? 
+
+{ANSWERS}
+
+F50
+{QUESTION}
+Che tipo di formazione professionale o qualifiche sono necessarie per il lavoro? 
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+Nessuna competenza particolare
+Esperienza
+Qualita umana
+
+F51
+{QUESTION}
+Nell'attività principale da lui svolta lui è … 
+
+{ANSWERS}
+... dipendente,
+... indipendente,
+o, lavora per l'azienda familiare?
+
+
+F52
+{QUESTION}
+Di quante persone lui è responsabile? 
+
+{ANSWERS}
+
+F53
+{QUESTION}
+Nel lavoro principale da lui svolto, lui ha qualche responsabilità di supervisione del lavoro di altri dipendenti?
+
+{ANSWERS}
+Sì
+No
+
+F54
+{QUESTION}
+Di quante persone lui è responsabile? 
+
+{ANSWERS}
+
+F57
+{QUESTION}
+Quante ore di lavoro svolge per settimana lui nella propria attività principale? Includere, per cortesia, ore di straordinario, che siano pagate o meno. 
+
+{ANSWERS}
+
+F58
+{QUESTION}
+Qual'è il più alto livello di istruzione raggiunto da suo padre? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+
+F59
+{QUESTION}
+Quando lei aveva 14 anni, suo padre lavorava come dipendente, indipendente, o non lavorava affatto? 
+
+{ANSWERS}
+Dipendente
+Indipendente
+Non lavorava
+(Padre defunto/assente quando l'intervistato/a era quattordicenne)
+
+F60
+{QUESTION}
+Quanti impiegati aveva? 
+
+{ANSWERS}
+Nessuno
+Da 1 a 24
+25 o più
+
+F61
+{QUESTION}
+Era responsabile della supervisione del lavoro di altri dipendenti? 
+
+{ANSWERS}
+Sì
+No
+
+F62
+{QUESTION}
+Qual'è stato il nome o titolo del principale lavoro da lui svolto? 
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Quale delle attività citate su questa scheda descrive al meglio il lavoro che egli svolgeva quando lei aveva 14 anni? 
+
+{ANSWERS}
+Professioni intellettuali, libere e scientifiche dottore – insegnante – ingegnere – artista – esperto contabile, commercialista
+Direttori, funzioni dirigenti nell'amministrazione banchiere – direttore di grande azienda – consigliere di stato – dirigente sindacale
+Settore impiegatizio segretario - impiegato d'ufficio - capo servizio - contabile
+Settore vendite venditore – gerente – assistente di vendita - assicuratore
+Settore servizi gerente di ristorante – agente di polizia – cameriere - portinaio – parrucchiere, militare
+Lavoratore qualificato capo cantiere – meccanico – tipografo – fabbricante attrezzi e stampi - elettricista
+Lavoratore semi qualificato muratore – autista di autopostali – operaio industria conserviera – carpentiere – lattoniere - panettiere
+Lavoratore non qualificato operaio generico-facchino-operaio metalmeccanico non qualificato
+Lavoratore agricolo agricoltore – operaio agricolo – conducente di trattore, pescatore
+
+F64 
+{QUESTION}
+Qual'è il più alto livello di istruzione raggiunto da sua madre? Per favore utilizzi questa scheda. 
+
+{ANSWERS}
+Scuola elemntare
+Scuola elementare non terminata A
+Scuola elementare B
+Scuola media
+Scuola secondaria, scuola media C
+10. anno, pretirocinio, corso preprofessionale, offerte transitorie D
+Scuole di cultura generale
+Scuole specializzate (3 anni, certificato, maturità specializzata) scuola per professioni sanitarie/sociali (sspss), scuole di diploma (SDD), scuola commerciale E
+Scuole di maturità
+Maturità ginnasiale, Liceo F
+Maturità ginnasiale per adulti o apprendistato dopo maturità ginnasiale G
+Scuola magistrale, patente di maestro/a (per scuola dell'infanzia e scuola elementare) H
+Maturità professionale I
+Maturità professionale per adulti J
+Formazione professionale
+Formazione professionale di base (Certificato federale di formazione pratica), Apprendistato corto (2 anni), Scuole commerciali (1 anno), Scuole di formazione generale (1-2 anni) K
+Apprendistato 3-4 anni (AFC: attestato federale di capacità) tirocinio in azienda o in scuola professionale di base L
+Secondo apprendistato o apprendistato come seconda formazione M
+Maestria, brevetto federale e altri esami professionali superiori N
+Diploma o postdiploma di una scuola professionnale superiore, p.es. nel campo tecnico, amministrativo, salute, lavoro sociale, arte applicata O
+Diploma o postdiploma di una delle seguenti scuole superiori:scuola tecnica superiore (STS) scuola superiore dei quadri per l'economia e l'amministrazione (SSQEA) scuola superiore di arti applicate (SSAA) scuola superiore di economia domestica (SSED) scuola alberghiera di Losanna (titoli conseguiti negli anni 1998, 1999 e 2000) P
+Scuole universitarie professionali (SUP), Alte scuole pedagogiche (ASP)
+Bachelor Q
+Master, licenza, diploma, postdiploma R
+Università, Politecnico Federale
+Biennio propedeutico, primo ciclo con certificato S
+Bachelor, licenza in 3-4 anni T
+Licenza che esige più di 4 anni di studio U
+Master, licenza, diploma, postdiploma V
+Dottorato, PhD W
+
+F65 
+{QUESTION}
+Quando lei aveva 14 anni, sua madre lavorava come dipendente, indipendente o non lavorava affatto? 
+
+{ANSWERS}
+Dipendente
+Indipendente
+Non lavorava
+(Madre defunta/assente quando l'intervistato/a era quattordicenne)
+
+F66
+{QUESTION}
+Quanti impiegati aveva? 
+
+{ANSWERS}
+Nessuno
+Da 1 a 24
+25 o più
+
+F67
+{QUESTION}
+Era sua madre responsabile della supervisione del lavoro di altri dipendenti? 
+
+{ANSWERS}
+Sì
+No
+
+F68
+{QUESTION}
+Qual'era il nome o titolo del principale lavoro da lei svolto? 
+
+{ANSWERS}
+
+F69
+{QUESTION}
+Quale delle attività citate su questa scheda descrive al meglio il lavoro che svolgeva sua madre quando lei aveva 14 anni? 
+
+{ANSWERS}
+Professioni intellettuali, libere e scientifiche dottore – insegnante – ingegnere – artista – esperto contabile, commercialista
+Direttori, funzioni dirigenti nell'amministrazione banchiere – direttore di grande azienda – consigliere di stato – dirigente sindacale
+Settore impiegatizio segretario - impiegato d'ufficio - capo servizio - contabile
+Settore vendite venditore – gerente – assistente di vendita - assicuratore
+Settore servizi gerente di ristorante – agente di polizia – cameriere - portinaio – parrucchiere, militare
+Lavoratore qualificato capo cantiere – meccanico – tipografo – fabbricante attrezzi e stampi - elettricista
+Lavoratore semi qualificato muratore – autista di autopostali – operaio industria conserviera – carpentiere – lattoniere - panettiere
+Lavoratore non qualificato operaio generico-facchino-operaio metalmeccanico non qualificato
+Lavoratore agricolo agricoltore – operaio agricolo – conducente di trattore, pescatore
+
+F70 
+{INTRO}
+Ora ancora un paio di domande su di Lei
+
+{QUESTION}
+Durante gli ultimi 12 mesi ha seguito corsi, conferenze o qualche lezione allo scopo di migliorare le sue abilità o conoscenze professionali? 
+
+{ANSWERS}
+Sì
+No
+
+F70a
+{QUESTION}
+Quanti giorni in tutto all'incirca ha passato con questa formazione negli ultimi 12 mesi? Si prega di contare due mezze giornate come un giorno intero. 
+
+{ANSWERS}
+
+F70b 
+{QUESTION}
+Ora pensi a tutto quello che ha imparato durante questa formazione. Quanto utile sarebbe ciò che ha imparato se volesse lavorare per un altro datore di lavoro? Usi per favore questa scheda. 
+
+{ANSWERS}
+Molto utile
+Abbastanza utile
+Non molto utile
+Per niente utile
+
+F70c 
+{QUESTION}
+Quale parte dei costi di questa formazione è stata pagata dal suo datore di lavoro o la sua azienda? Usi per favore questa scheda. 
+
+{ANSWERS}
+Tutta
+Una grande parte
+Circa la metà
+Una piccola parte
+Nessuna
+
+

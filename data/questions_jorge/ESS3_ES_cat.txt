@@ -1,0 +1,1851 @@
+﻿A1 
+{QUESTION}
+En un dia feiner, quant de temps passa normalment mirant la televisió? Si us plau, utilitzi aquesta targeta per respondre.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A2 
+{QUESTION}
+De nou, en un dia feiner, quant d’aquest temps que passa mirant la televisió el passa mirant notícies o altres programes de política i actualitat? Si us plau, segueixi utilitzant aquesta targeta.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A3 
+{QUESTION}
+En un dia feiner, quant de temps passa normalment escoltant la ràdio? Utilitzi la mateixa targeta.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A4 
+{QUESTION}
+I, de nou, en un dia feiner, quant d’aquest temps que passa escoltant la ràdio el passa escoltant notícies o altres programes de política i actualitat? Segueixi utilitzant aquesta targeta.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A5 
+{QUESTION}
+En un dia feiner, quant de temps passa normalment llegint el diari? Utilitzi aquesta targeta una altra vegada.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A6 
+{QUESTION}
+I quant d’aquest temps el dedica a llegir sobre política i temes d’actualitat? Segueixi utilitzant aquesta targeta.
+
+{ANSWERS}
+Gens 
+Menys de ½ hora 
+De ½ hora a 1 hora 
+Mes d’1, fins a 1 ½ hora 
+Més d’1 ½, fins a 2 hores 
+Més de 2, fins a 2 ½ hores 
+Més de 2 ½, fins a 3 hores 
+Més de 3 hores 
+
+A7 
+{QUESTION}
+Utilitzant ara aquesta targeta, amb quina freqüència fa servir internet o el correu electrònic– sigui a casa o a la feina– per al seu ús personal?
+
+{ANSWERS}
+No hi tinc accés ni a casa ni a la feina 
+No els faig servir mai 
+Menys d’una vegada al mes 
+Una vegada al mes 
+Vàries vegades al mes 
+Una vegada a la setmana 
+Vàries vegades a la setmana
+Tots els dies 
+
+A8 
+{QUESTION}
+Utilitzant aquesta targeta, diria vostè que, en general, es pot confiar en la majoria de la gent, o que un mai no és prou prudent en el tracte amb els altres? Si us plau, col·loqui’s en una escala del 0 al 10, on el 0 vol dir que “un mai no és prou prudent” i el 10 vol dir que es “pot confiar en la majoria de la gent”.
+
+{ANSWERS}
+00 Un mai no és prou prudent
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Es pot confiar en la majoria de la gent
+
+A9 
+{QUESTION}
+Utilitzant aquesta targeta, pensa que la majoria de la gent intentaría aprofitar-se de vostè si tingués l’ocasió, o que seria honrada amb vostè?
+
+{ANSWERS}
+00 La majoria de la gent intentaría aprofitar-se de mi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La majoria la gent seria honrada amb mi
+
+A10 
+{QUESTION}
+Vostè diria que la majoria de les vegades la gent intenta ajudar als altres o que principalment mira per sí mateixa?
+
+{ANSWERS}
+00 La majoria de les vegades la gent mira per sí mateixa
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La majoria de les vegades la gent intenta ajudar els altres
+
+{INTRO}
+Ara m’agradaria fer-li algunes preguntes sobre política i el govern.
+
+B1 
+{QUESTION}
+En quina mesura diria vostè que l’interessa la política? Vostè diria que l’interessa... 
+
+{ANSWERS}
+Molt 
+Bastant 
+Poc 
+Gens 
+
+B2 
+{QUESTION}
+Amb quina freqüència la política li sembla tant complicada que no pot entendre molt bé el que està passant? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Mai 
+Poques vegades 
+A vegades 
+Amb certa freqüència 
+Sovint 
+
+B3 
+{QUESTION}
+Troba difícil o fàcil formar-se una opinió sobre temes polítics? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Molt difícil 
+Difícil 
+Ni difícil ni fàcil 
+Fàcil 
+Molt fàcil 
+
+B4 
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, amb una puntuació del 0 al 10, quant confia vostè personalment en cadascuna de les següents institucions. El 0 vol dir que no confia en absolut en una institució, i el 10 vol dir que hi confia plenament. En primer lloc …el Parlament espanyol
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B5 
+{QUESTION}
+…el sistema judicial
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B6 
+{QUESTION}
+…la policia
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B7 
+{QUESTION}
+…els polítics
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B8 
+{QUESTION}
+…els partits polítics
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B9 
+{QUESTION}
+…el Parlament Europeu
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B10 
+{QUESTION}
+…les Nacions Unides
+
+{ANSWERS}
+00 No hi confio en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Hi confio plenament
+
+B11 
+{INTRO}
+Avui dia, hi ha gent que, per la raó que sigui, no vota. 
+
+{QUESTION}
+Va votar vostè en les darreres eleccions generals de març de 2004? 
+
+{ANSWERS}
+
+B12 
+{QUESTION}
+¿A quin partit va votar en aquestes eleccions? 
+
+{ANSWERS}
+
+B13 
+{INTRO}
+Hi ha moltes maneres d’intentar que les coses millorin a Espanya o, almenys, d’evitar que empitjorin. 
+
+{QUESTION}
+En els últims 12 mesos, ha realitzat vostè alguna de les següents activitats? S’ha posat en contacte amb un polític o amb una autoritat o funcionari estatal, autonòmic o local?
+
+{ANSWERS}
+Sí 
+No
+
+B14 
+{QUESTION}
+Ha col·laborat amb un partit polític o una plataforma d’acció ciutadana? 
+
+{ANSWERS}
+Sí 
+No
+
+B15 
+{QUESTION}
+Ha col·laborat amb alguna altra organització o associació? 
+
+{ANSWERS}
+Sí 
+No
+
+B16 
+{QUESTION}
+Ha dut o mostrat insígnies o enganxines d’alguna campanya? 
+
+{ANSWERS}
+Sí 
+No
+
+B17 
+{QUESTION}
+Ha firmat una petició en una campanya de recollida de signatures? 
+
+{ANSWERS}
+Sí 
+No
+
+B18 
+{QUESTION}
+Ha participat en manifestacions autoritzades? 
+
+{ANSWERS}
+Sí 
+No
+
+B19 
+{QUESTION}
+Ha boicotejat o deixat de comprar certs productes? 
+
+{ANSWERS}
+Sí 
+No
+
+B20a 
+{QUESTION}
+Hi ha algun partit al que vostè se senti més proper que a la resta de partits? 
+
+{ANSWERS}
+
+B20b 
+{QUESTION}
+¿Quin? 
+
+{ANSWERS}
+
+B20c 
+{QUESTION}
+En quina mesura se sent vostè proper a aquest partit? S’hi sent...? 
+
+{ANSWERS}
+molt proper 
+bastant proper 
+poc proper 
+gens proper 
+
+B21 
+{QUESTION}
+Està afiliat a algun partit polític? 
+
+{ANSWERS}
+
+B22
+{QUESTION}
+¿Quin? 
+
+{ANSWERS}
+
+B23 
+{INTRO}
+En política a vegades es parla d’esquerra i de dreta. 
+
+{QUESTION}
+Utilitzant aquesta targeta, on es col·locaria vostè en aquesta escala? El 0 vol dir “esquerra” i el 10 “dreta”.
+
+{ANSWERS}
+00 Esquerra 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dreta
+
+B24 
+{QUESTION}
+Canviant de tema, en termes generals, en quina mesura està satisfet amb la seva vida actualment? Si us plau, respongui utilitzant aquesta targeta, on el 0 vol dir que està completament insatisfet i 10 que està completament satisfet.
+
+{ANSWERS}
+00 Completament insatisfet
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completament satisfet
+
+B25 
+{QUESTION}
+I, en general, en quina mesura està satisfet amb la situació econòmica actual a Espanya? Continuï utilitzant la mateixa targeta.
+
+{ANSWERS}
+00 Completament insatisfet
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completament satisfet
+
+B26 
+{QUESTION}
+Ara pensant en el govern espanyol, en quina mesura està satisfet amb la manera com està fent la seva feina? Continuï utilitzant la mateixa targeta.
+
+{ANSWERS}
+00 Completament insatisfet
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completament satisfet
+
+B27 
+{QUESTION}
+I, en conjunt, en quina mesura està satisfet amb el funcionament de la democràcia a Espanya? Continuï utilitzant la mateixa targeta.
+
+{ANSWERS}
+00 Completament insatisfet
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completament satisfet
+
+B28 
+{QUESTION}
+Ara, utilitzant aquesta targeta, si us plau com valoraria globalment l’estat actual de l’educació a Espanya?
+
+{ANSWERS}
+00 Molt malament
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Molt bé
+
+B29 
+{QUESTION}
+Utilitzant aquesta mateixa targeta, si us plau com valoraria globalment l’estat actual del sistema sanitari a Espanya?
+
+{ANSWERS}
+00 Molt malament
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Molt bé
+
+B30 
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt està d’acord o en desacord amb cadascuna de les següents afirmacions. El govern hauria de prendre mesures per reduir les diferències en els nivells d’ingressos
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+B31 
+{QUESTION}
+Els gais i les lesbianes haurien de tenir llibertat per viure com vulguin
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+B32 
+{QUESTION}
+Els partits polítics que volen acabar amb la democracia haurien de ser il·legalitzats
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+B33 
+{QUESTION}
+Es pot confiar en que la ciència moderna resolgui els nostres problemas mediambientals
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+B34 
+{QUESTION}
+Pensant ara en la Unió Europea, algunes persones diuen que la integració hauria d’anar més lluny. Unes altres diuen que la integració ja ha anat prou lluny. Utilizant aquesta targeta, quin número de l’escala descriu millor la seva opinió al respecte?
+
+{ANSWERS}
+00 La integració ja ha anat prou lluny
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La integració hauria d’anar més lluny
+
+{INTRO}
+Ara voldria fer-li algunes preguntes sobre les persones d’altres països que venen a viure a Espanya
+
+B35 
+{QUESTION}
+Ara, utilitzant aquesta targeta, fins a quin punt creu vostè que Espanya hauria de permetre que persones de la mateixa raça o grup ètnic que la majoria dels espanyols vinguin a viure aquí?
+
+{ANSWERS}
+S’hauria de permetre que molts vinguin a viure aquí 
+Permetre que vinguin uns quants 
+Permetre que vinguin uns pocs 
+No s’hauria de permetre que cap vingui a viure aquí 
+
+B36 
+{QUESTION}
+I què diria dels que són d’una raça o grup ètnic diferent al de la majoria dels espanyols? Segueixi utilitzant la mateixa targeta.
+
+{ANSWERS}
+S’hauria de permetre que molts vinguin a viure aquí 
+Permetre que vinguin uns quants 
+Permetre que vinguin uns pocs 
+No s’hauria de permetre que cap vingui a viure aquí 
+
+B37 
+{QUESTION}
+I què diria dels que provenen dels països pobres de fora d’Europa? Utilitzi la mateixa targeta.
+
+{ANSWERS}
+S’hauria de permetre que molts vinguin a viure aquí 
+Permetre que vinguin uns quants 
+Permetre que vinguin uns pocs 
+No s’hauria de permetre que cap vingui a viure aquí 
+
+B38 
+{QUESTION}
+Vostè diria que, generalment, per a l’economia espanyola, és bo o és dolent que vingui a viure gent d’altres països? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+00 És dolent per a l’economia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 És bo per a l’economia
+
+B39 
+{QUESTION}
+I, utilitzant aquesta targeta, vostè diria que, generalment, la vida cultural espanyola s’empobreix o s’enriqueix amb les persones d’altres països que venen a viure aquí?
+
+{ANSWERS}
+00 La vida cultural espanyola s’empobreix
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La vida cultural española s’enriqueix
+
+B40 
+{QUESTION}
+L’arribada de persones d’altres països, fa que Espanya sigui un lloc pitjor o millor per viure? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+00 Un lloc pitjor per viure
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Un lloc millor per viure
+
+{INTRO}
+A continuació, anem a parlar sobre alguns aspectes de la seva vida.
+
+C1 
+{QUESTION}
+En termes generals, en quina mesura es considera vostè una persona feliç o infeliç? Si us plau utilitzi aquesta targeta.
+
+{ANSWERS}
+00 Absolutament infeliç
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Absolutament feliç
+
+C2 
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, amb quina freqüència es reuneix en el seu temps lliure amb amics, parents o companys de feina?
+
+{ANSWERS}
+Mai 
+Menys d’una vegada al mes 
+Una vegada al mes 
+Vàries vegades al mes 
+Una vegada a la setmana 
+Vàries vegades a la setmana 
+Tots els dies 
+No ho sap (No suggerir) 
+
+C3 
+{QUESTION}
+Té algú amb qui pugui parlar de qüestions íntimes i personals? 
+
+{ANSWERS}
+
+C4 
+{QUESTION}
+Comparat amb altres persones de la seva edat, amb quina freqüència diria vostè que participa en activitats socials? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Molt menys que la majoria 
+Menys que la majoria 
+Més o menys com tothom 
+Més que la majoria 
+Molt més que la majoria 
+
+C5 
+{QUESTION}
+En els últims 5 anys, ha estat vostè o algun membre de casa seva víctima d’un robatori o una agressió? 
+
+{ANSWERS}
+
+C6 
+{QUESTION}
+En quina mesura se sent segur caminant sol de nit per aquesta zona? Se sent...?
+
+{ANSWERS}
+molt segur/a 
+segur/a 
+insegur/a 
+molt insegur/a 
+
+C7 
+{QUESTION}
+Amb quina freqüència li preocupa que algú pugui entrar a casa seva a robar, si és que això li preocupa? Si us plau, esculli una de les respostes que apareixen en aquesta targeta. …
+
+{ANSWERS}
+Sempre o gairebé sempre 
+Algunes vegades 
+Només ocasionalment 
+Mai 
+
+C8 
+{QUESTION}
+Vostè diria que aquesta preocupació de què algú pugui entrar a casa seva a robar... 
+
+{ANSWERS}
+... afecta molt a la seva qualitat de vida 
+... afecta una mica a la seva qualitat de vida 
+... no afecta gens a la seva qualitat de vida 
+
+C9 
+{QUESTION}
+Amb quina freqüència li preocupa que pugui ser víctima d’un assalt violent, si és que això li preocupa? Si us plau, esculli la seva resposta d’aquesta tarjeta
+
+{ANSWERS}
+Sempre o gairebé sempre 
+Algunes vegades 
+Només ocasionalment 
+Mai 
+
+C10 
+{QUESTION}
+Vostè diria que aquesta preocupació de ser víctima d’un assalt violent... 
+
+{ANSWERS}
+... afecta molt a la seva qualitat de vida 
+... afecta una mica a la seva qualitat de vida 
+... no afecta gens a la seva qualitat de vida 
+
+{INTRO}
+Ara m’agradaria fer-li algunes preguntes sobre terrorisme.
+
+C11 
+{QUESTION}
+Creu vostè que un atac terrorista en algun lloc d’Europa en els propers dotze mesos és...
+
+{ANSWERS}
+Molt probable
+Una mica probable 
+Poc probable
+O, gens probable? 
+
+C12 
+{QUESTION}
+Creu vostè que un atac terrorista en algun lloc d’Espanya en els propers dotze mesos és...
+
+{ANSWERS}
+Molt probable
+Una mica probable 
+Poc probable
+O, gens probable? 
+
+C13
+{QUESTION}
+Utilitzant aquesta targeta, digui’m si us plau fins a quin punt està vostè d’acord o en desacord amb cadascuna de les afirmacions següents… Si un home fos sospitós de preparar un atac terrorista a Espanya, la policía hauria de tenir la possibilitat legal de mantenir-lo empresonat fins estar convençuda de que no està implicat
+
+{ANSWERS}
+Molt d’acord
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+C14
+{QUESTION}
+Torturar a un detingut en una presó espanyola no està justificat en cap cas, encara que pugui proporcionar informació per prevenir un atac terrorista.
+
+{ANSWERS}
+Molt d’acord
+D’acord 
+Ni d’acord ni en desacord
+En desacord
+Molt en desacord
+
+{INTRO}
+Ara anem a parlar de vostè.
+
+C15 
+{QUESTION}
+Parlant de la seva salut, en general, vostè diria que és...? 
+
+{ANSWERS}
+molt bona 
+bona 
+normal 
+dolenta 
+molt dolenta 
+
+C16 
+{QUESTION}
+Té dificultats per portar a terme les seves activitats quotidianes a causa d’alguna malaltia crònica, incapacitat o problema de salut mental? 
+
+{ANSWERS}
+Sí, moltes 
+Sí, fins a cert punt 
+No 
+
+C17 
+{QUESTION}
+Es considera vostè d’alguna religió? 
+
+{ANSWERS}
+
+C18 
+{QUESTION}
+De quina? 
+
+{ANSWERS}
+
+C19 
+{QUESTION}
+I en algun moment de la seva vida s’ha considerat vostè d’alguna religió? 
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+De quina? 
+
+{ANSWERS}
+
+C21 
+{QUESTION}
+Amb independència de si es considera d’alguna religió, en quina mesura es considera vostè una persona religiosa? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+00 Gens religiós
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Molt religiós
+
+C22 
+{QUESTION}
+A part d’ocasions especials com ara casaments, bateigs I funerals, amb quina freqüència assisteix a cerimònies religioses habitualment? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Tots els dies 
+Més d’una vegada a la setmana 
+Una vegada a la setmana 
+Almenys una vegada al mes 
+Només les festivitats religioses especials 
+Amb menys freqüència 
+Mai 
+
+C23
+{QUESTION}
+A part de les ocasions en que assisteix a les cerimònies religioses, amb quina freqüència resa? Si us plau, utilitzi la mateixa targeta.
+
+{ANSWERS}
+Tots els dies 
+Més d’una vegada a la setmana 
+Una vegada a la setmana 
+Almenys una vegada al mes 
+Només les festivitats religioses especials 
+Amb menys freqüència 
+Mai 
+
+C24 
+{QUESTION}
+Considera vostè que pertany a un grup contra el que existeix algun tipus de discriminació en aquest país? 
+
+{ANSWERS}
+
+C25 
+{QUESTION}
+Per quins motius es discrimina al seu grup? 
+
+{ANSWERS}
+
+C26 
+{QUESTION}
+Té vostè la nacionalitat espanyola? 
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+Quina és la seva nacionalitat?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Ha nascut a Espanya? 
+
+{ANSWERS}
+
+C29 
+{QUESTION}
+A quin país va néixer?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Quant temps fa des que va venir a viure a Espanya? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Fa menys d’un any 
+Entre 1 i 5 anys 
+Entre 6 i 10 anys 
+Entre 11 i 20 anys 
+Fa més de 20 anys 
+
+C31 
+{QUESTION}
+Quines llengües o idiomes parla més sovint a casa seva?
+
+{ANSWERS}
+ANOTAR MÀXIM 2 IDIOMES
+
+C32 
+{QUESTION}
+Pertany vostè a una minoria ètnica a Espanya? 
+
+{ANSWERS}
+
+C33 
+{QUESTION}
+El seu pare va néixer a Espanya?
+
+{ANSWERS}
+Sí 
+No 
+
+C34 
+{QUESTION}
+A quin país va néixer el seu pare?
+
+C35 
+{QUESTION}
+La seva mare va néixer a Espanya? 
+
+{ANSWERS}
+
+C36 
+{QUESTION}
+A quin país va néixer la seva mare?
+
+{ANSWERS}
+
+{INTRO}
+Ara m’agradaria fer-li algunes preguntes sobre vostè i sobre la resta de persones que viuen amb vostè en aquesta llar.
+
+F1 
+{QUESTION}
+Inclòs vostè, quantes persones, adults i nens, viuen habitualment en aquesta casa?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Quin any va néixer?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Utilitzant aquesta targeta, quina relació té aquesta persona amb vostè?
+
+{ANSWERS}
+Marit/ dona/ parella 
+Fill/filla (siguin seus o de la seva parella, incloent adoptats o en acolliment)
+Pare o mare / sogre o sogra (siguin seus o de la seva parella incloent adoptius)
+Germà/na (incloent adoptius, germanastres, en acolliment)
+Altra relació de parentiu 
+Altra relació sense parentiu 
+
+
+F5 
+{QUESTION}
+Quina d’aquestes frases que apareixen en aquesta targeta descriu millor el lloc on vostè viu?
+
+{ANSWERS}
+Una gran ciutat 
+Els afores d’una gran ciutat 
+Una ciutat mitjana o petita 
+Un poble 
+Una masia o casa de camp 
+
+F6 
+{QUESTION}
+Quin és el nivell d’estudis més alt que ha assolit? 
+
+{ANSWERS}
+Sense estudis/analfabet 
+Estudis primaris sense acabar 
+Certificat d’escolaritat 
+Fins a 5è d’EGB 
+Antiga primària completa 
+EGB o ESO 
+Batxillerat elemental 
+FP1 i Ensenyament Tècnic Professional o equivalent 
+Batxillerat superior, BUP, o equivalent 
+FP2 o equivalent 
+Estudis superiors de 2 o 3 anys (en centres d’estudis no reglats) 
+Arquitecte i Enginyer Tècnic 
+Diplomat d’altres escoles universitàries o equivalent 
+Arquitecte o Enginyer Superior 
+Llicenciat 
+Estudis de postgrau o especialització 
+Doctorat 
+
+F6a 
+{QUESTION}
+Pensi en els estudis de major nivell que hagi finalitzat. En quina de les següents disciplines els ubicaria?
+
+{ANSWERS}
+General o camp no específic 
+Art – belles arts o arts aplicades 
+Humanitats – idiomes, filologia, clàssiques, història, teologia, etc. 
+Estudis tècnics o d’enginyeria, incloent arquitectura I urbanisme, indústria, aeronàutica, enginyeria naval, construcció, etc. 
+Agricultura i silvicultura, forestals 
+Formació del professorat o educació 
+Ciències, matemàtiques, informàtica, etc. 
+Medicina, serveis de salut, infermeria, etc. 
+Econòmiques, comerç, administració d’empreses, comptabilitat, etc. 
+Estudis socials i del comportament, administració pública, mitjans de comunicació, cultura, estudis de l’esport i de l’oci, hostaleria i turisme, etc. 
+Dret i estudis jurídics 
+Serveis de cura personal – catering, llar, perruqueria, etc. 
+Ordre públic i seguretat – policia, forces armades, bombers, etc. 
+Transport i telecomunicacions 
+
+F7 
+{QUESTION}
+Aproximadament, durant quants anys o cursos complets ha estudiat vostè, sigui a temps parcial o complet? Indiqui’m els anys o cursos complets sumant com mig any aquells en què hagi estat estudiant a temps parcial, és a dir, mentre treballava. Si us plau, indiqui-ho en anys escolars complets i no s’oblidi d’incloure els anys d’ensenyament obligatori.
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Utilitzant aquesta targeta, em podria dir en quines d’aquestes situacions s’ha trobat vostè en els darrers set dies?
+
+{ANSWERS}
+Amb treball remunerat (incloent la situació de baixa temporal per maternitat-paternitat, accident, malaltia o vacances) (ex. treballador per compte d’altri, per compte propi, o en un negoci familiar) 
+Estudiant, encara que hagi estat de vacances (exclosa formació remunerada per una empresa) 
+En situació d’atur i buscant feina activament 
+En situació d’atur, volent treballar però sense buscar feina activament 
+Amb malaltia crònica o situació d’invalidesa permanent 
+Jubilat 
+Fent les feines de la casa, tenint cura de nens o d’altres persones 
+Una altra 
+
+
+F8c 
+{QUESTION}
+I quina d'aquestes descriu millor la seva situació en els darrers set dies? Si us plau, elegeixi només una d’aquestes. 
+
+{ANSWERS}
+Amb treball remunerat (incloent la situació de baixa temporal per maternitat-paternitat, accident, malaltia o vacances) (ex. treballador per compte d’altri, per compte propi, o en un negoci familiar) 
+Estudiant, encara que hagi estat de vacances (exclosa formació remunerada per una empresa) 
+En situació d’atur i buscant feina activament 
+En situació d’atur, volent treballar però sense buscar feina activament 
+Amb malaltia crònica o situació d’invalidesa permanent 
+Jubilat 
+Fent les feines de la casa, tenint cura de nens o d’altres persones 
+Una altra 
+
+F8e
+{QUESTION}
+¿ Quin any es va jubilar/li van donar la invalidesa permanent??
+
+{ANSWERS}
+
+F8f
+{QUESTION}
+Si us plau, utilitzi aquesta targeta en la que 0 significa “no em preocupa en absolut” i 10 “em preocupa molt” i digui’m, en quina mesura li preocupa –si és que li preocupa- no poder jubilar-se a l’edat que li agradaria??
+
+{ANSWERS}
+00 No em preocupa en absolut
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 em preocupa molt
+
+F9 
+{QUESTION}
+Em permet verificar les dades? Ha realitzat algun treball remunerat (d’una hora o més) en als darrers 7 dies? 
+
+{ANSWERS}
+
+F10 
+{QUESTION}
+Ha tingut en algun moment un treball remunerat? 
+
+{ANSWERS}
+
+F11 
+{QUESTION}
+Quin any va tenir el seu últim treball remunerat?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+En la seva feina principal, vostè és …? 
+
+{ANSWERS}
+... treballador per compte d’altri 
+treballador per compte propi
+o treballa/va a un negoci familiar? 
+
+F13 
+{QUESTION}
+Quants empleats té vostè?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Té un contracte laboral...? 
+
+{ANSWERS}
+…indefinit
+temporal
+o no té/tenia contracte? 
+
+F15 
+{QUESTION}
+Incloent vostè, quants empleats hi ha habitualment al seu lloc de treball? 
+
+{ANSWERS}
+…menys de 10
+de 10 a 24
+de 25 a 99
+de 100 a 499
+o 500 o més? 
+
+F16 
+{QUESTION}
+En la seva feina principal, és vostè responsable de supervisar el treball d’altres empleats? 
+
+{ANSWERS}
+
+F17 
+{QUESTION}
+Quants empleats estan al seu càrrec?
+
+{ANSWERS}
+
+F18 
+{INTRO}
+A continuació li llegiré un llistat d’activitats relacionades amb la seva vida laboral. 
+
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt la direcció o els seus caps al treball li permeten...decidir com organitzar el seu treball diari
+
+{ANSWERS}
+00 No tinc/tenia cap influència
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tinc/tenia un control total
+
+F19 
+{QUESTION}
+…influir en les decisions que afecten les activitats de la organització
+
+{ANSWERS}
+00 No tinc/tenia cap influència
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tinc/tenia un control total
+
+F20 
+{QUESTION}
+Sense comptar les hores extres, remunerades o no, quantes hores de treball a la semana consten en el contracte del seu treball principal?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Continuant amb el seu treball principal, amb independència del nombre d’hores estipulades en el seu contracte, quantes hores treballa normalment a la setmana, incloent hores extres, remunerades o no?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Com definiria el càrrec o lloc de seu treball principal?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+En el seu treball principal, quin tipus de tasca fa la major part del temps?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Quin tipus de formació o de titulació requereix aquest treball?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+A què es dedica l’empresa o entitat on vostè treballa?
+
+{ANSWERS}
+
+F25a 
+{QUESTION}
+L’empresa/ entitat on treballa és del sector públic, privat, o sense ànim de lucre?
+
+{ANSWERS}
+Privat 
+Públic 
+Sense ànim de lucre 
+
+F26 
+{QUESTION}
+En los darrers 10 anys, ha realitzat algun treball remunerat a un altre país durant al menys 6 mesos? 
+
+{ANSWERS}
+
+F27 
+{QUESTION}
+En algun moment de la seva vida ha estat a l’atur o buscant feina durant un període de més de tres mesos? 
+
+{ANSWERS}
+
+F28 
+{QUESTION}
+Algun d’aquests períodes ha durat 12 mesos o més? 
+
+{ANSWERS}
+
+F29 
+{QUESTION}
+Algun d’aquests períodes ha tingut lloc en els últims 5 anys? 
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Està o ha estat afiliat a un sindicat o organització similar? SI DIU QUE SÍ: Ho està actualment o ho ha estat prèviament?
+
+{ANSWERS}
+Sí, ho estic 
+Sí, ho he estat 
+No 
+
+F31 
+{QUESTION}
+Si us plau, consideri la totalitat dels ingressos de tots els membres de la llar. Quina és la principal font d’ingressos de la seva llar? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Salaris o ingressos del treball per compte d’altri 
+Salaris o ingressos del treball per compte propi (excloses les explotacions agrícoles) 
+Salaris o ingressos procedents d’explotacions agrícoles 
+Pensions 
+Prestacions per atur o indemnització per acomiadament 
+Altres ajuts o prestacions socials 
+Rendes d’inversions, estalvis, assegurances o propietats 
+Altres fonts d’ingressos 
+
+F32A 
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament SETMANALS
+J Menys de €40
+R Entre €40 i menys de €70
+C Entre €70 i menys de €120
+M Entre €120 i menys de €230
+F Entre €230 i menys de €350
+S Entre €350 i menys de €460
+K Entre €460 i menys de €580
+P Entre €580 i menys de €690
+D Entre €690 i menys de €1150
+H Entre €1.150 i menys de €1.730
+U Entre €1.730 i menys de €2.310
+N €2.310 o més
+
+F32B 
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament MENSUALS
+J Menys de €150
+R Entre €150 i menys de €300
+C Entre €300 i menys de €500
+M Entre €500 i menys de €1.000
+F Entre €1.000 i menys de €1.500
+S Entre €1.500 i menys de €2.000
+K Entre €2.000 i menys de €2.500
+P Entre €2.500 i menys de €3.000
+D Entre €3.000 i menys de €5.000
+H Entre €5.000 i menys de €7.500
+U Entre €7.500 i menys de €10.000
+N €10.000 o més
+
+F32C 
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament ANUALS
+J Menys de €1.800
+R Entre €1.800 i menys de €3.600
+C Entre €3.600 i menys de €6.000
+M Entre €6.000 i menys de €12.000
+F Entre €12.000 i menys de €18.000
+S Entre €18.000 i menys de €24.000
+K Entre €24.000 i menys de €30.000
+P Entre €30.000 i menys de €36.000
+D Entre €36.000 i menys de €60.000
+H Entre €60.000 i menys de €90.000
+U Entre €90.000 i menys de €120.000
+N €120.000 o més
+
+F32AA 
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament SETMANALS
+J Menys de 7.000 pts.
+R Entre 7.000 i menys de 12.000 pts.
+C Entre 12.000 i menys de 20.000 pts.
+M Entre 20.000 i menys de 38.000 pts.
+F Entre 38.000 i menys de 58.000 pts.
+S Entre 58.000 i menys de 77.000 pts.
+K Entre 77.000 i menys de 96.000 pts.
+P Entre 96.000 i menys de 115.000 pts.
+D Entre 115.000 i menys de 191.000 pts.
+H Entre 191.000 i menys de 288.000 pts.
+U Entre 288.000 i menys de 384.000 pts.
+N 385.000 pts. o més
+
+F32BB
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament MENSUALS
+J Menys de 25.000 pts.
+R Entre 25.000 i menys 50.000 pts.
+C Entre 50.000 i menys 83.000 pts.
+M Entre 83.000 i menys 166.000 pts.
+F Entre 166.000 i menys 250.000 pts.
+S Entre 250.000 i menys 333.000 pts.
+K Entre 333.000 i menys 416.000 pts.
+P Entre 416.000 i menys 499.000 pts.
+D Entre 499.000 i menys 832.000 pts.
+H Entre 832.000 i menys 1.248.000 pts.
+U Entre 1.248.000 i menys 1.664.000 pts.
+N 1.665.000 pts. o més
+
+F32CC 
+{QUESTION}
+Utilitzant aquesta targeta, si vostè suma els ingressos procedents de tot tipus de fonts, quina lletra descriu millor els ingressos totals nets de la seva llar? Si no coneix la quantitat exacta, digui’ns si us plau una quantitat aproximada. Utilitzi la secció de la targeta que conegui millor: ingressos setmanals, mensuals o anuals.
+
+{ANSWERS}
+Aproximadament ANUALS
+J Menys de 300.000 pts.
+R Entre 300.000 i menys 600.000 pts.
+C Entre 600.000 i menys 1.000.000 pts.
+M Entre 1.000.000 i menys 2.000.000 pts.
+F Entre 2.000.000 i menys 3.000.000 pts.
+S Entre 3.000.000 i menys 4.000.000 pts.
+K Entre 4.000.000 i menys 5.000.000 pts.
+P Entre 5.000.000 i menys 6.000.000 pts.
+D Entre 6.000.000 i menys 10.000.000 pts.
+H Entre 10.000.000 i menys 15.000.000
+U Entre 15.000.000 i menys 20.000.000 pts.
+N Més de 20.000.000 pts.
+
+F33 
+{QUESTION}
+Quina de les afirmacions d’aquesta targeta descriu millor a com se sent respecte als ingressos de la seva llar en l’actualitat?
+
+{ANSWERS}
+Amb els ingressos actuals vivim còmodament 
+Amb els ingressos actuals ens arriba per viure 
+Amb els ingressos actuals tenim dificultats 
+Amb els ingressos actuals tenim moltes dificultats 
+
+F34
+{QUESTION}
+Si per qualsevol raó vostè es trobés en greus dificultats econòmiques i hagués de demanar diners per arribar a fi de mes, en quina mesura això li resultaria difícil o fàcil? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Molt difícil 
+Bastant difícil 
+Ni fàcil ni difícil 
+Bastant fàcil 
+Molt fàcil 
+
+F36 
+{QUESTION}
+Quin és el nivell d’estudis més alt que ha assolit el seu marit? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Sense estudis/analfabet 
+Estudis primaris sense acabar 
+Certificat d’escolaritat 
+Fins a 5è d’EGB 
+Antiga primària completa 
+EGB o ESO 
+Batxillerat elemental 
+FP1 i Ensenyament Tècnic Professional o equivalent 
+Batxillerat superior, BUP, o equivalent 
+FP2 o equivalent 
+Estudis superiors de 2 o 3 anys (en centres d’estudis no reglats) 
+Arquitecte i Enginyer Tècnic 
+Diplomat d’altres escoles universitàries o equivalent 
+Arquitecte o Enginyer Superior 
+Llicenciat 
+Estudis de postgrau o especialització 
+Doctorat 
+
+F37a 
+{QUESTION}
+En quina d’aquestes situacions s’ha trobat el seu marit en els últims 7 dies? 
+
+{ANSWERS}
+Amb treball remunerat (incloent la situació de baixa temporal per maternitat-paternitat, accident, malaltia o vacances) (ex. treballador per compte d’altri, per compte propi, o en un negoci familiar) 
+Estudiant, encara que hagi estat de vacances (exclosa formació remunerada per una empresa) 
+En situació d’atur i buscant feina activament 
+En situació d’atur, volent treballar però sense buscar feina activament 
+Amb malaltia crònica o situació d’invalidesa permanent 
+Jubilat 
+Fent les feines de la casa, tenint cura de nens o d’altres persones 
+Una altra 
+
+F37c 
+{QUESTION}
+I quina d'aquestes descriu millor la seva situació enels darrers 7 dies? Si us plau, elegeixi només una d’aquestes.
+
+{ANSWERS}
+Amb treball remunerat (incloent la situació de baixa temporal per maternitat-paternitat, accident, malaltia o vacances) (ex. treballador per compte d’altri, per compte propi, o en un negoci familiar) 
+Estudiant, encara que hagi estat de vacances (exclosa formació remunerada per una empresa) 
+En situació d’atur i buscant feina activament 
+En situació d’atur, volent treballar però sense buscar feina activament 
+Amb malaltia crònica o situació d’invalidesa permanent 
+Jubilat 
+Fent les feines de la casa, tenint cura de nens o d’altres persones 
+Una altra 
+
+F38 
+{QUESTION}
+Permeti’m verificar les dades. El seu marit ha realitzat algun treball remunerat (d’una hora o més) en els últims 7 dies? 
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Com definiria el càrrec o lloc del treball principal del seu marit?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+En el seu treball principal, quin tipus de tasca fa el seu marit la major part del temps?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+Quin tipus de formació o de qualificacions requereix aquest treball?
+
+{ANSWERS}
+
+F41a 
+{QUESTION}
+L’empresa/ entitat on treballa el seu marit és del sector públic, privat, o sense ànim de lucre?
+
+{ANSWERS}
+Privat 
+Públic 
+Sense ànim de lucre 
+
+F42 
+{QUESTION}
+En la seva feina principal, el seu marit és…? 
+
+{ANSWERS}
+... treballador per compte d’altri
+treballador per compte propi
+o treballa a un negoci familiar? 
+
+F43 
+{QUESTION}
+Quants empleats té el seu marit, si és que en té?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+En el seu treball principal, el seu marit és responsable de supervisar el treball d’altres empleats? 
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+Quants empleats estan al càrrec del seu marit?
+
+{ANSWERS}
+
+
+F46
+{INTRO}
+A continuació li llegiré un llistat d’activitats relacionades amb la vida laboral del seu marit. 
+
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt la direcció o els seus caps al treball li permeten... decidir com organitzar el seu treball diari 
+
+{ANSWERS}
+00 No té cap influència
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Té un control total
+
+F47 
+{QUESTION}
+…influir en les decisions que afecten les activitats de la organització
+
+{ANSWERS}
+00 No té cap influència
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Té un control total
+
+F48 
+{QUESTION}
+Continuant amb el seu marit, quantes hores treballa normalment a la semana (en la seva feina principal)? Si us plau, inclogui les hores extres, siguin o no remunerades.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit el seu pare? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Sense estudis/analfabet 
+Estudis primaris sense acabar 
+Certificat d’escolaritat 
+Fins a 5è d’EGB 
+Antiga primària completa 
+EGB o ESO 
+Batxillerat elemental 
+FP1 i Ensenyament Tècnic Professional o equivalent 
+Batxillerat superior, BUP, o equivalent 
+FP2 o equivalent 
+Estudis superiors de 2 o 3 anys (en centres d’estudis no reglats) 
+Arquitecte i Enginyer Tècnic 
+Diplomat d’altres escoles universitàries o equivalent 
+Arquitecte o Enginyer Superior 
+Llicenciat 
+Estudis de postgrau o especialització 
+Doctorat 
+
+F50 
+{QUESTION}
+Quan vostè tenia 14 anys, el seu pare treballava per compte d’altri, treballava per compte propi, o en aquell temps no treballava?
+
+{ANSWERS}
+Treballador per compte d’altri 
+Treballador per compte propi 
+No treballava 
+Era mort o absent 
+
+F51 
+{QUESTION}
+Quants empleats tenia el seu pare al seu càrrec? 
+
+{ANSWERS}
+
+F52 
+{QUESTION}
+Era el seu pare responsable de supervisar el treball d’altres empleats? 
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+I, seguint amb el seu pare, com definiria el seu càrrec o lloc del treball principal?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Quina de les professions o ocupacions que apareixen en aquesta targeta descriu millor el tipus de treball que feia el seu pare quan vostè tenia 14 anys?
+
+{ANSWERS}
+Ocupacions professionals tradicionals EXEMPLES: comptable – advocat – metge – científic – enginyer o
+arquitecte – farmacèutic – procurador – enginyer tècnic – topògraf 
+Ocupacions professionals modernes EXEMPLES: professor – infermer – fisioterapeuta – assistent social –
+treballador social– músic – agent de policia (sergent o rang superior) – programador informàtic – professor d’universitat o col·legi – artista (pintor, actor, etc.) – agent de borsa – psicòleg – dissenyador – pilot –
+comissari – militar (alts comandaments i oficials) 
+Treballs d’oficina i ocupacions intermèdies EXEMPLES: secretari – secretari d’alta direcció – administratiu – oficinista – teleoperador – auxiliar de clínica / infermeria – puericultor – delineant – apoderat / interventor de banca
+Directius o administradors amb responsabilitats al seu càrrec (responsable de tasques de planificació, organització i coordinació de finances) EXEMPLES: director financer – cap executiu – agricultor per compte
+propi o comerciant amb empleats – director d’empresa, de departament, comercial o tècnic
+Ocupacions tècniques i d’oficis EXEMPLES: mecànic de motors – operari – lampista – impressor –
+paleta – fressador – electricista – jardiner – maquinista de tren – agricultor - sabater – forner – fuster – tapisser – cuiner – perruquer
+Ocupacions manuals i de serveis semi-rutinaris EXEMPLES: carter – operari de màquines – guarda de seguretat – conserge – treballador agrícola – ajudant de cuina – recepcionista – dependent de botiga – representant – agent d'assegurances, vendes, viatjant, etc. – guàrdia civil – policia sense càrrec – cobrador – bomber – zelador – porter – comerciant sense empleats
+Ocupacions manuals i de serveis rutinaris EXEMPLES: conductor de vehicles pesats – conductor de furgoneta – netejador – mosso de càrrega o descarregador – empaquetador – cosidor industrial – missatger – peó en general – cambrer – personal de bar – camioner – conductor – taxista – repartidor – servei domèstic i
+mainaderes
+Directiu de nivell mig o júnior EXEMPLES: director d’oficina – director de sucursal de banc – encarregat de restaurant – encarregat de magatzem – hostaler – encarregats generals – capità de pesca – capatàs d’explotació agrícola
+
+F55 
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit la seva mare? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Sense estudis/analfabet 
+Estudis primaris sense acabar 
+Certificat d’escolaritat 
+Fins a 5è d’EGB 
+Antiga primària completa 
+EGB o ESO 
+Batxillerat elemental 
+FP1 i Ensenyament Tècnic Professional o equivalent 
+Batxillerat superior, BUP, o equivalent 
+FP2 o equivalent 
+Estudis superiors de 2 o 3 anys (en centres d’estudis no reglats) 
+Arquitecte i Enginyer Tècnic 
+Diplomat d’altres escoles universitàries o equivalent 
+Arquitecte o Enginyer Superior 
+Llicenciat 
+Estudis de postgrau o especialització 
+Doctorat 
+
+F56 
+{QUESTION}
+Quan vostè tenia 14 anys, la seva mare treballava per compte d’altri, treballava per compte propi, o en aquell temps no treballava?
+
+{ANSWERS}
+Treballadora per compte d’altri 
+Treballadora per compte propi 
+No treballava 
+Era morta/absent 
+
+F57 
+{QUESTION}
+Quants empleats tenia la seva mare al seu càrrec? 
+
+{ANSWERS}
+
+F58 
+{QUESTION}
+Era la seva mare responsable de supervisar el treball d’altres empleats? 
+
+{ANSWERS}
+
+F59 
+{QUESTION}
+I, seguint amb la seva mare, com definiria el seu càrrec o lloc del treball principal?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Quina de les professions o ocupacions que apareixen en aquesta targeta descriu millor el tipus de treball que feia la seva mare quan vostè tenia 14 anys?
+
+{ANSWERS}
+Ocupacions professionals tradicionals EXEMPLES: comptable – advocat – metge – científic – enginyer o
+arquitecte – farmacèutic – procurador – enginyer tècnic – topògraf 
+Ocupacions professionals modernes EXEMPLES: professor – infermer – fisioterapeuta – assistent social –
+treballador social– músic – agent de policia (sergent o rang superior) – programador informàtic – professor d’universitat o col·legi – artista (pintor, actor, etc.) – agent de borsa – psicòleg – dissenyador – pilot – comissari – militar (alts comandaments i oficials) 
+Treballs d’oficina i ocupacions intermèdies EXEMPLES: secretari – secretari d’alta direcció – administratiu – oficinista – teleoperador – auxiliar de clínica / infermeria – puericultor – delineant – apoderat / interventor de banca
+Directius o administradors amb responsabilitats al seu càrrec (responsable de tasques de planificació, organització i coordinació de finances) EXEMPLES: director financer – cap executiu – agricultor per compte
+propi o comerciant amb empleats – director d’empresa, de departament, comercial o tècnic
+Ocupacions tècniques i d’oficis EXEMPLES: mecànic de motors – operari – lampista – impressor – paleta – fressador – electricista – jardiner – maquinista de tren – agricultor - sabater – forner – fuster – tapisser – cuiner – perruquer 
+Ocupacions manuals i de serveis semi-rutinaris EXEMPLES: carter – operari de màquines – guarda de seguretat – conserge – treballador agrícola – ajudant de cuina – recepcionista – dependent de botiga – representant – agent d'assegurances, vendes, viatjant, etc. – guàrdia civil – policia sense càrrec – cobrador – bomber – zelador – porter – comerciant sense empleats
+Ocupacions manuals i de serveis rutinaris EXEMPLES: conductor de vehicles pesats – conductor de furgoneta – netejador – mosso de càrrega o descarregador – empaquetador – cosidor industrial – missatger – peó en general – cambrer – personal de bar – camioner – conductor – taxista – repartidor – servei domèstic i
+mainaderes
+Directiu de nivell mig o júnior EXEMPLES: director d’oficina – director de sucursal de banc –
+encarregat de restaurant – encarregat de magatzem – hostaler – encarregats generals – capità de pesca – capatàs d’explotació agrícola 
+
+F61 
+{QUESTION}
+Durant els últims dotze mesos, ha assistit vostè a algun curs, seminari o conferència per tal de millorar els seus coneixements o habilitats laborals? 
+
+{ANSWERS}
+
+F62 
+{QUESTION}
+¿ Puc preguntar-li quin és el seu estat civil?? ¿ Quina de les descripcions següents en aquesta targeta es correspon amb el seu estat actual?
+
+{ANSWERS}
+Casat/da 
+Inscrit/a com a parella de fet
+Separat/a (encara legalment casat/da)
+Separat/da (encara inscrit/a com a parella de fet)
+Divorciat/da
+Vidu/a
+Anteriorment inscrit/a com a parella de fet ara dissolta
+Anteriorment inscrit/a com a parella de fet, la seva parella va morir
+Mai s’ha casat. I mai s’ha inscrit com a parella de fet
+
+F63 
+{QUESTION}
+¿ Viu vostè actualment amb el seu marit de fet?
+
+{ANSWERS}
+Sí
+No
+
+F64 
+{QUESTION}
+¿ Viu vostè actualment en parella?
+
+{ANSWERS}
+Sí
+No
+
+F66
+{QUESTION}
+¿ Em permet verificar les dades? Ha viscut alguna vegada en parella sense estar casat amb aquella persona?
+
+{ANSWERS}
+Sí
+No
+
+F68 
+{QUESTION}
+Puc fer una comprovació, ha estat vostè alguna vegada divorciat?
+
+{ANSWERS}
+Sí
+No
+
+F70 
+{QUESTION}
+Alguna vegada ha tingut algun fill (siguin seus o de la seva parella, incloent fills adoptats o en acolliment) vivint a casa seva?
+
+{ANSWERS}
+
+F71 
+{QUESTION}
+¿ Té telèfon fix en el seu domicili?
+
+{ANSWERS}
+Sí 
+No 
+
+F72 
+{QUESTION}
+¿Tiene usted teléfono móvil propio?
+
+{ANSWERS}
+Sí 
+No
+
+F73 
+{QUESTION}
+¿ Utilitza alguna vegada Internet per trucar per telèfon des de casa?
+
+{ANSWERS}
+Sí 
+No 
+(No té internet a casa) 
+

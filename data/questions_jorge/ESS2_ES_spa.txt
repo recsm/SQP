@@ -1,0 +1,1770 @@
+﻿A1 
+{QUESTION}
+En un día laborable, ¿cuánto tiempo pasa usted normalmente viendo la televisión? Por favor, utilice esta tarjeta para responder.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A2 
+{QUESTION}
+De nuevo, en un día laborable, de ese tiempo que dedica a ver la televisión, ¿cuánto tiempo pasa usted normalmente viendo informativos u otros programas sobre política y actualidad? Siga utilizando la misma tarjeta.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A3 
+{QUESTION}
+En un día laborable ¿cuánto tiempo pasa normalmente escuchando la radio? Utilice la misma tarjeta.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A4 
+{QUESTION}
+Y, de nuevo, en un día laborable, de ese tiempo que dedica a escuchar la radio, ¿cuánto tiempo pasa normalmente escuchando informativos u otros programas sobre política y actualidad? Siga utilizando esta tarjeta.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A5 
+{QUESTION}
+En un día laborable, ¿cuánto tiempo dedica normalmente a leer el periódico? Utilice otra vez la misma tarjeta.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A6 
+{QUESTION}
+Y de ese tiempo, ¿cuánto dedica a leer noticias sobre política y temas de actualidad? Siga utilizando esta tarjeta.
+
+{ANSWERS}
+Nada 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Más de 1, hasta 1 ½ hora 
+Más de 1 ½, hasta 2 horas 
+Más de 2, hasta 2 ½ horas 
+Más de 2 ½, hasta 3 horas 
+Más de 3 horas 
+
+A7 
+{QUESTION}
+Utilizando ahora esta tarjeta, ¿con qué frecuencia utiliza usted Internet o el correo electrónico -ya sea en casa o en el trabajo- para asuntos personales?
+
+{ANSWERS}
+No tengo acceso en casa ni en el trabajo 
+Nunca lo utilizo 
+Menos de una vez al mes 
+Una vez al mes 
+Varias veces al mes 
+Una vez a la semana 
+Varias veces a la semana 
+Todos los días 
+
+A8 
+{QUESTION}
+Utilizando esta tarjeta, ¿diría usted que, por lo general, se puede confiar en la mayoría de la gente, o que nunca se es lo bastante prudente en el trato con los demás? Por favor, sitúese en una escala de 0 a 10, en la que 0 significa “nunca se es lo bastante prudente” y 10 significa que “se puede confiar en la mayoría de la gente”.
+
+{ANSWERS}
+00 Nunca se es lo bastante prudente
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Se puede confiar en la mayoría de la gente
+
+A9 
+{QUESTION}
+Utilizando esta tarjeta, ¿cree que la mayoría de la gente intentaría aprovecharse de usted si pudiera, o que sería honrada con usted?
+
+{ANSWERS}
+00 La mayoría de la gente intentaría aprovecharse de mí
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La mayoría de la gente sería honrada conmigo
+
+A10 
+{QUESTION}
+¿Diría usted que la mayoría de las veces la gente intenta ayudar a los demás o que principalmente mira por sí misma?
+
+{ANSWERS}
+00 La mayoría de las veces la gente mira por sí misma
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La mayoría de las veces la gente intenta ayudar a los demás
+
+{INTRO}
+Ahora me gustaría hacerle algunas preguntas sobre política y el gobierno.
+
+B1 
+{QUESTION}
+¿En qué medida diría usted que le interesa la política? ¿Diría usted que le interesa...? 
+
+{ANSWERS}
+Mucho 
+Bastante 
+Poco 
+Nada 
+
+B2 
+{QUESTION}
+¿Con qué frecuencia la política le parece tan complicada que no puede entender lo que está pasando? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Nunca 
+Pocas veces 
+A veces 
+Con cierta frecuencia 
+A menudo 
+
+B3
+{QUESTION}
+¿Le resulta a usted difícil o fácil formarse una opinión sobre temas políticos? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Muy difícil 
+Difícil 
+Ni difícil ni fácil 
+Fácil 
+Muy fácil 
+
+B4
+{QUESTION}
+Utilizando esta tarjeta, dígame por favor, en una escala de 0 a 10, Ud. personalmente, cuánto confía en cada una de las siguientes instituciones. 0 significa que Ud. no confía en absoluto en una institución y 10 significa que confía plenamente. En primer lugar…el Parlamento español
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B5 
+{QUESTION}
+…el sistema judicial
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B6 
+{QUESTION}
+…la policía
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B7 
+{QUESTION}
+…los políticos
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B8 
+{QUESTION}
+…los partidos políticos
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B9 
+{QUESTION}
+…el Parlamento Europeo
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+B10 
+{QUESTION}
+…las Naciones Unidas
+
+{ANSWERS}
+00 No confío en absoluto
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Confío plenamente
+
+
+B11 
+{INTRO}
+Hoy en día hay gente que, por la razón que sea, no vota. 
+
+{QUESTION}
+¿Votó usted en las últimas elecciones generales de marzo de 2004? 
+
+{ANSWERS}
+
+B12 
+{QUESTION}
+¿A qué partido votó en esas elecciones? 
+
+{ANSWERS}
+
+B13
+{INTRO}
+Hay muchas maneras de intentar que las cosas mejoren en España o, al menos, de evitar que
+vayan a peor. 
+
+{QUESTION}
+En los últimos 12 meses ¿ha realizado Ud. alguna de las siguientes actividades? ¿Se ha puesto en contacto con un político o con una autoridad o funcionario estatal, autonómico o local?
+
+{ANSWERS}
+Sí 
+No 
+
+B14 
+{QUESTION}
+¿Ha colaborado con un partido político o una plataforma de acción ciudadana? 
+
+{ANSWERS}
+Sí 
+No 
+
+B15 
+{QUESTION}
+¿Ha colaborado con alguna otra organización o asociación? 
+
+{ANSWERS}
+Sí 
+No 
+
+B16
+{QUESTION}
+¿Ha llevado o mostrado insignias o pegatinas de alguna campaña? 
+
+{ANSWERS}
+Sí 
+No 
+
+B17 
+{QUESTION}
+¿Ha firmado una petición en una campaña de recogida de firmas? 
+
+{ANSWERS}
+Sí 
+No 
+
+B18 
+{QUESTION}
+¿Ha participado en manifestaciones autorizadas? 
+
+{ANSWERS}
+Sí 
+No 
+
+B19 
+{QUESTION}
+¿Ha boicoteado o dejado de comprar ciertos productos? 
+
+{ANSWERS}
+Sí 
+No 
+
+B20a 
+{QUESTION}
+¿Hay algún partido político al que usted se sienta más cercano que a los demás? 
+
+{ANSWERS}
+
+B20b 
+{QUESTION}
+¿A cuál? 
+
+{ANSWERS}
+
+B20c 
+{QUESTION}
+¿En qué medida se siente usted cercano a ese partido? ¿Se siente...? 
+
+{ANSWERS}
+muy cercano 
+bastante cercano 
+poco cercano 
+nada cercano 
+
+
+B21 
+{QUESTION}
+¿Está usted afiliado a algún partido político?
+
+{ANSWERS}
+
+
+B22 
+{QUESTION}
+¿A cuál? 
+
+{ANSWERS}
+
+B23 
+{INTRO}
+En política a veces se habla de “izquierda” y “derecha”. 
+
+{QUESTION}
+Utilizando esta tarjeta, ¿dónde se colocaría usted en esta escala? El 0 quiere decir “izquierda” y el 10
+“derecha”.
+
+{ANSWERS}
+00 Izquierda 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Derecha
+
+B24 
+{QUESTION}
+Cambiando de tema, en términos generales, ¿en qué medida está Ud. satisfecho con su vida actualmente? Por favor, responda utilizando esta tarjeta en la que 0 significa completamente insatisfecho y 10 significa completamente satisfecho.
+
+{ANSWERS}
+00 Completamente insatisfecho
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completamente satisfecho
+
+B25 
+{QUESTION}
+Y, en general, ¿en qué medida está Ud. satisfecho con la situación económica actual en España? Siga utilizando la misma tarjeta.
+
+{ANSWERS}
+00 Completamente insatisfecho
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completamente satisfecho
+
+B26 
+{QUESTION}
+Pensando ahora en el gobierno español, ¿en qué medida está usted satisfecho con la forma en que está desarrollando su labor? Siga utilizando la misma tarjeta.
+
+{ANSWERS}
+00 Completamente insatisfecho
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completamente satisfecho
+
+B27 
+{QUESTION}
+Y, en conjunto, ¿en qué medida está usted satisfecho con el funcionamiento de la democracia en España? Siga utilizando la misma tarjeta.
+
+{ANSWERS}
+00 Completamente insatisfecho
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Completamente satisfecho
+
+B28 
+{QUESTION}
+Utilizando ahora esta tarjeta, ¿cómo valoraría, globalmente, el estado actual de la educación en España?
+
+{ANSWERS}
+00 Muy mal
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Muy bien
+
+B29 
+{QUESTION}
+Utilizando la misma tarjeta, dígame, por favor, ¿cómo valoraría, globalmente, el estado actual del sistema sanitario en España?
+
+{ANSWERS}
+00 Muy mal
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Muy bien
+
+B30
+{QUESTION}
+Utilizando esta tarjeta, dígame, por favor, hasta qué punto está usted de acuerdo o en desacuerdo con cada una de las siguientes afirmaciones. El gobierno debería tomar medidas para reducir las diferencias en los niveles de ingresos
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo 
+Muy en desacuerdo
+
+B31 
+{QUESTION}
+Los gays y las lesbianas deberían tener libertad para vivir como quieran
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo 
+Muy en desacuerdo
+
+B32 
+{QUESTION}
+Los partidos políticos que pretenden acabar con la democracia deberían ser ilegalizados
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo 
+Muy en desacuerdo
+
+B33 
+{QUESTION}
+Se puede contar con que la ciencia moderna resuelva nuestros problemas medioambientales
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo 
+Muy en desacuerdo
+
+B34 
+{QUESTION}
+Pensando ahora en la Unión Europea, algunas personas dicen que la integración debería ir más lejos. Otras dicen que la integración ya ha ido demasiado lejos. Utilizando esta tarjeta, ¿qué número de la escala describe mejor su opinión al respecto?
+
+{ANSWERS}
+00 La integración ya ha ido demasiado lejos
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La integración debería ir más lejos
+
+{INTRO}
+Ahora querría hacerle algunas preguntas sobre las personas de otros países que vienen a vivir a España
+
+B35 
+{QUESTION}
+Ahora, utilizando esta tarjeta, ¿hasta qué punto cree Ud. que España debería permitir que personas de la misma raza o grupo étnico que la mayoría de los españoles vengan a vivir aquí?
+
+{ANSWERS}
+Se debería permitir que muchos vinieran a vivir aquí 
+Permitir que vinieran unos cuantos 
+Permitir que vinieran unos pocos 
+No se debería permitir que ninguno viniera a vivir aquí 
+
+B36 
+{QUESTION}
+¿Y qué me dice de los que son de una raza o grupo étnico distinto al de la mayoría de los españoles? Siga utilizando la misma tarjeta.
+
+{ANSWERS}
+Se debería permitir que muchos vinieran a vivir aquí 
+Permitir que vinieran unos cuantos 
+Permitir que vinieran unos pocos 
+No se debería permitir que ninguno viniera a vivir aquí 
+
+B37 
+{QUESTION}
+¿Y qué me dice de los que proceden de los países pobres de fuera de Europa? Utilice la misma tarjeta.
+
+{ANSWERS}
+Se debería permitir que muchos vinieran a vivir aquí 
+Permitir que vinieran unos cuantos 
+Permitir que vinieran unos pocos 
+No se debería permitir que ninguno viniera a vivir aquí 
+
+B38 
+{QUESTION}
+¿Diría Ud. que, por lo general, para la economía española, es bueno o es malo que venga a vivir gente de otros países? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+00 Malo para la economía
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bueno para la economía
+
+B39 
+{QUESTION}
+Y, utilizando esta tarjeta, ¿cree Ud. que la vida cultural española se empobrece o se enriquece con las personas de otros países que vienen a vivir aquí?
+
+{ANSWERS}
+00 La vida cultural española se empobrece
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 La vida cultural española se enriquece
+
+B40
+{QUESTION}
+La llegada de personas de otros países, ¿contribuye a que España sea un lugar peor o mejor para vivir? Utilice por favor esta tarjeta.
+
+{ANSWERS}
+00 Peor lugar para vivir 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mejor lugar para vivir
+
+{INTRO}
+A continuación, vamos a hablar sobre algunos aspectos de su vida.
+
+C1 
+{QUESTION}
+En términos generales, ¿en qué medida se considera usted una persona feliz o infeliz? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+00 Absolutamente infeliz
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Absolutamente feliz
+
+C2 
+{QUESTION}
+Utilizando esta tarjeta, dígame, ¿con qué frecuencia se reúne en su tiempo libre con sus amigos, familiares o compañeros de trabajo?
+
+{ANSWERS}
+Nunca 
+Menos de una vez al mes 
+Una vez al mes 
+Varias veces al mes 
+Una vez a la semana 
+Varias veces a la semana 
+Todos los días 
+
+C3 
+{QUESTION}
+¿Tiene usted alguien con quien pueda hablar de temas íntimos y personales? 
+
+{ANSWERS}
+
+C4 
+{QUESTION}
+En comparación con otras personas de su edad, ¿con qué frecuencia diría usted que participa en actividades sociales? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Mucho menos que la mayoría 
+Menos que la mayoría 
+Más o menos como todos 
+Más que la mayoría 
+Mucho más que la mayoría 
+
+C5 
+{QUESTION}
+En los últimos 5 años, ¿ha sido usted o algún miembro de su hogar víctima de un robo o una agresión? 
+
+{ANSWERS}
+
+C6 
+{QUESTION}
+¿En qué medida se siente usted seguro caminando solo por esta zona de noche? ¿Se siente...? 
+
+{ANSWERS}
+muy seguro/a 
+seguro/a 
+inseguro/a 
+muy inseguro/a 
+
+C7 
+{QUESTION}
+Hablando de su salud, en general, ¿diría usted que su salud es...?
+
+{ANSWERS}
+muy buena 
+buena 
+normal 
+mala 
+muy mala 
+
+C8 
+{QUESTION}
+¿Tiene usted dificultades para llevar a cabo sus actividades cotidianas a causa de alguna enfermedad crónica, discapacidad o problema de salud mental? 
+
+{ANSWERS}
+Sí, muchas 
+Sí, hasta cierto punto 
+No 
+
+C9 
+{QUESTION}
+¿Se considera Ud. de alguna religión? 
+
+{ANSWERS}
+
+C10 
+{QUESTION}
+¿De cuál? 
+
+{ANSWERS}
+
+C11 
+{QUESTION}
+¿Y en algún momento de su vida se ha considerado Ud. de alguna religión? 
+
+{ANSWERS}
+
+C12 
+{QUESTION}
+¿De cuál? 
+
+{ANSWERS}
+
+C13 
+{QUESTION}
+Con independencia de si se considera Ud. de alguna religión ¿en qué medida se considera una persona religiosa? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+00 Nada Religioso
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Muy religioso
+
+C14 
+{QUESTION}
+Aparte de ocasiones especiales como bodas, bautizos y funerales, ¿con qué frecuencia asiste usted a ceremonias religiosas habitualmente? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Todos los días 
+Más de una vez a la semana 
+Una vez a la semana 
+Al menos una vez al mes 
+Sólo en fiestas religiosas especiales 
+Con menor frecuencia 
+Nunca 
+
+C15 
+{QUESTION}
+Aparte de las ocasiones en que asiste a ceremonias religiosas, ¿con qué frecuencia reza? Por favor, utilice la misma tarjeta.
+
+{ANSWERS}
+Todos los días 
+Más de una vez a la semana 
+Una vez a la semana 
+Al menos una vez al mes 
+Sólo en fiestas religiosas especiales 
+Con menor frecuencia 
+Nunca 
+
+C16 
+{QUESTION}
+¿Considera usted que pertenece a un grupo contra el que exista algún tipo de discriminación en este país? 
+
+{ANSWERS}
+
+C17 
+{QUESTION}
+¿Por qué motivos se discrimina a su grupo? 
+
+{ANSWERS}
+
+C18 
+{QUESTION}
+¿Tiene usted la nacionalidad española? 
+
+{ANSWERS}
+
+C19 
+{QUESTION}
+¿Cuál es su nacionalidad?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+¿Nació usted en España? 
+
+{ANSWERS}
+
+C21 
+{QUESTION}
+¿En qué país nació?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+¿Cuánto tiempo hace que vino a vivir a España? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Hace menos de un año
+Entre 1 y 5 años
+Entre 6 y 10 años 
+Entre 11 y 20 años 
+Hace más de 20 años 
+
+C23 
+{QUESTION}
+¿Qué idioma o idiomas habla normalmente en su casa?
+
+{ANSWERS}
+ANOTAR MÁXIMO 2 IDIOMAS
+
+C24 
+{QUESTION}
+¿Pertenece usted a una minoría étnica en España? 
+
+{ANSWERS}
+
+C25 
+{QUESTION}
+¿Nació su padre en España?
+
+{ANSWERS}
+Sí 
+No 
+
+C26 
+{QUESTION}
+¿En qué país nació su padre?
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+¿Nació su madre en España? 
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+¿En qué país nació su madre?
+
+{ANSWERS}
+
+{INTRO}
+Ahora me gustaría hacerle algunas preguntas sobre Ud. y sobre el resto de las personas que viven con usted en este hogar.
+
+F1 
+{QUESTION}
+Incluido usted mismo, ¿cuántas personas, adultos y niños, viven habitualmente en esta casa?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+¿En qué año nació?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Utilizando esta tarjeta, ¿qué relación tiene esta persona con usted?
+
+{ANSWERS}
+Marido/ esposa/ pareja 
+Hijo/a, (ya sean suyos o de su pareja, incluyendo hijos/as adoptados/as o en acogida)
+Padre/madre/suegro/ suegra (ya sean suyos o de su pareja incluyendo adoptivos)
+Hermano/a (incluyendo adoptivos, hermanastros/as, en acogida)
+Otra relación de parentesco 
+Otra relación sin parentesco
+
+F5 
+{QUESTION}
+¿Cuál de las frases que aparecen en esta tarjeta describe mejor el lugar donde vive?
+
+{ANSWERS}
+Una gran ciudad 
+Las afueras de una gran ciudad 
+Una ciudad de tamaño medio o pequeño 
+Un pueblo 
+Una granja o casa en el campo 
+
+F5a 
+{QUESTION}
+¿Algún miembro del hogar es propietario de esta vivienda? 
+
+{ANSWERS}
+
+F5b 
+{QUESTION}
+¿Cuántas habitaciones tiene esta casa, sin contar la cocina, ni los baños o aseos?
+
+{ANSWERS}
+
+F6 
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha obtenido?
+
+{ANSWERS}
+Sin estudios/analfabeto 
+Estudios primarios sin terminar 
+Certificado de escolaridad 
+Hasta 5º de EGB 
+Antigua primaria completa 
+EGB o ESO 
+Bachillerato elemental 
+FP1 y Enseñanza Técnico Profesional o equivalente 
+Bachillerato superior, BUP o equivalente 
+FP2 o equivalente 
+Estudios superiores de 2 o 3 años (en centros de estudios no reglados) 
+Arquitecto e Ingeniero Técnico 
+Diplomado de otras escuelas universitarias o equivalente 
+Arquitecto o Ingeniero Superior 
+Licenciado 
+Estudios de postgrado o especialización 
+Doctorado 
+
+F6a 
+{QUESTION}
+Piense en los estudios de mayor nivel que haya finalizado. ¿En cuál de las siguientes disciplinas los ubicaría?
+
+{ANSWERS}
+General o campo no específico 
+Arte – bellas artes o artes aplicadas 
+Humanidades – idiomas, filología, clásicas, historia, teología, etc. 
+Estudios técnicos o de ingeniería, incluyendo arquitectura y urbanismo, industria, aeronáutica, ingeniería naval, construcción, etc. 
+Agricultura y silvicultura, forestales 
+Formación del profesorado o educación 
+Ciencias, matemáticas, informática, etc . 
+Medicina, servicios de salud, enfermería, etc. 
+Económicas, comercio, administración de empresas, contabilidad, etc. 
+Estudios sociales y del comportamiento, administración pública, medios de comunicación, cultura, estudios del  deporte y el ocio, hostelería y turismo, etc. 
+Derecho y estudios jurídicos 
+Servicios de cuidado personal – catering, hogar, peluquería, etc. 
+Orden público y seguridad – policía, fuerzas armadas, bomberos, etc. 
+Transporte y telecomunicaciones 
+
+F7 
+{QUESTION}
+¿Teniendo en cuenta todos los estudios formales que usted ha realizado, ¿durante cuántos años escolares completos ha estudiado usted, excluyendo interrupciones por trabajo u otros motivos? No tenga en cuenta el tiempo que pueda haber pasado en un pre-escolar ni prácticas laborales.
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Utilizando esta tarjeta, ¿podría decirme en cuáles de estas situaciones se ha encontrado usted en los últimos siete días?
+
+{ANSWERS}
+En un empleo remunerado (inc. la situación de baja temporal por maternidad-paternidad, accidente, enfermedad o vacaciones) (ej. trabajador por cuenta ajena, cuenta propia, o en un negocio familiar) 
+Estudiando, aunque haya estado de vacaciones (exc. formación remunerada por una empresa) 
+En situación de desempleo y buscando trabajo activamente 
+En situación de desempleo, queriendo encontrar un trabajo pero sin buscarlo activamente 
+Con enfermedad crónica o situación de invalidez permanente 
+Jubilado 
+Haciendo labores del hogar, cuidando niños u otras personas 
+Otra 
+
+F8c 
+{QUESTION}
+¿Y cuál describe mejor su situación en los últimos siete días? Por favor, elija sólo una de ellas.
+
+{ANSWERS}
+En un empleo remunerado (inc. la situación de baja temporal por maternidad-paternidad, accidente, enfermedad o vacaciones) (ej. trabajador por cuenta ajena, cuenta propia, o en un negocio familiar) 
+Estudiando, aunque haya estado de vacaciones (exc. formación remunerada por una empresa) 
+En situación de desempleo y buscando trabajo activamente 
+En situación de desempleo, queriendo encontrar un trabajo pero sin buscarlo activamente 
+Con enfermedad crónica o situación de invalidez permanente 
+Jubilado 
+Haciendo labores del hogar, cuidando niños u otras personas 
+Otra 
+
+
+F9 
+{QUESTION}
+¿Me permite verificar los datos? ¿Ha realizado algún trabajo remunerado (de una hora o más) en los últimos 7 días? 
+
+{ANSWERS}
+
+F10 
+{QUESTION}
+¿Ha tenido en algún momento un trabajo remunerado? 
+
+{ANSWERS}
+
+F11 
+{QUESTION}
+¿En que año tuvo Ud. su último trabajo remunerado?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+En su trabajo principal ¿es Ud. …? 
+
+{ANSWERS}
+... trabajador por cuenta ajena
+trabajador por cuenta propia
+o trabaja/ba en un negocio familiar? 
+
+F13 
+{QUESTION}
+¿Cuántos empleados tiene usted?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+¿Tiene usted un contrato laboral…? 
+
+{ANSWERS}
+…indefinido
+temporal
+o no tiene/tenía contrato? 
+
+F15 
+{QUESTION}
+Incluido Ud. mismo, ¿cuántos empleados hay habitualmente en su lugar de trabajo?
+
+{ANSWERS}
+…menos de 10
+de 10 a 24
+de 25 a 99
+de 100 a 499
+o 500 o más? 
+
+F16 
+{QUESTION}
+En su trabajo principal ¿es Ud. responsable de supervisar el trabajo de otros empleados?
+
+{ANSWERS}
+
+F17 
+{QUESTION}
+¿De cuántas personas es usted responsable?
+
+{ANSWERS}
+
+F18
+{INTRO}
+A continuación voy a leerle una lista de actividades relacionadas con su vida laboral. 
+
+{QUESTION}
+Utilizando esta tarjeta, por favor dígame hasta qué punto la dirección o sus jefes en el trabajo le permiten... decidir cómo organizar su trabajo diario
+
+{ANSWERS}
+00 No tengo/tenía ninguna influencia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tengo/tenía un control total
+
+F19 
+{QUESTION}
+…influir en las decisiones que afectan a las actividades de la organización
+
+{ANSWERS}
+00 No tengo/tenía ninguna influencia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tengo/tenía un control total
+
+F19a 
+{QUESTION}
+…elegir o cambiar su ritmo de trabajo
+
+{ANSWERS}
+00 No tengo/tenía ninguna influencia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tengo/tenía un control total
+
+F20 
+{QUESTION}
+Sin contar horas extras, remuneradas o no, ¿cuántas horas de trabajo a la semana estipula el contrato de su trabajo principal?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Siguiendo con su trabajo principal, con independencia del número de horas estipuladas en su contrato, ¿cuántas horas trabaja normalmente a la semana, incluyendo horas extras, remuneradas o no?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+¿Cómo definiría su puesto (o cargo) de trabajo principal?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+En su trabajo principal, ¿qué tipo de tarea realiza durante la mayor parte del tiempo?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+¿Qué tipo de formación o de titulación requiere este trabajo?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+¿A qué se dedica la empresa o entidad para la que Ud. trabaja?
+
+F25a 
+{QUESTION}
+La empresa/ entidad donde Ud. trabaja, ¿es del sector público, privado, o sin ánimo de lucro?
+
+{ANSWERS}
+Privado 
+Público 
+Sin ánimo de lucro 
+
+F26 
+{QUESTION}
+En los últimos 10 años, ¿ha realizado algún trabajo remunerado en otro país durante al menos 6 meses? 
+
+{ANSWERS}
+
+F27 
+{QUESTION}
+¿En algún momento de su vida ha estado en el paro o buscando trabajo durante un periodo de más de tres meses? 
+
+{ANSWERS}
+
+F28 
+{QUESTION}
+¿Alguno de estos periodos ha durado 12 meses o más? 
+
+{ANSWERS}
+
+F29 
+{QUESTION}
+¿Alguno de estos periodos ha sido durante los últimos 5 años? 
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+¿Está o ha estado afiliado alguna vez a un sindicato u organización similar? SI DICE QUE SÍ: ¿Lo está actualmente o lo ha estado previamente?
+
+{ANSWERS}
+Sí, lo estoy 
+Sí, lo he estado 
+No 
+
+F31 
+{QUESTION}
+Por favor, considere todos los ingresos de todos los miembros del hogar. ¿Cuál es la principal fuente de ingresos de su hogar? Utilice, por favor, esta tarjeta.
+
+{ANSWERS}
+Salarios o ingresos del trabajo por cuenta ajena 
+Salarios o ingresos del trabajo por cuenta propia (excluidas las explotaciones agrícolas) 
+Salarios o ingresos procedentes de explotaciones agrícolas 
+Pensiones 
+Prestación por desempleo o indemnización por despido 
+Otras ayudas o prestaciones sociales 
+Rentas de inversiones, ahorros, seguros o propiedades 
+Ingresos de otras fuentes 
+
+F32A
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente SEMANAL
+J Menos de €40
+R Entre €40 y menos de €70
+C Entre €70 y menos de €120
+M Entre €120 y menos de €230
+F Entre €230 y menos de €350
+S Entre €350 y menos de €460
+K Entre €460 y menos de €580
+P Entre €580 y menos de €690
+D Entre €690 y menos de €1.150
+H Entre €1.150 y menos de €1.730
+U Entre €1.730 y menos de €2.310
+N €2310 o más
+
+F32B
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente MENSUAL
+J Menos de €150
+R Entre €150 y menos de €300
+C Entre €300 y menos de €500
+M Entre €500 y menos de €1.000
+F Entre €1.000 y menos de €1.500
+S Entre €1.500 y menos de €2.000
+K Entre €2.000 y menos de €2.500
+P Entre €2.500 y menos de €3.000
+D Entre €3.000 y menos de €5.000
+H Entre €5.000 y menos de €7.500
+U Entre €7.500 y menos de €10.000
+N €10000 o más
+
+F32C
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente ANUAL
+J Menos de €1.800
+R Entre €1.800 y menos de €3.600
+C Entre €3.600 y menos de €6.000
+M Entre €6.000 y menos de €12.000
+F Entre €12.000 y menos de €18.000
+S Entre €18.000 y menos de €24.000
+K Entre €24.000 y menos de €30.000
+P Entre €30.000 y menos de €36.000
+D Entre €36.000 y menos de €60.000
+H Entre €60.000 y menos de €90.000
+U Entre €90.000 y menos de €120.000
+N €120.000 o más
+
+F32AA
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente SEMANAL
+J Menos de 7.000 pts.
+R Entre 7.000 y menos de 12.000
+C Entre 12.000 y menos de 20.000
+M Entre 20.000 y menos de 38.000
+F Entre 38.000 y menos de 58.000
+S Entre 58.000 y menos de 77.000
+K Entre 77.000 y menos de 96.000
+P Entre 96.000 y menos de 115.000
+D Entre 115.000 y menos de 191.000
+H Entre 191.000 y menos de 288.000
+U Entre 288.000 y menos de 384.000
+N 385.000 pts. o más
+
+F32BB
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente MENSUAL
+J Menos de 25.000 pts.
+R Entre 25.000 y menos de 50.000 pts.
+C Entre 50.000 y menos de 83.000 pts.
+M Entre 83.000 y menos de 166.000 pts.
+F Entre 166.000 y menos de 250.000 pts.
+S Entre 250.000 y menos de 333.000 pts.
+K Entre 333.000 y menos de 416.000 pts.
+P Entre 416.000 y menos de 499.000 pts.
+D Entre 499.000 y menos de 832.000 pts.
+H Entre 832.000 y menos de 1.248.000 pts.
+U Entre 1.248.000 y 1.664.000 pts.
+N 1.665.000 pts. o más
+
+F32CC
+{QUESTION}
+Utilizando esta tarjeta, si suma los ingresos provenientes de todo tipo de fuentes, ¿qué letra describe mejor los ingresos netos de su hogar? Si no conoce la cantidad exacta, por favor díganos una cantidad aproximada. Utilice la sección de la tarjeta que mejor conozca: ingresos semanales, mensuales o anuales.
+
+{ANSWERS}
+Aproximadamente ANUAL
+J Menos de 300.000 pts.
+R Entre 300.000 y menos de 600.000 pts.
+C Entre 600.000 y menos de 1.000.000 pts.
+M Entre 1.000.000 y menos de 2.000.000 pts.
+F Entre 2.000.000 y menos de 3.000.000 pts.
+S Entre 3.000.000 y menos de 4.000.000 pts.
+K Entre 4.000.000 y menos de 5.000.000 pts.
+P Entre 5.000.000 y menos de 6.000.000 pts.
+D Entre 6.000.000 y menos de 10.000.000 pts.
+H Entre 10.000.000 y menos de 15.000.000
+U Entre 15.000.000 y 20.000.000 pts.
+N Más de 20.000.000 pts.
+
+F32a 
+{QUESTION}
+Aproximadamente, ¿qué proporción de los ingresos de este hogar aporta Ud.?
+
+{ANSWERS}
+Ninguna 
+Una pequeña parte 
+Menos de la mitad 
+Aproximadamente la mitad 
+Más de la mitad 
+Una gran parte 
+Todo 
+
+F33 
+{QUESTION}
+¿Cuál de las afirmaciones en esta tarjeta describe mejor cómo se siente con respecto a los ingresos de su hogar en la actualidad?
+
+{ANSWERS}
+Con los ingresos actuales vivimos cómodamente 
+Con los ingresos actuales nos llega para vivir 
+Con los ingresos actuales tenemos dificultades 
+Con los ingresos actuales tenemos muchas dificultades 
+
+F34 
+{QUESTION}
+Si por cualquier razón Ud. se viera en graves dificultades económicas y tuviera que pedir dinero prestado para llegar a fin de mes, ¿en qué medida esto le resultaría difícil o fácil? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Muy difícil 
+Bastante difícil 
+Ni fácil ni difícil 
+Bastante fácil 
+Muy fácil 
+
+F36 
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha obtenido su marido? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Sin estudios/analfabeto 
+Estudios primarios sin terminar 
+Certificado de escolaridad 
+Hasta 5º de EGB 
+Antigua primaria completa 
+EGB o ESO 
+Bachillerato elemental 
+FP1 y Enseñanza Técnico Profesional o equivalente 
+Bachillerato superior, BUP o equivalente 
+FP2 o equivalente 
+Estudios superiores de 2 o 3 años (en centros de estudios no reglados) 
+Arquitecto e Ingeniero Técnico 
+Diplomado de otras escuelas universitarias o equivalente 
+Arquitecto o Ingeniero Superior 
+Licenciado 
+Estudios de postgrado o especialización 
+Doctorado 
+
+F37a 
+{QUESTION}
+¿En cuáles de estas situaciones se ha encontrado su marido en los últimos 7 días? 
+
+{ANSWERS}
+En un empleo remunerado (inc. la situación de baja temporal por maternidad-paternidad, accidente, enfermedad o vacaciones) (ej. trabajador por cuenta ajena, cuenta propia, o en un negocio familiar) 
+Estudiando, aunque haya estado de vacaciones (exc. formación remunerada por una empresa) 
+En situación de desempleo y buscando trabajo activamente 
+En situación de desempleo, queriendo encontrar un trabajo pero sin buscarlo activamente 
+Con enfermedad crónica o situación de invalidez permanente 
+Jubilado 
+Haciendo labores del hogar, cuidando niños u otras personas 
+Otra 
+
+F37c 
+{QUESTION}
+¿Y cuál describe mejor su situación en los últimos 7 días? Por favor, elija sólo una de ellas.
+
+{ANSWERS}
+En un empleo remunerado (inc. la situación de baja temporal por maternidad-paternidad, accidente, enfermedad o vacaciones) (ej. trabajador por cuenta ajena, cuenta propia, o en un negocio familiar) 
+Estudiando, aunque haya estado de vacaciones (exc. formación remunerada por una empresa) 
+En situación de desempleo y buscando trabajo activamente 
+En situación de desempleo, queriendo encontrar un trabajo pero sin buscarlo activamente 
+Con enfermedad crónica o situación de invalidez permanente 
+Jubilado 
+Haciendo labores del hogar, cuidando niños u otras personas 
+Otra 
+
+F38 
+{QUESTION}
+¿Me permite verificar los datos? ¿Ha realizado su marido algún trabajo remunerado (de una hora o más) en los últimos 7 días? 
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+¿Cómo definiría el cargo o puesto de su trabajo principal?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+En su trabajo principal, ¿qué tipo de tarea realiza su marido durante la mayor parte del tiempo?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+¿Qué tipo de formación o de titulación requiere ese trabajo?
+
+{ANSWERS}
+
+F41a 
+{QUESTION}
+La empresa/ entidad donde trabaja su marido, ¿es del sector público, privado, o sin ánimo de lucro?
+
+{ANSWERS}
+Privado 
+Público 
+Sin ánimo de lucro 
+
+F42 
+{QUESTION}
+En su trabajo principal, ¿su marido es…? 
+
+{ANSWERS}
+... trabajador por cuenta ajena
+trabajador por cuenta propia
+o trabaja en un negocio familiar? 
+
+F43 
+{QUESTION}
+¿Cuántos empleados tiene su marido (si es que tiene alguno)?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+En su trabajo principal, ¿su marido es responsable de supervisar el trabajo de otros empleados? 
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+¿Cuántos empleados tiene su marido a su cargo?
+
+{ANSWERS}
+
+F46
+{INTRO}
+A continuación voy a leerle una lista de actividades relacionadas con la vida laboral de su marido. 
+
+{QUESTION}
+Utilizando esta tarjeta, por favor dígame hasta qué punto la dirección o sus jefes en el trabajo le permiten... decidir cómo organizar su trabajo diario
+
+{ANSWERS}
+00 No tiene ninguna influencia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tiene un control total
+
+F47 
+{QUESTION}
+…influir en las decisiones que afectan a las actividades de la organización
+
+{ANSWERS}
+00 No tiene ninguna influencia
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tiene un control total
+
+F48 
+{QUESTION}
+Y, siguiendo con su marido, ¿cuántas horas trabaja normalmente a la semana (en su trabajo principal)? Por favor, incluya las horas extras, sean o no remuneradas.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su padre? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Sin estudios/analfabeto 
+Estudios primarios sin terminar 
+Certificado de escolaridad 
+Hasta 5º de EGB 
+Antigua primaria completa 
+EGB o ESO 
+Bachillerato elemental 
+FP1 y Enseñanza Técnico Profesional o equivalente 
+Bachillerato superior, BUP o equivalente 
+FP2 o equivalente 
+Estudios superiores de 2 o 3 años (en centros de estudios no reglados) 
+Arquitecto e Ingeniero Técnico 
+Diplomado de otras escuelas universitarias o equivalente 
+Arquitecto o Ingeniero Superior 
+Licenciado 
+Estudios de postgrado o especialización 
+Doctorado 
+
+F50 
+{QUESTION}
+Cuando Ud. tenía 14 años, ¿trabajaba su padre como trabajador por cuenta ajena, trabajador por cuenta propia, o no trabajaba por aquel entonces?
+
+{ANSWERS}
+Trabajador por cuenta ajena 
+Trabajador por cuenta propia 
+No trabajaba 
+Había muerto o estaba ausente 
+
+F51 
+{QUESTION}
+¿Cuántos empleados tenía su padre a su cargo? 
+
+{ANSWERS}
+
+
+F52 
+{QUESTION}
+¿Era su padre responsable de supervisar el trabajo de otros empleados? 
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Y, siguiendo con su padre, ¿cómo definiría el cargo o puesto de su trabajo principal?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+¿Cuál de las profesiones que aparecen en esta tarjeta describe mejor el tipo de trabajo que hacía su padre cuando Ud. tenía 14 años?
+
+{ANSWERS}
+Ocupaciones profesionales tradicionales ejemplos: contable – abogado – medico – científico – ingeniero o arquitecto – farmacéutico – procurador – aparejador – ingeniero técnico – topógrafo 
+Ocupaciones profesionales modernas ejemplos: profesor – enfermero – fisioterapeuta – asistente social –
+trabajador social – músico – agente de policía (sargento o rango superior) – programador informático – profesor de universidad o colegio – artista (pintor, actor, etc.) – agente de bolsa – psicólogo – diseñador – piloto – comisario – militar (altos mandos y oficiales) 
+Trabajos de oficina y ocupaciones intermedias ejemplos: secretario – secretario de alta dirección –
+administrativo – oficinista – teleoperador –auxiliar de clínica/enfermería – puericultor – delineante – apoderado /interventor de banca 
+Directivos o administradores con responsabilidades a su cargo (responsable de tareas de planificación, organización y coordinación de finanzas) ejemplos: director financiero – jefe ejecutivo – agricultor por cuenta
+propia o comerciante con empleados – director de empresa, de departamento, comercial o técnico 
+Ocupaciones técnicas y de oficios ejemplos: mecánico de motores – operario – fontanero – impresor – albañil – fresador – electricista – jardinero – maquinista de tren – agricultor – zapatero – panadero – carpintero – tapicero – cocinero – peluquero 
+Ocupaciones manuales y de servicios semi-rutinarios ejemplos: cartero – operario de máquinas – guarda de seguridad conserje – trabajador agrícola – ayudante de cocina – recepcionista – dependiente de una tienda – representante – agente de seguros, ventas, viajante, etc. – guardia civil – policía sin cargo – cobrador – bombero – celador – portero – comerciante sin empleados 
+Ocupaciones manuales y de servicios rutinarios ejemplos: conductor de vehículos pesados– conductor de
+furgonetas – limpiador – mozo de carga o descargador – empaquetador – costurero industrial – mensajero – peones en general – camarero – personal de bar – camionero – conductor – taxista – repartidor – servicio doméstico y niñeras 
+Directivo de nivel medio o júnior ejemplos: director de oficina – director de sucursal de banco – encargado de restaurante – encargado de almacén – hostelero – encargados generales – capitán de pesca – capataz de
+explotación agrícola 
+
+F55 
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su madre? Por favor, utilice esta tarjeta
+
+{ANSWERS}
+Sin estudios/analfabeto 
+Estudios primarios sin terminar 
+Certificado de escolaridad 
+Hasta 5º de EGB 
+Antigua primaria completa 
+EGB o ESO 
+Bachillerato elemental 
+FP1 y Enseñanza Técnico Profesional o equivalente 
+Bachillerato superior, BUP o equivalente 
+FP2 o equivalente 
+Estudios superiores de 2 o 3 años (en centros de estudios no reglados) 
+Arquitecto e Ingeniero Técnico 
+Diplomado de otras escuelas universitarias o equivalente 
+Arquitecto o Ingeniero Superior 
+Licenciado 
+Estudios de postgrado o especialización 
+Doctorado 
+
+F56 
+{QUESTION}
+Cuando Ud. tenía 14 años, ¿trabajaba su madre como trabajadora por cuenta ajena, trabajadora por cuenta propia, o no trabajaba por aquel entonces? 
+
+{ANSWERS}
+Trabajadora por cuenta ajena 
+Trabajadora por cuenta propia 
+No trabajaba 
+Había muerto o estaba ausente 
+
+F57 
+{QUESTION}
+¿Cuántos empleados tenía su madre a su cargo? 
+
+{ANSWERS}
+
+F58
+{QUESTION}
+¿Era su madre responsable de supervisar el trabajo de otros empleados? 
+
+{ANSWERS}
+
+F59 
+{QUESTION}
+Y, siguiendo con su madre, ¿cómo definiría el cargo o puesto de su trabajo principal?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+¿Cuál de las profesiones que aparecen en esta tarjeta describe mejor el tipo de trabajo que hacía su madre cuando usted tenía 14 años?
+
+{ANSWERS}
+Ocupaciones profesionales tradicionales ejemplos: contable – abogado – medico – científico – ingeniero o arquitecto – farmacéutico – procurador – aparejador – ingeniero técnico – topógrafo 
+Ocupaciones profesionales modernas ejemplos: profesor – enfermero – fisioterapeuta – asistente social –
+trabajador social – músico – agente de policía (sargento o rango superior) – programador informático – profesor de universidad o colegio – artista (pintor, actor, etc.) – agente de bolsa – psicólogo – diseñador – piloto – comisario – militar (altos mandos y oficiales) 
+Trabajos de oficina y ocupaciones intermedias ejemplos: secretario – secretario de alta dirección –
+administrativo – oficinista – teleoperador – auxiliar de clínica/enfermería – puericultor – delineante – apoderado / interventor de banca 
+Directivos o administradores con responsabilidades a su cargo (responsable de tareas de planificación, organización y coordinación de finanzas) ejemplos: director financiero – jefe ejecutivo – agricultor por cuenta
+propia o comerciante con empleados – director de empresa, de departamento, comercial o técnico 
+Ocupaciones técnicas y de oficios ejemplos: mecánico de motores – operario – fontanero – impresor – albañil – fresador – electricista – jardinero – maquinista de tren – agricultor – zapatero – panadero –
+carpintero – tapicero – cocinero – peluquero 
+Ocupaciones manuales y de servicios semi-rutinarios ejemplos: cartero – operario de máquinas – guarda de seguridad conserje – trabajador agrícola – ayudante de cocina – recepcionista – dependiente de una tienda – representante – agente de seguros, ventas, viajante, etc. – guardia civil – policía sin cargo – cobrador – bombero – celador – portero – comerciante sin empleados 
+Ocupaciones manuales y de servicios rutinarios ejemplos: conductor de vehículos pesados– conductor de
+furgonetas – limpiador – mozo de carga o descargador – empaquetador – costurero industrial – mensajero – peones en general – camarero – personal de bar – camionero – conductor – taxista – repartidor – servicio doméstico y niñeras 
+Directivo de nivel medio o júnior ejemplos: director de oficina – director de sucursal de banco – encargado de restaurante – encargado de almacén – hostelero – encargados generales – capitán de pesca – capataz de
+explotación agrícola 
+
+F61 
+{QUESTION}
+En los últimos doce meses, ¿ha asistido Ud. a algún curso, seminario o conferencia para mejorar sus conocimientos o sus habilidades laborales? 
+
+{ANSWERS}
+
+F62 
+{QUESTION}
+Querría ahora hacerle unas preguntas sobre su estado civil. ¿Cuál de los siguientes casos que aparecen en la tarjeta describe mejor su situación?
+
+{ANSWERS}
+Casado/a 
+Separado/a (todavía casado a efectos legales) 
+Divorciado/a 
+Viudo/a 
+Nunca ha estado casado/a 
+
+
+F63 
+{QUESTION}
+¿Vive Ud. en la actualidad con su marido? 
+
+{ANSWERS}
+
+F64 
+{QUESTION}
+¿Vive usted en la actualidad con otro compañero sentimental? 
+
+{ANSWERS}
+
+F65 
+{QUESTION}
+¿Vive Ud. en pareja en la actualidad? 
+
+{ANSWERS}
+
+F66 
+{QUESTION}
+¿Ha vivido Ud. alguna vez en pareja sin estar casado con él? 
+
+{ANSWERS}
+
+F68 
+{QUESTION}
+¿Se ha divorciado Ud. alguna vez? 
+
+{ANSWERS}
+
+F70 
+{QUESTION}
+¿Ha tenido Ud. alguna vez hijos (ya sean suyos o de su pareja, incluyendo hijos adoptados o en acogida) viviendo en casa? 
+
+{ANSWERS}
+
+F70a 
+{QUESTION}
+¿Está viva su madre? 
+
+{ANSWERS}
+
+F70b 
+{QUESTION}
+¿Está vivo su padre? 
+
+{ANSWERS}
+
+

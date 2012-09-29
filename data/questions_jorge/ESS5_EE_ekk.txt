@@ -1,0 +1,1781 @@
+﻿A1 
+{QUESTION}
+Kui palju aega kokku kulutate televiisori vaatamisele tavalisel nädalapäeval? Vastamiseks kasutage kaarti 1.
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A2 
+{QUESTION}
+Kui palju televiisori vaatamise ajast tavalisel nädalapäeval jälgite uudiseid või poliitikat ja päevakajalisi sündmusi kajastavaid saateid? Vastamiseks kasutage kaarti 1.
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A3 
+{QUESTION}
+Kui palju aega kokku kulutate raadio kuulamisele tavalisel nädalapäeval? Vastamiseks kasutage kaarti 1.
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A4 
+{QUESTION}
+Rääkides ikka tavalisest nädalapäevast, kui palju raadio kuulamise ajast kuulate uudiseid või poliitikat ja päevakajalisi sündmusi kajastavaid saateid? Vastamiseks kasutage kaarti 1.
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A5 
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval ajalehtede lugemisele? Vastamiseks kasutage kaarti 1
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A6 
+{QUESTION}
+Kui palju sellest ajast kulub poliitika ja päevakajaliste sündmuste kohta lugemisele? Vastamiseks kasutage kaarti 1.
+
+{ANSWERS}
+Üldse mitte 
+Vähem kui ½ tundi 
+½ tundi kuni 1 tund 
+Rohkem kui 1 tund kuni 1½ tundi 
+Rohkem kui 1½ tundi kuni 2 tundi 
+Rohkem kui 2 tundi kuni 2½ tundi 
+Rohkem kui 2½ tundi kuni 3 tundi 
+Üle 3 tunni 
+
+A7 
+{QUESTION}
+Kui tihti kasutate nii kodus kui tööl olles isiklikuks otstarbeks internetti või e-posti? Vastamiseks kasutage kaarti 2.
+
+{ANSWERS}
+Kodus ega tööl pole ligipääsu 
+Mitte kunagi ei kasuta 
+Vähem kui kord kuus 
+Kord kuus 
+Mitu korda kuus 
+Kord nädalas 
+Mitu korda nädalas 
+Iga päev 
+
+A8 
+{QUESTION}
+Üldiselt hinnates, kas Teie arvates võib enamikku inimesi usaldada? Palun andke oma hinnang skaalal 0-10, kus 0 tähendab, et ei saa usaldada ja 10 tähendab, et enamikku inimesi võib usaldada. Vastamiseks kasutage kaarti 3.
+
+{ANSWERS}
+00 Enamikku Inimesi ei saa usaldada
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Enamikku inimesi võib usaldada
+
+A9 
+{QUESTION}
+Mida Te arvate, kas enamus inimesi püüaks Teid võimaluse korral ära kasutada või käituvad nad pigem ausalt? Vastamiseks kasutage kaarti 4.
+
+{ANSWERS}
+00 Enamus inimesi püüaks mind ära
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Enamus inimesi püüaks käituda ausalt
+
+A10 
+{QUESTION}
+Mida Te arvate, kas enamuse ajast püüavad inimesed olla teiste suhtes abivalmid või hoolivad nad ennekõike iseendast? Vastamiseks kasutage kaarti 5.
+
+{ANSWERS}
+00 Inimesed hoolivad ennekõike iseendast
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Inimesed püüavad enamasti teise suhtes abivalmid olla
+
+
+{INTRO}
+Nüüd esitame mõned küsimused poliitika ja valitsuse kohta.
+
+B1 
+{QUESTION}
+Kui huvitatud Te olete poliitikast? Kas olete … 
+
+{ANSWERS}
+…väga huvitatud 
+…üsna huvitatud 
+…vähe huvitatud 
+…üldse ei tunne huvi 
+
+B4
+{QUESTION}
+Järgnevalt palun vastake, kuivõrd Te usaldate järgmisi institutsioone, mille ma Teile ette loen. Vastamiseks kasutage 10-pallist skaalat, kus 0 tähendab, et Te seda institutsiooni üldse ei usalda ja 10 tähendab, et usaldate täielikult. Vastamiseks kasutage kaarti 8. … Eesti riigikogu?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B5 
+{QUESTION}
+… Eesti õigussüsteemi?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B6 
+{QUESTION}
+… Eesti politseid?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B7 
+{QUESTION}
+… Eesti poliitikuid? 
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B8 
+{QUESTION}
+…Eesti poliitilisi parteisid ja erakondi?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B9 
+{QUESTION}
+… Euroopa parlamenti?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B10 
+{QUESTION}
+… Ühinenud Rahvaste Organisatsiooni?
+
+{ANSWERS}
+00 Ei usalda üldse
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Usaldan täielikult
+
+B11 
+{INTRO}
+Mõned inimesed ei käi tänapäeval ühel või teisel põhjusel valimas. 
+
+{QUESTION}
+Kas Teie osalesite viimastel Riigikogu valimistel 2007. aasta märtsis?
+
+{ANSWERS}
+Jah
+Ei 
+Pole valimisõigust
+
+B12 
+{QUESTION}
+Millise erakonna poolt Te nendel valimistel hääletasite?
+
+{ANSWERS}
+Erakond Isamaa ja Res Publica Liit
+Eesti Keskerakond
+Eesti Reformierakond
+Eestimaa Rahvaliit
+Sotsiaaldemokraatlik Erakond
+Erakond Eestimaa Rohelised
+MUU 
+
+{INTRO}
+On erinevaid viise, kuidas Eesti riigis asju paremaks muuta või ennetada nende viltu minekut. 
+
+B13
+{QUESTION}
+Kas olete viimase 12 kuu jooksul …võtnud ühendust mõne poliitiku, valitsuse või kohaliku omavalitsuse ametnikuga?
+
+{ANSWERS}
+Jah 
+Ei
+
+B14 
+{QUESTION}
+…tegutsenud poliitilise partei (erakonna) või surverühma heaks?
+
+{ANSWERS}
+Jah 
+Ei
+
+B15 
+{QUESTION}
+…töötanud mõnes muus organisatsioonis või ühingus? 
+
+{ANSWERS}
+Jah 
+Ei
+
+B16 
+{QUESTION}
+…kandnud kampaaniamärki või -kleebist? 
+
+{ANSWERS}
+Jah 
+Ei
+
+B17 
+{QUESTION}
+… kirjutanud alla palvekirjale (petitsioonile)? 
+
+{ANSWERS}
+Jah 
+Ei
+
+B18 
+{QUESTION}
+…võtnud osa seaduslikust avalikust demonstratsioonist? 
+
+{ANSWERS}
+Jah 
+Ei
+
+B19 
+{QUESTION}
+…boikoteerinud teatud tooteid? 
+
+{ANSWERS}
+Jah 
+Ei
+
+B20a 
+{QUESTION}
+Kas tunnete mõne poliitilise partei suhtes suuremat lähedust kui teiste suhtes?
+
+{ANSWERS}
+Jah
+Ei 
+
+B20b 
+{QUESTION}
+Millise erakonna suhtes?
+
+{ANSWERS}
+Erakond Isamaa ja Res Publica Liit
+Eesti Keskerakond
+Eesti Reformierakond
+Eestimaa Rahvaliit
+Sotsiaaldemokraatlik Erakond
+Erakond Eestimaa Rohelised
+MUU 
+
+B20c 
+{QUESTION}
+Kui suurt lähedust Te selle partei suhtes tunnete? See partei on Teile … 
+
+{ANSWERS}
+...väga lähedane
+...üsna lähedane
+...mitte eriti lähedane
+...üldse mitte lähedane
+
+B21 
+{QUESTION}
+Kas Te olete mõne poliitilise partei liige?
+
+{ANSWERS}
+Jah
+Ei 
+
+B22 
+{QUESTION}
+Millise partei liige Te olete?
+
+{ANSWERS}
+Erakond Isamaa ja Res Publica Liit
+Eesti Keskerakond
+Eesti Reformierakond
+Eestimaa Rahvaliit
+Sotsiaaldemokraatlik Erakond
+Erakond Eestimaa Rohelised
+MUU 
+
+B23 
+{INTRO}
+Poliitikas räägitakse vahel vasak- ja parempoolsusest. 
+
+{QUESTION}
+Kuhu Te ennast sellel skaalal asetaksite, kus 0 tähistab vasakpoolsust ja 10 parempoolsust? Vastamiseks kasutage kaarti 9.
+
+{ANSWERS}
+00 Vasakpoolne 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Parempoolne
+
+B24 
+{QUESTION}
+Kõike kokkuvõttes, kuivõrd rahul Te oma eluga üldiselt olete? Vastamiseks kasutage 10-pallist skaalat, kus 0 tähendab, et ei ole üldse rahul ja 10 tähendab, et olete väga rahul. Vastamiseks kasutage kaarti 10.
+
+{ANSWERS}
+00 Üldse mitte rahul
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga rahul 
+
+B25
+{QUESTION}
+Kuivõrd rahul olete üldiselt Eesti praeguse majandusliku olukorraga? Kasutage kaarti 10.
+
+{ANSWERS}
+00 Üldse mitte rahul
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga rahul 
+
+B26 
+{QUESTION}
+Kui rahul olete Eesti valitsuse tööga? Kasutage kaarti 10.
+
+{ANSWERS}
+00 Üldse mitte rahul
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga rahul 
+
+B27 
+{QUESTION}
+Üldiselt hinnates, kuivõrd rahul olete sellega, kuidas demokraatia Eestis toimib? Kasutage kaarti 10.
+
+{ANSWERS}
+00 Üldse mitte rahul
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga rahul 
+
+B28 
+{QUESTION}
+Kui halb või hea on Teie arvates praegusel ajal hariduse olukord Eestis? Vastamiseks kasutage kaarti 11.
+
+{ANSWERS}
+00 Väga halb
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga hea
+
+B29
+{QUESTION}
+Milline on Teie arvates praegusel ajal kogu tervishoiusüsteemi olukord Eestis? Vastamiseks kasutage kaarti 11.
+
+{ANSWERS}
+00 Väga halb
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga hea
+
+
+B30 
+{QUESTION}
+Öelge palun, mil määral nõustute järgnevate väidetega. Vastamiseks kasutage kaarti 12. Valitsus peaks rakendama abinõusid vähendamaks erinevusi sissetulekute tasemes
+
+{ANSWERS}
+Olen täiesti nõus
+Olen nõus
+Ei nõustu ega ole vastu
+Ei ole nõus
+Ei ole üldse nõus
+
+B31 
+{QUESTION}
+Homoseksuaalsetel meestel ja naistel peaks olema vabadus elada oma elu nii, nagu nad soovivad
+
+{ANSWERS}
+Olen täiesti nõus
+Olen nõus
+Ei nõustu ega ole vastu
+Ei ole nõus
+Ei ole üldse nõus
+
+B32 
+{QUESTION}
+Poliitilised parteid, mis ohustavad demokraatiat tuleks keelustada
+
+{ANSWERS}
+Olen täiesti nõus
+Olen nõus
+Ei nõustu ega ole vastu
+Ei ole nõus
+Ei ole üldse nõus
+
+B33 
+{QUESTION}
+Keskkonnaprobleemide lahendamisel saab toetuda kaasaegsele teadusele
+
+{ANSWERS}
+Olen täiesti nõus
+Olen nõus
+Ei nõustu ega ole vastu
+Ei ole nõus
+Ei ole üldse nõus
+
+{INTRO}
+Nüüd mõned küsimused inimeste kohta, kes tulevad teistest riikidest Eestisse elama.
+
+B35 
+{QUESTION}
+Mil määral peaks Eesti riik lubama enamiku Eestis elavate inimestega samast rassist või rahvusest inimestel siia elama tulla? Vastamiseks kasutage kaarti 14. Eesti riik peaks …
+
+{ANSWERS}
+…lubama paljudel siia elama tulla 
+…lubama mõnedel siia elama tulla 
+…lubama vähestel siia elama tulla 
+…üldse mitte lubama 
+
+B36 
+{QUESTION}
+Kuidas oleks aga nende inimestega, kes erinevad enamustest Eestis elavatest inimestest oma rassi või rahvuse poolest? Vastamiseks kasutage kaarti 14. Eesti riik peaks …
+
+{ANSWERS}
+…lubama paljudel siia elama tulla 
+…lubama mõnedel siia elama tulla 
+…lubama vähestel siia elama tulla 
+…öldse mitte lubama 
+
+B37
+{QUESTION}
+Kuidas oleks aga väljaspool Euroopat asuvatest vaesematest riikidest pärit inimestega? Vastamiseks kasutage kaarti 14. Eesti riik peaks …
+
+{ANSWERS}
+…lubama paljudel siia elama tulla 
+…lubama mõnedel siia elama tulla 
+…lubama vähestel siia elama tulla 
+…üldse mitte lubama 
+
+B38. 
+{QUESTION}
+Üldiselt hinnates, kas see mõjub Eesti majandusele hästi või halvasti, kui teistest riikidest inimesed siia elama tulevad? Vastamiseks kasutage kaarti 15.
+
+{ANSWERS}
+00 Mõjub majandusele halvasti
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mõjub majandusele hästi
+
+B39 
+{QUESTION}
+Mida Te arvate, kas teistest riikidest inimeste Eestisse elama asumine pigem kahjustab või rikastab Eesti kultuurielu? Vastamiseks kasutage kaarti 16.
+
+{ANSWERS}
+00 Kahjustab 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Rikastab
+
+B40
+{QUESTION}
+Kas Eesti muutuks elukoha mõttes halvemaks või paremaks paigaks, kui teistest riikidest inimesed siia elama tulevad? Vastamiseks kasutage kaarti 17. Eesti muutuks …
+
+{ANSWERS}
+00 Halvemaks elupaigaks
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Paremaks elupaigaks
+
+{INTRO}
+Ja nüüd mõned küsimused Teie ja Teie elu kohta.
+
+C1 
+{QUESTION}
+Kui õnnelikuks Te kõike kokkuvõttes end peate? Vastamiseks kasutage kaarti 18.
+
+{ANSWERS}
+00 Väga õnnetu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väga õnnelik
+
+C2 
+{QUESTION}
+Kui tihti (kokku) kohtute aega sõprade, sugulaste või töökaaslastega? Vastamiseks kasutage kaaret 19. Mõeldud on vabatahtlikult, st et mitte seoses tööga vaid lõbu pärast aja veetmist väljaspool kitsamat perekonda.
+
+{ANSWERS}
+Mitte kunagi 
+Vähem kui kord kuus 
+Kord kuus 
+Mitu korda kuus 
+Kord nädalas 
+Mitu korda nädalas 
+Iga päev 
+
+C3 
+{QUESTION}
+Kas Teil on keegi, kellega saate arutada oma isiklikke ja intiimseid asju?
+
+{ANSWERS}
+Jah
+Ei 
+
+C4 
+{QUESTION}
+Võrreldes oma eakaaslastega, kui tihti Te võtate osa seltskondlikest kohtumistest või üritustest. Vastamiseks kasutage kaarti 20.
+
+{ANSWERS}
+Palju harvem kui enamus eakaaslasi 
+Harvem kui enamus eakaaslasi 
+Umbes sama tihti kui enamus eakaaslasi 
+Sagedamini kui enamus eakaaslasi 
+Palju sagedamini kui enamus eakaaslasi 
+
+C5 
+{QUESTION}
+Kas Teie või keegi Teie leibkonnast on viie viimase aasta jooksul varguse või füüsilise kallaletungi ohvriks langenud?
+
+{ANSWERS}
+Jah
+Ei 
+
+C6 
+{QUESTION}
+Kui turvaliselt tunnete end – või tunneksite end – jalutamas üksinda oma kodu ümbruses pimedal ajal? Kas Te tunnete – või tunneksite – end …
+
+{ANSWERS}
+...väga turvaliselt
+...turvaliselt
+...mitte eriti turvaliselt
+...üldse mitte turvaliselt
+
+C7 
+{QUESTION}
+Kui tihti, kui üldse, Te muretsete, et Teie koju võidakse sisse murda? Vastamiseks kasutage kaarti 21.
+
+{ANSWERS}
+Kogu aeg või enamuse osa ajast
+Vahetevahel 
+Ainult aeg-ajalt 
+Mitte kunagi 
+
+C8 
+{QUESTION}
+Kas murel, et Teie koju võidakse sisse murda, on…
+
+{ANSWERS}
+…tõsine mõju Teie elukvaliteedile
+…mõningane mõju
+või pole erilist mõju Teie elukvaliteedile?
+
+C9 
+{QUESTION}
+Kui üldse muretsete, siis kui tihti selle pärast, et võite langeda vägivaldse kuriteo ohvriks? Vastamiseks kasutage kaarti 21.
+
+{ANSWERS}
+Kogu aeg või enamuse osa ajast 
+Vahetevahel 
+Ainult aeg-ajalt 
+Mitte kunagi 
+
+C10 
+{QUESTION}
+Kas murel, et võite langeda vägivaldse kuriteo ohvriks, on…
+
+{ANSWERS}
+…tõsine mõju Teie elukvaliteedile
+…mõningane mõju
+või pole erilist mõju Teie elukvaliteedile?
+
+{INTRO}
+Järgnevad küsimused on Teie enda kohta.
+
+C15 
+{QUESTION}
+Üldiselt hinnates, milline on Teie tervislik seisund? Kas Teie arvates on see .....? 
+
+{ANSWERS}
+...väga hea
+...hea
+...rahuldav
+...halb
+...või, väga halb?
+
+C16 
+{QUESTION}
+Kas Teie igapäevased tegevused on mingil moel piiratud pikaajalise haiguse, invaliidsuse, puude või psüühilise tervishäire tõttu? KUI JAH, siis millisel määral?
+
+{ANSWERS}
+Jah, suurel määral 
+Jah, mõningal määral 
+Ei 
+
+C17 
+{QUESTION}
+Kas Te peate end mõne kindla usu või usulahu tunnistajaks?
+
+{ANSWERS}
+Jah
+Ei 
+
+C18 
+{QUESTION}
+Millise usu või usulahu tunnistajaks nimelt Te ennast peate?
+
+{ANSWERS}
+Katoliiklus
+Protestantism (sh. luterlus, babtism, metodism, adventism jt.)
+Õigeusk
+Muu kristlik usk või usulahk (Jehoova tunnistajad, mormoonid jt.
+Judaism
+Islami usk
+Aasia usundid (budism, hinduism, taoism jt.)
+Muu mittekristlik usk või usulahk
+
+C19 
+{QUESTION}
+Kas Te olete kunagi pidanud ennast mõne usu või usulahu tunnistajaks?
+
+{ANSWERS}
+Jah
+Ei 
+
+C20
+{QUESTION}
+Millise usu või usulahu tunnistajaks nimelt Te ennast olete kunagi pidanud?
+
+{ANSWERS}
+Katoliiklus
+Protestantism (sh. luterlus, babtism, metodism, adventism jt.)
+Õigeusk
+Muu kristlik usk või usulahk (Jehoova tunnistajad, mormoonid jt) .
+Judaism
+Islami usk
+Aasia usundid (budism, hinduism, taoism jt.)
+Muu mittekristlik usk või usulahk
+
+C21
+{QUESTION}
+Olenemata sellest, kas olete teatud usu või usulahu tunnistaja, kui usklikuks Te ennast peate? Vastamiseks kasutage kaarti 23.
+
+{ANSWERS}
+00 Ma pole üldse usklik
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Olen väga usklik
+
+C22 
+{QUESTION}
+Kõrvale jättes erilised sündmused nagu näiteks laulatused ja matused, kui tihti käite käesoleval ajal usuga seotud teenistustel? Vastamiseks kasutage kaarti 24.
+
+{ANSWERS}
+Iga päev 
+Rohkem kui kord nädalas 
+Kord nädalas 
+Vähemalt kord kuus 
+Ainult erilistel pühadel 
+Veel harvem 
+Mitte kunagi 
+
+C23 
+{QUESTION}
+Kui tihti, kui üldse, võtate osa usuga seotud rituaalidest või palvetate? Ärge arvestage seejuures usuga seotud teenistustel viibimist? Vastamiseks kasutage kaarti 24.
+
+{ANSWERS}
+Iga päev 
+Rohkem kui kord nädalas 
+Kord nädalas 
+Vähemalt kord kuus 
+Ainult erilistel pühadel 
+Veel harvem 
+Mitte kunagi 
+
+C24 
+{QUESTION}
+Kas Te enda arvates kuulute mõnda gruppi, mida Eestis diskrimineeritakse?
+
+{ANSWERS}
+Jah
+Ei 
+
+C25 
+{QUESTION}
+Mille pärast Teie gruppi diskrimineeritakse?
+
+{ANSWERS}
+Nahavärv või rass
+Rahvus
+Religioon
+Keel
+Etniline grupp
+Vanus
+Sugu
+Seksuaalne orientatsioon
+Puue
+Muu
+
+C26 
+{QUESTION}
+Kas Te olete Eesti kodanik?
+
+{ANSWERS}
+Jah
+Ei 
+
+C27 
+{QUESTION}
+Millise riigi kodakondsus Teil on?
+
+{ANSWERS}
+Vene
+Ukraina
+Kodakondsuseta
+Muu 
+
+C28 
+{QUESTION}
+Kas Te olete sündinud Eestis?
+
+{ANSWERS}
+JAH 
+Ei 
+
+C29 
+{QUESTION}
+Millises riigis olete sündinud (sünnihetke territoriaalne jaotus)?
+
+{ANSWERS}
+Vene 
+Ukraina 
+Valgevene 
+Muu 
+
+C30
+{QUESTION}
+Mis aastal Te asusite esimest korda Eestisse elama?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Millist keelt või keeli räägite kodus kõige sagedamini? 
+
+{ANSWERS}
+Eesti 
+Vene 
+Ukraina 
+Valgevene 
+Muu 
+
+C32 
+{QUESTION}
+Kas Te kuulute Eestis rahvusvähemusgruppi?
+
+{ANSWERS}
+Jah
+Ei 
+
+C33 
+{QUESTION}
+Kas Teie isa on Eestis sündinud?
+
+{ANSWERS}
+Jah
+Ei 
+
+C34 
+{QUESTION}
+Millises riigis on Teie isa sündinud?
+
+{ANSWERS}
+Vene
+Ukraina
+Valgevene
+Muu  
+
+C35 
+{QUESTION}
+Kas Teie ema on Eestis sündinud?
+
+{ANSWERS}
+Jah
+Ei 
+
+C36 
+{QUESTION}
+Millises riigis on Teie ema sündinud?
+
+{ANSWERS}
+Vene
+Ukraina
+Valgevene
+Muu
+
+{INTRO}
+Järgnevalt küsin küsimusi Teie ja teiste inimeste kohta Teie leibkonnas.
+
+F1 
+{QUESTION}
+Kaasa arvatud Teie ise ja lapsed, kui mitu inimest elab alaliselt koos Teie leibkonnas? (Lugege leibkonnaks need inimesed, kes elavad koos, majandavad ühiselt ja peavad ennast ka ise leibkonnaks).
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Mis aastal Teie sündisite? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Kes ta Teile on? Vastamiseks kasutage kaarti 45.
+
+{ANSWERS}
+Mees/naine/elukaaslane
+Poeg/tütar (sh. võõras-, adopteeritud, kasulaps, elukaaslase laps)
+Vanem, abikaasa vanem, elukaaslase vanem, kasuvanem
+Vend/õde (sh. pool-, adopteeritud, kasu-) 
+Muu sugulane 
+Muu mitte-sugulane 
+
+F6 
+{QUESTION}
+Te ütlesite, et elate koos abikaasa. Milline kirjeldus sellel kaardil iseloomustab Teie suhet kõige paremini?
+
+{ANSWERS}
+Ametlikus abielus 
+Vabaabielu, mis ei ole ametlikult tunnustatud 
+Vabaabielu, mis on ametlikult tunnustatud 
+Ametlikult lahutatud 
+
+F7
+{QUESTION}
+Ja kas ma tohin lihtsalt küsida, kas Te olete kunagi elanud partneriga koos ilma temaga abielus
+olemata?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F8
+{QUESTION}
+Kas Te olete kunagi lahutanud?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F11
+{QUESTION}
+Järgmine küsimus on Teie ametliku perekonnaseisu kohta. Milline järgmistest kirjeldustest kaardil 47 iseloomustab hetkel kõige paremini Teie ametlikku perekonnaseisu?
+
+{ANSWERS}
+Ametlikus abielus 
+Ametlikult lahutatud 
+Lesk 
+Mitte ükski neist (Ei ole kunagi abielus olnud) 
+
+F13 
+{QUESTION}
+Kas Teiega koos ühes leibkonnas on kunagi elanud Teie lapsi, võõraslapsi, adopteeritud lapsi, kasulapsi või elukaaslase lapsi?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F13a 
+{QUESTION}
+Kas Teil on kodus lauatelefon (teie pere kasutuses)?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F14 
+{QUESTION}
+Milline valik kaardil 48 kirjeldab kõige paremini seda kohta, kus te elate?
+
+{ANSWERS}
+...suurlinn 
+...suurlinna eeslinn või ääreala 
+...linn või väikelinn 
+...küla 
+...talu või kodu maakohas 
+
+F15
+{QUESTION}
+Milline on Teie kõrgeim haridustase, mille olete omandanud? Vastamiseks kasutage kaarti 49.
+
+{ANSWERS}
+Alghariduseta (alla 4 klassi) 
+Lõpetatud algharidus (4-6 klassi) 
+Kutseõpe ilma alghariduse lõpetamiseta 
+Lõpetatud põhiharidus (7-9 klassi) 
+Kutseharidus põhihariduse baasil õppekava alla 2 aasta 
+Kutseharidus põhihariduse baasil õppekava 2 aastat või enam 
+Kutseharidus koos keskhariduse omandamisega või keskeri-/tehnikumiharidus pärast põhiharidust 
+Lõpetatud üldkeskharidus 
+Kutseharidus keskhariduse baasil, keskeriharidus või kutsekeskharidus keskhariduse baasil 
+Keskhariduse baasil kutsekõrgkooli, rakenduskõrgkooli diplomiõpe, kuni 2 aastat õpinguid, kuid mitte bakalaureuse kraad.
+Kutsekõrgharidus, rakenduskõrgharidus diplomiõpe või bakalaureus, 3-4 aastat õpingud 
+Ülikooli bakalaureusekraad (3-4 aastat õpinguid) 
+Magistrikraad rakenduskõrgkoolist, kutsekõrgkoolist 
+Magistrikraad (3+2, või 4+2, 5+4 süsteemi järgi, sh integreeritud bakalaureuse- ja magistriõpe), arstiõpe, enne 1992. aastat alustatud kõrgharidus (diplomeeritud spetsialistiõpe)
+Doktorikraad (sh kandidaadikraad) 
+
+F16 
+{QUESTION}
+Mitu õppeaastat on Teil koolis läbitud, võttes arvesse nii osa- kui täiskoormusega õppe? Palun andke vastus täisaastates ja võtke arvesse ka põhikoolis käidud aastaid.
+
+{ANSWERS}
+
+F17a
+{QUESTION}
+Millised järgnevatest kirjeldustest vastavad sellele, mida Te olete viimased 7 päeva teinud? Vastamiseks kasutage kaarti 69. Valige kõik sobivad vastusevariandid.
+
+{ANSWERS}
+Tasustatud tööl või ajutiselt tööst eemal (töövõtja, eraettevõtja, töötate perefirmas) 
+Õpite (tasustamata tööandja poolt) või õpingutest ajutisel puhkusel 
+Töötu ja otsite aktiivselt tööd 
+Töötu, kuid ei otsi aktiivselt tööd 
+Püsivalt töövõimetu või puudega 
+Pensionil 
+Kohustuslikul ühiskondlikult kasulikul tööl või ajateenistuses
+Kodune, hoolitsete laste või kellegi teise eest 
+(MUU) 
+
+F17c
+{QUESTION}
+Milline järgnevatest kirjeldustest kirjeldab kõige paremini Teie olukorda (viimase seitsme päeva jooksul)? Vastamiseks kasutage kaarti 50, valige ainult üks vastusevariant.
+
+{ANSWERS}
+Tasustatud tööl või tööst ajutiselt eemal (töövõtja, eraettevõtja, töötate perefirmas)
+Õpite (tasustamata tööandja poolt) või õpingutest ajutisel puhkusel 
+Töötu ja otsite aktiivselt tööd 
+Töötu, kuid ei otsi aktiivselt tööd 
+Püsivalt töövõimetu või puudega 
+Pensionil 
+Kohustuslikul ühiskondlikult kasulikul tööl või ajateenistuses 
+Kodune, hoolitsete laste või kellegi teise eest 
+(MUU) 
+
+F18
+{QUESTION}
+kontrollida, kas Te tegite viimase seitsme päeva jooksul tasustatud tööd vähemalt ühe tunni või rohkem?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F19 
+{QUESTION}
+Kas Teil on kunagi olnud tasuline töö?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F20 
+{QUESTION}
+Mis aastal Te viimati tegite tasulist tööd?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Oma põhitöökohal olete Te … 
+
+{ANSWERS}
+…palgatöötaja 
+…eraettevõtja 
+…või töötate/töötasite perefirma heaks?
+
+F22 
+{QUESTION}
+Kui palju töötajaid (kui üldse) Teil on? 
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Kas Teie tööleping on … 
+
+{ANSWERS}
+…tähtajatu
+või tähtajaline
+või Teil ei ole / ei olnud lepingut? 
+
+F23a 
+{QUESTION}
+Kui asusite tööle, kas Teie tööandja arvates oli see ... 
+
+{ANSWERS}
+…ajutine või tähtajaline töö, mis kestab vähem kui 12 kuud
+ajutine või tähtajaline töö, mis kestab kauem kui 12 kuud
+või tähtajatu töö? 
+(Muu) 
+
+F24 
+{QUESTION}
+Kaasa arvatud Teie ise, mitu inimest töötab kohas, kus Te tavaliselt töötate?
+
+{ANSWERS}
+alla 10 
+10 kuni 24 
+25 kuni 99 
+100 kuni 499 
+või 500 või rohkem 
+
+F25 
+{QUESTION}
+Kas Te olete oma põhitöökohal vastutav teiste töötajate töö juhendamise või järelevalve eest?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F26 
+{QUESTION}
+Mitme inimese eest olete vastutav?
+
+{ANSWERS}
+
+{INTRO}
+Ma loen ette nimekirja asjadest Teie tööelu kohta. 
+
+F27
+{QUESTION}
+Vastamiseks kasutage kaarti 51. Palun öelge, kui palju juhtkond Teie töökohal võimaldab Teil …otsustada, kuidas oma igapäevane töö organiseerida?
+
+{ANSWERS}
+00 Mul ei ole/ei olnud mingit võimalust
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mul on/oli täielik voli
+
+F28 
+{QUESTION}
+…mõjutada organisatsiooni tegevust reguleerivat poliitikat?
+
+{ANSWERS}
+00 Mul ei ole/ei olnud mingit võimalust
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mul on/oli täielik voli
+
+F28a
+{QUESTION}
+Valida või muuta töötamise kiirust 
+
+{ANSWERS}
+00 Mul ei ole/ei olnud mingit võimalust
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mul on/oli täielik voli
+
+F29 
+{QUESTION}
+Mitu tundi oma põhitöökohal tavaliselt nädalas töötate kui arvate välja kõik tasustatud ja tasustamata ületunnid.
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Mitu tundi oma põhitöökohal tavaliselt nädalas töötate, kui võtate arvesse ka kõik tasustatud ja tasustamata ületunnid?
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Millega firma/ organisatsioon, mille heaks Te töötate, põhiliselt tegeleb? 
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+Millist tüüpi organisatsioonis Te töötate?
+
+{ANSWERS}
+Riigiasutus või kohalik omavalitsus 
+Muu avalik sektor (näiteks haridus, tervishoid) 
+Riigi omandis olev ettevõte 
+Eraettevõte 
+Olen ise endale tööandja 
+Muu 
+
+F33 
+{QUESTION}
+Milline on Teie põhitöökoha või ameti nimetus? 
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+Millist tööd tegite enamasti oma põhitöökohal? 
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Millist koolitust või kvalifikatsiooni on vaja selle töö jaoks? 
+
+{ANSWERS}
+
+F34b 
+{QUESTION}
+Milline nendest põhjustest sellel kaardil kirjeldab kõige paremini peamist eelmise tööandja juurest lahkumise põhjust?
+
+{ANSWERS}
+Ma sain parema töö 
+Ma otsustasin alustada oma ettevõttega/minust sai ettevõtja 
+Mu leping lõppes 
+Mind koondati või vallandati 
+Mu tööandja lõpetas tegevuse 
+Mu enda ettevõte/perefirma lõpetas tegevuse või müüdi 
+Haigus või terviserike 
+Jäin pensionile 
+Isiklikel või perekonnaga seotud põhjustel 
+Muu 
+Kunagi pole tööandja juurest lahkunud 
+
+F35 
+{QUESTION}
+Kas Te olete viimase 10 aasta jooksul teinud vähemalt kuus kuud või kauem mis tahes tasulist tööd mõnes teises riigis?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F36 
+{QUESTION}
+Kas Te olete kunagi olnud töötu ja otsinud tööd kauem kui kolm kuud?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F37 
+{QUESTION}
+Kas mõni tööta perioodidest on kestnud 12 kuud või kauem?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F38 
+{QUESTION}
+Kas mõni 3 või enam kuud kestnud sellistest tööta perioodidest on olnud viimase 5 aasta jooksul?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F39 
+{QUESTION}
+Kas olete praegu või olete kunagi olnud ametiühingu või mõne samalaadse organisatsiooni liige? Kui jah, siis kas see on praegu või on olnud varem?
+
+{ANSWERS}
+Jah, praegu 
+Jah, varem 
+Ei 
+
+F40 
+{QUESTION}
+Milline on Teie leibkonna põhiline sissetulekuallikas? Palun võtke arvesse kõikide leibkonnaliikmete kõiki sissetulekuallikaid. Vastamiseks kasutage kaarti 54.
+
+{ANSWERS}
+Palk või töötasu 
+Sissetulek eraettevõtjana (välja arvatud põllumajandus) 
+Sissetulek põllumajandusest 
+Pension 
+Töötu abiraha / koondamistasu /töötuskindlustushüvitis 
+Mõni muu sotsiaaltoetus või abiraha 
+Sissetulek investeeringutelt, säästudelt, kindlustusest või kinnisvarast 
+Sissetulek muudest allikatest 
+
+
+F41A 
+Liites kokku sissetuleku kõikidest sissetulekuallikatest (nii ametlik kui mitteametlik palk, pension, toetus- ja abirahad jne), siis mis oli Teie leibkonna kogu netosissetulek (st puhtalt kätte saadud raha, kust on maksud ära makstud)? Kui Te ei oska öelda täpset numbrit, siis palun andke orienteeruv hinnang. Kasutage kaardilt 55 varianti, mille kohta oskate kõige täpsemalt öelda (kas nädala, kuu või aasta andmeid).
+
+{ANSWERS}
+NÄDALAS
+J 0 – 890
+R 890 – 1070
+C 1070 – 1520
+M 1520- 1820
+F 1820 – 2240
+S 2240- 2730
+K 2730 – 3290
+P 3290 – 4200
+D 4200 – 5650
+H 5650 ja enam
+
+F41B 
+Liites kokku sissetuleku kõikidest sissetulekuallikatest (nii ametlik kui mitteametlik palk, pension, toetus- ja abirahad jne), siis mis oli Teie leibkonna kogu netosissetulek (st puhtalt kätte saadud raha, kust on maksud ära makstud)? Kui Te ei oska öelda täpset numbrit, siis palun andke orienteeruv hinnang. Kasutage kaardilt 55 varianti, mille kohta oskate kõige täpsemalt öelda (kas nädala, kuu või aasta andmeid).
+
+{ANSWERS}
+KUUS
+J 0 – 3800
+R 3800- 4600
+C 4600-6500
+M 6500-7800
+F 7800-9600
+S 9600-11700
+K 11700-14100
+P 14100-18000
+D 18000-24200
+H 24200 ja enam
+
+F41C 
+Liites kokku sissetuleku kõikidest sissetulekuallikatest (nii ametlik kui mitteametlik palk, pension, toetus- ja abirahad jne), siis mis oli Teie leibkonna kogu netosissetulek (st puhtalt kätte saadud raha, kust on maksud ära makstud)? Kui Te ei oska öelda täpset numbrit, siis palun andke orienteeruv hinnang. Kasutage kaardilt 55 varianti, mille kohta oskate kõige täpsemalt öelda (kas nädala, kuu või aasta andmeid).
+
+{ANSWERS}
+AASTAS
+J 0 - 46200
+R 46200 - 56000
+C 56000 - 79000
+M 79000 - 94900
+F 94900 - 116800
+S 116800 – 142400
+K 142400 - 171600
+P 171600 - 219000
+D 219000 - 294400
+H 294400 ja enam
+
+F41a 
+{QUESTION}
+Umbes kui suure osa leibkonna sissetulekust toote sisse Teie? Vastamiseks kasuta kaarti 56.
+
+{ANSWERS}
+Mitte midagi 
+Väga väikse 
+Alla poole 
+Umbes pool 
+Üle poole 
+Väga suure 
+Kõik 
+
+F42
+{QUESTION}
+Milline järgnevatest kirjeldustest vastab Teie arvates kõige paremini Teie leibkonna praegusele sissetulekute tasemele? Vastamiseks kasutage kaarti 57.
+
+{ANSWERS}
+Elan /elame mugavalt praeguse sissetuleku juures 
+Saame hakkama praeguse sissetuleku juures 
+Praeguse sissetuleku juures on raske hakkama saada 
+Praeguse sissetuleku juures on väga raske hakkama saada 
+
+F43 
+{QUESTION}
+Kui Te mingil põhjusel satuksite rahalistesse raskustesse ja peaksite raha laenama, et “ots otsaga kokku tulla”, kui rKÜSIe või kerge see Teie jaoks oleks? Vastamiseks kasutage kaarti 58.
+
+{ANSWERS}
+Väga raske 
+Küllaltki raske 
+Ei kerge ega raske 
+Küllaltki kerge
+Väga kerge 
+
+F45 
+{QUESTION}
+Milline on kõrgeim haridustase, mille Teie abikaasa, partner on omandanud? Vastamiseks kasutage kaarti 59.
+
+{ANSWERS}
+Alghariduseta (alla 4 klassi) 
+Lõpetatud algharidus (4-6 klassi) 
+Kutseõpe ilma alghariduse lõpetamiseta 
+Lõpetatud põhiharidus (7-9 klassi) 
+Kutseharidus põhihariduse baasil õppekava alla 2 aasta 
+Kutseharidus põhihariduse baasil õppekava 2 aastat või enam 
+Kutseharidus koos keskhariduse omandamisega või keskeri-/tehnikumiharidus pärast põhiharidust 
+Lõpetatud üldkeskharidus 
+Kutseharidus keskhariduse baasil, keskeriharidus või kutsekeskharidus keskhariduse baasil 
+Keskhariduse baasil kutsekõrgkooli, rakenduskõrgkooli diplomiõpe, kuni 2 aastat õpinguid, kuid mitte bakalaureuse kraad.
+Kutsekõrgharidus, rakenduskõrgharidus diplomiõpe või bakalaureus, 3-4 aastat õpingud 
+Ülikooli bakalaureusekraad (3-4 aastat õpinguid) 
+Magistrikraad rakenduskõrgkoolist, kutsekõrgkoolist 
+Magistrikraad (3+2, või 4+2, 5+4 süsteemi järgi, sh integreeritud bakalaureuse- ja magistriõpe), arstiõpe, enne 1992. aastat alustatud kõrgharidus (diplomeeritud spetsialistiõpe)
+Doktorikraad (sh kandidaadikraad) 
+
+F46a
+{QUESTION}
+Milline kaardil olevatest kirjeldustest vastab kõige paremini tema viimase 7 päeva tegevusele? Vastamiseks kasutage kaarti 60. Nimetage kõik sobivad vastusevariandid.
+
+{ANSWERS}
+Tasustatud tööl (või tööst ajutiselt eemal) (töövõtja, eraettevõtja, töötab perefirmas) 
+Õpib (tasustamata tööandja poolt) või õpingutest ajutisel puhkusel 
+Töötu ja otsib aktiivselt tööd 
+Töötu, kuid ei otsi aktiivselt tööd 
+Püsivalt töövõimetu või puudega 
+Pensionil 
+Kohustuslikul ühiskondlikult kasulikul tööl või ajateenistuses
+Kodune, hoolitseb laste või kellegi teise eest 
+(MUU) 
+
+F46c 
+{QUESTION}
+Milline kaardil olevatest kirjeldustest vastab kõige paremini tema viimase 7 päeva tegevusele? Vastamiseks kasutage kaarti 60. Valige ainult üks vastus
+
+{ANSWERS}
+Tasustatud tööl (või ajutiselt tööst eemal) (töövõtja, eraettevõtja, töötab perefirmas) 
+Õpib (tasustamata tööandja poolt) või õpingutest ajutisel puhkusel 
+Töötu ja otsib aktiivselt tööd 
+Töötu, kuid ei otsi aktiivselt tööd 
+Püsivalt töövõimetu või puudega 
+Pensionil 
+Kohustuslikul ühiskondlikult kasulikul tööl või ajateenistuses
+Kodune, hoolitseb laste või kellegi teise eest 
+(MUU) 
+
+F47 
+{QUESTION}
+Lihtsalt kontrolliks - kas ta on teinud mingisugust palgatööd (1 tund või rohkem) viimase 7 päeva jooksul?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F48 
+{QUESTION}
+Milline on põhitöökohal tema ametinimetus? 
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Mis laadi tööd ta enamasti oma põhitöökohal teeb? 
+
+{ANSWERS}
+
+F50
+{QUESTION}
+Missugust koolitust või kvalifikatsiooni on vaja selle töö jaoks? 
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+Oma põhitöökohal on ta… 
+
+{ANSWERS}
+… palgatöötaja 
+… eraettevõtja 
+… või töötab perefirmas?
+
+F52 
+{QUESTION}
+Kui palju töötajaid tal on? 
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Kas ta on oma põhitöökohal vastutav teiste töötajate töö juhendamise ja järelevalve eest?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F54 
+{QUESTION}
+Kui mitme inimese töö eest ta vastutav on? 
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Mitu tundi ta tavaliselt nädalas kokku (oma põhitöökohal) töötab? Palun arvutage sisse igasugune
+tasustatav ja mittetasustatav ületunnitöö.
+
+{ANSWERS}
+
+F58
+{QUESTION}
+Milline on kõrgeim haridustase, mille Teie isa on omandanud? Vastamiseks kasutage kaarti 61.
+
+{ANSWERS}
+Alghariduseta (alla 4 klassi) 
+Lõpetatud algharidus (4-6 klassi) 
+Kutseõpe ilma alghariduse lõpetamiseta 
+Lõpetatud põhiharidus (7-9 klassi) 
+Kutseharidus põhihariduse baasil õppekava alla 2 aasta 
+Kutseharidus põhihariduse baasil õppekava 2 aastat või enam 
+Kutseharidus koos keskhariduse omandamisega või keskeri-/tehnikumiharidus pärast põhiharidust 
+Lõpetatud üldkeskharidus 
+Kutseharidus keskhariduse baasil, keskeriharidus või kutsekeskharidus keskhariduse baasil 
+Keskhariduse baasil kutsekõrgkooli, rakenduskõrgkooli diplomiõpe, kuni 2 aastat õpinguid, kuid mitte bakalaureuse kraad.
+Kutsekõrgharidus, rakenduskõrgharidus diplomiõpe või bakalaureus, 3-4 aastat õpingud 
+Ülikooli bakalaureusekraad (3-4 aastat õpinguid) 
+Magistrikraad rakenduskõrgkoolist, kutsekõrgkoolist 
+Magistrikraad (3+2, või 4+2, 5+4 süsteemi järgi, sh integreeritud bakalaureuse- ja magistriõpe), arstiõpe, enne 1992. aastat alustatud kõrgharidus (diplomeeritud spetsialistiõpe)
+Doktorikraad (sh kandidaadikraad) 
+
+F59 
+{QUESTION}
+Kui Te olite 14 aastat vana, kas Teie isa oli palgatöötaja, eraettevõtja või ei töötanud ta sel ajal üldse?
+
+{ANSWERS}
+Palgatöötaja 
+Eraettevõtja 
+Ei töötanud
+(ISA OLI SURNUD/PUUDUS5, KUI VASTAJA OLI 14 AASTANE)
+
+F60 
+{QUESTION}
+Kui palju töötajaid tal oli?
+
+{ANSWERS}
+Mitte ühtegi
+1 kuni 24
+25 või rohkem
+
+F61 
+{QUESTION}
+Kas ta oli vastutav teiste töötajate töö juhendamise ja järelevalve eest?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F62 
+{QUESTION}
+Milline oli põhitöökohal tema ametinimetus? 
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Millised käesoleval kaardil toodud kirjeldustest kirjeldavad kõige paremini seda tööd, mida Teie isa tegi siis, kui Te olite 14 aastane? Vastamiseks kasutage kaarti 62.
+
+{ANSWERS}
+Ametid, mis nõuavad professionaalset erialast ettevalmistust nagu: arst – õpetaja – insener – artist
+Kõrgema juhtimisega seotud ametid nagu: pankur – juhataja suuremates ettevõtetes – kõrgem riigiametnik
+Kontoriametid nagu: sekretär – personaalne assistent – kontoritöötaja
+Müügiametid Nagu: müügijuht- poe omanik- müüja- kindlustusagent
+Teenindusega seotud ametid Restorani pidaja – politseinik – kelner – hooldustöötaja – juuksur – sõjaväelane
+Oskustöölised nagu: masinaoperaator – elektrik 
+Pooloskustöölised nagu: müüriladuja - bussijuht – puusepp – pagar 
+Oskusteta töölised nagu: erioskusteta vabrikutööline, ettekandja- valvur- ukse hoidja- koristaja
+Põllutööline nagu: talunik, põllutööline, traktorist, kalur 
+
+F64
+{QUESTION}
+Milline on kõrgeim haridustase, mille Teie ema on omandanud? Vastamiseks kasutage kaarti 63.
+
+{ANSWERS}
+Alghariduseta (alla 4 klassi) 
+Lõpetatud algharidus (4-6 klassi) 
+Kutseõpe ilma alghariduse lõpetamiseta 
+Lõpetatud põhiharidus (7-9 klassi) 
+Kutseharidus põhihariduse baasil õppekava alla 2 aasta 
+Kutseharidus põhihariduse baasil õppekava 2 aastat või enam 
+Kutseharidus koos keskhariduse omandamisega või keskeri-/tehnikumiharidus pärast põhiharidust 
+Lõpetatud üldkeskharidus 
+Kutseharidus keskhariduse baasil, keskeriharidus või kutsekeskharidus keskhariduse baasil 
+Keskhariduse baasil kutsekõrgkooli, rakenduskõrgkooli diplomiõpe, kuni 2 aastat õpinguid, kuid mitte bakalaureuse kraad.
+Kutsekõrgharidus, rakenduskõrgharidus diplomiõpe või bakalaureus, 3-4 aastat õpingud 
+Ülikooli bakalaureusekraad (3-4 aastat õpinguid) 
+Magistrikraad rakenduskõrgkoolist, kutsekõrgkoolist 
+Magistrikraad (3+2, või 4+2, 5+4 süsteemi järgi, sh integreeritud bakalaureuse- ja magistriõpe), arstiõpe, enne 1992. aastat alustatud kõrgharidus (diplomeeritud spetsialistiõpe)
+Doktorikraad (sh kandidaadikraad) 
+
+F65 
+{QUESTION}
+Kui Te olite 14 aastat vana, kas Teie ema oli palgatöötaja, eraettevõtja või ei töötanud ta sel ajal üldse?
+
+{ANSWERS}
+Palgatöötaja 
+Eraettevõtja 
+Ei töötanud
+(EMA OLI SURNUD/PUUDUS6 KUI VASTAJA OLI 14)
+
+F66 
+{QUESTION}
+Kui palju töötajaid tal oli?
+
+{ANSWERS}
+Mitte ühtegi
+1 kuni 24
+25 või rohkem
+
+F67 
+{QUESTION}
+Kas ta oli vastutav teiste töötajate töö üle järelevalve teostamise eest?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F68 
+{QUESTION}
+Milline oli põhitöökohal tema ametinimetus? 
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Millised käesoleval kaardil toodud kirjeldustest kirjeldavad kõige paremini tööd, mida Teie ema tegi siis, kui Te olite 14 aastane? Vastamiseks kasutage kaarti 64.
+
+{ANSWERS}
+Ametid, mis nõuavad professionaalset erialast ettevalmistust nagu: arst – õpetaja – insener – artist
+Kõrgema juhtimisega seotud ametid nagu: pankur – juhataja suuremates ettevõtetes – kõrgem riigiametnik
+Kontoriametid nagu: sekretär – personaalne assistent – kontoritöötaja
+Müügiametid Nagu: müügijuht- poe omanik- müüja- kindlustusagent
+Teenindusega seotud ametid Resorani pidaja – poltseinik – kelner – hooldustöötaja – juuksur – sõjaväelane
+Oskustöölised nagu: masinaoperaator – elektrik
+Pooloskustöölised nagu: müüriladuja - bussijuht – puusepp – pagar
+Oskusteta töölised nagu: erioskusteta vabrikutööline, ettekandja- valvur- ukse hoidja- koristaja
+Põllutööline nagu: talunik, põllutööline, traktorist, kalur
+
+F70 
+{QUESTION}
+Kas Te olete oma tööalaste teadmiste või oskuste parandamiseks viimase 12 kuu jooksul osalenud mõnel kursusel, loengul või konverentsil?
+
+{ANSWERS}
+Jah 
+Ei 
+
+F70a 
+{QUESTION}
+Mitu päeva kokku Te osalesite hariduslikel kursustel, loengutel koverentsil viimase 12 kuu jooksul? Palun arvestage kaks poolikut päeva ühe täispäevana.
+
+{ANSWERS}
+
+F70b 
+{QUESTION}
+Nüüd palun mõelge mida te õppisite nendel kursustel, loengutel, konverentsidel Kui kasulik see, mida õppisite oleks, kui tahaksite minna tööle teise tööandja juurde või firmasse? Palun kasutage kaarti 65.
+
+{ANSWERS}
+Väga kasulik 
+Üsna kasulik 
+Mitte väga kasulik 
+Üldse mitte kasulik 
+
+F70c 
+{QUESTION}
+Kui suure osa selles õppest, koolitusest maksis Teie tööandja, asutus? Palun kasutage kaarti 66.
+
+{ANSWERS}
+Kõik 
+Enamuse 
+Umbes poole 
+Osa 
+Mitte midagi 
+
+

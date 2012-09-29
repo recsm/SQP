@@ -1,0 +1,1808 @@
+﻿A1 
+{QUESTION}
+Kolik času celkově strávíte během průměrného všedního dne sledováním televize? K odpovědi použijte prosím tuto kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A2 
+{QUESTION}
+Ještě jednou k Vašemu průměrnému všednímu dni. Kolik z času, který věnujete sledování televize, strávíte
+sledováním zpráv nebo programů o politice a současných událostech? Opět použijte tuto kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A3 
+{QUESTION}
+Kolik času celkově strávíte během průměrného všedního dne posloucháním rádia? Použijte stejnou kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A4 OPĚT KARTA 1
+{QUESTION}
+Ještě jednou k Vašemu průměrnému všednímu dni. Kolik z času, který věnujete poslechu rádia, strávíte poslechem zpráv nebo programů o politice a současných událostech? Opět použijte tuto kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A5
+{QUESTION}
+Kolik času celkově strávíte během průměrného všedního dne čtením novin? Použijte znovu tuto kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A6 
+{QUESTION}
+A kolik z tohoto času čtete o politice a současných událostech? Opět použijte tuto kartu.
+
+{ANSWERS}
+Vůbec žádný čas 
+Méně než ½ hodiny
+½ hodiny až 1 hodinu
+Více než 1 hodinu, ale ne více než 1,5 hodiny
+Více než 1,5 hodiny, ale ne více než 2 hodiny
+Více než 2 hodiny, ale ne více než 2,5 hodiny
+Více než 2,5 hodiny, ale ne více než 3 hodiny
+Více než 3 hodiny
+
+A7 
+{QUESTION}
+Jak často – ať doma či v práci - používáte internet, World Wide Web nebo e-mail k soukromým účelům? Nyní použijte kartu 2.
+
+{ANSWERS}
+Nemám k nim přístup ani doma, ani v práci
+Nikdy
+Méně než jednou za měsíc
+Jednou za měsíc
+Několikrát za měsíc
+Jednou týdně
+Několikrát týdně
+Každý den
+
+A8 
+{QUESTION}
+Obecně vzato, řekl byste, že se většině lidí dá důvěřovat, nebo že člověk nemůže být při jednání s lidmi nikdy dost opatrný? Odpovězte mi s použitím stupnice 0 až 10, kde 0 znamená, že člověk nemůže být nikdy dost opatrný a 10 znamená, že většině lidí se dá důvěřovat. Použijte tuto kartu 3
+
+{ANSWERS}
+00 Člověk nemůže být nikdy dost opatrný
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Většině lidí se dá důvěřovat
+
+
+
+A9 
+{QUESTION}
+Myslíte si, že by se Vás většina lidí snažila podvést, pokud by měli tu možnost, nebo by se snažili být poctiví? Použijte kartu 4.
+
+{ANSWERS}
+00 Většina lidí by se mě snažila podvést
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Většina lidí by se snažila být poctivá
+
+A10 KARTA 5
+{QUESTION}
+Řekl byste, že se lidé většinou snaží pomáhat druhým, nebo že se většinou starají o sebe? Použijte prosím kartu 5.
+
+{ANSWERS}
+00 Lidé se většinou starají o sebe
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lidé se většinou snaží pomáhat
+
+{INTRO}
+Nyní Vám chceme položit několik otázek týkajících se politiky a vlády
+
+B1 
+{QUESTION}
+Jak moc se zajímáte o politiku? Zajímáte se o ni… 
+
+{ANSWERS}
+velmi,
+dost,
+jen trochu,
+nebo vůbec ne?
+
+B2 
+{QUESTION}
+Jak často se politika zdá být tak složitá, že vlastně nemůžete pochopit, co se děje? Použijte prosím kartu 6.
+
+{ANSWERS}
+Nikdy
+Zřídka
+Občas
+Pravidelně
+Často
+
+B3 
+{QUESTION}
+Jak je pro Vás těžké či lehké udělat si názor na politické otázky? Použijte prosím kartu 7.
+
+{ANSWERS}
+Velmi těžké
+Těžké
+Ani těžké, ani lehké
+Lehké
+Velmi lehké
+
+B4 
+{QUESTION}
+Použijte tuto kartu. Řekněte mi prosím s použitím stupnice 0 - 10 jak moc Vy osobně důvěřujete institucím, které budu číst nahlas. 0 znamená, že instituci vůbec nedůvěřujete, 10 znamená, že jí naprosto důvěřujete. Zaprvé… českému Parlamentu?
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B5 
+{QUESTION}
+... právnímu systému? 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B6 
+{QUESTION}
+... policii? 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B7 
+{QUESTION}
+... politikům? 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B8 
+{QUESTION}
+…politickým stranám 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B9 
+{QUESTION}
+... Evropskému parlamentu? 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+B10 
+{QUESTION}
+... Organizaci spojených národů? 
+
+{ANSWERS}
+00 Vůbec žádná důvěra
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprostá důvěra
+
+
+B11 
+{INTRO}
+V dnešní době se někteří lidé z takového či onakého důvodu neúčastní voleb. 
+
+{QUESTION}
+Volil jste v posledních volbách do Poslanecké sněmovny Parlamentu České republiky v červnu 2002?
+
+{ANSWERS}
+Ano
+Ne 
+Nebyl(a) jsem oprávněn(a) volit 
+
+B12 
+{QUESTION}
+Kterou politickou stranu jste v těchto volbách volil?
+
+{ANSWERS}
+Česká strana sociálně demokratická (ČSSD)
+Občanská demokratická aliance (ODA)
+Naděje
+Republikáni Miroslava Sládka (RMS)
+Česká strana národně sociální (ČSNS)
+Strana venkova – spojené občanské síly (SV – SOS)
+Sdružení nezávislých (SNK)
+Občanská demokratická strana (ODS)
+Komunistická strana Čech a Moravy (KSČM)
+Koalice KDU-ČSL, US-DEU
+Strana za životní jistoty (SŽJ)
+Pravý Blok (PB)
+Strana zelených (SZ)
+Jiná (Vypište)
+
+{INTRO}
+Existují různé způsoby, jakými se lze pokoušet zlepšit různé záležitosti v České republice nebo jakými lze
+předejít jejich zhoršování. 
+
+B13 
+{QUESTION}
+Udělal jste v posledních 12 měsících některou z následujících věcí? Obrátil se na politika, úředníka státní správy či místní samosprávy 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B14 
+{QUESTION}
+Pracoval v politické straně či aktivistické skupině 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B15 
+{QUESTION}
+Pracoval v jiné organizaci či sdružení 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B16 
+{QUESTION}
+Nosil nebo veřejně vystavila znak nějaké kampaně 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B17 
+{QUESTION}
+Podepsal petici 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B18 
+{QUESTION}
+Účastnil se legální veřejné demonstrace 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B19 
+{QUESTION}
+Bojkotoval určité zboží 
+
+{ANSWERS}
+Ano 
+Ne 
+
+B20a 
+{QUESTION}
+Existuje nějaká politická strana, ke které máte blíže než k ostatním stranám?
+
+{ANSWERS}
+Ano 
+Ne 
+
+B20b 
+{QUESTION}
+Která to je?
+
+{ANSWERS}
+Česká strana sociálně demokratická (ČSSD)
+Občanská demokratická aliance (ODA)
+Naděje
+Republikáni Miroslava Sládka (RMS)
+Česká strana národně sociální (ČSNS)
+Strana venkova – spojené občanské síly (SV – SOS)
+Sdružení nezávislých (SNK)
+Občanská demokratická strana (ODS)
+Komunistická strana Čech a Moravy (KSČM)
+Křesťanská a demokratická unie – Československá strana lidová (KDU-ČSL)
+Unie svobody – Demokratická unie (US-DEU)
+Strana za životní jistoty (SŽJ)
+Pravý Blok (PB)
+Strana zelených (SZ)
+Jiná (Vypište)
+
+B20c 
+{QUESTION}
+Jak blízko k této straně máte? Myslíte si, že k ní máte...
+
+{ANSWERS}
+velmi blízko,
+docela blízko,
+nepříliš blízko,
+nebo vůbec ne blízko?
+
+B21 
+{QUESTION}
+Jste členem nějaké politické strany?
+
+{ANSWERS}
+Ano
+Ne
+
+B22 
+{QUESTION}
+Které strany jste členem?
+
+{ANSWERS}
+Česká strana sociálně demokratická (ČSSD)
+Občanská demokratická aliance (ODA)
+Naděje
+Republikáni Miroslava Sládka (RMS)
+Česká strana národně sociální (ČSNS)
+Strana venkova – spojené občanské síly (SV – SOS)
+Sdružení nezávislých (SN)
+Občanská demokratická strana (ODS)
+Komunistická strana Čech a Moravy (KSČM)
+Křesťanská a demokratická unie – Československá strana lidová (KDU-ČSL)
+Unie svobody – Demokratická unie (US-DEU)
+Strana za životní jistoty (SŽJ)
+Pravý Blok (PB)
+Strana zelených (SZ)
+Jiná (Vypište)
+
+B23 
+{INTRO}
+V politice lidé někdy hovoří o „levici“ a „pravici“. 
+
+{QUESTION}
+Použijte tuto kartu a řekněte mi, kam byste se umístil na této stupnici, kde 0 znamená levici, a 10 znamená pravici.
+
+{ANSWERS}
+00 Levice 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pravice (Neví)
+
+B24 
+{QUESTION}
+Když vezmete v úvahu všechny okolnosti, jak jste v současnosti celkově spokojen se svým životem? Odpovězte mi prosím s použitím této karty, kde 0 znamená naprosto nespokojený a 10 naprosto spokojený.
+
+{ANSWERS}
+00 Naprosto nespokojený(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto spokojený(á) 
+
+B25 
+{QUESTION}
+Jak jste celkově spokojen se současným stavem ekonomiky v České republice? Opět použijte tuto kartu.
+
+{ANSWERS}
+00 Naprosto nespokojený(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto spokojený(á) 
+
+B26 
+{QUESTION}
+Nyní se zamyslete nad vládou České republiky. Jak jste spokojen s tím, jak dělá svou práci? Opět použijte
+kartu 10.
+
+{ANSWERS}
+00 Naprosto nespokojený(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto spokojený(á) 
+
+B27 
+{QUESTION}
+A jak jste celkově spokojen s tím, jak funguje demokracie v České republice? Opět použijte tuto kartu.
+
+{ANSWERS}
+00 Naprosto nespokojený(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto spokojený(á) 
+
+B28 
+{QUESTION}
+Nyní s použitím této karty prosím řekněte, co si celkově myslíte o současném stavu vzdělávání v ČR?
+
+{ANSWERS}
+00 Naprosto špatný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto dobrý (Neví)
+
+B29 
+{QUESTION}
+Opět s použitím této karty prosím řekněte, co si celkově myslíte o současném stavu zdravotnictví v ČR.
+
+{ANSWERS}
+00 Naprosto špatný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Naprosto dobrý (Neví)
+
+KARTA 12
+B30 
+{QUESTION}
+S použitím této karty prosím řekněte, do jaké míry souhlasíte či nesouhlasíte s každým z následujících výroků. Vláda by měla přijmout opatření, která by snižovala rozdíly v příjmech.
+
+{ANSWERS}
+Rozhodně souhlasím
+Spíše souhlasím
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím
+Rozhodně nesouhlasím
+
+B31 
+{QUESTION}
+Homosexuálové a lesbičky by měli mít právo žít svůj vlastní život podle svého přání. 
+
+{ANSWERS}
+Rozhodně souhlasím
+Spíše souhlasím
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím
+Rozhodně nesouhlasím
+
+B32 
+{QUESTION}
+Politické strany, které chtějí svrhnout demokracii, by měly být zakázány. 
+
+{ANSWERS}
+Rozhodně souhlasím
+Spíše souhlasím
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím
+Rozhodně nesouhlasím
+
+B33 
+{QUESTION}
+Lze se spolehnout na to, že moderní věda vyřeší naše problémy s životním prostředím. 
+
+{ANSWERS}
+Rozhodně souhlasím
+Spíše souhlasím
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím
+Rozhodně nesouhlasím
+
+B34 
+{QUESTION}
+Nyní se zaměříme na Evropskou unii. Někteří říkají, že by evropské sjednocování mělo dále pokračovat. Jiní říkají, že už zašlo příliš daleko. Použijte tuto kartu. Jaké číslo na této stupnici nejlépe odpovídá Vašemu postoji?
+
+{ANSWERS}
+00 Sjednocování zašlo příliš daleko
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Sjednocování by mělo dále pokračovat
+
+{INTRO}
+Nyní několik otázek o lidech, kteří z jiných zemí přicházejí žít do České republiky.
+
+B35 
+{QUESTION}
+Nyní s použitím této karty řekněte, do jaké míry by podle Vás měla Česká republika dovolit, aby sem přicházeli a žili zde lidé stejné rasy nebo stejného etnika jako je většina českých lidí? Měla by…
+
+{ANSWERS}
+dovolit hodně lidem, aby sem přicházeli a žili tady
+dovolit to některým
+dovolit to malému počtu
+nedovolit to nikomu
+
+B36 
+{QUESTION}
+A co lidem jiné rasy nebo etnické skupiny než je většina českých lidí? Opět použijte tuto kartu.
+
+{ANSWERS}
+dovolit hodně lidem, aby sem přicházeli a žili tady
+dovolit to některým
+dovolit to malému počtu
+nedovolit to nikomu
+
+B37 
+{QUESTION}
+A co lidem z chudších mimoevropských zemí? Použijte stejnou kartu.
+
+{ANSWERS}
+dovolit hodně lidem, aby sem přicházeli a žili tady
+dovolit to některým
+dovolit to malému počtu
+nedovolit to nikomu
+
+B38 
+{QUESTION}
+Řekl byste, že pro českou ekonomiku je obecně špatné nebo dobré, že sem přicházejí žít lidé z jiných zemí? Použijte prosím tuto kartu.
+
+{ANSWERS}
+00 Špatné pro ekonomiku 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dobré pro ekonomiku (Neví)
+
+B39 
+{QUESTION}
+A nyní použijte tuto kartu. Řekl byste, že lidé z jiných zemí, kteří sem přicházejí žít, většinou narušují nebo obohacují kulturu České republiky?
+
+{ANSWERS}
+00 Narušují kulturu 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Obohacují kulturu 
+
+D40 
+{QUESTION}
+Dělají lidé z jiných zemí, kteří sem přicházejí žít z České republiky lepší či horší místo pro život? Použijte prosím tuto kartu.
+
+{ANSWERS}
+00 Horší místo pro život 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lepší místo pro život 
+
+
+{INTRO}
+A nyní několik otázek, které se týkají Vás a Vašeho života.
+
+C1 
+{QUESTION}
+Když vezmete v úvahu všechny okolnosti, jak byste řekl, že jste šťastný? Použijte prosím tuto kartu.
+
+{ANSWERS}
+00 Zcela nešťastný(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Zcela šťastný(á) (Neví)
+
+C2 
+{QUESTION}
+Použijte tuto kartu. Jak často se ve svém volném čase společensky scházíte s přáteli, příbuznými či kolegy?
+
+{ANSWERS}
+Nikdy
+Méně než jednou za měsíc
+Jednou za měsíc
+Několikrát za měsíc
+Jednou týdně
+Několikrát týdně
+Každý den
+
+C3 
+{QUESTION}
+Máte někoho, s kým můžete hovořit o intimních a osobních záležitostech?
+
+{ANSWERS}
+Ano
+Ne
+
+C4 
+{QUESTION}
+Ve srovnání s jinými lidmi Vašeho věku, jak často se ve svém volném čase účastníte společenských aktivit? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Mnohem méně než většina lidí mého věku
+Méně než většina lidí mého věku
+Přibližně stejně jako lidé mého věku
+Více než většina lidí mého věku
+Mnohem více než většina lidí mého věku
+
+C5 
+{QUESTION}
+Stal jste se Vy nebo člen Vaší domácnosti během posledních pěti let obětí loupeže, vloupání či fyzického napadení?
+
+{ANSWERS}
+Ano
+Ne
+
+C6 
+{QUESTION}
+Jak bezpečně se cítíte – nebo byste se cítil – po setmění na tomto místě sám? Cítíte se – nebo cítil byste se …
+
+{ANSWERS}
+velmi bezpečně
+bezpečně
+v nebezpečí
+velmi v nebezpečí
+
+C7 
+{QUESTION}
+Jaký je Váš celkový zdravotní stav? Řekl byste, že je … 
+
+{ANSWERS}
+velmi dobrý
+dobrý
+uspokojivý
+špatný
+nebo velmi špatný?
+
+C8 
+{QUESTION}
+Omezuje Vás nějakým způsobem ve Vašich každodenních aktivitách nějaká dlouhodobá nemoc, zdravotní omezení, handicap či psychický zdravotní problém? Pokud ano, omezuje Vás hodně nebo jen do určité míry?
+
+{ANSWERS}
+Ano, hodně
+Ano, do určité míry
+Ne
+
+C9 
+{QUESTION}
+Hlásíte se k nějakému konkrétnímu náboženství či církvi?
+
+{ANSWERS}
+Ano
+Ne
+
+C10 
+{QUESTION}
+Ke které?
+
+{ANSWERS}
+Církev římskokatolická
+Českobratrská církev evangelická
+Církev československá husitská
+Církev řeckokatolická
+Pravoslavná církev
+Evangelická církev augsburského vyznání (Slezská evangelická církev)
+Církev bratrská
+Církev adventistů sedmého dne
+Náboženská společnost Svědkové Jehovovi
+Slovenská evangelická církev
+Evangelická metodistická církev
+Jiné křesťanské 
+Jiné nekřesťanské 
+
+C11 
+{QUESTION}
+Hlásil jste se někdy k nějakému konkrétnímu náboženstvím či církvi?
+
+{ANSWERS}
+Ano
+Ne
+
+C12 
+{QUESTION}
+Ke kterému?
+
+{ANSWERS}
+Církev římskokatolická
+Českobratrská církev evangelická
+Církev československá husitská
+Církev řeckokatolická
+Pravoslavná církev
+Evangelická církev augsburského vyznání (Slezská evangelická církev)
+Církev bratrská
+Církev adventistů sedmého dne
+Náboženská společnost Svědkové Jehovovi
+Slovenská evangelická církev
+Evangelická metodistická církev
+Jiné křesťanské 
+Jiné nekřesťanské 
+
+C13 
+{QUESTION}
+Bez ohledu na to, zda se hlásíte k nějakému konkrétnímu náboženství, jak jste zbožný? Použijte prosím tuto kartu.
+
+{ANSWERS}
+00 Vůbec nejsem zbožný(á) 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Jsem velmi zbožný(á) (Neví)
+
+C14 
+{QUESTION}
+Kromě zvláštních událostí jako jsou svatby a pohřby, jak asi často navštěvujete v současnosti bohoslužby? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Každý den
+Častěji než jednou týdně
+Jednou týdně
+Nejméně jednou měsíčně
+Jen o zvláštních svátcích
+Méně často
+Nikdy
+
+C15 
+{QUESTION}
+Jak často – pokud vůbec – se modlíte mimo okamžiky, kdy jste na bohoslužbách? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Každý den
+Častěji než jednou týdně
+Jednou týdně
+Nejméně jednou měsíčně
+Jen o zvláštních svátcích
+Méně často
+Nikdy
+
+C16 
+{QUESTION}
+Označil byste se za příslušníka skupiny, která je v této zemi diskriminována?
+
+{ANSWERS}
+Ano 
+Ne 
+
+C17 
+{QUESTION}
+Na čem je diskriminace Vaší skupiny založena? 
+
+{ANSWERS}
+Na barvě pleti nebo rase
+Národnosti
+Náboženství
+Jazyku
+Etnické skupině
+Věku
+Pohlaví
+Sexuální orientaci
+Zdravotním postižení
+Jiné 
+
+C18 
+{QUESTION}
+Jste občanem České republiky?
+
+{ANSWERS}
+Ano 
+Ne 
+
+C19 
+{QUESTION}
+Jaké je Vaše občanství?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Narodil jste se na území České republiky?
+
+{ANSWERS}
+Ano 
+Ne 
+
+C21 
+{QUESTION}
+Ve které zemi jste se narodil?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Před jakou dobou jste poprvé přišel žít do České republiky? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Během minulého roku
+Před 1-5 lety
+Před 6-10 lety
+Před 11-20 lety
+Před více než 20 lety
+
+C23 
+{QUESTION}
+Kterým jazykem nebo jazyky mluvíte doma nejčastěji?
+
+{ANSWERS}
+
+C24 
+{QUESTION}
+Patříte v České republice k národnostní či etnické menšině?
+
+{ANSWERS}
+Ano
+Ne
+
+C25 
+{QUESTION}
+Narodil se Váš otec na území České republiky?
+
+{ANSWERS}
+Ano
+Ne
+
+C26 
+{QUESTION}
+V které zemi se narodil Váš otec?
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+Narodila se Vaše matka na území České republiky?
+
+{ANSWERS}
+Ano
+Ne
+
+C28 
+{QUESTION}
+V které zemi se narodila Vaše matka?
+
+{ANSWERS}
+
+{INTRO}
+Nyní bych se Vás rád zeptal na nějaké detaily týkajících se Vás a dalších členů Vaší domácnosti.
+
+F1 
+{QUESTION}
+Kolik lidí – včetně Vás a dětí – zpravidla žije v této domácnosti jako její členové? 
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+A v jakém roce jste se narodil?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Prohlédněte si tuto kartu. V jakém vztahu k Vám je?
+
+{ANSWERS}
+Manžel(ka) /partner 
+Syn /dcera (včetně nevlastních a adoptovaných, dětí v pěstounské péči a dětí partnera)
+Rodič, tchán /tchyně, rodič partnera, nevlastní rodič
+Bratr/sestra (včetně nevlastních, adoptovaných, v pěstounské péči)
+Ostatní příbuzní 
+Ostatní nepříbuzní 
+
+F5 
+{QUESTION}
+Který popis na této kartě nejlépe odpovídá oblasti, ve které žijete?
+
+{ANSWERS}
+Velkoměsto
+Předměstí nebo sídlo v bezprostřední blízkosti velkého města
+Menší město
+Vesnice
+Statek nebo dům na venkově
+
+F5a 
+{QUESTION}
+Vlastní tento byt (dům) některý člen Vaší domácnosti?
+
+{ANSWERS}
+Ano
+Ne
+
+F5b 
+{QUESTION}
+Kolik místností má Vaše domácnost k užívání, nepočítejte kuchyně, koupelny a toalety? 
+
+{ANSWERS}
+
+F6 
+{QUESTION}
+Jaké je Vaše nejvyšší dosažené školní vzdělání? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Nedokončené základní vzdělání 
+Základní vzdělání
+Vyučení bez maturity
+Střední vzdělání bez maturity
+Vyučení s maturitou
+Úplné střední odborné vzdělání s maturitou
+Střední všeobecné vzdělání s maturitou
+Vyšší vzdělání (pomaturitní studium, vyšší škola, 5 a 6. roč. konzervatoře)
+Vysokoškolské bakalářské vzdělání
+Vysokoškolské magisterské vzdělání
+Vědecká výchova, postgraduální vzdělání
+Jiné 
+
+F6a 
+{QUESTION}
+V jakém z těchto oborů jste dosáhl Vaší nejvyšší kvalifikace?
+
+{ANSWERS}
+Všeobecný nebo nespecifikovaný
+Umělecký včetně užitého umění
+Humanitní – jazyky, klasické, historie, teologie a další
+Technický a inženýrský, včetně architektury a plánování, průmyslu, strojírenství, stavitelství a další
+Zemědělství, lesnictví
+Pedagogika a vzdělávání
+Přírodní vědy, matematika, počítače
+Medicína, zdravotnictví, ošetřovatelství
+Ekonomie, obchod, obchodní administrativa, účetnictví, atd.
+Sociální a behaviorální studia, veřejná administrativa, média, kultura, sport, studia aktivit pro volný čas a další
+Právo a právní služby
+Služby – stravování, služby v domácnostech, kadeřnictví
+Veřejný pořádek a bezpečnost – policie, armáda, hasiči
+Doprava a spoje
+
+F7 
+{QUESTION}
+Kolik roků studia jste dokončil?
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Použijte tuto kartu. Které z následujících činností odpovídají tomu, co jste dělal v posledních 7 dnech? Vyberte všechny. 
+
+{ANSWERS}
+placená práce /nebo přechodně bez práce (zaměstnanec, samostatně výdělečně činný, práce v rodinném podniku)
+studium, ( neplacené zaměstnavatelem) včetně prázdnin
+nezaměstnaný a aktivně hledající práci
+nezaměstnaný, se záměrem pracovat, ale nehledající práci aktivně
+trvale nemocný či invalidní
+v důchodu
+na civilní nebo základní vojenské službě
+práce v domácnosti, péče o děti nebo jiné osoby
+ (jiné)
+
+F8c 
+{QUESTION}
+A která z následujících činností nejlépe charakterizuje Vaši situaci (v posledních sedmi dnech)? Vyberte,
+prosím, jen jednu.
+
+{ANSWERS}
+placená práce /nebo přechodně bez práce (zaměstnanec, samostatně výdělečně činný, práce v rodinném podniku)
+studium, ( neplacené zaměstnavatelem) včetně prázdnin
+nezaměstnaný a aktivně hledající práci
+nezaměstnaný, se záměrem pracovat, ale nehledající práci aktivně
+trvale nemocný či invalidní
+v důchodu
+na civilní nebo základní vojenské službě
+práce v domácnosti, péče o děti nebo jiné osoby
+ (jiné)
+
+F9 
+{QUESTION}
+Dělal jste v minulých sedmi dnech nějakou placenou práci (jednu hodinu nebo více?)
+
+{ANSWERS}
+Ano 
+Ne 
+
+F10 
+{QUESTION}
+Měl jste někdy placenou práci?
+
+{ANSWERS}
+Ano 
+Ne 
+
+F11 
+{QUESTION}
+Ve kterém roce jste měl naposledy placenou práci?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Ve své hlavní pracovní činnosti jste byl… 
+
+{ANSWERS}
+zaměstnanec 
+samostatně výdělečně činný 
+nebo pracující v podniku vlastní rodiny? 
+
+F13 
+{QUESTION}
+Kolik zaměstnanců – pokud nějaké – máte měl?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Máte jste pracovní smlouvu … 
+
+{ANSWERS}
+na dobu neurčitou
+na dobu určitou
+Nebo nemáte/neměl(a) jste žádnou smlouvu?
+
+F15 
+{QUESTION}
+Kolik lidí včetně Vás, je přibližně zaměstnáno na místě, kde obvykle pracujete obvykle pracoval? 
+
+{ANSWERS}
+Méně než 10
+10 až 24
+25 až 99
+100 až 499
+nebo 500 a více?
+
+F16 
+{QUESTION}
+Máte jste ve své hlavní pracovní činnosti zodpovědnost za vedení jiných zaměstnanců?
+
+{ANSWERS}
+Ano 
+Ne 
+
+F17 
+{QUESTION}
+Za kolik lidí zodpovídáte zodpovídal?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Přečtu Vám seznam otázek, které se týkají Vašeho pracovního života. 
+
+{QUESTION}
+S použitím této karty prosím řekněte, nakolik Vám vedení ve Vaší práci dovoluje ...rozhodovat o tom, jak bude/byla Vaše každodenní práce organizována?
+
+{ANSWERS}
+00 Vůbec to neovlivňuji / neovlivňoval jsem to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Na to mám / měl jsem na to naprostý vliv
+
+F19 
+{QUESTION}
+…ovlivňovat strategická rozhodnutí o aktivitách organizace?
+
+{ANSWERS}
+00 Vůbec to neovlivňuji / neovlivňoval jsem to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Na to mám / měl jsem na to naprostý vliv
+
+F19a 
+{QUESTION}
+…určovat nebo měnit tempo práce? 
+
+{ANSWERS}
+00 Vůbec to neovlivňuji / neovlivňoval jsem to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Na to mám / měl jsem na to naprostý vliv
+
+F20 
+{QUESTION}
+Kolik hodin představuje Vaše celková „základní“ nebo smluvně sjednaná týdenní pracovní doba (ve Vaší hlavní pracovní činnosti)? Nezahrnujte ani placené ani neplacené přesčasy.
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Bez ohledu na to, kolik je Vaše základní nebo smluvně sjednaná pracovní doba, kolik hodin týdně obvykle pracujete (ve Vaší hlavní pracovní činnosti)? Zahrňte placené i neplacené přesčasy.
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Jaké je  jméno nebo označení Vaší hlavní pracovní činnosti?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Jaký typ práce děláte ve své hlavní pracovní činnosti většinu času?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Jaké vyškolení a kvalifikace jsou pro tuto práci potřeba?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Co jako hlavní věc vyrábí nebo co je hlavní činností podniku / organizace, ve kterém pracujete ?
+
+{ANSWERS}
+
+F26 
+{QUESTION}
+Vykonával jste během posledních deseti let nějakou placenou práci v jiné zemi po dobu šesti měsíců nebo delší?
+
+{ANSWERS}
+Ano
+Ne
+
+F27 
+{QUESTION}
+Byl jste někdy nezaměstnaný a hledal zaměstnání po dobu delší než tři měsíce?
+
+{ANSWERS}
+Ano
+Ne
+
+F28 
+{QUESTION}
+Trvalo některé z těchto období 12 měsíců nebo déle?
+
+{ANSWERS}
+Ano
+Ne
+
+F29 
+{QUESTION}
+Došlo k tomu v průběhu posledních pěti let?
+
+{ANSWERS}
+Ano
+Ne
+
+F30 
+{QUESTION}
+Jste nebo byl jste někdy členem odborů nebo podobné organizace? Pokud ano, v současné době nebo v minulosti?
+
+{ANSWERS}
+Ano, v současné době
+Ano, dříve
+Ne
+
+F31 
+{QUESTION}
+Zamyslete se prosím nad příjmy všech členů Vaší domácnosti a nad jakýmikoliv jinými příjmy, které získává Vaše domácnost jako celek. Co je hlavním zdrojem příjmu Vaší domácnosti? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Platy a mzdy
+Příjem ze samostatně výdělečné činnosti (kromě zemědělské)
+Příjem ze zemědělské činnosti
+Důchody
+Dávky v nezaměstnanosti, odstupné
+Jakékoliv další sociální dávky nebo podpory
+Příjem z investic, úspor, pojištění nebo majetku
+Příjem z jiných zdrojů
+
+F32A 
+{QUESTION}
+Použijte tuto kartu. Když sečtete příjem ze všech zdrojů, které písmeno odpovídá čistému příjmu Vaší domácnosti? Pokud neznáte přesné číslo, uveďte prosím odhad. Použijte z karty to, co znáte nejlépe: týdenní, měsíční nebo roční příjem.
+
+{ANSWERS}
+TÝDENNÍ
+J do 1 200 Kč
+R 1 200 - 2 099
+C 2 100 - 3 599
+M 3 600 - 6 899
+F 6 900 - 10 499
+S 10 500 - 13 799
+K 13 800 - 17 399
+P 17 400 - 20 699
+D 20 700 - 34 499
+H 34 500 - 51 899
+U 51 900 - 69 299
+N 69 300 Kč a vice
+
+F32B 
+{QUESTION}
+Použijte tuto kartu. Když sečtete příjem ze všech zdrojů, které písmeno odpovídá čistému příjmu Vaší domácnosti? Pokud neznáte přesné číslo, uveďte prosím odhad. Použijte z karty to, co znáte nejlépe: týdenní, měsíční nebo roční příjem.
+
+{ANSWERS}
+MĚSÍČNÍ
+J do 4 500 Kč
+R 4 500 - 8 999
+C 9 000 - 14 999
+M 15 000 - 29 999
+F 30 000 - 44 999
+S 45 000 - 59 999
+K 60 000 - 74 999
+P 75 000 - 89 999
+D 90 000 - 149 999
+H 150 000 - 224 999
+U 225 000 - 299 999
+N 300 000 Kč a více
+
+F32C 
+{QUESTION}
+Použijte tuto kartu. Když sečtete příjem ze všech zdrojů, které písmeno odpovídá čistému příjmu Vaší domácnosti? Pokud neznáte přesné číslo, uveďte prosím odhad. Použijte z karty to, co znáte nejlépe: týdenní, měsíční nebo roční příjem.
+
+{ANSWERS}
+ROČNÍ
+J do 54 000 Kč
+R 54 000 - 107 999
+C 108 000 - 179 999
+M 180 000 - 359 999
+F 360 000 - 539 999
+S 540 000 - 719 999
+K 720 000 - 899 999
+P 900 000 – 1 107 999
+D 1108 000 - 1 799 999
+H 1 800 000 - 2 699 999
+U 2 700 000 - 3 599 999
+N 3 600 000 Kč a více
+
+F32a 
+{QUESTION}
+Jak přibližně velký podíl z příjmu domácnosti obstaráváte Vy?
+
+{ANSWERS}
+žádný
+Velmi malý
+Méně než polovinu
+Zhruba polovinu
+Více než polovinu
+Velkou část
+všechen
+
+F33 
+{QUESTION}
+Která z charakteristik na této kartě se nejvíce blíží tomu, jak hodnotíte současný příjem Vaší domácnosti?
+
+{ANSWERS}
+Se současným příjmem se žije pohodlně
+Se současným příjmem lze vyjít
+Se současným příjmem se vychází těžko
+Se současným příjmem se vychází velice těžko
+
+F34 
+{QUESTION}
+Kdybyste se z nějakého důvodu ocitl ve vážných finančních těžkostech a musel si půjčit peníze, abyste pokryl potřebné výdaje, jak obtížné nebo snadné by pro Vás bylo půjčit si peníze? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Velmi obtížné
+Dost obtížné
+Ani snadné, ani obtížné
+Dost snadné
+Velmi snadné
+
+F36 
+{QUESTION}
+Jaké je nejvyšší dosažené vzdělání Vašeho manžela? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Nedokončené základní vzdělání
+Základní vzdělání
+Vyučení bez maturity
+Střední vzdělání bez maturity
+Vyučení s maturitou
+Úplné střední odborné vzdělání s maturitou
+Střední všeobecné vzdělání s maturitou
+Vyšší vzdělání (pomaturitní studium, vyšší škola, 5 a 6. roč. konzervatoře)
+Vysokoškolské bakalářské vzdělání
+Vysokoškolské magisterské vzdělání
+Vědecká výchova, postgraduální vzdělání
+Jiné 
+
+F37a 
+{QUESTION}
+Která z následujících činností uvedených na této kartě odpovídá tomu, co dělal Váš partner v posledních 7 dnech? Vyberte všechny.
+
+{ANSWERS}
+placená práce /nebo přechodně bez práce (zaměstnanec, samostatně výdělečně činný, práce v rodinném podniku)
+studium, ( neplacené zaměstnavatelem) včetně prázdnin
+nezaměstnaný a aktivně hledající práci
+nezaměstnaný, se záměrem pracovat, ale nehledající práci aktivně
+trvale nemocný či invalidní
+v důchodu
+na civilní nebo základní vojenské službě
+práce v domácnosti, péče o děti nebo jiné osoby
+(jiné)
+
+F37c 
+{QUESTION}
+A která z následujících činností nejlépe charakterizuje jeho situaci (v posledních 7 dnech)? Vyberte, prosím, jen jednu odpověď.
+
+{ANSWERS}
+placená práce /nebo přechodně bez práce (zaměstnanec, samostatně výdělečně činný, práce v rodinném podniku)
+studium, ( neplacené zaměstnavatelem) včetně prázdnin
+nezaměstnaný a aktivně hledající práci
+nezaměstnaný, se záměrem pracovat, ale nehledající práci aktivně
+trvale nemocný či invalidní
+v důchodu
+na civilní nebo základní vojenské službě
+práce v domácnosti, péče o děti nebo jiné osoby
+ (jiné)
+
+F38 
+{QUESTION}
+Dělal Váš partner v minulých 7 dnech nějakou placenou práci (jednu hodinu nebo více)?
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+Jaké je jméno nebo označení hlavní pracovní činnosti Vašeho partnera?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Jaký typ práce Váš partner dělá ve své hlavní pracovní činnosti většinu času?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+Jaké vyškolení nebo kvalifikace jsou pro tuto práci potřeba?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Ve své hlavní pracovní činnosti je Váš partner … …
+
+{ANSWERS}
+zaměstnanec 
+samostatně výdělečně činný 
+nebo pracující v podniku Vaší rodiny ? 
+
+F43 
+{QUESTION}
+Kolik zaměstnanců – pokud nějaké – má?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Má Váš partner ve své hlavní pracovní činnosti zodpovědnost za vedení jiných zaměstnanců?
+
+{ANSWERS}
+Ano
+Ne 
+
+F45 
+{QUESTION}
+Za kolik lidí Váš partner zodpovídá ?
+
+{ANSWERS}
+Ano 
+Ne 
+
+F46
+{INTRO}
+Přečtu Vám seznam otázek, které se týkají pracovního života Vašeho partnera. 
+
+{QUESTION}
+S použitím této karty prosím řekněte, nakolik mu vedení v práci dovoluje... rozhodovat o tom, jak bude jeho každodenní práce organizována?
+
+{ANSWERS}
+00 Vůbec to neovlivňuje 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Na to má naprostý vliv 
+
+F47 
+{QUESTION}
+…ovlivňovat strategická rozhodnutí o aktivitách organizace
+
+{ANSWERS}
+00 Vůbec to neovlivňuje 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Na to má naprostý vliv 
+
+F48 
+{QUESTION}
+Kolik hodin týdně Váš partner obvykle pracuje (v jeho /její hlavní pracovní činnosti)? Započítejte placené i neplacené přesčasy.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Jakého nejvyššího vzdělání dosáhl Váš otec? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Nedokončené základní vzdělání
+Základní vzdělání
+Vyučení bez maturity
+Střední vzdělání bez maturity
+Vyučení s maturitou
+Úplné střední odborné vzdělání s maturitou
+Střední všeobecné vzdělání s maturitou
+Vyšší vzdělání (pomaturitní studium, vyšší škola, 5 a 6. roč. konzervatoře)
+Vysokoškolské bakalářské vzdělání
+Vysokoškolské magisterské vzdělání
+Vědecká výchova, postgraduální vzdělání
+Jiné 
+
+F50 
+{QUESTION}
+Když Vám bylo 14 let, pracoval Váš otec jako zaměstnanec, byl samostatně výdělečně činný nebo nepracoval?
+
+{ANSWERS}
+Zaměstnanec 
+Samostatně výdělečně činný 
+Nepracoval
+ (Otec byl mrtvý nebo nežil s rodinou v době, kdy bylo respondentovi 14 let)
+
+F51 
+{QUESTION}
+Kolik zaměstnanců měl?
+
+{ANSWERS}
+Žádného 
+1-24 
+25 a více 
+
+F52 
+{QUESTION}
+Měl Váš otec zodpovědnost za vedení jiných zaměstnanců?
+
+{ANSWERS}
+Ano
+Ne
+
+F53 
+{QUESTION}
+Jaké bylo jméno nebo označení hlavní pracovní činnosti Vašeho otce?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Který popis práce nejlépe odpovídá tomu, co dělal Váš otec, když Vám bylo 14 let?
+
+{ANSWERS}
+Tradiční odborná povolání např. účetní – právník – lékař – vědec - stavební nebo strojní inženýr
+Moderní odborná povolání např. učitel – diplomovaná sestra - fyzioterapeut – sociální pracovník –umělec-hudebník -vyšší policejní úředník - programátor
+Úřednická a zprostředkovatelská povolání např. tajemník – osobní asistent – úředník – telefonní operátor - učitel v jeslích nebo mateřské školce – zdravotní bratr
+Vyšší management a správa (obvykle zodpovídající za plánování, organizaci a koordinaci práce a finančních zdrojů) např. finanční ředitel – výkonný ředitel
+Technické a řemeslnické profese např. automechanik – montér – kontrolor – instalatér – tiskař – nástrojař – elektrikář –farmář-zahradník – strojvůdce
+Polorutinní manuální profese a služby např. pracovník pošty – obsluha strojů – bezpečnostní služba – správce domu – pracovník v zemědělství – pracovník ve stravování – recepční – prodavač
+Rutinní manuální profese a služby např. řidič nákladních vozů – řidič TIR – uklízeč – vrátný – balič – obsluha šicího stroje – poslíček – dělník – číšník – barman
+Střední a nižší management např. vedoucí kanceláře – vedoucí obchodu– vedoucí oddělení v bance – vedoucí v zemědělství - vedoucí restaurace, obchodního domu, hospody
+
+F55 
+{QUESTION}
+Jakého nejvyššího vzdělání dosáhla Vaše matka? Použijte prosím tuto kartu.
+
+{ANSWERS}
+Nedokončené základní vzdělání
+Základní vzdělání
+Vyučení bez maturity
+Střední vzdělání bez maturity
+Vyučení s maturitou
+Úplné střední odborné vzdělání s maturitou
+Střední všeobecné vzdělání s maturitou
+Vyšší vzdělání (pomaturitní studium, vyšší škola, 5 a 6. roč. konzervatoře)
+Vysokoškolské bakalářské vzdělání
+Vysokoškolské magisterské vzdělání
+Vědecká výchova, postgraduální vzdělání
+Jiné 
+
+F56 
+{QUESTION}
+Když Vám bylo 14 let, pracovala Vaše matka jako zaměstnankyně, byla samostatně výdělečně činná nebo
+nepracovala?
+
+{ANSWERS}
+Zaměstnankyně 
+Samostatně výdělečně činná 
+Nepracovala
+ (Matka byla mrtvá nebo nežila s rodinou v době, kdy bylo respondentovi 14 let)
+
+F57 
+{QUESTION}
+Kolik zaměstnanců měla?
+
+{ANSWERS}
+Žádného 
+1-24 
+25 a více 
+
+F58 
+{QUESTION}
+Měla Vaše matka zodpovědnost za vedení jiných zaměstnanců?
+
+{ANSWERS}
+Ano
+Ne
+
+F59 
+{QUESTION}
+Jaké bylo jméno nebo označení hlavní pracovní činnosti Vaší matky?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Který popis práce nejlépe odpovídá tomu, co dělala Vaše matka, když Vám bylo 14 let?
+
+{ANSWERS}
+Tradiční odborná povolání např. účetní – právnička – lékařka – vědkyně – stavební nebo strojní inženýrka
+Moderní odborná povolání např.učitelka – diplomovaná zdravotní sestra - fyzioterapeutka – sociální pracovnice – umělelkyně-hudebnice-vyšší policejní úředníce- programátorka
+Úřednická a zprostředkovatelská povolání např. sekretářka – osobní asistentka – úřednice – telefonní operátorka – učitelka v jeslích nebo mateřské školce – zdravotní sestra
+Vyšší management a správa (obvykle zodpovídající za plánování, organizaci a koordinaci práce a finančních zdrojů) např. finanční ředitelka – výkonná ředitelka
+Technické a řemeslnické profese např. automechanička – montérka – kontrolorka – instalatérka – tiskařka – nástrojařka – elektrikářka – farmářka - zahradnice – strojvedoucí
+Polorutinní manuální profese a služby např. pracovnice pošty – obsluha strojů – bezpečnostní služba – správce domu – pracovnice v zemědělství – pracovnice ve stravování – recepční – prodavačka
+Rutinní manuální profese a služby např. řidička nákladních vozů – řidička TIR – uklízečka – vrátná – balička – šička – poslíček – dělnice – číšnice – barmanka
+Střední a nižší management např. vedoucí kanceláře – vedoucí obchodu – vedoucí oddělení v bance – vedoucí v zemědělství - vedoucí restaurace, obchodního domu, hospody
+
+F61 
+{QUESTION}
+Absolvoval jste během posledních 12 měsíců nějaký kurz nebo navštívil jste nějakou přednášku či konferenci, abyste zvýšil svoje pracovní znalosti nebo dovednosti?
+
+{ANSWERS}
+Ano
+Ne
+
+F62 
+{QUESTION}
+Mohu se Vás zeptat na Váš současný rodinný stav? Která z možností na této kartě odpovídá Vaší situaci?
+
+{ANSWERS}
+Ženatý /vdaná 
+Ženatý /vdaná - žijící odděleně
+Rozvedený /rozvedená
+Vdova /vdovec
+Svobodný(á) (nikdy ženatý /vdaná)
+
+F63 
+{QUESTION}
+Žijete v současné době se svojí manželkou?
+
+{ANSWERS}
+Ano 
+Ne
+
+F64 
+{QUESTION}
+Žijete v současnosti s jiným partnerem?
+
+{ANSWERS}
+Ano 
+Ne
+
+F65 
+{QUESTION}
+Žijete v současnosti s partnerem?
+
+{ANSWERS}
+Ano 
+Ne
+
+F66 
+{QUESTION}
+Žil jste někdy s partnerem, aniž jste byli sezdáni?
+
+{ANSWERS}
+Ano 
+Ne
+
+F68 
+{QUESTION}
+Rozvedl jste se někdy?
+
+{ANSWERS}
+Ano 
+Ne
+
+F70 
+{QUESTION}
+Žily s Vámi někdy v domácnosti Vaše vlastní děti, nevlastní děti, adoptované děti, děti v pěstounské péči nebo partnerovy děti?
+
+{ANSWERS}
+Ano 
+Ne
+
+

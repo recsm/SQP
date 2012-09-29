@@ -1,0 +1,1832 @@
+﻿{INTRO}
+Ensimmäiset kysymykset koskevat tiedotusvälineiden seuraamista. Pyrkikää koko haastattelun ajan vastaamaan spontaanisti (liikoja miettimättä) ja melko nopeasti sen vaihtoehdon mukaan, joka ensimmäisenä tuntuu oikealta.
+
+A1
+{QUESTION}
+Kuinka paljon yhteensä käytätte aikaa television katsomiseen tavallisina arkipäivinä? Käyttäkää vastatessanne korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A2
+{QUESTION}
+Kuinka paljon yhteensä katsotte television uutislähetyksiä tai politiikkaa ja ajankohtaisia tapahtumia käsitteleviä ohjelmia tavallisina arkipäivinä? Käyttäkää edelleen korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A3
+{QUESTION}
+Kuinka paljon yhteensä käytätte aikaa radion kuunteluun tavallisina arkipäivinä? Käyttäkää samaa korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A4
+{QUESTION}
+Entä kuinka paljon kuuntelette radion uutislähetyksiä tai politiikkaa ja ajankohtaisia tapahtumia käsitteleviä ohjelmia tavallisina arkipäivinä? Käyttäkää vielä korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A5
+{QUESTION}
+Kuinka paljon yhteensä käytätte aikaa sanomalehtien lukemiseen tavallisina arkipäivinä? Käyttäkää vielä korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A6
+{QUESTION}
+Kuinka paljon tästä (lehtien lukemiseen käyttämästänne) ajasta luette lehdistä politiikkaa ja ajankohtaisia tapahtumia koskevia juttuja? Käyttäkää vielä korttia 1.
+
+{ANSWERS}
+En ollenkaan 
+Alle ½ tuntia 
+½ - 1 tuntia 
+Yli tunnin, mutta korkeintaan 1 ½ tuntia 
+Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia 
+Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia 
+Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia 
+Yli 3 tuntia 
+
+A7
+{QUESTION}
+Käyttäkää nyt korttia 2. Kuinka usein käytätte Internetiä, World Wide Webiä tai sähköpostia töissä tai kotona omiin henkilökohtaisiin asioihinne?
+
+{ANSWERS}
+Töissä tai kotona ei ole Internetiä 
+En koskaan 
+Harvemmin kuin kerran kuukaudessa 
+Kerran kuukaudessa 
+Useita kertoja kuukaudessa 
+Kerran viikossa 
+Useita kertoja viikossa 
+Joka päivä 
+
+A8
+{QUESTION}
+Käyttäkää korttia 3. Voiko mielestänne ihmisiin luottaa, vai onko niin, ettei ihmisten suhteen voi olla liian varovainen. Kertokaa mielipiteenne asteikolla nollasta kymmeneen, jossa nolla tarkoittaa, ettei ihmisten kanssa voi olla liian varovainen ja 10, että useimpiin ihmisiin voi luottaa.
+
+{ANSWERS}
+0 Ei voi olla liian varovainen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10  Useimpiin ihmisiin voi luottaa
+
+A9.
+{QUESTION}
+Käyttäkää korttia 4. Oletteko sitä mieltä, että useimmat ihmiset tilaisuuden tullen yrittäisivät käyttää Teitä hyväkseen vai luuletteko, että ihmiset yrittäisivät olla reiluja?
+
+{ANSWERS}
+0 Useimmat ihmiset yrittäisivät käyttää minua hyväkseen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Useimmat ihmiset yrittäisivät olla reiluja
+
+A10
+{QUESTION}
+Katsotteko, että useimmiten ihmiset pyrkivät olemaan auttavaisia toisia kohtaan vai että enimmäkseen he ajattelevat vain omaa etuaan? Käyttäkää korttia 5.
+
+{ANSWERS}
+0 Ihmiset ajattelevat enimmäkseen itseään
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ihmiset yrittävät enimmäkseen olla auttavaisia
+
+{INTRO}
+Seuraavaksi kysyisin muutamia politiikkaa koskevia kysymyksiä
+
+B1
+{QUESTION}
+Kuinka kiinnostunut olette politiikasta. Oletteko:
+
+{ANSWERS}
+Erittäin kiinnostunut 
+Melko kiinnostunut 
+Ette kovin kiinnostunut 
+Ette lainkaan kiinnostunut? 
+
+B2
+{QUESTION}
+Kuinka usein Teistä tuntuu siltä, että politiikka on niin monimutkaista, että ette oikein ymmärrä, mistä on kyse? Käyttäkää korttia 6.
+
+{ANSWERS}
+Ei koskaan 
+Harvoin 
+Joskus 
+Toisinaan 
+Usein 
+
+B3
+{QUESTION}
+Kuinka vaikeaa tai helppoa Teidän on muodostaa mielipiteenne politiikkaa koskevista kysymyksistä? Käyttäkää korttia 7.
+
+{ANSWERS}
+Erittäin vaikeaa 
+Vaikeaa 
+Ei vaikeaa eikä helppoa 
+Helppoa 
+Erittäin helppoa 
+
+B4
+{QUESTION}
+Käyttäkää korttia 8 ja kertokaa asteikolla nollasta kymmeneen, kuinka paljon henkilökohtaisesti luotatte seuraavaksi luettelemiini tahoihin. Nolla tarkoittaa sitä, että ette luota ollenkaan kyseiseen tahoon ja 10 sitä, että luotatte erittäin vahvasti kyseiseen tahoon: Eduskunta? 
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B5
+{QUESTION}
+Oikeusjärjestelmä?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B6
+{QUESTION}
+Poliisi?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B7
+{QUESTION}
+Poliitikot?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B8
+{QUESTION}
+Poliittiset puolueet?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B9
+{QUESTION}
+Euroopan parlamentti?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B10
+{QUESTION}
+YK (Yhdistyneet Kansakunnat)?
+
+{ANSWERS}
+0 En luota ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Luotan täysin
+
+B11
+{INTRO}
+Jotkut ihmiset jättävät nykyään syystä tai toisesta äänestämättä. 
+
+{QUESTION}
+Äänestittekö Te viime eduskuntavaaleissa maaliskuussa 2003?
+
+{ANSWERS}
+Kyllä 
+En 
+Ei äänioikeutettu 
+
+B12
+{QUESTION}
+Mitä puoluetta äänestitte?
+
+{ANSWERS}
+Kansallinen Kokoomus 
+Ruotsalainen Kansanpuolue 
+Liberaalit r.p. 
+Suomen Keskusta 
+Perussuomalaiset (ent. SMP) 
+Suomen Kristillisdemokraatit 
+Vapaan Suomen Liitto 
+Vihreä liitto 
+Suomen Sosialidemokraattinen Puolue 
+Vasemmistoliitto 
+Suomen Kommunistinen Puolue 
+Kommunistinen Työväenpuolue 
+Luonnonlain Puolue 
+Jokin muu 
+
+B12_1
+{QUESTION}
+Muu, mikä puolue? 
+
+{ANSWERS}
+
+{INTRO}
+On olemassa erilaisia keinoja parantaa Suomen asioita tai estää asioiden kehittymistä huonoon suuntaan. 
+
+B13
+{QUESTION}
+Oletteko viimeisten 12 kuukauden aikana tehnyt mitään seuraavista. Ensinnäkin: Ottanut yhteyttä poliitikkoon tai valtion tai kunnan virkamieheen?
+
+B14
+{QUESTION}
+Toiminut jossakin puolueessa tai poliittisessa ryhmässä?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B15
+{QUESTION}
+Toiminut jossakin muussa järjestössä tai yhdistyksessä?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B16
+{QUESTION}
+Käyttänyt tai pitänyt esillä kampanjatuotteita kuten rintamerkkejä, tarroja tms.?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B17
+{QUESTION}
+Allekirjoittanut kansalaisadressin tai -vetoomuksen?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B18
+{QUESTION}
+Osallistunut lailliseen mielenosoitukseen?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B19
+{QUESTION}
+Boikotoinut, eli kieltäytynyt tai välttänyt ostamasta tiettyjä tuotteita?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B20a
+{QUESTION}
+Tuntuuko jokin poliittinen puolue Teistä läheisemmältä kuin muut puolueet ?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B20b
+{QUESTION}
+Mikä puolue?
+
+{ANSWERS}
+Kansallinen Kokoomus 
+Ruotsalainen Kansanpuolue 
+Liberaalit r.p. 
+Suomen Keskusta 
+Perussuomalaiset (ent. SMP) 
+Suomen Kristillisdemokraatit 
+Vapaan Suomen Liitto 
+Vihreä liitto 
+Suomen Sosialidemokraattinen Puolue 
+Vasemmistoliitto 
+Suomen Kommunistinen Puolue 
+Kommunistinen Työväenpuolue 
+Luonnonlain Puolue 
+Jokin muu 
+
+B20b_1
+{QUESTION}
+(Jokin muu) mikä? 
+
+{ANSWERS}
+
+B20c 
+{QUESTION}
+Kuinka läheiseksi tunnette kyseisen puolueen:
+
+{ANSWERS}
+erittäin läheiseksi
+melko läheiseksi
+en läheiseksi
+en lainkaan läheiseksi ? 
+
+B21
+{QUESTION}
+Oletteko jonkin poliittisen puolueen jäsen?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+B22
+{QUESTION}
+Minkä puolueen?
+
+{ANSWERS}
+Kansallinen Kokoomus 
+Ruotsalainen Kansanpuolue 
+Liberaalit r.p. 
+Suomen Keskusta 
+Perussuomalaiset (ent. SMP) 
+Suomen Kristillisdemokraatit 
+Vapaan Suomen Liitto 
+Vihreä liitto 
+Suomen Sosialidemokraattinen Puolue 
+Vasemmistoliitto 
+Suomen Kommunistinen Puolue 
+Kommunistinen Työväenpuolue 
+Luonnonlain Puolue 
+Jokin muu 
+
+B22_1
+{QUESTION}
+ (Jokin muu) mikä? 
+
+{ANSWERS}
+
+B23
+{INTRO}
+Politiikassa puhutaan joskus vasemmistosta ja oikeistosta. 
+
+{QUESTION}
+Käyttäkää korttia 9. Mihin kohtaan sijoittaisitte itsenne asteikolla nollasta kymmeneen, kun nolla tarkoittaa vasemmistoa ja kymmenen oikeistoa?
+
+{ANSWERS}
+0 vasemmisto 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 oikeisto
+
+B24
+{QUESTION}
+Yleisesti ottaen kuinka tyytyväinen olette elämäänne nykyisin? Käyttäkää korttia 10, jossa 0 tarkoittaa äärimmäisen tyytymätöntä ja 10 äärimmäisen tyytyväistä.
+
+{ANSWERS}
+0 äärimmäisen tyytymätön 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen tyytyväinen
+
+B25
+{QUESTION}
+Kuinka tyytyväinen kaiken kaikkiaan olette tämän hetkiseen taloudelliseen tilanteeseen Suomessa? Käyttäkää vielä korttia 10.
+
+{ANSWERS}
+0 äärimmäisen tyytymätön 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen tyytyväinen
+
+B26
+{QUESTION}
+Kuinka tyytyväinen olette siihen, miten Suomen nykyinen hallitus hoitaa tehtävänsä? Käyttäkää vielä korttia 10.
+
+{ANSWERS}
+0 äärimmäisen tyytymätön 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen tyytyväinen
+
+B27
+{QUESTION}
+Kuinka tyytyväinen olette siihen, kuinka demokratia toimii Suomessa? Käyttäkää vielä korttia 10.
+
+{ANSWERS}
+0 äärimmäisen tyytymätön 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen tyytyväinen
+
+B28
+{QUESTION}
+Käyttäkää nyt korttia 11. Mitä mieltä olette Suomen nykyisestä koulutusjärjestelmästä (tai koulutuksen tasosta)? 
+
+{ANSWERS}
+0 äärimmäisen huono 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen hyvä
+
+B29
+{QUESTION}
+Käyttäkää vielä korttia 11 ja kertokaa, mitä mieltä olette Suomen terveyspalvelujen tasosta nykyisin? 
+
+{ANSWERS}
+0 äärimmäisen huono 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 äärimmäisen hyvä
+
+B30
+{QUESTION}
+Käyttäkää kortissa 12 olevia vastausvaihtoehtoja ja kertokaa, oletteko samaa vai eri mieltä seuraavien väittämien kanssa: Valtiovallan pitäisi ryhtyä toimenpiteisiin tuloerojen vähentämiseksi?
+
+{ANSWERS}
+Täysin samaa mieltä 
+Samaa mieltä 
+En samaa enkä eri mieltä 
+Eri mieltä 
+Täysin eri mieltä 
+
+B31
+{QUESTION}
+Homoilla ja lesboilla pitäisi olla vapaus elää (elämäänsä) haluamallaan tavalla?
+
+{ANSWERS}
+Täysin samaa mieltä 
+Samaa mieltä 
+En samaa enkä eri mieltä 
+Eri mieltä 
+Täysin eri mieltä 
+
+B32
+{QUESTION}
+Poliittiset puolueet, jotka pyrkivät kaatamaan demokratian, pitäisi kieltää?
+
+{ANSWERS}
+Täysin samaa mieltä 
+Samaa mieltä 
+En samaa enkä eri mieltä 
+Eri mieltä 
+Täysin eri mieltä 
+
+B33
+{QUESTION}
+Nykyaikaiseen tieteeseen voi luottaa ympäristöongelmien ratkaisussa?
+
+{ANSWERS}
+Täysin samaa mieltä 
+Samaa mieltä 
+En samaa enkä eri mieltä 
+Eri mieltä 
+Täysin eri mieltä 
+
+B34
+{QUESTION}
+Kun ajatellaan Euroopan Unionia, jotkut ihmiset sanovat, että Euroopan yhdentymistä pitäisi viedä pidemmälle. Toisten mielestä se on jo mennyt liian pitkälle. Käyttäkää korttia 13 ja kertokaa, mikä numero asteikolla parhaiten kuvaa Teidän mielipidettänne.
+
+{ANSWERS}
+0 yhdentyminen on jo mennyt liian pitkälle 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 yhdentymistä pitäisi viedä pidemmälle
+
+{INTRO}
+Seuraavat kysymykset koskevat maahanmuuttajia
+
+B35
+{QUESTION}
+Käyttäkää korttia 14 ja arvioikaa, kuinka paljon Suomen tulisi sallia sellaisten ihmisten muuttaa maahan asumaan, jotka kuuluvat samaan rotuun tai etniseen ryhmään kuin useimmat suomalaiset?.
+
+{ANSWERS}
+Pitäisi sallia paljon 
+Pitäisi sallia melko paljon 
+Pitäisi sallia vähän 
+Ei pitäisi sallia lainkaan 
+
+B36
+{QUESTION}
+Entä sellaisia ihmisiä, jotka edustavat eri rotua tai etnistä alkuperää kuin useimmat suomalaiset? Käyttäkää vielä korttia 14.
+
+{ANSWERS}
+Pitäisi sallia paljon 
+Pitäisi sallia melko paljon 
+Pitäisi sallia vähän 
+Ei pitäisi sallia lainkaan 
+
+B37
+{QUESTION}
+Entä köyhemmistä Euroopan ulkopuolisista maista olevien ihmisten muuttaa Suomeen asumaan? Käyttäkää vielä korttia 14.
+
+{ANSWERS}
+Pitäisi sallia paljon 
+Pitäisi sallia melko paljon 
+Pitäisi sallia vähän 
+Ei pitäisi sallia lainkaan 
+
+B38
+{QUESTION}
+Onko kaiken kaikkiaan mielestänne haitaksi vai eduksi Suomen taloudelle, että muista maista muuttaa ihmisiä Suomeen? Käyttäkää korttia 15.
+
+{ANSWERS}
+0 Haitaksi taloudelle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Eduksi taloudelle
+
+B39
+{QUESTION}
+Käyttäkää korttia 16. Uskotteko, että kulttuurielämä Suomessa heikentyy vai rikastuu, kun Suomeen muuttaa ihmisiä muista maista?
+
+{ANSWERS}
+0 Kulttuurielämä heikkenee 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kulttuurielämä rikastuu
+
+B40
+{QUESTION}
+Muuttuuko Suomi paremmaksi vai huonommaksi paikaksi asua, kun muista maista muuttaa tänne ihmisiä? Käyttäkää korttia 17.
+
+{ANSWERS}
+0 Muuttuu huonommaksi paikaksi asua 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muuttuu paremmaksi paikaksi asua
+
+{INTRO}
+Seuraavat kysymykset koskevat Teitä ja elämäänne.
+
+C1
+{QUESTION}
+Yleisesti ottaen, kuinka onnellinen olette? Käyttäkää korttia 18.
+
+{ANSWERS}
+0 erittäin onneton
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 erittäin onnellinen
+
+C2
+{QUESTION}
+Käyttäkää korttia 19. Kuinka usein tapaatte ystäviänne, sukulaisianne tai työtovereitanne muuten kuin työasioissa? Tapaamiset "kasvokkain" ja vapaaehtoisesti. Kaikki yksittäiset tapaamiset yhteenlaskettuna (esim. jos tapaa kerran viikossa sukulaisen ja kerran viikossa työkaverin, tapaamisia on "useita kertoja viikossa". Saman kotitalouden jäseniä ei lasketa.)
+
+{ANSWERS}
+En koskaan 
+Harvemmin kuin kerran kuukaudessa 
+Kerran kuukaudessa 
+Useita kertoja kuukaudessa 
+Kerran viikossa 
+Useita kertoja viikossa 
+Päivittäin 
+
+C3
+{QUESTION}
+Onko Teillä ketään, jonka kanssa voitte keskustella kaikkein henkilökohtaisimmistakin asioistanne?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C4
+{QUESTION}
+Käyttäkää korttia 20. Verrattuna muihin ikäisiinne ihmisiin, kuinka usein osallistutte erilaisiin sosiaalisiin tapahtumiin/ vapaa-ajan toimintaan? (Sosiaalisilla tapahtumilla tarkoitetaan kanssakäymistä toisten ihmisten kanssa muissa kuin virallisissa asioissa.)
+
+{ANSWERS}
+Paljon harvemmin kuin useimmat 
+Harvemmin kuin useimmat 
+Suurin piirtein saman verran 
+Useammin kuin useimmat 
+Paljon useammin kuin useimmat 
+
+C5
+{QUESTION}
+Oletteko itse tai joku kotitaloutenne jäsenistä joutunut varkauden tai väkivallan uhriksi viimeisten viiden vuoden aikana?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C6
+{QUESTION}
+Kuinka turvalliseksi tunnette – tai tuntisitte – olonne kävellessänne yksin illalla tällä alueella (asuinalueellanne)? Tuntuisiko Teistä:
+
+{ANSWERS}
+Erittäin turvalliselta 
+Turvalliselta 
+Turvattomalta 
+Erittäin turvattomalta? 
+
+C7
+{QUESTION}
+Mikä on terveydentilanne yleensä ottaen? Onko se:
+
+{ANSWERS}
+Erittäin hyvä 
+Hyvä 
+Kohtuullinen 
+Huono 
+Erittäin huono? 
+
+C8
+{QUESTION}
+Vaikeuttaako päivittäistä elämäänne jokin pitkäaikainen sairaus, vamma tai mielenterveyden ongelma? 
+
+{ANSWERS}
+Kyllä, paljon 
+Kyllä, jossain määrin 
+Ei 
+
+C9
+{QUESTION}
+Katsotteko kuuluvanne johonkin tiettyyn uskontokuntaan tai uskonnolliseen yhteisöön? 
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C10
+{QUESTION}
+Mihin uskontokuntaan?
+
+{ANSWERS}
+Evankelisluterilainen kirkko 
+Ortodoksinen kirkko 
+Katolinen kirkko 
+Helluntailaisuus 
+Vapaakirkko 
+Jehovan todistajat 
+Juutalaisuus 
+Islam 
+Jokin muu 
+
+C10_1
+{QUESTION}
+Muu, mikä?
+
+{ANSWERS}
+
+C11
+{QUESTION}
+Oletteko koskaan aikaisemminkaan katsonut kuuluvanne johonkin tiettyyn uskontokuntaan tai uskonnolliseen yhteisöön?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C12
+{QUESTION}
+Mihin?
+
+{ANSWERS}
+Evankelisluterilainen kirkko 
+Ortodoksinen kirkko 
+Katolinen kirkko 
+Helluntailaisuus 
+Vapaakirkko 
+Jehovan todistajat 
+Juutalaisuus 
+Islam 
+Jokin muu 
+
+C12_1
+{QUESTION}
+Muu, mikä? 
+
+{ANSWERS}
+
+C13
+{QUESTION}
+Riippumatta siitä kuulutteko johonkin uskonnolliseen yhteisöön, kuinka uskonnollinen mielestänne olette? Käyttäkää korttia 21.
+
+{ANSWERS}
+0 en lainkaan uskonnollinen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 erittäin uskonnollinen
+
+C14
+{QUESTION}
+Jos ei huomioida erityistilanteita, kuten häitä tai hautajaisia, kuinka usein käytte uskonnollisissa tilaisuuksissa? Käyttäkää korttia 22.
+
+{ANSWERS}
+Joka päivä 
+Useammin kuin kerran viikossa 
+Kerran viikossa 
+Vähintään kerran kuukaudessa 
+Vain erityisinä pyhäpäivinä 
+Harvemmin 
+En koskaan 
+
+C15
+{QUESTION}
+Uskonnollisiin tilaisuuksiin osallistumisen lisäksi, kuinka usein rukoilette? Käyttäkää korttia 22.
+
+{ANSWERS}
+Joka päivä 
+Useammin kuin kerran viikossa 
+Kerran viikossa 
+Vähintään kerran kuukaudessa 
+Vain erityisinä pyhäpäivinä 
+Harvemmin 
+En koskaan 
+
+C16
+{QUESTION}
+Kuulutteko mielestänne johonkin syrjityssä asemassa olevaan ryhmään tässä maassa?
+
+{ANSWERS}
+Kyllä 
+En 
+
+C17
+{QUESTION}
+Millä perusteella ryhmäänne syrjitään?
+
+{ANSWERS}
+Ihonväri tai rotu 
+Kansallisuus 
+Uskonto
+Kieli 
+Etninen alkuperä 
+Ikä 
+Sukupuoli 
+Sukupuolinen suuntautuminen 
+Vammaisuus 
+Jokin muu 
+
+C17_1
+{QUESTION}
+Muu, mikä? 
+
+{ANSWERS}
+
+C18
+{QUESTION}
+Oletteko Suomen kansalainen?
+
+{ANSWERS}
+Kyllä 
+En 
+
+C19
+{QUESTION}
+Minkä maan kansalainen olette?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Oletteko syntynyt Suomessa?
+
+{ANSWERS}
+Kyllä 
+En 
+
+C21
+{QUESTION}
+Missä maassa olette syntynyt?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Kuinka kauan aikaa sitten muutitte ensi kertaa asumaan Suomeen? Käyttäkää korttia 23.
+
+{ANSWERS}
+Alle vuosi sitten 
+1-5 v. sitten 
+6-10 v. sitten 
+11-20 v. sitten 
+yli 20 v. sitten
+
+C23
+{QUESTION}
+Mitä kieltä puhutte useimmiten kotona?
+
+{ANSWERS}
+
+C24
+{QUESTION}
+Kuulutteko Suomessa johonkin etniseen vähemmistöryhmään? 
+
+{ANSWERS}
+Kyllä 
+En 
+
+C25
+{QUESTION}
+Onko isänne syntynyt Suomessa?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C26
+{QUESTION}
+ Missä maassa isänne on syntynyt?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+Onko äitinne syntynyt Suomessa?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+C28
+{QUESTION}
+Missä maassa äitinne on syntynyt?
+
+{ANSWERS}
+
+{INTRO}
+Seuraavat kysymykset koskevat Teitä itseänne ja muita kotitaloutenne jäseniä.
+
+F1
+{QUESTION}
+Teidät itsenne mukaan laskettuna, kuinka monta henkeä lapset mukaan lukien asuu vakituisesti kotitaloudessanne?
+
+{ANSWERS}
+
+F1a
+{QUESTION}
+Voitteko luetella muut kotitalouden jäsenet nimeltä vanhimmasta nuorimpaan?
+
+{ANSWERS}
+
+F3
+{QUESTION}
+Mikä on jäsenen nimi:n syntymävuosi? 
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Kortin 40 vaihtoehtoja käyttäen kertokaa, mikä on jäsenen nimi:n sukulaisuussuhde Teihin?
+
+{ANSWERS}
+Mies / vaimo / avopuoliso 
+Poika / tytär (mukaan lukien lapsipuoli, adoptiolapsi, sijaislapsi, puolison lapsi) 
+Vanhempi / appivanhempi /avopuolison vanhempi / äiti- tai isäpuoli / 
+Veli/ sisko ( ml. -puoli, adoptoidut ja sijais-) 
+Muu sukulainen 
+Muu ei-sukulainen 
+
+F5
+{QUESTION}
+Mikä kortin 40 luonnehdinnoista parhaiten kuvaa asuinympäristöänne?
+
+{ANSWERS}
+Suuri kaupunki (yli 100 000 asukasta) 
+Suuren kaupungin lähiö tai lähiseutu (suuren kaupungin vaikutusalueella / työssäkäyntialueella) 
+Pieni tai keskikokoinen kaupunki tai kunta(20 000 –100 000 as.) 
+Pienempi taajama tai kunta (alle 20 000 asukasta) 
+Maaseutu (haja-asutusalue) 
+
+F5a
+{QUESTION}
+Omistaako joku kotitaloutenne jäsenistä tämän asunnon?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F5b
+{QUESTION}
+Kuinka monta huonetta kotitaloutenne käytössä on, jos keittiötä, kylpyhuonetta ja WC:tä ei lasketa?
+
+{ANSWERS}
+
+F6
+{QUESTION}
+Mikä on koulutuksenne? Valitkaa kortista 42 korkein koulutusaste, jonka olette suorittanut?
+
+{ANSWERS}
+Vähemmän kuin peruskoulun ala-aste tai vastaava 
+Peruskoulun ala-aste (1-6 luokat), kansakoulu 
+Peruskoulun yläaste (7-9/10 luokat), keskikoulu 
+Lukio, ylioppilas- tai ammatillinen tutkinto 
+Opisto- tai korkeakoulututkinto 
+Lisensiaatin tai tohtorin tutkinto 
+Muu, mikä?
+
+F6a 
+{QUESTION}
+Käyttäkää korttia 42a. Miltä näistä aloista korkein hankkimanne koulutus on? 
+
+{ANSWERS}
+Yleissivistävä koulutus tai ei erityistä alaa
+Taiteellinen koulutus - kuvataide tai taideteollisuus
+Humanistinen ala – kielet, kirjallisuus, historia, teologia jne.
+Tekninen ala (ml. arkkitehtuuri ja suunnittelu, teollisuus, tekn. käsityöala, rakennusala)
+Maa- ja metsätalous
+Opetusala
+Luonnontieteet, matematiikka, tietojenkäsittely jne.
+Lääketieteellinen, terveys- tai sosiaalialan koulutus
+Taloustieteellinen, mainos- tai kaupallinen ala
+Yhteiskunta- ja käyttäytymistieteellinen ala, hallinto, viestintä, kulttuuri, urheilu- ja vapaa-aika
+Oikeustieteellinen ala
+Palveluala (ml. ravintola, suurkeittiö, myös kampaamo, parturi ja muut henkilökohtaiset palvelut)
+Turvallisuusala - poliisi, puolustusvoimat, pelastusala, vartiointi
+Liikenne, kuljetus ja tietoliikenne
+
+F7
+{QUESTION}
+Kuinka monta vuotta yhteensä olette ollut koulussa tai opiskelemassa?
+
+{ANSWERS}
+peruskoulu 9-10 vuotta.
+ammattikoulu, lukio 3 vuotta (yht. 9+3=12).
+ammatillinen opisto tai 3 vuotta (yht. 9+3+3=15).
+ammattikorkeakoulu
+Korkeakoulu 6 vuotta (yht. 9+3+6=18).
+
+F8a
+{QUESTION}
+Käyttäkää korttia 43. Mitkä seuraavista kuvauksista sopivat siihen, mitä olette tehnyt viimeisten seitsemän päivän aikana?
+
+{ANSWERS}
+Ansiotyössä (tai tilapäisesti pois ansiotyöstä) (työntekijä, yrittäjä, maanviljelijä, avustava perheenjäsen jne.) 
+Opiskelija (ei työnantajan maksama koulutus, ml. lomalla) 
+Työtön, hakee aktiivisesti työtä 
+Työtön, haluaa töihin, mutta ei aktiivisesti hae työtä 
+Pysyvästi sairas tai työkyvytön 
+Eläkkeellä 
+Varusmies- tai siviilipalvelussa 
+Kotiäiti tai –isä, omaishoitaja tms., hoitaa lapsia tai muuta henkilöä / muita henkilöitä
+(Muu)
+
+F8c
+{QUESTION}
+ Käyttäkää vielä korttia 43. Entä mikä seuraavista kuvauksista parhaiten sopii siihen, mitä olette tehnyt viimeisten seitsemän päivän aikana? Valitkaa vain yksi vaihtoehto.
+
+{ANSWERS}
+Ansiotyössä (tai tilapäisesti pois ansiotyöstä) (työntekijä, yrittäjä, maanviljelijä, avustava perheenjäsen jne.) 
+Opiskelija (ei työnantajan maksama koulutus, ml. lomalla) 
+Työtön, hakee aktiivisesti työtä 
+Työtön, haluaa töihin, mutta ei aktiivisesti hae työtä 
+Pysyvästi sairas tai työkyvytön 
+Eläkkeellä 
+Varusmies- tai siviilipalvelussa 
+Kotiäiti tai –isä, omaishoitaja tms., hoitaa lapsia tai muuta henkilöä / muita henkilöitä 
+(Muu)
+
+F9
+{QUESTION}
+Oletteko tehnyt ansiotyötä (vähintään yhden tunnin ajan) viimeisten seitsemän päivän aikana?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F10
+{QUESTION}
+Oletteko koskaan ollut ansiotyössä?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F11
+{QUESTION}
+Minä vuonna olitte viimeksi ansiotyössä?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Oletteko pääasiallisessa työssänne:
+
+{ANSWERS}
+Palkansaaja 
+Yrittäjä 
+vai työssä perheyrityksessä, maatilalla tai avustava perheenjäsen? 
+
+F13
+{QUESTION}
+Kuinka monta palkattua työntekijää (jos yhtään) yrityksessänne on?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Onko työnne:
+
+{ANSWERS}
+vakituinen
+määräaikainen (työsopimuksen päättyminen jo sovittu) 
+vai eikö Teillä ole/ ollut sopimusta? 
+
+F15
+{QUESTION}
+Kuinka monta ihmistä työpaikallanne työskentelee teidät itsenne mukaan laskien:
+
+{ANSWERS}
+Alle 10 
+10 – 24 
+25 – 99 
+100 – 499 
+vai 500 tai enemmän? 
+
+F16
+{QUESTION}
+Onko teillä päätyössänne alaisia tai kuuluiko tehtäviinne ohjata muiden tekemää työtä eli oletteko esimiesasemassa?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F17
+{QUESTION}
+Kuinka monta alaista teillä on?
+
+
+{ANSWERS}
+
+F18
+{INTRO}
+Luen seuraavaksi työelämään liittyviä asioita. 
+
+{QUESTION}
+Käyttäkää korttia 44 ja kertokaa, kuinka paljon työpaikkanne johto antaa Teidän: päättää siitä, kuinka päivittäinen työnne järjestetään?
+
+{ANSWERS}
+0 en voi vaikuttaa ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 voin päättää kokonaan itse
+
+F19
+{QUESTION}
+vaikuttaa organisaation toiminnasta tehtäviin periaateratkaisuihin?
+
+{ANSWERS}
+0 en voi vaikuttaa ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 voin päättää kokonaan itse
+
+F19a
+{QUESTION}
+valita oman työtahtinne tai muuttaa sitä?
+
+{ANSWERS}
+0 en voi vaikuttaa ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 voin päättää kokonaan itse
+
+F20
+{QUESTION}
+Mikä on säännöllinen viikkotyöaikanne (päätyössä, joko työsopimuksessa määritelty tai muotoutunut käytännössä) pois lukien palkalliset ja palkattomat ylityöt?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Riippumatta sovitusta työajasta, kuinka monta tuntia työskentelette  tavallisesti normaalin viikon aikana mukaan lukien kaikki palkalliset ja palkattomat ylityöt?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Mikä on ammattinimikkeenne päätyössänne
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Mitkä ovat pääasialliset tehtävänne päätyössänne?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Mitä koulutusta ja pätevyysvaatimuksia työnne edellyttää?
+
+{ANSWERS}
+
+F25a 
+{QUESTION}
+Mikä on työpaikkanne nimi.
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Mitä yritys tai organisaatio, jossa olette työssä pääasiassa tekee / olitte työssä pääasiassa teki?
+
+{ANSWERS}
+
+F25Bfin
+{QUESTION}
+Oletteko pääasiallisessa työssänne:
+
+{ANSWERS}
+yksityisen yrityksen palveluksessa
+kunnan, kuntainliiton tai kuntayhtymän palveluksessa
+valtion palveluksessa
+valtion tai kunnan liikelaitoksen tai yrityksen palveluksessa
+muun yhteisön tai järjestön palveluksessa
+yksityisyrittäjänä/ maanviljelijänä
+vai seurakunnan palveluksessa? 
+muu 
+
+F25Bfin_1 
+{QUESTION}
+Minkä palveluksessa?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Oletteko viimeisen 10 vuoden aikana ollut ansiotyössä ulkomailla vähintään 6 kuukauden pituisen jakson (tai pidempään)?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F27
+{QUESTION}
+Oletteko koskaan ollut työttömänä työnhakijana yhtäjaksoisesti yli kolmen kuukauden pituisen jakson?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F28
+{QUESTION}
+Onko mikään näistä jaksoista kestänyt 12 kuukautta tai kauemmin?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F29
+{QUESTION}
+Onko jokin näistä jaksoista ollut viimeisten viiden vuoden aikana?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F30
+{QUESTION}
+Oletteko nykyisin tai oletteko joskus ollut jonkin ammattiliiton tai vastaavan jäsen? Jos kyllä, kysy: Nykyään vai aiemmin?
+
+{ANSWERS}
+Kyllä, olen tällä hetkellä 
+Kyllä, olen aiemmin ollut 
+En 
+
+F31
+{QUESTION}
+Jos mietitte koko kotitaloutenne jäsenten tuloja, mikä on kotitaloutenne pääasiallisin toimeentulon lähde. Käyttäkää korttia 45?
+
+{ANSWERS}
+Palkkatulot 
+Tulot omasta yrityksestä (ei maatilalta) 
+Tulot maatilalta 
+Eläketulot 
+Työttömyysturva 
+Muut sosiaalietuudet tai määrärahat/ tuet 
+Sijoitustulot, säästöt, pääomatulot 
+Muut tulot 
+
+F32
+{QUESTION}
+Käyttäkää korttia 46. Jos laskette yhteen kotitaloutenne kaikki tulot, kuinka paljon kotitaloutenne nettotulot (tulot verojen jälkeen) yhteensä kuukaudessa ovat? Jos ette tiedä tarkkaa lukua, voitte kertoa arvionne.
+
+{ANSWERS}
+Alle 150 € (Alle 890 mk) 
+150 €- 299 € (890–1779 mk) 
+300 € - 499 € (1780 –2969 mk) 
+500 € - 999 € (2 970 – 5 939 mk) kuukaudessa 
+1000 € - 1499 € (5 940 – 8 919 mk) kuukaudessa 
+1500 € - 1999 € (8 920 – 11 889 mk) kuukaudessa 
+2000 € - 2499 € (11 890 – 14 859 mk) kuukaudessa 
+2500 € - 2999 € (14 860 – 17 829 mk) kuukaudessa 
+3000 € - 4999 € (17 830 – 29 729 mk) kuukaudessa 
+5000 € - 7499 € (29 730 – 44 589 mk) kuukaudessa 
+7500 € - 10000 € (44 590 – 59 460 mk) kuukaudessa 
+Yli 10 000 € (Yli 59 460 mk) kuukaudessa 
+
+F32a
+{QUESTION}
+Kuinka suuren osan kotitaloutenne tuloista hankitte itse. Käyttäkää korttia 47?
+
+{ANSWERS}
+En ollenkaan 
+Hyvin pienen osan 
+Vähemmän kuin puolet 
+Noin puolet 
+Yli puolet 
+Hyvin suuren osan 
+Kaikki 
+
+F33
+{QUESTION}
+Mikä kortilla 48 olevista kuvauksista on lähimpänä sitä, minkälaiset kotitaloutenne tulot ovat tällä hetkellä?
+
+{ANSWERS}
+Nykyisillä tuloilla elää mukavasti 
+Nykyisillä tuloilla tulee toimeen 
+Nykyisillä tuloilla on vaikeuksia tulla toimeen 
+Nykyisillä tuloilla on hyvin vaikea tulla toimeen 
+
+F34
+{QUESTION}
+Jos jostakin syystä joutuisitte vakaviin taloudellisiin ongelmiin ja joutuisitte lainaamaan rahaa selvitäksenne menoistanne, niin miten helppoa tai vaikeaa se olisi. Käyttäkää korttia 49? 
+
+{ANSWERS}
+Hyvin vaikeata 
+Melko vaikeata 
+Ei helppoa mutta ei vaikeatakaan 
+Melko helppoa 
+Hyvin helppoa 
+
+F36
+{QUESTION}
+Käyttäkää korttia 50. Mikä on korkein koulutus, jonka avio on suorittanut?
+
+{ANSWERS}
+Vähemmän kuin peruskoulun ala-aste tai vastaava 
+Peruskoulun ala-aste (1-6 luokat), kansakoulu 
+Peruskoulun yläaste (7-9/10 luokat), keskikoulu 
+Lukio, ylioppilas- tai ammatillinen tutkinto 
+Opisto- tai korkeakoulututkinto 
+Lisensiaatin tai tohtorin tutkinto 
+
+F37a
+{QUESTION}
+Mitkä kortilla 51 esitetyistä kuvauksista sopivat siihen, mitä puolisonne on tehnyt viimeisten 7 päivän aikana?
+
+{ANSWERS}
+Ansiotyössä (tai tilapäisesti pois ansiotyöstä) (työntekijä, yrittäjä, maanviljelijä, avustava perheenjäsen jne.) 
+Opiskelija (ei työnantajan maksama koulutus, ml. lomalla) 
+Työtön, hakee aktiivisesti työtä 
+Työtön, haluaa töihin, mutta ei aktiivisesti hae työtä 
+Pysyvästi sairas tai työkyvytön 
+Eläkkeellä 
+Varusmies- tai siviilipalvelussa 
+Kotiäiti tai –isä, omaishoitaja tms., hoitaa lapsia tai muuta henkilöä / muita henkilöitä 
+(muu)
+
+F37c
+{QUESTION}
+Entä mikä seuraavista kuvauksista parhaiten sopii siihen, mitä hän on tehnyt viimeisten seitsemän päivän aikana?
+
+{ANSWERS}
+Ansiotyössä (tai tilapäisesti pois ansiotyöstä) (työntekijä, yrittäjä, maanviljelijä, avustava perheenjäsen jne.) 
+Opiskelija (ei työnantajan maksama koulutus, ml. lomalla) 
+Työtön, hakee aktiivisesti työtä 
+Työtön, haluaa töihin, mutta ei aktiivisesti hae työtä 
+Pysyvästi sairas tai työkyvytön 
+Eläkkeellä 
+Varusmies- tai siviilipalvelussa 
+Kotiäiti tai –isä, omaishoitaja tms., hoitaa lapsia tai muuta henkilöä / muita henkilöitä 
+(muu)
+
+F38
+{QUESTION}
+Tekikö puolisonne ollenkaan ansiotyötä (vähintään yhden tunnin ajan) viimeisten seitsemän päivän aikana?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F39
+{QUESTION}
+Mikä on hänen ammattinimikkeensä?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Mitkä ovat hänen pääasialliset tehtävänsä päätyössään?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Mitä koulutusta ja pätevyysvaatimuksia hänen työnsä edellyttää ?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Onko hän päätyössään:
+
+{ANSWERS}
+Palkansaaja 
+Yrittäjä 
+Vai työssä perheyrityksessä, maatilalla tai avustava perheenjäsen? SIIRRY F44
+
+F43
+{QUESTION}
+Kuinka monta työntekijää hänellä on?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Onko hänellä päätyössään alaisia tai kuuluuko hänen tehtäviinsä ohjata muiden tekemää työtä, eli onko hän esimiesasemassa?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F45
+{QUESTION}
+Kuinka monta alaista hänellä on?
+
+{ANSWERS}
+
+F45Bfin
+{QUESTION}
+Onko puolisonne pääasiallisessa työssään:
+
+{ANSWERS}
+yksityisen yrityksen palveluksessa
+kunnan, kuntainliiton tai kuntayhtymän palveluksessa
+valtion palveluksessa
+valtion tai kunnan liikelaitoksen tai yrityksen palveluksessa
+muun yhteisön tai järjestön palveluksessa
+yksityisyrittäjänä/ maanviljelijänä 
+vai seurakunnan palveluksessa? 
+muu 
+
+F45Bfin_1 
+{QUESTION}
+Mikä?
+
+{ANSWERS}
+
+F46
+{QUESTION}
+Luen seuraavaksi työelämään liittyviä asioita. Käyttäkää korttia 52 ja kertokaa, kuinka paljon puolisonne työpaikan johto antaa hänen: päättää siitä, kuinka hänen päivittäinen työnsä järjestetään?
+
+{ANSWERS}
+0 Hän ei voi vaikuttaa ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hän voi päättää kokonaan itse
+
+F47
+{QUESTION}
+vaikuttaa organisaation toiminnasta tehtäviin periaateratkaisuihin?
+
+{ANSWERS}
+0 Hän ei voi vaikuttaa ollenkaan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hän voi päättää kokonaan itse
+
+F48
+{QUESTION}
+Kuinka monta tuntia hän tavallisesti työskentelee normaalin viikon aikana? Laskekaa mukaan kaikki palkalliset ja palkattomat ylityöt.
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Käyttäkää korttia 53. Mikä on korkein koulutus, jonka isänne on suorittanut?
+
+{ANSWERS}
+Vähemmän kuin peruskoulun ala-aste tai vastaava 
+Peruskoulun ala-aste (1-6 luokat), kansakoulu 
+Peruskoulun yläaste (7-9/10 luokat), keskikoulu 
+Lukio, ylioppilas- tai ammatillinen tutkinto 
+Opisto- tai korkeakoulututkinto 
+Lisensiaatin tai tohtorin tutkinto 
+
+F50
+{QUESTION}
+Kun olitte 14-vuotias, oliko isänne tuolloin:
+
+{ANSWERS}
+palkansaaja
+yrittäjä tai maanviljelijä
+vai oliko hän työvoiman ulkopuolella ? 
+(Isä kuollut / poissa, kun vja 14) 
+
+F51
+{QUESTION}
+Kuinka monta työntekijää hänellä oli?
+
+{ANSWERS}
+Ei yhtään 
+1 – 24 
+25 tai enemmän 
+
+F52
+{QUESTION}
+Kuuluiko hänen tehtäviinsä ohjata muiden työntekijöiden työtä, eli oliko hän esimiesasemassa?
+
+{ANSWERS}
+Kyllä 
+Ei 
+
+F53
+{QUESTION}
+Mikä on hänen ammattinimikkeensä?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Mikä kortilla 54 esitetyistä kuvauksista parhaiten sopii siihen työhön, jota isänne teki silloin, kun olitte 14-vuotias?
+
+{ANSWERS}
+Perinteiset ylemmät toimihenkilöammatit (esim. tilintarkastaja, asianajaja, lääkäri, tutkija, insinööri) 
+Uudet toimihenkilöammatit (esim. opettaja, sairaanhoitaja, fysioterapeutti, sosiaalityöntekijä, taiteilija, muusikko, rikosetsivä, tietokoneohjelmistosuunnittelija) 
+Toimistotyöntekijät ja muut alemmat toimihenkilöt (esim. sihteeri, avustaja, toimistosihteeri, puhelinvaihteen hoitaja, lastenhoitaja) 
+Ylemmät johtajat ja toimitusjohtajat (yleensä vastuussa suunnittelusta, työn järjestämisestä ja
+yrityksen tai organisaation rahoituksesta, esim. talouspäällikkö, toimitusjohtaja) 
+Tekniset ja käsityöammatit (esim. autonasentaja, putkiasentaja, sähköasentaja, maanviljelijä, puutarhuri, veturinkuljettaja) 
+Palveluala, toimihenkilöt (esim. postivirkailija, vartija, vastaanottovirkailija, myymäläapulainen, maataloustyöntekijä, koneenhoitaja) 
+Palveluala, suorittava taso (esim. autonkuljettaja, siistijä, ompelija, pakkaaja, lähetti, tarjoilija, ravintolatyöntekijä, sekatyöntekijä) 
+Alemmat johtajat (esim. toimistonjohtaja, tukkukauppias, pankinjohtaja, tilanhoitaja, ravintolapäällikkö, varastopäällikkö) 
+
+F55
+{QUESTION}
+Mikä on korkein koulutus, jonka äitinne on suorittanut. Käyttäkää korttia 55.?
+
+{ANSWERS}
+Vähemmän kuin peruskoulun ala-aste tai vastaava 
+Peruskoulun ala-aste (1-6 luokat), kansakoulu 
+Peruskoulun yläaste (7-9/10 luokat), keskikoulu 
+Lukio, ylioppilas- tai ammatillinen tutkinto 
+Opisto- tai korkeakoulututkinto 
+Lisensiaatin tai tohtorin tutkinto 
+
+F56
+{QUESTION}
+Kun olitte 14-vuotias, oliko äitinne:
+
+{ANSWERS}
+palkansaaja
+yrittäjä tai maanviljelijä
+vai oliko hän työvoiman ulkopuolella ? 
+(Äiti kuollut / poissa, kun vja 14) 
+
+F57
+{QUESTION}
+Kuinka monta työntekijää hänellä oli?
+
+{ANSWERS}
+Ei yhtään 
+1 – 24 
+25 tai enemmän 
+
+F58
+{QUESTION}
+Kuuluiko hänen tehtäviinsä ohjata muiden työntekijöiden työtä, eli oliko hän esimiesasemassa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F59
+{QUESTION}
+Mikä oli hänen ammattinimikkeensä?
+
+F60
+{QUESTION}
+Mikä kortilla 56 esitetyistä kuvauksista parhaiten kuvaa hänen työtään silloin, kun olitte 14-vuotias?
+
+{ANSWERS}
+Perinteiset ylemmät toimihenkilöammatit (esim. tilintarkastaja, asianajaja, lääkäri, tutkija, insinööri) 
+Uudet toimihenkilöammatit (esim. opettaja, sairaanhoitaja, fysioterapeutti, sosiaalityöntekijä, taiteilija, muusikko, rikosetsivä, tietokoneohjelmistosuunnittelija) 
+Toimistotyöntekijät ja muut alemmat toimihenkilöt (esim. sihteeri, avustaja, toimistosihteeri, puhelinvaihteen hoitaja, lastenhoitaja) 
+Ylemmät johtajat ja toimitusjohtajat (yleensä vastuussa suunnittelusta, työn järjestämisestä ja
+yrityksen tai organisaation rahoituksesta, esim. talouspäällikkö, toimitusjohtaja) 
+Tekniset ja käsityöammatit (esim. autonasentaja, putkiasentaja, sähköasentaja, maanviljelijä, puutarhuri, veturinkuljettaja) 
+Palveluala, toimihenkilöt (esim. postivirkailija, vartija, vastaanottovirkailija, myymäläapulainen, maataloustyöntekijä, koneenhoitaja) 
+Palveluala, suorittava taso (esim. autonkuljettaja, siistijä, ompelija, pakkaaja, lähetti, tarjoilija, ravintolatyöntekijä, sekatyöntekijä) 
+Alemmat johtajat (esim. toimistonjohtaja, tukkukauppias, pankinjohtaja, tilanhoitaja, ravintolapäällikkö, varastopäällikkö) 
+
+F61
+{QUESTION}
+Oletteko viimeisen 12 kuukauden aikana osallistunut jollekin kurssille, luennoille tai konferenssiin parantaaksenne ammattitaitoanne?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F62
+{QUESTION}
+Kysyisin tämänhetkisestä virallisesta siviilisäädystänne. Mikä seuraavista sopii Teihin. Käyttäkää korttia 57?
+
+{ANSWERS}
+Naimisissa 
+Asumuserossa (yhä virallisesti naimisissa) 
+Eronnut 
+Leski 
+En ole koskaan ollut naimisissa 
+
+F63
+{QUESTION}
+Asutteko tällä hetkellä aviopuolisonne kanssa yhdessä?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F64
+{QUESTION}
+ Asutteko tällä hetkellä yhdessä jonkun muun kumppanin kanssa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F65
+{QUESTION}
+Asutteko tällä hetkellä yhdessä kumppanin kanssa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F66
+{QUESTION}
+Oletteko koskaan asunut yhdessä jonkun kumppanin kanssa ilman, että olette ollut naimisissa (tai rekisteröidyssä parisuhteessa) hänen kanssaan?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F68
+{QUESTION}
+Oletteko koskaan eronnut?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F70
+{QUESTION}
+Oletteko koskaan asunut samassa kotitaloudessa omien tai puolisonne lasten, adoptio- tai sijaislasten kanssa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F70a
+{QUESTION}
+Onko äitinne elossa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+F70b
+{QUESTION}
+Onko isänne elossa?
+
+{ANSWERS}
+Kyllä
+Ei 
+
+ 

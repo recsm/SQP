@@ -1,0 +1,1866 @@
+﻿A1
+{QUESTION}
+Hvor lang tid bruger du i alt på at se fjernsyn på en almindelig hverdag?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+A2 
+{QUESTION}
+Hvor meget af den tid, du ser fjernsyn på en almindelig hverdag, bruger du på at se nyheder eller programmer om politik og aktuelle emner?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+A3 
+{QUESTION}
+Hvor lang tid bruger du i alt på at høre radio på en almindelig hverdag?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+
+A4 
+{QUESTION}
+Hvor meget af den tid, du hører radio på en almindelig hverdag, bruger du på at høre nyheder eller programmer om politik og aktuelle emner?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+A5 
+{QUESTION}
+Hvor lang tid bruger du i alt på at læse aviser på en almindelig hverdag?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+A6 
+{QUESTION}
+Og hvor meget af denne tid bruger du på at læse om politik og aktuelle emner?
+
+{ANSWERS}
+Slet ingen tid
+Mindre end ½ time
+½ time til 1 time
+Mere end 1 time, højst 1½ time 
+Mere end 1½ time, højst 2 timer 
+Mere end 2 timer, højst 2½ time 
+Mere end 2½ time, højst 3 timer 
+Mere end 3 timer
+
+A7 
+{QUESTION}
+Hvor ofte bruger du internettet eller e-mail til personlig brug enten hjemme eller på arbejde?
+
+{ANSWERS}
+Ingen adgang hjemme eller på arbejde
+Aldrig 
+Under én gang om måneden 
+Én gang om måneden 
+Flere gange om måneden
+Én gang om ugen 
+Flere gange om ugen
+Hver dag 
+
+A8 
+{QUESTION}
+Mener du, at de fleste mennesker i det store og hele er til at stole på, eller kan man ikke være for forsigtig, når man har med andre mennesker at gøre? Giv din vurdering på en skala fra 0 til 10, hvor 0 betyder, at man ikke kan være for forsigtig, og 10 betyder, at de fleste mennesker er til at stole på. 
+
+{ANSWERS}
+00 Man kan ikke være for forsigtig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 De fleste mennesker er til at stole på 
+
+A9 
+{QUESTION}
+Tror du, at de fleste mennesker ville prøve at udnytte dig, hvis de havde mulighed for det, eller ville de prøve at være reelle? Giv din vurdering på en skala fra 0 til 10, hvor 0 betyder, at de fleste ville prøve at udnytte mig, og 10 betyder, at de fleste ville prøve at være reelle.
+
+{ANSWERS}
+00 De fleste mennesker ville prøve at udnytte mig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 De fleste mennesker ville prøve at være reelle
+
+A10
+{QUESTION}
+Mener du, at andre mennesker for det meste prøver at være hjælpsomme, eller tænker de mest på sig selv? Giv din vurdering på en skala fra 0 til 10, hvor 0 betyder, at mennesker tænker mest påsig selv, og 10 betyder, at mennesker prøver mest at være hjælpsomme.
+
+{ANSWERS}
+00 Mennesker tænker mest på sig selv
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mennesker prøver mest at være hjælpsomme
+
+{INTRO}
+Nu vil vi gerne stille dig nogle spørgsmål om politik og regering.
+
+B1
+{QUESTION}
+Hvor interesseret vil du sige, at du er i politik – er du…
+
+{ANSWERS}
+Meget interesseret?
+Ret interesseret? 
+Næsten ikke interesseret? 
+Slet ikke interesseret?
+
+B2
+{QUESTION}
+Hvor ofte virker politik så kompliceret, at du ikke rigtig forstår, hvad der foregår?
+
+{ANSWERS}
+Aldrig 
+Sjældent 
+Nu og da 
+Jævnligt 
+Ofte
+
+B3 
+{QUESTION}
+Hvor svært eller let har du ved at tage stilling i politiske spørgsmål? 
+
+{ANSWERS}
+Meget svært
+Svært 
+Hverken let eller svært
+Let
+Meget let
+
+B4
+{QUESTION}
+Fortæl mig på en skala fra 0 til 10, hvor stor tillid du personligt har til hver af de institutioner, jeg nævner. 0 betyder, at du slet ingen tillid har til institutionen, og 10 betyder, at du har fuld tillid til den… Folketinget?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+B5
+{QUESTION}
+.…retssystemet?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+B6
+{QUESTION}
+.…politiet?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+
+B7
+{QUESTION}
+.…politikerne?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+
+B8
+{QUESTION}
+.…de politiske partier?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+
+B9
+{QUESTION}
+.…Europa-Parlamentet?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+B10
+{QUESTION}
+.…FN?
+
+{ANSWERS}
+00 Slet ingen tillid
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fuld tillid
+
+B11
+{INTRO}
+I vore dage er der nogle mennesker, der af den ene eller den anden grund ikke stemmer. 
+
+{QUESTION}
+Stemte du ved det seneste folketingsvalg i februar 2005??
+
+{ANSWERS}
+Ja
+Nej 
+Var ikke stemmeberettiget 
+
+B12
+{QUESTION}
+Hvilket parti stemte du på ved det folketingsvalg?
+
+{ANSWERS}
+Socialdemokratiet 
+Det Radikale Venstre
+Det Konservative Folkeparti
+Centrum-Demokraterne 
+Socialistisk Folkeparti 
+Dansk Folkeparti
+Kristeligt Folkeparti 
+Venstre 
+Fremskridtspartiet 
+Enhedslisten 
+Andet 
+Skriv, hvis andet
+
+B13
+{INTRO}
+Der er forskellige måder, hvorpå man kan forsøge at forbedre forholdene i Danmark eller hjælpe med at forhindre, at tingene går galt. 
+
+{QUESTION}
+Har du foretaget dig noget af følgende i de seneste 12 måneder? … kontaktet en politiker eller en embedsmand i stat eller kommune?
+
+{ANSWERS}
+Ja 
+Nej
+
+B14
+{QUESTION}
+... arbejdet i et politisk parti eller en aktionsgruppe?
+
+{ANSWERS}
+Ja 
+Nej
+
+B15
+{QUESTION}
+... arbejdet i en anden organisation eller forening?
+
+{ANSWERS}
+Ja 
+Nej
+
+B16
+{QUESTION}
+… gået med eller fremvist kampagnebadge?
+
+{ANSWERS}
+Ja 
+Nej
+
+B17
+{QUESTION}
+… skrevet under ved en underskriftsindsamling?
+
+{ANSWERS}
+Ja 
+Nej
+
+B18
+{QUESTION}
+… deltaget i en lovlig, offentlig demonstration?
+
+{ANSWERS}
+Ja 
+Nej
+
+B19
+{QUESTION}
+… boykottet bestemte produkter?
+
+{ANSWERS}
+Ja 
+Nej
+
+B20a
+{QUESTION}
+Er der et bestemt politisk parti, du føler dig tættere på end alle andre partier? 
+
+{ANSWERS}
+Ja 
+Nej
+
+B20b
+{QUESTION}
+Hvilket parti?
+
+{ANSWERS}
+Socialdemokratiet 
+Det Radikale Venstre
+Det Konservative Folkeparti
+Centrum-Demokraterne 
+Socialistisk Folkeparti 
+Dansk Folkeparti
+Kristeligt Folkeparti 
+Venstre 
+Fremskridtspartiet 
+Enhedslisten 
+Andet 
+Skriv, hvis andet
+
+B20c
+{QUESTION}
+Hvor tæt føler du, at du er på dette parti? Føler du, at du er…
+
+{ANSWERS}
+Meget tæt
+Ret tæt 
+Ikke tæt 
+Slet ikke tæt 
+
+B21
+{QUESTION}
+Er du medlem af et politisk parti? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+B22
+{QUESTION}
+Hvilket parti?
+
+{ANSWERS}
+Socialdemokratiet 
+Det Radikale Venstre
+Det Konservative Folkeparti
+Centrum-Demokraterne 
+Socialistisk Folkeparti 
+Dansk Folkeparti
+Kristeligt Folkeparti 
+Venstre 
+Fremskridtspartiet 
+Enhedslisten 
+Andet 
+Skriv, hvis andet
+
+B23 
+{INTRO}
+I politik bruges sommetider betegnelserne "venstre" og "højre". 
+
+{QUESTION}
+Hvor vil du placere dig selv på denne skala, hvor 0 betyder venstre, og 10 betyder højre?
+
+{ANSWERS}
+00 Venstre fløj
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Højre fløj
+
+B24 
+{QUESTION}
+Når alt tages i betragtning, hvor tilfreds er du så nu med dit liv som helhed? Brug dette kort, hvor 0 betyder særdeles utilfreds og 10 betyder særdeles tilfreds.
+
+{ANSWERS}
+00 Særdeles utilfreds
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles tilfreds
+
+B25 
+{QUESTION}
+Hvor tilfreds er du generelt med den nuværende økonomiske situation i Danmark? Brug dette kort, hvor 0 betyder særdeles utilfreds og 10 betyder særdeles tilfreds.
+
+{ANSWERS}
+00 Særdeles utilfreds
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles tilfreds
+
+
+B26 
+{QUESTION}
+Hvor tilfreds er du med den måde, regeringen udfører sit arbejde på? Brug dette kort, hvor 0 betyder særdeles utilfreds og 10 betyder særdeles tilfreds.
+
+{ANSWERS}
+00 Særdeles utilfreds
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles tilfreds
+
+B27 
+{QUESTION}
+Hvor tilfreds er du generelt med den måde, demokratiet fungerer på i Danmark? Brug dette kort, hvor 0 betyder særdeles utilfreds og 10 betyder særdeles tilfreds.
+
+{ANSWERS}
+00 Særdeles utilfreds
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles tilfreds
+
+B28 
+{QUESTION}
+Hvad mener du generelt om uddannelsesforholdene i Danmark i dag? Brug dette kort, hvor 0 betyder særdeles dårlige og 10 betyder særdeles gode.
+
+{ANSWERS}
+00 Særdeles dårlige
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles gode
+
+B29 
+{QUESTION}
+Hvad mener du generelt om forholdene i sundhedssektoren i Danmark i dag? Brug dette kort, hvor 0 betyder særdeles dårlige og 10 betyder særdeles gode.
+
+{ANSWERS}
+00 Særdeles dårlige
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles gode
+
+B30
+{QUESTION}
+I hvor høj grad er du enig eller uenig i hvert af følgende udsagn? Regeringen bør tage skridt til at reducere forskelle I indkomstniveau
+
+{ANSWERS}
+Meget enig 
+Enig
+Hverken enig eller uenig 
+Uenig
+Meget uenig
+
+B31
+{QUESTION}
+Bøsser og lesbiske har ret til at leve deres eget liv på den måde, de ønsker 
+
+{ANSWERS}
+Meget enig 
+Enig
+Hverken enig eller uenig 
+Uenig
+Meget uenig
+
+B32
+{QUESTION}
+Politiske partier, der ønsker at omstyrte demokratiet, bør forbydes 
+ 
+{ANSWERS}
+Meget enig 
+Enig
+Hverken enig eller uenig 
+Uenig
+Meget uenig
+
+B33
+{QUESTION}
+Man kan roligt regne med, at den moderne videnskab kan løse vores miljøproblemer 
+
+{ANSWERS}
+Meget enig 
+Enig
+Hverken enig eller uenig 
+Uenig
+Meget uenig
+
+B34 
+{QUESTION}
+Og nu til EU. Nogle mener, integrationen (i betydningen tættere samarbejde) i EU skal fortsætte, mens andre mener, den allerede er gået for vidt. Brug dette kort, hvor 0 betyder, at integrationen i EU er gået for vidt, og 10 betyder, at den skal fortsætte?
+
+{ANSWERS}
+00 Integrationen i EU er allerede gået for vidt
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Integrationen i EU skal fortsætte
+
+{INTRO}
+Nu kommer der nogle spørgsmål om mennesker, der flytter til Danmark fra andre lande.
+
+B35 
+{QUESTION}
+I hvilket omfang synes du, at Danmark bør tillade mennesker, der tilhører samme etniske gruppe som de fleste danskere, at flytte hertil? 
+
+{ANSWERS}
+Tillade mange at flytte hertil
+En del 
+Nogle få 
+Ingen
+
+B36 
+{QUESTION}
+Hvad med mennesker, der tilhører en anden etnisk gruppe end de fleste danskere?
+
+{ANSWERS}
+Tillade mange at flytte hertil
+En del 
+Nogle få 
+Ingen
+
+B37 
+{QUESTION}
+Og hvad med mennesker fra de fattigere lande uden for Europa?
+
+{ANSWERS}
+Tillade mange at flytte hertil
+En del 
+Nogle få 
+Ingen
+
+B38 
+{QUESTION}
+Mener du, at det generelt er godt eller dårligt for Danmarks økonomi, at mennesker fra andre lande flytter hertil? Brug dette kort, hvor 0 betyder, at det er dårligt for økonomien, og 10 betyder, at det er godt for økonomien.
+
+{ANSWERS}
+00 Dårligt for økonomien
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Godt for økonomien
+
+B39 
+{QUESTION}
+Mener du, at Danmarks kultur generelt undergraves eller beriges af, at mennesker fra andre lande flytter hertil? Brug dette kort, hvor 0 betyder, at kulturen undergraves, og 10 betyder, at kulturen beriges.
+
+{ANSWERS}
+00 Kulturen undergraves
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Kulturen beriges
+
+B40 
+{QUESTION}
+Bliver Danmark et bedre eller dårligere sted at bo af, at mennesker fra andre lande flytter hertil? Brug dette kort, hvor 0 betyder, at Danmark bliver et dårligere sted at bo, og 10 betyder, at Danmark bliver et bedre sted at bo.
+
+{ANSWERS}
+00 Dårligere sted at bo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Bedre sted at bo
+
+{INTRO}
+Nu kommer der nogle spørgsmål om dig selv og dit liv.
+
+C1 
+{QUESTION}
+Når alt tages i betragtning, hvor lykkelig synes du så, du er? Brug dette kort, hvor 0 betyder, at du er særdeles ulykkelig, og 10 betyder, at du er særdeles lykkelig.
+
+{ANSWERS}
+00 Særdeles ulykkelig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles lykkelig
+
+
+C2 
+{QUESTION}
+Hvor ofte mødes du med venner, familie eller kolleger? 
+
+{ANSWERS}
+Aldrig 
+Mindre end én gang om måneden
+Én gang om måneden 
+Flere gange om måneden
+Én gang om ugen 
+Flere gange om ugen
+Hver dag 
+
+C3
+{QUESTION}
+Har du nogen, du kan tale med om intime og personlige spørgsmål? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+C4 
+{QUESTION}
+Hvor ofte vil du mene, at du deltager i sociale aktiviteter sammenlignet med andre på din alder? 
+
+{ANSWERS}
+Langt sjældnere end de fleste 
+Sjældnere end de fleste
+Lige så ofte som andre 
+Oftere end de fleste 
+Meget oftere end de fleste 
+
+C5
+{QUESTION}
+Har du eller et medlem af din husstand været udsat for indbrudstyveri eller overfald inden for de sidste 5 år?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C6
+{QUESTION}
+Hvor tryg føler du dig ved at gå alene her i området efter mørkets frembrud? Føler du dig …
+
+{ANSWERS}
+Meget tryg? 
+Tryg?
+Utryg?
+Meget utryg? 
+
+C7 
+{QUESTION}
+Hvor ofte er du bekymret for at få indbrud i dit hjem?
+
+{ANSWERS}
+Hele tiden eller det meste af tiden
+Nogen gange 
+Kun en gang imellem 
+Aldrig 
+
+C8 
+{QUESTION}
+Har dine bekymringer om indbrud i hjemmet…
+
+{ANSWERS}
+en alvorlig indvirkning på din livskvalitet 
+nogen indvirkning 
+ingen indvirkning på din livskvalitet 
+
+C9 
+{QUESTION}
+Hvor ofte er du bekymret for, at du kan blive udsat for en voldelig forbrydelse?
+
+{ANSWERS}
+Hele tiden eller det meste af tiden
+Nogen gange 
+Kun en gang imellem 
+Aldrig  
+
+C10 
+{QUESTION}
+Har dine bekymringer om at blive udsat for en voldelig forbrydelse ...
+
+{ANSWERS}
+en alvorlig indvirkning på din livskvalitet 
+nogen indvirkning på din livskvalitet 
+ingen indvirkning på din livskvalitet 
+
+{INTRO}
+Jeg vil nu gerne stille dig nogle spørgsmål om terrorisme.
+
+C11 
+{QUESTION}
+Tror du, at et terrorangreb et sted i Europa i løbet af de næste 12 måneder er...
+
+{ANSWERS}
+meget sandsynligt 
+sandsynligt 
+ikke særlig sandsynligt 
+slet ikke sandsynligt 
+
+C12 
+{QUESTION}
+Tror du, at et terrorangreb et sted i Danmark i løbet af de næste 12 måneder er... 
+
+{ANSWERS}
+meget sandsynligt 
+sandsynligt 
+ikke særlig sandsynligt 
+slet ikke sandsynligt 
+
+C13
+{QUESTION}
+Brug dette kort til at angive, hvor enig eller uenig du er i hvert af de følgende udsagn. Hvis en mand mistænkes for at planlægge et terrorangreb i Danmark, skal politiet have beføjelser til at holde ham fængslet, indtil de er overbevist om, at han ikke er involveret.
+
+{ANSWERS}
+Meget enig
+Enig
+Hverken enig eller uenig
+Uenig 
+Meget uenig
+
+C14 
+{QUESTION}
+Man kan aldrig retfærdiggøre tortur af en fange i et dansk fængsel, selv om det måske kunne frembringe oplysninger, der kunne forhindre et terrorangreb.
+
+{ANSWERS}
+Meget enig
+Enig
+Hverken enig eller uenig
+Uenig 
+Meget uenig
+
+{INTRO}
+Det næste sæt spørgsmål drejer sig om dig selv.
+
+C15
+{QUESTION}
+Hvordan er dit helbred generelt? Vil du sige, at det er…
+
+{ANSWERS}
+Meget godt? 
+Godt?
+Rimeligt? 
+Dårligt? 
+Meget dårligt? 
+
+C16
+{QUESTION}
+Er du på nogen måde begrænset i dine daglige aktiviteter på grund af langvarig sygdom, handicap, svaghed eller psykiske problemer? Hvis ja, er det meget eller i nogen grad?
+
+{ANSWERS}
+Ja, meget
+Ja, i nogen grad
+Nej 
+
+C17
+{QUESTION}
+Betragter du dig selv som tilhørende en bestemt religion eller trosretning? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+C18
+{QUESTION}
+Hvilken religion eller trosretning?
+
+{ANSWERS}
+Romersk-katolsk 
+Protestantisk
+Græsk-ortodoks
+Andre kristne religioner
+Jødisk 
+Islam 
+Østlige religioner
+Andre ikke-kristne religioner 
+
+C19
+{QUESTION}
+Har du nogensinde betragtet dig selv som tilhørende en bestemt religion eller trosretning?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C20
+{QUESTION}
+Hvilken religion eller trosretning?
+
+{ANSWERS}
+Romersk-katolsk 
+Protestantisk
+Græsk-ortodoks
+Andre kristne religioner
+Jødisk 
+Islam 
+Østlige religioner
+Andre ikke-kristne religioner 
+
+C21 
+{QUESTION}
+Uanset om du tilhører en bestemt religion eller ej, hvor religiøs vil du sige, at du er? Brug dette kort, hvor 0 betyder, at du slet ikke er religiøs, og 10 betyder, at du er meget religiøs.
+
+{ANSWERS}
+00 Slet ikke religiøs
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Meget religiøs 
+
+C22 
+{QUESTION}
+Bortset fra ved særlige lejligheder som bryllup og begravelse, hvor ofte deltager du så i religiøse ceremonier for tiden?
+
+{ANSWERS}
+Hver dag 
+Mere end én gang om ugen
+Én gang om ugen 
+Mindst én gang om måneden 
+Kun på særlige helligdage 
+Sjældnere 
+Aldrig 
+
+C23 
+{QUESTION}
+Hvor ofte beder du, bortset fra når du er til religiøse ceremonier?
+
+{ANSWERS}
+Hver dag 
+Mere end én gang om ugen
+Én gang om ugen 
+Mindst én gang om måneden 
+Kun på særlige helligdage 
+Sjældnere 
+Aldrig 
+
+C24
+{QUESTION}
+Vil du beskrive dig selv som tilhørende en gruppe, der diskrimineres i Danmark?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C25
+{QUESTION}
+Af hvilke grunde diskrimineres den gruppe, du tilhører? 
+
+{ANSWERS}
+Hudfarve eller race 
+Nationalitet 
+Religion 
+Sprog
+Etnisk gruppe 
+Alder
+Køn
+Seksualitet
+Handicap 
+Andet
+
+C26
+{QUESTION}
+Er du dansk statsborger?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C27
+{QUESTION}
+Hvilket statsborgerskab har du?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Er du født i Danmark?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C29
+{QUESTION}
+I hvilket land er du født?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Hvor længe siden er det, at du første gang flyttede til Danmark?
+
+{ANSWERS}
+Under 1 år
+1-5 år 
+6-10 år 
+11-20 år 
+Over 20 år
+
+C31
+{QUESTION}
+Hvilket eller hvilke sprog taler du mest derhjemme?
+
+{ANSWERS}
+Skriv højst 2 sprog: 
+
+C32
+{QUESTION}
+Tilhører du en etnisk minoritetsgruppe i Danmark? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+C33
+{QUESTION}
+Er din far født i Danmark?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C34
+{QUESTION}
+I hvilket land er din far født?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Er din mor født i Danmark?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C36
+{QUESTION}
+I hvilket land er din mor født?
+
+{ANSWERS}
+
+
+{INTRO}
+Nu vil jeg gerne stille dig nogle spørgsmål om dig selv og andre i din husstand.
+
+F1
+{QUESTION}
+Hvor mange mennesker bor her fast som en del af husstanden, iberegnet dig selv og evt. børn?
+
+{ANSWERS}
+
+F3
+{QUESTION}
+I hvilket år er du født?
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Brug dette kort. Hvordan er personen i familie med dig?
+
+{ANSWERS}
+Mand/kone/samle ver
+Søn/datter (inkl. stedbarn, adoptivbarn, plejebarn og samlevers barn)
+Forælder/svigerfor ælder, samlevers forælder, stedfar eller stedmor
+Bror/søster (inkl. stedbror/søster, adoptivbror/søster , plejebror/søster)
+Andet familiemedlem
+Andet ikkefamiliemedlem
+
+F5 
+{QUESTION}
+Hvilken beskrivelse på dette kort dækker bedst det område, hvor du bor?
+
+{ANSWERS}
+En stor by 
+En forstad til eller udkanten af en stor by
+En mellemstor eller mindre by 
+En landsby
+En gård eller et hus på landet
+
+F6 
+{QUESTION}
+Hvad er den højeste uddannelse, du har taget? Brug dette kort.
+
+{ANSWERS}
+Ingen skoleuddannelse, ingen erhvervsuddannelse 
+1.-6. skoleklasse, ingen erhvervsuddannelse 
+7.-10. skoleklasse, ingen erhvervsuddannelse 
+Gymnasium, HF, HH, HTX, ingen erhvervsuddannelse 
+Erhvervsfaglige uddannelser, håndværkeruddannelser, social og sundhedshjælperuddannelser 
+Korte videregående uddannelser (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 2-3 år, fx socialpædagog, maskintekniker, politi) 
+Mellemlang videregående uddannelse (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 3-4 år, fx teknikumingeniør, lærer, sygeplejerske
+Lang videregående uddannelse (efter faglig uddannelse eller gymnasium)
+(Universitetsuddannelser fx cand.jur., læge, cand.merc., arkitektskolerne, musikkonservatorierne) 
+Overbygning på universitetseksamen, Ph.d., licentiat
+
+F6a 
+{QUESTION}
+Inden for hvilket af disse felter eller emner ligger din højeste kvalifikation?
+
+{ANSWERS}
+Alment eller intet specifikt felt
+Kunst – de skønne kunster eller anvendt kunst 
+Humaniora – sprog, klassisk filologi, historie, teologi, etc. 
+Teknik og ingeniørvæsen, inkl. arkitektur og planlægning, industri, håndværk, byggefag, etc. 
+Landbrug, fiskeri og skovbrug 
+Seminarielærer eller pædagog 
+Naturvidenskab, matematik, IT, etc. 
+Medicin, sundhedssektor, sygepleje, etc. 
+Økonomi, handel, virksomhedsledelse, regnskab, etc. 
+Samfunds- og adfærdsstudier, offentlig forvaltning, medier, kultur, sport og fritidsstudier, etc. 
+Jura og juridisk service 
+Personlig omsorgsservice – restaurant/catering, hjemkundskab, frisør, etc. 
+Offentlig orden og sikkerhed – politi, hær, brandvæsen, etc. 
+Transport og telekommunikation 
+
+F7 
+{QUESTION}
+Hvor mange års fuldtids- eller deltidsuddannelse har du gennemført?
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Hvilke af disse beskrivelser dækker, hvad du har foretaget dig de seneste 7 dage? Tag alt relevant med.
+
+{ANSWERS}
+Har betalt arbejde (eller er midlertidigt væk), (lønmodtager, selvstændig, medhjælpende ægtefælle/familiemedlem) 
+Er under uddannelse uanset evt. ferie (ikke betalt af arbejdsgiver) 
+Er arbejdsløs og aktivt jobsøgende 
+Er arbejdsløs og ønsker et job, men er ikke aktivt jobsøgende 
+Er kronisk syg eller handicappet 
+Er på pension / efterløn / overgangsydelse 
+Gør militærtjeneste / civilt arbejde 
+Har husligt arbejde, passer børn eller andre 
+Andet 
+
+F8c 
+{QUESTION}
+Hvilken af disse beskrivelser dækker bedst din situation i de seneste syv dage? Kun et svar.
+
+{ANSWERS}
+Har betalt arbejde (eller er midlertidigt væk), (lønmodtager, selvstændig, medhjælpende ægtefælle/familiemedlem) 
+Er under uddannelse uanset evt. ferie (ikke betalt af arbejdsgiver) 
+Er arbejdsløs og aktivt jobsøgende 
+Er arbejdsløs og ønsker et job, men er ikke aktivt jobsøgende 
+Er kronisk syg eller handicappet 
+Er på pension / efterløn / overgangsydelse 
+Gør militærtjeneste / civilt arbejde 
+Har husligt arbejde, passer børn eller andre 
+Andet 
+
+F8e 
+{QUESTION}
+Hvilket år gik du på pension eller blev kronisk syg eller handicappet?
+
+{ANSWERS}
+
+F8f 
+{QUESTION}
+Hvor bekymret du er for ikke at være i stand til at gå på pension eller efterløn i den alder, du selv ønsker det?
+Brug dette kort, hvor 0 betyder slet ikke bekymret og 10 betyder særdeles bekymret.
+
+{ANSWERS}
+00 Slet ikke bekymret
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Særdeles bekymret
+
+F9
+{QUESTION}
+Må jeg lige spørge igen, har du udført betalt arbejde i en time eller mere inden for de seneste syv dage?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F10
+{QUESTION}
+Har du nogensinde haft et betalt arbejde?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F11
+{QUESTION}
+Hvilket år har du sidst haft betalt arbejde?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+I dit primære job er du da…
+
+{ANSWERS}
+lønmodtager
+selvstændig
+del af familieforetagende 
+
+F13
+{QUESTION}
+Hvor mange ansatte har du?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Har du en ansættelseskontrakt, der var …
+
+{ANSWERS}
+…uden tidsbegrænsning
+eller tidsbegrænset
+eller havde du ingen kontrakt?
+
+F15
+{QUESTION}
+Hvor mange mennesker er der cirka ansat på den lokale virksomhed, hvor du normalt arbejder, dig selv iberegnet?
+
+{ANSWERS}
+Under 10
+10 - 24 
+25 - 99 
+100 - 499 
+500 eller flere
+
+F16
+{QUESTION}
+Har du ansvar for at føre tilsyn med andre medarbejderes arbejde I dit primære job?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F17
+{QUESTION}
+Hvor mange medarbejdere er du ansvarlig for?
+
+{ANSWERS}
+
+{INTRO}
+Jeg vil nu nævne forskellige forhold vedrørende dit arbejdsliv, og hvor meget indflydelse du har på dit job.
+
+F18 
+{QUESTION}
+I hvor høj grad tillader ledelsen på din arbejdsplads dig at bestemme, hvordan dit eget daglige arbejde skal tilrettelægges? Brug dette kort, hvor 0 betyder, at du ingen indflydelse har, og 10 betyder, at du afgør det helt selv.
+
+{ANSWERS}
+00 Jeg har/havde ingen indflydelse
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Det afgør/afgjorde jeg helt selv
+
+F19
+{QUESTION}
+I hvor høj grad tillader ledelsen på din arbejdsplads dig at påvirke overordnede beslutninger om firmaets eller organisationens aktiviteter? Brug dette kort, hvor 0 betyder, at du ingen indflydelse har, og 10 betyder, at du afgør det helt selv.
+
+{ANSWERS}
+00 Jeg har/havde ingen indflydelse
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Det afgør/afgjorde jeg helt selv
+
+F20
+{QUESTION}
+Hvad er din samlede aftalte arbejdstid pr. uge i dit primære job, fraregnet evt. lønnet eller ulønnet overarbejde?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Uanset din aftalte arbejdstid, hvor længe arbejder du normalt om ugen i dit primære job? Lønnet og ulønnet overarbejde inkluderes.
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Hvad er stillingsbetegnelsen for dit primære arbejde?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Hvilken type arbejde beskæftiger du dig mest med i dit primære job? 
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Hvilken uddannelse eller kvalifikationer er nødvendige i jobbet?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Hvad laver det firma/ den organisation, du arbejder for hovedsageligt?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Har du i de sidste 10 år haft betalt arbejde i et andet land i en periode på 6 måneder eller derover? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F27
+{QUESTION}
+Har du nogensinde været arbejdsløs og arbejdssøgende i mere end 3 måneder?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F28
+{QUESTION}
+Har en sådan periode varet 12 måneder eller længere?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F29
+{QUESTION}
+Har der været en sådan periode inden for de sidste 5 år?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F30
+{QUESTION}
+Er du, eller har du nogensinde været medlem af en fagforening eller lignende organisation? HVIS JA, er det i dag eller før i tiden?
+
+{ANSWERS}
+Ja, er medlem nu
+Ja, har været medlem tidligere 
+Nej 
+
+F31 
+{QUESTION}
+Hvis du tænker på husstandens samlede indkomst, dvs. for husstanden som sådan og alle dens medlemmer tilsammen, hvad er da den vigtigste indkomstkilde? Brug dette kort.
+
+{ANSWERS}
+Løn 
+Indkomst fra selvstændig virksomhed (bortset fra landbrug) 
+Indkomst fra landbrug 
+Pensioner, efterløn, overgangsydelse 
+Arbejdsløshedsdagpenge, fratrædelsesgodtgørelse 
+Andre sociale ydelser 
+Indkomst fra investeringer, opsparing, forsikring eller formue 
+Indkomst fra andre kilder 
+
+F32A 
+{QUESTION}
+Hvad er din husstands samlede årlige nettoindkomst, dvs. efter skat, hvis du regner indkomsterne sammen fra alle indkomstkilder? Hvis du ikke kender det præcise tal, bedes du foretage et skøn.
+
+{ANSWERS}
+Ca pr. uge
+J Mindre end 13.300 kr. 
+R Mellem 13.300 og 26.600 kr. 
+C Mellem 26.600 og 44.400 kr.
+M Mellem 44.400 og 88.800 kr. 
+F Mellem 88.800 og 133.200kr.
+S Mellem 133.200 og 177.600kr. 
+K Mellem 177.600 og 222.000kr. 
+P Mellem 222.000 og 266.400kr. 
+D Mellem 266.400 og 444.000kr. 
+H Mellem 444.000 og 666.000kr. 
+U Mellem 666.000 og 888.000kr. 
+NOver 888.000 kr. 
+
+F32B 
+{QUESTION}
+Hvad er din husstands samlede årlige nettoindkomst, dvs. efter skat, hvis du regner indkomsterne sammen fra alle indkomstkilder? Hvis du ikke kender det præcise tal, bedes du foretage et skøn.
+
+{ANSWERS}
+Ca. pr. måned/år
+J Mindre end 13.300 kr
+R Mellem 13.300 og 26.600 kr. 
+C Mellem 26.600 og 44.400 kr. 
+M Mellem 44.400 og 88.800 kr. 
+F Mellem 88.800 og 133.200 kr. 
+S Mellem 133.200 og 177.600 kr.
+K Mellem 177.600 og 222.000 kr.
+P Mellem 222.000 og 266.400 kr.
+D Mellem 266.400 og 444.000 kr.
+H Mellem 444.000 og 666.000 kr.
+U Mellem 666.000 og 888.000 kr.
+N Over 888.000 kr
+
+F32C 
+{QUESTION}
+Hvad er din husstands samlede årlige nettoindkomst, dvs. efter skat, hvis du regner indkomsterne sammen fra alle indkomstkilder? Hvis du ikke kender det præcise tal, bedes du foretage et skøn.
+
+{ANSWERS}
+Ca. pr. år
+J Mindre end 13.300 kr
+R Mellem 13.300 og 26.600 kr. 
+C Mellem 26.600 og 44.400 kr. 
+M Mellem 44.400 og 88.800 kr. 
+F Mellem 88.800 og 133.200 kr. 
+S Mellem 133.200 og 177.600 kr. 
+K Mellem 177.600 og 222.000 kr. 
+P Mellem 222.000 og 266.400 kr. 
+D Mellem 266.400 og 444.000 kr. 
+H Mellem 444.000 og 666.000 kr. 
+U Mellem 666.000 og 888.000 kr. 
+N Over 888.000 kr
+
+F33 
+{QUESTION}
+Hvilken beskrivelse på dette kort svarer bedst til din opfattelse af din husstands indkomst for tiden?
+
+{ANSWERS}
+Lever godt på den nuværende indtægt
+Klarer dagen og vejen nogenlunde med den nuværende indtægt
+Finder det svært med den nuværende indtægt
+Finder det meget svært med den nuværende indtægt
+
+F34 
+{QUESTION}
+Hvis du af en eller anden grund kom i alvorlige økonomiske vanskeligheder og måtte låne penge for at klare dagen og vejen, hvor svært eller let ville det så være? Brug dette kort.
+
+{ANSWERS}
+Meget svært
+Ret svært 
+Hverken let eller svært
+Ret let 
+Meget let
+
+F36 
+{QUESTION}
+Hvad er den højeste uddannelse, din mand har taget?
+
+{ANSWERS}
+Ingen skoleuddannelse, ingen erhvervsuddannelse 
+1.-6. skoleklasse, ingen erhvervsuddannelse 
+7.-10. skoleklasse, ingen erhvervsuddannelse 
+Gymnasium, HF, HH, HTX, ingen erhvervsuddannelse 
+Erhvervsfaglige uddannelser, håndværkeruddannelser, social og sundhedshjælperuddannelser 
+Korte videregående uddannelser (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 2-3 år, fx socialpædagog, maskintekniker, politi) 
+Mellemlang videregående uddannelse (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 3-4 år, fx teknikumingeniør, lærer, sygeplejerske
+Lang videregående uddannelse (efter faglig uddannelse eller gymnasium) (Universitetsuddannelser fx cand.jur., læge, cand.merc., arkitektskolerne, musikkonservatorierne) 
+Overbygning på universitetseksamen, Ph.d., licentiat
+
+F37a 
+{QUESTION}
+Hvilke af beskrivelserne på dette kort dækker, hvad din mand har foretaget sig de seneste 7 dage? Tag alt relevant med.
+
+{ANSWERS}
+Har betalt arbejde (eller er midlertidigt væk), (lønmodtager, selvstændig, medhjælpende ægtefælle/familiemedlem) 
+Er under uddannelse uanset evt. ferie (ikke betalt af arbejdsgiver)
+Er arbejdsløs og aktivt jobsøgende 
+Er arbejdsløs og ønsker et job, men er ikke aktivt jobsøgende
+Er kronisk syg eller handicappet
+Er på pension, efterløn, overgangsydelse 
+Gør militærtjeneste/civilt arbejde 
+Har husligt arbejde, passer børn eller andre 
+Andet
+
+F37c 
+{QUESTION}
+Hvilken af beskrivelserne på dette kort dækker bedst din ægtefælles situation i de seneste 7 dage? Kun et svar.
+
+{ANSWERS}
+Har betalt arbejde (eller er midlertidigt væk), (lønmodtager, selvstændig, medhjælpende ægtefælle/familiemedlem)
+Er under uddannelse uanset evt. ferie (ikke betalt af arbejdsgiver)
+Er arbejdsløs og aktivt jobsøgende
+Er arbejdsløs og ønsker et job, men er ikke aktivt jobsøgende
+Er kronisk syg eller handicappet
+Er på pension, efterløn, overgangsydelse 
+Gør militærtjeneste/civilt arbejde 
+Har husligt arbejde, passer børn eller andre
+Andet 
+
+F38
+{QUESTION}
+Må jeg lige spørge igen, om din mand har udført betalt arbejde i en time eller mere inden for de seneste syv dage?
+
+{ANSWERS}
+Ja
+Nej 
+
+F39
+{QUESTION}
+Hvad er hans stillingsbetegnelse i det primære job? 
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Hvilken type arbejde laver han mest i sit primære job? 
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Hvilken uddannelse eller kvalifikationer er nødvendige i jobbet?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+I sit primære job er han …
+
+{ANSWERS}
+lønmodtager
+selvstændig
+eller medhjælpende i jeres familieforetagende
+
+F43
+{QUESTION}
+Hvor mange ansatte har han?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Har han ansvar for at føre tilsyn med andre medarbejderes arbejde i sit primære job?
+
+{ANSWERS}
+Ja
+Nej 
+
+F45
+{QUESTION}
+Hvor mange medarbejdere er han ansvarlig for?
+
+{ANSWERS}
+
+
+{INTRO}
+Jeg vil nu nævne forskellige forhold vedrørende din partners arbejdsliv, og hvor meget indflydelse han har på sit job.
+
+F46 
+{QUESTION}
+I hvor høj grad tillader ledelsen på din partners arbejdsplads ham at bestemme, hvordan hans eget daglige arbejde skal tilrettelægges? Brug dette kort, hvor 0 betyder, at din partner ingen indflydelse har, og 10 betyder, at din partner afgør det helt selv.
+
+{ANSWERS}
+00 Han/hun har/havde ingen indflydelse
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Det afgør/afgjorde han/hun helt selv
+
+F47
+{QUESTION}
+I hvor høj grad tillader ledelsen på din partners arbejdsplads din partner at påvirke overordnede beslutninger om firmaets eller organisationens aktiviteter? Brug dette kort, hvor 0 betyder, at din partner ingen indflydelse har, og 10 betyder, at din partner afgør det helt selv.
+
+{ANSWERS}
+00 Han/hun har ingen indflydelse
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Det afgør han/hun helt selv
+
+F48
+{QUESTION}
+Uanset din partners aftalte arbejdstid, hvor mange timer arbejder han normalt om ugen i sit primære job? Lønnet og ulønnet overarbejde inkluderes.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Hvad er den højeste uddannelse, din far har taget?
+
+{ANSWERS}
+Ingen skoleuddannelse, ingen erhvervsuddannelse 
+1.-6. skoleklasse, ingen erhvervsuddannelse 
+7.-10. skoleklasse, ingen erhvervsuddannelse 
+Gymnasium, HF, HH, HTX, ingen erhvervsuddannelse 
+Erhvervsfaglige uddannelser, håndværkeruddannelser, social og sundhedshjælperuddannelser 
+Korte videregående uddannelser (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 2-3 år, fx socialpædagog, maskintekniker, politi) 
+Mellemlang videregående uddannelse (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 3-4 år, fx teknikumingeniør, lærer, sygeplejerske
+Lang videregående uddannelse (efter faglig uddannelse eller gymnasium) (Universitetsuddannelser fx cand.jur., læge, cand.merc., arkitektskolerne, musikkonservatorierne) 
+Overbygning på universitetseksamen, Ph.d., licentiat
+
+F50
+{QUESTION}
+Var din far lønmodtager, selvstændig eller havde han ikke arbejde, da du var 14 år?
+
+{ANSWERS}
+Lønmodtager 
+Selvstændig
+Havde ikke arbejde 
+Faderen død/ ikke medlem af husstanden, da IP var 14 år 
+
+F51
+{QUESTION}
+Hvor mange ansatte havde han?
+
+{ANSWERS}
+Ingen
+1 - 24 
+25 eller flere
+
+F52
+{QUESTION}
+Havde han ansvar for at føre tilsyn med andre medarbejderes arbejde?
+
+{ANSWERS}
+Ja
+Nej 
+
+F53
+{QUESTION}
+Hvad var stillingsbetegnelsen for hans primære job?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Hvilken af beskrivelserne på dette kort dækker bedst det arbejde, han havde, da du var 14 år.
+
+{ANSWERS}
+Traditionelle erhverv f.eks.: revisor, advokat, læge, videnskabsmand, bygningsingeniør/-maskiningeniør 
+Moderne erhverv f.eks.: lærer, sygeplejerske, fysioterapeut, socialarbejder, socialrådgiver, kunstner, musiker, politibetjent, softwareudvikler
+Kontorarbejde og tilsvarende stillinger f.eks.: sekretær, privatsekretær, kontorfunktionær, kontorassistent, call centre-medarbejder, sygehjælper, børne- socialpædagog 
+Topledere eller – bestyrere (ofte ansvarlig for at planlægge, organisere og koordinere arbejde samt for økonomi) f.eks.: økonomichef, administrerende direktør 
+Tekniske erhverv og håndværksfag f.eks.: mekaniker, montør, kontrollør /inspektør, VVS-installatør, typograf, værktøjsmager, elektriker, landmand, gartner, togfører
+Delvist rutinepræget, ufaglært arbejde og servicefag f.eks.: postarbejder, maskinarbejder, sikkerhedsvagt, ejendomsfunktionær, landbrugsmedhjælper, restaurationsmedarbejder, receptionist, ekspedient 
+Rutinepræget, ufaglært arbejde og servicefag f.eks.: lastbilchauffør, chauffør, rengøringsassistent, portør, pakkemedarbejder, maskinsyerske, bud, arbejdsmand, tjener/servitrice, barpersonale 
+Mellemledere og underdirektører f.eks.: kontorchef, butikschef, filialbestyrer, landbrugsforvalter, restaurationschef, lagerchef, værtshusholder 
+
+F55 
+{QUESTION}
+Hvad er den højeste uddannelse, din mor har taget? Brug dette kort.
+
+{ANSWERS}
+Ingen skoleuddannelse, ingen erhvervsuddannelse 
+1.-6. skoleklasse, ingen erhvervsuddannelse 
+7.-10. skoleklasse, ingen erhvervsuddannelse 
+Gymnasium, HF, HH, HTX, ingen erhvervsuddannelse 
+Erhvervsfaglige uddannelser, håndværkeruddannelser, social og sundhedshjælperuddannelser Korte videregående uddannelser (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 2-3 år, fx socialpædagog, maskintekniker, politi) 
+Mellemlang videregående uddannelse (efter faglig uddannelse eller gymnasium) (har som oftest en varighed af 3-4 år, fx teknikumingeniør, lærer, sygeplejerske
+Lang videregående uddannelse (efter faglig uddannelse eller gymnasium) (Universitetsuddannelser fx cand.jur., læge, cand.merc., arkitektskolerne, musikkonservatorierne) 
+Overbygning på universitetseksamen, Ph.d., licentiat
+
+F56
+{QUESTION}
+Var din mor lønmodtager, selvstændig eller havde hun ikke arbejde, da du var 14 år?
+
+{ANSWERS}
+Lønmodtager 
+Selvstændig
+Havde ikke arbejde 
+Moderen død/var ikke i husstanden, da IP var 14 år 
+
+F57
+{QUESTION}
+Hvor mange ansatte havde hun?
+
+{ANSWERS}
+Ingen
+1-24 
+25 eller flere
+
+F58
+{QUESTION}
+Havde hun ansvar for at føre tilsyn med andre medarbejderes arbejde?
+
+{ANSWERS}
+Ja
+Nej 
+
+F59
+{QUESTION}
+Hvad var hendes stillingsbetegnelse i hendes primære job?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Hvilken af beskrivelserne på dette kort dækker bedst det arbejde, som hun havde, da du var 14 år.
+
+{ANSWERS}
+Traditionelle erhverv f.eks.: revisor, advokat, læge, videnskabsmand, bygningsingeniør/-maskiningeniør 
+Moderne erhverv f.eks.: lærer, sygeplejerske, fysioterapeut, socialarbejder, socialrådgiver, kunstner, musiker, politibetjent, softwareudvikler
+Kontorarbejde og tilsvarende stillinger f.eks.: sekretær, privatsekretær, kontorfunktionær, kontorassistent, call centre-medarbejder, sygehjælper, børne- socialpædagog 
+Topledere eller –bestyrere (ofte ansvarlig for at planlægge, organisere og koordinere arbejde samt for økonomi) f.eks.: økonomichef, administrerende direktør 
+Tekniske erhverv og håndværksfag f.eks.: mekaniker, montør, kontrollør /inspektør, VVS-installatør, typograf, værktøjsmager, elektriker, landmand, gartner, togfører
+Delvist rutinepræget, ufaglært arbejde og servicefag f.eks.: postarbejder, maskinarbejder,
+sikkerhedsvagt, ejendomsfunktionær, landbrugsmedhjælper, restaurationsmedarbejder, receptionist, ekspedient 
+Rutinepræget, ufaglært arbejde og servicefag f.eks.: lastbilchauffør, chauffør, rengøringsassistent, portør, pakkemedarbejder, maskinsyerske, bud, arbejdsmand, tjener/servitrice, barpersonale 
+Mellemledere og underdirektører f.eks.: kontorchef, butikschef, filialbestyrer, landbrugsforvalter, restaurationschef, lagerchef, værtshusholder 
+
+F61
+{QUESTION}
+Har du inden for de seneste tolv måneder været på kursus eller til foredrag eller konference for at øge din viden eller dine færdigheder i forhold til arbejde?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F62 
+{QUESTION}
+Nu vil jeg spørge dig om din nuværende civilstand rent juridisk. Hvilken beskrivelse på dette kort passer på dig?
+
+{ANSWERS}
+Gift
+Registreret partnerskab
+Separeret (stadig gift)
+Separeret (stadig i registreret partnerskab)
+Skilt
+Enke/ enkemand
+Tidligere registreret partnerskab, nu opløst
+Tidligere registreret partnerskab, partner afdød
+Har aldrig været gift OG aldrig levet i registreret partnerskab
+
+F63
+{QUESTION}
+Bor du på nuværende tidspunkt sammen med din mand?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F64
+{QUESTION}
+Bor du på nuværende tidspunkt sammen med en samlever?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F66
+{QUESTION}
+Må jeg lige spørge igen, har du nogensinde boet sammen med en samlever uden at være gift med denne?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F68
+{QUESTION}
+Må jeg lige spørge igen; er du nogensinde blevet skilt?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F70
+{QUESTION}
+Har du nogensinde haft egne børn, stedbørn, adoptivbørn, plejebørn eller samlevers børn boende i din husstand?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F71 
+{QUESTION}
+Er der en fastnettelefon i din bolig?
+
+{ANSWERS}
+Ja 
+Nej
+
+F72 
+{QUESTION}
+Har du selv en mobiltelefon?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F73 
+{QUESTION}
+Benytter du nogensinde internettet til telefonopringninger hjemmefra?
+
+{ANSWERS}
+Ja 
+Nej 
+(Ikke internet hjemme) 
+
+
+ 

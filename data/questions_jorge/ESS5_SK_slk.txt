@@ -1,0 +1,1752 @@
+﻿A1 
+{QUESTION}
+Koľko času strávite celkovo pozeraním televízie v bežný pracovný deň? Prosím, použite túto kartu na odpoveď.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A2 
+{QUESTION}
+A znova, v bežný pracovný deň, koľko z času, v ktorom pozeráte televíziu, strávite pozeraním správ alebo programov o politike a aktuálnom dianí? Používajte stále túto kartu.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A3 
+{QUESTION}
+Koľko času celkovo strávite počúvaním rádia v bežný pracovný deň? Používajte tú istú kartu.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A4 
+{QUESTION}
+A znova, v bežný pracovný deň, koľko z času, v ktorom počúvate rádio, strávite počúvaním správ alebo programov o politike a aktuálnom dianí? Používajte stále túto kartu.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A5 
+{QUESTION}
+Koľko času celkovo strávite čítaním novín v bežný pracovný deň? Znova použite túto kartu.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A6 
+{QUESTION}
+A koľko z toho času strávite čítaním o politike a aktuálnom dianí? Stále používajte túto kartu.
+
+{ANSWERS}
+Žiaden
+Menej ako pol hodinu
+Medzi pol hodinou a 1hodinou
+Viac ako 1 hodinu, až po 1 hodinu a pol
+Viac ako 1 hodinu a pol, až po 2 hodiny
+Viac ako 2 hodiny, až po 2 a pol hodiny
+Viac ako 2 a pol hodiny, až po 3 hodiny
+Viac ako 3 hodiny
+
+A7 
+{QUESTION}
+Teraz, povedzte mi, Použijúc túto kartu, ako často používate internet, World Wide Web (čítaj vord vaid veb) alebo e-mail – či už doma alebo v práci - pre svoju osobnú potrebu?
+
+{ANSWERS}
+Nemám k tomu prístup ani doma ani v práci 
+Nikdy nepoužívam 
+Menej ako raz mesačne 
+Raz mesačne 
+Niekoľkokrát za mesiac 
+Raz za týždeň 
+Niekoľkokrát za týždeň 
+Každý deň 
+
+A8
+{QUESTION}
+Použijúc túto kartu, vo všeobecnosti, povedali by ste, že väčšine ľudí možno veriť, alebo že sa treba mať na pozore, keď sa jedná s ľuďmi? Prosím, odpovedzte mi na škále od 0 po 10, kde 0 znamená, že sa treba mať na pozore a 10 znamená, že väčšine ľudí sa dá veriť.
+
+{ANSWERS}
+00 Treba sa mať na pozore
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väčšine ľudí sa dá veriť
+
+A9
+{QUESTION}
+Použijúc túto kartu, myslíte si, že väčšina ľudí by sa vás pokúsila využiť, keby mali príležitosť, alebo by sa snažili byť čestní?
+
+{ANSWERS}
+00 Väčšina ľudí by sa ma pokúsila využiť
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Väčšina ľudí by sa snažila byť čestnými
+
+A10 
+{QUESTION}
+Povedali by ste, že väčšinou sa ľudia snažia pomôcť iným alebo sa väčšinou starajú len o seba? Prosím, použite túto kartu.
+
+{ANSWERS}
+00 Ľudia sa väčšinou starajú len o seba
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ľudia sa väčšinou snažia pomôcť iným
+
+{INTRO}
+Teraz sa chceme spýtať zopár otázok o politike a vláde
+
+B1 
+{QUESTION}
+Čo by ste povedali, ako veľmi sa zaujímate o politiku …
+
+{ANSWERS}
+veľmi sa zaujímam
+celkom sa zaujímam
+málo sa zaujímam
+alebo vôbec sa nezaujímam? 
+
+B4
+{QUESTION}
+Použite túto kartu a povedzte mi, prosím, na škále od 0 do 10 ako veľmi vy osobne dôverujete každej z inštitúcií, ktorú vám prečítam. 0 znamená, že tej inštitúcii vôbec nedôverujete a 10 znamená, že jej úplne dôverujete. Začnime … slovenský parlament?
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B5 
+{QUESTION}
+… právny systém?
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B6 
+{QUESTION}
+… polícia? 
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B7 
+{QUESTION}
+… politici? 
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B8
+{QUESTION}
+…politické strany?
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B9 
+{QUESTION}
+… Európsky parlament?
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B10 
+{QUESTION}
+… Organizácia spojených národov (OSN)?
+
+{ANSWERS}
+00 Vôbec nedôverujem
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Úplne dôverujem
+
+B11 
+{INTRO}
+V dnešnej dobe niektorí ľudia z rozličných dôvodov nejdú voliť. 
+
+{QUESTION}
+Boli ste voliť v posledných slovenských parlamentných voľbách v júni 2010?
+
+{ANSWERS}
+Áno 
+Nie 
+Nebol som oprávnený voliť 
+
+B12 
+{QUESTION}
+Ktorú stranu ste volili v daných voľbách?
+
+{ANSWERS}
+SNS
+SDKÚ
+SMER – sociálna demokracia
+Most-Híd
+KDH
+SaSIné 
+
+{INTRO}
+Sú rozličné spôsoby na to, ako sa pokúsiť zlepšiť veci na Slovensku alebo ako zabrániť, aby sa veci zhoršili. 
+
+B13
+{QUESTION}
+Počas posledných 12 mesiacov, urobili ste niečo z nasledovného? …obrátili ste sa na politika, vládu alebo predstaviteľa miestnej samosprávy?
+
+{ANSWERS}
+Áno
+Nie
+
+B14 
+{QUESTION}
+…pracovali ste v politickej strane alebo akčnom výbore? 
+
+{ANSWERS}
+Áno
+Nie
+
+B15
+{QUESTION}
+…pracovali ste v inej organizácii alebo združení? 
+
+{ANSWERS}
+Áno
+Nie
+
+B16 
+{QUESTION}
+…nosili ste odznak alebo vylepili plagát nejakej kampane?
+
+{ANSWERS}
+Áno
+Nie
+
+B17 
+{QUESTION}
+…podpísali ste petíciu?
+
+{ANSWERS}
+Áno
+Nie
+
+B18 
+{QUESTION}
+…zúčastnili sa ohlásenej verejnej demonštrácie?
+
+{ANSWERS}
+Áno
+Nie
+
+B19
+{QUESTION}
+…bojkotovali ste (odmietali ste kupovať) nejaký produkt? 
+
+{ANSWERS}
+Áno
+Nie
+
+B20a 
+{QUESTION}
+Je nejaká strana, s ktorou sympatizujete viac ako s ostatnými stranami?
+
+{ANSWERS}
+Áno 
+Nie 
+
+B20b 
+{QUESTION}
+Ktorá to je?
+
+{ANSWERS}
+SNS
+SDKÚ
+SMER – sociálna demokracia
+Most-Híd
+KDH
+SaS
+Iné 
+
+B20c 
+{QUESTION}
+Ako sympatická je vám táto strana? Máte pocit, že je vám … 
+
+{ANSWERS}
+veľmi sympatická
+dosť sympatická
+nie sympatická
+alebo vôbec nie sympatická? 
+
+B21 
+{QUESTION}
+Ste členom nejakej politickej strany?
+
+{ANSWERS}
+Áno 
+Nie 
+
+B22 
+{QUESTION}
+Ktorej?
+
+{ANSWERS}
+SNS
+SDKÚ
+SMER – sociálna demokracia
+Most-Híd
+KDH
+SaS
+Iné
+
+B23 
+{INTRO}
+V politike ľudia občas hovoria o “ľavici” a “pravici”. 
+
+{QUESTION}
+Použitím tejto karty povedzte, kde by ste sa zaradili na tejto škále, kde 0 znamená ľavica a 10 znamená pravica?
+
+{ANSWERS}
+00 Ľavica 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pravica
+
+B24 
+{QUESTION}
+Berúc do úvahy všetky okolnosti, ako ste v tomto období celkovo spokojný so svojim životom? Prosím, odpovedzte s použitím tejto karty, kde 0 znamená mimoriadne nespokojný a 10 znamená mimoriadne spokojný.
+
+{ANSWERS}
+00 Mimoriadne nespokojný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne spokojný
+
+B25 
+{QUESTION}
+Ako ste celkovo spokojný so súčasným stavom ekonomiky na Slovensku? Stále používajte túto kartu.
+
+{ANSWERS}
+00 Mimoriadne nespokojný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne spokojný
+
+B26 
+{QUESTION}
+Teraz, keď sa zamyslíte nad slovenskou vládou, ako ste spokojný s jej prácou? Stále používajte túto kartu.
+
+{ANSWERS}
+00 Mimoriadne nespokojný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne spokojný
+
+B27 
+{QUESTION}
+A celkovo, ako ste spokojný s tým ako funguje demokracia na Slovensku? Stále používajte túto kartu.
+
+{ANSWERS}
+00 Mimoriadne nespokojný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne spokojný
+
+B28 
+{QUESTION}
+Teraz, použijúc túto kartu, povedzte, prosím, čo si celkovo myslíte o súčasnom stave vzdelávania na Slovensku?
+
+{ANSWERS}
+00 Mimoriadne zlý 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne dobrý
+
+B29
+{QUESTION}
+Stále používajúc túto kartu, povedzte, prosím, čo si celkovo myslíte o súčasnom stave zdravotníctva na Slovensku?
+
+{ANSWERS}
+00 Mimoriadne zlý 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne dobrý
+
+B30 
+{QUESTION}
+S pomocou tejto karty, povedzte, prosím, do akej miery súhlasíte alebo nesúhlasíte s nasledujúcimi výrokmi. Vláda by mala urobiť opatrenia, ktoré by znížili rozdiely vo výške príjmov jednotlivých ľudí
+
+{ANSWERS}
+Rozhodne súhlasím
+Súhlasím
+Ani súhlas ani nesúhlas
+Nesúhlasím
+Rozhodne nesúhlasím
+
+B31
+{QUESTION}
+Homosexuáli a lesbičky by mali mať možnosť slobodne si žiť svoj život spôsobom, akým chcú
+
+{ANSWERS}
+Rozhodne súhlasím
+Súhlasím
+Ani súhlas ani nesúhlas
+Nesúhlasím
+Rozhodne nesúhlasím
+
+B32
+{QUESTION}
+Politické strany, ktoré chcú zvrhnúť demokraciu, by mali byť zakázané
+
+{ANSWERS}
+Rozhodne súhlasím
+Súhlasím
+Ani súhlas ani nesúhlas
+Nesúhlasím
+Rozhodne nesúhlasím
+
+B33
+{QUESTION}
+Možno sa spoľahnúť na to, že moderná veda vyrieši naše problémy so životným prostredím
+
+{ANSWERS}
+Rozhodne súhlasím
+Súhlasím
+Ani súhlas ani nesúhlas
+Nesúhlasím
+Rozhodne nesúhlasím
+
+{INTRO}
+Teraz tu je niekoľko otázok o ľuďoch z iných krajín, ktorí prichádzajú žiť na Slovensko.
+
+B35 
+{QUESTION}
+Teraz, s použitím tejto karty, do akej miery myslíte, že by Slovensko malo dovoliť ľuďom rovnakej rasy alebo etnika ako je väčšina Slovákov, aby prišli na Slovensko a žili tu?
+
+{ANSWERS}
+Dovoliť mnohým, aby tu prišli a žili tu 
+Dovoliť to niekoľkým 
+Dovoliť to máloktorým 
+Nedovoliť to žiadnym 
+
+B36 
+{QUESTION}
+A čo ľudia inej rasy alebo etnickej skupiny ako je väčšina Slovákov? Používajte stále túto kartu.
+
+{ANSWERS}
+Dovoliť mnohým, aby tu prišli a žili tu 
+Dovoliť to niekoľkým 
+Dovoliť to máloktorým 
+Nedovoliť to žiadnym 
+
+B37
+{QUESTION}
+A čo ľudia z chudobnejších krajín mimo Európy? Použite tú istú kartu.
+
+{ANSWERS}
+Dovoliť mnohým, aby tu prišli a žili tu 
+Dovoliť to niekoľkým 
+Dovoliť to máloktorým 
+Nedovoliť to žiadnym 
+
+B38 
+{QUESTION}
+Povedali by ste, že je vo všeobecnosti zlé alebo dobré pre slovenskú ekonomiku, keď tu prichádzajú žiť ľudia z iných krajín? Prosím, použite túto kartu.
+
+{ANSWERS}
+00 Zlé pre ekonomiku 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dobré pre ekonomiku
+
+B39 
+{QUESTION}
+A, použijúc túto kartu, povedali by ste, že kultúrny život na Slovensku je vo všeobecnosti ohrozovaný alebo obohacovaný ľuďmi, ktorí tu prídu žiť z iných krajín?
+
+{ANSWERS}
+00 Kultúrny život je ohrozovaný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Kultúrny život je obohacovaný
+
+B40 
+{QUESTION}
+Žije sa na Slovensku horšie alebo lepšie tým, že sem prichádzajú ľudia z iných krajín? Prosím, použite túto kartu.
+
+{ANSWERS}
+00 Žije sa horšie 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Žije sa lepšie
+
+{INTRO}
+A teraz niekoľko otázok o vás a vašom živote.
+
+C1 
+{QUESTION}
+Ako by ste vo všeobecnosti zhodnotili, aký ste šťastný? Prosím, použite túto kartu.
+
+{ANSWERS}
+00 Mimoriadne nešťastný 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mimoriadne šťastný
+
+C2 
+{QUESTION}
+Použijúc túto kartu, odpovedzte, ako často sa stretávate vo voľnom čase s priateľmi, príbuznými či kolegami z práce?
+
+{ANSWERS}
+Nikdy 
+Menej ako raz mesačne 
+Raz mesačne 
+Niekoľkokrát za mesiac 
+Raz za týždeň 
+Niekoľkokrát za týždeň 
+Každý deň 
+
+C3 
+{QUESTION}
+Máte niekoho, s kým môžete hovoriť o intímnych a osobných veciach?
+
+{ANSWERS}
+Áno 
+Nie 
+ 
+C4 
+{QUESTION}
+V porovnaní s vašimi rovesníkmi, ako často sa asi zapájate do spoločenských aktivít? Prosím, použite túto kartu.
+
+{ANSWERS}
+Oveľa zriedkavejšie ako väčšina 
+Zriedkavejšie ako väčšina 
+Asi tak isto často ako väčšina 
+Častejšie ako väčšina 
+Oveľa častejšie ako väčšina 
+
+C5 
+{QUESTION}
+Stali ste sa vy alebo niekto z vašej domácnosti obeťou vlámania alebo fyzického útoku za posledných 5 rokov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C6 
+{QUESTION}
+Ako bezpečne sa cítite – alebo by ste sa cítili – prechádzať sa v týchto končinách po zotmení? Cítim sa – alebo cítil by som sa … 
+
+{ANSWERS}
+...veľmi bezpečne
+bezpečne
+nie bezpečne
+alebo vôbec nie bezpečne? 
+
+C7 
+{QUESTION}
+Ako často, ak vôbec, máte obavy z toho, že váš dom bude vykradnutý? Prosím vyberte odpoveď z tejto karty.
+
+{ANSWERS}
+Vždy alebo skoro vždy 
+Niekedy 
+Len málokedy 
+Nikdy 
+
+C8 
+{QUESTION}
+Majú tieto obavy z toho, že váš dom bude vykradnutý… 
+
+{ANSWERS}
+…vážny dopad na kvalitu vášho života
+…nejaký dopad
+alebo žiaden dopad na kvalitu vášho života? 
+
+C9 
+{QUESTION}
+Ako často, ak vôbec, sa obávate toho, že sa stanete obeťou násilného trestného činu? Prosím vyberte si vašu odpoveď z karty.
+
+{ANSWERS}
+Vždy alebo skoro vždy 
+Niekedy 
+Len málokedy 
+Nikdy 
+
+C10 
+{QUESTION}
+Majú vaše obavy z toho, že sa stanete obeťou násilného trestného činu… 
+
+{ANSWERS}
+… vážny dopad na kvalitu vášho života
+…nejaký dopad
+alebo žiaden dopad na kvalitu vášho života? 
+
+{INTRO}
+Nasledujúce otázky sa budú týkať Vás.
+
+C15 
+{QUESTION}
+Aký je váš celkový zdravotný stav? Povedali by ste, že je… 
+
+{ANSWERS}
+...veľmi dobrý
+dobrý
+priemerný
+zlý
+alebo veľmi zlý? 
+
+C16 
+{QUESTION}
+Ste obmedzený vo svojich každodenných aktivitách akýmkoľvek spôsobom dlhodobou chorobou alebo postihnutím, neduhom alebo problémom s duševným zdravím? AK ÁNO, je to veľmi, alebo do istej miery?
+
+{ANSWERS}
+Áno, veľmi 
+Áno, do istej miery 
+Nie 
+
+C17 
+{QUESTION}
+Hlásite sa k niektorému náboženstvu alebo cirkvi?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C18 
+{QUESTION}
+Ku ktorému?
+
+{ANSWERS}
+Kresťanské – bez určenia
+Rímskokatolícke
+Evanjelické
+Gréckokatolícke
+Pravoslávne
+Jehovovi svedkovia
+Židovské
+Moslimské
+Hinduistické
+Budhistické
+Iné protestantské 
+Iné katolícke 
+Iné kresťanské 
+Iné východné 
+
+C19
+{QUESTION}
+Hlásili ste sa niekedy k niektorému náboženstvu alebo cirkvi?
+
+{ANSWERS}
+ÁNO 
+Nie 
+
+C20 
+{QUESTION}
+Ku ktorému?
+
+{ANSWERS}
+Kresťanské – bez určenia
+Rímskokatolícke
+Evanjelické
+Gréckokatolícke
+Pravoslávne
+Jehovovi svedkovia
+Židovské
+Moslimské
+Hinduistické
+Budhistické
+Iné protestantské 
+Iné katolícke 
+Iné kresťanské 
+Iné východné 
+
+
+C21 
+{QUESTION}
+Nezávisle od toho, či sa hlásite k nejakému náboženstvu, ako silno veriaci sa cítite byť? Prosím, použite túto kartu.
+
+{ANSWERS}
+00 Vôbec nie veriaci 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Veľmi veriaci
+
+C22
+{QUESTION}
+Okrem zvláštnych príležitostí ako sú svadby a pohreby, približne ako často sa v súčasnosti zúčastňujete na náboženských obradoch? Prosím, použite túto kartu.
+
+{ANSWERS}
+Každý deň 
+Častejšie ako raz týždenne 
+Raz týždenne 
+Aspoň raz mesačne 
+Len na cirkevné sviatky 
+Zriedka 
+Nikdy 
+
+C23 
+{QUESTION}
+S výnimkou cirkevných obradov, ako často, ak vôbec, sa modlíte? Prosím, použite túto kartu.
+
+{ANSWERS}
+Každý deň 
+Častejšie ako raz týždenne 
+Raz týždenne 
+Aspoň raz mesačne 
+Len na cirkevné sviatky 
+Zriedka 
+Nikdy 
+
+C24 
+{QUESTION}
+Označili by ste sa za príslušníka skupiny, ktorú v tejto krajine diskriminujú?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C25 
+{QUESTION}
+Na základe čoho je vaša skupina diskriminovaná?
+
+{ANSWERS}
+Farba alebo rasa 
+Národnosť 
+Náboženstvo 
+Jazyk 
+Etnická príslušnosť 
+Vek 
+Pohlavie 
+Sexuálna orientácia 
+Postihnutie 
+Iné 
+
+C26 
+{QUESTION}
+Ste občan Slovenskej republiky?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C27 
+{QUESTION}
+Aké máte občianstvo?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Narodili ste sa na Slovensku?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C29 
+{QUESTION}
+V akej krajine ste sa narodili?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Kedy ste prvý raz prišli žiť na Slovensko?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Akým jazykom alebo jazykmi hovoríte doma najčastejšie?
+
+{ANSWERS}
+VPÍŠ MAX. 2 JAZYKY
+
+C32 
+{QUESTION}
+Hlásite sa k nejakej menšinovej etnickej skupine na Slovensku?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C33 
+{QUESTION}
+Narodil sa váš otec na Slovensku?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C34 
+{QUESTION}
+V ktorej krajine sa narodil váš otec?
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Narodila sa vaša matka na Slovensku?
+
+{ANSWERS}
+Áno 
+Nie 
+
+C36 
+{QUESTION}
+V ktorej krajine sa narodila vaša matka?
+
+{ANSWERS}
+
+{INTRO}
+Teraz by som sa vás rád opýtal na niektoré podrobnosti o vás a ďalších ľuďoch vo vašej domácnosti.
+
+F1 
+{QUESTION}
+Vrátane vás, koľko ľudí – vrátane detí – tu trvalo býva ako členovia domácnosti?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+A v ktorom roku ste sa vy narodili?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Pozerajte na túto kartu a povedzte, v akom vzťahu je k vám?
+
+{ANSWERS}
+Manžel/manželka/partner
+Syn/dcéra (vrátane nevlastných, adoptovaných, prevzatých do starostlivosti, detí partnera)
+Rodič, svokor/svokra, partnerov rodič, nevlastný rodič
+Brat/sestra (vrátane nevlastného, adoptovaného, prevzatého do starostlivosti)
+Iný príbuzný 
+Iný nie príbuzný 
+
+F6 
+{QUESTION}
+Pred chvíľou ste mi povedali, že žijete s manželom. Ktorý z nasledujúcich popisov na karte vyjadruje váš vzťah k nemu nej?
+
+{ANSWERS}
+Ženatý/vydatá 
+Žijúci s partnerom/partnerkou 
+Rozvedený 
+
+F7 
+{QUESTION}
+Len sa chcem opýtať, žili ste niekedy s partnerom bez toho, aby ste s ňou boli zosobášení?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F8 
+{QUESTION}
+Len sa chcem opýtať, boli ste niekedy rozvedený?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F11
+{QUESTION}
+Táto otázka je o vašom právnom rodinnom stave, nie o tom s kým žijete alebo nežijete. Vyberte jednu z nasledujúcich možností, ktorá popisuje váš súčasný právny rodinný stav.
+
+{ANSWERS}
+Ženatý/vydatá 
+Rozvedený/á 
+Vdovec/Vdova 
+Žiadna z možností (NIKDY som nebol ženatý/vydatá) 
+
+F13 
+{QUESTION}
+Mali ste niekedy vlastné deti, nevlastné deti, adoptované deti alebo partnerove deti, ktoré žili s vami v domácnosti?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F13a 
+{QUESTION}
+Máte (vo vašej časti) v dome pevnú telefónnu linku?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F14
+{QUESTION}
+Ktoré slovo na tejto karte najlepšie vystihuje oblasť, kde bývate?
+
+{ANSWERS}
+Veľké mesto 
+Predmestie alebo periféria veľkého mesta 
+Malé mesto 
+Dedina 
+Farma alebo dom na vidieku 
+
+F15
+{QUESTION}
+Aké najvyššie vzdelanie ste úspešne ukončili? Prosím, použite túto kartu.
+
+{ANSWERS}
+Neukončený prvý stupeň základnej školy 
+Neukončený druhý stupeň základnej školy 
+Ukončený druhý stupeň základnej školy, Kurzy na doplnenie základného vzdelania 
+Praktická škola 
+Rekvalifikačné kurzy 
+Odborné učilište, stredná odborná škola bez maturity, stredné odborné učilište bez maturity 
+Stredná odborná škola s maturitou, stredné odborné učilište s maturitou 
+8 ročné gymnázium, 4 ročné gymnázium 
+Nadstavbové štúdium 
+Doplňujúce pedagogické štúdium 
+Pomaturitné kvalifikačné štúdium 
+Pomaturitné špecializačné štúdium, tanečné konzervatórium, konzervatórium 
+Stredná odborná škola- 6 ročné štúdium 
+Vyššie odborné štúdium 
+Bakalárske štúdium 
+Magisterské/doktorské a inžinierske štúdium 
+Magisterské pokračujúce štúdium, štátne rigorózne skúšky, doplňujúce pedagogické štúdium, rozširujúce
+štúdium na vyučovanie
+Doktorandské štúdium 
+(iné) 
+
+F16 
+{QUESTION}
+Koľko rokov štúdia ste ukončili, či už denného alebo diaľkového? Prosím, uveďte v ekvivalentoch denného štúdia, vrátane povinnej školskej dochádzky.
+
+{ANSWERS}
+
+F17a
+{QUESTION}
+S pomocou tejto karty povedzte, ktorý z týchto popisov sa hodí na to, čo ste robili počas posledných 7 dní. Vyberte všetky, ktoré sa hodia.
+
+{ANSWERS}
+v práci (alebo dočasne mimo) (zamestnanec, samo-zamestnaný, živnostník, pracujúci v rodinnom podniku) 
+v procese vzdelávania (neplatené zamestnávateľom), aj prázdniny 
+nezamestnaný a aktívne si hľadajúci prácu 
+nezamestnaný, chce pracovať, ale nehľadá si aktívne prácu 
+trvalo chorý alebo postihnutý 
+na dôchodku 
+na základnej vojenskej službe alebo civilnej službe 
+práca v domácnosti, starostlivosť o deti alebo iné osoby 
+(Iné) 
+
+F17c
+{QUESTION}
+A ktorý z týchto popisov najlepšie popisuje vašu situáciu (za posledných sedem dní)? Prosím, vyberte iba jeden. 
+
+{ANSWERS}
+v práci (alebo dočasne mimo) (zamestnanec, samo-zamestnaný, živnostník, pracujúci v rodinnom podniku) 
+v procese vzdelávania (neplatené zamestnávateľom), aj prázdniny 
+nezamestnaný a aktívne si hľadajúci prácu 
+nezamestnaný, chce pracovať, ale nehľadá si aktívne prácu 
+trvalo chorý alebo postihnutý 
+na dôchodku 
+na základnej vojenskej službe alebo civilnej službe 
+práca v domácnosti, starostlivosť o deti alebo iné osoby 
+(Iné) 
+
+F18 
+{QUESTION}
+Len si chcem overiť, robili ste nejakú platenú prácu (na hodinu a viac) za posledných sedem dní?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F19 
+{QUESTION}
+Mali ste niekedy platenú prácu?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F20 
+{QUESTION}
+V ktorom roku ste mali naposledy platenú prácu?
+
+{ANSWERS}
+
+F21 
+Vo vašej hlavnej práci ste/boli ste… 
+
+{ANSWERS}
+…zamestnanec, 
+samo-zamestnanec/živnostník, 
+alebo ste pracovali v rodinnom podniku? 
+
+F22 
+{QUESTION}
+Koľko zamestnancov (ak nejakých) máte ste?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Máte ste pracovnú zmluvu na…
+
+
+{ANSWERS}
+…dobu neurčitú
+alebo dobu určitú
+alebo ste nemali pracovnú zmluvu? 
+
+F23a 
+{QUESTION}
+Myslíte si, že pri vašom nástupe do zamestnania išlo z pohľadu vášho zamestnávateľa…
+
+{ANSWERS}
+…o dočasné zamestnanie alebo na dobu určitú trvajúcu menej ako 12 mesiacov
+o dočasné zamestnanie alebo na dobu určitú trvajúcu 12mesiacov alebo viac
+alebo o trvalé zamestnanie? 
+(Iné) 
+
+F24 
+{QUESTION}
+Vrátane vás, asi koľko ľudí je zamestnaných na mieste, kde zvyčajne pracujete ste
+
+{ANSWERS}
+…menej ako 10
+10 až 24
+25 až 99
+100 až 499
+alebo 500 a viac? 
+
+F25 
+{QUESTION}
+Vo vašej hlavnej práci máte ste nejakú zodpovednosť za riadenie a dozor nad prácou iných zamestnancov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F26 
+{QUESTION}
+Za koľkých ľudí ste ste zodpovedný?
+
+{ANSWERS}
+
+{INTRO}
+Prečítam vám zoznam vecí o vašom pracovnom živote. 
+
+F27
+{QUESTION}
+S pomocou tejto karty, prosím, povedzte, nakoľko vám vedenie vo vašej práci umožňuje …samostatne si každý deň organizovať vlastnú prácu?
+
+{ANSWERS}
+00 Nemám/nemal som žiaden vplyv
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mám/mal som úplnú moc
+
+F28 
+{QUESTION}
+...ovplyvňovať zásadné rozhodnutia o činnosti organizácie?
+
+{ANSWERS}
+00 Nemám/nemal som žiaden vplyv
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mám/mal som úplnú moc
+
+F28a 
+{QUESTION}
+…zvoliť si alebo zmeniť svoje pracovné tempo?
+
+{ANSWERS}
+00 Nemám/nemal som žiaden vplyv
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Mám/mal som úplnú moc
+
+F29 
+{QUESTION}
+Koľko hodín je váš “základný” alebo zmluvne dohodnutý pracovný čas za týždeň (vo vašej hlavnej práci) bez platených či neplatených nadčasov?
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Nezávisle od vašich základných alebo zmluvne dohodnutých hodín, koľko hodín zvyčajne pracujete ste za týždeň (vo vašej hlavnej práci) vrátane platených či neplatených nadčasov?
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Čo robí firma/ organizácia - špecifikuj odvetvie pre ktorú hlavne pracujete ste ?
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+Pre ktorý z nasledujúcich typov organizácie pracujete pracovali?
+
+{ANSWERS}
+Vláda/samospráva 
+Verejný sektor (ako školstvo a zdravotníctvo) 
+štátna firma / štátny podnik 
+Súkromná firma 
+živnostník/podnikateľ 
+iné 
+
+F33 
+{QUESTION}
+Ako sa nazýva vaša pracovná pozícia vo vašom hlavnom zamestnaní?
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+Ako sa nazýva vaša pracovná pozícia vo vašom hlavnom zamestnaní alebo aký tam je titul?
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Aké vzdelanie alebo kvalifikácia je potrebná pre to zamestnanie?
+
+{ANSWERS}
+
+F34b
+{QUESTION}
+Ktorý s nasledujúcich dôvodov uvedených v karte najlepšie popisujú váš hlavný dôvod odchodu od posledného zamestnávateľa?
+
+{ANSWERS}
+Dostal/Našiel som lepšie zamestnanie 
+Rozhodol som sa začať s podnikaním / stal som sa živnostníkom 
+Moja zmluva skončila 
+Bol som prepustený 
+Môj zamestnávateľ ukončil prevádzku 
+Môj vlastný / rodinný podnik sa zatvoril alebo predal 
+Choroba alebo práceneschopnosť 
+Odišiel som do dôchodku 
+Osobné a rodinné dôvody 
+Iné 
+Nikdy som neodišiel od zamestnávateľa 
+
+F35 
+{QUESTION}
+Vykonávali ste za posledných 10 rokov nejakú platenú prácu v inej krajine v dĺžke 6 mesiacov alebo dlhšie?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F36 
+{QUESTION}
+Boli ste niekedy nezamestnaný a hľadali si prácu dlhšie ako tri mesiace?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F37 
+{QUESTION}
+Trvalo niektoré z týchto období, keď ste boli nezamestnaní a hľadali si prácu, 12 mesiacov alebo dlhšie?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F38 
+{QUESTION}
+Bolo niektoré z týchto období počas posledných 5 rokov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F39 
+Ste alebo ste niekedy boli členom odborov alebo podobnej organizácie? AK ÁNO, tak teraz alebo v minulosti?
+
+{ANSWERS}
+Áno, teraz 
+Áno, v minulosti 
+Nie 
+
+F40
+{QUESTION}
+Vezmite, prosím, do úvahy príjem všetkých členov domácnosti a príjmy domácnosti ako celku. Čo tvorí hlavný zdroj príjmu vo vašej domácnosti? Prosím, použite túto kartu.
+
+{ANSWERS}
+Platy alebo mzdy 
+Príjem zo samo-zamestnania/živnosti (okrem poľnohospodárskej činnosti) 
+Príjem z poľnohospodárskej činnosti 
+Dôchodky 
+Podpora v nezamestnanosti alebo odstupné 
+Akékoľvek ďalšie sociálne dávky alebo podpory 
+Príjem z investícií, úspor, poistenia alebo majetku 
+Príjem z iných zdrojov 
+
+F41 
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, ktoré písmeno popisuje celkový príjem vašej domácnosti, po zdanení a povinných odvodoch zo všetkých zdrojov. Ak neviete presné číslo, pokúste sa, prosím, odhadnúť.
+
+{ANSWERS}
+PRÍJEM VAŠEJ DOMÁCNOSTI 
+Približný MESAČNÝ
+J Do 134 €
+R 135-194 €
+C 195-244€
+M 245-294€
+F 295-349€
+S 350-405€
+K 406-470€
+P 471-543€
+D 544-726€
+H Viac ako 727€
+
+F41 
+{QUESTION}
+Asi aký podiel z príjmu domácnosti zabezpečujete vy? Prosím, použite túto kartu.
+
+{ANSWERS}
+Žiaden 
+Veľmi malý 
+Menej ako polovicu 
+Asi polovicu 
+Viac ako polovicu 
+Veľmi veľký 
+Všetko 
+
+F42
+{QUESTION}
+Ktorý z popisov na tejto karte najlepšie vystihuje váš názor na príjem vašej domácnosti v tomto období?
+
+{ANSWERS}
+Pohodlne vyžijeme zo súčasného príjmu 
+Zvládame to so súčasným príjmom 
+Máme to ťažké so súčasným príjmom 
+Máme to veľmi ťažké so súčasným príjmom 
+
+F43
+{QUESTION}
+Ak by ste sa z nejakého dôvodu dostali do vážnych finančných ťažkostí a museli si požičať peniaze na to, aby ste vyžili, aké ťažké alebo ľahké by to bolo si požičať? Prosím, použite túto kartu.
+
+{ANSWERS}
+Veľmi ťažké 
+Dosť ťažké 
+Ani ľahké ani ťažké 
+Dosť ľahké 
+Veľmi ľahké 
+
+F45 
+{QUESTION}
+Aké najvyššie vzdelanie úspešne ukončil váš manžel? Prosím, použite túto kartu.
+
+{ANSWERS}
+Neukončený prvý stupeň základnej školy 
+Neukončený druhý stupeň základnej školy 
+Ukončený druhý stupeň základnej školy, Kurzy na doplnenie základného vzdelania 
+Praktická škola 
+Rekvalifikačné kurzy 
+Odborné učilište, stredná odborná škola bez maturity, stredné odborné učilište bez maturity 
+Stredná odborná škola s maturitou, stredné odborné učilište s maturitou 
+8 ročné gymnázium, 4 ročné gymnázium 
+Nadstavbové štúdium 
+Doplňujúce pedagogické štúdium 
+Pomaturitné kvalifikačné štúdium 
+Pomaturitné špecializačné štúdium, tanečné konzervatórium, konzervatórium 
+Stredná odborná škola- 6 ročné štúdium 
+Vyššie odborné štúdium 
+Bakalárske štúdium 
+Magisterské/doktorské a inžinierske štúdium 
+Magisterské pokračujúce štúdium, štátne rigorózne skúšky, doplňujúce pedagogické štúdium, rozširujúce štúdium na vyučovanie
+Doktorandské štúdium 
+(iné) 
+
+F46a
+{QUESTION}
+Ktorý z popisov na tejto karte najlepšie vystihuje to, čo on robil počas posledných 7 dní. Vyberte všetky, ktoré sa hodia.
+
+{ANSWERS}
+v práci (alebo dočasne mimo) (zamestnanec, samo-zamestnaný, živnostník, pracujúci v rodinnom podniku) 
+v procese vzdelávania (neplatené zamestnávateľom), aj prázdniny 
+nezamestnaný a aktívne si hľadajúci prácu 
+nezamestnaný, chce pracovať, ale nehľadá si aktívne prácu 
+trvalo chorý alebo postihnutý 
+na dôchodku 
+na základnej vojenskej službe alebo civilnej službe 
+práca v domácnosti, starostlivosť o deti alebo iné osoby 
+(Iné) 
+
+F46c
+{QUESTION}
+A ktorý z týchto popisov najlepšie popisuje jeho situáciu (za posledných sedem dní)? Prosím, vyberte iba jeden.
+
+{ANSWERS}
+v práci (alebo dočasne mimo) (zamestnanec, samo-zamestnaný, živnostník, pracujúci v rodinnom podniku) 
+v procese vzdelávania (neplatené zamestnávateľom), aj prázdniny 
+nezamestnaný a aktívne si hľadajúci prácu 
+nezamestnaný, chce pracovať, ale nehľadá si aktívne prácu 
+trvalo chorý alebo postihnutý 
+na dôchodku 
+na základnej vojenskej službe alebo civilnej službe 
+práca v domácnosti, starostlivosť o deti alebo iné osoby 
+(Iné) 
+
+F47 
+{QUESTION}
+Len si chcem overiť, robil on nejakú platenú prácu (hodinu a viac) za posledných sedem dní?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F48 
+{QUESTION}
+Ako sa nazýva jeho pracovná pozícia v hlavnom zamestnaní?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+V jeho práci aký typ práce robí väčšinu času? 
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Aké vzdelanie alebo kvalifikácia je potrebná pre to zamestnanie?
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+V jeho hlavnom zamestnaní je … 
+
+{ANSWERS}
+...zamestnanec
+samo-zamestnaný/živnostník
+alebo pracuje v rodinnom podniku? 
+
+F52 
+{QUESTION}
+Koľko zamestnancov (ak nejakých) má?
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Vo svojom hlavnom zamestnaní má nejakú zodpovednosť za riadenie a dozor nad prácou iných zamestnancov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F54 
+{QUESTION}
+Za koľko ľudí je zodpovedný?
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Koľko hodín zvyčajne pracuje za týždeň (v jeho hlavnej práci)? Prosím, započítajte aj platené a neplatené nadčasy.
+
+{ANSWERS}
+
+F58
+{QUESTION}
+Aké najvyššie vzdelanie úspešne ukončil váš otec?
+
+{ANSWERS}
+Neukončený prvý stupeň základnej školy 
+Neukončený druhý stupeň základnej školy 
+Ukončený druhý stupeň základnej školy, Kurzy na doplnenie základného vzdelania 
+Praktická škola 
+Rekvalifikačné kurzy 
+Odborné učilište, stredná odborná škola bez maturity, stredné odborné učilište bez maturity 
+Stredná odborná škola s maturitou, stredné odborné učilište s maturitou 
+8 ročné gymnázium, 4 ročné gymnázium 
+Nadstavbové štúdium 
+Doplňujúce pedagogické štúdium 
+Pomaturitné kvalifikačné štúdium 
+Pomaturitné špecializačné štúdium, tanečné konzervatórium, konzervatórium 
+Stredná odborná škola- 6 ročné štúdium 
+Vyššie odborné štúdium 
+Bakalárske štúdium 
+Magisterské/doktorské a inžinierske štúdium 
+Magisterské pokračujúce štúdium, štátne rigorózne skúšky, doplňujúce pedagogické štúdium, rozširujúce štúdium na vyučovanie
+Doktorandské štúdium 
+(iné) 
+
+F59 
+{QUESTION}
+Keď ste mali 14 rokov, pracoval váš otec ako zamestnanec, bol samo-zamestnaný alebo vtedy nepracoval?
+
+{ANSWERS}
+Zamestnanec 
+Samo-zamestnanec/živnostník 
+Nepracoval 
+ (Otec bol mŕtvy alebo nebýval v tom čase v spoločnej domácnosti) 
+
+F60 
+{QUESTION}
+Koľko mal zamestnancov?
+
+{ANSWERS}
+Žiadnych 
+1 až 24 
+25 alebo viac 
+
+F61 
+{QUESTION}
+Mal nejakú zodpovednosť za prácu alebo dozor nad prácou iných zamestnancov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F62 
+{QUESTION}
+Ako sa nazývala jeho pracovná pozícia v hlavnom zamestnaní?
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Ktorý z popisov na tejto karte najlepšie vystihuje typ práce, ktorý robil, keď ste mali 14?
+
+{ANSWERS}
+Odborné alebo technické povolania ako napríklad: lekár – učiteľ - inžinier – umelec - účtovník 
+Vyššie administratívne povolania ako napríklad: bankár – riadiaci pracovník vo veľkých firmách –vysokopostavený vládny úradník – odborársky činiteľ 
+Úradnícke povolania ako napríklad: sekretár/ka – úradník – vedúci úradu - pisár 
+Povolania súvisiace s predajom ako napríklad: vedúci predaja – majiteľ predajne – predavač/ka –poisťovací agent 
+Povolania súvisiace so službami ako napríklad: majiteľ reštaurácie – policajt – čašník – opatrovateľ/ka –holič/ka - ozbrojené sily 
+Kvalifikovaný robotník ako napríklad: majster – mechanik motorov – tlačiar – výrobca náradia - elektrikár 
+Čiastočne kvalifikovaný robotník ako napríklad: murár – vodič autobusu – stolár – pracovník v konzervárňach– robotník pri výrobe oceľových plechov – pekár 
+Nekvalifikovaný robotník ako napríklad: pomocný robotník – vrátnik – nekvalifikovaný robotník v továrni 
+Robotník na farme/družstve ako napríklad: farmár – pomocný robotník na farme– traktorista - rybár 
+
+F64
+{QUESTION}
+Aké najvyššie vzdelanie úspešne ukončila vaša matka?
+
+{ANSWERS}
+Neukončený prvý stupeň základnej školy 
+Neukončený druhý stupeň základnej školy 
+Ukončený druhý stupeň základnej školy, Kurzy na doplnenie základného vzdelania 
+Praktická škola 
+Rekvalifikačné kurzy 
+Odborné učilište, stredná odborná škola bez maturity, stredné odborné učilište bez maturity 
+Stredná odborná škola s maturitou, stredné odborné učilište s maturitou 
+8 ročné gymnázium, 4 ročné gymnázium 
+Nadstavbové štúdium 
+Doplňujúce pedagogické štúdium 
+Pomaturitné kvalifikačné štúdium 
+Pomaturitné špecializačné štúdium, tanečné konzervatórium, konzervatórium 
+Stredná odborná škola- 6 ročné štúdium 
+Vyššie odborné štúdium 
+Bakalárske štúdium 
+Magisterské/doktorské a inžinierske štúdium 
+Magisterské pokračujúce štúdium, štátne rigorózne skúšky, doplňujúce pedagogické štúdium, rozširujúce štúdium na vyučovanie
+Doktorandské štúdium 
+(iné) 
+
+F65 
+{QUESTION}
+Keď ste mali 14 rokov, pracovala vaša matka ako zamestnanec, bola samo-zamestnaná alebo vtedy nepracovala?
+
+{ANSWERS}
+Zamestnanec 
+Samo-zamestnaná/živnostníčka 
+Nepracovala 
+ (Matka bola mŕtva alebo nebývala vtedy v spoločnej domácnosti) 
+
+F66 
+{QUESTION}
+Koľko mala zamestnancov?
+
+{ANSWERS}
+Žiadnych 
+1 až 24 
+25 alebo viac 
+
+F67 
+{QUESTION}
+Mala nejakú zodpovednosť za riadenie a dozor nad prácou iných zamestnancov?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F68 
+{QUESTION}
+Ako sa nazývala jej pracovná pozícia v hlavnom zamestnaní alebo aký tam bol titul?
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Ktorý z popisov na tejto karte najlepšie vystihuje typ práce, ktorý robila, keď ste mali 14?
+
+{ANSWERS}
+Odborné alebo technické povolania ako napríklad: lekár – učiteľ - inžinier – umelec - účtovník 
+Vyššie administratívne povolania ako napríklad: bankár – riadiaci pracovník vo veľkých firmách –vysokopostavený vládny úradník – odborársky činiteľ 
+Úradnícke povolania ako napríklad: sekretár/ka – úradník – vedúci úradu - pisár 
+Povolania súvisiace s predajom ako napríklad: vedúci predaja – majiteľ predajne – predavač/ka –poisťovací agent 
+Povolania súvisiace so službami ako napríklad: majiteľ reštaurácie – policajt – čašník – opatrovateľ/ka – holič/ka- ozbrojené sily 
+Kvalifikovaný robotník ako napríklad: majster – mechanik motorov – tlačiar – výrobca náradia - elektrikár 
+Čiastočne kvalifikovaný robotník ako napríklad: murár – vodič autobusu – stolár – pracovník v konzervárňach– robotník pri výrobe oceľových plechov – pekár 
+Nekvalifikovaný robotník ako napríklad: pomocný robotník – vrátnik – nekvalifikovaný robotník v továrni 
+Robotník na farme/družstve ako napríklad: farmár – pomocný robotník na farme– traktorista - rybár 
+
+F70 
+{QUESTION}
+Počas posledných 12 mesiacov, zúčastnili ste sa nejakého kurzu, prednášky alebo konferencie na zlepšenie vašich znalostí alebo pracovných zručností?
+
+{ANSWERS}
+Áno 
+Nie 
+
+F70a 
+{QUESTION}
+Asi koľko dní ste celkovo strávili na týchto tréningoch alebo vzdelávaní za posledných 12 mesiacov? Prosím, počítajte dva poldenné kurzy ako jeden celý deň.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Teraz sa, prosím, zamyslite nad tým čo ste sa naučili počas tréningov a vzdelávania. Nakoľko užitočné by bolo to, čo ste sa naučili, ak by ste chceli začať pracovať pre inú firmu alebo zamestnávateľa? Prosím, použite túto kartu.
+
+{ANSWERS}
+Veľmi užitočné 
+Celkom užitočné 
+Nie veľmi užitočné 
+Vôbec nie užitočné 
+
+F70c
+{QUESTION}
+Aká časť týchto tréningov a vzdelávania bola zaplatená vašou firmou alebo zamestnávateľom? Prosím použite túto kartu.
+
+{ANSWERS}
+Všetky 
+Väčšinu 
+Asi polovicu 
+Niektoré 
+Žiadne 
+

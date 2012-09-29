@@ -1,0 +1,1819 @@
+﻿
+A 1
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, fernzusehen?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 2
+{QUESTION}
+Und wie viel von dieser Zeit verbringen Sie damit, sich Nachrichten oder Sendungen über Politik und aktuelle politische Ereignisse anzusehen?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 3
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, Radio zu hören?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 4
+{QUESTION}
+Und wie viel Zeit von dieser Ze it verbringen Sie damit, sich Nachrichten oder Sendungen über Politik und aktuelle politische Ereignisse anzuhören?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 5
+{QUESTION}
+Und wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, Zeitung zu lesen?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 6
+{QUESTION}
+Und wie viel Zeit von dieser Zeit verbringen Sie damit, Artikel über Politik und aktuelle politische Ereignisse zu lesen?
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine ½ Stunde 
+½ bis zu 1 Stunde 
+Mehr als 1, bis zu 1 ½ Stunde
+Mehr als 1 ½ bis zu 2 Stunden
+Mehr als 2, bis zu 2 ½ Stunden
+Mehr als 2 ½, bis zu 3 Stunden
+Mehr als 3 Stunden
+
+A 7
+{QUESTION}
+Sagen Sie mir: Wie oft nutzen Sie das Internet, das World Wide Web oder e- mail für private Zwecke, egal ob zu Hause oder am Arbeitsplatz?
+
+{ANSWERS}
+Kein Zugang zu Hause oder am Arbeitsplatz
+Nutze ich nie
+Weniger als einmal im Monat 
+Einmal im Monat
+Mehrmals im Monat
+Einmal in der Woche 
+Mehrmals in der Woche 
+Täglich
+
+A 8
+{QUESTION}
+Ganz allgemein gesprochen: Glauben Sie, dass man den meisten Menschen vertrauen kann, oder dass man im Umgang mit anderen Menschen nicht vorsichtig genug sein kann? 0 bedeutet, dass man nicht vorsichtig genug sein kann, und 10 bedeutet, dass man den meisten Menschen vertrauen kann.
+
+{ANSWERS}
+0 Man kann nicht vorsichtig genug sein
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Man kann den meisten Menschen vertrauen
+
+A9
+{QUESTION}
+Glauben Sie, dass die meisten Menschen versuchen, Sie auszunutzen, wenn sie die Gelegenheit dazu haben, oder versuchen die meisten Menschen, sich fair zu verhalten? 
+
+{ANSWERS}
+0 Die meisten Menschen versuchen mich auszunutzen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Die meisten Menschen versuchen sich fair zu verhalten
+
+A 10
+{QUESTION}
+Und glauben Sie, dass die Menschen meistens versuchen, hilfsbereit zu sein, oder dass die Menschen meistens auf den eigenen Vorteil bedacht sind?
+
+{ANSWERS}
+0 Die Menschen kümmern sich meist um sich selbst
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Die Menschen versuchen meistens, hilfsbereit zu sein
+
+{INTRO}
+Nun möchten wir Ihnen einige Fragen über Politik und zur Regierung stellen
+
+B 1
+{QUESTION}
+Wie sehr interessieren Sie sich für Politik? Sind Sie :
+
+{ANSWERS}
+Sehr interessiert
+Ziemlich interessiert 
+Wenig interessiert
+Oder überhaupt nicht interessiert 
+
+B 2
+{QUESTION}
+Wie oft erscheint Ihnen Politik so kompliziert, dass Sie gar nicht richtig verstehen, worum es eigentlich geht?
+
+{ANSWERS}
+Nie 
+Selten
+Manchmal
+Ziemlich häufig 
+Häufig
+
+B 3
+{QUESTION}
+Wie schwer oder leicht fällt es Ihnen, sich über politische Themen eine Meinung zu bilden?
+
+{ANSWERS}
+Sehr schwer 
+Schwer
+Weder schwer noch leicht 
+Leicht
+Sehr leicht
+
+B 4 
+{QUESTION}
+Sagen Sie mir zu jeder öffentlichen Einrichtung oder Personengruppe, die ich Ihnen nenne, wie sehr Sie persönlich jeder einzelnen davon vertrauen. Verwenden Sie dazu diese Skala von 0 bis 10. 0 bedeutet, dass Sie dieser Einrichtung oder Personengruppe überhaupt nicht vertrauen, und 10 bedeutet, dass Sie ihr voll und ganz vertrauen. Wie ist das mit...der Abgeordnetenkammer?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 5 
+{QUESTION}
+der Justiz?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 6 
+{QUESTION}
+der Polizei?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 7 
+{QUESTION}
+den Politikern?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 8 
+{QUESTION}
+den Parteien?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 9 
+{QUESTION}
+dem Europäischen Parlament?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 10 
+{QUESTION}
+den Vereinten Nationen?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vertraue voll und ganz
+
+B 11
+{QUESTION}
+Manche Menschen gehen heutzutage aus verschiedenen Gründen nicht zur Wahl. Wie ist das bei Ihnen? Haben Sie bei der letzten nationalen Parlamentswahl im Juni 2004 gewählt?
+
+{ANSWERS}
+Ja
+Nein 
+Nicht wahlberechtigt 
+
+B 12
+{QUESTION}
+Welcher Partei haben Sie damals Ihre Stimme gegeben?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL) 
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale 
+Andere Partei 
+
+B13
+{INTRO}
+Es gibt verschiedene Möglichkeiten, wie man gewisse Missstände in Luxemburg verbessern könnte oder wie man dafür sorgen könnte, dass sie gar nicht erst entstehen. 
+
+{QUESTION}
+Haben Sie in den vergangenen 12 Monaten einen der folgenden Schritte unternommen? Kontakt zu einem Politiker oder zu einem Beamten auf Landes- oder Kommunalebene aufgenommen?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 14 
+{QUESTION}
+in einer politischen Partei oder Gruppierung mitgearbeitet?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 15 
+{QUESTION}
+in einer anderen Organisation oder in einem anderen Verband oder Verein mitgearbeitet?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B16 
+{QUESTION}
+ein Abzeichen oder einen Aufkleber einer politischen Kampagne getragen oder irgendwo befestigt?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 17 
+{QUESTION}
+sich an einer Unterschriftensammlung beteiligt? 
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 18 
+{QUESTION}
+an einer genehmigten öffentlichen Demonstration teilgenommen?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 19 
+{QUESTION}
+bestimmte Produkte boykottiert?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 20a
+{QUESTION}
+Gibt es eine politische Partei, der Sie näher stehen als allen anderen Parteien?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 20b
+{QUESTION}
+Welcher ?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR) 
+Andere Partei 
+
+B 20c
+{QUESTION}
+Wie nahe stehen Sie dieser Partei? Fühlen Sie sich ihr...
+
+{ANSWERS}
+sehr nahe
+ziemlich nahe
+nicht besonders nahe
+oder überhaupt nicht nahe 
+
+B 21
+{QUESTION}
+Sind Sie Mitglied einer politischen Partei?
+
+{ANSWERS}
+ Ja 
+Nein
+
+B 22
+{QUESTION}
+Welcher Partei ?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR) 
+Andere Partei 
+
+B 23
+{INTRO}
+In der Politik spricht man manchmal von „links“ und „rechts“. 
+
+{QUESTION}
+Wenn 0 für links steht und 10 für rechts?
+
+{ANSWERS}
+0 Links 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Rechts
+
+B 24
+{QUESTION}
+Wie zufrieden sind Sie - alles in allem - mit Ihrem gegenwärtigen Leben? 0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst zufrieden
+
+B 25
+{QUESTION}
+Und wie zufrieden sind Sie - alles in allem - mit der gegenwärtigen Wirtschaftslage in Luxemburg?
+0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst zufrieden
+
+B 26
+{QUESTION}
+Wenn Sie nun einmal an die Leistungen der luxemburgischen Regierung denken. Wie zufrieden
+sind Sie mit der Art und Weise, wie sie ihre Arbeit erledigt? 0 bedeutet äußerst unzufrieden und 10
+äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst zufrieden
+
+B 27
+{QUESTION}
+Und wie zufrieden sind Sie - alles in allem - mit der Art und Weise, wie die Demokratie in
+Luxemburg funktioniert. 0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst zufrieden
+
+B 28
+{QUESTION}
+Wie Sie - alles in allem - den derzeitigen Zustand des Bildungssystems in Luxemburg einschätzen.
+0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst zufrieden
+
+B 29
+{QUESTION}
+Wie Sie – alles in allem - den derzeitigen Zustand des Gesundheitssystems in Luxemburg einschätzen. 0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst schlecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst gut
+
+B30
+{QUESTION}
+Sagen Sie mir, wie sehr Sie jeder der folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Der Staat sollte Maßnahmen ergreifen, um Einkommensunterschiede zu verringern.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu 
+Weder noch
+Lehne ab 
+Lehne stark ab
+
+B 31 
+{QUESTION}
+Schwule und Lesben sollten die Freiheit haben, ihr Leben so führen zu dürfen, wie sie es wollen.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu 
+Weder noch
+Lehne ab 
+Lehne stark ab
+
+B 32 
+{QUESTION}
+Politische Parteien, die die Demokratie abschaffen wollen, sollten verboten werden.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu 
+Weder noch
+Lehne ab 
+Lehne stark ab
+
+B 33 
+{QUESTION}
+Man kann darauf vertrauen, dass die moderne Wissenschaft unsere Umweltprobleme lösen wird.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu 
+Weder noch
+Lehne ab 
+Lehne stark ab
+
+B 34
+{QUESTION}
+Wir kommen jetzt zum Thema Europäische Union. Manche Leute sagen, dass die europäische Einigung weiter gehe n sollte. Andere sagen, dass sie schon zu weit gegangen ist. Wie denken Sie darüber.
+
+{ANSWERS}
+0 Einigung ist schon zu weit gegangen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Einigung sollte weiter gehen
+
+{INTRO}
+Ich möchte Ihnen nun ein paar Fragen zu Menschen stellen, die aus anderen Ländern nach
+Luxemburg kommen, um hier zu leben.
+
+B 35
+{QUESTION}
+Zunächst geht es um die Zuwanderer, die derselben ethnischen Gruppe angehören wie die Mehrheit der Luxemburger. Wie vielen von ihnen sollte Luxemburg erlauben, hier zu leben? Sollte Luxemburg es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+B 36
+{QUESTION}
+Wie ist das mit Zuwanderern, die einer anderen ethnischen Gruppe angehören als die Mehrheit der Luxemburger. Sollte Luxemburg es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+B 37
+{QUESTION}
+Und wie ist das mit Zuwanderern, die aus den ärmeren Ländern außerhalb Europas kommen? Sollte Luxemburg es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+B 38
+{QUESTION}
+Was würden Sie sagen, ist es im Allgemeinen gut oder schlecht für die Luxemburger Wirtschaft, dass Zuwanderer hierher kommen?
+
+{ANSWERS}
+0 Schlecht für die Wirtschaft
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gut für die Wirtschaft
+
+B 39
+{QUESTION}
+Und würden Sie sagen, dass das kulturelle Leben in Luxemburg im Allgemeinen durch Zuwanderer untergraben oder bereichert wird?
+
+{ANSWERS}
+0 Kulturelles Leben wird untergraben
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kulturelles Leben wird bereichert
+
+B 40
+{QUESTION}
+Wird Luxemburg durch Zuwanderer zu einem schlechteren oder besseren Ort zum Leben?
+
+{ANSWERS}
+0 wird zu einem schlechteren Ort zum Leben
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 wird zu einem besseren Ort zum Leben
+
+{INTRO}
+Und nun möchte ich Ihnen ein paar Fragen zu Ihrer Person und zu Ihrem Leben stellen.
+
+C 1
+{QUESTION}
+Alles in allem betrachtet, was würden Sie sagen, wie glücklich sind Sie?
+
+{ANSWERS}
+0 Äußerst unglücklich
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst glücklich
+
+C 2
+{QUESTION}
+Wie oft treffen Sie sich mit Freunden, Verwandten oder privat mit Arbeitskollegen?
+
+{ANSWERS}
+Nie 
+Weniger als einmal im Monat 
+Einmal im Monat
+Mehrmals im Monat
+Einmal in der Woche 
+Mehrmals in der Woche 
+Täglich
+
+C 3
+{QUESTION}
+Haben Sie jemanden, mit dem Sie über vertrauliche und persönliche Angelegenheiten reden können?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 4
+{QUESTION}
+Wenn Sie sich mit Gleichaltrigen vergleichen, wie oft nehmen Sie an geselligen Ereignissen oder Treffen teil?
+
+{ANSWERS}
+Viel seltener als die meisten
+Seltener als die meisten
+Ungefähr gleich oft 
+Häufiger als die meisten
+Viel häufiger als die meisten
+
+C 5
+{QUESTION}
+Sind Sie oder ein Mitglied Ihres Haushalts in den letzten fünf Jahren Opfer eines Einbruchs oder Überfalls geworden?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 6
+{QUESTION}
+Wie sicher fühlen Sie sich – oder würden Sie sich fühlen – wenn Sie nach Einbruch der Dunkelheit alleine zu Fuß in Ihrer Wohngegend unterwegs sind oder wären? Fühlen Sie sich – oder wie würden Sie sich fühlen...
+
+{ANSWERS}
+sehr sicher
+sicher
+unsicher
+oder sehr unsicher
+
+C 7
+{QUESTION}
+Wie schätzen Sie - alles in allem - Ihren Gesundheitszustand ein? Würden Sie sagen, er ist...
+
+{ANSWERS}
+sehr gut
+gut
+durchschnittlich
+schlecht
+oder sehr schlecht 
+
+C 8
+{QUESTION}
+Werden Sie bei Ihren täglichen Aktivitäten in irgendeiner Weise von einer längeren Krankheit oder einer Behinderung, einem Gebrechen oder einer seelischen Krankheit beeinträchtigt? Wenn ja, gilt das stark oder nur bis zu einem gewissen Grad?
+
+{ANSWERS}
+Ja, stark 
+Ja, bis zu einem gewissen Grad
+Nein 
+
+C 9
+{QUESTION}
+Fühlen Sie sich einer bestimmten Religion oder Konfession zugehörig?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 10 
+{QUESTION}
+Welche Religion oder konfession ist das?
+
+{ANSWERS}
+Christlich, ohne weitere Unterscheidung 
+Römisch-Katholisch
+Griechisch oder Russisch Orthodox
+Andere orthodoxe Religion 
+Protestantisch (ohne weitere Unterscheidung) 
+Andere protestantische Religion 
+Andere christliche Religion 
+Hinduismus 
+Sikh
+Buddhismus 
+Andere östliche Religion 
+Jüdisch
+Islamistisch, Moslemisch 
+Andere nicht christliche Religion 
+
+C 11
+{QUESTION}
+Haben Sie sich früher einmal einer Religion oder Konfession zugehörig gefühlt?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 12
+{QUESTION}
+Und welche Religion oder Konfession war das?
+
+{ANSWERS}
+Christlich, ohne weitere Unterscheidung 
+Römisch-Katholisch
+Griechisch oder Russisch Orthodox
+Andere orthodoxe Religion 
+Protestantisch (ohne weitere Unterscheidung) 
+Andere protestantische Religion 
+Andere christliche Religion 
+Hinduismus 
+Sikh
+Buddhismus 
+Andere östliche Religion 
+Jüdisch
+Islamistisch, Moslemisch 
+Andere nicht christliche Religion 
+
+C 13
+{QUESTION}
+Unabhängig davon, ob Sie sich einer bestimmten Religion zugehörig fühlen, für wie religiös würden Sie sich selber halten?
+
+{ANSWERS}
+0 Überhaupt nicht religiös
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sehr religiös
+
+C 14
+{QUESTION}
+Abgesehen von besonderen Anlässen wie Hochzeiten und Beerdigungen, wie oft gehen Sie derzeit zum Gottesdienst?
+
+{ANSWERS}
+Täglich
+Häufiger als einmal in der Woche 
+Einmal in der Woche 
+Mindestens einmal im Monat 
+Nur an besonderen Feiertagen
+Seltener 
+Nie 
+
+C 15
+{QUESTION}
+Abgesehen von Gottesdiensten, wie oft beten Sie – wenn überhaupt?
+
+{ANSWERS}
+Täglich
+Häufiger als einmal in der Woche 
+Einmal in der Woche 
+Mindestens einmal im Monat 
+Nur an besonderen Feiertagen
+Seltener 
+Nie 
+
+C 16
+{QUESTION}
+Würden Sie sich selbst als Angehörige einer Bevölkerungsgruppe bezeichnen, die in Luxemburg diskriminiert wird?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 17
+{QUESTION}
+Aus welchen Gründen wird Ihre Gruppe diskriminiert? 
+
+{ANSWERS}
+Hautfarbe 
+Nationalität 
+Religion 
+Sprache 
+ethnische Gruppe 
+Alter 
+Geschlecht 
+Sexuelle Neigungen
+Behinderung 
+Sonstige 
+
+C 18
+{QUESTION}
+Sind Sie Luxemburger Staatsbürger?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 19
+{QUESTION}
+Welche Staatsangehörigkeit besitzen Sie?
+
+{ANSWERS}
+
+C 20
+{QUESTION}
+Sind Sie in Luxemburg geboren?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 21
+{QUESTION}
+In welchem Land sind Sie geboren?
+
+
+{ANSWERS}
+C 22
+{QUESTION}
+Wann sind Sie zum ersten Mal nach Luxemburg gekommen, um hier zu leben? 
+
+{ANSWERS}
+Innerhalb des letzten Jahres 
+vor 1-5 Jahren
+vor 6-10 Jahren
+vor 11-20 Jahren
+vor über 20 Jahren
+
+C 23
+{QUESTION}
+Welche Sprache oder Sprachen sprechen Sie zu Hause (hier in Luxemburg) am häufigsten?
+
+{ANSWERS}
+Bis zu zwei Sprachen eintragen
+
+C 24
+{QUESTION}
+Gehören Sie einer ethnischen Gruppe an, die in Luxemburg in der Minderheit ist?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 25
+{QUESTION}
+Ist Ihr Vater in Luxemburg geboren?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 26
+{QUESTION}
+In welchem Land ist Ihr Vater geboren?
+
+{ANSWERS}
+
+C 27
+{QUESTION}
+Ist Ihre Mutter in Luxemburg geboren?
+
+{ANSWERS}
+Ja
+Nein 
+
+C 28
+{QUESTION}
+In welchem Land ist Ihre Mutter geboren?
+
+{ANSWERS}
+
+{INTRO}
+Jetzt möchte ich Ihnen einige Fragen über Sie und andere Personen in Ihrem Haushalt stellen.
+
+F 1
+{QUESTION}
+Wie viele Personen leben ständig in diesem Haushalt, Sie selbst eingeschlossen? Denken Sie dabei bitte auch an alle im Haushalt lebenden Kinder.
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Geburtsjahr
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+In welcher Beziehung steht (..) zu Ihnen?
+
+{ANSWERS}
+Ehemann / Ehefrau / Partner/Partnerin 
+Sohn/Tochter (einschl. Stief- oder adoptierte Kinder, Kinder des Partners/der Partnerin, Pflegekinder)
+Eltern/Schwiegereltern, Vater/ Mutter des Partners/der Partnerin, Stiefvater/Stiefmutter
+Bruder/Schwester (einschl. Stief- oder adoptierte Geschwister, Pflegegeschwister)
+Andere verwandte Person 
+Andere nichtverwandte Person 
+
+F 5
+{QUESTION}
+Welche der auf Liste 41 ufgeführten Kategorien beschreibt Ihr Wohngebiet am treffendsten?
+
+{ANSWERS}
+Luxemburg Stadt
+Aussenquartier oder Vorort von Luxembourg Stadt
+Kleinstadt
+Dorf
+Bauernhof oder ein Haus auf dem Land
+
+F 5a
+{QUESTION}
+Sind Sie oder ein anderes Mitglied ihres Haushaltes Eigentümer dieser Wohnung oder dieses Hauses?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 5b
+{QUESTION}
+Wie viele Zimmer stehen Ihrem Haushalt zur Verfügung, Küche, Badezimmer und Toilette nicht mitgezählt?
+
+{ANSWERS}
+
+F 6
+{QUESTION}
+Welches ist Ihre höchste abgeschlossene Ausbildung?
+
+{ANSWERS}
+Kein Abschluß 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Anderer
+
+F 6a
+{QUESTION}
+In welchem der Bereiche auf der Liste haben Sie Ihre höchste Qualifikation?
+
+{ANSWERS}
+Allgemeine Qualifikation oder kein spezieller Bereich
+Kunst, Kunstgewerbe 
+Geisteswissenschaften - Sprachen, klassische Philologie, Geschichte, Theologie, etc 
+Technik, Maschinenbau, Architektur, Stadtplanung, Industrie, Handwerk, Baugewerbe,etc.
+Landwirtschaft, Forstwirtschaft 
+Lehrerausbildung und Bildungswesen
+Wissenschaft, Mathematik, Informatik, etc 
+Medizin, Gesundheitswesen, etc. 
+Wirtschaft, Handel, Management, Rechnungswesen, etc. 
+Sozial- und Verhaltenswissenschaften, öffentliche Verwaltung, Medien, Kultur, Sport- und Freizeitwissenschaften, etc.
+Justizwesen
+Dienstleistungswesen – Lebensmittelhandel, Hauswirtschaft, Friseurgewerbe, etc.
+Öffentliche Ordnung und Sicherheit – Polizei, Armee, Feuerwehr, etc. 
+Transportwesen und Telekommunikation
+
+F 7
+{QUESTION}
+Wie viele Jahre Vollzeitausbildung haben Sie absolviert?
+
+{ANSWERS}
+
+F 8a
+{QUESTION}
+Sagen Sie mir alles, was davon in den letzten sieben Tagen auf Sie zutraf.
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche 
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/ Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+(Sonstiges) 
+
+F 8c
+{QUESTION}
+Was davon trifft am besten auf Ihre Situation (in den letzten sieben Tagen) zu? Nur eine Antwort möglich
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche 
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/ Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+(Sonstiges)
+
+F 9
+{QUESTION}
+Darf ich noch einmal nachfragen: Haben Sie in den letzten sieben Tagen irgendeine bezahlte Tätigkeit (von einer Stunde oder mehr) ausgeübt?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 10
+{QUESTION}
+Sind Sie jemals einer bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 11
+{QUESTION}
+In welchem Jahr sind Sie zum letzten Mal einer bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+
+F 12
+{QUESTION}
+Sind Sie in Ihrem Hauptberuf oder in Ihrer bezahlten Tätigkeit…
+
+{ANSWERS}
+abhängig beschäftigt
+selbständig
+mithelfender Familienangehöriger 
+
+F 13
+{QUESTION}
+Wie viele Beschäftigte haben Sie (falls überhaupt)?
+
+{ANSWERS}
+
+F 14
+{QUESTION}
+Ist Ihr letztes Beschäftigungsverhältnis ...
+
+{ANSWERS}
+zeitlich unbefristet
+zeitlich befristet
+oder hatten Sie keinen Arbeitsvertrag 
+
+F 15
+{QUESTION}
+Wie viele Menschen sind/waren in Ihrem Betrieb oder Dienststelle beschäftigt – Sie selbst eingeschlossen?
+
+{ANSWERS}
+weniger als 10
+10 bis 24 
+25 bis 99 
+100 bis 499 
+oder 500 und mehr 
+
+F 16
+{QUESTION}
+Gehört es in Ihrem Hauptberuf zu Ihren Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 17
+{QUESTION}
+Wie viele sind das?
+
+{ANSWERS}
+
+{INTRO}
+Bitte fragen, wenn die antwortende Person eine bezahlte Tätigkeit ausübt oder ausgeübt hat Ich lese jetzt eine Liste mit Aussagen über Ihr Arbeitsleben vor. Bitte sagen Sie mir, in welchem Maße Ihr Arbeitgeber oder Ihre Geschäftsleitung es zulässt,
+daß Sie an Ihrem Arbeitsplatz...
+
+F 18 
+{QUESTION}
+…entscheiden, wie Sie Ihre tägliche Arbeit organisieren?
+
+{ANSWERS}
+0 Kann/Konnte ich nicht beeinflussen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kann/Konnte ich völlig eigenständig bestimmen
+
+F 19 
+{QUESTION}
+… Entscheidungen über die Tätigkeit Ihres Betriebs oder Ihrer Dienststelle beeinflussen?
+
+{ANSWERS}
+0 Kann/Konnte ich nicht beeinflussen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kann/Konnte ich völlig eigenständig bestimmen
+
+F 19a 
+{QUESTION}
+… Ihr Arbeitstempo selbst bestimmen oder verändern?
+
+{ANSWERS}
+0 Kann/Konnte ich nicht beeinflussen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kann/Konnte ich völlig eigenständig bestimmen
+
+F 20
+{QUESTION}
+Wie viele Stunden pro Woche beträgt Ihre reguläre oder im Arbeitsvertrag festgelegte Arbeitszeit - ohne bezahlte oder unbezahlte Überstunden?
+
+{ANSWERS}
+
+F 21
+{QUESTION}
+Wie viele Stunden arbeiten Sie normalerweise tatsächlich in einer Woche in Ihrem Hauptberuf, einschließlich bezahlter oder unbezahlter Überstunden?
+
+{ANSWERS}
+
+F 22
+{QUESTION}
+Was ist die genaue Bezeichnung Ihres Hauptberufes?
+
+{ANSWERS}
+
+F 23
+{QUESTION}
+Welche Tätigkeiten üben Sie überwiegend in Ihrem Hauptberuf aus?
+
+{ANSWERS}
+
+F 24
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für Ihren Hauptberuf erforderlich?
+
+{ANSWERS}
+
+F 25
+{QUESTION}
+Was produziert oder macht der Betrieb oder die Dienststelle, für die Sie arbeiten, hauptsächlich?
+
+{ANSWERS}
+
+F 26
+{QUESTION}
+Haben Sie in den letzten 10 Jahren für 6 Monate oder länger eine bezahlte Tätigkeit im Ausland ausgeübt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 27
+{QUESTION}
+Waren Sie jemals mehr als drei Monate arbeitslos und auf Arbeitssuche?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 28
+{QUESTION}
+Waren Sie einmal ununterbrochen 12 Monate lang oder länger arbeitslos?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 29
+{QUESTION}
+Ist das innerhalb der letzten 5 Jahre gewesen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 30
+{QUESTION}
+Sind Sie gegenwärtig oder waren Sie früher Mitglied einer Gewerkschaft oder einer ähnlichen Organisation? Wenn ja: sind Sie gegenwärtig oder waren Sie früher Mitglied?
+
+{ANSWERS}
+Ja, gegenwärtig
+Ja, früher 
+Nein 
+
+F 31
+{QUESTION}
+Bitte denken Sie einmal an das Einkommen aller Haushaltsmitglieder und an alle Einkommensarten, die der Haushalt bezieht. Was ist die wichtigste Einkommensquelle Ihres Haushaltes?
+
+{ANSWERS}
+Löhne oder Gehälter 
+Einkommen aus selbständiger oder freiberuflicher Tätigkeit ausser Landwirtschaft 
+Einkommen aus Landwirtschaft 
+Renten oder Pensionen 
+Arbeitslosengeld/-hilfe oder Abfindungen
+andere Sozialleistungen (Sozialhilfe, Bafög usw.) oder Stipendien
+Einkommen aus Vermögensanlagen, Ersparnissen, Versicherungen oder Grundbesitz
+Einkommen aus anderen Quellen
+
+F 32A
+{QUESTION}
+Wenn Sie die Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe auf Liste 46 trifft für das gesamte Nettoeinkommen Ihres Haushalts zu? Wenn Sie die genaue Summe nicht wissen, schätzen Sie bitte. Sie können das monatliche oder jährliche Nettoeinkommen in Euro angeben, so wie Sie es am besten wissen
+
+{ANSWERS}
+Monatlich (ungefähr)
+J Bis 149 €
+R zwischen 150 € und 299 €
+C zwischen 300 € und 499 €
+M zwischen 500 € und 999 €
+F zwischen 1000 € und 1499 €
+S zwischen 1500 € und 1999 €
+K zwischen 2000 € und 2499 €
+P zwischen 2500 € und 2999 €
+D zwischen 3000 € und 4999 €
+H zwischen 5000 € und 7499 €
+U zwischen 7500 € und 9999 €
+N 10000 € oder mehr
+
+F 32B
+{QUESTION}
+Wenn Sie die Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe auf Liste 46 trifft für das gesamte Nettoeinkommen Ihres Haushalts zu? Wenn Sie die genaue Summe nicht wissen, schätzen Sie bitte. Sie können das monatliche oder jährliche Nettoeinkommen in Euro angeben, so wie Sie es am besten wissen
+
+{ANSWERS}
+Jährlich (ungefähr)
+J Bis 1799 €
+R zwischen 1800 € und 3599 €
+C zwischen 3600 € und 5999 €
+M zwischen 6000 € und 11999 €
+F Zwischen 12000 € und 17999 €
+S Zwischen 18000 € und 23999 €
+K Zwischen 24000 € und 29999 €
+P Zwischen 30000 € und 35999 €
+D Zwischen 36000 € und 59999 €
+H Zwischen 60000 € und 89999 €
+U Zwischen 90000 € und 119999 €
+N 120000 € oder mehr
+
+F 32a
+{QUESTION}
+Wieviel ungefähr tragen Sie persönlich zum Haushaltseinkommen bei?
+
+{ANSWERS}
+Nichts
+Sehr wenig 
+Weniger als die Hälfte 
+Etwa die Hälfte 
+Mehr als die Hälfte 
+Sehr viel
+Alles
+
+F 33
+{QUESTION}
+Was auf Liste 48 beschreibt am besten, wie Sie Ihr gegenwärtiges Haushaltseinkommen beurteilen? Mit dem gegenwärtigen Einkommen kann ich wir...
+
+{ANSWERS}
+bequem leben
+Zurechtkommen
+nur schwer zurechtkommen
+nur sehr schwer zurechtkommen
+
+F 34
+{QUESTION}
+Wenn Sie aus irgendwelchen Gründen in ernsten finanziellen Schwierigkeiten stecken würden und Geld leihen müssten, um über die Runden zu kommen, wie schwierig oder leicht wäre das für Sie?
+
+{ANSWERS}
+Sehr schwierig
+ziemlich schwierig 
+Weder leicht noch schwierig
+Ziemlich leicht 
+Sehr leicht 
+
+F 35
+{QUESTION}
+Die antwortende Person lebt zusammen mit dem Ehegatte, Partner
+
+{ANSWERS}
+
+F 36
+{QUESTION}
+Welches ist der höchste Bildungsabschluß des Ehegattens, Partners ?
+
+{ANSWERS}
+Kein Abschluß 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Anderer: 
+
+F 37a
+{QUESTION}
+Welche der Beschreibungen auf dieser Liste trifft auf das zu, was Ihr Partner in den letzten 7 Tagen getan hat? Mehrfachnennungen möglich.
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeit geber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche 
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/ Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+(Sonstiges) 
+
+F 37c
+{QUESTION}
+Und welche dieser Beschreibungen trifft auf seine Situation (in den letzten sieben Tagen) am besten zu? Nur eine Antwort möglich.
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche 
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/ Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+(Sonstiges) 
+
+F 38
+{QUESTION}
+Darf ich noch einmal nachfragen: Hat ihr Partner Partnerin in den letzten sieben Tagen irgendeine bezahlte Tätigkeit (von einer Stunde oder mehr) ausgeübt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 39
+{QUESTION}
+Was ist die genaue Bezeichnung seines Hauptberufes oder seiner bezahlten Tätigkeit?
+
+{ANSWERS}
+
+F 40
+{QUESTION}
+Welche Tätigkeiten übt er überwiegend in seinem Hauptberuf aus?
+
+{ANSWERS}
+
+F 41
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für den Hauptberuf Ihres Partners erforderlich?
+
+{ANSWERS}
+
+F 42
+{QUESTION}
+In seinem Hauptberuf ist er …
+
+{ANSWERS}
+abhängig beschäftigt
+selbständig
+oder mithelfender Familienangehöriger
+
+F 43
+{QUESTION}
+Wie viele Beschäftigte hat er (falls überhaupt welche)?
+
+{ANSWERS}
+
+F 44
+{QUESTION}
+Gehört es in seinem Hauptberuf zu seinen Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein
+
+F 45
+{QUESTION}
+Wie viele sind das?
+
+{ANSWERS}
+
+{INTRO}
+Bitte fragen, wenn deer Partner zur Zeit arbeitet (Kode 1 in F37a oder ja in F38). Ich lese jetzt eine Liste mit Aussagen über das Arbeitsleben Ihres Partner vor. Bitte sagen Sie mir, in welchem Maße der Arbeitgeber oder die Geschäftsleitung Ihres Partners es zulässt, dass er Partner an an seinem Arbeitsplatz...
+
+F 46 
+{QUESTION}
+…entscheidet, wie er seine tägliche Arbeit organisiert?
+
+{ANSWERS}
+0 Kann er/sie nicht beeinflussen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kann er/sie völlig eigenständig bestimmen
+
+F 47 
+{QUESTION}
+… strategische Entscheidungen über die Tätigkeit seines Betriebs oder seiner Dienststelle beeinflusst?
+
+{ANSWERS}
+0 Kann er/sie nicht beeinflussen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kann er/sie völlig eigenständig bestimmen
+
+F 48
+{QUESTION}
+Wie viele Stunden arbeitet er normalerweise in einer Woche in seinem Hauptberuf, einschließlich bezahlter oder unbezahlter Überstunden?
+
+{ANSWERS}
+
+F 49
+{QUESTION}
+Welches ist der hö chste Bildungsabschluß Ihres Vaters ?
+
+{ANSWERS}
+Kein Abschluß 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Anderer
+
+F 50
+{QUESTION}
+Als Sie 14 Jahre alt waren, hat Ihr Vater da als abhängig Beschäftigter gearbeitet, war er selbständig oder ist er damals keiner bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+abhängig Beschäftigter
+selbständig
+keine bezahlte Tätigkeit 
+(Vater bereits verstorben/lebte nicht im Haushalt als Befragte(r) 14 war)
+
+F 51
+{QUESTION}
+Wie viele Beschäftigte hatte er?
+
+{ANSWERS}
+Keine 
+1 bis 24
+25 oder mehr 
+
+F 52
+{QUESTION}
+Gehörte es zu seinen Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 53
+{QUESTION}
+Was war die genaue Bezeichnung seines Hauptberufes?
+
+{ANSWERS}
+
+F 54
+{QUESTION}
+Welche der Beschreibungen auf Liste 54 trifft am besten auf die Berufstätigkeit Ihres Vaters zu, als
+Sie 14 Jahre alt waren?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwalt – Arzt – Wissenschaftler – Ingenieur -
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrer – Krankenpfleger – Physiotherapeut – Sozialarbeiter – Künstler – Musiker – Polizeibeamter (im höheren oder gehobenen Dienst) – Software-Entwickler
+Mittlere Verwaltungs- und Dienstleistungsberufe wie: Sekretär – persönlicher Assistent – Büroangestellter – Telefonist – Hilfspfleger – Hilfskrankenschwester
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und Koordination von Arbeit und Finanzen) wie: Finanzmanager – Geschäftsführer – Betriebsleiter
+Gelernte technische und handwerkliche Berufe wie: Kfz-Mechaniker – Maschinenschlosser – Installateur – Drucker – Werkzeugmacher – Elektriker – Landwirt – Gärtner – Lokführer
+Angelernte handwerkliche und Dienstleistungsberufe wie: Postangestellter – Maschinenarbeiter – Sicherheitsbediensteter– Hausmeister – Landarbeiter – Angestellter im Lebensmittelhandel – Empfangschef – Verkäufer
+Ungelernte handwerkliche und Dienstleistungsberufe wie: LKW-Fahrer –Lieferwagenfahrer–Reinigungskraft– Pförtner – Packer – Näher – Bote – Hilfsarbeiter – Kellner
+Mittlere und untere Managementberufe wie: Büroleiter – Filialleiter im Einzelhandel – Filialleiter einer Bank – Geschäftsführer eines landwirtschaftlichen Betriebes – Filialleiter einer Restaurantkette – Kaufhausdirektor – Gastwirt
+
+F 55
+{QUESTION}
+Welches ist der höchste Bildungsabschluß Ihrer Mutter ?
+
+{ANSWERS}
+Kein Abschluß 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manue lle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime techniq ue) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Anderer: Angeben
+
+F 56
+{QUESTION}
+Als Sie 14 Jahre alt waren, hat Ihre Mutter da als abhängig Beschäftigte gearbeitet, war sie selbständig oder ist sie damals keiner bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+abhängig Beschäftigte 
+selbständig
+keine bezahlte Tätigkeit 
+(Mutter bereits verstorben/lebte nicht im Haushalt als Befragte(r) 14 war) 
+
+F 57
+{QUESTION}
+Wie viele Beschäftigte hatte Sie?
+
+{ANSWERS}
+Keine 
+1 bis 24
+25 oder mehr 
+
+F 58
+{QUESTION}
+Gehörte es zu ihren Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 59
+{QUESTION}
+Was war die genaue Bezeichnung ihres Hauptberufes?
+
+{ANSWERS}
+
+F 60
+{QUESTION}
+Welche der Beschreibungen auf Liste 56 trifft am besten auf die Berufstätigkeit Ihrer Mutter zu, als Sie 14 Jahre alt waren?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwalt – Arzt – Wissenschaftler – Ingenieur -
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrer – Krankenpfleger – Physiotherapeut – Sozialarbeiter – Künstler – Musiker – Polizeibeamter (im höheren oder gehobenen Dienst) – Software-Entwickler
+Mittlere Verwaltungs- und Dienstleistungsberufe wie: Sekretär – persönlicher Assistent – Büroangestellter – Telefonist – Hilfspfleger – Hilfskrankenschwester
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und Koordination von Arbeit und Finanzen) wie: Finanzmanager – Geschäftsführer – Betriebsleiter
+Gelernte technische und handwerkliche Berufe wie: Kfz-Mechaniker – Maschinenschlosser – Installateur – Drucker – Werkzeugmacher – Elektriker – Landwirt – Gärtner – Lokführer
+Angelernte handwerkliche und Dienstleistungsberufe wie: Postangestellter – Maschinenarbeiter – Sicherheitsbediensteter– Hausmeister – Landarbeiter – Angestellter im Lebensmittelhandel – Empfangschef – Verkäufer
+Ungelernte handwerkliche und Dienstleistungsberufe wie: LKW-Fahrer –Lieferwagenfahrer–Reinigungskraft– Pförtner – Packer – Näher – Bote – Hilfsarbeiter – Kellner
+Mittlere und untere Managementberufe wie: Büroleiter – Filialleiter im Einzelhandel – Filialleiter einer Bank – Geschäftsführer eines landwirtschaftlichen Betriebes – Filialleiter einer Restaurantkette – Kaufhausdirektor – Gastwirt
+
+F 61
+{QUESTION}
+Nun wieder zu Ihnen. Haben Sie während der letzten 12 Monate Kurse belegt oder Vorträge oder Veranstaltungen besucht, die Ihrer beruflichen Fort- und Weiterbildung dienten?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 62
+{QUESTION}
+Darf ich Sie nach Ihrem gegenwärtigen Familienstand fragen?
+
+{ANSWERS}
+Verheiratet 
+Getrennt lebend (aber noch verheiratet) 
+Geschieden
+Verwitwet
+Ledig, nie verheiratet gewesen
+(Antwort verweigert) 
+
+F 63
+{QUESTION}
+Leben Sie gegenwärtig mit Ihrem Ehemann/Ihrer Ehefrau zusammen?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 64
+{QUESTION}
+Leben Sie gegenwärtig mit einem anderen Partner zusammen?
+
+{ANSWERS}
+Ja
+Nein 
+
+F 65
+{QUESTION}
+Leben Sie gegenwärtig mit einem Partner zusammen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 66
+{QUESTION}
+Haben Sie jemals mit einem Partner zusammengelebt, mit dem der Sie nicht verheiratet waren?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 68
+{QUESTION}
+Sind Sie jemals geschieden worden?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 70
+{QUESTION}
+Haben Sie jemals mit eigenen oder adoptierten Kindern, Stiefkindern, Pflegekindern oder Kindern eines Partners/einer Partnerin in Ihrem Haushalt zusammengelebt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 70a
+{QUESTION}
+Lebt Ihre Mutter noch?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F 70b
+{QUESTION}
+Lebt Ihr Vater noch?
+
+{ANSWERS}
+Ja 
+Nein 
+
+

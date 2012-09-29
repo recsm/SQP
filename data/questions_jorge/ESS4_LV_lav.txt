@@ -1,0 +1,1814 @@
+﻿A1 
+{QUESTION}
+Vidēji cik stundas dienā Jūs skatāties televizoru? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A2 
+{QUESTION}
+Vidēji cik stundas Jūs skatāties televīzijas ziņas vai raidījumus par politiku un aktuāliem notikumiem? Izmantojiet to pašu kartīti.
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A3 
+{QUESTION}
+Vidēji cik stundas dienā Jūs klausāties radio? 
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A4 
+{QUESTION}
+Vidēji cik stundas dienā Jūs klausāties radio ziņas vai raidījumus par politiku un aktuāliem notikumiem? 
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A5 
+{QUESTION}
+Vidēji cik stundas ikdienā Jūs pavadāt, lasot laikrakstus? 
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A6 
+{QUESTION}
+Un cik ilgi Jūs lasāt par politiku un aktuāliem notikumiem? 
+
+{ANSWERS}
+Nedaru to vispār
+Mazāk kā 1 stundu
+1 stundu līdz 1 stundu
+Vairāk kā 1 stundu, līdz 11 stundai
+Vairāk kā 11 stundu, līdz 2 stundām
+Vairāk kā 2 stundas, līdz 21 stundām
+Vairāk kā 21 stundas, līdz 3 stundām
+Vairāk kā 3 stundas	
+
+A7 
+{QUESTION}
+Cik bieži Jūs izmantojat Internetu vai e-pastu personiskām vajadzībām neatkarīgi no tā, vai darāt to mājās vai darbā?
+
+{ANSWERS}
+Nav pieejams ne mājās, ne darbā
+Nelieto
+Retāk kā reizi mēnesī
+Reizi mēnesī
+Dažas reizes mēnesī
+Reizi nedēļā
+Dažas reizes nedēļā
+Katru dienu
+
+A8 
+{QUESTION}
+Kopumā ņemot, vai Jūs uzskatāt, ka lielākai daļai cilvēku var uzticēties, vai piesardzības nekad nevar būt par daudz? Lūdzu, novērtējiet 10 punktu sistēmā, kur 0 nozīmē, ka piesardzības nekad nevar būt par daudz un 10 nozīmē, ka lielākajai daļai cilvēku var uzticēties.
+
+{ANSWERS}
+00 Piesardzības nekad nevar būt par daudz
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lielākajai daļai cilvēku var uzticēties
+
+A9 
+{QUESTION}
+Izmantojot šīs kartītes skalu, kā Jums šķiet, vai lielākā daļa cilvēku Jūs mēģinātu izmantot, krāpt, ja viņiem būtu šāda iespēja, vai arī viņi censtos būt godīgi? 
+
+{ANSWERS}
+00 Lielākā daļa cilvēku mēģinātu mani izmantot, krāp
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lielākā daļa cilvēku censtos būt godīgi
+
+A10 
+{QUESTION}
+Kā Jums šķiet, vai lielākoties cilvēki mēģina būt izpalīdzīgi vai arī viņi lielākoties rūpējas tikai par sevi? Lūdzu, lietojiet šo kartīti.
+
+{ANSWERS}
+00 Cilvēki pārsvarā rūpējas tikai par sevi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Cilvēki lielākoties mēģina būt izpalīdzīgi
+
+{INTRO}
+Tagad daži jautājumi par politiku un valdību.
+
+B1 
+{QUESTION}
+Kā Jūs teiktu, cik lielā mērā Jūs interesējaties par politiku – Jūs esat…
+
+{ANSWERS}
+ļoti ieinteresēts,
+diezgan ieinteresēts,
+ne pārāk ieinteresēts,
+vai nemaz neesat ieinteresēts?
+
+B2 
+{QUESTION}
+Cik bieži Jums politika šķiet tik sarežģīta, ka Jūs īsti nesaprotat, kas notiek? Lūdzu, lietojiet šo kartīti.
+
+{ANSWERS}
+Nekad
+Reti
+Reizēm
+Regulāri
+Bieži
+
+B3 
+{QUESTION}
+Cik grūti vai viegli Jums šķiet izveidot savu viedokli politiskos jautājumos? Lūdzu lietojiet šo kartīti.
+
+{ANSWERS}
+Ļoti grūti
+Grūti
+Ne grūti, ne viegli
+Viegli
+Ļoti viegli
+
+B4
+{QUESTION}
+Izmantojot šo kartīti, novērtējiet lūdzu skalā no 0 līdz 10, cik lielā mērā Jūs personīgi uzticaties katrai institūcijai, kuru es nosaukšu. 0 nozīmē, ka Jūs nemaz neuzticaties šai institūcijai un 10 nozīmē, ka Jūs tai pilnībā uzticaties. Sāksim… Saeimai?
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B5 
+{QUESTION}
+… tieslietu sistēmai? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B6 
+{QUESTION}
+… policijai? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B7 
+{QUESTION}
+… politiķiem? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B8 
+{QUESTION}
+… politiskajām partijām? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B9 
+{QUESTION}
+… Eiropas Parlamentam? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B10 
+{QUESTION}
+… Apvienoto Nāciju Organizācijai? 
+
+{ANSWERS}
+00 Nemaz neuzticos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Pilnībā uzticos
+
+B11 
+{INTRO}
+Mūsdienās cilvēki tādu vai citu iemeslu dēļ mēdz nepiedalīties vēlēšanās. 
+
+{QUESTION}
+Vai Jūs balsojāt pēdējās Saeimas vēlēšanās 2006. gada oktobrī?
+
+{ANSWERS}
+Jā
+Nē
+Nav balsstiesību
+
+B12 
+{QUESTION}
+Par kuru partiju Jūs balsojāt šajās Saeimas vēlēšanās?
+
+{ANSWERS}
+Tautas partija
+Zaļo un Zemnieku savienība
+Jaunais laiks
+"Saskaņas Centrs"
+Latvijas Pirmās partijas un partijas "Latvijas Ceļš" vēlēšanu apvienība
+Apvienība "Tēvzemei un Brīvībai"/LNNK
+Politisko organizāciju apvienība "Par cilvēka tiesībām vienotā Latvijā"
+Par citu partiju 
+
+{INTRO}
+Pastāv dažādi veidi kā uzlabot Latvijā notiekošo vai nepieļaut nopietnu problēmu rašanos. 
+
+B13
+{QUESTION}
+Vai pēdējo 12 mēnešu laikā Jūs esat darījis kaut ko no tā, ko nosaukšu? Vai Jūs esat …kontaktējies ar kādu politiķi, valdības vai pašvaldības amatpersonu?
+
+{ANSWERS}
+Jā 
+Nē 
+
+B14 
+{QUESTION}
+…darbojies politiskā partijā vai kādā politiskā rīcības grupā? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B15 
+{QUESTION}
+…darbojies kādā citā organizācijā vai apvienībā? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B16 
+{QUESTION}
+…nēsājis vai demonstrējis kampaņas piespraudi/uzlīmi? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B17 
+{QUESTION}
+…parakstījis petīciju? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B18 
+{QUESTION}
+…piedalījies sankcionētā publiskā demonstrācijā? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B19 
+{QUESTION}
+…boikotējis noteiktus produktus? 
+
+{ANSWERS}
+Jā 
+Nē 
+
+B20a 
+{QUESTION}
+Vai ir kāda politiskā partija, kura jums šķiet tuvāka par citām partijām? 
+
+{ANSWERS}
+Jā
+Nē
+
+B20b 
+{QUESTION}
+Kura tā ir? 
+
+{ANSWERS}
+Tautas partija
+Zaļo un Zemnieku savienība
+Jaunais laiks
+"Saskaņas Centrs"
+Latvijas Pirmās partijas un partijas "Latvijas Ceļš" vēlēšanu apvienība
+Apvienība "Tēvzemei un Brīvībai"/LNNK
+Politisko organizāciju apvienība "Par cilvēka tiesībām vienotā Latvijā"
+Cita partija  
+
+B20c 
+{QUESTION}
+Cik tuva Jums šķiet šī partija? Vai Jums šķiet, ka tā Jums ir … 
+
+{ANSWERS}
+ļoti tuva,
+diezgan tuva,
+nav tuva
+vai nepavisam nav tuva?
+
+B21 
+{QUESTION}
+Vai Jūs esat kādas politiskās partijas biedrs? 
+
+{ANSWERS}
+Jā
+Nē
+
+B22 
+{QUESTION}
+Kuras politiskās partijas biedrs Jūs esat?
+
+{ANSWERS}
+Tautas partija
+Zaļo un Zemnieku savienība
+Jaunais laiks
+"Saskaņas Centrs"
+Latvijas Pirmās partijas un partijas "Latvijas Ceļš" vēlēšanu apvienība
+Apvienība "Tēvzemei un Brīvībai"/LNNK
+Politisko organizāciju apvienība "Par cilvēka tiesībām vienotā Latvijā"
+Citas partijas  
+
+B23 
+{INTRO}
+Apspriežot politiskus jautājumus, cilvēki mēdz runāt par „kreisajiem” un „labējiem”. 
+
+{QUESTION}
+Kāda ir Jūsu pozīcija? Lūdzu, novērtējiet savus uzskatus pēc skalas, kur 0 nozīmē „kreisie” un 10 nozīmē „labējie”!
+
+{ANSWERS}
+00 Kreisie 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Labējie 
+
+B24 
+{QUESTION}
+Kopumā ņemot, cik apmierināts Jūs esat ar savu dzīvi? Lūdzu, atbildiet, izmantojot šo kartīti, kur 0 nozīmē “ļoti neapmierināts”, bet 10 nozīmē – “ļoti apmierināts”.
+
+{ANSWERS}
+00 Ļoti neapmierināts 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti apmierināts
+
+B25 
+{QUESTION}
+Kopumā ņemot, cik apmierināts Jūs esat ar pašreizējo ekonomisko situāciju Latvijā. Izmantojiet to pašu kartīti.
+
+{ANSWERS}
+00 Ļoti neapmierināts 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti apmierināts
+
+B26 
+{QUESTION}
+Runājot par Latvijas valdību, cik apmierināts Jūs esat ar valdības darbu?  Izmantojiet to pašu kartīti.
+
+{ANSWERS}
+00 Ļoti neapmierināts 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti apmierināts
+
+B27 
+{QUESTION}
+Un kopumā ņemot, cik apmierināts Jūs esat ar to, kā darbojas demokrātiskā sistēma Latvijā? Izmantojiet to paši kartīti.
+
+{ANSWERS}
+00 Ļoti neapmierināts 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti apmierināts
+
+B28 
+{QUESTION}
+Tagad, izmantojot šo kartīti, sakiet, lūdzu, ko Jūs kopumā domājat par pašreizējo situāciju izglītības jomā Latvijā?
+
+{ANSWERS}
+00 Tā ir ļoti slikta 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tā ir ļoti laba
+
+B29 
+{QUESTION}
+Joprojām izmantojot šo kartīti, sakiet, lūdzu, ko Jūs kopumā domājat par pašreizējo situāciju veselības aprūpes pakalpojumu jomā Latvijā?
+
+{ANSWERS}
+00 Tā ir ļoti slikta 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tā ir ļoti laba
+
+B30 
+{QUESTION}
+Izmantojot šo kartīti, sakiet, lūdzu, cik lielā mērā Jūs piekrītat vai nepiekrītat sekojošiem apgalvojumiem.  Valdībai būtu jāveic pasākumi, lai samazinātu ienākumu līmeņu atšķirības
+
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu
+
+B31 
+{QUESTION}
+Gejiem un lezbietēm būtu jāļauj dzīvot savu dzīvi kā viņi vēlas
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu
+
+B32 
+{QUESTION}
+Jāaizliedz politiskās partijas, kas vēlas sagraut demokrātiju
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu
+
+B33 
+{QUESTION}
+Mūsu vides problēmu risināšanā var paļauties uz moderno zinātni
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu
+
+B34 
+{QUESTION}
+Domājot par Eiropas Savienību, ir cilvēki, kuri uzskata, ka Eiropas iekšējās integrācijas procesiem būtu jāturpinās. Citi uzskata, ka tie jau ir aizgājuši pārāk tālu. Izmantojot šo kartīti, kurš skaitlis uz šīs skalas vislabāk raksturotu Jūsu nostāju?
+
+{ANSWERS}
+00 Integrācija ir aizgājusi jau pārāk tālu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Integrācijai būtu jāturpinās
+
+{INTRO}
+Un tagad – daži jautājumi par citu valstu iedzīvotāju pārcelšanos dzīvot uz Latviju.
+
+B35 
+{QUESTION}
+Tagad, izmantojot šo kartīti, novērtējiet, cik lielā mērā Latvijā būtu jāatļauj tās pašas rases un etniskās grupas cilvēkiem, kāda ir lielākā daļa Latvijas iedzīvotāju, pārcelties uz dzīvi šeit?
+
+{ANSWERS}
+Jāatļauj daudziem pārcelties uz dzīvi šeit
+Jāatļauj nedaudziem
+Jāatļauj tikai dažiem
+Nav jāatļauj nevienam
+
+B36 
+{QUESTION}
+Un kā būtu ar citas rases vai etniskās grupas (nekā lielākā daļa Latvijas iedzīvotāju) cilvēkiem? Izmantojiet to pašu kartīti.
+
+{ANSWERS}
+Izmantojiet to pašu kartīti.
+Jāatļauj daudziem pārcelties uz dzīvi šeit
+Jāatļauj nedaudziem
+Jāatļauj tikai dažiem
+Nav jāatļauj nevienam
+
+B37 
+{QUESTION}
+Un cilvēkiem no nabadzīgākām valstīm ārpus Eiropas? Izmantojiet to pašu kartīti.
+
+{ANSWERS}
+Jāatļauj daudziem pārcelties uz dzīvi šeit
+Jāatļauj nedaudziem
+Jāatļauj tikai dažiem
+Nav jāatļauj nevienam
+
+B38 
+{QUESTION}
+Kā Jūs teiktu, vai ir labi vai slikti Latvijas ekonomikai, ka citu valstu iedzīvotāji pārceļas uz dzīvi šeit? Lūdzu izmantojiet šo kartīti.
+
+{ANSWERS}
+00 Tas ir slikti ekonomikai
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tas ir labi ekonomikai
+
+B39 
+{QUESTION}
+Izmantojot šo kartīti, novērtējiet, vai, Jūsuprāt, cilvēki, kas pārceļas uz dzīvi šeit no citām valstīm grauj vai bagātina Latvijas kultūras dzīvi?
+
+{ANSWERS}
+00 Grauj kultūras dzīvi 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bagātina kultūras dzīvi
+
+B40 
+{QUESTION}
+Vai tas, ka uz šejieni pārceļas dzīvot cilvēki no citām valstīm, padara Latviju par sliktāku vai labāku vietu dzīvošanai? Lūdzu izmantojiet šo kartīti.
+
+{ANSWERS}
+00 Sliktāka vieta dzīvošanai
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Labāka vieta dzīvošanai
+
+{INTRO}
+Un tagad – daži jautājumi par Jums un Jūsu dzīvi.
+
+C1 
+{QUESTION}
+Kopumā ņemot, kā Jūs teiktu, cik laimīgs Jūs esat? Savā izvēlē, lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+00 Ļoti nelaimīgs 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti laimīgs
+
+C2 
+{QUESTION}
+Izmantojot šo kartīti, sakiet, lūdzu, cik bieži Jūs tiekaties ar draugiem, radiniekiem vai darba kolēģiem pēc savas vēlēšanās?
+
+{ANSWERS}
+Nekad
+Retāk kā reizi mēnesī
+Reizi mēnesī
+Vairākas reizes mēnesī
+Reizi nedēļā
+Vairākas reizes nedēļā
+Katru dienu
+
+C3 
+{QUESTION}
+Vai Jums ir kāds, ar kuru Jūs varat parunāt par intīmas un personiskas dabas jautājumiem?
+
+{ANSWERS}
+Jā
+Nē
+
+C4 
+{QUESTION}
+Salīdzinot ar saviem vienaudžiem, cik bieži Jūs iesaistāties sociālajās aktivitātēs, pasākumos (satiekaties ar citiem pēc savas vēlēšanas, ārpus darba)? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Daudz retāk kā vairākums
+Retāk kā vairākums
+Apmēram tikpat bieži kā vairākums
+Biežāk kā vairākums
+Daudz biežāk kā vairākums
+
+C5 
+{QUESTION}
+Vai Jūs vai kāds no Jūsu mājsaimniecības pēdējo 5 gadu laikā ir cietis no aplaupīšanas ar ielaušanos vai uzbrukuma?
+
+{ANSWERS}
+Jā
+Nē
+
+C6 
+{QUESTION}
+Cik droši Jūs jūtaties vai justos viens ejot tumsā pa savas dzīvesvietas apkārtni? Jūs jūtaties vai justos …
+
+{ANSWERS}
+...ļoti droši,
+droši,
+nedroši
+vai ļoti nedroši?
+
+C7
+{QUESTION}
+Cik bieži Jūs uztraucaties par to, ka Jūsu mājas var aplaupīt? Lūdzu, izvēlieties atbildi no šīs kartītes.
+
+{ANSWERS}
+Visu vai gandrīz visu laiku
+Dažkārt
+Tikai atsevišķos gadījumos
+Nekad
+
+C8
+{QUESTION}
+Vai šīm bažām par aplaupīšanu ir…
+
+{ANSWERS}
+ …nopietna ietekme uz jūsu dzīves kvalitāti,
+…neliela ietekme
+vai nav reālas ietekmes uz jūsu dzīves kvalitāti?
+
+C9
+{QUESTION}
+Vai Jūs uztraucaties un cik bieži par to, ka Jūs varētu kļūt par vardarbīga nozieguma upuri? Lūdzu, izvēlieties atbildi no šīs kartītes.
+
+{ANSWERS}
+Visu vai gandrīz visu laiku
+Diezgan bieži
+Reizēm
+Nekad
+
+C10
+{QUESTION}
+Vai šīm bažām kļūt par nozieguma upuri ir… 
+
+{ANSWERS}
+…nopietna ietekme uz jūsu dzīves kvalitāti,
+…neliela ietekme
+vai nav reālas ietekmes uz jūsu dzīves kvalitāti?
+
+{INTRO}
+Tagad es gribētu jums uzdot dažus jautājumus par terorismu.
+
+C11
+{QUESTION}
+Kā Jums šķiet, vai teroristu uzbrukums kādā Eiropas valstī tuvāko 12 mēnešu laikā ir…
+
+{ANSWERS}
+...ļoti iespējams,
+iespējams,
+ne īpaši iespējams
+vai nemaz nav iespējams?
+
+C12
+{QUESTION}
+Kā Jums šķiet, vai teroristu uzbrukums Latvijā tuvāko 12 mēnešu laikā ir…
+
+{ANSWERS}
+...ļoti iespējams,
+iespējams,
+ne īpaši iespējams
+vai nemaz nav iespējams?
+
+C13
+{QUESTION}
+Izmantojot šo kartīti, lūdzu, pasakiet, cik lielā mērā jūs piekrītat vai nepiekrītat šiem apgalvojumiem. Ja Latvijā kāds tiek turēts aizdomās par terora akta plānošanu, policijai jābūt tiesībām viņu turēt apcietinājumā līdz tiek noskaidrots, ka viņš nav iesaistīts.
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu 
+
+C14
+{QUESTION}
+Cietumnieka spīdzināšana Latvijas cietumos nav attaisnojama, pat ja tas varētu sniegt informāciju, kas var novērst teroristu uzbrukumu.
+
+{ANSWERS}
+Pilnībā piekrītu
+Piekrītu 
+Ne piekrītu, ne nepiekrītu
+Nepiekrītu 
+Pilnībā nepiekrītu 
+
+{INTRO}
+Nākamie jautājumi būs par Jums.
+
+C15 
+{QUESTION}
+Kāda kopumā ir Jūsu veselība? Jūs teiktu, ka tā ir 
+
+{ANSWERS}
+...ļoti laba,
+laba,
+vidēja,
+slikta
+vai ļoti slikta?
+
+C16 
+{QUESTION}
+Vai Jūsu ikdienas gaitas jebkādā veidā traucē ilgstoša slimība, nespēja, vārgums vai garīgās veselības traucējumi? JA JĀ, cik lielā mērā tas Jums traucē?
+
+{ANSWERS}
+Jā, ļoti traucē
+Jā, zināmā mērā traucē
+Netraucē
+
+C17 
+{QUESTION}
+Vai Jūs uzskatāt, ka esat piederīgs kādai reliģijai vai konfesijai?
+
+{ANSWERS}
+Jā
+Nē
+
+C18 
+{QUESTION}
+Kurai reliģijai vai konfesijai Jūs sevi pieskaitāt? 
+
+{ANSWERS}
+Kristietis – bez konfesijas
+Katolis
+Luterānis
+Citas konfesijas protestants 
+Baptists
+Krievu vai grieķu pareizticīgais
+Citai pareizticīgo konfesijai 
+Citai kristiešu konfesijai 
+Jūdaists 
+Musulmanis
+Citai austrumu reliģijai 
+Citai reliģijai 
+
+C19 
+{QUESTION}
+Vai Jūs jebkad esat sevi uzskatījis par piederīgu kādai reliģijai vai konfesijai?
+
+{ANSWERS}
+Jā
+Nē
+
+C20 
+{QUESTION}
+Kurai reliģijai vai konfesijai?
+
+{ANSWERS}
+Kristietis – bez konfesijas
+Katolis
+Luterānis
+Citas konfesijas protestants 
+Baptists
+Krievu vai grieķu pareizticīgais
+Citai pareizticīgo konfesijai 
+Citai kristiešu konfesijai 
+Jūdaists 
+Musulmanis
+Citai austrumu reliģijai 
+Citai reliģijai 
+
+C21 
+{QUESTION}
+Neatkarīgi no tā, vai Jūs piederat kādai reliģijai vai konfesijai, cik reliģiozs Jūs esat? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+00 Nemaz neesmu reliģiozs 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ļoti reliģiozs
+
+C22 
+{QUESTION}
+Neskaitot īpašus notikumus, tādus kā kāzas un bēres, cik bieži Jūs apmeklējat reliģiskus dievkalpojumus? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Katru dienu
+Biežāk kā reizi nedēļā
+Reizi nedēļā
+Vismaz reizi mēnesī
+Tikai īpašās svētāmās dienās
+Retāk
+Nekad
+
+C23 
+{QUESTION}
+Neskaitot reliģiskus dievkalpojumus, cik bieži, ja vispār, Jūs skaitāt lūgšanas? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Katru dienu
+Biežāk kā reizi nedēļā
+Reizi nedēļā
+Vismaz reizi mēnesī
+Tikai īpašās svētāmās dienās
+Retāk
+Nekad
+
+C24 
+{QUESTION}
+Vai Jūs sevi uzskatāt par tādas grupas pārstāvi, kurus šajā valstī diskriminē?
+
+{ANSWERS}
+Jā
+Nē
+
+C25 
+{QUESTION}
+Uz kāda pamata šo grupu diskriminē?
+
+{ANSWERS}
+Ādas krāsa vai rase
+Nacionalitāte
+Reliģiskā piederība
+Valoda
+Etniskā piederība
+Vecums
+Dzimums
+Seksualitāte
+Invaliditāte
+Cits 
+
+C26 
+{QUESTION}
+Vai Jūs esat Latvijas pilsonis?
+
+{ANSWERS}
+Jā
+Nē
+
+C27 
+{QUESTION}
+Kādas valsts pilsonība Jums ir? 
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Vai Jūs esat dzimis Latvijā? 
+
+{ANSWERS}
+Jā
+Nē
+
+C29 
+{QUESTION}
+Kurā valstī Jūs esat dzimis? 
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Kad Jūs pirmo reizi pārcēlāties dzīvot uz Latviju? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Pēdējā gada laikā
+Pirms 1-5 gadiem
+Pirms 6-10 gadiem
+Pirms 11-20 gadiem
+Vairāk kā pirms 20 gadiem
+
+C31 
+{QUESTION}
+Kādā valodā vai valodās Jūs pārsvarā runājat mājās?
+
+{ANSWERS}
+IERAKSTIET NE VAIRĀK KĀ 2 VALODAS
+
+C32 
+{QUESTION}
+Vai Jūs piederat kādai etniskās minoritātes grupai Latvijā? 
+
+{ANSWERS}
+Jā
+Nē
+
+C33 
+{QUESTION}
+Vai Jūsu tēvs ir dzimis Latvijā? 
+
+{ANSWERS}
+Jā
+Nē
+
+C34 
+{QUESTION}
+Kurā valstī ir dzimis Jūsu tēvs? 
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Vai Jūsu māte ir dzimusi Latvijā?
+
+{ANSWERS}
+Jā
+Nē
+
+C36 
+{QUESTION}
+Kurā valstī ir dzimusi Jūsu māte? 
+
+{ANSWERS}
+
+
+{INTRO}
+Tagad es Jums gribētu uzdot dažus konkrētākus jautājumus par Jums un par pārējiem jūsu mājsaimniecības
+locekļiem.
+
+F1 
+{QUESTION}
+Neskaitot Jūs, cik cilvēku (tajā skaitā bērnu) regulāri dzīvo Jūsu mājsaimniecībā?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Kurā gadā viņš vai viņa ir dzimis?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Skatoties uz šo kartīti, sakiet, kas Jums ir šis cilvēks/ kāda ir Jūsu radniecība ar šo cilvēku?
+
+{ANSWERS}
+Vīrs/sieva/partneris/-e 
+Dēls/meita (t.sk., padēls/pameita, audžu, adoptētie, partnera bērns) 
+Vecāki, laulātā vecāki, partnera vecāki, audžu vecāki 
+Brālis/Māsa (t.sk., adoptētie, pusbrālis/pusmāsa, audžu) 
+Cits radinieks 
+Cits ne-radinieks 
+
+F5 
+{QUESTION}
+Kas no šajā kartītē minētā vislabāk raksturo Jūsu dzīvesvietu?
+
+{ANSWERS}
+Liela pilsēta
+Lielas pilsētas piepilsēta
+Pilsēta vai neliela pilsēta
+Lauku ciemats
+Lauku viensēta
+
+F6 
+{QUESTION}
+Kāds ir augstākais izglītības līmenis, kādu Jūs esat ieguvis? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Nav mācījies skolā
+Sākumskolas/ nepabeigta pamatizglītība 
+Pamatizglītība 
+Vispārējā vidējā 
+Profesionālā pamatizglītība (bez vidējās)
+Vidējā profesionālā (arodizglītība, vidējā speciālā)
+1. līmeņa profesionālā augstākā (koledžas)
+Bakalaura grāds (profesionālais vai akadēmiskais)
+Maģistra grāds (profesionālais vai akadēmiskais)
+Augstākā izglītība iegūta padomju laikā
+Doktora grāds
+
+F6a 
+{QUESTION}
+Kurā no šīm jomām vai tēmām ir Jūsu augstākā kvalifikācija atbilstoši iegūtajai izglītībai? 
+
+{ANSWERS}
+Vispārējā vai nav konkrētas jomas
+Māksla – tēlotāja vai dekoratīvā
+Humanitārās zinātnes – valodas, klasiskās valodas, vēsture, teoloģija u.tml.
+Tehniskās un inženierzinātnes, t.sk., arhitektūra un plānošana, rūpniecība, amatniecība, būvniecība u.tml.
+Lauksaimniecība un mežsaimniecība
+Pedagoģija vai skolotāju apmācība
+Dabas zinātnes, matemātika, IT u.tml.
+Medicīna, veselības pakalpojumi, aprūpe u.tml.
+Ekonomika, komerczinības, biznesa vadība, grāmatvedība u.tml.
+Sociālās un psiholoģijas zinības, sabiedriskās attiecības, mediji, kultūra, sporta un brīvā laika studijas u.tml.
+Jurisprudence
+Pakalpojumi – sabiedriskā ēdināšana, mājsaimniecība, frizieris u.tml.
+Sabiedriskā kārtība un drošība – policija, armija, ugunsdzēsības un glābšanas dienesti u.tml.
+Transports un telekomunikācijas
+
+F7
+{QUESTION}
+Cik gadus Jūs esat pavadījis mācoties, gan pilna laika, gan nepilna laika studijās? Lūdzu, atbildiet pārrēķinot to pilna laika ekvivalentā un iekļaujiet obligātās izglītības gadus. 
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Izmantojot šo kartīti, sakiet, lūdzu, kurš no šiem aprakstiem raksturo to, ko Jūs esat darījis pēdējo 7 dienu laikā?
+
+{ANSWERS}
+Algots darbs (t.sk. atvaļinājums, komandējums) (algots darbinieks, pašnodarbinātais, darbs savā vai ģimenes uzņēmumā) 
+Mācības, (ko neapmaksā darba devējs), pat ja ir brīvdienas
+Nestrādā, bet aktīvi meklē darbu
+Nestrādā, vēlas strādāt, bet darbu aktīvi nemeklē
+Ilgstoši slims, darba nespējīgs invalīds
+Pensionārs
+Mājsaimniece, rūpējas par bērniem vai citām personām
+Cits
+
+F8c 
+{QUESTION}
+Un kurš no šiem aprakstiem vislabāk raksturo Jūsu situāciju (pēdējo septiņu dienu laikā)? Lūdzu, atzīmējiet tikai vienu atbildi.
+
+{ANSWERS}
+Algots darbs (t.sk. atvaļinājums, komandējums) (algots darbinieks, pašnodarbinātais, darbs savā vai ģimenes uzņēmumā) 
+Mācības, (ko neapmaksā darba devējs), pat ja ir brīvdienas
+Nestrādā, bet aktīvi meklē darbu
+Nestrādā, vēlas strādāt, bet darbu aktīvi nemeklē
+Ilgstoši slims, darba nespējīgs invalīds
+Pensionārs
+Mājsaimniece, rūpējas par bērniem vai citām personām
+Cits
+
+F9 
+{QUESTION}
+Vai es varētu precizēt, vai Jūs pēdējo septiņu dienu laikā esat strādājis algotu darbu vismaz vienu stundu vai vairāk?
+
+{ANSWERS}
+Jā
+Nē
+
+F10 
+{QUESTION}
+Vai Jūs jebkad esat strādājis algotu darbu? 
+
+{ANSWERS}
+Jā
+Nē
+
+F11 
+{QUESTION}
+Kurā gadā pēdējo reizi Jūs strādājāt algotu darbu? 
+
+{ANSWERS}
+
+F12 
+Pamatdarbā Jūs esat…
+
+{ANSWERS}
+…algots darbinieks,
+pašnodarbinātais vai uzņēmējs
+vai strādājat ģimenes uzņēmumā?
+
+F13 
+{QUESTION}
+Cik darbinieku Jums ir? 
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Vai Jums ir darba līgums… 
+
+{ANSWERS}
+…beztermiņa,
+uz noteiktu termiņu
+vai nav/nebija darba līgums?
+
+F15 
+{QUESTION}
+Cik apmēram cilvēku strādā jūsu pamatdarba vietā, ieskaitot Jūs …
+
+{ANSWERS}
+…mazāk par 10,
+10 līdz 24,
+25 līdz 99,
+100 līdz 499,
+500 vai vairāk?
+
+F16 
+{QUESTION}
+Vai pamatdarba vietā Jūs esat atbildīgs par citu darbinieku darbu? 
+
+{ANSWERS}
+Jā
+Nē
+
+F17 
+{QUESTION}
+Cik padoto Jums ir? 
+
+{ANSWERS}
+
+
+{INTRO}
+Es nolasīšu dažas lietas par Jūsu darba dzīvi. 
+
+F18 
+{QUESTION}
+Izmantojot šo kartīti, lūdzu pasakiet, cik lielā mērā uzņēmuma vadība darbā Jums ļauj … izlemt kā tiek organizēts Jūsu ikdienas darbs?  
+
+{ANSWERS}
+00 Man nav/ nebija iespēja ietekmēt
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Man ir/ bija pilna kontrole pār to 
+
+F19
+{QUESTION}
+ …ietekmēt stratēģiskus lēmumus par uzņēmuma darbību?
+
+{ANSWERS}
+00 Man nav/ nebija iespēja ietekmēt
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Man ir/ bija pilna kontrole pār to 
+
+F20 
+{QUESTION}
+Cik stundas katru nedēļu jūs strādājat atbilstoši līgumam pamatdarba vietā, neskaitot apmaksātu vai neapmaksātu virsstundu darbu?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Neņemot vērā jūsu līgumā noteikto stundu skaitu, cik stundas nedēļā parasti Jūs strādājat (pamatdarba vietā), tajā skaitā apmaksātās un neapmaksātās virsstundas?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Kādā nozarē darbojas uzņēmums vai iestāde, kurā 
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Kāda tipa ir uzņēmums vai iestāde, kurā Jūs strādājat? Lūdzu, izmantojiet kartiņu.
+
+{ANSWERS}
+Valsts pārvalde vai pašvaldība
+Cita sabiedriskā sektora iestāde (piem. izglītības vai veselības)
+Valsts uzņēmums
+Privāta firma
+Pašnodarbinātais
+Cits
+
+F24 
+{QUESTION}
+Kāds ir Jūsu amata nosaukums pamatdarbā? 
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Kāda ir Jūsu profesija pamatdarba vietā? Par ko Jūs tur strādājat? 
+
+{ANSWERS}
+
+F25a 
+{QUESTION}
+Kāda izglītība vai kvalifikācija bija nepieciešama, lai varētu strādāt šo darbu? 
+
+{ANSWERS}
+
+F26 
+{QUESTION}
+Vai pēdējo 10 gadu laikā Jūs esat veicis kādu algotu darbu citā valstī 6 mēnešus vai ilgāk?
+
+{ANSWERS}
+Jā
+Nē
+
+F27 
+{QUESTION}
+Vai Jūs jebkad esat bijis bezdarbnieks un meklējis darbu ilgāk kā trīs mēnešus?
+
+{ANSWERS}
+Jā
+Nē
+
+F28 
+{QUESTION}
+Vai jebkad esat bijis bezdarbnieks un meklējis darbu 12 mēnešus vai ilgāk?
+
+{ANSWERS}
+Jā
+Nē
+
+F29 
+{QUESTION}
+Vai kāds no Jūsu minētajiem bezdarba periodiem ir bijis pēdējo 5 gadu laikā?
+
+{ANSWERS}
+Jā
+Nē
+
+F30 
+{QUESTION}
+Vai Jūs patlaban esat vai jebkad esat bijis arodbiedrības vai tai līdzīgas organizācijas biedrs? JA JĀ, vai tas ir šobrīd vai agrāk?
+
+{ANSWERS}
+Jā, šobrīd
+Jā, agrāk
+Nē
+
+F31 
+{QUESTION}
+Lūdzu, padomājiet par visu mājsaimniecības locekļu ienākumiem un ienākumiem, ko mājsaimniecība kopumā ir saņēmusi. Kāds ir galvenais Jūsu mājsaimniecības ienākumu avots? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Darba alga
+Pašnodarbinātā ienākumi (izņemot lauksaimniecību)
+Ienākumi no lauksaimnieciskās ražošanas 
+Pensijas
+Bezdarbnieka/atlaišanas pabalsti
+Citi sociālie pabalsti vai stipendijas
+Ienākumi no investīcijām, uzkrājumiem, apdrošināšanas vai īpašumiem
+Ienākumi no citiem avotiem
+Atsakās atbildē
+
+F32
+{QUESTION}
+Izmantojot šo kartīti, sakiet, kurš burts vislabāk raksturo jūsu mājsaimniecības vidējos mēneša kopējos tīros ienākumus (uz rokas), ja saskaita kopā ienākumus no visiem avotiem?  Ja Jūs nezināt precīzu skaitli, lūdzu, miniet aptuveno! 
+
+{ANSWERS}
+KĀDI IR JŪSU MĀJSAIMNIECĪBAS IENĀKUMI
+APMĒRAM MĒNESĪ?
+Mazāk kā 95 Ls L
+96 līdz 190 R
+191 līdz 280 C
+281 līdz 360 M
+361 līdz 420 F
+421 līdz 480 S
+481 līdz 580 K
+581 līdz 690 P
+691 līdz 1060 D
+1061 un vairāk H
+
+F33 
+{QUESTION}
+Kurš no šīs kartītes aprakstiem visprecīzāk raksturo Jūsu izjūtas attiecībā uz Jūsu mājsaimniecības ienākumiem šobrīd?
+
+{ANSWERS}
+Ar esošajiem ienākumiem var iztikt ļoti labi
+Ar esošajiem ienākumiem var iztikt
+Ar esošajiem ienākumiem ir grūti iztikt
+Ar esošajiem ienākumiem ir ļoti grūti iztikt
+
+F34 
+{QUESTION}
+Ja kāda iemesla dēļ Jums būtu nopietnas finansiālas grūtības un būtu jāaizņemas nauda, lai savilktu galus, cik grūti vai viegli būtu to izdarīt? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Ļoti grūti
+Diezgan grūti
+Ne grūti, ne viegli
+Diezgan viegli
+Ļoti viegli
+
+F36 
+{QUESTION}
+Kāds ir augstākais izglītības līmenis, kādu ir ieguvis Jūsu vīrs? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Nav mācījies skolā
+Sākumskolas/ nepabeigta pamatizglītība
+Pamatizglītība
+Vispārējā vidējā
+Profesionālā pamatizglītība (bez vidējās)
+Vidējā profesionālā (arodizglītība, vidējā speciālā)
+1. līmeņa profesionālā augstākā (koledžas)
+Bakalaura grāds (profesionālais vai akadēmiskais)
+Maģistra grāds (profesionālais vai akadēmiskais)
+Augstākā izglītība iegūta padomju laikā
+Doktora grāds
+
+F37a 
+{QUESTION}
+Izmantojot šo kartīti, sakiet, lūdzu, kurš no šiem aprakstiem visprecīzāk raksturo to, ko viņš ir darījis  pēdējo 7 dienu laikā? Nosauciet visus atbilstošos atbilžu variantus.
+
+{ANSWERS}
+Algots darbs (t.sk. atvaļinājums, komandējums) (algots darbinieks, pašnodarbinātais, darbs savā vai ģimenes uzņēmumā)
+Mācības, (ko neapmaksā darba devējs), pat ja ir brīvdienas
+Nestrādā, bet aktīvi meklē darbu
+Nestrādā, vēlas strādāt, bet darbu aktīvi nemeklē
+Ilgstoši slims, darba nespējīgs invalīds
+Pensionārs
+Obligātais sabiedriskais vai militārais dienests
+Mājsaimniece, rūpējas par bērniem vai citām personām
+Cits
+
+F37c 
+{QUESTION}
+Un kurš no šiem aprakstiem vislabāk raksturo viņa/ viņas situāciju (pēdējo septiņu dienu laikā)? Lūdzu, atzīmējiet tikai vienu atbildi.
+
+{ANSWERS}
+Algots darbs (t.sk. atvaļinājums, komandējums) (algots darbinieks, pašnodarbinātais, darbs savā vai ģimenes uzņēmumā)
+Mācības, (ko neapmaksā darba devējs), pat ja ir brīvdienas
+Nestrādā, bet aktīvi meklē darbu
+Nestrādā, vēlas strādāt, bet darbu aktīvi nemeklē
+Ilgstoši slims, darba nespējīgs invalīds
+Pensionārs
+Obligātais sabiedriskais vai militārais dienests
+Mājsaimniece, rūpējas par bērniem vai citām personām
+Cits
+
+F38 
+{QUESTION}
+Precizējiet, lūdzu, vai pēdējo 7 dienu laikā viņš ir strādājis algotu darbu (vienu stundu vai vairāk)?
+
+{ANSWERS}
+Jā
+Nē
+
+F39 
+{QUESTION}
+Kāds ir viņa amata nosaukums pamatdarba vietā? 
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Kāda ir viņa profesija pamatdarba vietā? Par ko viņš tur strādā? 
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Pamatdarbā viņš ir… 
+
+{ANSWERS}
+…algots darbinieks,
+pašnodarbinātais vai uzņēmējs
+vai strādā ģimenes uzņēmumā?
+
+F43 
+{QUESTION}
+Cik darbinieku viņam ir? 
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Vai pamatdarba vietā viņš ir atbildīgs par citu darbinieku darbu?
+
+{ANSWERS}
+Jā
+Nē
+
+F45 
+{QUESTION}
+Cik padoto viņam ir? 
+
+{ANSWERS}
+
+{INTRO}
+Es nolasīšu dažas lietas par Jūsu partnera darba dzīvi. 
+
+F46
+{QUESTION}
+Izmantojot šo kartīti, lūdzu, pasakiet, cik lielā mērā uzņēmuma vadība darbā viņam ļauj …izlemt kā tiek organizēts viņa ikdienas darbs?
+
+{ANSWERS}
+00 Viņam/ viņai nav iespēja ietekmēt
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Viņam/ viņai ir pilna kontrole pār to 
+
+F47 
+{QUESTION}
+…ietekmēt stratēģiskus lēmumus par uzņēmuma darbību? 
+
+{ANSWERS}
+00 Viņam/ viņai nav iespēja ietekmēt
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Viņam/ viņai ir pilna kontrole pār to 
+
+F48 
+{QUESTION}
+Cik stundas viņš vidēji strādā katru nedēļu pamatdarba vietā? Lūdzu ieskaitiet arī apmaksātās un neapmaksātās virsstundas.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Kāds ir augstākais izglītības līmenis, kādu ir ieguvis Jūsu tēvs? Lūdzu izmantojiet šo kartīti.
+
+{ANSWERS}
+Nav mācījies skolā
+Sākumskolas/ nepabeigta pamatizglītība
+Pamatizglītība
+Vispārējā vidējā
+Profesionālā pamatizglītība (bez vidējās)
+Vidējā profesionālā (arodizglītība, vidējā speciālā)
+1. līmeņa profesionālā augstākā (koledžas)
+Bakalaura grāds (profesionālais vai akadēmiskais)
+Maģistra grāds (profesionālais vai akadēmiskais)
+Augstākā izglītība iegūta padomju laikā
+Doktora grāds
+
+F50 
+{QUESTION}
+Kad Jums bija 14 gadu, vai Jūsu tēvs strādāja kā algots darbinieks, pašnodarbinātais vai viņš tad nestrādāja?
+
+{ANSWERS}
+Algots darbinieks
+Pašnodarbinātais vai uzņēmējs
+Nestrādāja
+Tēvs bija miris/ tēva nebija, kad respondentam bija 14 gadi
+
+F51 
+{QUESTION}
+Cik darbinieku viņam ir? 
+
+{ANSWERS}
+Neviens
+1 līdz 24
+25 vai vairāk
+
+F52 
+{QUESTION}
+Vai viņš bija atbildīgs par citu darbinieku darbu?
+
+{ANSWERS}
+Jā
+Nē
+
+F53 
+{QUESTION}
+Kāds bija viņa amata nosaukums pamatdarbā laikā, kad jums bija 14 gadi?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Kurš no šīs kartītes aprakstiem visprecīzāk raksturo viņa darbu, kad Jums bija 14 gadi?
+
+{ANSWERS}
+Profesionālās un tehniskās profesijas tādas kā: ārsts – skolotājs – inženieris – mākslinieks
+Augsta ranga administratīvās profesijas tādas kā: baņķieris – izpilddirektors lielā uzņēmumā – augsta ranga ierēdnis – arodbiedrības vadītājs
+Kancelejas profesijas tādas kā: sekretārs – ierēdnis, kantora darbinieks – biroja menedžeris – rēķinvedis
+Profesijas pārdošanā tādas kā: pārdošanas menedžeris – veikala īpašnieks – pārdevējs
+apdrošināšanas aģents
+Servisa (pakalpojumu) profesijas tādas kā: restorāna īpašnieks – policists – viesmīlis – aprūpētājs – frizieris – karavīrs
+Kvalificēts darbinieks tāds kā: meistars, priekšstrādnieks – automehāniķis – tipogrāfijas
+darbinieks – instrumentu meistars — elektriķis
+Puskvalificēts darbinieks tāds kā: mūrnieks – autobusa vadītājs – konservēšanas
+darbinieks – galdnieks – skārdnieks – maiznieks
+Nekvalificēts darbinieks tāds kā: strādnieks – nesējs – nekvalificēts fabrikas darbinieks
+Lauksaimniecības darbinieks tāds kā: fermeris – fermas strādnieks – traktora vadītājs –
+zvejnieks 
+
+F55 
+{QUESTION}
+Kāds ir augstākais izglītības līmenis, kādu ir ieguvusi jūsu māte? Lūdzu, izmantojiet šo kartīti.
+
+{ANSWERS}
+Nav mācījies skolā
+Sākumskolas/ nepabeigta pamatizglītība
+Pamatizglītība
+Vispārējā vidējā
+Profesionālā pamatizglītība (bez vidējās)
+Vidējā profesionālā (arodizglītība, vidējā speciālā)
+1. līmeņa profesionālā augstākā (koledžas)
+Bakalaura grāds (profesionālais vai akadēmiskais)
+Maģistra grāds (profesionālais vai akadēmiskais)
+Augstākā izglītība iegūta padomju laikā
+Doktora grāds
+
+F56 
+{QUESTION}
+Kad Jums bija 14 gadu, vai jūsu māte strādāja kā algota darbiniece, pašnodarbinātā vai viņa tad nestrādāja?
+
+{ANSWERS}
+Algota darbiniece
+Pašnodarbinātā vai uzņēmēja
+Nestrādāja
+Māte bija mirusi/nebija, kad respondentam bija 14 gadi
+
+F57 
+{QUESTION}
+Cik darbinieku viņai bija? 
+
+{ANSWERS}
+Nebija darbinieku
+no 1 līdz 24
+25 un vairāk
+
+F58 
+{QUESTION}
+Vai viņa bija atbildīga citu darbinieku darbu?
+
+{ANSWERS}
+Jā
+Nē
+
+F59 
+{QUESTION}
+Kāds bija viņas amata nosaukums pamatdarbā laikā, kad jums bija 14 gadi?? 
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Kurš no šīs kartītes aprakstiem visprecīzāk raksturo viņa darbu, kad Jums bija 14 gadi?
+
+{ANSWERS}
+Profesionālās un tehniskās profesijas tādas kā: ārsts – skolotājs – inženieris – mākslinieks
+Augsta ranga administratīvās profesijas tādas kā: baņķieris – izpilddirektors lielā uzņēmumā – augsta ranga ierēdnis – arodbiedrības vadītājs
+Kancelejas profesijas tādas kā: sekretārs – ierēdnis, kantora darbinieks – biroja
+menedžeris – rēķinvedis 
+Profesijas pārdošanā tādas kā: pārdošanas menedžeris – veikala īpašnieks – pārdevējs
+apdrošināšanas aģents
+Servisa (pakalpojumu) profesijas tādas kā: restorāna īpašnieks – policists – viesmīlis – aprūpētājs – frizieris – karavīrs
+Kvalificēts darbinieks tāds kā: meistars, priekšstrādnieks – automehāniķis – tipogrāfijas
+darbinieks – instrumentu meistars — elektriķis
+Puskvalificēts darbinieks tāds kā: mūrnieks – autobusa vadītājs – konservēšanas
+darbinieks – galdnieks – skārdnieks – maiznieks
+Nekvalificēts darbinieks tāds kā: strādnieks – nesējs – nekvalificēts fabrikas darbinieks
+Lauksaimniecības darbinieks tāds kā: fermeris – fermas strādnieks – traktora vadītājs –
+zvejnieks
+
+F61 
+{QUESTION}
+Vai pēdējo 12 mēnešu laikā Jūs esat piedalījies kādos kursos, apmeklējis lekcijas vai konferences, lai uzlabotu savas zināšanas vai darba prasmes?
+
+{ANSWERS}
+Jā
+Nē
+
+F62 
+{QUESTION}
+Vai es varētu Jums jautāt par jūsu pašreizējo ģimenes stāvokli? Kurš no kartītē minētajiem aprakstiem atbilst visprecīzāk?
+
+{ANSWERS}
+Precējies
+Precējies, dzīvo atsevišķi
+Šķīries
+Atraitnis
+Nekad nav bijis precējies/ precējusies
+Atsakās atbildēt
+
+F63 
+{QUESTION}
+Vai Jūs šobrīd dzīvojat kopā ar vīru? 
+
+{ANSWERS}
+Jā
+Nē
+
+F64 
+{QUESTION}
+Vai Jūs šobrīd dzīvojat kopā ar partneri? 
+
+{ANSWERS}
+Jā
+Nē
+
+F66 
+{QUESTION}
+Vai es varētu precizēt, vai Jūs jebkad esat dzīvojis kopā ar partneri, ar kuru nebijāt precējies?
+
+{ANSWERS}
+Jā
+Nē
+
+F68 
+{QUESTION}
+Vai es varu pārjautāt, vai jebkad esat bijis šķīries? 
+
+{ANSWERS}
+Jā
+Nē
+
+F70 
+{QUESTION}
+Vai Jums jebkad ir bijuši bērni (pabērni, audžu bērni, adoptētie bērni vai partnera bērni), kuri agrāk dzīvojuši Jūsu mājsaimniecībā?
+
+{ANSWERS}
+Jā
+Nē
+
+F71
+{QUESTION}
+Vai jūsu mājoklī vai jūsu mājokļa daļā ir fiksētā telefona līnija?
+
+{ANSWERS}
+Jā
+Nē
+
+F72
+{QUESTION}
+Vai jums ir savs mobilais telefons? 
+
+{ANSWERS}
+Jā
+Nē
+
+F73
+{QUESTION}
+Vai jūs jebkad mājās lietojat internetu, lai veiktu telefona zvanus? 
+
+{ANSWERS}
+Jā
+Nē
+Mājās nav Interneta
+
+

@@ -1,0 +1,1840 @@
+﻿A1
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ver televisão? Utilize este cartão para responder
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A2
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ver televisão, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A3
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ouvir rádio?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A4
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ouvir rádio, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A5
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ler jornais?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A6
+{QUESTION}
+E quanto desse tempo é passado a ler sobre política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora
+Entre uma hora e hora e meia
+Entre hora e meia e duas horas
+Entre duas horas e duas horas e meia
+Entre duas horas e meia e três horas
+Mais de três horas
+
+A7
+{QUESTION}
+Com que frequência utiliza a internet, ou o e-mail para fins pessoais, em casa ou no trabalho?
+
+{ANSWERS}
+Não tem acesso à internet, nem em casa nem no trabalho
+Nunca
+Menos de uma vez por mês
+Uma vez por mês
+Várias vezes por mês
+Uma vez por semana
+Várias vezes por semana
+Todos os dias
+
+A8
+{QUESTION}
+De uma forma geral, acha que todo o cuidado é pouco quando se lida com as pessoas ou acha que se pode confiar na maioria das pessoas? Responda, por favor, utilizando esta escala em que 0 significa que todo o cuidado é pouco e 10 significa que a maioria das pessoas é de confiança.
+
+{ANSWERS}
+00 Todo o cuidado é pouco
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A maioria das pessoas é de confiança
+
+A9
+{QUESTION}
+Acha que a maior parte das pessoas tentam aproveitar-se de si sempre que podem, ou pensa que a maior parte das pessoas são honestas?
+
+{ANSWERS}
+00 Tentam aproveitar-se de mim
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 São honestas
+
+A10
+{QUESTION}
+Acha que, na maior parte das vezes, as pessoas estão preocupadas com elas próprias ou acha que tentam ajudar os outros?
+
+{ANSWERS}
+00 As pessoas estão preocupadas com elas próprias
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 As pessoas tentam ajudar os outros
+
+{INTRO}
+VOU AGORA FAZER-LHE ALGUMAS PERGUNTAS SOBRE POLÍTICA
+
+B1
+{QUESTION}
+De um modo geral, qual o seu interesse pela política? Diria que tem... 
+
+{ANSWERS}
+Muito interesse,
+Algum interesse,
+Pouco interesse,
+ou, Nenhum interesse?
+
+B2
+{QUESTION}
+Com que frequência a política lhe parece tão complicada que não percebe verdadeiramente, o que se está a passar?
+
+{ANSWERS}
+Nunca,
+Raramente,
+Algumas vezes,
+Bastantes vezes,
+ou, Frequentemente?
+
+B3
+{QUESTION}
+De uma forma geral, qual o grau de dificuldade que sente em tomar uma posição acerca de questões políticas?
+
+{ANSWERS}
+É muito difícil,
+É difícil,
+Nem é difícil nem é fácil,
+É fácil,
+É muito fácil
+
+{QUESTION}
+B4
+Diga-me, por favor, qual a confiança pessoal que tem em cada uma das instituições que lhe vou dizer. Situe a sua posição nesta escala em que 0 significa que não tem nenhuma confiança na instituição que referi e uma pontuação de 10 quer dizer que tem toda a confiança nessa instituição. … na Assembleia da República? 
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B5
+… no sistema jurídico?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B6
+{QUESTION}
+…na polícia?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B7
+{QUESTION}
+… nos políticos?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B8
+{QUESTION}
+… nos partidos políticos?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B9
+{QUESTION}
+… no Parlamento Europeu?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B10
+{QUESTION}
+… nas Nações Unidas?
+
+{ANSWERS}
+00 Nenhuma confiança
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Toda a confiança
+
+B11
+{INTRO}
+Por uma razão ou por outra, actualmente muitas pessoas não votam. 
+
+{QUESTION}
+O sr votou nas últimas eleições para a Assembleia da República (20 de Fevereiro de 2005)?
+
+{ANSWERS}
+Sim
+Não
+Não era eleitor/Não estava recenseado
+
+B12
+{QUESTION}
+Nessas eleições em que partido/ coligação votou?
+
+{ANSWERS}
+(Bloco de Esquerda) B. E.
+(Centro Democrático Social /Partido Popular) CDS/PP
+(CDU – Coligação Democrática Unitária) PCP PEV
+Partido Comunista dos Trabalhadores Portugueses- Movimento Reorganizativo do Proletariado Português) PCTP-MRPP.
+(Partido Democrático do Atlântico) PDA
+(Partido Humanista) P.H
+(Nova Democracia) PND
+(Partido Nacional Renovador) PNR
+(Partido Operário de Unidade Socialista) POUS
+(Partido Social Democrata) PPD/PSD
+(Partido Socialista) PS
+Votou em branco / nulo
+Outro 
+
+{INTRO}
+Há várias acções que se podem desenvolver para melhorar as coisas em Portugal ou para evitar que corram mal. 
+
+B13
+{QUESTION}
+Durante os últimos 12 meses, fez alguma das seguintes coisas? Contactou um político, um representante do governo central ou um representante do poder local
+
+{ANSWERS}
+Sim
+Não
+
+B14
+{QUESTION}
+Trabalhou para um partido político ou movimento cívico.
+
+{ANSWERS}
+Sim
+Não
+
+B15
+{QUESTION}
+Trabalhou numa organização ou associação de outro tipo
+
+{ANSWERS}
+Sim
+Não
+
+B16
+{QUESTION}
+Usou um emblema auto-colante de campanha/ movimento
+
+{ANSWERS}
+Sim
+Não
+
+B17
+{QUESTION}
+Assinou uma petição
+
+{ANSWERS}
+Sim
+Não
+
+B18
+{QUESTION}
+Participou numa manifestação
+
+{ANSWERS}
+Sim
+Não
+
+B19
+{QUESTION}
+Boicotou determinados produtos
+
+{ANSWERS}
+Sim
+Não
+
+B20a
+{QUESTION}
+Há algum partido pelo qual sinta mais simpatia do que pelos outros?
+
+{ANSWERS}
+Sim
+Não
+
+B20b
+{QUESTION}
+Qual?
+
+{ANSWERS}
+(Bloco de Esquerda) B. E.
+(Centro Democrático Social /Partido Popular) CDS/PP
+(CDU – Coligação Democrática Unitária) PCP PEV
+(Partido Comunista dos Trabalhadores Portugueses- Movimento Reorganizativo do Proletariado Português) PCTP-MRPP.
+(Partido Democrático do Atlântico) PDA
+(Partido Humanista) P.H
+(Nova Democracia) PND
+(Partido Nacional Renovador) PNR
+(Partido Operário de Unidade Socialista) POUS
+(Partido Social Democrata) PPD/PSD
+(Partido Socialista) PS11
+Outro
+
+B20c
+{QUESTION}
+Qual a proximidade que sente relativamente a esse partido. Diria que se sente?
+
+{ANSWERS}
+Muito próximo,
+Bastante próximo,
+Pouco próximo,
+Nada próximo
+
+B21
+{QUESTION}
+Está inscrito em algum partido político?
+
+{ANSWERS}
+Sim
+Não
+
+B22
+{QUESTION}
+Qual?
+
+{ANSWERS}
+(Bloco de Esquerda) B. E.
+(Centro Democrático Social /Partido Popular) CDS/PP
+(CDU – Coligação Democrática Unitária) PCP PEV
+(Partido Comunista dos Trabalhadores Portugueses- Movimento Reorganizativo do Proletariado Português) PCTP-MRPP.
+(Partido Democrático do Atlântico) PDA
+(Partido Humanista) P.H
+(Nova Democracia) PND
+(Partido Nacional Renovador) PNR
+(Partido Operário de Unidade Socialista) POUS
+(Partido Social Democrata) PPD/PSD
+(Partido Socialista) PS11Outro 
+
+B23
+{INTRO}
+Em política é costume falar-se de esquerda e direita. 
+
+{QUESTION}
+Como é que se posicionaria nesta escala, em que 0 representa a posição mais à esquerda e 10 a posição mais à direita?
+
+{ANSWERS}
+00 Esquerda
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Direita
+
+B24
+{QUESTION}
+Tudo somado, qual é o seu grau de satisfação com a vida em geral? Responda, por favor, utilizando esta escala em que 0 significa extremamente insatisfeito e 10 extremamente satisfeito.
+
+{ANSWERS}
+00 Extremamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente satisfeito
+
+B25
+{QUESTION}
+De um modo geral, qual o seu grau de satisfação com o estado actual da economia portuguesa?
+
+{ANSWERS}
+00 Extremamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente satisfeito
+
+B26
+{QUESTION}
+Pense agora no Governo português. Qual é o seu grau de satisfação com a forma como o Governo está a actuar?
+
+{ANSWERS}
+00 Extremamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente satisfeito
+
+B27
+{QUESTION}
+E, no geral, qual o seu grau de satisfação com o funcionamento da democracia em Portugal?
+
+{ANSWERS}
+00 Extremamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente satisfeito
+
+B28
+{QUESTION}
+Utilizando a seguinte escala, diga, por favor, como avalia, no geral, o estado da Educação em Portugal, hoje em dia?
+
+{ANSWERS}
+00 Extremamente mau
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente bom
+
+B29
+{QUESTION}
+E relativamente aos serviços de saúde em geral? Qual o seu grau de satisfação com os Serviços de Saúde em Portugal hoje em dia?
+
+{ANSWERS}
+00 Extremamente mau
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente bom
+
+B30
+{QUESTION}
+Utilizando este cartão diga, por favor, em que medida concorda ou discorda com cada uma das seguintes afirmações. O Governo devia tomar medidas para reduzir as diferenças de rendimentos
+
+{ANSWERS}
+Concorda totalmente
+Concorda
+Nem concorda nem discorda
+Discorda
+Discorda totalmente
+
+B31
+{QUESTION}
+Homossexuais e lésbicas deveriam ser livres de viver a sua vida como muito bem entenderem
+
+{ANSWERS}
+Concorda totalmente
+Concorda
+Nem concorda nem discorda
+Discorda
+Discorda totalmente
+
+B32
+{QUESTION}
+Os partidos políticos que desejam o derrube da democracia devem ser banidos
+
+{ANSWERS}
+Concorda totalmente
+Concorda
+Nem concorda nem discorda
+Discorda
+Discorda totalmente
+
+B33
+{QUESTION}
+Pode-se confiar na ciência moderna para resolver os problemas ambientais
+
+{ANSWERS}
+Concorda totalmente
+Concorda
+Nem concorda nem discorda
+Discorda
+Discorda totalmente
+
+B34
+{QUESTION}
+A propósito da União Europeia, algumas pessoas acham que a unificação da Europa devia ir mais longe. Outras pessoas acham que já foi longe de mais. Qual a sua posição relativamente a este assunto, numa escala de 0 a 10 em que 0 significa que já foi longe de mais e 10 que devia ir mais longe?
+
+{ANSWERS}
+00 A unificação já foi longe de mais
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A unificação devia ir mais longe
+
+{INTRO}
+VOU AGORA FAZER-LHE ALGUMAS PERGUNTAS SOBRE MIGRAÇÕES
+
+B35
+{QUESTION}
+Em que medida acha que Portugal deve deixar que pessoas da mesma raça ou grupo étnico do que a maioria portuguesa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+B36
+{QUESTION}
+E em que medida acha que Portugal deve deixar que pessoas de raça ou grupo étnico diferente do que a maioria portuguesa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+B37
+{QUESTION}
+E em que medida acha que Portugal deve deixar que pessoas dos países mais pobres fora da Europa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+B38
+{QUESTION}
+Continuando a pensar nas pessoas que vêm viver e trabalhar para Portugal, acha que isso é mau ou bom para a economia portuguesa?
+
+{ANSWERS}
+00 Mau para a economia
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Bom para a economia
+
+B39
+{QUESTION}
+E acha que essas pessoas empobrecem ou enriquecem os costumes, as tradições e a vida cultural em Portugal?
+
+{ANSWERS}
+00 Empobrecem a vida cultural
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Enriquecem a vida cultural
+
+B40
+{QUESTION}
+Portugal tornou-se um lugar pior ou melhor para se viver com a vinda de pessoas de outros países para cá?
+
+{ANSWERS}
+00 Tornou-se um lugar pior para viver
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Tornou-se um lugar melhor para viver
+
+{INTRO}
+VOU AGORA FAZER-LHE ALGUMAS PERGUNTAS SOBRE SI E A SUA VIDA
+
+C1
+{QUESTION}
+Considerando todos os aspectos da sua vida, qual o grau de felicidade que sente? Responda, por favor, utilizando uma escala de 0 a 10.
+
+{ANSWERS}
+00 Extremamente infeliz
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente feliz
+
+C2
+{QUESTION}
+Com que frequência convive com amigos, familiares ou colegas de trabalho?
+
+{ANSWERS}
+Nunca
+Menos de uma vez por mês
+Uma vez por mês
+Várias vezes por mês
+Uma vez por semana
+Várias vezes por semana
+Todos os dias
+
+C3
+{QUESTION}
+Tem alguém com quem possa conversar sobre assuntos íntimos e pessoais?
+
+{ANSWERS}
+Sim
+Não
+
+C4
+{QUESTION}
+Comparando com outras pessoas da sua idade, com que regularidade é que participa em actividades sociais?
+
+{ANSWERS}
+Muito menos que a maioria
+Menos que a maioria
+O mesmo que a maioria
+Mais que a maioria
+Muito mais que a maioria
+
+C5
+{QUESTION}
+Nos últimos 5 anos o sr ou alguma das pessoas que vive nesta casa foi vítima de furto ou roubo?
+
+{ANSWERS}
+Sim
+Não
+
+C6
+{QUESTION}
+Qual o nível de segurança que sente quando anda sozinho no seu bairro depois de escurecer? Sente-se − ou sentir-se-ia. 
+
+{ANSWERS}
+Muito seguro(a),
+seguro(a),
+inseguro(a),
+ou, muito inseguro(a)?
+
+C7
+{QUESTION}
+Com que frequência se preocupa com a possibilidade de a sua casa ser assaltada?
+
+{ANSWERS}
+Sempre ou quase sempre 
+Algumas vezes 
+Só às vezes 
+Nunca 
+
+C8
+{QUESTION}
+Essa preocupação com a possibilidade de a sua casa ser assaltada tem
+
+{ANSWERS}
+…um efeito sério na sua qualidade de vida 
+…algum efeito 
+ou nenhum efeito na sua qualidade de vida? 
+
+C9
+{QUESTION}
+Com que frequência se preocupa com a possibilidade de ser vítima de crime violento
+
+{ANSWERS}
+Sempre ou quase sempre 
+Algumas vezes 
+Só às vezes 
+Nunca 
+
+C10
+{QUESTION}
+Essa preocupação com a possibilidade de ser vítima de crime violento tem
+
+{ANSWERS}
+…um efeito sério na sua qualidade de vida 
+…algum efeito 
+ou nenhum efeito na sua qualidade de vida? 
+
+{INTRO}
+GOSTARIA AGORA DE LHE COLOCAR ALGUMAS QUESTÕES SOBRE O TERRORISMO
+
+C11
+{QUESTION}
+Acha que a ocorrência de um ataque terrorista, algures na Europa, nos próximos 12 meses é…
+
+{ANSWERS}
+...muito provável 
+provável 
+pouco provável, 
+ou, nada provável? 
+
+C12
+{QUESTION}
+Acha que a ocorrência de um ataque terrorista em Portugal nos próximos 12 meses é…
+
+{ANSWERS}
+...muito provável 
+provável 
+pouco provável, 
+ou, nada provável? 
+
+C13 
+{QUESTION}
+Utilizando este cartão, diga por favor, em que medida concorda ou discorda de cada uma das seguintes frases. Se um homem for suspeito de planear um ataque terrorista em Portugal, a polícia devia ter poderes para o manter na prisão até se certificar de que ele não tinha nenhum envolvimento.
+
+{ANSWERS}
+Concorda totalmente 
+Concorda
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+C14 
+{QUESTION}
+A tortura de prisioneiros numa prisão portuguesa nunca é justificável, ainda que forneça informações que possam evitar um ataque terrorista.
+
+{ANSWERS}
+Concorda totalmente 
+Concorda
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+{INTRO}
+Vou agora colocar-lhe algumas questões acerca de si.
+
+C15
+{QUESTION}
+Como avalia a sua saúde em geral?
+
+{ANSWERS}
+Muito boa
+Boa
+Razoável
+Má
+ou, muito má
+
+C16
+{QUESTION}
+Está de alguma forma limitado nas suas actividades diárias devido a uma doença prolongada, uma deficiência ou um problema de saúde mental/ psicológico? Se sim, muito ou de alguma forma?
+
+{ANSWERS}
+Sim, muito
+Sim, de alguma forma
+Não
+
+C17
+{QUESTION}
+Actualmente sente que pertence a uma religião?
+
+{ANSWERS}
+Sim
+Não
+
+C18
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Católica
+Judaica
+Muçulmana
+Protestante
+Hindu
+Outra Cristã 
+Outra não-Cristã 
+
+C19
+{QUESTION}
+E já alguma vez sentiu pertencer a uma religião?
+
+{ANSWERS}
+Sim
+Não
+
+C20
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Católica
+Judaica
+Muçulmana
+Protestante
+Hindu
+Outra Cristã 
+Outra não-Cristã 
+
+C21
+{QUESTION}
+Independentemente de pertencer a uma religião em particular, numa escala de 0 a 10, diria que é uma pessoa...:
+
+{ANSWERS}
+00 Nada religiosa
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Muito religiosa
+
+C22
+{QUESTION}
+Sem contar com ocasiões especiais tais como casamentos e funerais, com que frequência é que participa, actualmente, em serviços religiosos?
+
+{ANSWERS}
+Todos os dias
+Mais de uma vez por semana
+Uma vez por semana
+Pelo menos uma vez por mês
+Apenas em dias santos
+Menos vezes ainda
+Nunca
+
+C23
+{QUESTION}
+Sem contar com os serviços religiosos com que frequência é que reza?
+
+{ANSWERS}
+Todos os dias
+Mais de uma vez por semana
+Uma vez por semana
+Pelo menos uma vez por mês
+Apenas em dias santos
+Menos vezes ainda
+Nunca
+
+C24
+{QUESTION}
+Diria que pertence a um grupo que é discriminado em Portugal?
+
+{ANSWERS}
+Sim
+Não
+
+C25
+{QUESTION}
+Com base em que aspectos é que o grupo a que pertence é discriminado? E com base em mais algum aspecto? 
+
+{ANSWERS}
+Cor ou raça
+Nacionalidade
+Religião
+Língua
+Grupo étnico
+Idade
+Sexo
+Sexualidade
+Deficiência
+Outra 
+
+C26
+{QUESTION}
+É cidadão português?
+
+{ANSWERS}
+Sim
+Não
+
+C27
+{QUESTION}
+Qual é a sua nacionalidade?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Nasceu em Portugal?
+
+{ANSWERS}
+Sim
+Não
+
+C29
+{QUESTION}
+Em que país nasceu?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+Há quanto tempo veio viver para Portugal?
+
+{ANSWERS}
+No último ano
+Há 1-5 anos
+Há 6-10 anos
+Há 11-20 anos
+Há mais de 20 anos
+ 
+C31
+{QUESTION}
+Em que língua ou línguas fala habitualmente em casa?
+
+{ANSWERS}
+Indicar o máximo de duas línguas
+
+C32
+{QUESTION}
+Pertence a uma minoria étnica?
+
+{ANSWERS}
+Sim
+Não
+
+C33
+{QUESTION}
+O seu pai nasceu em Portugal?
+
+{ANSWERS}
+Sim
+Não
+
+C34
+{QUESTION}
+Qual o país de origem do seu pai ?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+A sua mãe nasceu em Portugal?
+
+{ANSWERS}
+Sim
+Não
+
+C36
+{QUESTION}
+Qual o país de origem da sua mãe?
+
+{ANSWERS}
+
+{INTRO}
+GOSTARIA DE LHE FAZER ALGUMAS PERGUNTAS SOBRE SI E AS OUTRAS PESSOAS QUE VIVEM NESTA CASA
+
+F1
+{QUESTION}
+Contando consigo, quantas pessoas – incluindo crianças – vivem habitualmente nesta casa?
+
+{ANSWERS}
+
+F3
+{QUESTION}
+E em que ano é que o sr  nasceu?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+De acordo com este cartão, qual a relação familiar que essa pessoa tem consigo que é que essa pessoa lhe é?
+
+{ANSWERS}
+Marido/mulher/ companheiro(a)
+Filho/filha (incluindo enteados/ adoptados, crianças acolhidasfilhos do companheiro(a))
+Pai-MãeSogro-Sogra/Madrasta-Padrasto/Pais do companheiro(a)
+Irmão/irmã, incluindo meios-irmãos, adoptados, irmãos ou irmãs de acolhimento
+Outros familiares
+Outros não-familiares
+
+F5 
+{QUESTION}
+Qual a frase que melhor descreve o sítio onde vive?
+
+{ANSWERS}
+Uma grande cidade
+Os subúrbios ou arredores de uma grande cidade
+Uma vila ou uma pequena cidade
+Uma aldeia
+Uma casa ou uma quinta isolada no campo
+
+F6
+{QUESTION}
+Qual o grau de escolaridade mais elevado que completou? Se nenhuma das descrições apresentadas no cartão corresponder ao seu caso, por favor, descreva pormenorizadamente o nível de escolaridade que atingiu.
+
+{ANSWERS}
+Nenhum
+1º ciclo do básico (4ª classe)
+2º ciclo do básico (5º e 6º anos / preparatório)
+3º ciclo do básico (9º ano / 5º ano dos liceus)
+Secundário (12º ano / 7º ano dos liceus ou equivalente/Propedêutico / serviço cívico)
+Superior politécnico
+Superior universitário
+Mestrado/Doutoramento
+
+F6a
+{QUESTION}
+Em qual das seguintes áreas atingiu o seu nível de educação mais elevado?
+
+{ANSWERS}
+Geral, sem área específica
+Arte – Belas artes ou aplicada
+Humanidades – Línguas e literaturas clássicas, história, teologia, filosofia, etc
+Técnicos de engenharia, incluindo arquitectura e planeamento, indústria, profissões técnicas e da construção civil
+Agricultura e florestas
+Professores e ensino
+Ciências naturais, matemáticas, informática, etc
+Medicina, saúde, enfermagem, etc
+Economia, comércio, gestão de empresas, contabilidade, etc
+Ciências sociais e comportamentais (sociologia e psicologia), administração pública, comunicação social, cultura, ciências do desporto e de lazer, etc
+Direito
+Serviços e cuidados pessoais – Catering, gestão doméstica, cabeleireiro, etc
+Serviços de segurança – polícia, forças armadas, bombeiros, etc
+Transportes e telecomunicações
+
+F7
+{QUESTION}
+Quantos anos completos de escolaridade terminou?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Quais das seguintes situações se aplicam melhor ao que fez nos últimos 7 dias? Mais alguma? 
+
+{ANSWERS}
+A fazer trabalho pago (ou temporariamente ausente), (por conta de outrem, conta própria, no negócio da família)
+A estudar mesmo se de férias (sem ser remunerado)
+Desempregado à procura de emprego
+Desempregado, à espera de emprego, mas não à procura de emprego
+Em situação de doença ou incapacidade/invalidez permanente
+Na reforma
+A fazer serviço cívico ou militar
+A fazer trabalho doméstico, a cuidar de crianças ou de outras pessoas (sem ser pago)
+Outra
+
+F8c
+{QUESTION}
+E qual das seguintes descrições melhor define a sua situação (nos últimos 7 dias)? 
+
+{ANSWERS}
+A fazer trabalho pago (ou temporariamente ausente), (por conta de outrem, conta própria, no negócio da família)
+A estudar mesmo se de férias (sem ser remunerado)
+Desempregado à procura de emprego
+Desempregado, à espera de emprego, mas não à procura de emprego
+Em situação de doença ou incapacidade/invalidez permanente
+Na reforma
+A fazer serviço cívico ou militar
+A fazer trabalho doméstico, a cuidar de crianças ou de outras pessoas (sem ser pago)
+Outra
+
+F8e
+{QUESTION}
+Em que ano se reformou / ficou doente ou incapacitado permanentemente?
+
+{ANSWERS}
+Ano:
+Nunca teve um emprego remunerado 
+Foi sempre doente ou incapacitado
+
+F8f
+{QUESTION}
+Utilizando este cartão, diga qual o grau de preocupação que sente em relação ao facto de não conseguir reformar-se na idade em que gostaria?
+
+{ANSWERS}
+00 Nada preocupado (a)
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremamente preocupado (a)
+
+F9
+{QUESTION}
+Só para confirmar, nos últimos 7 dias realizou algum trabalho remunerado?
+
+{ANSWERS}
+Sim
+Não
+
+F10
+{QUESTION}
+Alguma vez teve um trabalho remunerado?
+
+{ANSWERS}
+Sim
+Não
+
+F11
+{QUESTION}
+Em que ano teve o seu último trabalho remunerado?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Na sua profissão principal é … 
+
+{ANSWERS}
+Trabalhador por conta de outrem
+Trabalhador por conta própria
+Trabalhador no negócio ou empresa da família
+
+F13
+{QUESTION}
+Quantos empregados tem?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+O seu contrato é
+
+{ANSWERS}
+um contrato de duração ilimitada (permanente)
+um contrato de duração limitada (temporário)
+ou, não tem/teve contrato
+
+F15
+{QUESTION}
+Contando consigo, aproximadamente quantas pessoas trabalham  no seu local de trabalho?
+
+{ANSWERS}
+…menos de 10
+…10 a 24
+…25 a 99
+…100 a 499
+ou, 500 ou mais?
+
+F16
+{QUESTION}
+No seu trabalho principal tem  alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim
+Não
+
+F17
+{QUESTION}
+É responsável pelo trabalho de quantas pessoas?
+
+{ANSWERS}
+
+F18
+{QUESTION}
+Para cada um dos seguintes aspectos do seu dia-a-dia no trabalho, diga por favor, numa escala de 0 a 10, em que 0 significa que não tem influência nenhuma e 10 significa que tem muita influência, qual o grau de influência que tem sobre: A organização do seu dia-a-dia de trabalho
+
+{ANSWERS}
+00 Nenhuma influência
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Muito influência
+
+F19
+{QUESTION}
+As decisões relativas à actividade da organização onde trabalha
+
+{ANSWERS}
+00 Nenhuma influência
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Muito influência
+
+F20
+{QUESTION}
+Qual é o número base de horas contratadas por semana (no seu trabalho principal), sem contar com horas extraordinárias remuneradas ou não remuneradas?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+E, independentemente das horas contratadas, quantas horas trabalha em média por semana no seu trabalho principal? Inclua horas extraordinárias remuneradas e não remuneradas
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Qual é a designação da sua profissão principal?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Na sua profissão principal o que é que faz a maior parte do tempo? 
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Que formação ou qualificações são necessárias para o exercício da sua profissão? 
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Qual é a actividade principal da empresa/ organização em que trabalha?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Nos últimos 10 anos teve algum trabalho remunerado fora de Portugal, durante 6 meses ou mais?
+
+{ANSWERS}
+Sim
+Não
+
+F27
+{QUESTION}
+Alguma vez esteve desempregado e à procura de trabalho por um período superior a três meses?
+
+{ANSWERS}
+Sim
+Não
+
+F28
+{QUESTION}
+Algum desses períodos durou 12 meses ou mais?
+
+{ANSWERS}
+Sim
+Não
+
+F29
+{QUESTION}
+Algum desses períodos ocorreu nos últimos 5 anos?
+
+{ANSWERS}
+Sim
+Não
+
+F30
+{QUESTION}
+É, ou alguma vez foi, membro de um sindicato ou de uma associação profissional? Se sim, actualmente ou no passado?
+
+{ANSWERS}
+Sim, actualmente
+Sim, no passado
+Não
+
+F31
+{QUESTION}
+Considere o rendimento de todas as pessoas que vivem nesta casa e todo o rendimento que possam receber em conjunto. Qual é a fonte principal de rendimento das pessoas que vivem nesta casa?
+
+{ANSWERS}
+Salários e vencimentos do trabalho
+Rendimento de trabalho por conta-própria (excluindo a agricultura)
+Rendimento de trabalho agrícola
+Pensões
+Subsídio de desemprego
+Outros subsídios ou benefícios sociais (por exemplo, rendimento mínimo)
+Rendimentos de investimentos, poupanças, seguros ou propriedades
+Rendimentos de outras fontes
+
+F32A
+{QUESTION}
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido das pessoas que vivem nesta casa? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
+
+{ANSWERS}
+Aproximadamente POR SEMANA
+J Menos de 40 Euros
+R Entre 40 e 70 Euros
+C Entre 70 e 120 euros
+M Entre 120 e 230 Euros
+F Entre 230 e 350 Euros
+S Entre 350 e 460 Euros
+K Entre 460 e 580 Euros
+P Entre 580 e 690 Euros
+D Entre 690 e 1150 Euros
+H Entre 1150 e 1730 euros
+U Entre 1730 e 2310 euros
+N Mais de 2310 Euros
+
+F32B
+{QUESTION}
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido das pessoas que vivem nesta casa? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
+
+{ANSWERS}
+Aproximadamente POR MÊS
+J Menos de 150 Euros
+R Entre 150 e 300 euros
+C Entre 300 e 500 Euros
+M Entre 500 e 1000 euros
+F Entre 1000 e 1500 Euros
+S Entre 1500 e 2000 Euros
+K Entre 2000 e 2500 Euros
+P Entre 2500 e 3000 Euros
+D Entre 3000 e 5000 Euros
+H Entre 5000 e 7500 Euros
+U Entre 7500 e 10000 Euros
+N Mais de 10000 Euros
+
+F32C
+{QUESTION}
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido das pessoas que vivem nesta casa? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por semana, por mês ou por ano.
+
+{ANSWERS}
+Aproximadamente POR ANO
+J Menos de 1800 Euros
+R Entre 1800 e 3600 Euros
+C Entre 3600 e 6000 Euros
+M Entre 6000 e 12000 Euros
+F Entre 12000 e 18000 Euros
+S Entre 18000 e 24000 Euros
+K Entre 24000 e 30000 Euros
+P Entre 30000 e 36000 Euros
+D Entre 36000 e 60000 Euros
+H Entre 60000 e 90000 Euros
+U Entre 90000 e 120000 Euros
+N Mais de 120000 Euros
+
+F33
+{QUESTION}
+Qual das seguintes descrições se aproxima mais do que sente relativamente ao rendimento actual das pessoas que vivem nesta casa?
+
+{ANSWERS}
+O rendimento actual permite viver confortavelmente
+O rendimento actual dá para viver
+É difícil viver com o rendimento actual
+É muito difícil viver com o rendimento actual
+
+F34
+{QUESTION}
+Se, por alguma razão, tivesse dificuldades financeiras graves e tivesse que pedir dinheiro emprestado para conseguir viver, acha que isso seria:
+
+{ANSWERS}
+Muito difícil
+Difícil
+Nem fácil nem difícil
+Fácil
+Muito fácil
+
+F36
+{QUESTION}
+Qual o grau de escolaridade mais elevado que o seu cônjuge completou? Se nenhuma das descrições apresentadas no cartão corresponder ao caso do seu cônjuge, por favor, descreva pormenorizadamente o nível de escolaridade atingido.
+
+{ANSWERS}
+Nenhum
+1º ciclo do básico (4ª classe)
+2º ciclo do básico (5º e 6º anos / preparatório)
+3º ciclo do básico (9º ano / 5º ano dos liceus)
+Secundário (12º ano / 7º ano dos liceus ou equivalente / Propedêutico / serviço cívico)
+Superior politécnico
+Superior universitário
+Mestrado/Doutoramento
+
+F37a
+{QUESTION}
+Quais das seguintes situações se aplicam ao que o seu cônjuge fez nos últimos 7 dias? Mais alguma? 
+
+{ANSWERS}
+A fazer trabalho pago (ou temporariamente ausente), (por conta de outrem, conta própria, no negócio da família)
+a estudar mesmo se de férias (sem ser remunerado)
+desempregado à procura de emprego
+desempregado, à espera de emprego, mas não à procura de emprego
+Em situação de doença ou incapacidade/invalidez permanente
+Na reforma
+A fazer serviço cívico ou militar
+A fazer trabalho doméstico, a cuidar de crianças ou de outras pessoas (sem ser pago)
+Outra
+
+F37c
+{QUESTION}
+E qual das seguintes descrições melhor define a situação do seu cônjuge (nos últimos 7 dias)? Por favor, seleccione apenas uma situação.
+
+{ANSWERS}
+A fazer trabalho pago (ou temporariamente ausente), (por conta de outrem, conta própria, no negócio da família)
+a estudar mesmo se de férias (sem ser remunerado)
+desempregado à procura de emprego
+desempregado, à espera de emprego, mas não à procura de emprego
+Em situação de doença ou incapacidade/invalidez permanente
+Na reforma
+A fazer serviço cívico ou militar
+A fazer trabalho doméstico, a cuidar de crianças ou de outras pessoas (sem ser pago)
+Outra
+
+F38
+{QUESTION}
+Disse que o seu cônjuge não tinha trabalho remunerado mas, nos últimos 7 dias realizou algum trabalho remunerado?
+
+{ANSWERS}
+Sim
+Não
+
+F39
+{QUESTION}
+Qual é a designação da profissão principal do seu cônjuge?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Na sua profissão principal o que é que o seu cônjuge faz a maior parte do tempo?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Que formação ou qualificações são necessárias para o exercício da profissão do seu cônjuge? 
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Na sua profissão principal o seu cônjuge é… 
+
+{ANSWERS}
+trabalhador por conta de outrem
+trabalhador por conta própria
+trabalhador no negócio da família
+
+F43
+{QUESTION}
+Quantos empregados tem?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+No seu trabalho principal, o seu cônjuge tem alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim
+Não
+
+F45
+{QUESTION}
+É responsável pelo trabalho de quantas pessoas?
+
+{ANSWERS}
+
+F46
+{QUESTION}
+Para cada um dos seguintes aspectos do dia-a-dia do seu cônjuge no trabalho, diga por favor, numa escala de 0 a 10, em que 0 significa que não tem influência nenhuma e 10 significa que tem muita influência, qual o grau de influência que o seu cônjuge tem sobre: A organização do seu dia-a-dia de trabalho
+
+{ANSWERS}
+00 Nenhuma influência
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Muita influência
+
+F47
+{QUESTION}
+As decisões relativas à actividade da organização onde trabalha
+
+{ANSWERS}
+00 Nenhuma influência
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Muita influência
+
+F48
+{QUESTION}
+Quantas horas é que o seu cônjuge trabalha em média por semana no seu trabalho principal? Inclua horas extraordinárias remuneradas e não remuneradas.
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Qual o grau de escolaridade mais elevado que o seu pai completou? Se nenhuma das descrições apresentadas no cartão corresponder ao caso do seu pai, por favor, descreva pormenorizadamente o nível de escolaridade atingido.
+
+{ANSWERS}
+Nenhum
+1º ciclo do básico (4ª classe)
+2º ciclo do básico (5º e 6º anos / preparatório)
+3º ciclo do básico (9º ano / 5º ano dos liceus)
+Secundário (12º ano / 7º ano dos liceus ou equivalente/ Propedêutico / serviço cívico)
+Superior politécnico
+Superior universitário
+Mestrado/Doutoramento
+
+F50
+{QUESTION}
+Quando o sr tinha 14 anos o seu pai tinha um trabalho remunerado, era trabalhador por conta própria ou não se encontrava a trabalhar?
+
+{ANSWERS}
+Trabalhador por conta de outrem
+Trabalhador por conta própria
+Não estava a trabalhar
+Pai tinha falecido/estava ausente quando o entrevistado tinha 14 anos
+
+F51
+{QUESTION}
+Quantos empregados tinha?
+
+{ANSWERS}
+Nenhum
+1 a 24
+25 ou mais
+
+F52
+{QUESTION}
+No seu trabalho principal, o seu pai tinha alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim
+Não
+
+F53
+{QUESTION}
+Qual era a designação da profissão principal do seu pai?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Qual das seguintes descrições corresponde melhor ao tipo de trabalho que o seu pai tinha quando o sr tinha 14 anos?
+
+{ANSWERS}
+Ocupações profissionais tradicionais. Tais como: conabilista – advogado – médico –cientista – engenheiro civil/mecânico 
+Ocupações profissionais modernas. Tais como: professor – enfermeiro – fisioterapeuta – assistente social – trabalhador da segurança social – artista – músico – oficial de polícia (sargeno ou superior) – criador de software
+Ocupações administrativas e intermédias. Tais como: secretário – adjuno – trabalhador administrativo– escriturário – trabalhador de um call center – auxiliar de enfermagem – educador infantil
+Gestão de topo ou administração. (geralmente responsáveis pelo planeamento, organização e coordenação do trabalho e das finanças)Tais como: gestor financeiro – administrador executivo
+Ocupações técnicas e artesanais. Tais como: mecânico – inspector – canalizador – tipógrafo – serralheiro – electricista – agricultor – jardineiro – maquinista
+Ocupações em serviços e trabalhos semi-especializados. Tais como: trabalhador dos correios – operador de máquinas – segurança – vigilante – trabalhador agrícola – recepcionista – assistente de vendas
+Ocupações em serviços e trabalhos não-especializados. Tais como: camionista TIR – camionista – carregador – empregado de limpeza – embalador – operário – empregado de mesa – empregado de balcão
+Gestores intermédios e gerentes. Tais como: chefe de repartição – gerente de loja – gerente de banco – gerente de restaurante –chefe de armazém
+
+F55
+{QUESTION}
+Qual o grau de escolaridade mais elevado que a sua mãe completou? Se nenhuma das descrições apresentadas no cartão corresponder ao caso da sua mãe, por favor, descreva pormenorizadamente o nível de escolaridade atingido.
+
+{ANSWERS}
+Nenhum
+1º ciclo do básico (4ª classe)
+2º ciclo do básico (5º e 6º anos / preparatório)
+3º ciclo do básico (9º ano / 5º ano dos liceus)
+Secundário (12º ano / 7º ano dos liceus ou equivalente/ Propedêutico / serviço cívico)
+Superior politécnico
+Superior universitário
+Mestrado/Doutoramento
+
+F56
+{QUESTION}
+Quando o sr tinha 14 anos a sua mãe tinha um trabalho remunerado, era trabalhadora por conta própria ou não se encontrava a trabalhar?
+
+{ANSWERS}
+Trabalhador por conta de outrem
+Trabalhador por conta própria
+Não estava a trabalhar
+Mãe tinha falecido/estava ausente quando o entrevistado tinha 14 anos
+
+F57
+{QUESTION}
+Quantos empregados tinha?
+
+{ANSWERS}
+Nenhum
+1 a 24
+25 ou mais
+
+F58
+{QUESTION}
+No seu trabalho principal, a sua mãe tinha alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim 
+Não
+
+F59
+{QUESTION}
+Qual era a designação da profissão principal da sua mãe?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Qual das seguintes descrições corresponde melhor ao tipo de trabalho que a sua mãe tinha quando o sr tinha 14 anos?
+
+{ANSWERS}
+Ocupações profissionais tradicionais. Tais como: conabilista – advogado – médico –cientista – engenheiro civil/mecânico
+Ocupações profissionais modernas. Tais como: professor – enfermeiro – fisioterapeuta – assistente social – trabalhador da segurança social – artista – músico – oficial de polícia (sargeno ou superior) – criador de software 
+Ocupações administrativas e intermédias. Tais como: secretário – adjuno – trabalhador administrativo– escriturário – trabalhador de um call center – auxiliar de enfermagem – educador infantil
+Gestão de topo ou administração. (geralmente responsáveis pelo planeamento, organização e coordenação do trabalho e das finanças)Tais como: gestor financeiro – administrador executivo
+Ocupações técnicas e artesanais. Tais como: mecânico – inspector – canalizador – tipógrafo – serralheiro – electricista – agricultor – jardineiro – maquinista
+Ocupações em serviços e trabalhos semi-especializados. Tais como: trabalhador dos correios – operador de máquinas – segurança – vigilante – trabalhador agrícola – recepcionista – assistente de vendas
+Ocupações em serviços e trabalhos não-especializados. Tais como: camionista TIR – camionista – carregador – empregado de limpeza – embalador – operário – empregado de mesa – empregado de balcão
+Gestores intermédios e gerentes. Tais como: chefe de repartição – gerente de loja – gerente de banco – gerente de restaurante – chefe de armazém
+
+F61
+{QUESTION}
+Nos últimos 12 meses frequentou algum curso ou assistiu a alguma conferência para aumentar o seu conhecimento e as suas competências no trabalho?
+
+{ANSWERS}
+Sim 
+Não
+
+F62
+{QUESTION}
+Diga-me, por favor, qual das seguintes situações se aplica melhor ao seu estado civil legal?
+
+{ANSWERS}
+Casado (a)
+Separado (a) (mas ainda casado (a))
+Divorciado(a)
+Viúvo(a)
+Nunca casou
+
+F63
+{QUESTION}
+Vive actualmente com o seu cônjuge?
+
+{ANSWERS}
+Sim
+Não
+
+F64
+{QUESTION}
+Vive actualmente com outro parceiro?
+
+{ANSWERS}
+Sim
+Não
+
+F66
+{QUESTION}
+Só para confirmar, já viveu com alguém sem ser casado com ele?
+
+{ANSWERS}
+Sim
+Não
+
+F68
+{QUESTION}
+Só para confirmar, alguma vez se divorciou?
+
+{ANSWERS}
+Sim
+Não
+
+F70
+{QUESTION}
+Alguma vez teve filhos seus, filhos adoptados ou crianças acolhidas ou filhos do companheiro a viver consigo?
+
+{ANSWERS}
+Sim
+Não
+
+F71
+{QUESTION}
+Tem telefone de rede fixa em casa?
+
+{ANSWERS}
+Sim 
+Não 
+
+F72
+{QUESTION}
+Tem telemóvel?
+
+{ANSWERS}
+Sim 
+Não 
+
+F73
+{QUESTION}
+Utiliza a internet para fazer chamadas telefónicas de casa?
+
+{ANSWERS}
+Sim 
+Não 
+Não tem internet em casa 
+

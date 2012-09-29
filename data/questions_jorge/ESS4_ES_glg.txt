@@ -1,0 +1,1836 @@
+﻿A1 
+{QUESTION}
+Nun día laborable, ¿canto tempo en total pasa Vostede vendo a televisión? Por favor, empregue esta tarxeta para respostar.
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A2 
+{QUESTION}
+De novo, nun día laborable, dese tempo que adica a ver a televisión, ¿canto tempo pasa a ver informativos ou programas sobre política e actualidade? Siga a empregar esta tarxeta
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A3 
+{QUESTION}
+Nun día laborable, ¿canto tempo en total pasa vostede escoitando a radio? Empregue a mesma tarxeta.
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A4 
+{QUESTION}
+E, de novo, nun día laborable, dese tempo que adica a escoitar a radio, ¿canto tempo pasa a escoitar informativos ou programas sobre política e actualidade? Siga amosando a tarxeta 1.
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A5 
+{QUESTION}
+Nun día laborable, ¿canto tempo en total pasa vostede lendo o xornal? Empregue de novo esta tarxeta.
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A6 
+{QUESTION}
+E dese tempo, ¿canto pasa a ler noticias de política e actualidade? Siga a empregar esta tarxeta.
+
+{ANSWERS}
+Ningún 
+Menos de ½ hora 
+De ½ hora a 1 hora 
+Máis de 1, ata 1 ½ hora 
+Máis de 1 ½, ata 2 horas 
+Máis de 2, ata 2 ½ horas 
+Máis de 2 ½, ata 3 horas 
+Máis de 3 horas 
+
+A7 
+{QUESTION}
+Empregando agora esta tarxeta, ¿con que frecuencia emprega vostede internet ou o correo electrónico –sexa na casa ou no traballo – para asuntos persoais?
+
+{ANSWERS}
+Non teño acceso na casa nin no traballo 
+Nunca o emprego 
+Menos dunha vez ó mes 
+Unha vez ó mes 
+Varias veces al mes 
+Unha vez á semana 
+Varias veces á semana 
+Tódolos días 
+
+A8 
+{QUESTION}
+Empregando esta tarxeta, ¿diría vostede que, polo xeral, se pode confiar na maioría da xente ou que nunca se é demasiado prudente no trato cos demais? Por favor, sitúese nunha escala de 0 a 10 na que 0 significa “nunca se é o bastante prudente” e 10 significa “pódese confiar na maioría da xente”
+
+{ANSWERS}
+00 Nunca se é o bastante prudente
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Pódese confiar na mayoría da xente
+
+A9 
+{QUESTION}
+Empregando esta tarxeta, ¿cre que a maioría da xente tentaría aproveitarse de vostede, se puidera, ou sería honrada con vostede?
+
+{ANSWERS}
+00 A maioría da xente tentaría aproveitarse de min
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A maioría da xente sería honrada comigo
+
+A10 
+{QUESTION}
+¿Diría vostede a que as máis das veces a xente tenta axudar ós demais ou que principalmente mira por sí mesma?
+
+{ANSWERS}
+00 A maioría das veces a xente mira por si mesma
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A maioría das veces a xente tenta axudar ós demais
+
+{INTRO}
+Agora gustaríame facerlle algunhas preguntas sobre política e o goberno
+
+B1 
+{QUESTION}
+¿En que medida diría vostede que lle interesa a política? ¿Diría vostede que lle interesa…? 
+
+{ANSWERS}
+Moito 
+Bastante 
+Pouco 
+Nada 
+
+B2 
+{QUESTION}
+¿Con que frecuencia a política parécelle tan complicada que non pode entender o que está pasando? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Nunca 
+Poucas veces 
+Ás veces 
+Con certa frecuencia 
+A miúdo 
+
+B3 
+{QUESTION}
+¿Resúltalle a vostede difícil ou fácil formarse unha opinión sobre temas políticos? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Moi difícil 
+Difícil 
+Nin difícil nin fácil 
+Fácil 
+Moi fácil 
+
+B4
+{QUESTION}
+Empregando esta tarxeta, dígame, por favor, nunha escala de 0 a 10, Vostede persoalmente, canto confía en cada unha das seguintes institucións. 0 significa que vostede non confía en absoluto nunha institución e 10 que confía plenamente. En primeiro lugar…o Parlamento español
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B5 
+{QUESTION}
+…o sistema xudicial
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B6 
+{QUESTION}
+…a policía
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B7 
+{QUESTION}
+…os políticos
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B8 
+{QUESTION}
+…os partidos políticos
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B9 
+{QUESTION}
+…o Parlamento Europeo
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B10 
+{QUESTION}
+…as Nacións Unidas
+
+{ANSWERS}
+00 Non confío en absoluto
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Confío plenamente
+
+B11
+{INTRO}
+Hoxe en día hai xente que, pola razón que sexa, non vota. 
+
+{QUESTION}
+¿Votou vostede nas últimas eleccións xerais de marzo de 2008?
+
+{ANSWERS}
+
+B12 
+{QUESTION}
+¿A que partido votou nesas eleccións? 
+
+{ANSWERS}
+PP 
+PSOE 
+IU 
+CiU 
+ERC 
+PNV 
+BNG 
+CC-PNC 
+NA-BAI 
+UPyD 
+Outro 
+Voto en branco 
+
+B13 
+{INTRO}
+Hai moitas maneiras de intentar que as cousas melloren en España ou, cando menos, de evitar que vaian a peor. 
+
+{QUESTION}
+Nos últimos 12 meses ¿realizou vostede algunha das seguintes actividades? ¿Púxose en contacto cun político ou cunha autoridade ou funcionario estatal, autonómico ou local?
+
+{ANSWERS}
+Si
+Non
+
+B14 
+{QUESTION}
+¿Colaborou con algún partido político ou plataforma de acción cidadá?
+
+{ANSWERS}
+Si
+Non
+
+B15 
+{QUESTION}
+¿Colaborou con algunha outra organización ou asociación?
+
+{ANSWERS}
+Si
+Non
+
+B16 
+{QUESTION}
+¿Levou ou amosou insignias ou pegatinas dalgunha campaña?
+
+{ANSWERS}
+Si
+Non
+
+B17 
+{QUESTION}
+¿Asinou algunha petición nunha campaña de recollida de sinaturas?
+
+{ANSWERS}
+Si
+Non
+
+B18 
+{QUESTION}
+¿Participou en manifestacións autorizadas?
+
+{ANSWERS}
+Si
+Non
+
+B19 
+{QUESTION}
+¿Boicoteou ou deixou de comprar certos productos?
+
+{ANSWERS}
+Si
+Non
+
+B20a 
+{QUESTION}
+¿Hai algún partido político ó que vostede se sinta mais próximo que ós demais?
+
+{ANSWERS}
+
+B20b 
+{QUESTION}
+¿A cal? 
+
+{ANSWERS}
+
+B20c 
+{QUESTION}
+¿En que medida síntese vostede próximo a ese partido? ¿Síntese...?
+
+{ANSWERS}
+Moi próximo 
+Bastante próximo 
+Pouco próximo 
+Nada próximo 
+
+B21 
+{QUESTION}
+¿Está vostede afiliado a algún partido político? 
+
+{ANSWERS}
+
+B22 
+{QUESTION}
+¿A cal? 
+
+{ANSWERS}
+
+B23 
+{INTRO}
+En política ás veces fálase de “esquerda” e “dereita”. 
+
+{QUESTION}
+Empregando esta tarxeta, ¿onde se colocaría vostede nesta escala, na que 0 quere dicir esquerda e 10 dereita?
+
+{ANSWERS}
+00 Esquerda
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Dereita
+
+B24
+{QUESTION}
+Cambiando de tema, en termos xerais, ¿en que medida está vostede satisfeito actualmente coa súa vida? Por favor, responda empregando esta tarxeta, na que 0 significa completamente insatisfeito e 10 significa completamente satisfeito.
+
+{ANSWERS}
+00 Completamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completamente satisfeito
+
+B25 
+{QUESTION}
+En xeral, ¿en que medida está vostede satisfeito coa situación económica actual de España? Siga empregando esta mesma tarxeta.
+
+{ANSWERS}
+00 Completamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completamente satisfeito
+
+B26 
+{QUESTION}
+Pensando agora no goberno español, ¿en que medida está vostede satisfeito coa forma en que se está a desenvolver o seu labor? Siga empregando a mesma tarxeta.
+
+{ANSWERS}
+00 Completamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completamente satisfeito
+
+B27 
+{QUESTION}
+E, no conxunto, ¿en que medida está vostede satisfeito co funcionamento da democracia en España? Siga empregando a mesma tarxeta.
+
+{ANSWERS}
+00 Completamente insatisfeito
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completamente satisfeito
+
+B28 
+{QUESTION}
+Empregando agora esta tarxeta, ¿como valoraría globalmente o estado actual do ensino en España?
+
+{ANSWERS}
+00 Moi Mal
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Moi ben
+
+B29 
+{QUESTION}
+Empregando esta mesma tarxeta, dígame, por favor, ¿como valoraría, globalmente, o estado actual do sistema sanitario en España?
+
+{ANSWERS}
+00 Moi Mal
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Moi ben
+
+
+B30
+{QUESTION}
+Empregando esta mesma tarxeta, dígame, por favor, ata que punto está vostede dacordo ou en desacordo con cada unha das seguintes afirmacións. O goberno debería tomar medidas para reducir as diferenzas nos niveis de ingresos
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacordo
+nin en desacordo
+En desacordo
+Moi en desacordo
+
+B31
+{QUESTION}
+Os gais e lesbianas deberían ter liberdade para vivir como queiran
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacordo
+nin en desacordo
+En desacordo
+Moi en desacordo
+
+B32
+{QUESTION}
+Os partidos políticos que pretenden acabar coa democracia deberían ser ilegalizados
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacordo
+nin en desacordo
+En desacordo
+Moi en desacordo
+
+B33
+{QUESTION}
+Pódese contar con que a ciencia moderna resolva os nosos problemas medioambientais
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacordo
+nin en desacordo
+En desacordo
+Moi en desacordo
+
+B34 
+{QUESTION}
+Pensando agora na Unión Europea, algunhas persoas din que a integración debería ir máis lonxe. Outras din que xa foi demasiado lonxe. Empregando esta tarxeta, ¿que número da escala describe mellor a súa opinión ó respecto?
+
+{ANSWERS}
+00 A integración xa foi demasiado lonxe
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A integración debería ir máis lonxe
+
+{INTRO}
+Agora gustaríame facerlle algunhas preguntas sobre as persoas doutros países que veñen a vivir a España
+
+B35 
+{QUESTION}
+Agora, empregando esta tarxeta, ¿ata que punto cre vostede que España debería permitir que persoas da mesma raza ou grupo étnico que a maioría dos españois veñan a vivir aquí?
+
+{ANSWERS}
+Deberíase permitir que moitos viñeran a vivir aquí 
+Permitir que viñeran uns cantos 
+Permitir que viñeran uns poucos 
+Non se debería permitir a ningún que viñera a vivir aquí 
+
+B36 
+{QUESTION}
+¿E que me di dos que son dunha raza ou grupo distinto que a maioría dos españois? Siga empregando a mesma tarxeta.
+
+{ANSWERS}
+Deberíase permitir que moitos viñeran a vivir aquí 
+Permitir que viñeran uns cantos 
+Permitir que viñeran uns poucos 
+Non se debería permitir a ningún que viñera a vivir aquí 
+
+B37 
+{QUESTION}
+¿E que me di dos que proceden de países pobres de fóra de Europa? Empregue a mesma tarxeta.
+
+{ANSWERS}
+Deberíase permitir que moitos viñeran a vivir aquí 
+Permitir que viñeran uns cantos 
+Permitir que viñeran uns poucos 
+Non se debería permitir a ningún que viñera a vivir aquí 
+
+B38 
+{QUESTION}
+¿Diría vostede que, polo xeral, para a economía española é bo ou é malo que veña xente doutros países? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+00 Malo para a economía
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Bo para a economía
+
+B39
+{QUESTION}
+E, empregando esta tarxeta, ¿cre vostede que a vida cultural española se empobrece ou se enriquece coas persoas doutros países que veñen a vivir aquí?
+
+{ANSWERS}
+00 A vida cultural española empobrécese
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A vida cultural española enriquecese
+
+B40 
+{QUESTION}
+A chegada de persoas doutros países, ¿contribúe a que España sexa un lugar peor ou mellor para vivir? Empregue, por favor, esta tarxeta.
+
+{ANSWERS}
+00 Peor lugar para vivir
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mellor lugar para vivir
+
+{INTRO}
+A continuación imos falar dalgúns aspectos da súa vida.
+
+C1 
+{QUESTION}
+En termos xerais, ¿en que medida se considera vostede unha persoa feliz ou infeliz? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+00 Absolutamente infeliz
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Absolutamente feliz
+
+C2 
+{QUESTION}
+Empregando esta tarxeta, dígame, ¿con que frecuencia se reúne no seu tempo libre cos seus amigos, familiares e compañeiros de traballo?
+
+{ANSWERS}
+Nunca 
+Menos dunha vez ó mes 
+Unha vez ó mes 
+Varias veces ó mes 
+Unha vez á semana 
+Varias veces á semana 
+Tódolos días 
+
+C3 
+{QUESTION}
+¿Ten vostede a alguén con quen poida falar de temas íntimos e persoais? 
+
+{ANSWERS}
+
+C4 
+{QUESTION}
+En comparación con outras persoas da súa idade, ¿con que frecuencia diría vostede que participa en actividades sociais? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Moito menos que a maioría 
+Menos que a maioría 
+Máis ou menos coma todos 
+Máis que a maioría 
+Moito máis que la maioría 
+
+C5 
+{QUESTION}
+Nos últimos 5 anos, ¿foi vostede ou algún membro do seu fogar víctima dun roubo ou agresión? 
+
+{ANSWERS}
+
+C6 
+{QUESTION}
+¿En que medida síntese vostede seguro camiñando só por esta zona de noite? 
+
+{ANSWERS}
+moi seguro/a 
+seguro/a 
+inseguro/a 
+moi inseguro/a 
+
+C7
+{QUESTION}
+¿Con que frecuencia lle preocupa que alguén poida entrar na súa casa a roubar, se é que isto lle preocupa? Por favor, escolla unha das respostas que aparecen nesta tarxeta.
+
+{ANSWERS}
+Sempre ou case sempre
+Algunhas veces
+Só ocasionalmente
+Nunca
+
+C8
+{QUESTION}
+ ¿Diría vostede que esta preocupación de que alguén poida entrar na súa casa a roubar… 
+
+{ANSWERS}
+… afecta moito á súa calidade de vida
+… afecta algo á súa calidade de vida,
+non afecta nada á súa calidade de vida
+
+C9
+{QUESTION}
+¿Con que frecuencia lle preocúpa que poida ser víctima dun asalto violento, se é que lle preocupa? Por favor, escolla a súa resposta desta tarxeta.
+
+{ANSWERS}
+Sempre ou case sempre
+Algunhas veces
+Só ocasionalmente
+Nunca
+
+C10
+{QUESTION}
+¿Diría vostede que esta preocupación de ser víctima dun asalto violento …
+
+{ANSWERS}
+… afecta moito á súa calidade de vida
+… afecta algo á súa calidade de vida,
+non afecta nada á súa calidade de vida
+
+{INTRO}
+Agora gustaríame facerlle algunhas preguntas sobre terrorismo.
+
+C11
+{QUESTION}
+¿Cre vostede que un ataque terrorista nalgún lugar de Europa nos vindeiros doce meses é … 
+
+{ANSWERS}
+..moi probable
+algo probable
+pouco probable,
+ou, nada probable? 
+
+C12
+{QUESTION}
+¿Cre vostede que un ataque terrorista nalgún lugar de España nos vindeiros doce meses é… 
+
+{ANSWERS}
+..moi probable
+algo probable
+pouco probable
+ou, nada probable? 
+
+C13
+{QUESTION}
+Empregando esta tarxeta, dígame, por favor, ata que punto está vostede dacordo ou en desacordo con cada unha das seguintes afirmacións. Se alguén fose sospeitoso de preparar un atentado terrorista en España, a policía debería ter a posibilidade legal de mantelo en prisión ata estar convencido de que non está implicado.
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacord
+o nin en desacordo
+En desacordo
+Moi en desacordo
+
+C14
+{QUESTION}
+Torturar a un detido nun cárcere español non está xustificado en ningún caso, mesmo aínda que poida proporcionar información para previr un ataque terrorista.
+
+{ANSWERS}
+Moi dacordo
+Dacordo
+Nin dacord
+o nin en desacordo
+En desacordo
+Moi en desacordo
+
+{INTRO}
+Agora imos falar de vostede
+
+C15 
+{QUESTION}
+Falando da súa saúde en xeral. ¿Diría vostede que é …? 
+
+{ANSWERS}
+moi boa 
+boa 
+normal 
+mala 
+moi mala 
+
+C16 
+{QUESTION}
+¿Ten vostede dificultades para levar a cabo as súas actividades cotiás a causa dalgunha enfermidade crónica, discapacidade ou problema de saúde mental? 
+
+{ANSWERS}
+Si, moitas 
+Si, ata certo punto 
+Non 
+
+C17 
+{QUESTION}
+¿Considérase vostede dalgunha relixión? 
+
+{ANSWERS}
+
+C18 
+{QUESTION}
+¿De cal? 
+
+{ANSWERS}
+
+C19 
+{QUESTION}
+¿E nalgún momento da súa vida tense considerado vostede dalgunha relixión? 
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+¿De cal? 
+
+{ANSWERS}
+
+C21 
+{QUESTION}
+Con independencia de se se considera vostede dalgunha relixión, ¿en que medida se considera unha persoa relixiosa? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+00 Nada relixioso
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Moi relixioso
+
+C22 
+{QUESTION}
+Aparte de ocasións especiais como vodas, bautizos e funerais ¿con que frecuencia asiste vostede a cerimonias relixiosas habitualmente? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Tódolos días 
+Mais dunha vez á semana 
+Unha vez á semana 
+Cando menos unha vez ó mes 
+Só en festas relixiosas especiais 
+Con menor frecuencia 
+Nunca 
+
+C23
+{QUESTION}
+Aparte das ocasións nas que asiste a cerimonias relixiosas, ¿con que frecuencia reza? Por favor, empregue a mesma tarxeta.
+
+{ANSWERS}
+Tódolos días 
+Mais dunha vez á semana 
+Unha vez á semana 
+Cando menos unha vez ó mes 
+Só en festas relixiosas especiais 
+Con menor frecuencia 
+Nunca 
+
+C24 
+{QUESTION}
+¿Considera vostede que pertence a un grupo contra o que exista algún tipo de discriminación neste país? 
+
+{ANSWERS}
+
+C25 
+{QUESTION}
+¿Por que motivos se discrimína ó seu grupo? 
+
+{ANSWERS}
+
+C26 
+{QUESTION}
+¿Ten vostede a nacionalidade española? 
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+¿Cal é a súa nacionalidade?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+¿Naceu vostede en España? 
+
+{ANSWERS}
+
+C29 
+{QUESTION}
+¿En que país naceu?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+¿Canto tempo fai que veu vivir a España? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Hai menos dun ano 
+Entre 1 e 5 anos 
+Entre 6 e 10 anos 
+Entre 11 e 20 anos 
+Hai máis de 20 anos 
+
+C31 
+{QUESTION}
+¿Que lingua ou linguas fala vostede normalmente na casa?
+
+{ANSWERS}
+ANOTAR MÁXIMO 2 IDIOMAS: 
+
+C32 
+{QUESTION}
+¿Pertence vostede a unha minoría étnica de España? 
+
+{ANSWERS}
+
+C33 
+{QUESTION}
+¿Naceu seu pai en España?
+
+{ANSWERS}
+Si 
+Non 
+
+C34
+{QUESTION}
+ ¿En que país naceu seu pai?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+ ¿Naceu súa nai en España? 
+
+{ANSWERS}
+
+C36 
+{QUESTION}
+¿En que país naceu súa nai?
+
+{ANSWERS}
+
+{INTRO}
+Agora gustaríame facerlle algunhas preguntas sobre vostede e sobre o resto das persoas que viven con vostede neste fogar.
+
+F1 
+{QUESTION}
+Incluído vostede mesmo, ¿cantas persoas, adultos e nenos, viven habitualmente nesta casa?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+¿En que ano naceu?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Empregando esta tarxeta, ¿que relación ten esta persoa con vostede?
+
+{ANSWERS}
+Marido/ esposa/ parella
+Fillo/a (sexan seus ou da súa parella, incluíndo fillos/as adoptados/as ou en acollida)
+Pai/nai/sogro/-a (sexan seus ou da súa parella, incluíndo os adoptivos)
+Irmán/irmá (incluíndo adoptivos, medio/a irmáns/irmás, en acollida)
+Outra relación de parentesco
+Outra relación sen parentesco
+
+F5
+{QUESTION}
+¿Que frase desta tarxeta describe mellor o lugar no que vive?
+
+{ANSWERS}
+Unha grande cidade 
+As aforas dunha grande cidade 
+Unha cidade de tamaño medio ou pequeno 
+Un pobo 
+Unha granxa ou casa no campo 
+
+F6 
+{QUESTION}
+¿Cal é o nivel de estudos máis alto que obtivo?
+
+{ANSWERS}
+Sen estudos/analfabeto
+Estudos primarios sen rematar
+Certificado de escolaridade
+Ata 5 de EXB
+Antiga primaria completa
+EXB ou ESO
+Bacharelato elemental
+FP1 e Ensino Técnico Profesional ou equivalente
+Bacharelato superior, BUP ou equivalente
+FP2 ou equivalente
+Estudos superiores de 2 o 3 anos (en centros de estudos no regulamentados)
+Arquitecto e enxeñeiro técnico
+Diplomado doutras escolas universitarias ou equivalente
+Arquitecto ou enxeñeiro superior
+Licenciado
+Estudos de postgró ou especialización
+Doutoramento
+
+F6a 
+{QUESTION}
+Pense nos estudios de maior nivel que finalizara. ¿En cal das seguintes disciplinas os situaría?
+
+{ANSWERS}
+Xeral ou campo non especificado
+Arte – belas artes ou artes aplicadas
+Humanidades – idiomas, filoloxía, clásicas, historia, teoloxía, etc
+Estudos técnicos ou de enxeñería, incluíndo arquitectura e urbanismo, industria, aeronáutica, enxeñería naval, construción, etc
+Agricultura e silvicultura, forestais
+Formación do profesorado ou ensino
+Ciencia, matemáticas, computación, etc
+Mediciña, servizos de saúde, enfermería, etc
+Económicas, comercio, administración de empresas, contabilidade, etc. 
+Estudos sociais e do comportamento, administración pública, medios de comunicación, cultura, estudos do deporte e do ocio, hostalería e turismo, etc
+Dereito e estudos xurídicos
+Servizos de coidado persoal – catering, fogar, perruquería, etc
+Orde pública e seguridade – policía, forzas armadas, bombeiros, etc
+Transporte e telecomunicacións
+
+F7 
+{QUESTION}
+¿Aproximadamente cantos anos de educación completos estudou vostede, sexa a tempo parcial ou a tempo completo? Indíqueme os anos ou cursos completos sumando como medio ano aqueles nos que estivera estudando a tempo parcial; é dicir, mentres traballlaba. Por favor, indíqueo en anos escolares completos e non esqueza incluir os anos de ensino obrigatorio.
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Empregando esta tarxeta, ¿podería dicirme en cales destas situacións se ten atopado nos últimos sete días?
+
+{ANSWERS}
+Nun emprego remunerado (incluída a situación de baixa temporal por maternidade/paternidade, accidente, enfermidade ou vacacións)
+(ex. traballador por conta allea, conta propia ou nun negocio familiar) 
+Estudando, aínda que se estivera de vacacións (excluír a formación remunerada por empresa) 
+Desempregado e na procura activa de emprego 
+Desempregado, querendo atopar traballo pero sen procura-lo activamente 
+Con enfermidade crónica ou situación de invalidez permanente 
+Xubilado 
+Facendo tarefas do fogar, coidando nenos ou outras persoas 
+Outra 
+
+F8c 
+{QUESTION}
+¿E cal describe mellor a súa situación nos últimos sete anos? Por favor, escolla só unha delas.
+
+{ANSWERS}
+Nun emprego remunerado (incluída a situación de baixa temporal por maternidade/paternidade, accidente, enfermidade ou vacacións)
+(ex. traballador por conta allea, conta propia ou nun negocio familiar) 
+Estudando, mesmo se estivera de vacacións (excluír a formación remunerada por empresa) 
+Desempregado e na procura activa de emprego 
+Desempregado, querendo atopar traballo pero sen procura-lo activamente 
+Con enfermidade crónica ou situación de invalidez permanente 
+Xubilado 
+Facendo tarefas do fogar, coidando nenos ou outras persoas 
+Outra 
+
+F9 
+{QUESTION}
+¿Permitiríame verificar os datos? ¿Realizou algún traballo remunerado dunha hora ou máis nos últimos sete días? 
+
+{ANSWERS}
+Si 
+Non 
+
+F10 
+{QUESTION}
+¿Tivo nalgún momento un traballo remunerado? 
+
+{ANSWERS}
+
+F11 
+{QUESTION}
+¿En que ano tivo o seu último traballo remunerado?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+No seu traballo principal, ¿vostede era…? 
+
+{ANSWERS}
+... traballador/a por conta allea, 
+traballador/a por conta propia, 
+ou traballaba nun negocio familiar? 
+
+F13 
+{QUESTION}
+¿Cantos empregados ten/tiña vostede?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+ ¿Ten vostede un contrato laboral…? 
+
+{ANSWERS}
+…indefinido
+temporal,
+ou no ten/tiña contrato? 
+
+F15 
+{QUESTION}
+Incluído vostede mesmo, ¿cantos empregados hai/había habitualmente no seu lugar de traballo? 
+
+{ANSWERS}
+…menos de 10
+de 10 a 24
+de 25 a 99
+de 100 a 499
+o 500 ou máis? 
+
+F16 
+{QUESTION}
+No seu traballo principal, ¿é/era vostede responsable de supervisar o traballo dos demais empregados? 
+
+{ANSWERS}
+
+F17 
+{QUESTION}
+¿De cantas persoas é vostede responsable?
+
+{ANSWERS}
+
+F18
+{INTRO}
+De seguido voulle ler unha lista de actividades relacionadas coa súa vida laboral. 
+
+{QUESTION}
+Empregando esta tarxeta, por favor dígame ata que punto a dirección ou os seus xefes no traballo permítenlle... decidir como organizar o seu traballo diario
+
+{ANSWERS}
+00 Non teño/tiña ningunha influencia
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teño/tiña un control total
+
+F19
+{QUESTION}
+ … influír nas decisións que afectan ás actividades da organización
+
+{ANSWERS}
+00 Non teño/tiña ningunha influencia
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teño/tiña un control total
+
+F20 
+{QUESTION}
+Sen contar horas extras, remuneradas ou non, ¿cantas horas de traballo á semana estipula o contrato do seu traballo principal?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Seguindo co seu traballo principal, con independencia do número de horas estipuladas no seu contrato, ¿cantas horas traballa normalmente á semana, incluíndo horas extras, remuneradas ou non?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+¿A que se adicaba a empresa ou organización para a que traballa?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+¿Para que tipo de organización nesta tarxeta traballa ou traballou vostede?
+
+{ANSWERS}
+Goberno central, autonómico ou local 
+Outra administración pública (como educación e sanidade) 
+Empresa estatal 
+Empresa privada 
+Traballador por conta propia 
+Outro 
+
+F24 
+{QUESTION}
+¿Cómo definiría o seu posto (ou cargo) de traballo principal?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+No seu traballo principal, ¿que tipo de tarefa realiza durante a maior parte do tempo?
+
+{ANSWERS}
+
+F25a 
+{QUESTION}
+¿Que tipo de formación ou de titulación require este traballo?
+
+{ANSWERS}
+
+F26 
+{QUESTION}
+Nos últimos 10 anos, ¿realizou algún traballo remunerado noutro país durante, polo menos, 6 meses? 
+
+{ANSWERS}
+
+F27 
+{QUESTION}
+¿Nalgún momento da súa vida estivo no paro e buscando traballo durante un periodo de máis de tres meses? 
+
+{ANSWERS}
+
+F28
+{QUESTION}
+ ¿Algún destes períodos durou 12 meses ou máis? 
+
+{ANSWERS}
+
+F29 
+{QUESTION}
+¿Algún destes períodos foi durante os últimos 5 anos? 
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+¿Está ou estivo algunha vez afiliado a un sindicato ou organización semellante? SE DI QUE SI: ¿Estó actualmente ou o estivo previamente?
+
+{ANSWERS}
+Si, o estou 
+Si, o estiven 
+Non 
+
+F31 
+{QUESTION}
+Por favor, considere tódolos ingresos de tódolos membros do fogar. ¿Cal é a principal fonte de ingresos do seu fogar? Empregue, por favor, esta tarxeta.
+
+{ANSWERS}
+Salarios ou ingresos do traballo por conta allea 
+Salarios ou ingresos do traballo por conta propia (excluídas as explotacións agrícolas) 
+Salarios e ingresos procedentes de explotacións agrícolas 
+Pensións 
+Prestación por desemprego ou indemnización por despido 
+Outras axudas ou prestacións sociais 
+Rendas de investimentos, aforros, seguros ou propiedades 
+Ingresos doutras fontes 
+
+F32A 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente SEMANAL
+J 180€ ou menos
+R Entre máis de 180€ y 240€
+C Entre máis de 240€ y 320€
+M Entre máis de 320€ y 380€
+F Entre máis de 380€ y 450€
+S Entre máis de 450€ y 520€
+K Entre máis de 520€ y 610€
+P Entre máis de 610€ y 730€
+D Entre máis de 730€ y 920€
+H Máis de 920€
+
+F32B 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente MENSUAL
+J 700€ ou menos
+R Entre máis de 700€ y 900€
+C Entre máis de 900€ y 1.200€
+M Entre máis de 1.200€ y 1.400€
+F Entre máis de 1.400€ y 1.700€
+S Entre máis de 1.700€ y 1.900€
+K Entre máis de 1.900€ y 2.300€
+P Entre máis de 2.300€ y 2.700€
+D Entre máis de 2.700€ y 3.500€
+H Máis de 3.500€
+
+F32C 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente ANUAL
+J 8.000€ ou menos
+R Entre máis de 8.000€ y 11.000€
+C Entre máis de 11.000€ y 14.000€
+M Entre máis de 14.000€ y 17.000€
+F Entre máis de 17.000€ y 20.000€
+S Entre máis de 20.000€ y 23.000€
+K Entre máis de 23.000€ y 27.000€
+P Entre máis de 27.000€ y 33.000€
+D Entre máis de 33.000€ y 41.000€
+H Máis de 41.000€
+
+F32AA 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente SEMANAL
+J 30.000 pta. Ou menos
+R Entre máis de 30.000 pta. e 40.000 pta.
+C Entre máis de 40.000 pta. e 53.000 pta.
+M Entre máis de 53.000 pta. e 63.000 pta.
+F Entre máis de 63.000 pta. e 75.000 pta.
+S Entre máis de 75.000 pta. e 87.000 pta.
+K Entre máis de 87.000 pta. e 101.000 pta.
+P Entre máis de 101.000 pta. e 121.000 pta.
+D Entre máis de 121.000 pta. e 153.000 pta.
+H Máis de 153.000 pta.
+
+F32BB 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente MENSUAL
+J 116000 pta. Ou menos
+R Entre máis de 116.000 pta. e 150.000 pta.
+C Entre máis de 150.000 pta. e 200.000 pta.
+M Entre máis de 200.000 pta. e 233.000 pta.
+F Entre máis de 233.000 pta. e 283.000 pta.
+S Entre máis de 283.000 pta. e 316.000 pta.
+K Entre máis de 316.000 pta. e 383.000 pta.
+P Entre máis de 383.000 pta. e 449000 pta.
+D Entre máis de 449.000 pta. e 582.000 pta.
+H Máis de 582.000 pta.
+
+F32CC 
+{QUESTION}
+Empregando esta tarxeta, se suma os ingresos que proveñen de todo tipo de fontes, ¿que letra describe mellor os ingresos netos do seu fogar despois de descontar os impostos e outras deduccións obligatorias? Se non coñece a cantidade exacta, por favor, díganos unha cantidade aproximada. Empregue a sección da tarxeta que mellor coñeza: ingresos semanais, mensuais ou anuais.
+
+{ANSWERS}
+Aproximadamente ANUAL
+J 1331000 pta. ou menos
+R Entre máis de 1.331.000 pta. e 1.830.000 pta.
+CEntre máis de 1.830.000 pta. e 2.329.000 pta.
+M Entre máis de 2.329.000 pta. e 2.829.000 pta.
+F Entre máis de 2.829.000 pta. e 3.328.000 pta.
+S Entre máis de 3.328.000 pta. e 3.827.000 pta.
+K Entre máis de 3.827.000 pta. e 4.492.000 pta.
+P Entre máis de 4.492.000 pta. e 5.491.000 pta.
+D Entre máis de 5.491.000 pta. e 6.822.000 pta.
+H Máis de 6.822.000 pta.
+
+F33 
+{QUESTION}
+¿Cal das afirmacións nesta tarxeta describe mellor como se sinte na actualidade respecto dos ingresos do seu fogar?
+
+{ANSWERS}
+Cos ingresos actuais vivimos cómodamente 
+Cos ingresos actuais chéganos para vivir 
+Cos ingresos actuais temos dificultades 
+Cos ingresos actuais temos moitas dificultades 
+
+F34 
+{QUESTION}
+Se por calqueira razón vostede se vira en graves dificultades económicas e tivera que pedir diñeiro prestado para chegar a fin de mes, ¿en que medida isto lle resultaría fácil ou difícil? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Moi difícil 
+Bastante difícil 
+Nin fácil nin difícil 
+Bastante fácil 
+Moi fácil 
+
+F36 
+{QUESTION}
+¿Cal é o nivel de estudos máis alto acadado polo seu marido/muller/parella? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Sen estudos/analfabeto
+Estudos primarios sen rematar
+Certificado de escolaridade
+Ata 5º de EXB
+Antiga primaria completa
+EXB ou ESO
+Bacharelato elemental
+FP1 e Ensino Técnico Profesional ou equivalente
+Bacharelato superior, BUP ou equivalente
+FP2 ou equivalente
+Estudos superiores de 2 o 3 anos (en centros de estudos no regulamentados)
+Arquitecto o enxeñeiro técnico
+Diplomado doutras escolas universitarias ou equivalente
+Arquitecto e enxeñeiro superior
+Licenciado
+Estudos de postgró ou especialización
+Doutoramento
+
+F37a 
+{QUESTION}
+¿En cales das situacións seguintes atopouse o seu/súa marido/muller/parella nos últimos 7 días? 
+
+{ANSWERS}
+Nun emprego remunerado (incluída a situación de baixa temporal por maternidade/paternidade, accidente, enfermidade ou vacacións)
+(ex. Traballador por conta allea, conta propia ou nun negocio familiar) 
+Estudando, aínda que se estivera de vacacións (excluír a formación remunerada por empresa) 
+Desempregado e na procura activa de emprego 
+Desempregado, querendo atopar traballo pero sen procura-lo activamente 
+Con enfermidade crónica ou situación de invalidez permanente 
+Xubilado 
+Facendo tarefas domésticas, coidando nenos ou outras persoas 
+Outra  
+
+F37c 
+{QUESTION}
+¿E cal das seguintes descripcións desta tarxeta describe mellor a súa situación (nos últimos 7 días)? Por favor,escolla só unha delas.
+
+{ANSWERS}
+Nun emprego remunerado (incluída a situación de baixa temporal por maternidade/paternidade, accidente, enfermidade ou vacacións)
+(ex. Traballador por conta allea, conta propia ou nun negocio familiar) 
+Estudando, aínda que se estivera de vacacións (excluír a formación remunerada por empresa) 
+Desempregado e na procura activa de emprego 
+Desempregado, querendo atopar traballo pero sen procura-lo activamente 
+Con enfermidade crónica ou situación de invalidez permanente 
+Xubilado 
+Facendo tarefas domésticas, coidando nenos ou outras persoas 
+Outra 
+
+F38 
+{QUESTION}
+¿Permitiríame verificar os datos? ¿Realizou o seu marido algún traballo remunerado (dunha hora ou máis) nos últimos 7 días? 
+
+{ANSWERS}
+
+F39 
+{QUESTION}
+¿Como definiría o cargo ou posto do seu traballo principal?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+No seu traballo principal, ¿que tipo de tarefa realiza o seu marido durante a maior parte do tempo?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+¿Que tipo de formación ou de titulación require ese traballo?
+
+{ANSWERS}
+
+F41a 
+{QUESTION}
+¿Para cal dos seguintes tipos de organizacións traballa ou traballou o seu marido?
+
+{ANSWERS}
+Goberno central, autonómico ou local 
+Outra administración pública (como educación e sanidade) 
+Empresa estatal 
+Empresa privada 
+Traballador por conta propia 
+Outro 
+
+F42 
+{QUESTION}
+No seu traballo principal, o seu marido é… 
+
+{ANSWERS}
+... traballador/a por conta allea,
+traballador/a por conta propia
+ou traballa nun negocio familiar? 
+
+F43 
+{QUESTION}
+¿Cantos empregados ten o seu marido (se é que ten algún)?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+No seu traballo principal, ¿o seu marido é responsable de supervisar o traballo doutros empregados? 
+
+{ANSWERS}
+
+F45 
+{QUESTION}
+¿Cantos empregados ten o seu marido ó seu cargo?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Voulle a ler unha lista de cousas acerca da vida laboral da súa parella. 
+
+{QUESTION}
+Empregando esta tarxeta, por favor, dígame ata que punto a dirección ou o seus xefes no traballo permítenlle ... ... decidir como organizar o seu traballo diario
+
+{ANSWERS}
+00 Non ten ningunha influencia
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Ten un control total
+
+F47 
+{QUESTION}
+… influír nas decisións que afectan ás actividades da organización
+
+{ANSWERS}
+00 Non ten ningunha influencia
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Ten un control total
+
+F48 
+{QUESTION}
+E, seguindo co seu marido/muller/parella, ¿cantas horas traballa normalmente á semana (no seu traballo principal)? Por favor, inclúa as horas extras, pagadas ou non.
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+¿Cal é o nivel de estudos máis alto obtido polo seu pai? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Sen estudos/analfabeto
+Estudos primarios sen rematar
+Certificado de escolaridade
+Ata 5 de EXB
+Antiga primaria completa
+EXB ou ESO
+Bacharelato elemental
+FP1 e Ensino Técnico Profesional ou equivalente
+Bacharelato superior, BUP ou equivalente
+FP2 ou equivalente
+Estudos superiores de 2 o 3 anos (en centros de estudos no regulamentados)
+Arquitecto o enxeñeiro técnico
+Diplomado doutras escolas universitarias ou equivalente
+Arquitecto e enxeñeiro superior
+Licenciado
+Estudos de postgró ou especialización
+Doutoramento
+
+F50 
+{QUESTION}
+Cando vostede tiña 14 anos, ¿traballaba o seu pai como traballador por conta allea, traballador por conta propia ou non taballaba daquela?
+
+{ANSWERS}
+Traballo remunerado por conta allea 
+Traballo remunerado por conta propia 
+Non traballaba 
+Pai morto/ ausente cando el/ela tiña 14 anos 
+
+F51 
+{QUESTION}
+¿Cantos empregados tiña seu pai ó seu cargo? 
+
+{ANSWERS}
+
+F52 
+{QUESTION}
+¿Era o seu pai responsable de supervisar o traballo doutros empregados? 
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+E, seguindo co seu pai, ¿como definiría o cargo ou posto do seu traballo principal?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+¿Cal das descripcións desta tarxeta describen mellor o tipo de traballo que facía seu pai cando vostede tiña 14 anos?
+
+{ANSWERS}
+Ocupacións profesionais e técnicas como: médico – profesor – enxeñeiro – artista – director financeiro 
+Ocupacións de alta administración como: executivo de banca – executivo dunha gran empresa – alto cargo da Administración Pública – delegado sindical 
+Traballos de oficina como: secretario – administrativo – contable 
+Comerciais como: director de ventas – propietario dunha tenda – dependente dunha tenda – axente de seguros 
+Ocupacións relacionadas co sector servizos como: propietario dun restaurante – axente de policía – camareiro – coidador – perruqueiro – forzas armadas 
+Traballador cualificado como: capataz – mecánico – copista – torneiro ou fresador – electricista 
+Traballador semi-cualificado como: albañil – conductor de autobús – operario nunha fábrica de conservas – carpinteiro – traballador de metalurxia - panadeiro 
+Traballador non cualificado como: peón – mozo de carga ou descargador – traballador de fábrica non cualificado 
+Traballos agrícolas como: traballador agrícola ou gandeiro – xornaleiro - conductor de tractores– pescador 
+
+F55 
+{QUESTION}
+¿Cal é o nivel de estudos máis alto obtido pola súa nai? Por favor, empregue esta tarxeta.
+
+{ANSWERS}
+Sen estudos/analfabeto
+Estudos primarios sen rematar
+Certificado de escolaridade
+Ata 5 de EXB
+Antiga primaria completa
+EXB ou ESO
+Bacharelato elemental
+FP1 e Ensino Técnico Profesional ou equivalente
+Bacharelato superior, BUP ou equivalente
+FP2 ou equivalente
+Estudos superiores de 2 o 3 anos (en centros de estudos no regulamentados)
+Arquitecto o enxeñeiro técnico
+Diplomado de outras escolas universitarias ou equivalente
+Arquitecto e enxeñeiro superior
+Licenciado
+Estudos de postgró ou especialización
+Doutoramento
+
+F56 
+{QUESTION}
+Cando vostede tiña 14 anos, ¿traballaba súa nai como traballadora por conta allea, traballadora por conta proia ou non traballaba daquela?
+
+{ANSWERS}
+Traballo remunerado por conta allea 
+Traballo remunerado por conta propia 
+Non traballaba 
+Madre morta/ausente cando el/ela tiña 14 anos 
+
+F57 
+{QUESTION}
+¿Cantos empregados tiña súa nai ó seu cargo? 
+
+{ANSWERS}
+
+F58 
+{QUESTION}
+¿Era a súa nai responsable de supervisar o traballo doutros empregados? 
+
+{ANSWERS}
+
+F59 
+{QUESTION}
+E, seguindo coa súa nai, ¿como definiría o cargo ou posto do seu traballo principal?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+¿Cal das descricións de esta tarxeta describen mellor o tipo de traballo que facía cando vostede tiña 14 anos?
+
+{ANSWERS}
+Ocupacións profesionais e técnicas como: médico – profesora – enxeñeira – artista – directora financeira 
+Ocupacións de alta administración como: executiva de banca – executiva dunha gran empresa – alto cargo da Administración Pública – delegada sindical 
+Traballos de oficina como: secretaria – administrativa – contable 
+Comerciais como: directora de ventas – propietaria dunha tenda – dependenta dunha tenda – axente de seguros 
+Ocupacións relacionadas co sector servizos como: propietaria dun restaurante – axente de policía – camareira – coidadora – perruqueira – forzas armadas 
+Traballadora cualificada como: capataz – mecánica – copista – torneira ou fresadora – electricista 
+Traballadora semi-cualificada como: albañil – conductora de autobús – operaria nunha fábrica de conservas – carpinteira – traballadora de metalurxia - panadeira 
+Traballadora non cualificada como: peón – moza de carga ou descargadora – traballadora de fábrica non cualificada 
+Traballos agrícolas como: traballadora agrícola ou gandeira – xornaleira - conductora de tractores– pescadora 
+
+F61 
+{QUESTION}
+Nos últimos doce meses, ¿asistíu vostede a algún curso ou conferencia para mellorar os seus coñecementos ou as súas habilidades laborais? 
+
+{ANSWERS}
+
+F62
+{QUESTION}
+¿Podo preguntarlle cal é o seu estado civil? ¿Cal das seguintes descripciones nesta TARXETA correspóndese co seu estado actual?
+
+{ANSWERS}
+Casado/a
+Inscrito/a como parella de feito
+Separado/a (legalmente aínda casado)
+Separado/a (aínda inscrito/a como parella de feito)
+Divorciado/a
+Viúvo/a
+Anteriormente inscrito/a como parella de feito, agora disolta
+Anteriormente inscrito/a como parella de feito, a parella morreu
+Nunca casado/a nin inscrito/a como parella de feito
+
+F63 
+{QUESTION}
+¿Vive vostede actualmente co seu marido?
+
+{ANSWERS}
+Si 
+Non 
+
+F64 
+{QUESTION}
+¿Vive vostede actualmente en parella?
+
+{ANSWERS}
+Si 
+Non 
+
+F66 
+{QUESTION}
+¿Permíteme facer unha verificación? ¿Viviu algunha vez en parella sen estar casado con esa persona?
+
+{ANSWERS}
+Si 
+Non 
+
+F68 
+{QUESTION}
+¿Permíteme facer unha verificación? ¿Estivo vostede divorciado algunha vez?
+
+{ANSWERS}
+Si 
+Non 
+
+F70 
+{QUESTION}
+¿Tivo Vostede algunha vez fillos (sexan seus ou da súa parella, incluíndo fillos adoptados ou en acollida) viviendo na casa? 
+
+{ANSWERS}
+
+F71 
+{QUESTION}
+¿Ten vostede teléfono fixo no seu domicilio?
+
+{ANSWERS}
+Si
+Non
+
+F72 
+{QUESTION}
+¿Ten teléfono móbil propio?
+
+{ANSWERS}
+Si
+Non
+
+F73 
+{QUESTION}
+¿Emprega algunha vez internet para facer chamadas telefónicas desde a súa casa?
+
+{ANSWERS}
+Si
+Non
+ (Non ten internet na casa)
+

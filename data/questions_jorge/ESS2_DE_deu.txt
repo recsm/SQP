@@ -1,0 +1,1949 @@
+﻿A1
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, fernzusehen? Bitte sagen Sie es mir anhand von Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A2
+{QUESTION}
+Und wie viel von dieser Zeit verbringen Sie damit, sich Nachrichten oder Sendungen über Politik und aktuelle politische Ereignisse anzusehen? Bitte benutzen Sie dazu wieder die Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A3
+{QUESTION}
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, Radio zu hören? Sagen Sie es mir bitte wieder anhand von Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A4
+{QUESTION}
+Und wie viel Zeit von dieser Zeit verbringen Sie damit, sich Nachrichten oder Sendungen über Politik und aktuelle politische Ereignisse anzuhören? Bitte sagen Sie es mir nochmals anhand von Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A5
+{QUESTION}
+Und wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt damit, Zeitung zu lesen? Bitte benutzen Sie wieder Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A6
+{QUESTION}
+Und wie viel Zeit von dieser Zeit verbringen Sie damit, Artikel über Politik und aktuelle politische Ereignisse zu lesen? Bitte sagen Sie es mir nochmals anhand von Liste 1.
+
+{ANSWERS}
+Gar keine Zeit 
+Weniger als eine 1/2 Stunde 
+1/2 bis zu 1 Stunde 
+Mehr als 1, bis zu 1 1/2 Stunden 
+Mehr als 1 1/2, bis zu 2 Stunden 
+Mehr als 2, bis zu 2 1/2 Stunden 
+Mehr als 2 1/2, bis zu 3 Stunden 
+Mehr als 3 Stunden 
+
+A7
+{QUESTION}
+Bitte benutzen Sie jetzt Liste 2 und sagen Sie mir: Wie oft nutzen Sie das Internet, das World Wide Web oder E-Mail für private Zwecke, egal ob zu Hause oder am Arbeitsplatz?
+
+{ANSWERS}
+Kein Zugang zu Hause oder am Arbeitsplatz 
+Nutze ich nie 
+Weniger als einmal im Monat 
+Einmal im Monat 
+Mehrmals im Monat 
+Einmal in der Woche 
+Mehrmals in der Woche 
+Täglich 
+
+A8
+{QUESTION}
+Bitte benutzen Sie jetzt Liste 3. Ganz allgemein gesprochen: Glauben Sie, dass man den meisten Menschen vertrauen kann, oder dass man im Umgang mit anderen Menschen nicht vorsichtig genug sein kann? Bitte sagen Sie es mir anhand dieser Skala von 0 bis 10. 0 bedeutet, dass man nicht vorsichtig genug sein kann, und 10 bedeutet, dass man den meisten Menschen vertrauen kann.
+
+{ANSWERS}
+0 Man kann nicht vorsichtig genug sein
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Den meisten Menschen kann man vertrauen
+
+A9
+{QUESTION}
+Bitte benutzen Sie Liste 4. Glauben Sie, dass die meisten Menschen versuchen, Sie auszunutzen, wenn sie die Gelegenheit dazu haben, oder versuchen die meisten Menschen, sich fair zu verhalten?
+
+{ANSWERS}
+0 Die meisten Menschen versuchen, mich auszunutzen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Die meisten Menschen versuchen, sich fair zu verhalten
+
+A10
+{QUESTION}
+Und glauben Sie, dass die Menschen meistens versuchen, hilfsbereit zu sein, oder dass die Menschen meistens auf den eigenen Vorteil bedacht sind? Bitte benutzen Sie dafür Liste 5.
+
+{ANSWERS}
+0 Die Menschen sind meistens auf den eigenen Vorteil bedacht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Die Menschen versuchen meistens, hilfsbereit zu sein
+
+{INTRO}
+Nun möchten wir Ihnen einige Fragen über Staat und Politik stellen.
+
+B1
+{QUESTION}
+Wie sehr interessieren Sie sich für Politik? Sind Sie...
+
+{ANSWERS}
+sehr interessiert
+ziemlich interessiert
+wenig interessiert
+oder überhaupt nicht interessiert? 
+
+B2
+{QUESTION}
+Wie oft erscheint Ihnen Politik so kompliziert, dass Sie gar nicht richtig verstehen, worum es eigentlich geht? Bitte benutzen Sie Liste 6.
+
+{ANSWERS}
+Nie 
+Selten 
+Manchmal 
+Ziemlich Häufig 
+Häufig 
+
+B3
+{QUESTION}
+Wie schwer oder leicht fällt es Ihnen, sich über politische Themen eine Meinung zu bilden? Bitte benutzen Sie Liste 7.
+
+{ANSWERS}
+Sehr schwer 
+Schwer 
+Weder schwer noch leicht 
+Leicht 
+Sehr leicht 
+
+B4
+{QUESTION}
+Bitte benutzen Sie Liste 8 und sagen Sie mir zu jeder öffentlichen Einrichtung oder
+Personengruppe, die ich Ihnen nenne, wie sehr Sie persönlich jeder einzelnen
+davon vertrauen. Verwenden Sie dazu diese Skala von 0 bis 10. 0 bedeutet, dass
+Sie dieser Einrichtung oder Personengruppe überhaupt nicht vertrauen, und 10
+bedeutet, dass Sie ihr voll und ganz vertrauen. Wie ist das mit ...dem Bundestag?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B5
+{QUESTION}
+…der Justiz? 
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B6
+{QUESTION}
+…der Polizei? 
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B7
+{QUESTION}
+…den Politikern?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B8
+{QUESTION}
+...den Parteien?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B9
+{QUESTION}
+…dem Europäischen Parlament?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B10
+{QUESTION}
+…den Vereinten Nationen?
+
+{ANSWERS}
+0 Vertraue überhaupt nicht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Vertraue voll und ganz
+
+B11
+{INTRO}
+Manche Menschen gehen heutzutage aus verschiedenen Gründen nicht zur Wahl.
+
+{QUESTION}
+Wie ist das bei Ihnen? Haben Sie bei der letzten Bundestagswahl im September 2002 gewählt?
+
+{ANSWERS}
+Ja
+Nein
+Nicht wahlberechtigt 
+
+B12A
+{QUESTION}
+Bei der Bundestagswahl konnten Sie ja zwei Stimmen vergeben. Die Erststimme für einen Kandidaten aus Ihrem Wahlkreis, die Zweitstimme für eine Partei. Welchem Kandidaten haben Sie Ihre Erststimme gegeben?
+
+{ANSWERS}
+SPD 
+CDU/CSU 
+Bündnis 90/Die Grünen 
+FDP 
+PDS
+Republikaner 
+NPD/DVU 
+Andere Partei 
+
+B12B
+{QUESTION}
+Und welche Partei haben Sie mit Ihrer Zweitstimme gewählt?
+
+{ANSWERS}
+SPD 
+CDU/CSU 
+Bündnis 90/Die Grünen 
+FDP 
+PDS 
+Republikaner 
+NPD/DVU 
+Andere Partei 
+
+{INTRO}
+Es gibt verschiedene Möglichkeiten, mit denen man versuchen kann, etwas in Deutschland zu verbessern oder zu verhindern, dass sich etwas verschlechtert. 
+
+B13
+{QUESTION}
+Haben sie im Verlauf der letzten 12 Monate irgendetwas davon unternommen? Haben Sie...  Kontakt zu einem Politiker oder einer Amtsperson auf Bundes-, Landes- oder Kommunalebene aufgenommen?
+
+{ANSWERS}
+Ja
+Nein
+
+B14
+{QUESTION}
+in einer politischen Partei oder Gruppierung mitgearbeitet?
+
+{ANSWERS}
+Ja
+Nein
+
+B15
+{QUESTION}
+in einer anderen Organisation oder in einem anderen Verband oder Verein mitgearbeitet?
+
+{ANSWERS}
+Ja
+Nein
+
+B16
+{QUESTION}
+ein Abzeichen oder einen Aufkleber einer politischen Kampagne getragen oder irgendwo befestigt?
+
+{ANSWERS}
+Ja
+Nein
+
+B17
+{QUESTION}
+sich an einer Unterschriftensammlung beteiligt?
+
+{ANSWERS}
+Ja
+Nein
+
+B17a
+{QUESTION}
+ein Bürgerbegehren oder Volksbegehren unterschrieben?
+
+{ANSWERS}
+Ja
+Nein
+
+B18
+{QUESTION}
+an einer genehmigten öffentlichen Demonstration teilgenommen?
+
+{ANSWERS}
+Ja
+Nein
+
+B19
+{QUESTION}
+bestimmte Produkte boykottiert?
+
+{ANSWERS}
+Ja
+Nein
+
+B20a
+{QUESTION}
+Gibt es eine politische Partei, der Sie näher stehen als allen anderen Parteien?
+
+{ANSWERS}
+Ja 
+Nein 
+
+B20b
+{QUESTION}
+Welcher?
+
+{ANSWERS}
+SPD
+CDU/CSU 
+Bündnis 90/Die Grünen 
+FDP 
+PDS 
+Republikaner 
+Andere Partei 
+
+B20c
+{QUESTION}
+Wie nahe stehen Sie dieser Partei? Fühlen Sie sich ihr... 
+
+{ANSWERS}
+sehr nahe
+ziemlich nahe
+nicht besonders nahe
+oder überhaupt nicht nahe 
+
+B21
+{QUESTION}
+Sind Sie Mitglied einer politischen Partei?
+
+{ANSWERS}
+Ja 
+Nein 
+
+B22
+{QUESTION}
+Welcher Partei?
+
+{ANSWERS}
+SPD 
+CDU/CSU 
+Bündnis 90/Die Grünen 
+FDP 
+PDS 
+Republikaner 
+Andere Partei 
+
+B23
+{INTRO}
+In der Politik spricht man manchmal von „links“ und „rechts“. 
+
+{QUESTION}
+Wo auf der Skala auf Liste 9 würden Sie sich selbst einstufen, wenn 0 für links steht und 10 für rechts?
+
+{ANSWERS}
+0 Links 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Rechts 
+
+B24
+{QUESTION}
+Wie zufrieden sind Sie - alles in allem - mit Ihrem gegenwärtigen Leben? Bitte antworten sie anhand von Liste 10. 0 bedeutet äußerst unzufrieden und 10 äußerst zufrieden.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B25
+{QUESTION}
+Und wie zufrieden sind Sie - alles in allem - mit der gegenwärtigen Wirtschaftslage in Deutschland? Verwenden Sie bitte wieder diese Liste.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B26
+{QUESTION}
+Wenn Sie nun einmal an die Leistungen der Bundesregierung in Berlin denken. Wie zufrieden sind Sie mit der Art und Weise, wie sie ihre Arbeit erledigt? Bitte benutzen Sie noch einmal Liste 10.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B27
+{QUESTION}
+Und wie zufrieden sind Sie - alles in allem - mit der Art und Weise, wie die Demokratie
+in Deutschland funktioniert? Bitte sagen Sie es mir noch einmal anhand von Liste 10.
+
+{ANSWERS}
+0 Äußerst unzufrieden
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst zufrieden
+
+B28
+{QUESTION}
+Bitte benutzen Sie Liste 11 und sagen Sie mir bitte, wie Sie - alles in allem – den derzeitigen Zustand des Bildungssystems in Deutschland einschätzen.
+
+{ANSWERS}
+0 Äußerst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst gut
+
+B29
+{QUESTION}
+Bitte benutzen Sie wieder Liste 11 und sagen Sie mir wie Sie - alles in allem – den derzeitigen Zustand des Gesundheitssystems in Deutschland einschätzen.
+
+{ANSWERS}
+0 Äußerst schlecht
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst gut
+
+B30
+{QUESTION}
+Bitte schauen Sie jetzt auf Liste 12 und sagen Sie mir, wie sehr Sie jeder der folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Der Staat sollte Maßnahmen ergreifen, um Einkommensunterschiede zu verringern.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+lehne ab 
+lehne stark ab
+
+B31
+{QUESTION}
+Schwule und Lesben sollten ihr Leben so führen dürfen,wie sie es wollen.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+lehne ab 
+lehne stark ab
+
+B32
+{QUESTION}
+Politische Parteien, die die Demokratie abschaffen wollen, sollten verboten werden.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+lehne ab 
+lehne stark ab
+
+B33
+{QUESTION}
+Man kann darauf vertrauen, dass die moderne Wissenschaft unsere Umweltprobleme lösen wird.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+lehne ab 
+lehne stark ab
+
+B34
+{QUESTION}
+Jetzt kommen wir zum Thema Europäische Union. Manche Leute sagen, dass die europäische Einigung weiter gehen sollte. Andere sagen, dass sie schon zu weit gegangen ist. Welche Zahl der Skala auf Liste 13 beschreibt Ihre Einschätzung am besten?
+
+{ANSWERS}
+0 Einigung ist schon zu weit gegangen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Einigung sollte weiter gehen
+
+{INTRO}
+Ich möchte Ihnen nun ein paar Fragen zu Menschen stellen, die aus anderen Ländern nach Deutschland kommen, um hier zu leben.
+
+B35
+{QUESTION}
+Zunächst geht es um die Zuwanderer, die derselben Volksgruppe oder ethnischen Gruppe angehören wie die Mehrheit der Deutschen. Wie vielen von ihnen sollte Deutschland erlauben, hier zu leben? Bitte benutzen Sie Liste 14. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben 
+einigen erlauben 
+ein paar wenigen erlauben 
+niemandem erlauben 
+
+B36
+{QUESTION}
+Wie ist das mit Zuwanderern, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die Mehrheit der Deutschen? Bitte benutzen Sie wieder Liste 14. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben
+einigen erlauben 
+ein paar wenigen erlauben 
+niemandem erlauben 
+
+B37
+{QUESTION}
+Und wie ist das mit Zuwanderern, die aus den ärmeren Ländern außerhalb Europas kommen? Bitte benutzen Sie nochmals Liste 14. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen und hier zu leben 
+einigen erlauben 
+ein paar wenigen erlauben 
+niemandem erlauben 
+
+B38
+{QUESTION}
+Was würden Sie sagen, ist es im Allgemeinen gut oder schlecht für die deutsche Wirtschaft, dass Zuwanderer hierher kommen? Bitte benutzen Sie Liste 15.
+
+{ANSWERS}
+0 Schlecht für die Wirtschaft
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 gut für die Wirtschaft
+
+B39
+{QUESTION}
+Und, wenn Sie Liste 16 benutzen, würden Sie sagen, dass das kulturelle Leben in Deutschland im Allgemeinen durch Zuwanderer untergraben oder bereichert wird?
+
+{ANSWERS}
+0 Kulturelles Leben wird untergraben
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Kulturelles Leben wird bereichert
+
+B40
+{QUESTION}
+Wird Deutschland durch Zuwanderer zu einem schlechteren oder besseren Ort zum Leben? Bitte benutzen Sie Liste 17.
+
+{ANSWERS}
+0 wird zu einem schlechteren Ort zum Leben
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 wird zu einem besseren Ort zum Leben
+
+{INTRO}
+Und nun möchte ich Ihnen ein paar Fragen zu Ihrer Person und zu Ihrem Leben stellen.
+
+C1
+{QUESTION}
+Alles in allem betrachtet, was würden Sie sagen, wie glücklich sind Sie? Bitte sagen Sie es mir anhand von Liste 18.
+
+{ANSWERS}
+0 Äußerst unglücklich
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Äußerst glücklich 
+
+C2
+{QUESTION}
+Wie oft treffen Sie sich mit Freunden, Verwandten oder privat mit Arbeitskollegen? Bitte benutzen Sie Liste 19.
+
+{ANSWERS}
+Nie 
+Weniger als einmal im Monat 
+Einmal im Monat 
+Mehrmals im Monat 
+Einmal in der Woche 
+Mehrmals in der Woche 
+Täglich 
+
+C3
+{QUESTION}
+Haben Sie jemanden, mit dem Sie über vertrauliche und persönliche Angelegenheiten reden können?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C4
+{QUESTION}
+Wenn Sie sich mit Gleichaltrigen vergleichen, wie oft nehmen Sie an geselligen Ereignissen oder Treffen teil? Bitte sagen Sie es mir anhand von Liste 20.
+
+{ANSWERS}
+Viel seltener als die meisten 
+Seltener als die meisten 
+Ungefähr gleich oft 
+Häufiger als die meisten 
+Viel häufiger als die meisten 
+
+C5
+{QUESTION}
+Sind Sie oder ein Mitglied Ihres Haushalts in den letzten fünf Jahren Opfer eines Einbruchs oder Überfalls geworden?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C6
+{QUESTION}
+Wie sicher fühlen Sie sich – oder würden Sie sich fühlen – wenn Sie nach Einbruch der Dunkelheit alleine zu Fuß in Ihrer Wohngegend unterwegs sind oder wären? Fühlen Sie sich – oder wie würden Sie sich fühlen...
+
+{ANSWERS}
+sehr sicher
+sicher
+unsicher
+oder sehr unsicher? 
+
+C7
+{QUESTION}
+Wie schätzen Sie - alles in allem - Ihren Gesundheitszustand ein? Würden Sie sagen, er ist...
+
+{ANSWERS}
+sehr gut
+gut
+durchschnittlich
+schlecht
+oder sehr schlecht? 
+
+C8
+{QUESTION}
+Werden Sie bei Ihren täglichen Aktivitäten in irgendeiner Weise von einer längeren Krankheit oder einer Behinderung, einem Gebrechen oder einer seelischen Krankheit beeinträchtigt? Wenn ja, gilt das stark oder nur bis zu einem gewissen Grad?
+
+{ANSWERS}
+Ja, stark 
+Ja, bis zu einem gewissen Grad 
+Nein 
+
+C9
+{QUESTION}
+Unabhängig davon, ob Sie Mitglied oder Angehöriger einer Kirche oder Religionsgemeinschaft sind, fühlen Sie sich einer bestimmten Religion oder Konfession zugehörig?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C10
+{QUESTION}
+Welche Religion oder Konfession ist das?
+
+{ANSWERS}
+Römisch-Katholisch 
+Evangelisch/Protestantisch (ohne weitere Angaben) 
+Griechisch- oder Russisch-orthodox 
+Andere christliche Konfession
+Jüdisch 
+Moslemisch/Islam 
+Östliche Religionsgemeinschaft (Buddhismus, Hinduismus, Sikh, Shinto, Tao)
+Andere, nicht-christliche Religionsgemeinschaft:
+Christlich, aber fühlt sich keiner spezifischen Religionsgemeinschaft zugehörig
+
+C11
+{QUESTION}
+Haben Sie sich früher einmal einer Religion oder Konfession zugehörig gefühlt?
+
+{ANSWERS}
+Ja
+Nein
+
+C12
+{QUESTION}
+Und welche Religion oder Konfession war das?
+
+{ANSWERS}
+Römisch-Katholisch 
+Evangelisch/Protestantisch (ohne weitere Angaben) 
+Griechisch- oder Russisch-orthodox 
+Andere christliche Konfession:
+Jüdisch 
+Moslemisch/Islam 
+Östliche Religionsgemeinschaft (Buddhismus, Hinduismus, Sikh, Shinto, Tao)
+Andere, nicht-christliche Religionsgemeinschaft:
+Christlich, aber fühlte sich keiner spezifischen Religionsgemeinschaft zugehörig
+
+C13
+{QUESTION}
+Unabhängig davon, ob Sie sich einer bestimmten Religion zugehörig fühlen, für wie religiös würden Sie sich selber halten? Bitte benutzen Sie Liste 21 für Ihre Antwort.
+
+{ANSWERS}
+0 Überhaup t nicht religiös
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Sehr religiös
+
+C14
+{QUESTION}
+Abgesehen von besonderen Anlässen wie Hochzeiten und Beerdigungen, wie oft gehen Sie derzeit zum Gottesdienst? Benutzen Sie bitte die Liste 22.
+
+{ANSWERS}
+Täglich 
+Häufiger als einmal in der Woche 
+Einmal in der Woche 
+Mindestens einmal im Monat 
+Nur an besonderen Feiertagen 
+Seltener 
+Nie 
+
+C15
+{QUESTION}
+Abgesehen von Gottesdiensten, wie oft beten Sie – wenn überhaupt? Bitte benutzen Sie dazu wieder Liste 22.
+
+{ANSWERS}
+Täglich 
+Häufiger als einmal in der Woche 
+Einmal in der Woche 
+Mindestens einmal im Monat 
+Nur an besonderen Feiertagen 
+Seltener 
+Nie 
+
+C16
+{QUESTION}
+Würden Sie sich selbst als Angehörige einer Bevölkerungsgruppe bezeichnen, die in Deutschland diskriminiert wird?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C17 
+{QUESTION}
+Aus welchen Gründen wird Ihre Gruppe diskriminiert?
+
+{ANSWERS}
+Hautfarbe 
+Nationalität 
+Religion 
+Sprache 
+Volksgruppe oder ethnische Gruppe 
+Alter 
+Geschlecht 
+Sexuelle Neigungen 
+Behinderung 
+Sonstige 
+
+C18
+{QUESTION}
+Sind Sie deutsche Staatsbürger?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C19
+{QUESTION}
+Welche Staatsangehörigkeit besitzen Sie?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Sind Sie in Deutschland geboren?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C21
+{QUESTION}
+In welchem Land sind Sie geboren?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Wann sind Sie zum ersten Mal nach Deutschland gekommen, um hier zu leben? Bitte sagen Sie es mir anhand von Liste 23.
+
+{ANSWERS}
+Innerhalb des letzten Jahres 
+Vor 1-5 Jahren 
+Vor 6-10 Jahren 
+Vor 11-20 Jahren 
+Vor über 20 Jahren 
+
+C23
+{QUESTION}
+Welche Sprache oder Sprachen sprechen Sie zu Hause (hier in Deutschland) am häufigsten?
+
+{ANSWERS}
+BIS ZU ZWEI SPRACHEN EINTRAGEN. WENN KEINE 2. 
+
+C24
+{QUESTION}
+Gehören Sie einer Volksgruppe oder ethnischen Gruppe an, die in Deutschland in der Minderheit ist?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C25
+{QUESTION}
+Ist Ihr Vater in Deutschland geboren?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C26
+{QUESTION}
+In welchem Land ist Ihr Vater geboren?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+Ist Ihre Mutter in Deutschland geboren?
+
+{ANSWERS}
+Ja 
+Nein 
+
+C28
+{QUESTION}
+In welchem Land ist Ihre Mutter geboren?
+
+{ANSWERS}
+
+
+{INTRO}
+Jetzt möchte ich Ihnen einige Fragen über Sie und andere Personen in Ihrem Haushalt stellen.
+
+F1
+{QUESTION}
+Wie viele Personen leben ständig in diesem Haushalt, Sie selbst eingeschlossen? Denken Sie dabei bitte auch an alle im Haushalt lebenden Kinder.
+
+{ANSWERS}
+
+F3
+{QUESTION}
+Sagen Sie mir bitte, in welchem Monat und in welchem Jahr Sie geboren sind?
+
+{ANSWERS}
+
+{INTRO}
+Ich hätte nun gerne einige Angaben zu den Personen, die außer Ihnen in diesem Haushalt leben. Beginnen Sie bitte mit der ältesten Person.
+
+F4
+{QUESTION}
+In welcher Beziehung steht Tom zu Ihnen? Bitte benutzen Sie Liste 40.
+
+{ANSWERS}
+Ehemann/Ehefrau/ Partner/Partnerin 
+Sohn/Tochter (einschl. Stief- oder adoptierte Kinder, Kinder des Partners/der Partnerin, Pflegekinder) 
+Vater/Mutter oder Schwiegervater/ Schwiegermutter, Vater/Mutter des Partners/der Partnerin, Stiefvater/Stiefmutter 
+Bruder/Schwester (einschl. Stief- oder adoptierte Geschwister, Pflegegeschwister) 
+Andere(r) Verwandte(r) 
+Andere, mit mir nicht verwandte Person 
+
+F5
+{QUESTION}
+Und nun wieder zu Ihnen. Was auf Liste 41 trifft am ehesten auf das Wohngebiet zu, in dem Sie leben?
+
+{ANSWERS}
+Großstadt 
+Vorort oder Randgebiet einer Großstadt 
+Stadt oder Kleinstadt 
+Dorf 
+Bauernhof oder Haus auf dem Land 
+
+F5a
+{QUESTION}
+Sind Sie oder ein anderes Mitglied des Haushalts Eigentümer dieser Wohnung oder dieses Hauses?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F5b
+{QUESTION}
+Wie viele Zimmer stehen Ihrem Haushalt zur Verfügung, Küche, Badezimmer und Toilette nicht mitgezählt?
+
+{ANSWERS}
+
+F6
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Sie haben? Bitte sagen Sie es mir anhand von Liste 42.
+
+{ANSWERS}
+Noch Schüler 
+Schule beendet ohne Abschluss 
+Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse 
+Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse 
+Fachhochschulreife (Abschluss einer Fachoberschule etc.) 
+Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife) 
+Anderen Schulabschluss, und zwar: 
+
+F6a
+{QUESTION}
+Welche Schule besuchen Sie?
+
+{ANSWERS}
+Hauptschule 
+Realschule 
+Gymnasium 
+Gesamtschule 
+
+F6b
+{QUESTION}
+In welche Klasse gehen Sie?
+
+{ANSWERS}
+
+F6c 
+{QUESTION}
+Welchen beruflichen Ausbildungsabschluss haben Sie? Was von Liste 42a trifft auf Sie zu?
+
+{ANSWERS}
+Beruflich-betriebliche Anlernzeit mit Abschlusszeugnis, aber keine Lehre
+Teilfacharbeiterabschluss
+Abgeschlossene gewerbliche oder landwirtschaftliche Lehre 
+Abgeschlossene kaufmännische Lehre 
+Berufliches Praktikum, Volontariat 
+Fachschulabschluss 
+Berufsfachschulabschluss, Berufsgrundbildungsjahr abgeschlossen 
+Meister-, Techniker- oder gleichwertiger Fachschulabschluss 
+Abgeschlossenes Studium an Fachhochschule (auch Abschluss einer Ingenieurschule), Schule des Gesundheitswesens 
+Hochschule/Universität: Zwischenprüfung, Vordiplom; Bachelor 
+Abgeschlossenes Studium an Hochschule, Universität, Akademie, Polytechnikum (Diplom, Magister, Master, Staatsexamen)
+Promotion; Habilitation 
+Anderen beruflichen Ausbildungsabschluss, und zwar: 
+Keinen beruflichen Ausbildungsabschluss 
+
+F6d
+{QUESTION}
+In welchem der Bereiche auf Liste 42b haben Sie Ihre höchste Qualifikation?
+
+{ANSWERS}
+Allgemeine Qualifikation oder kein spezieller Bereich 
+Kunst, Kunstgewerbe 
+Geisteswissenschaften - Sprachen, klassische Philologie, Geschichte, Theologie, etc.
+Technik, Maschinenbau, Architektur, Stadtplanung, Industrie, Handwerk, Baugewerbe,etc.
+Landwirtschaft, Forstwirtschaft 
+Lehrerausbildung und Bildungswesen 
+Naturwissenschaften, Mathematik, Informatik, etc. 
+Medizin, Gesundheitswesen, etc. 
+Wirtschaft, Handel, Management, Rechnungswesen, etc. 
+Sozialwissenschaften, Verhaltensforschung, öffentliche Verwaltung, Medien, Kultur, Sport- und Freizeitwissenschaften, etc.
+Justiz und Gerichtswesen 
+Dienstleistung – Lebensmittelhandel, Hauswirtschaft, Friseurgewerbe, etc.
+Öffentliche Ordnung und Sicherheit – Polizei, Bundeswehr, Feuerwehr, etc.
+Transport und Telekommunikation 
+
+F7
+{QUESTION}
+Wie viele Jahre haben sie insgesamt eine Schule besucht, inklusive den etwaigen Besuch einer Berufsschule oder Hochschule?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Bitte sehen Sie Liste 43 einmal durch, und sagen Sie mir alles, was davon in den letzten sieben Tagen auf Sie zutraf.
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (abhängig Beschäftigter, Selbständiger, mithelfender
+Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+Sonstiges 
+
+F8c
+{QUESTION}
+Was davon trifft am besten auf Ihre Situation (in den letzten sieben Tagen) zu?
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (abhängig Beschäftigter, Selbständiger, mithelfender
+Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz, aber keine aktive Suche chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+Sonstiges 
+
+F9
+{QUESTION}
+Darf ich noch einmal nachfragen: Haben Sie in den letzten sieben Tagen irgendeine bezahlte Tätigkeit (von einer Stunde oder mehr) ausgeübt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F10
+{QUESTION}
+Sind Sie jemals einer bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F11
+{QUESTION}
+In welchem Jahr sind Sie zum letzten Mal einer bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Sind Sie in Ihrem Hauptberuf oder in Ihrer bezahlten Tätigkeit…
+
+{ANSWERS}
+abhängig beschäftigt 
+selbständig 
+mithelfender Familienangehöriger 
+
+F13
+{QUESTION}
+Wie viele Beschäftigte haben Sie (falls überhaupt)?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Ist Ihr letztes Beschäftigungsverhältnis ...
+
+{ANSWERS}
+zeitlich unbefristet 
+zeitlich befristet 
+oder hatten Sie keinen Arbeitsvertrag? 
+
+F15
+{QUESTION}
+Wie viele Menschen sind in Ihrem Betrieb oder Ihrer Dienststelle beschäftigt – Sie selbst eingeschlossen?
+
+{ANSWERS}
+…weniger als 10 
+…10 bis 24 
+…25 bis 99 
+…100 bis 499 
+…oder 500 und mehr? 
+
+F16
+{QUESTION}
+Gehört es in Ihrem Hauptberuf zu Ihren Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F17
+{QUESTION}
+Wie viele sind das?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Ich lese jetzt eine Liste mit Aussagen über Ihr Arbeitsleben vor. 
+
+{QUESTION}
+Bitte sagen Sie mir, in welchem Maße Ihr Arbeitgeber oder Ihre Geschäftsleitung es zulässt, dass Sie an Ihrem Arbeitsplatz... entscheiden, wie Sie Ihre tägliche Arbeit organisieren?
+
+{ANSWERS}
+0 Kann/ konnte ich nicht beeinflusssen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Kann/konnte ich völlig eigenständig bestimmen
+
+F19
+{QUESTION}
+… strategische Entscheidungen über dieTätigkeit Ihres Betriebs oder Ihrer Dienststelle beeinflussen?
+
+{ANSWERS}
+0 Kann/ konnte ich nicht beeinflusssen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Kann/konnte ich völlig eigenständig bestimmen
+
+F19a
+{QUESTION}
+… Ihr Arbeitstempo selbst bestimmen oder verändern?
+
+{ANSWERS}
+0 Kann/ konnte ich nicht beeinflusssen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Kann/konnte ich völlig eigenständig bestimmen
+
+F20
+{QUESTION}
+Denken Sie bitte noch einmal an Ihren Hauptberuf: Wie viele Stunden pro Woche beträgt/betrug Ihre reguläre oder im Arbeitsvertrag festgelegte Arbeitszeit – ohne bezahlte oder unbezahlte Überstunden?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Wie viele Stunden arbeiten Sie normalerweise tatsächlich in einer Woche in Ihrem Hauptberuf, einschließlich bezahlter oder unbezahlter Überstunden?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Was ist die genaue Bezeichnung Ihres Hauptberufes?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Welche Tätigkeiten üben Sie überwiegend in Ihrem Hauptberuf aus?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für Ihren Hauptberuf erforderlich?
+
+F25
+{QUESTION}
+Was produziert oder macht der Betrieb oder die Dienststelle, für die Sie arbeiten, hauptsächlich?
+
+{ANSWERS}
+
+F25a
+{QUESTION}
+Bitte benutzen Sie nun Liste 44a und ordnen Sie Ihre berufliche Stellung nach dieser Liste ein.
+
+{ANSWERS}
+Arbeiter
+Ungelernte Arbeiter
+Angelernte Arbeiter
+Gelernte und Facharbeiter
+Vorarbeiter, Kolonnenführer, Brigadier
+Meister, Poliere
+
+Selbständiger Landwirt
+Landwirtschaftlich genutzte Fläche
+bis unter 10 ha
+ha bis unter 20 ha
+ha bis unter 50 ha
+
+Genossenschaftsbauer
+
+Angestellter
+Industrie- und Werkmeister im Angestelltenverhältnis
+Angestellte mit einfacher Tätigkeit (z.B. Verkäufer, Kontorist, Stenotypistin)
+Angestellte, die schwierige Aufgaben nach allgemeiner Anweisung selbständig erledigen (z.B. Sachbearbeiter, Buchhalter, technischer Zeichner)
+Angestellte, die selbständige Leistungen in verantwortungsvoller Tätigkeit erbringen (z.B. wissenschaftliche Mitarbeiter, Prokurist, Abteilungsleiter)
+Angestellte mit umfassenden Führungsaufgaben und Entscheidungsbefugnissen z.B. Direktor, Geschäftsführer, Vorstand größerer Betriebe und Verbände)
+
+Akademischer freier Beruf (z.B. Arzt mit eigener Praxis, Rechtsanwalt)
+1 Mitarbeiter oder allein
+2 bis 9 Mitarbeiter
+10 Mitarbeiter und mehr
+
+Mithelfender Familienangehöriger
+
+Beamter / Richter / Berufssoldat
+Beamte im einfachen Dienst (bis einschl. Oberamtsmeister)
+Beamte im mittleren Dienst (vom Assistenten bis einschl. Hauptsekretär/Amtsinspektor)
+Beamte im gehobenen Dienst (vom Inspektor bis einschl. Oberamtsmann/Oberamtsrat)
+Beamte im höheren Dienst, Richter (vom Regierungsrat aufwärts)
+
+Selbständiger in Handel, Gewerbe, Industrie, Dienstleistung u.
+1 Mitarbeiter oder allein
+2 bis 9 Mitarbeiter
+10 bis 49 Mitarbeiter
+50 Mitarbeiter und mehr
+
+In Ausbildung
+Kaufmännische / Verwaltungslehrlinge
+Gewerbliche Lehrlinge
+Haus- / Landwirtschaftliche Lehrlinge
+Beamtenanwärter / Beamte im Vorbereitungsdienst
+Praktikanten / Volontäre
+
+F26
+{QUESTION}
+Haben Sie in den letzten 10 Jahren für 6 Monate oder länger eine bezahlte Tätigkeit im Ausland ausgeübt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F27
+{QUESTION}
+Waren Sie jemals mehr als drei Monate arbeitslos und auf Arbeitssuche?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F28
+{QUESTION}
+Waren Sie einmal ununterbrochen 12 Monate lang oder länger arbeitslos?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F29
+{QUESTION}
+Ist das innerhalb der letzten 5 Jahre gewesen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F30
+{QUESTION}
+Sind Sie gegenwärtig oder waren Sie früher Mitglied einer Gewerkschaft oder einer ähnlichen Organisation? Wenn ja: sind Sie gegenwärtig oder waren Sie früher Mitglied?
+
+{ANSWERS}
+Ja, gegenwärtig 
+Ja, früher 
+Nein 
+
+F31
+{QUESTION}
+Bitte denken Sie einmal an das Einkommen aller Haushaltsmitglieder und an alle Einkommensarten, die der Haushalt bezieht. Was ist die wichtigste Einkommensquelle Ihres Haushaltes? Bitte sagen Sie es mir anhand von Liste 45.
+
+{ANSWERS}
+Löhne oder Gehälter 
+Einkommen aus selbständiger oder freiberuflicher Tätigkeit (Landwirtschaft ausgenommen) 
+Einkommen aus Landwirtschaft 
+Renten oder Pensionen 
+Arbeitslosengeld/-hilfe oder Abfindungen 
+andere Sozialleistungen (Sozialhilfe, Bafög usw.) oder Stipendien 
+Einkommen aus Vermögensanlagen, Ersparnissen, Versicherungen oder Grundbesitz
+Einkommen aus anderen Quellen 
+
+F32A
+{QUESTION}
+Bitte benutzen Sie Liste 46. Wenn Sie die Einkommen aus allen Quellen zusammenzählen: Welcher Buchstabe auf Liste 46 trifft für das gesamte Nettoeinkommen Ihres Haushalts zu? Gemeint ist die Summe, die sich aus Lohn, Gehalt, Einkommen aus selbständiger Tätigkeit, Rente oder Pension ergibt, jeweils nach Abzug der Steuern und Kranken- und Sozialversicherungsbeiträge. Rechnen sie bitte auch Einkommen aus Vermietung, Verpachtung, Geldanlagen und Einkünfte wie Kindergeld, Wohngeld, Sozialhilfe und sonstige Einkünfte hinzu. Wenn Sie die genaue Summe nicht wissen, schätzen Sie bitte. Sie können das wöchentliche, monatliche oder jährliche Nettoeinkommen in Euro angeben, so wie Sie es am besten wissen.
+
+{ANSWERS}
+WÖCHENTLICH ca.
+J weniger als 40 €
+R 40 bis unter 70 €
+C 70 bis unter 120 €
+M 120 bis unter 230 €
+F 230 bis unter 350 €
+S 350 bis unter 460 €
+K 460 bis unter 580 €
+P 580 bis unter 690 €
+D 690 bis unter 1.150 €
+H 1.150 bis unter 1.730 €
+U 1.730 bis unter 2.310 €
+N 2.310 € oder mehr
+
+F32B
+{QUESTION}
+Bitte benutzen Sie Liste 46. Wenn Sie die Einkommen aus allen Quellen zusammenzählen: Welcher Buchstabe auf Liste 46 trifft für das gesamte Nettoeinkommen Ihres Haushalts zu? Gemeint ist die Summe, die sich aus Lohn, Gehalt, Einkommen aus selbständiger Tätigkeit, Rente oder Pension ergibt, jeweils nach Abzug der Steuern und Kranken- und Sozialversicherungsbeiträge. Rechnen sie bitte auch Einkommen aus Vermietung, Verpachtung, Geldanlagen und Einkünfte wie Kindergeld, Wohngeld, Sozialhilfe und sonstige Einkünfte hinzu. Wenn Sie die genaue Summe nicht wissen, schätzen Sie bitte. Sie können das wöchentliche, monatliche oder jährliche Nettoeinkommen in Euro angeben, so wie Sie es am besten wissen.
+
+{ANSWERS}
+MONATLICH ca.
+J weniger als 150 €
+R 150 bis unter 300 €
+C 300 bis unter 500 €
+M 500 bis unter 1.000 €
+F 1.000 bis unter 1.500 €
+S 1.500 bis unter 2.000 €
+K 2.000 bis unter 2.500 €
+P 2.500 bis unter 3.000 €
+D 3.000 bis unter 5.000 €
+H 5.000 bis unter 7.500 €
+U 7.500 bis unter 10.000 €
+N 10.000 € oder mehr
+
+F32C
+{QUESTION}
+Bitte benutzen Sie Liste 46. Wenn Sie die Einkommen aus allen Quellen zusammenzählen: Welcher Buchstabe auf Liste 46 trifft für das gesamte Nettoeinkommen Ihres Haushalts zu? Gemeint ist die Summe, die sich aus Lohn, Gehalt, Einkommen aus selbständiger Tätigkeit, Rente oder Pension ergibt, jeweils nach Abzug der Steuern und Kranken- und Sozialversicherungsbeiträge. Rechnen sie bitte auch Einkommen aus Vermietung, Verpachtung, Geldanlagen und Einkünfte wie Kindergeld, Wohngeld, Sozialhilfe und sonstige Einkünfte hinzu. Wenn Sie die genaue Summe nicht wissen, schätzen Sie bitte. Sie können das wöchentliche, monatliche oder jährliche Nettoeinkommen in Euro angeben, so wie Sie es am besten wissen.
+
+{ANSWERS}
+JÄHRLICH ca.
+J weniger als 1.800 €
+R 1.800 bis unter 3.600 €
+C 3.600 bis unter 6.000 €
+M 6.000 bis unter 12.000 €
+F 12.000 bis unter 18.000 €
+S 18.000 bis unter 24.000 €
+K 24.000 bis unter 30.000 €
+P 30.000 bis unter 36.000 €
+D 36.000 bis unter 60.000 €
+H 60.000 bis unter 90.000 €
+U 90.000 bis unter 120.000 €
+N 120.000 € oder mehr
+
+F32a
+{QUESTION}
+Wieviel ungefähr tragen Sie persönlich zum Haushaltseinkommen bei? Bitte benutzen Sie Liste 47.
+
+{ANSWERS}
+Nichts 
+Sehr wenig 
+Weniger als die Hälfte 
+Etwa die Hälfte 
+Mehr als die Hälfte 
+Sehr viel 
+Alles 
+
+F33
+{QUESTION}
+Was auf Liste 48 beschreibt am besten, wie Sie Ihr gegenwärtiges Haushaltseinkommen beurteilen? Mit dem gegenwärtigen Einkommen kann ich wir...
+
+{ANSWERS}
+bequem leben 
+zurechtkommen 
+nur schwer zurechtkommen 
+nur sehr schwer zurechtkommen 
+
+F34
+{QUESTION}
+Wenn Sie aus irgendwelchen Gründen in ernsten finanziellen Schwierigkeiten stecken würden und Geld leihen müssten, um über die Runden zu kommen, wie schwierig oder leicht wäre das für Sie? Bitte benutzen Sie Liste 49.
+
+{ANSWERS}
+Sehr schwierig 
+Ziemlich schwierig 
+Weder leicht noch schwierig 
+Ziemlich leicht 
+Sehr leicht 
+
+F36
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr Ehemann hat? Bitte sagen Sie es mir anhand von Liste 50.
+
+{ANSWERS}
+Noch Schüler 
+Schule beendet ohne Abschluss 
+Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse 
+Fachhochschulreife (Abschluss einer Fachoberschule etc.) 
+Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife) 
+Anderen Schulabschluss, und zwar:
+
+F36a
+{QUESTION}
+Welchen beruflichen Ausbildungsabschluss hat Ihr Ehemann? Was von Liste 50a trifft auf ihn zu?
+
+{ANSWERS}
+Beruflich-betriebliche Anlernzeit mit Abschlusszeugnis, aber keine Lehre
+Teilfacharbeiterabschluss
+Abgeschlossene gewerbliche oder landwirtschaftliche Lehre 
+Abgeschlossene kaufmännische Lehre 
+Berufliches Praktikum, Volontariat 
+Fachschulabschluss 
+Berufsfachschulabschluss, Berufsgrundbildungsjahr abgeschlossen 
+Meister-, Techniker- oder gleichwertiger Fachschulabschluss 
+Abgeschlossenes Studium an Fachhochschule (auch Abschluss einer Ingenieurschule), Schule des Gesundheitswesens
+Hochschule/Universität: Zwischenprüfung, Vordiplom; Bachelor 
+Abgeschlossenes Studium an Hochschule, Universität, Akademie, Polytechnikum (Diplom, Magister, Master, Staatsexamen)
+Promotion; Habilitation 
+Anderen beruflichen Ausbildungsabschluss, und zwar: 
+Keinen beruflichen Ausbildungsabschluss 
+
+F37a 
+{QUESTION}
+Bitte sehen Sie Liste 51 einmal durch. Welche der Beschreibungen auf dieser Liste trifft auf das zu, was Ihr Partner in den letzten 7 Tagen getan hat?
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz aber keine aktive Suche
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+ (Sonstiges) 
+Trifft nicht zu (kein Partner/keine Partnerin) 
+
+F37c
+{QUESTION}
+Und welche der Beschreibungen auf Liste 51 beschreibt seine Situation (in den letzten sieben Tagen) am besten?
+
+{ANSWERS}
+bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (Abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+arbeitslos und auf aktiver Suche nach einem Arbeitsplatz 
+arbeitslos, Wunsch nach einem Arbeitsplatz aber keine aktive Suche
+chronisch krank oder behindert 
+im Vorruhestand/Ruhestand/Frührente/Rente 
+Wehr- oder Zivildienst 
+Hausarbeit, Betreuung von Kindern oder anderen Personen 
+ (Sonstiges) 
+Trifft nicht zu (kein Partner/keine Partnerin) 
+
+F38
+{QUESTION}
+Darf ich noch einmal nachfragen: Hat Ihr Partner in den letzten sieben Tagen irgendeine bezahlte Tätigkeit (von einer Stunde oder mehr) ausgeübt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F39
+{QUESTION}
+Was ist die genaue Bezeichnung seines Hauptberufes oder seiner bezahlten Tätigkeit?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Welche Tätigkeiten übt er überwiegend in seinem Hauptberuf aus?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Welche Ausbildung oder Qualifikationen sind für den Hauptberuf Ihres Partners erforderlich?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+In seinem Hauptberuf ist er …
+
+{ANSWERS}
+abhängig beschäftigt 
+selbständig 
+mithelfender Familienangehöriger 
+
+F43
+{QUESTION}
+Wie viele Beschäftigte hat er (falls überhaupt welche)?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Gehört es in seinem Hauptberuf zu seinen Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F45
+{QUESTION}
+Wie viele sind das?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Ich lese jetzt eine Liste mit Aussagen über das Arbeitsleben Ihres Partner vor. 
+
+{QUESTION}
+Bitte sagen Sie mir, in welchem Maße der Arbeitgeber oder die Geschäftsleitung Ihres Partners es zulässt, dass er an seinem Arbeitsplatz... entscheidet, wie er seine tägliche Arbeit organisiert?
+
+{ANSWERS}
+0 kann er/sie nicht beeinflussen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 kann er/sie völlig eigenständig bestimmen
+
+F47
+{QUESTION}
+… strategische Entscheidungen über die Tätigkeit seines Betriebs oder seiner Dienst-stelle beeinflusst?
+
+{ANSWERS}
+0 kann er/sie nicht beeinflussen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 kann er/sie völlig eigenständig bestimmen
+
+F48
+{QUESTION}
+Wie viele Stunden arbeitet er normalerweise in einer Woche in seinem Hauptberuf, einschließlich bezahlter oder unbezahlter Überstunden?
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr Vater hat? Bitte sagen Sie es mir anhand von Liste 53.
+
+{ANSWERS}
+Schule beendet ohne Abschluss 
+Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse 
+Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse 
+Fachhochschulreife (Abschluss einer Fachoberschule etc.) 
+Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife) 
+Anderen Schulabschluss, und zwar:
+
+F49a
+{QUESTION}
+Welchen beruflichen Ausbildungsabschluss hat Ihr Vater? Was von Liste 53a trifft auf ihn zu?
+
+{ANSWERS}
+Beruflich-betriebliche Anlernzeit mit Abschlusszeugnis, aber keine Lehre 
+Teilfacharbeiterabschluss 
+Abgeschlossene gewerbliche oder landwirtschaftliche Lehre 
+Abgeschlossene kaufmännische Lehre 
+Berufliches Praktikum, Volontariat 
+Fachschulabschluss 
+Berufsfachschulabschluss, Berufsgrundbildungsjahr abgeschlossen 
+Meister-, Techniker- oder gleichwertiger Fachschulabschluss 
+Abgeschlossenes Studium an Fachhochschule (auch Abschluss einer Ingenieurschule), Schule des Gesundheitswesens 
+Hochschule/Universität: Zwischenprüfung, Vordiplom; Bachelor 
+Abgeschlossenes Studium an Hochschule, Universität, Akademie, Polytechnikum (Diplom, Magister, Master, Staatsexamen) 
+Promotion; Habilitation 
+Anderen beruflichen Ausbildungsabschluss, und zwar:
+Keinen beruflichen Ausbildungsabschluss 
+
+F50
+{QUESTION}
+Als Sie 14 Jahre alt waren, hat Ihr Vater da als abhängig Beschäftigter gearbeitet, war er selbständig oder ist er damals keiner bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+abhängig Beschäftigter 
+selbständig 
+keine bezahlte Tätigkeit 
+(Vater bereits verstorben/lebte nicht im Haushalt als Befragte(r) 14 war)
+
+F51
+{QUESTION}
+Wie viele Beschäftigte hatte er?
+
+{ANSWERS}
+Keine 
+1 bis 24 
+25 oder mehr 
+
+F52
+{QUESTION}
+Gehörte es zu seinen Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F53
+{QUESTION}
+Was war die genaue Bezeichnung seines Hauptberufes?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Welche der Beschreibungen auf Liste 54 trifft am besten auf die Berufstätigkeit Ihres Vaters als Sie 14 Jahre alt waren, zu?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwalt – Arzt – Wissenschaftler – Ingenieur 
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrer – Krankenpfleger – Physiotherapeut – Sozialarbeiter – Künstler – Musiker – Polizeibeamter (im höheren oder gehobenen Dienst) – Software-Entwickler 
+Mittlere Verwaltungs- und Dienstleistungsberufe wie: Sekretär – persönlicher Assistent – Büroangestellter – Telefonist – Hilfspfleger 
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und
+Koordination von Arbeit und Finanzen) wie: Finanzmanager – Geschäftsführer – Betriebsleiter 
+Gelernte technische und handwerkliche Berufe wie: Kfz-Mechaniker – Maschinenschlosser – Installateur – Drucker –
+Werkzeugmacher – Elektriker – Landwirt – Gärtner – Lokführer 
+Angelernte handwerkliche und Dienstleistungsberufe wie: Postangestellter – Maschinenarbeiter – Sicherheitsbediensteter– Hausmeister – Landarbeiter – Angestellter im Lebensmittelhandel – Empfangschef – Verkäufer
+Ungelernte handwerkliche und Dienstleistungsberufe wie: LKW-Fahrer – Lieferwagenfahrer – Reinigungskraft– Pförtner – Packer – Näher – Bote – Hilfsarbeiter – Kellner 
+Mittlere und untere Managementberufe wie: Büroleiter – Filialleiter im Einzelhandel – Filialleiter einer Bank – -
+Geschäftsführer eines landwirtschaftlichen Betriebes – Filialleiter einer Restaurantkette – Kaufhausdirektor – Gastwirt
+
+F55
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihre Mutter hat? Bitte sagen Sie es mir anhand
+von Liste 55.
+
+{ANSWERS}
+Schule beendet ohne Abschluss 
+Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse 
+Fachhochschulreife (Abschluss einer Fachoberschule etc.) 
+Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)
+Anderen Schulabschluss, und zwar: 
+
+F55a
+{QUESTION}
+Welchen beruflichen Ausbildungsabschluss hat Ihre Mutter? Was von Liste 55a trifft auf sie zu?
+
+{ANSWERS}
+Beruflich-betriebliche Anlernzeit mit Abschlusszeugnis, aber keine Lehre 
+Teilfacharbeiterabschluss 
+Abgeschlossene gewerbliche oder landwirtschaftliche Lehre 
+Abgeschlossene kaufmännische Lehre 
+Berufliches Praktikum, Volontariat 
+Fachschulabschluss 
+Berufsfachschulabschluss, Berufsgrundbildungsjahr abgeschlossen 
+Meister-, Techniker- oder gleichwertiger Fachschulabschluss 
+Abgeschlossenes Studium an Fachhochschule (auch Abschluss einer Ingenieurschule), Schule des Gesundheitswesens
+Hochschule/Universität: Zwischenprüfung, Vordiplom; Bachelor 
+Abgeschlossenes Studium an Hochschule, Universität, Akademie, Polytechnikum (Diplom, Magister, Master, Staatsexamen)
+Promotion; Habilitation 
+Anderen beruflichen Ausbildungsabschluss, und zwar: 
+Keinen beruflichen Ausbildungsabschluss 
+
+F56
+{QUESTION}
+Als Sie 14 Jahre alt waren, hat Ihre Mutter da als abhängig Beschäftigte gearbeitet, war sie selbständig oder ist sie damals keiner bezahlten Tätigkeit nachgegangen?
+
+{ANSWERS}
+Abhängig beschäftig 
+Selbständig 
+Keine bezahlte Tätigkeit 
+(Mutter bereits verstorben/lebte nicht im Haushalt, als Befragte(r) 14 war)
+
+F57
+{QUESTION}
+Wie viele Beschäftigte hatte Sie?
+
+{ANSWERS}
+Keine 
+1 bis 24 
+25 oder mehr 
+
+F58
+{QUESTION}
+Gehörte es zu ihren Aufgaben, die Arbeit anderer Mitarbeiter zu beaufsichtigen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F59
+{QUESTION}
+Was war die genaue Bezeichnung ihres Hauptberufes?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Welche der Beschreibungen auf Liste 56 trifft am besten auf die Berufstätigkeit Ihrer Mutter als Sie 14 Jahre alt waren, zu?
+
+{ANSWERS}
+Klassische akademische und freie Berufe wie: Rechtsanwältin – Ärztin – Wissenschaftlerin – Ingenieurin
+Berufe mit akademischer oder Fachschulausbildung wie: Lehrerin – Krankenschwester – Physiotherapeutin – Sozialarbeiterin – Künstlerin – Musikerin – Polizeibeamtin (im höheren oder gehobenen Dienst)
+– Software-Entwicklerin 
+Mittlere Verwaltungs- und Dienstleistungsberufe wie: Sekretärin – persönliche Assistentin – Büroangestellte – Telefonistin – Hilfskrankenschwester 
+Höhere Verwaltungs- und Managementberufe (normalerweise verantwortlich für Planung, Organisation und und Koordination von Arbeit und Finanzen) wie: Finanzmanagerin – Geschäftsführerin – Betriebsleiterin
+Gelernte technische und handwerkliche Berufe wie: Kfz-Mechanikerin – Maschinenschlosserin – Installateurin – Druckerin – Werkzeugmacherin – Elektrikerin – Landwirtin – Gärtnerin – Lokführerin
+Angelernte handwerkliche und Dienstleistungsberufe wie: Postangestellte – Maschinenarbeiterin – Sicherheitsbedienstete– Hausmeisterin – Landarbeiterin – Angestellte im Lebensmittelhandel – Empfangsdame – Verkäuferin
+Ungelernte handwerkliche und Dienstleistungsberufe wie: LKW-Fahrerin –Lieferwagenfahrerin– Reinigungskraft– Pförtnerin – Packerin – Näherin – Botin – Hilfsarbeiterin – Kellnerin
+Mittlere und untere Managementberufe wie: Büroleiterin – Filialleiterin im Einzelhandel – Filialleiterin einer Bank – -
+Geschäftsführerin eines landwirtschaftlichen Betriebes – Filialleiterin einer Restaurantkette – Kaufhausdirektorin – Gastwirtin
+
+F61
+{QUESTION}
+Nun wieder zu Ihnen. Haben Sie während der letzten 12 Monate Kurse belegt oder Vorträge oder Veranstaltungen besucht, die Ihrer beruflichen Fort- und Weiterbildung dienten?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F62
+{QUESTION}
+Darf ich Sie nach Ihrem gegenwärtigen Familienstand fragen? Was auf Liste 57 trifft auf Sie zu?
+
+{ANSWERS}
+Verheiratet 
+Getrennt lebend (aber noch verheiratet) 
+Geschieden 
+Verwitwet 
+Ledig, nie verheiratet gewesen 
+
+F63
+{QUESTION}
+Leben Sie gegenwärtig mit Ihrem Ehemann zusammen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F64
+{QUESTION}
+Leben Sie gegenwärtig mit einem anderen Partner zusammen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F65
+{QUESTION}
+Leben Sie gegenwärtig mit einem Partner zusammen?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F66
+{QUESTION}
+Haben Sie jemals mit einem Partner zusammengelebt, mit dem der Sie nicht verheiratet waren?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F68
+{QUESTION}
+Sind Sie jemals geschieden worden?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F70
+{QUESTION}
+Haben Sie jemals mit eigenen oder adoptierten Kindern, Stiefkindern, Pflegekindern oder Kindern eines Partners in Ihrem Haushalt zusammengelebt?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F70a
+{QUESTION}
+Lebt Ihre Mutter noch?
+
+{ANSWERS}
+Ja 
+Nein 
+
+F70b
+{QUESTION}
+Lebt Ihr Vater noch?
+
+{ANSWERS}
+Ja 
+Nein 
+
+

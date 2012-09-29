@@ -1,0 +1,1782 @@
+﻿A1 
+{QUESTION}
+Egy átlagos munkanapon hány órát tölt TV nézéssel? Használja a válaszlapot. 
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát
+½ óra és 1 óra között
+Több, mint 1 órát, maximum 1 és ½ órát
+Több, mint 1 és ½ órát, maximum 2 órát
+Több, mint 2 órát, maximum 2 és ½ órát
+Több, mint 2 és 1/2 órát, maximum 3 órát
+Több, mint 3 órát
+
+A2
+{QUESTION}
+Egy átlagos munkanapon mennyi időt tölt hírműsorok és aktuális politikai vagy közéleti műsorok nézésével? Még mindig használja ezt a válaszlapot.
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát 
+½ óra és 1 óra között 
+Több, mint 1 órát, maximum 1 és ½ órát 
+Több, mint 1 és ½ órát, maximum 2 órát 
+Több, mint 2 órát, maximum 2 és ½ órát 
+Több, mint 2 és 1/2 órát, maximum 3 órát 
+Több, mint 3 órát 
+
+A3 
+{QUESTION}
+Egy átlagos munkanapon összesen mennyi időt tölt rádióhallgatással? Használja ugyanezt a válaszlapot.
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát 
+½ óra és 1 óra között 
+Több, mint 1 órát, maximum 1 és ½ órát 
+Több, mint 1 és ½ órát, maximum 2 órát 
+Több, mint 2 órát, maximum 2 és ½ órát 
+Több, mint 2 és 1/2 órát, maximum 3 órát 
+Több, mint 3 órát 
+
+A4 
+{QUESTION}
+Egy átlagos munkanapon mennyi időt tölt hírműsorok és aktuális politikai vagy közéleti műsorok hallgatásával a rádión keresztül ? Még mindig használja ezt a válaszlapot.
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát 
+½ óra és 1 óra között 
+Több, mint 1 órát, maximum 1 és ½ órát 
+Több, mint 1 és ½ órát, maximum 2 órát 
+Több, mint 2 órát, maximum 2 és ½ órát 
+Több, mint 2 és 1/2 órát, maximum 3 órát 
+Több, mint 3 órát 
+
+
+A5 
+{QUESTION}
+Egy átlagos munkanapon összesen mennyi időt tölt újságolvasással? Használja újra ezt a válaszlapot.
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát 
+½ óra és 1 óra között 
+Több, mint 1 órát, maximum 1 és ½ órát 
+Több, mint 1 és ½ órát, maximum 2 órát 
+Több, mint 2 órát, maximum 2 és ½ órát 
+Több, mint 2 és 1/2 órát, maximum 3 órát 
+Több, mint 3 órát 
+
+A6 
+{QUESTION}
+Ebből az időből mennyit tölt politikai vagy aktuális közéleti hírek olvasásával? Még mindig használja ezt a válaszlapot.
+
+{ANSWERS}
+Egyet sem
+Kevesebb, mint ½ órát 
+½ óra és 1 óra között 
+Több, mint 1 órát, maximum 1 és ½ órát 
+Több, mint 1 és ½ órát, maximum 2 órát 
+Több, mint 2 órát, maximum 2 és ½ órát 
+Több, mint 2 és 1/2 órát, maximum 3 órát 
+Több, mint 3 órát 
+
+A7 
+{QUESTION}
+Most ezt a válaszlapot használva: Milyen gyakran használja az internetet, világhálózatot vagy e-mailt magáncélokra – akár otthon vagy munkahelyén?
+
+{ANSWERS}
+Nincs internetelérhetőségem sem otthon, sem a munkahelyemen. 
+Soha sem használom. 
+Kevesebb, mint egyszer havonta. 
+Havonta egyszer. 
+Havonta többször. 
+Hetente egyszer. 
+Hetente többször. 
+Naponta. 
+
+A8
+{QUESTION}
+Mit gondol: az emberek többségében meg lehet bízni vagy soha nem lehetünk elég óvatosak, ami az embereket illeti. Az alábbi válaszlapon válassza ki válaszát a 0-tól 10-ig terjedő skálán, ahol a 0 azt jelenti, hogy nem lehetünk elég óvatosak, a 10 pedig, hogy az emberek megbízhatóak. Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Nem lehetünk elég óvatosak
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Az emberek többségében megbízhatunk
+
+A9
+{QUESTION}
+Mit gondol: Az emberek többsége kihasználná önt, ha lenne rá lehetősége vagy pedig próbálna becsületes maradni. Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Az emberek többsége megpróbálna kihasználni
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Az emberek többsége becsületes maradna.
+
+A10
+{QUESTION}
+Mit gondol: Az emberek általában segítőkészek próbálnak lenni vagy pedig főleg magukkal törődnek. Kérem, használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Az emberek fõleg magukkal törõdnek
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Az emberek általában segítõ-készek
+
+{INTRO}
+Most felteszünk néhány kérdést a politikáról és a kormányról.
+
+B1 
+{QUESTION}
+Mennyire érdeklődik a politika iránt?
+
+{ANSWERS}
+Nagyon
+eléggé
+alig
+vagy egyáltalán nem.
+
+B2 
+{QUESTION}
+Milyen gyakran tűnik önnek a politika annyira bonyolultnak, hogy nem igazán érti, miről van szó? Használja a válaszlapot.
+
+{ANSWERS}
+Soha. 
+Ritkán. 
+Néha. 
+Rendszerint. 
+Gyakran. 
+
+B3
+{QUESTION}
+Mennyire találja nehéznek vagy könnyűnek, hogy politikai kérdésekben saját véleményt alkosson? Használja a válaszlapot.
+
+{ANSWERS}
+Nagyon nehéz. 
+Nehéz. 
+Nem nehéz, de nem is könnyű. 
+Könnyű. 
+Nagyon könnyű. 
+
+B4
+{QUESTION}
+A válaszlapban, a 0-tól 10-ig terjedő skálán válassza ki mennyire bízik meg az intézményekben, amelyeket felolvasok. A 0 azt jelenti, hogy egyáltalán nem bízik meg benne, a 10 pedig azt, hogy teljesen megbízik benne. Először is… Szlovákia parlamentje
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B5 
+{QUESTION}
+… a jogrendszer 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B6 
+{QUESTION}
+… a rendőrség 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B7 
+{QUESTION}
+… a politikusok 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B8 
+{QUESTION}
+…politikai pártok 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B9
+{QUESTION}
+… az európai parlament 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B10
+{QUESTION}
+… az Egyesült Nemzetek Szövetsége 
+
+{ANSWERS}
+00 Egyáltalán nem bízom meg benne
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen megbízom benne
+
+B11 
+{INTRO}
+Néhány ember manapság nem választ különböző okokból kifolyólag. 
+
+{QUESTION}
+Ön választott a legutóbbi választásokon [2002. szeptember]?
+
+{ANSWERS}
+Igen 
+Nem 
+Nincs választójogom 
+
+B12 
+{QUESTION}
+Melyik pártra szavazott a legutóbbi választásokon?
+
+{ANSWERS}
+Hnutie za demokratické Slovensko (HZDS) – A Demokratikus Szlovákiáért Mozgalom 
+Slovenská demokratická a kresťanská únia (SDKÚ) - Szlovák Demokratikus és Keresztény Unió 
+SMER 
+Strana maďarskej koalície (SMK) – Magyar Koalíció Pártja (MKP) 
+Kresťanskodemokratické hnutie (KDH) – Keresztény-demokrata Mozgalom 
+Aliancia nového občana (ANO) – Az Új Polgár Szövetsége 
+Komunistická strana Slovenska (KSS) – Szlovákia Kommunista Pártja 
+Egyéb 
+
+{INTRO}
+Különböző módjai vannak annak, hogy egy ország ügyeit fellendítsük vagy megakadályozzuk, hogy a dolgok rosszabbodjanak. 
+
+B13 
+{QUESTION}
+Az elmúlt 12 hónapban tett valamit az alábbiakból? … Kapcsolatba lépett politikusokkal, kormánytagokkal vagy önkormányzati képviselőkkel?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B14 
+{QUESTION}
+Részt vett valamilyen politikai párt vagy valamilyen mozgalom munkájában?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B15
+{QUESTION}
+Részt vett valamilyen más szervezet vagy egyesület munkájában?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B16 
+{QUESTION}
+Hordott valamilyen kampányjelvényt vagy kifüggesztett valamilyen plakátot?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B17 
+{QUESTION}
+Aláírt valamilyen petíciót?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B18 
+{QUESTION}
+Részt vett valamilyen legális tüntetésen?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B19
+{QUESTION}
+Bojkottálta valamilyen termék megvételét? 
+
+{ANSWERS}
+Igen 
+Nem 
+
+B20a 
+{QUESTION}
+Van olyan politikai párt – tekintet nélkül arra, hogy hogyan szavazott – amelynek a programja közelebb áll önhöz, mint bármelyik másé?
+
+{ANSWERS}
+Igen
+Nem
+
+B20b 
+{QUESTION}
+Melyik az a párt?
+
+{ANSWERS}
+Hnutie za demokratické Slovensko (HZDS) – A Demokratikus Szlovákiáért Mozgalom
+Slovenská demokratická a kresťanská únia (SDKÚ) - Szlovák Demokratikus és Keresztény Unió
+SMER
+Strana maďarskej koalície (SMK) – Magyar Koalíció Pártja (MKP)
+Kresťanskodemokratické hnutie (KDH) – Keresztény-demokrata Mozgalom
+Aliancia nového občana (ANO) – Az Új Polgár Szövetsége
+Komunistická strana Slovenska (KSS) – Szlovákia Kommunista Pártja
+Egyéb 
+
+B20c 
+{QUESTION}
+Mennyire szimpatizál ezzel a párttal? …
+
+{ANSWERS}
+nagyon közel
+eléggé közel
+nem érzem magamhoz közel
+vagy egyáltalán nem érzem magamhoz közel? 
+
+B21 
+{QUESTION}
+Tagja valamelyik politikai pártnak?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B22 
+{QUESTION}
+Melyiknek?
+
+{ANSWERS}
+Hnutie za demokratické Slovensko (HZDS) – A Demokratikus Szlovákiáért Mozgalom 
+Slovenská demokratická a kresťanská únia (SDKÚ) - Szlovák Demokratikus és Keresztény Unió 
+SMER 
+Strana maďarskej koalície (SMK) – Magyar Koalíció Pártja (MKP) 
+Kresťanskodemokratické hnutie (KDH) – Keresztény-demokrata Mozgalom 
+Aliancia nového občana (ANO) – Az Új Polgár Szövetsége 
+Komunistická strana Slovenska (KSS) – Szlovákia Kommunista Pártja 
+Egyéb 
+
+B23 
+{INTRO}
+A politikában gyakran beszélünk jobboldalról és baloldalról.
+
+{QUESTION}
+Válassza ki a skálán, hogy hová sorolná magát. A 0 jelenti a baloldalt, a 10 a jobboldalt.
+
+{ANSWERS}
+00 Bal 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Jobb 
+
+B24 
+{QUESTION}
+Mindent figyelembe véve mennyire elégedett az életével jelenleg? Használja a skálát, ahol a 0 teljes elégedettlenséget, a 10 pedig teljes elégedettséget jelent. Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Teljesen elégedettlen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen elégedett 
+
+B25 
+{QUESTION}
+Egészében véve, mennyire elégedett az ország jelenlegi gazdasági helyzetével? Megint használja a skálát.
+
+{ANSWERS}
+00 Teljesen elégedettlen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen elégedett 
+
+B26 
+{QUESTION}
+Mennyire elégedett Szlovákia kormányának a munkájával? Újra használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Teljesen elégedettlen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen elégedett 
+
+B27 
+{QUESTION}
+Egészében véve mennyire elégedett azzal, ahogy a demokrácia működik Szlovákiában? Újra használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Teljesen elégedettlen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Teljesen elégedett 
+
+B28 
+{QUESTION}
+Mit gondol a jelenlegi iskolarendszerről Szlovákiában? Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Különösen rossz 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Különösen jó 
+
+B29 
+{QUESTION}
+Válassza ki a skálán, mit gondol a jelenlegi szlovákiai egészségügyről. Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Különösen rossz 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Különösen jó 
+
+B30
+{QUESTION}
+Válaszoljon, mennyire ért egyet a következő kijelentésekkel. A kormánynak tennie kellene valamit, hogy minimalizálja a
+bevételek közötti különbséget.
+
+{ANSWERS}
+Teljesen egyetértek
+Egyetértek
+Nem értek egyet, de nem is vitatom.
+Nem értek egyet
+Egyáltalán nem értek egyet
+
+B31
+{QUESTION}
+A homoszexuálisoknak és leszbikusoknak meg kell adni a lehetőséget, hogy úgy éljék az életüket, ahogy szeretnék.
+
+{ANSWERS}
+Teljesen egyetértek
+Egyetértek
+Nem értek egyet, de nem is vitatom.
+Nem értek egyet
+Egyáltalán nem értek egyet
+
+B32
+{QUESTION}
+Azokat a politikai pártokat, amelyek meg akarják dönteni a demokráciát be kellene tiltani.
+
+{ANSWERS}
+Teljesen egyetértek
+Egyetértek
+Nem értek egyet, de nem is vitatom.
+Nem értek egyet
+Egyáltalán nem értek egyet
+
+B33
+{QUESTION}
+A környezeti problémák megoldásában támaszkodhatunk a modern tudományra.
+
+{ANSWERS}
+Teljesen egyetértek
+Egyetértek
+Nem értek egyet, de nem is vitatom.
+Nem értek egyet
+Egyáltalán nem értek egyet
+
+B34 
+{QUESTION}
+Térjünk át az Európai Unióra. Egyesek azt gondolják, hogy az európai “egyesülésnek“ folytatódnia kellene. Mások azt gondolják, hogy már így is túl messze mentünk az “egyesülésben”. Jelölje ki a skálán az ön álláspontját. Használja ezt a válaszlapot.
+
+{ANSWERS}
+00 Már így is túlzott az egyesülés 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Az egyesülésnek folytatódnia kellene 
+
+{INTRO}
+Most néhány kérdés a hazánkban letelepedő külföldiekről.
+
+B35
+{QUESTION}
+A válaszlapot használva döntse el, hogy az országnak milyen mértékben kellene megengednie, hogy Szlovákiába külföldiek (azonos bőrszínű és nemzetiségű, mint az ország lakosainak többsége) érkezzenek és itt éljenek.
+
+{ANSWERS}
+Sokuknak meg kellene engedni 
+Néhánynak meg kellene engedni 
+Kevésnek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B36
+{QUESTION}
+És hogy látja ugyanezt, ha eltérű bőrszínű vagy nemzetiségű külföldiekről lenne szó? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Sokuknak meg kellene engedni 
+Néhánynak meg kellene engedni 
+Kevésnek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B37 
+{QUESTION}
+És hogy látja ezt, ha Európán kívüli szegény országok lakosairól lenne szó? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Sokuknak meg kellene engedni 
+Néhánynak meg kellene engedni 
+Kevésnek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B38 
+{QUESTION}
+Mit gondol: rossz vagy jó Szlovákia gazdaságára nézve, ha külföldiek telepednek le az országban? Használja a válaszlapot.
+
+{ANSWERS}
+00 A gazdaságra nézve rossz
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 A gazdaságra nézve jó 
+
+B39 
+{QUESTION}
+Mit gondol: általánosságban véve Szlovákia kulturális életét károsítja vagy gazdagítja-e, ha külföldiek telepednek le itt. Használja a skálát ezen a válaszlapon.
+
+{ANSWERS}
+00 A kulturális életet károsítja 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 A kulturális életet gazdagítja 
+
+B40 
+{QUESTION}
+Ha Szlovákiában külföldiek telepednek le, rosszabb vagy jobb lesz-e az élet itt? Használja a skálát ezen a válaszlapon.
+
+{ANSWERS}
+00 Rosszabb lesz az élet 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Jobb lesz az élet 
+
+{INTRO}
+És most néhány önnel és az életével kapcsolatos kérdés.
+
+C1 
+{QUESTION}
+Mindent egybevetve, mit mondana, mennyire boldog ön? Kérem, használja ezt a válaszlapot.
+{ANSWERS}
+00 Kimondottan boldogtalan 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Kimondottan boldog 
+
+C2 
+{QUESTION}
+Milyen gyakran találkozik barátaival, rokonaival vagy munkatársaival szabadidejében?
+
+{ANSWERS}
+Soha 
+Havi egy alkalomnál kevesebbszer 
+Havonta egyszer 
+Havonta többször 
+Hetente egyszer 
+Hetente többször 
+Naponta 
+
+C3 
+{QUESTION}
+Van valakije, akivel megbeszélheti magán- és személyes ügyeit?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C4 
+{QUESTION}
+Ha összehasonlítja magát hasonló korú emberekkel, milyen gyakran vesz részt társadalmi eseményeken (szórakozás céljából, nem munkahelyi okokból)? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Sokkal kevesebbszer, mint a többségük. 
+Kevesebbszer, mint a többségük. 
+Körülbelül ugyanannyiszor. 
+Többször, mint a többségük. 
+Sokkal többször, mint a többségük. 
+
+C5 
+{QUESTION}
+Esett-e áldozatul rablásnak vagy egyéb fizikai erőszaknak ön vagy valamely családtagja az elmúlt öt évben?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C6 
+{QUESTION}
+Mennyire érzi vagy érezné magát biztonságban ezen a környéken sétálva egyedül sötétedés után? 
+
+{ANSWERS}
+Nagy biztonságban
+biztonságban érezné magát
+nem érezné magát biztonságban
+vagy végkép nem érezné magát biztonságban? 
+
+C7 
+{QUESTION}
+Általánosságban véve, milyen az egészségi állapota? … 
+
+{ANSWERS}
+Nagyon jó. 
+Jó. 
+Kielégítő. 
+Rossz. 
+Nagyon rossz. 
+
+C8 
+{QUESTION}
+Akadályozza önt mindennapos életében valamilyen fajta hosszantartó betegség vagy fogyatékosság, gyengeség vagy szellemi és lelki probléma? Ha igen, mennyire?
+
+{ANSWERS}
+Nagyon. 
+Valamennyire. 
+Semennyire. 
+
+C9 
+{QUESTION}
+Azonosulni tud valamilyen vallásal vagy felekezettel?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C10 
+{QUESTION}
+Melyikkel?
+
+{ANSWERS}
+Keresztény – nem specifikált 
+Római katolikus 
+Evangélikus 
+Görög katolikus 
+Pravoszláv 
+Jehova tanúi 
+Zsidó 
+Muszlim 
+Hindu 
+Buddhista 
+Egyéb protestáns  
+Egyéb katolikus 
+Egyéb keresztény 
+Egyéb keleti 
+Egyéb  
+
+C11 
+{QUESTION}
+Valaha hozzátartozónak tartotta magát valamilyen valláshoz vagy felekezethez?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C12 
+{QUESTION}
+Melyikhez?
+
+{ANSWERS}
+Keresztény – nem specifikált 
+Római katolikus 
+Evangélikus 
+Görög katolikus 
+Pravoszláv 
+Jehova tanúi 
+Zsidó 
+Muszlim 
+Hindu 
+Buddhista 
+Egyéb protestáns  
+Egyéb katolikus 
+Egyéb keresztény 
+Egyéb keleti 
+Egyéb  
+
+C13 
+{QUESTION}
+Tekintet nélkül arra, hogy tagja-e valamilyen felekezetnek, mennyire tartja magát vallásosnak? Használja a skálát a válaszlapon.
+
+{ANSWERS}
+00 Egyáltalán nem vallásos 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Nagyon vallásos 
+
+C14 
+{QUESTION}
+Rendhagyó alkalmakat leszámítva (mint például esküvők vagy temetések), milyen gyakran vesz manapság részt egyházi szertartásokon? Használja a válaszlapot.
+
+{ANSWERS}
+Naponta. 
+Többször, mint egyszer egy héten. 
+Hetente egyszer. 
+Legalább havonta egyszer. 
+Csak különleges ünnepeken. 
+Még ritkábban. 
+Soha. 
+
+C15 
+{QUESTION}
+Az egyházi szertástoskat leszámítva, milyen gyakran imádkozik?
+
+{ANSWERS}
+Naponta. 
+Többször, mint egyszer egy héten. 
+Hetente egyszer. 
+Legalább havonta egyszer. 
+Csak egyházi ünnepeken. 
+Még ritkábban. 
+Soha. 
+
+C16 
+{QUESTION}
+Mit gondol: Diszkriminálva van ön valamilyen módon Szlovákiában?
+
+{ANSWERS}
+Igen. 
+Nem. 
+
+C17 
+{QUESTION}
+Milyen szempontból diszkriminálják önt?
+
+{ANSWERS}
+Bőrszín vagy faj. 
+Állampolgárság. 
+Vallás. 
+Nyelv. 
+Nemzetiség. 
+Kor. 
+Nem. 
+Szexualitás. 
+Fogyatékosság. 
+Egyéb. 
+
+C18 
+{QUESTION}
+Ön szlovák állampolgár?
+
+{ANSWERS}
+Igen. 
+Nem. 
+
+C19 
+{QUESTION}
+Mi az állampolgársága?
+
+{ANSWERS}
+
+C20 
+{QUESTION}
+Szlovákiában született?
+
+{ANSWERS}
+Igen. 
+Nem. 
+
+C21 
+{QUESTION}
+Melyik országban született?
+
+{ANSWERS}
+
+C22 
+{QUESTION}
+Mióta él Szlovákiában? Kérem, használja ezt a válaszlapot.
+
+{ANSWERS}
+A múlt évtől. 
+1-5 éve 
+6-10 éve 
+11-20 éve 
+Több, mint 20 éve. 
+
+C23 
+{QUESTION}
+Milyen nyelven vagy nyelveken beszél otthon a leggyakrabban?
+
+{ANSWERS}
+ÍRJON BE LEGFELJEBB 2 NYELVET
+
+C24 
+{QUESTION}
+Szlovákia valamely nemzetiségi kisebbségéhez tartozik?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C25 
+{QUESTION}
+Szlovákiában született az édesapja?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C26 
+{QUESTION}
+Melyik országban született az édesapja?
+
+{ANSWERS}
+
+C27 
+{QUESTION}
+Szlovákiában született az édesanyja?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C28 
+{QUESTION}
+Melyik országban született az édesanyja?
+
+{ANSWERS}
+
+{INTRO}
+Most rákérdeznék néhány önnel és családjával kapcsolatos adatra.
+
+F1 
+{QUESTION}
+Saját magát beleértve, hány ember – gyerekekkel együtt – él ebben a háztartásban rendszeresen?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Melyik évben született? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Milyen kapcsolatban áll önnel az illető? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Férj/feleség/partner 
+Gyermek (beleértve mostoha, örökbefogadott, fogadott, partner gyermeke)
+Szülő, após/anyós, partner szülője, mostohaszülő
+Testvér (beleértve mostoha, fogadott)
+Egyéb rokon 
+Egyéb nem-rokon 
+
+F5 
+{QUESTION}
+Melyik kifejezés jellemzi legjobban a helyet, ahol él?
+
+{ANSWERS}
+Nagyváros 
+Külváros 
+Kisebb város vagy kisváros 
+Falu 
+Farm vagy vidéki otthon 
+
+F5a 
+{QUESTION}
+Valamelyik családtagnak a tulajdona ez az otthon?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F5b 
+{QUESTION}
+Hány helység van használatban a háztartásban a konyhákon, fürdőszobákon és WC-ken kívül?
+
+{ANSWERS}
+
+F6 
+{QUESTION}
+Milyen a legmagasabb végzettsége? Kérem, használja ezt a válaszlapot.
+
+{ANSWERS}
+Befejezetlen kötelező iskolalátogatás
+Befejezetlen alapiskola
+Alapiskola
+Középiskola érettségi nélkül (tanonciskola) 
+Középiskola érettségivel
+Felépítményi oktatás
+Főiskola – bakalárképzés
+Főiskola,egyetem - magiszteri képzés
+Posztgraduális, tudományos képzés
+Egyéb 
+
+F6a 
+{QUESTION}
+Melyik területen érte el legmagasabb végzettségét?
+
+{ANSWERS}
+Általános, nem specializált 
+Művészeti – képző- vagy iparművészet 
+Humán terület – nyelvek, történelem, teológia stb. 
+Műszaki, beleértve az építészetet, tervezést, ipart stb. 
+Mező- és erdőgazdaság, vízgazdaság (halászat) 
+Tanári és oktatói 
+Természettudományok, matematika, informatika stb. 
+Egészségügy, egészségügyi szolgáltatások, gondozás stb. 
+Közgazdász, üzlet, könyvelés, ügyintézés stb. 
+Közéleti tevékenység, közigazgatás, média, kultúra, sport és szabadidő stb. 
+Jogi 
+Szolgáltatások – vendéglátóipar, háztartástan, fodrászat stb. 
+Közrend és közbiztonság – rendőrség, katonaság, tűzoltóság stb. 
+Közlekedés és telekommunikáció 
+
+F7 
+{QUESTION}
+Hány év nappali iskolai képzésen vett részt? (Beleértve a kötelező iskolai képzést)
+
+{ANSWERS}
+
+F8a 
+{QUESTION}
+Melyik leírás jellemzi tevékenységét az utóbbi 7 napban? Válassza ki az összes jellemző választ. Használja ezt a válaszlapot.
+
+{ANSWERS}
+fizetett munkaviszony (esetleg szabadságon) (alkalmazott, vállalkozó, családi vállalkozásban dolgozó) 
+iskolai képzés, (nem munkaadó által fizetett) akár vakáció alatt is 
+munkanélküli, aktívan munkát kereső 
+munkanélküli, munkát akaró, de nem aktívan munkát kereső 
+hosszú ideje beteg vagy munkaképtelen 
+nyugdíjas 
+önkéntes munka vagy kötelező katonaság 
+házimunka, gyereknevelés, ápolás 
+(Egyéb) 
+
+F8c
+{QUESTION}
+És melyik leírás jellemzi legjobban tevékenységét az utóbbi 7 napban? Csak egyet válasszon. 
+
+{ANSWERS}
+fizetett munkaviszony (esetleg szabadságon) (alkalmazott, vállalkozó, családi vállalkozásban dolgozó) 
+iskolai képzés, (nem munkaadó által fizetett) akár vakáció alatt is 
+munkanélküli, aktívan munkát kereső 
+munkanélküli, munkát akaró, de nem aktívan munkát kereső 
+hosszú ideje beteg vagy munkaképtelen 
+nyugdíjas 
+önkéntes munka vagy kötelező katonaság 
+házimunka, gyereknevelés, ápolás 
+(Egyéb) 
+
+F9 
+{QUESTION}
+Csak az ellenőrzés kedvéért, végzett bármilyen fizetett munkát (akár egy órányit vagy többet) az elmúlt 7 napban?
+
+{ANSWERS}
+Igen
+Nem
+
+F10 
+{QUESTION}
+Végzett valaha fizetett munkát?
+
+{ANSWERS}
+Igen
+Nem
+
+F11 
+{QUESTION}
+Melyik évben volt utoljára fizetett munkaviszonyban?
+
+{ANSWERS}
+
+F12 
+{QUESTION}
+Főállásában …
+
+{ANSWERS}
+…alkalmazott (volt)
+vállalkozó (volt)
+vagy családi vállalkozásban dolgozik (dolgozott)?
+
+F13 
+{QUESTION}
+Hány alkamazottja (ha egyáltalán valamennyi) van?
+
+{ANSWERS}
+
+F14 
+{QUESTION}
+Munkaszerződése …
+
+{ANSWERS}
+…meghatározatlan időre szól (szólt) 
+vagy meghatározott időre szól (szólt) 
+vagy nincs (nem volt) munkaszerződése? 
+
+F15 
+{QUESTION}
+Önmagát is beleértve, kb. hány ember dolgozik munkahelyén? …
+
+{ANSWERS}
+10-nél kevesebb
+10 és 24 között
+25 és 99 között
+100 és 499 között
+vagy 500 vagy több? 
+
+F16 
+{QUESTION}
+Állásában vezetnie és felügyelnie kell más alkalmazottak munkáját?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F17 
+{QUESTION}
+Hány emberért felelős?
+
+{ANSWERS}
+
+F18
+{QUESTION}
+Felolvasok néhány dolgot a munkájáról. Használja ezt a válaszlapot, és mondja meg, hogy a vezetőség mennyi szabad kezet ad önnek munkahelyén. … Dönthet arról, hogy lesz megszervezve a napi munkája?
+
+{ANSWERS}
+00 Nem befolyásolhatom (-hattam)
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen befolyásolhatom (-hattam)
+
+F19 
+{QUESTION}
+Befolyásolhatja az intézmény döntéseit arról, hogy mit fog csinálni az intézmény?
+
+{ANSWERS}
+00 Nem befolyásolhatom (-hattam)
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen befolyásolhatom (-hattam)
+
+F19a 
+{QUESTION}
+Dönthet saját munkatempójáról?
+
+{ANSWERS}
+00 Nem befolyásolhatom (-hattam)
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen befolyásolhatom (-hattam)
+
+F20 
+{QUESTION}
+Főállásában heti hány órát dolgozik szerződése szerint, leszámítva a fizetett vagy fizetetlen túlórákat?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Eltekintve a szerződésébe foglalt munkaidőtől, hetente hány órát dolgozik igazán főállásában, beleértve a fizetett és fizetetlen túlórákat?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Mi munkahelyi beosztásának, funkciójának megnevezése?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Főállásában milyen fajta munkát végez leggyakrabban?
+
+{ANSWERS}
+
+F24 
+{QUESTION}
+Milyen képzés vagy végzettség szükséges munkájához?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+Mivel foglalkozik a cég, amelynél dolgozik ?
+
+{ANSWERS}
+
+F26 
+{QUESTION}
+Az elmúlt 10 évben végzett bármilyen fizetett munkát külföldön legalább hat hónapig?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F27 
+{QUESTION}
+Volt valaha munkanélküli és munkát kereső több, mint három hónapon keresztül?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F28 
+{QUESTION}
+Tartott bármelyik ilyen periódus 12 hónapig vagy tovább?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F29 
+{QUESTION}
+Előfordult bármelyik ilyen periódus az utóbbi 5 évben?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F30 
+{QUESTION}
+Tagja-e vagy volt-e valaha tagja szakszervezetnek vagy hasonló szervezetnek? HA IGEN, msot vagy a múltban?
+
+{ANSWERS}
+Igen, most 
+Igen, a múltban 
+Nem 
+
+F31 
+{QUESTION}
+Most vegye figyelembe háztartása összes tagjának bevételét és minden más bevételt, ami a háztartásba megy. Mi ennek a bevételnek a fő forrása? Válassza ki a listáról. Használja ezt a válaszlapot.
+
+{ANSWERS}
+Bérek és fizetések 
+Vállalkozásból származó bevétel (kivéve a mezőgazdálkodást) 
+Mezőgazdálkodásból származó bevétel 
+Nyugdíjak 
+Munkanélküli segély vagy lelépési díj 
+Egyéb szociális segélyek vagy támogatások 
+Befektetésből származó bevétel, megtakarított pénz, biztosítás vagy ingatlan 
+Egyéb bevételek 
+
+F32A 
+{QUESTION}
+Ha összeadja háztartása összes bevételét, melyik betű jellemzi a háztartás nettó bevételét? Ha nem tudja pontosan, becsülje fel. A válaszlapon válassza ki azt a periódust, amelyet a legjobban fel tud becsülni: hetente, havonta vagy évente.
+
+{ANSWERS}
+HETENTE körülbelül
+J Kevesebb, mint 1.600 Sk
+R 1.600 Sk és 2.800 Sk között
+C 2.800 Sk és 4.800 Sk között
+M 4.800 Sk és 9.200 Sk között
+F 9.200 Sk és 14.000 Sk között
+S 14.000 Sk és 18.400 Sk között
+K 18.400 Sk és 23.200 Sk között
+P 23.200 Sk és 27.600 Sk között
+D 27.600 Sk és 46.000 Sk között
+H 46.000 Sk és 69.200 Sk között
+U 69.200 Sk és 92.400 Sk között
+N 92.400 Sk vagy több
+
+
+F32B 
+{QUESTION}
+Ha összeadja háztartása összes bevételét, melyik betű jellemzi a háztartás nettó bevételét? Ha nem tudja pontosan, becsülje fel. A válaszlapon válassza ki azt a periódust, amelyet a legjobban fel tud becsülni: hetente, havonta vagy évente.
+
+{ANSWERS}
+HAVONTA Körülbelül
+J Kevesebb, mint 6.000 Sk
+R 6.000 Sk és 12.000 Sk között
+C 12.000 Sk és 20.000 Sk között
+M 20.000 Sk és 40.000 Sk között
+F 40.000 Sk és 60.000 Sk között
+S 60.000 Sk és 80.000 Sk között
+K 80.000 Sk és 100.000 Sk között
+P 100.000 Sk és 120.000 Sk között
+D 120.000 Sk és 200.000 Sk között
+H 200.000 Sk és 300.000 Sk között
+U 300.000 Sk és 400.000 Sk között
+N 400.000 Sk vagy több
+
+F32C
+{QUESTION}
+Ha összeadja háztartása összes bevételét, melyik betű jellemzi a háztartás nettó bevételét? Ha nem tudja pontosan, becsülje fel. A válaszlapon válassza ki azt a periódust, amelyet a legjobban fel tud becsülni: hetente, havonta vagy évente.
+
+{ANSWERS}
+ÉVENTE körülbelül
+J Kevesebb, mint 72.000 Sk
+R 72.000 Sk és 144.000 Sk között
+C 144.000 Sk és 240.000 Sk között
+M 240.000 Sk és 480.000 Sk között
+F 480.000 Sk és 720.000 Sk között
+S 720.000 Sk és 960.000 Sk között
+K 960.000 Sk és 1.200.000 Sk között
+P 1.200.000 Sk és 1.440.000 Sk között
+D 1.440.000 Sk és 2.400.000 Sk között
+H 2.400.000 Sk és 3.600.000 Sk között
+U 3.600.000 Sk és 4.800.000 Sk között
+N 4.800.000 Sk vagy több
+
+F32a 
+{QUESTION}
+A háztartás bevételének körülbelül milyen része származik öntől?
+
+Semmilyen 
+Nagyon kevés 
+Kevesebb, mint a fele 
+Körülbelül a fele 
+Több, mint a fele 
+Nagyon nagy része 
+Az egész 
+
+F33
+{QUESTION}
+Melyik jellemzés fejezi ki legjobban véleményét háztartása jelenlegi anyagi helyzetéről?
+
+{ANSWERS}
+Kényelmesen élünk jelenlegi jövedelmünkből 
+Kijövünk jelenlegi jövedelmünkből 
+Nehezen jövünk ki jelenlegi jövedelmünkből 
+Nagyon nehezen jövünk ki jelenlegi jövedelmünkből 
+
+F34 
+{QUESTION}
+Ha valamilyen okokból kifolyólag komoly anyagi nehézségekbe kerülne, és pénzt kellene kölcsönkérnie, hogy törlessze szükséges kiadásait, mennyire találná ezt nehéznek vagy könnyűnek? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Nagyon nehéznek 
+Elég nehéznek 
+Nem nehéznek, de nem is könnyűnek 
+Elég könnyűnek
+Nagyon könnyűnek 
+
+F36 
+{QUESTION}
+Mi férjének legmagasabb végzettsége? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Befejezetlen kötelező általános oktatás 
+Alapiskola (általános iskola) 
+Középiskola (tanonciskola) – érettségi nélkül 
+Középiskola – érettségivel 
+Főiskola -bakalárképzés 
+Főiskola, egyetem – magiszteri képzés 
+Posztgraduális, tudományos képzés
+
+F37a 
+{QUESTION}
+Melyik leírás jellemzi partnere tevékenységét az utóbbi 7 napban? Válassza ki az összes jellemző választ. Használja ezt a válaszlapot.
+
+{ANSWERS}
+fizetett munkaviszony (esetleg szabadságon) (alkalmazott, vállalkozó, családi vállalkozásban dolgozó) 
+iskolai képzés, (nem munkaadó által fizetett) akár vakáció alatt is 
+munkanélküli, aktívan munkát kereső 
+munkanélküli, munkát akaró, de nem aktívan munkát kereső 
+hosszú ideje beteg vagy munkaképtelen 
+nyugdíjas 
+önkéntes munka vagy kötelező katonaság 
+házimunka, gyereknevelés, ápolás 
+(Egyéb) 
+
+F37c 
+{QUESTION}
+És melyik leírás jellemzi legjobban partnere tevékenységét az utóbbi 7 napban? Csak egyet válasszon.
+
+{ANSWERS}
+fizetett munkaviszony (esetleg szabadságon) (alkalmazott, vállalkozó, családi vállalkozásban dolgozó)
+iskolai képzés, (nem munkaadó által fizetett) akár vakáció alatt is 
+munkanélküli, aktívan munkát kereső 
+munkanélküli, munkát akaró, de nem aktívan munkát kereső 
+hosszú ideje beteg vagy munkaképtelen 
+nyugdíjas 
+önkéntes munka vagy kötelező katonaság 
+házimunka, gyereknevelés, ápolás 
+(Egyéb) 
+
+F38 
+{QUESTION}
+Csak az ellenőrzés kedvéért, végzett bármilyen fizetett munkát (akár egy órányit vagy többet) az elmúlt 7 napban?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F39 
+{QUESTION}
+Mi a munkahelyi beosztásának, funkciójának a megnevezése?
+
+{ANSWERS}
+
+F40 
+{QUESTION}
+Főállásában milyen fajta munkát végez leggyakrabban?
+
+{ANSWERS}
+
+F41 
+{QUESTION}
+Milyen képzés vagy végzettség szükséges munkájához?
+
+{ANSWERS}
+
+F42 
+{QUESTION}
+Főállásában partnere …
+
+{ANSWERS}
+…alkalmazott
+vállalkozó
+vagy családi vállalkozásban dolgozik? 
+
+F43 
+{QUESTION}
+Hány alkamazottja (ha egyáltalán valamennyi) van?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+Partnerének állásában vezetnie és felügyelnie kell más alkalmazottak munkáját?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F45 
+{QUESTION}
+Hány emberért felelős?
+
+{ANSWERS}
+
+F46
+{QUESTION}
+Felolvasok néhány dolgot partnere munkájáról. Használja ezt a válaszlapot, és mondja meg, hogy a
+vezetőség mennyi szabad kezet ad neki munkahelyén.… Dönthet arról, hogy lesz megszervezve a napi
+munkája?
+
+{ANSWERS}
+00 Nem befolyásolhatja
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen befolyásolhatja
+
+F47 
+{QUESTION}
+Befolyásolhatja az intézmény döntéseit arról, hogy mit fog csinálni az intézmény?
+
+{ANSWERS}
+00 Nem befolyásolhatja
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen befolyásolhatja
+
+F48 
+{QUESTION}
+Főállásában heti hány órát dolgozik partnere beleszámítva a fizetett vagy fizetetlen túlórákat?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Mi édesapjának legmagasabb végzettsége? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Befejezetlen kötelező általános oktatás 
+Alapiskola 
+Középiskola (tanonciskola) – érettségi nélkül 
+Középiskola érettségivel 
+Főiskola - bakalárképzés 
+Főiskola, egyetem – magiszteri képzés 
+Posztgraduális, tudományos képzés 
+
+F50 
+{QUESTION}
+Amikor ön 14 éves volt, apja alkalmazottként vagy vállalkozóként dolgozott vagy abban az időben nem dolgozott?
+
+{ANSWERS}
+Alkalmazott 
+Vállalkozó 
+Nem dolgozott 
+ (Az apa halott volt vagy nem élt akkor a válaszadóval egy háztartásban.) 
+
+F51 
+{QUESTION}
+Hány alkalmazottja volt?
+
+{ANSWERS}
+Semennyi 
+1 és 24 között 
+25 vagy több 
+
+F52 
+{QUESTION}
+Édesapjának vezetnie és felügyelnie kellettt más alkalmazottak munkáját?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F53 
+{QUESTION}
+Mi volt munkahelyi beosztásának, funkciójának megnevezése?
+
+{ANSWERS}
+
+F54 
+{QUESTION}
+Melyik meghatározás jellemzi legjobban apja munkáját, amikor ön 14 éves volt?
+
+{ANSWERS}
+Hagyományos szakma például: könyvelő – ügyvéd – orvos – tudós –általános mérnök / gépészmérnök / építőmérnök 
+Modern szakma például: tanár – ápoló – fizioterapeuta – szociális munkás – szociális előadó – művész – zenész –
+rendőr (őrmester vagy magasabb funkció) – software tervező 
+Tisztviselői és közvetítői állás például: titkár – személyi titkár – tisztviselő – hivatalnok – telefonos tanácsadó – segédápoló – óvodai nevelő 
+Igazgató vagy ügyintéző (általában felelős a munka és pénzügyek tervezéséért, szervezéséért és koordinálásáért)
+például: pénzügyi igazgató – vezérigazgató 
+Műszaki munka vagy szakmunka / mesterember például: autószerelő – géplakatos – hatósági ellenőr – vízvezeték-szerelő – nyomdász – szerszámlakatos – villanyszerelő - mezőgazdász –kertész – mozdonyvezető 
+Félgyakori manuális szakmák és szolgáltatások például: postai dolgozó – gépkezelő – biztonsági őr – házfelügyelő – mezőgazdasági munkás – vendéglátóipari segéd – recepciós – eladó 
+Gyakori manuális szakmák és szolgáltatások például: kamionsofőr – teherautósofőr –takarító – hordár – csomagoló – szabó – küldönc – kétkezi munkás – pincér – bárszemélyzet 
+Középvezető vagy osztályvezető például: irodamenedzser – üzleti igazgató – bankigazgató – mezőgazdasági ügyész – étteremvezető – raktárvezető – vendéglős 
+
+F55 
+{QUESTION}
+Mi anyjának legmagasabb végzettsége? Használja ezt a válaszlapot.
+
+{ANSWERS}
+Befejezetlen kötelező általános oktatás 
+Alapiskola 
+Középiskola (tanonciskola) – érettségi nélkül 
+Középiskola érettségivel 
+Főiskola - bakalárképzés 
+Főiskola, egyetem – magiszteri képzés 
+Posztgraduális, tudományos képzés 
+
+F56 
+{QUESTION}
+Amikor ön14 éves volt, anyja alkalmazottként vagy vállalkozóként dolgozott vagy abban az időben nem dolgozott?
+
+{ANSWERS}
+Alkalmazott 
+Vállalkozó 
+Nem dolgozott 
+ (Az anya halott volt vagy nem élt akkor a válaszadóval közös háztartásban..) 
+
+F57 
+{QUESTION}
+Hány alkalmazottja volt?
+
+{ANSWERS}
+Semennyi 
+1 és 24 között 
+25 vagy több 
+
+F58 
+{QUESTION}
+Anyjának vezetnie és felügyelnie kellettt más alkalmazottak munkáját?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F59 
+{QUESTION}
+Mi volt munkahelyi beosztásának, funciójának megnevezése?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Melyik meghatározás jellemzi legjobban anyja munkáját, amikor ön 14 éves volt?
+
+{ANSWERS}
+Hagyományos szakma például: könyvelő – ügyvéd – orvos – tudós –általános mérnök / gépészmérnök / építőmérnök 
+Modern szakma például: tanár – ápoló – fizioterapeuta – szociális munkás – szociális előadó – művész – zenész – rendőr (őrmester vagy magasabb funkció) – software tervező 
+Tisztviselői és közvetítői állás például: titkár – személyi titkár – tisztviselő – hivatalnok – telefonos tanácsadó – segédápoló – óvodai nevelő 
+Igazgató vagy ügyintéző (általában felelős a munka és pénzügyek tervezéséért, szervezéséért és koordinálásáért) például: pénzügyi igazgató – vezérigazgató 
+Műszaki munka vagy szakmunka / mesterember például: autószerelő – géplakatos – hatósági ellenőr – vízvezeték-szerelő – nyomdász – szerszámlakatos – villanyszerelő - mezőgazdász – kertész – mozdonyvezető 
+Félgyakori manuális szakmák és szolgáltatások például: postai dolgozó – gépkezelő – biztonsági őr – házfelügyelő – mezőgazdasági munkás – vendéglátóipari segéd – recepciós – eladó 
+Gyakori manuális szakmák és szolgáltatások például: kamionsofőr – teherautósofőr –takarító – hordár – csomagoló – szabó – küldönc – kétkezi munkás – pincér – bárszemélyzet 
+Középvezető vagy osztályvezető például: irodamenedzser – üzleti igazgató – bankigazgató – mezőgazdasági ügyész – étteremvezető – raktárvezető – vendéglős 
+
+F61 
+{QUESTION}
+Az utóbbi 12 hónapban résztvett valamilyen tanfolyamon vagy iskolázáson, hogy fejlessze tudását vagy szakértelmét?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F62 
+{QUESTION}
+Rákérdeznék jelenlegi családi állapotára. Melyik válasz érvényes önre?
+
+{ANSWERS}
+Házas 
+Külön élnek (de még házasok) 
+Elvált 
+Özvegy 
+Soha nem volt házas 
+
+F63 
+{QUESTION}
+Jelenleg férjével vagy feleségével él?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F64 
+{QUESTION}
+Jelenleg más partnerrel él?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F65 
+{QUESTION}
+Jelenleg partnerrel él?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F66 
+{QUESTION}
+Élt valaha olyan partnerrel, akivel nem volt házas?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F68 
+{QUESTION}
+Vált már el valaha?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F70 
+{QUESTION}
+Voltak valaha saját gyerekei, mostohagyerekei, örökbefogadott vagy fogadott gyerekei vagy élt-e az ön
+háztartásában partnerének gyereke?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F70a 
+{QUESTION}
+Anyja még életben van?
+
+{ANSWERS}
+Igen 
+Nem 
+
+F70b 
+{QUESTION}
+Apja még életben van?
+
+{ANSWERS}
+Igen 
+Nem 
+
+

@@ -1,0 +1,1811 @@
+﻿{INTRO}
+ De första frågorna gäller hur man följer med media. Försök under hela intervjun svara spontant (utan att fundera för mycket) och ganska snabbt enligt det alternativ som först känns rätt.
+
+A1
+{QUESTION}
+Hur mycket tid använder Ni totalt åt att titta på TV under en vanlig vardag? 
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A2
+{QUESTION}
+Och hur stor del av den tid som Ni tittar på TV ser Ni på nyheter eller program om politik och aktualiteter under en vanlig vardag? 
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A3
+{QUESTION}
+Hur mycket tid använder Ni totalt under en vanlig vardag åt att lyssna på radio? 
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A4
+{QUESTION}
+Och hur stor del av den tid som Ni lyssnar på radio hör Ni på nyheter eller program om politik och aktualiteter under en vanlig vardag? 
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A5
+{QUESTION}
+Hur mycket tid använder Ni totalt åt att läsa dagstidningar under en vanlig vardag? 
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A6
+{QUESTION}
+Och hur stor del av den här tiden som Ni använder för att läsa dagstidningar läser Ni om politik och aktuella samhällsfrågor under en vanlig vardag?
+
+{ANSWERS}
+Ingen tid alls 
+Under en ½ timme 
+Från en ½ timme till 1 timme 
+Mer än 1 timme, men högst 1½ timme 
+Mer än 1½ timme, men högst 2 timmar 
+Mer än 2 timmar, men högst 2½ timmar 
+Mer än 2½ timmar, men högst 3 timmar 
+Mer än 3 timmar 
+
+A7
+{QUESTION}
+Hur ofta använder Ni Internet, webben eller e-post, hemma eller på arbetsplatsen, för Ert privata bruk?  Internet-användning på biblioteket, läroanstalten eller på ett internetcafé räknas med. 
+
+{ANSWERS}
+Ingen Internet hemma eller på arbetsplatsen 
+Aldrig 
+Mindre än en gång i månaden 
+En gång i månaden 
+Flera gånger i månaden 
+En gång i veckan 
+Flera gånger i veckan 
+Varje dag 
+
+A8
+{QUESTION}
+Skulle Ni säga att man i allmänhet kan lita på de flesta människor eller att man inte kan vara nog försiktig när man har att göra med andra människor. Svara på en skala från 0 till 10, där 0 betyder att man inte kan vara nog försiktig och där 10 betyder att man kan lita på de flesta människor?
+
+{ANSWERS}
+0 Man kan inte vara nog försiktig 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Man kan lita på de flesta människor
+
+A9
+{QUESTION}
+Tror Ni att de flesta människor skulle försöka utnyttja Er om de fick chansen eller skulle de försöka vara ärliga och rättvisa?
+
+{ANSWERS}
+0 De flesta människor skulle försöka utnyttja mig 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 De flesta människor skulle försöka vara ärliga och rättvisa
+
+A10
+{QUESTION}
+Skulle Ni säga att människor för det mesta försöker vara hjälpsamma mot andra eller att de främst ser till sig själva?
+
+{ANSWERS}
+0 Människor ser främst till sig själva
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Människor försöker för det mesta vara hjälpsamma
+
+B1
+{QUESTION}
+Hur intresserad är Ni av politik:
+
+{ANSWERS}
+mycket intresserad
+ganska intresserad
+inte särskilt intresserad
+inte alls intresserad?
+
+B2
+{QUESTION}
+Hur ofta verkar politik så komplicerat att Ni inte riktigt förstår vad det handlar om? 
+
+{ANSWERS}
+Aldrig 
+Sällan 
+Ibland 
+Då och då 
+Ofta 
+
+B3
+{QUESTION}
+Hur svårt eller lätt tycker Ni att det är att ta ställning i politiska frågor? 
+
+{ANSWERS}
+Mycket svårt 
+Svårt 
+Varken svårt eller lätt 
+Lätt 
+Mycket lätt 
+
+B4
+{QUESTION}
+Berätta på en skala från noll till tio hur stor tillit Ni personligen har till var och en av följande institutioner. Noll betyder att Ni inte har någon tillit alls till den institutionen, 10 att Ni har full tillit: Finlands riksdag?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B5
+{QUESTION}
+Rättsväsendet (bl.a. tingsrätt, hovrätt, högsta domstolen)?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B6
+{QUESTION}
+Polisen?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B7
+{QUESTION}
+Politikerna?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B8
+{QUESTION}
+Politiska partierna?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B9
+{QUESTION}
+Europaparlamentet?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B10
+{QUESTION}
+FN (Förenta Nationerna)?
+
+{ANSWERS}
+0 Jag har ingen tillit alls 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har fullständig tillit
+
+B11
+{INTRO}
+En del människor röstar inte nuförtiden, av en aller annan anledning. 
+
+{QUESTION}
+Röstade Ni i det senaste riksdagsvalet i mars 2007?
+
+{ANSWERS}
+Ja 
+Nej 
+Ingen rösträtt 
+
+B12
+{QUESTION}
+Vilket parti röstade Ni på i det valet?
+
+{ANSWERS}
+Samlingspartiet 
+Svenska Folkpartiet i Finland 
+Liberalerna 
+Centern i Finland 
+Sannfinländarna 
+Kristdemokraterna i Finland 
+Gröna förbundet 
+Finlands Socialdemokratiska parti 
+Vänsterförbundet 
+Finlands kommunistiska parti 
+Kommunistiska Arbetarpartiet 
+Något annat
+
+B12_1 
+{QUESTION}
+Annat, vilket?
+
+{ANSWERS}
+
+{INTRO}
+Det finns olika sätt att försöka förbättra saker i Finland eller att försöka förhindra att saker går fel.
+
+B13
+{QUESTION}
+Ni under de 12 senaste månaderna gjort något av följande: Kontaktat en politiker eller en statlig eller kommunal tjänsteman?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B14
+{QUESTION}
+Arbetat i ett politiskt parti eller en politisk grupp?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B15
+{QUESTION}
+Arbetat i en annan organisation eller förening?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B16
+{QUESTION}
+Använt eller synliggjort kampanjmaterial, t.ex. en knapp, dekal el.dyl.?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B17
+{QUESTION}
+Skrivit på en medborgaradress eller –vädjan? (En medborgaradress eller -vädjan är en namnlista, där man samlat en stor mängd underskrifter med avsikten att påverka beslutsfattare.)?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B18
+{QUESTION}
+Deltagit i en laglig demonstration?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B19
+{QUESTION}
+Bojkottat, dvs. låtit bli eller undvikit att köpa vissa produkter?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B20a
+{QUESTION}
+Finns det ett särskilt politiskt parti som känns närmare Er politiska ståndpunkt än andra partier? (Ett parti vars ståndpunkt står närmast Era åsikter oberoende av vilket parti Ni röstar på)
+
+{ANSWERS}
+Ja 
+Nej 
+
+B20b
+{QUESTION}
+Vilket parti?
+
+{ANSWERS}
+Samlingspartiet 
+Svenska Folkpartiet i Finland 
+Liberalerna 
+Centern i Finland 
+Sannfinländarna 
+Kristdemokraterna i Finland 
+Gröna förbundet 
+Finlands Socialdemokratiska parti 
+Vänsterförbundet 
+Finlands kommunistiska parti 
+Kommunistiska Arbetarpartiet 
+Något annat
+
+B20b_1
+{QUESTION}
+Något annat, vilket?
+
+{ANSWERS}
+
+B20c
+{QUESTION}
+Hur nära står Ni detta parti. Känner Ni att Ni står:
+
+{ANSWERS}
+mycket nära 
+ganska nära 
+inte så nära 
+inte alls nära? 
+
+B21
+{QUESTION}
+Är Ni medlem i något politiskt parti?
+
+{ANSWERS}
+Ja 
+Nej 
+
+B22
+{QUESTION}
+Vilket parti?
+
+{ANSWERS}
+Samlingspartiet 
+Svenska Folkpartiet i Finland 
+Liberalerna 
+Centern i Finland 
+Sannfinländarna 
+Kristdemokraterna i Finland 
+Gröna förbundet 
+Finlands Socialdemokratiska parti 
+Vänsterförbundet 
+Finlands kommunistiska parti 
+Kommunistiska Arbetarpartiet 
+Något annat
+
+B22_1
+{QUESTION}
+Något annat, vilket?
+
+{ANSWERS}
+
+B23
+{INTRO}
+I politiska sammanhang brukar man ibland tala om 'vänster' och 'höger'.
+
+{QUESTION}
+Var skulle Ni placera Er på skalan där noll står för vänstern och 10 för högern?
+
+{ANSWERS}
+0 Vänstern
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Högern
+
+B24
+{QUESTION}
+Hur nöjd är Ni med Ert liv i stort sett nuförtiden. Använd kort 10, där noll innebär extremt missnöjd och 10 extremt nöjd?
+
+{ANSWERS}
+0 Extremt missnöjd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt nöjd
+
+B25
+{QUESTION}
+På det hela taget, hur nöjd är Ni med den ekonomiska situationen i Finland i dagens läge?
+
+{ANSWERS}
+0 Extremt missnöjd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt nöjd
+
+B26
+{QUESTION}
+Hur nöjd är Ni med Finlands nuvarande regering och hur den sköter sitt jobb?
+
+{ANSWERS}
+0 Extremt missnöjd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt nöjd
+
+B27
+{QUESTION}
+nöjd är Ni med hur demokratin fungerar i Finland?
+
+{ANSWERS}
+0 Extremt missnöjd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt nöjd
+
+B28
+{QUESTION}
+Vad tycker Ni om utbildningssystemet i dagens Finland (eller om nivån på utbildningen)? (Vilket kriterium som helst duger.)
+
+{ANSWERS}
+0 Extremt dåligt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt bra
+
+B29
+{QUESTION}
+Vad anser Ni om nivån av hälsovårdstjänsternas tillstånd i dagens Finland? (Vilket kriterium som helst duger.)
+
+{ANSWERS}
+0 Extremt dåligt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt bra
+
+B30
+{QUESTION}
+Berätta i vilken grad Ni instämmer eller inte instämmer i följande påståenden: Regeringen och riksdagen borde vidta åtgärder för att minska inkomstskillnaderna?
+
+{ANSWERS}
+Helt av samma åsikt
+Av samma åsikt
+Varken av samma eller annan åsikt
+Av annan åsikt
+Av helt annan åsikt
+
+B31
+{QUESTION}
+Homosexuella män och kvinnor bör få leva sina egna liv som de själva vill?
+
+{ANSWERS}
+Helt av samma åsikt
+Av samma åsikt
+Varken av samma eller annan åsikt
+Av annan åsikt
+Av helt annan åsikt
+
+B32
+{QUESTION}
+Politiska partier som vill avskaffa demokratin bör förbjudas?
+
+{ANSWERS}
+Helt av samma åsikt
+Av samma åsikt
+Varken av samma eller annan åsikt
+Av annan åsikt
+Av helt annan åsikt
+
+B33
+{QUESTION}
+Man kan lita på att den moderna vetenskapen kan lösa våra miljöproblem?
+
+{ANSWERS}
+Helt av samma åsikt
+Av samma åsikt
+Varken av samma eller annan åsikt
+Av annan åsikt
+Av helt annan åsikt
+
+B34
+{QUESTION}
+Följande fråga gäller den Europeiska unionen. En del anser att den europeiska integrationen bör fördjupas, medan andra anser att integrationen redan har gått för långt. Ange vilken siffra på skalan som bäst beskriver Er inställning.
+
+{ANSWERS}
+0 Integrationen har redan gått för långt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Integrationen bör fördjupas.
+
+{INTRO}
+Här följer några frågor som gäller människor från andra länder som kommer för att bo i Finland
+
+B35
+{QUESTION}
+I vilken utsträckning tycker Ni att Finland bör tillåta människor av samma ras eller etnisk tillhörighet som majoriteten av Finlands befolkning att bosätta sig i Finland?
+
+{ANSWERS}
+Borde tillåta många 
+Borde tillåta ganska många 
+Borde tillåta bara några 
+Borde inte tillåta alls 
+
+B36
+{QUESTION}
+Och vad tycker Ni då det gäller människor av en annan ras eller etnisk tillhörighet än majoriteten av Finlands befolkning?
+
+{ANSWERS}
+Borde tillåta många 
+Borde tillåta ganska många 
+Borde tillåta bara några 
+Borde inte tillåta alls 
+
+B37
+{QUESTION}
+Vad anser Ni då det gäller människor från de fattigare länderna utanför Europa (och deras inflyttning i Finland)?
+
+{ANSWERS}
+Borde tillåta många 
+Borde tillåta ganska många 
+Borde tillåta bara några 
+Borde inte tillåta alls 
+
+B38
+{QUESTION}
+Skulle Ni säga att det i allmänhet är bra eller dåligt för Finlands ekonomi att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 Dåligt för ekonomin
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bra för ekonomin
+
+B39
+{QUESTION}
+Tror Ni att kulturlivet i Finland i allmänhet undergrävs eller berikas av att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 Det kulturella livet undergrävs
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Det kulturella livet berikas
+
+B40
+{QUESTION}
+Blir Finland ett bättre eller sämre land att leva i av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 Ett sämre land att leva i
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ett bättre land att leva i
+
+C1
+{QUESTION}
+Allmänt taget, hur lycklig skulle Ni säga att Ni är?
+
+{ANSWERS}
+0 Extremt olycklig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt lycklig
+
+C2.
+{QUESTION}
+Hur ofta umgås Ni med vänner, släktingar eller arbetskamrater (i andra sammanhang än arbete)?
+
+{ANSWERS}
+Aldrig 
+Mera sällan än en gång i månaden 
+En gång i månaden 
+Flera gånger i månaden 
+En gång i veckan 
+Flera gånger i veckan 
+Varje dag 
+
+C3
+{QUESTION}
+Har Ni någon som Ni kan diskutera intima och personliga frågor med?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C4
+{QUESTION}
+Hur ofta deltar Ni i olika former av sociala aktiviteter eller fritidsaktiviteter jämfört med andra människor i Er ålder? 
+(Med sociala aktiviteter avses umgänge med andra människor i andra än officiella sammanhang.)
+
+{ANSWERS}
+Mycket mera sällan än de flesta 
+Mera sällan än andra 
+Ungefär lika mycket som andra 
+Oftare än andra 
+Mycket oftare än andra 
+
+C5
+{QUESTION}
+Har Ni själv eller någon i Ert hushåll blivit utsatt för inbrott eller överfall under de senaste fem åren?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C6
+{QUESTION}
+Hur trygg känner Ni er - eller skulle Ni känna Er - att gå ensam i Ert bostadsområde efter mörkrets inbrott:
+
+{ANSWERS}
+Mycket trygg 
+Trygg 
+Otrygg 
+Mycket otrygg? 
+
+C7
+{QUESTION}
+Hur ofta, om någonsin, oroar Ni Er för att råka ut för inbrott i Ert hem?
+
+{ANSWERS}
+Hela tiden eller nästan hela tiden 
+Ibland 
+Sällan 
+Aldrig 
+
+C8
+{QUESTION}
+Påverkas Er livskvalitet av oron för inbrott i Ert hem:
+
+{ANSWERS}
+Starkt 
+I någon mån 
+Inte just alls? 
+
+C9
+{QUESTION}
+Hur ofta, om någonsin, oroar Ni Er för att bli offer för våldsbrott?
+
+{ANSWERS}
+Hela tiden eller nästan hela tiden 
+Ibland 
+Sällan 
+Aldrig 
+
+C10
+{QUESTION}
+Inverkar oron för att bli offer för våldsbrott på Er livskvalitet:
+
+{ANSWERS}
+Starkt 
+I någon mån 
+Inte just alls? 
+
+C11
+{QUESTION}
+Hur sannolikt anser Ni att det sker en terroristattack någonstans i Europa under de närmaste tolv månaderna:
+
+{ANSWERS}
+
+C12
+{QUESTION}
+Hur sannolikt anser Ni att det sker en terroristattack i Finland under de närmaste tolv månaderna:
+
+{ANSWERS}
+Mycket sannolikt 
+Sannolikt 
+Inte särskilt sannolikt 
+Inte alls sannolikt? 
+
+C13
+{QUESTION}
+I vilken mån är Ni av samma eller annan åsikt om följande påståenden: Om en person är misstänkt för att planera en terroristattack i Finland, borde polisen ha makt att hålla honom fängslad tills den är övertygad om att han inte är inblandad?
+
+{ANSWERS}
+
+C14
+{QUESTION}
+Tortyr av fångar i Finland kan aldrig försvaras, även om det skulle ge information som kunde förhindra en terroristattack?
+
+{ANSWERS}
+Helt av samma åsikt 
+Av samma åsikt 
+Varken av samma eller annan åsikt 
+Eri mieltä 
+Av helt annan åsikt 
+
+C15
+{QUESTION}
+Hurdant är Ert allmänna hälsotillstånd. Skulle Ni säga att det är:
+
+{ANSWERS}
+Mycket bra 
+Bra 
+Hyfsat 
+Dåligt 
+Mycket dåligt? 
+
+C16
+{QUESTION}
+Hindras Ni på något sätt i Era dagliga aktiviteter av någon långvarig sjukdom, handikapp eller psykiska besvär?
+
+{ANSWERS}
+Ja, mycket 
+Ja, i viss mån 
+Nej 
+
+C17
+{QUESTION}
+Anser Ni Er tillhöra någon särskild religion eller något samfund?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C18
+{QUESTION}
+Vilken? 
+
+{ANSWERS}
+Evangelisk-lutherska kyrkan 
+Ortodoxa kyrkosamfund 
+Katolska kyrkan 
+Pingströrelsen 
+Frikyrkan i Finland 
+Adventkyrkan 
+Jehovas Vittnen 
+Mormoner 
+Judiska församlingarna 
+Islamitiska församlingarna 
+Annan protestantisk inriktning 
+Annan kristen 
+Österländska religioner 
+Annan icke-kristen 
+
+C19
+{QUESTION}
+Har Ni någonsin tidigare ansett Er tillhöra någon särskild religion eller något samfund?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C20
+{QUESTION}
+Vilken?
+
+{ANSWERS}
+Evangelisk-lutherska kyrkan 
+Ortodoxa kyrkosamfund 
+Katolska kyrkan 
+Pingströrelsen 
+Frikyrkan i Finland 
+Adventkyrkan 
+Jehovas Vittnen 
+Mormoner 
+Judiska församlingarna 
+Islamitiska församlingarna 
+Annan protestantisk inriktning 
+Annan kristen 
+Österländska religioner 
+Annan icke-kristen
+
+C21
+{QUESTION}
+Avsett om Ni tillhör någon särskild religion eller inte, hur religiös skulle Ni saga att Ni är?
+
+{ANSWERS}
+0 Inte alls religiös
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mycket religiös
+
+C22
+{QUESTION}
+Förutom särskilda tillfällen såsom bröllop och begravningar, ungefär hur ofta deltar Ni i religiösa sammankomster nuförtiden? 
+
+{ANSWERS}
+Varje dag 
+Oftare än en gång i veckan 
+En gång i veckan 
+Minst en gång i månaden 
+Bara på speciella helgdagar 
+Mera sällan
+Aldrig 
+
+C23
+{QUESTION}
+Förutom när Ni deltar i en religiös sammankomst, hur ofta, om någonsin, ber Ni? 
+
+{ANSWERS}
+Varje dag 
+Oftare än en gång i veckan 
+En gång i veckan 
+Minst en gång i månaden 
+Bara på speciella helgdagar 
+Mera sällan 
+Aldrig 
+
+C24
+{QUESTION}
+Skulle Ni säga att Ni tillhör en grupp som är diskriminerad i Finland?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C25
+{QUESTION}
+På vilka grunder är Er grupp utsatt för diskriminering? 
+
+{ANSWERS}
+Hudfärg eller ras 
+Nationalitet 
+Religion 
+Språk 
+Etnisk grupp 
+Ålder 
+Kön 
+Sexuell läggning 
+Handikapp 
+Något annat
+
+C25_1 
+{QUESTION}
+Något annat, vad?
+
+{ANSWERS}
+
+C26
+{QUESTION}
+Är Ni finländsk medborgare?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C27
+{QUESTION}
+I vilket land är Ni medborgare? 
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Föddes Ni i Finland?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C29
+{QUESTION}
+I vilket land är Ni född?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+För hur länge sedan flyttade Ni för första gången till Finland för att bo här? 
+
+{ANSWERS}
+Mindre än för ett år sedan 
+För 1-5 år sedan 
+För 6-10 år sedan 
+För 11-20 år sedan 
+För mer än 20 år sedan 
+
+C31
+{QUESTION}
+Vilket språk talar Ni oftast hemma? 
+
+{ANSWERS}
+
+C32
+{QUESTION}
+Tillhör Ni en etnisk minoritetsgrupp i Finland?  (Med en etnisk grupp avses en grupp som skiljer sig avseende ras eller ursprung. Här avses att identifiera sig med gruppen eller vara egentlig medlem i gruppen.)
+
+{ANSWERS}
+Ja 
+Nej 
+
+C33
+{QUESTION}
+Är Er far född i Finland?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C34
+{QUESTION}
+I vilket land är Er far född?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+ Är Er mor född i Finland?
+
+{ANSWERS}
+Ja 
+Nej 
+
+C36
+{QUESTION}
+I vilket land är Er mor född?
+
+{ANSWERS}
+
+F1
+{QUESTION}
+Om Ni räknar med Er själv, hur många personer inklusive barnen bor det regelbundet i Ert hushåll?
+
+{ANSWERS}
+
+F3
+{QUESTION}
+Vilket är medlemmens födelseår? 
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Vilket är medlemmens släktskapsförhållande med Er?
+
+{ANSWERS}
+Make / maka / sambo 
+Son / dotter (inkl. styvbarn, adopterade barn, fosterbarn, makes/makas/sambos barn) 
+Förälder / svärförälder / sambos förälder / styvmor- eller far 
+Bror/ syster (inkl. halvbröder/systrar, adopterade och foster-) 
+Annan släkting 
+Annan, ej släkt 
+
+F5
+{QUESTION}
+Vilken av beskrivningarna på kort 66 passar bäst in på Ert bostadsområde?
+
+{ANSWERS}
+En stor stad (över 100 000 invånare) 
+En förort eller närområde till en stor stad (ett verkningsområde eller pendlingsområde till en stor stad) 
+En liten eller medelstor stad eller kommun (20 000-100 000 invånare) 
+En mindre tätort eller kommun (under 20 000 invånare) 
+Landsbygd (glesbygd) 
+
+F6
+{QUESTION}
+Vilken är Er utbildning. Välj på kort 67 den högsta utbildningsnivån, som Ni slutfört?
+
+{ANSWERS}
+Mindre än grundskolans lågstadium eller motsvarande 
+Grundskolans lågstadium (årskurserna 1-6), folkskola 
+Grundskolans högstadium (årskurserna 7-9/10), mellanskola 
+Gymnasium, student- eller yrkesexamen 
+Examen på institutnivå eller högskoleexamen 
+Licentiat- eller doktorsexamen 
+
+F6a
+{QUESTION}
+Inom vilket av dessa ämnen eller områden är Ni mest kompetent?
+
+{ANSWERS}
+Allmänt eller icke specificerat område 
+Konst eller konsthantverk 
+Humaniora - språk, litteratur, historia, teologi, osv. 
+Teknologi och ingenjörskunskap, inklusive arkitektur och planering, industri, hantverk, byggnadsverksamhet, osv.) 
+Jord- och skogsbruk 
+Lärarutbildning eller undervisning 
+Naturvetenskaper, matematik, ADB, osv. 
+Medicin, hälsovård, vårdvetenskap, osv. 
+Ekonomi, handel, företagsadministration, redovisning, osv. 
+Social- och beteendevetenskaper, offentlig förvaltning, media, kultur, idrotts- och fritidsutbildning, osv. 
+Juridik och juridiska tjänster 
+Personliga tjänster - catering, hushållslära, frisörsyrke, osv. 
+Allmän ordning och säkerhet -polis, militär, brandskydd, osv. 
+Transport och telekommunikationer
+
+F7
+{QUESTION}
+Hur många år sammanlagt har Ni varit i skola eller studerat på heltid eller deltid?
+
+{ANSWERS}
+GRUNDSKOLA 9-10 ÅR 
+YRKESSKOLA ELLER GYMNASIUM 3 ÅR (TOT. 9+3=12) 
+YRKESINSTITUT ELLER YRKESHÖGSKOLA 3 ÅR (TOT. 9+3+3=15) 
+HÖGSKOLA 6 ÅR (TOT. 9+3+6=18) 
+FOLKSKOLA 6-8 ÅR 
+YRKESSKOLA 2 ÅR (TOT. 6+2=8) 
+MELLANSKOLA 5 ÅR (TOT. 4+5=9) 
+GYMNASIUM ELLER YRKESINSTITUT 3 ÅR (TOT.4+5+3=12) 
+HÖGSKOLA 6 ÅR (TOT. 4+5+3+6=18)
+
+F8a
+{QUESTION}
+Vilka av dessa beskrivningar passar in på det Ni gjort under de senaste sju dagarna. Välj alla som passar in?
+
+{ANSWERS}
+Förvärvsarbetat (eller tillfälligt borta från förvärvsarbete) (anställd, företagare, jordbrukare, företagarfamiljemedlem osv.) 
+Studerande (studier som inte bekostas av arbetsgivaren, inkl. semester) 
+Arbetslös och aktiv arbetssökande 
+Arbetslös och önskar arbete men söker inte aktivt arbete 
+Långvarigt sjuk eller arbetsoförmögen 
+Pensionerad 
+Beväring eller i civiltjänst 
+Hemmamamma eller -pappa, närståendevårdare el.dyl., sköter barn eller andra människor 
+Något annat
+
+F8c
+{QUESTION}
+Använd ännu kort 69. Vilken av dessa beskrivningar passar bäst in på Er situation under de senaste sju dagarna? Välj endast ett alternativ?
+
+{ANSWERS}
+Förvärvsarbetat (eller tillfälligt borta från förvärvsarbete) (anställd, företagare, jordbrukare, företagarfamiljemedlem osv.) 
+Studerande (studier som inte bekostas av arbetsgivaren, inkl. semester) 
+Arbetslös och aktiv arbetssökande 
+Arbetslös och önskar arbete men söker inte aktivt arbete 
+Långvarigt sjuk eller arbetsoförmögen 
+Pensionerad 
+Beväring eller i civiltjänst 
+Hemmamamma eller -pappa, närståendevårdare el.dyl., sköter barn eller andra människor
+
+F9
+{QUESTION}
+Har Ni under de senaste sju dagarna förvärvsarbetat (minst en timme)?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F10
+{QUESTION}
+Har Ni någonsin förvärvsarbetat?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F11
+{QUESTION}
+Vilket år förvärvsarbetade Ni senast?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Har Ni i Er huvudsyssla:
+
+{ANSWERS}
+Löntagare 
+Företagare 
+Arbetade i familjeföretag, på lantbruk eller var företagarfamiljemedlem? 
+
+F13
+{QUESTION}
+Hur många anställda (om någon) har Ni i Ert företag/ jordbruk?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Har Ni ett arbetsförhållande som är:
+
+{ANSWERS}
+ordinarie 
+eller på viss tid 
+eller har/hade Ni inget avtal?
+
+F15
+{QUESTION}
+ Hur många människor är anställda där Ni arbetar om Ni räknar med Er själv:
+
+{ANSWERS}
+under 10 
+10 – 24 
+25 – 99 
+100 – 499 
+eller 500 eller fler? 
+
+F16
+{QUESTION}
+Har Ni underordnade eller hörde det till Era uppgifter att leda andras arbete i Er huvudssyssla dvs. har Ni ställning som förman?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F17
+{QUESTION}
+Hur många underordnade har Ni?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Jag kommer att läsa upp en lista på saker som rör Ert arbetsliv. 
+
+{QUESTION}
+Säg hur mycket ledningen på Er arbetsplats har Er: Att bestämma hur Ert eget dagliga arbete organiseras?
+
+{ANSWERS}
+0 Jag har/hade inget inflytande
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har/hade fullständig kontroll
+
+F19
+{QUESTION}
+att påverka beslut om organisationens verksamhetspolicy?
+
+{ANSWERS}
+0 Jag har/hade inget inflytande
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag har/hade fullständig kontroll
+
+F20
+{QUESTION}
+Hur många timmar är Er regelbundna veckoarbetstid (i Er huvudsyssla, antingen definierad i arbetsavtalet eller formad i praktiken) exklusive övertid med och utan lön?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Oberoende av den överenskomna arbetstiden, hur många timmar under en normal veckaarbetar Ni normalt, (i huvudsyssla), inklusive all övertid med och utan lön?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Vilken är företagets eller organisationens huvudsakliga verksamhet?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Vilken typ av arbetsgivare är Ni anställd hos?
+
+{ANSWERS}
+Den centrala eller lokala förvaltningen 
+Annan offentlig sektor (t.ex. utbildning eller hälsovårdstjänster) 
+Ett företag som ägs av den offentliga sektorn 
+Ett privat företag 
+Privatföretagare 
+Annan
+
+F24
+{QUESTION}
+Vilken är Er yrkesbenämning i Er huvudsyssla?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Vilket slags arbete utför Ni mest i Er huvudsyssla?
+
+{ANSWERS}
+
+F25 a.
+{QUESTION}
+Vilken utbildning eller vilka kvalifikationer krävs för arbetet?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Har Ni under de senaste 10 åren förvärvsarbetat utomlands i 6 månader?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F27
+{QUESTION}
+Har Ni någonsin varit arbetslös eller kontinuerligt sökt arbete minst tre månader?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F28
+{QUESTION}
+Har någon av dessa perioder varat i 12 månader eller längre?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F29
+{QUESTION}
+Har någon av dessa perioder infallit under de senaste fem åren?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F30
+{QUESTION}
+Är Ni eller har Ni någon gång varit medlem i ett fackförbund?
+
+{ANSWERS}
+Ja, jag är för närvarande 
+Ja, har varit tidigare 
+Nej 
+
+F31
+{QUESTION}
+Om Ni tänker på de inkomster medlemmarna i hela Ert hushåll får, vilken är den huvudsakliga inkomstkällan?
+
+{ANSWERS}
+Löneinkomster 
+Företagarinkomst (inte lantbruk) 
+Lantbruksinkomst 
+Pensionsinkomster 
+Utkomstskydd för arbetslösa 
+Andra sociala förmåner eller anslag/understöd 
+Inkomst av investeringar, besparingar, kapitalinkomster 
+Övriga inkomster 
+
+F32
+{QUESTION}
+Om Ni räknar ihop alla hushållets inkomster, hur stora är Ert hushålls totala nettoinkomster (inkomster efter skatt) per månad. Om Ni inte vet kan ni använda en uppskattning?
+
+{ANSWERS}
+Hushållets nettoinkomster per månad 
+J Under 900 € 
+R 900 – 1 199 € 
+C 1 200 – 1 499 € 
+M 1 500 – 1 799 € 
+F 1 800 – 2 199 € 
+S 2 200 – 2 599 € 
+K 2 600 – 3 099 € 
+P 3 100 – 3 699 € 
+D 3 700 – 4 599 € 
+H Minst 4 600 €
+
+F33
+{QUESTION}
+Vilken av beskrivningarna på kort 74 stämmer bäst överens med hur Ni ser på Ert hushålls inkomster för  ärvarande?
+
+{ANSWERS}
+Man lever bekvämt på de nuvarande inkomsterna 
+Man klarar sig på de nuvarande inkomsterna 
+Det är svårt att klara sig på de nuvarande inkomsterna 
+Det är mycket svårt att klara sig på de nuvarande inkomsterna 
+
+F34
+{QUESTION}
+Om Ni av någon orsak skulle råka ut för allvarliga ekonomiska problem och skulle behöva låna pengar för att klara Era utgifter, hur lätt eller svårt skulle det vara för Er?
+
+{ANSWERS}
+Mycket svårt 
+Ganska svårt 
+Varken lätt eller svårt 
+Ganska lätt 
+Mycket lätt 
+
+F36
+{QUESTION}
+Vilken är den högsta utbildning, som Er make har slutfört?
+
+{ANSWERS}
+Mindre än grundskolans lågstadium eller motsvarande 
+Grundskolans lågstadium (årskurserna 1-6), folkskola 
+Grundskolans högstadium (årskurserna 7-9/10), mellanskola 
+Gymnasium, student- eller yrkesexamen 
+Examen på institutnivå eller högskoleexamen 
+Licentiat- eller doktorsexamen 
+
+F37a
+{QUESTION}
+Vilka av beskrivningarna på kort 77 passar in på det Er make sysslat med under de senaste sju dagarna. Välj alla de alternativ som passar in?
+
+{ANSWERS}
+Förvärvsarbetat (eller tillfälligt borta från förvärvsarbete) (anställd, företagare, jordbrukare, företagarfamiljemedlem osv.) 
+Studerande (studier som inte bekostas av arbetsgivaren, inkl. semester) 
+Arbetslös och aktiv arbetssökande 
+Arbetslös och önskar arbete men söker inte aktivt arbete 
+Långvarigt sjuk eller arbetsoförmögen 
+Pensionerad 
+Beväring eller i civiltjänst 
+Hemmamamma eller -pappa, närståendevårdare el.dyl., sköter barn eller andra människor 
+Något annat
+
+F37c
+{QUESTION}
+Och vilken av dessa beskrivningar motsvarar bäst hans  situation under  de senaste 7 dagarna? Välj endast ett alternativ.
+
+{ANSWERS}
+Förvärvsarbetat (eller tillfälligt borta från förvärvsarbete) (anställd, företagare, jordbrukare, företagarfamiljemedlem osv.) 
+Studerande (studier som inte bekostas av arbetsgivaren, inkl. semester) 
+Arbetslös och aktiv arbetssökande 
+Arbetslös och önskar arbete men söker inte aktivt arbete 
+Långvarigt sjuk eller arbetsoförmögen 
+Pensionerad 
+Beväring eller i civiltjänst 
+Hemmamamma eller -pappa, närståendevårdare el.dyl., sköter barn eller andra människor 
+Något annat
+
+F38
+{QUESTION}
+Utförde Er make något förvärvsarbete (som tog minst en timme) under de senaste sju dagarna?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F39
+{QUESTION}
+Vilken är hans yrkesbenämning?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Vilka är hans huvudsakliga uppgifter i huvudsysslan?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Vilken utbildning eller vilka kvalifikationer krävs för arbetet?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Är han i sin huvudssyssla:
+
+{ANSWERS}
+Löntagare 
+Företagare 
+Arbetar i familjeföretag, på lantbruk eller är företagarfamiljemedlem? 
+
+F43
+{QUESTION}
+Hur många anställda har han? 
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Har han i sin huvudsyssla underordnade eller hör det till uppgifterna att leda andras arbete dvs. är hon i ställning som förman?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F45
+{QUESTION}
+ Hur många underordnade har han? 
+
+{ANSWERS}
+
+F46
+{INTRO}
+Jag kommer att läsa upp en lista på saker som rör Er partners arbetsliv. 
+
+{QUESTION}
+Hur mycket ledningen på hans arbetsplats tillåter honom: Att bestämma hur hans dagliga arbete organiseras?
+
+{ANSWERS}
+0 Han/hon har inget inflytande
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Han/hon har fullständig kontroll
+
+F47
+{QUESTION}
+Att påverka i frågor som gäller organsationens verksamhetspolicy?
+
+{ANSWERS}
+0 Han/hon har inget inflytande
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Han/hon har fullständig kontroll
+
+F48
+{QUESTION}
+Hur många timmar arbetar han normalt under en vecka. Räkna med all övertid med eller utan lön?
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Vilken är den högsta utbildningen, som Er far har slutfört?
+
+{ANSWERS}
+Mindre än grundskolans lågstadium eller motsvarande 
+Grundskolans lågstadium (årskurserna 1-6), folkskola 
+Grundskolans högstadium (årskurserna 7-9/10), mellanskola 
+Gymnasium, student- eller yrkesexamen 
+Examen på institutnivå eller högskoleexamen 
+Licentiat- eller doktorsexamen 
+
+F50
+{QUESTION}
+När Ni var 14 år, arbetade Er far som:
+
+{ANSWERS}
+löntagare
+företagare eller jordbrukare
+eller arbetade han inte? 
+(far död / levde inte med IP, då hon/han var 14) 
+
+F51
+{QUESTION}
+Hur många anställda hade han?
+
+{ANSWERS}
+Inga 
+1 - 24 
+25 eller fler 
+
+F52
+{QUESTION}
+Hade han ansvar för att leda andra anställdas arbete dvs. var han förman/ i chefsposition?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F53
+{QUESTION}
+Vilken var hans yrkesbenämning?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Vilken av beskrivningarna på kort 80 motsvarar bäst det slags arbete Er far hade då Ni var 14?
+
+{ANSWERS}
+Yrken på högsta sakkunnignivå och inom den tekniska branschen (t.ex. läkare, lektor, diplom-ingenjör, konstnär, revisor ) 
+Ledande befattningshavare (t.ex. bankdirektör, VD för stort företag, högre stats- och kommuntjänstemän, direktör för fackförening) 
+Kontors- och förvaltningsbranschen (t.ex. sekreterare, kanslist, byråsekreterare, bokförare) 
+Handelsbranschen (t.ex. försäljningschef, köpman, försäljare, försäkringsagent) 
+Servicebranschen (t.ex. hovmästare, polis, servitör, gårdskarl, barberare-damfrisör, anställd inom försvarsmakten) 
+Specifikt yrkeskunniga arbetare (t.ex. förman, mekaniker, tryckare, verktygsmontör, elmontör) 
+Yrkeskunniga arbetare (t.ex. murare, busschaufför, timmerman, metallarbetare, bagare) 
+Icke yrkeskunniga arbetare  (t.ex.. diversearbetare, bärare, icke yrkeskunnig industriarbetare) 
+Lantbruksyrken (t.ex. jordbrukare, lantbruksarbetare, traktorförare, fiskare)
+
+F55
+{QUESTION}
+Vilken är den högsta utbildningen, som Er mor har slutfört?
+
+{ANSWERS}
+Mindre än grundskolans lågstadium eller motsvarande 
+Grundskolans lågstadium (årskurserna 1-6), folkskola 
+Grundskolans högstadium (årskurserna 7-9/10), mellanskola 
+Gymnasium, student- eller yrkesexamen 
+Examen på institutnivå eller högskoleexamen 
+Licentiat- eller doktorsexamen 
+
+F56
+{QUESTION}
+När Ni var 14 år, arbetade Er mor som:
+
+{ANSWERS}
+löntagare
+företagare eller jordbrukare
+eller arbetade hon inte? 
+(mor död / levde inte med IP, då hon/han var 14) 
+
+F57
+{QUESTION}
+Hur många anställda hade hon?
+
+{ANSWERS}
+Inga 
+1 - 24 
+25 eller fler 
+
+F58
+{QUESTION}
+Hade hon ansvar för att övervaka andra anställdas arbete dvs. var hon förman/ i chefsposition?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F59
+{QUESTION}
+Vilken var hennes yrkesbenämning?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Vilken av beskrivningarna på kort 82 motsvarar bäst det slags arbete Er mor hade då Ni var 14?
+
+{ANSWERS}
+Yrken på högsta sakkunnignivå och inom den tekniska branschen (t.ex. läkare, lektor, diplom-ingenjör, konstnär, revisor ) 
+Ledande befattningshavare (t.ex. bankdirektör, VD för stort företag, högre stats- och kommuntjänstemän, direktör för fackförening) 
+Kontors- och förvaltningsbranschen (t.ex. sekreterare, kanslist, byråsekreterare, bokförare) 
+Handelsbranschen (t.ex. försäljningschef, köpman, försäljare, försäkringsagent) 
+Servicebranschen (t.ex. hovmästare, polis, servitör, gårdskarl, barberare-damfrisör, anställd inom försvarsmakten) 
+Specifikt yrkeskunniga arbetare (t.ex. förman, mekaniker, tryckare, verktygsmontör, elmontör) 
+Yrkeskunniga arbetare (t.ex. murare, busschaufför, timmerman, metallarbetare, bagare) 
+Icke yrkeskunniga arbetare  (t.ex.. diversearbetare, bärare, icke yrkeskunnig industriarbetare) 8 
+Lantbruksyrken (t.ex. jordbrukare, lantbruksarbetare, traktorförare, fiskare)
+
+F61
+{QUESTION}
+Har Ni under de senaste 12 månaderna deltagit i någon kurs, föreläsning eller konferens för att förbättra Er yrkesskicklighet?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F62
+{QUESTION}
+Nu frågar jag vilket Ert officiella civilstånd är för närvarande. Vilket av de följande passar för Er?
+
+{ANSWERS}
+Gift 
+Hemskillnad, (officiellt fortfarande gift) 
+Frånskild 
+Änka/änkling 
+Har aldrig varit gift 
+
+F63
+{QUESTION}
+Bor Ni för närvarande tillsammans med Er make?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F64
+{QUESTION}
+Bor Ni för närvarande tillsammans med en partner?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F66
+{QUESTION}
+Har Ni någon gång bott tillsammans med en partner i ett samboförhållande, dvs. utan att vara gifta (eller i ett registrerat parförhållande) med honom?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F68
+{QUESTION}
+Har Ni någon gång skiljt Er?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F70
+{QUESTION}
+Har Ni någonsin bott i samma hushåll som Era egna barn eller er makes barn, adopterade barn eller fosterbarn?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F71
+{QUESTION}
+Har Ni en fast trådtelefon i Er bostad?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F72
+{QUESTION}
+Har Ni mobiltelefon?
+
+{ANSWERS}
+Ja 
+Nej 
+
+F73
+{QUESTION}
+Använder Ni internet för att ringa telefonsamtal hemifrån?
+
+{ANSWERS}
+Ja 
+Nej 
+(Ingen internetanslutning hemma) 

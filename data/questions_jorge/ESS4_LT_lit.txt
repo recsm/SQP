@@ -1,0 +1,1916 @@
+﻿А1
+{QUESTION}
+Kiek laiko iš viso įprastą darbo dieną jūs skiriate televizijos žiūrėjimui? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А2
+{QUESTION}
+O kiek iš to laiko, kurį skiriate televizijos žiūrėjimui, įprastą darbo dieną jūs skiriate žinių arba politinių televizijos laidų žiūrėjimui? Atsakydami naudokitės ta pačia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А3
+{QUESTION}
+Kiek laiko iš viso įprastą darbo dieną jūs skiriate radijo klausymuisi? Atsakydami naudokitės ta pačia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А4
+{QUESTION}
+O kiek iš to laiko, kurį skiriate radijo klausymuisi, įprastą darbo dieną jūs skiriate žinių arba politinių radijo laidų klausymuisi? Atsakydami naudokitės ta pačia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А5
+{QUESTION}
+Kiek laiko iš viso įprastą darbo dieną jūs skiriate laikraščių skaitymui? Atsakydami naudokitės ta pačia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А6
+{QUESTION}
+O kiek iš to laiko, kurį skiriate laikraščių skaitymui, įprastą darbo dieną jūs skiriate politinių naujienų ir aktualijų skaitymui?
+Atsakydami naudokitės ta pačia kortele.
+
+{ANSWERS}
+Visai tam neskiriu laiko 
+Mažiau negu 0,5 val. 
+Nuo 0,5 val. iki 1 val. 
+Daugiau negu 1 val., iki 1,5 val. 
+Daugiau negu 1,5 val., iki 2 val. 
+Daugiau negu 2 val., iki 2,5 val. 
+Daugiau negu 2,5 val., iki 3 val. 
+Daugiau negu 3 val. 
+
+А7
+{QUESTION}
+O dabar, naudodamiesi šia kortele atsakykite, ar dažnai asmeninėms reikmėms – darbe, namie ar kitur – jūs naudojatės internetu ar el. paštu?
+
+{ANSWERS}
+Neturiu prieigos prie interneto nei darbe, nei namie, nei kitur 
+Niekada nesinaudoju internetu asmeninėms reikmėms 
+Rečiau negu kartą per mėnesį 
+Kartą per mėnesį 
+Kelis kartus per mėnesį 
+Kartą per savaitę 
+Kelis kartus per savaitę 
+Kiekvieną dieną 
+
+А8
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar apskritai dauguma žmonių galima pasitikėti, ar su žmonėmis reikia būti labai atsargiam/-iai? Prašau įvertinti skalėje nuo 0 iki 10, kur 0 reiškia, kad su žmonėmis reikia būti labai atsargiam/-iai, o 10 – kad dauguma žmonių galima pasitikėti.
+
+{ANSWERS}
+00 Su žmonėmis reikia būti labai atsargiam/-iai
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dauguma žmonių galima pasitikėti
+
+А9
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kaip jūs manote, ar dauguma žmonių, progai pasitaikius, stengtųsi jumis pasinaudoti, ar stengtųsi būti sąžiningi su jumis?
+
+{ANSWERS}
+00 Dauguma žmonių stengtųsi manimi pasinaudoti
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dauguma žmonių stengtųsi būti sąžiningi su manimi
+
+А10
+{QUESTION}
+Kaip jūs manote, ar žmonės dažniausiai stengiasi padėti kitiems, ar rūpinasi tik savimi? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+00 Žmonės dažniausiai rūpinasi tik savimi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Žmonės dažniausiai stengiasi padėti kitiems
+
+{INTRO}
+Dabar norėčiau užduoti kelis klausimus apie politiką ir valdžią.
+
+В1
+{QUESTION}
+Kiek jūs domitės politika? Ar jūs ja...:
+
+{ANSWERS}
+... labai domitės
+... pakankamai domitės
+... mažai domitės
+... visiškai nesidomite?
+
+В2
+{QUESTION}
+Ar dažnai politika atrodo tokia sudėtinga, kad jūs sunkiai suvokiate, kas iš tiesų vyksta? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Niekada 
+Retai 
+Kartais 
+Dažnai 
+Labai dažnai 
+
+В3
+{QUESTION}
+Sakykite, jums sunku ar lengva susidaryti nuomonę politiniais klausimais? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Labai sunku 
+Sunku 
+Nei sunku, nei lengva 
+Lengva 
+Labai lengva 
+
+B4
+{QUESTION}
+Naudodamiesi šia kortele įvertinkite skalėje nuo 0 iki 10, kiek jūs asmeniškai pasitikite kiekviena iš institucijų, kurias
+aš išvardinsiu? 0 skalėje reiškia, kad jūs visiškai nepasitikite institucija, o 10 – kad jūs visiškai ja pasitikite. Taigi kiek jūs pasitikite... Seimu
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B5
+{QUESTION}
+... teisine sistema 
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B6
+{QUESTION}
+... policija 
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B7
+{QUESTION}
+... politikais 
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B8
+{QUESTION}
+... politinėmis partijomis 
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B9
+{QUESTION}
+... Europos parlamentu 
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+B10
+{QUESTION}
+... Jungtinių tautų organizacija
+
+{ANSWERS}
+00 Visiškai nepasitikiu
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Visiškai pasitikiu
+
+В11
+{INTRO}
+Kai kurie žmonės dėl vienokių ar kitokių priežasčių nebalsuoja. 
+
+{QUESTION}
+Sakykite, ar jūs balsavote paskutiniuose Seimo rinkimuose, vykusiuose 2008 m. spalio mėn.?
+
+{ANSWERS}
+Taip 
+Ne 
+Neturėjo balsavimo teisės 
+
+В12a
+{QUESTION}
+Patikslinkite, prašau, ar jūs balsavote už kurį nors kandidatų – partinį ar koalicinį – sąrašą pirmajame rinkimų ture?
+
+{ANSWERS}
+Taip 
+Ne 
+
+В12b
+{QUESTION}
+Už kurį sąrašą balsavote?
+
+{ANSWERS}
+Lietuvos socialdemokratų partija 
+Lietuvos rusų sąjunga 
+„Fronto“ partija 
+Lietuvos centro partija 
+Tėvynės sąjunga – Lietuvos krikščionys demokratai 
+Naujoji sąjunga (socialliberalai) 
+Pilietinės demokratijos partija 
+Lietuvos lenkų rinkimų akcija 
+Tautos prisikėlimo partija 
+Koalicija Darbo partija + jaunimas 
+Lietuvos Respublikos liberalų sąjūdis 
+Lietuvos valstiečių liaudininkų sąjunga 
+Partija Tvarka ir teisingumas 
+Liberalų ir centro sąjunga 
+Partija „Jaunoji Lietuva“ 
+Lietuvos socialdemokratų sąjunga 
+
+В12c
+{QUESTION}
+O ar jūs balsavote už kurį nors vienmandatės apygardos kandidatą pirmajame rinkimų ture?
+
+{ANSWERS}
+Taip 
+Ne 
+
+В12d
+{QUESTION}
+Už kurios partijos kandidatą balsavote?
+
+{ANSWERS}
+Lietuvos socialdemokratų partija 
+Lietuvos rusų sąjunga 
+„Fronto“ partija 
+Lietuvos centro partija 
+Tėvynės sąjunga – Lietuvos krikščionys demokratai 
+Naujoji sąjunga (socialliberalai) 
+Pilietinės demokratijos partija 
+Lietuvos lenkų rinkimų akcija 
+Tautos prisikėlimo partija 
+Darbo partija 
+Leiboristų partija 
+Lietuvos Respublikos liberalų sąjūdis 
+Lietuvos valstiečių liaudininkų sąjunga 
+Partija Tvarka ir teisingumas 
+Liberalų ir centro sąjunga 
+Partija „Jaunoji Lietuva“ 
+Lietuvos socialdemokratų sąjunga 
+Lietuvos laisvės sąjunga 
+Lietuvos liaudies sąjunga „Už teisingą Lietuvą“ 
+Išsikėlė pats 
+
+В12e
+{QUESTION}
+O ar jūs balsavote už kurį nors vienmandatės apygardos kandidatą antrajame rinkimų ture?
+
+{ANSWERS}
+Taip 
+Ne 
+Nebuvo antro rinkimų turo 
+
+В12f
+{QUESTION}
+Už kurios partijos kandidatą balsavote?
+
+{ANSWERS}
+Lietuvos socialdemokratų partija 
+Lietuvos rusų sąjunga 
+„Fronto“ partija 
+Lietuvos centro partija 
+Tėvynės sąjunga – Lietuvos krikščionys demokratai 
+Naujoji sąjunga (socialliberalai) 
+Pilietinės demokratijos partija 
+Lietuvos lenkų rinkimų akcija 
+Tautos prisikėlimo partija 
+Darbo partija 
+Leiboristų partija 
+Lietuvos Respublikos liberalų sąjūdis 
+Lietuvos valstiečių liaudininkų sąjunga 
+Partija Tvarka ir teisingumas 
+Liberalų ir centro sąjunga 
+Partija „Jaunoji Lietuva“ 
+Lietuvos socialdemokratų sąjunga 
+Lietuvos laisvės sąjunga 
+Lietuvos liaudies sąjunga „Už teisingą Lietuvą“ 
+Išsikėlė pats 
+
+B13
+{INTRO}
+Siekiant geresnio gyvenimo Lietuvoje arba norint užkirsti kelią gyvenimo blogėjimui galima imtis įvairių veiksmų. 
+
+{QUESTION}
+Ar per pastaruosius 12 mėn. jūs ėmėtės šių veiksmų...? kreipėtės į politikus, centrinės ar vietos valdžios atstovus?
+
+{ANSWERS}
+Taip 
+Ne 
+
+B14
+{QUESTION}
+... dirbote politinėje partijoje, judėjime ar iniciatyvinėje grupėje? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+B15
+{QUESTION}
+... dirbote kitoje organizacijoje ar asociacijoje? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+B16
+{QUESTION}
+... nešiojote ar kitaip demonstravote kokios nors politinės, socialinės, ekologinės ar panašaus pobūdžio kampanijos simboliką? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+B17
+{QUESTION}
+... pasirašėte peticiją? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+B18
+{QUESTION}
+... dalyvavote teisėtoje viešoje demonstracijoje? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+B19
+{QUESTION}
+... boikotavote tam tikrus produktus? 
+
+{ANSWERS}
+Taip 
+Ne 
+
+В20а
+{QUESTION}
+Ar yra partija, kuri jums artimesnė nei kitos partijos?
+
+{ANSWERS}
+Taip 
+Ne 
+
+В20b
+{QUESTION}
+Kuri tai partija?
+
+{ANSWERS}
+Lietuvos socialdemokratų partija 
+Lietuvos rusų sąjunga 
+„Fronto“ partija 
+Lietuvos centro partija 
+Tėvynės sąjunga – Lietuvos krikščionys demokratai 
+Naujoji sąjunga (socialliberalai) 
+Pilietinės demokratijos partija 
+Lietuvos lenkų rinkimų akcija 
+Tautos prisikėlimo partija 
+Darbo partija 
+Leiboristų partija 
+Lietuvos Respublikos liberalų sąjūdis 
+Lietuvos valstiečių liaudininkų sąjunga 
+Partija Tvarka ir teisingumas 
+Liberalų ir centro sąjunga 
+Partija „Jaunoji Lietuva“ 
+Lietuvos socialdemokratų sąjunga 
+Lietuvos laisvės sąjunga 
+Lietuvos liaudies sąjunga „Už teisingą Lietuvą“ 
+Kita /ĮRAŠYTI/ 
+
+В20c
+{QUESTION}
+Kiek ji jums yra artima? Ar ji jums yra...:
+
+{ANSWERS}
+... labai artima
+... pakankamai artima
+... nelabai artima
+... visiškai neartima? 
+
+В21
+{QUESTION}
+Ar jūs esate kurios nors politinės partijos narys?
+
+{ANSWERS}
+Taip 
+Ne 
+
+В22
+{QUESTION}
+Kurios partijos?
+
+{ANSWERS}
+Lietuvos socialdemokratų partija 
+Lietuvos rusų sąjunga 
+„Fronto“ partija 
+Lietuvos centro partija 
+Tėvynės sąjunga – Lietuvos krikščionys demokratai 
+Naujoji sąjunga (socialliberalai) 
+Pilietinės demokratijos partija 
+Lietuvos lenkų rinkimų akcija 
+Tautos prisikėlimo partija 
+Darbo partija 
+Leiboristų partija 
+Lietuvos Respublikos liberalų sąjūdis 
+Lietuvos valstiečių liaudininkų sąjunga 
+Partija Tvarka ir teisingumas 
+Liberalų ir centro sąjunga 
+Partija „Jaunoji Lietuva“ 
+Lietuvos socialdemokratų sąjunga 
+Lietuvos laisvės sąjunga 
+Lietuvos liaudies sąjunga „Už teisingą Lietuvą“ 
+Kita /ĮRAŠYTI/ 
+
+В23
+{INTRO}
+Politikoje kartais yra išskiriama „kairė“ ir „dešinė“. 
+
+{QUESTION}
+Naudodamiesi šia kortele, nurodykite savo poziciją šioje skalėje, kur 0 reiškia „kairę“, o 10 reiškia „dešinę“?
+
+{ANSWERS}
+00 Kairė 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dešinė
+
+В24
+{QUESTION}
+Vertinant apskritai, ar jūs esate patenkintas savo dabartiniu gyvenimu? Atsakykite naudodamiesi šia kortele, kur 0 reiškia ypatingai nepatenkintas, o 10 – ypatingai patenkintas.
+
+{ANSWERS}
+00 Ypatingai nepatenkintas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypatingai patenkintas/-a
+
+В25
+{QUESTION}
+Vertinant apskritai, ar jūs esate patenkintas/-a dabartine Lietuvos ekonomine situacija? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+00 Ypatingai nepatenkintas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypatingai patenkintas/-a
+
+В26
+{QUESTION}
+Kalbant apie dabartinę Lietuvos vyriausybę, ar jūs esate patenkintas jos darbu? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+00 Ypatingai nepatenkintas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypatingai patenkintas/-a
+
+В27
+{QUESTION}
+Vertinant apskritai, ar jūs esate patenkintas tuo, kaip demokratija veikia Lietuvoje? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+00 Ypatingai nepatenkintas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypatingai patenkintas/-a
+
+В28
+{QUESTION}
+O dabar, naudodamiesi šia kortele pasakykite, ką jūs apskritai manote apie dabartinę Lietuvos švietimo sistemos būklę?
+
+{ANSWERS}
+00 Ypač bloga 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypač gera 
+
+В29
+{QUESTION}
+Naudodamiesi ta pačia kortele pasakykite, ką jūs apskritai manote apie dabartinę Lietuvos sveikatos apsaugos sistemos būklę?
+
+{ANSWERS}
+00 Ypač bloga 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypač gera 
+
+B30
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar jūs pritariate ar nepritariate kiekvienam iš teiginių, kuriuos jums
+perskaitysiu. Valdžia turėtų imtis priemonių, kad sumažintų pajamų skirtumus.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+B31
+{QUESTION}
+Gėjams ir lesbietėms turėtų būti leidžiama gyventi taip, kaip jie nori.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+B32
+{QUESTION}
+Politinės partijos, norinčios sugriauti demokratinę sistemą, turėtų būti uždraustos.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+B33
+{QUESTION}
+Šiuolaikinis mokslas yra pajėgus išspręsti aplinkosaugos problemas.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+В34
+{QUESTION}
+Kitas klausimas yra apie Europos Sąjungą. Kai kurie žmonės mano, kad Europos Sąjungos šalių-narių integracija turėtų ir toliau tęstis. Kiti gi mano, kad Europos Sąjungos šalių-narių integracija jau per toli pažengusi. Naudodamiesi šia kortele, nurodykite, kuris skaičius skalėje geriausiai atspindi jūsų poziciją?
+
+{ANSWERS}
+00 Integracija jau per toli pažengusi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Integracija turėtų ir toliau tęstis
+
+{INTRO}
+O dabar užduosiu keletą klausimų apie žmones iš kitų šalių, atvažiuojančių gyventi į Lietuvą.
+
+В35
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar reiktų leisti tos pačios rasės ar etninės grupės žmonėms, kokių dauguma gyvena Lietuvoje, atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje 
+Reiktų leisti ribotam kiekiui 
+Reiktų leisti vienam kitam 
+Neleisti nei vienam 
+
+В36
+{QUESTION}
+O kaip jūs manote, ar reiktų leisti kitos, nei daugumos Lietuvos gyventojų, rasės ar etninės grupės žmonėms atvažiuoti ir gyventi Lietuvoje? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje 
+Reiktų leisti ribotam kiekiui 
+Reiktų leisti vienam kitam 
+Neleisti nei vienam 
+
+В37
+{QUESTION}
+O ką šiuo klausimu jūs manote apie žmones iš neturtingų šalių, esančių už Europos ribų? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje 
+Reiktų leisti ribotam kiekiui 
+Reiktų leisti vienam kitam 
+Neleisti nei vienam 
+
+В38
+{QUESTION}
+Kaip jūs manote, ar apskritai Lietuvos ekonomikai yra gerai ar blogai, kad žmonės iš kitų šalių atvyksta čia gyventi? Atsakykite naudodamiesi šia kortele.
+
+{ANSWERS}
+00 Lietuvos ekonomikai yra blogai
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lietuvos ekonomikai yra gerai
+
+В39
+{QUESTION}
+Toliau, naudodamiesi šia kortele, atsakykite, kaip jūs manote, ar žmonės, atvykstantys čia gyventi iš kitų šalių daugiau griauna Lietuvos kultūrą ar ją turtina?
+
+{ANSWERS}
+00 Griauna kultūrą 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Turtina kultūrą 
+
+В40
+{QUESTION}
+Jūsų nuomone, Lietuva dėl žmonių, atvykstančių čia gyventi iš kitų šalių, tampa blogesne, ar geresne vieta gyventi? Atsakykite naudodamiesi šia kortele.
+
+{ANSWERS}
+00 Lietuva tampa blogesne vieta gyventi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Lietuva tampa geresne vieta gyventi
+
+{INTRO}
+O dabar keletas klausimų apie jus ir jūsų gyvenimą.
+
+C1
+{QUESTION}
+Kalbant apskritai, ar jūs esate laimingas? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+00 Ypač nelaimingas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ypač laimingas/-a
+
+C2
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar jūs dažnai leidžiate laisvalaikį su draugais, giminėmis ar bendradarbiais?
+
+{ANSWERS}
+Niekada 
+Rečiau negu kartą per mėnesį 
+Kartą per mėnesį 
+Keletą kartų per mėnesį 
+Kartą per savaitę 
+Keletą kartų per savaitę 
+Kasdien 
+
+C3
+{QUESTION}
+Ar jūs turite su kuo aptarti asmeninius ir intymius reikalus?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C4
+{QUESTION}
+Lyginant su kitais jūsų amžiaus žmonėmis, ar jūs dažnai leidžiate laisvalaikį su kitais žmonėmis? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Daug rečiau negu dauguma 
+Rečiau negu dauguma 
+Panašiai kaip ir dauguma 
+Dažniau nei dauguma 
+Daug dažniau nei daugumai 
+
+C5
+{QUESTION}
+Ar per pastaruosius penkerius metus jūs ar jūsų šeimos narys buvote tapęs apiplėšimo ar užpuolimo auka?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C6
+{QUESTION}
+Ar jūs saugiai jaučiatės arba jaustumėtės tamsoje vaikščiodamas savo gyvenamajame rajone? Ar...
+
+{ANSWERS}
+... labai saugiai
+... saugiai
+... nesaugiai
+... ar, labai nesaugiai? 
+
+C7
+{QUESTION}
+Ar jums dažnai (jei iš viso kada nors) kyla nerimas dėl to, kad į jūsų namus gali būti įsilaužta? Pasirinkite atsakymą iš šios kortelės.
+
+{ANSWERS}
+Nuolat arba labai dažnai 
+Kartais 
+Labai retai 
+Niekada 
+
+C8
+{QUESTION}
+Ar šis jūsų nerimas dėl įsilaužimo …
+
+{ANSWERS}
+… turi daug įtakos jūsų gyvenimo kokybei
+… turi šiek tiek įtakos
+…ar neturi jokios realios įtakos jūsų gyvenimo kokybei? 
+
+C9
+{QUESTION}
+Ar jums dažnai (jei iš viso kada nors) kyla nerimas dėl to, kad galite tapti smurtinio nusikaltimo auka? Pasirinkite atsakymą iš šios kortelės.
+
+{ANSWERS}
+Nuolat arba labai dažnai 
+Kartais 
+Labai retai 
+Niekada 
+
+C10
+{QUESTION}
+Ar šis jūsų nerimas, kad galite tapti smurtinio nusikaltimo auka …
+
+{ANSWERS}
+… turi daug įtakos jūsų gyvenimo kokybei
+… turi šiek tiek įtakos
+… ar neturi jokios realios įtakos jūsų gyvenimo kokybei?
+
+{INTRO}
+Dabar norėčiau užduoti keletą klausimų apie terorizmą.
+
+C11
+{QUESTION}
+Ar jūs manote, kad teroristinis išpuolis kur nors Europoje per artimiausius dvylika mėnesių yra ...?
+
+{ANSWERS}
+… visiškai įmanomas
+… įmanomas
+… mažai įmanomas 
+… iš viso neįmanomas 
+
+C12
+{QUESTION}
+Ar jūs manote, kad teroristinis išpuolis Lietuvoje per artimiausius dvylika mėnesių yra ...?
+
+{ANSWERS}
+… visiškai įmanomas
+… įmanomas
+… mažai įmanomas 
+… iš viso neįmanomas 
+
+C13
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar jūs pritariate ar nepritariate kiekvienam iš teiginių, kuriuos jums perskaitysiu. Jeigu vyras yra įtariamas teroristinio išpuolio planavimu Lietuvoje, policija turi turėti teisę sulaikyti jį iki tol, kol bus nustatyta, kad jis nėra susijęs su teroristine veikla.
+
+{ANSWERS}
+Labai  pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+C14
+{QUESTION}
+Kalinių kankinimas Lietuvos kalėjimuose yra nepateisinamas, net jeigu suteiktų informacijos, galinčios užkirsti kelią teroristiniam išpuoliui.
+
+{ANSWERS}
+Labai  pritariu 
+Pritariu
+Nei pritariu, nei nepritariu
+Nepritari u
+Labai nepritariu 
+
+{INTRO}
+Toliau vėl užduosiu keletą klausimų apie jus.
+
+C15
+{QUESTION}
+Kokia apskritai yra jūsų sveikata? Ar manote, kad ji yra …
+
+{ANSWERS}
+… labai gera
+… gera
+… patenkinama 
+… bloga 
+… labai bloga 
+
+C16
+{QUESTION}
+Ar kasdienėje veikloje jums nors kiek trukdo kokia nors ilgalaikė (lėtinė) liga, negalia, fizinis silpnumas ar psichinės sveikatos problemos? 
+
+{ANSWERS}
+Taip, labai 
+Taip, truputį 
+Ne 
+
+C17
+{QUESTION}
+Ar jūs priskiriate save kuriai nors religijai ar tikėjimui?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C18
+{QUESTION}
+Kuriai?
+
+{ANSWERS}
+Romos katalikų 
+Rytų ortodoksų (stačiatikių, sentikių ar pan.) 
+Protestantų (liuteronų, kalvinistų, reformatų ar pan.)
+Kitai/-am krikščionių religijai/tikėjimui (Jehovos liudytojų, mormonų ar pan.)
+Judėjų 
+Islamui 
+Rytų religijai (budistų, induistų ar daoistų) 
+Kitai/-am nekrikščionių religijai/tikėjimui
+
+C19
+{QUESTION}
+O kada nors anksčiau priskyrėte save kuriai nors religijai ar tikėjimui?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C20
+{QUESTION}
+Kuriai?
+
+{ANSWERS}
+Romos katalikų 
+Rytų ortodoksų (stačiatikių, sentikių ar pan.) 
+Protestantų (liuteronų, kalvinistų, reformatų ar pan.)
+Kitai/-am krikščionių religijai/tikėjimui (Jehovos liudytojų, mormonų ar pan.)
+Judėjų 
+Islamui 
+Rytų religijai (budistų, induistų ar daoistų) 
+Kitai/-am nekrikščionių religijai/tikėjimui
+
+C21
+{QUESTION}
+Nepriklausomai nuo to, kuriai religijai save priskiriate (jei iš viso priskiriate), ar laikote save religingu? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+00 Visiškai nereligingas/-a
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Labai religingas/-a
+
+C22
+{QUESTION}
+Ar jūs dažnai be ypatingų progų (tokių kaip vestuvės ar laidotuvės) pastaruoju metu dalyvaujate religinėse apeigose? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Kiekvieną dieną 
+Dažniau nei kartą per savaitę 
+Kartą per savaitę 
+Bent kartą per mėnesį 
+Tik per didžiąsias šventes 
+Dar rečiau 
+Niekada 
+
+C23
+{QUESTION}
+Ar jūs dažnai meldžiatės (jei iš viso meldžiatės) ne religinių apeigų metu? Atsakydami naudokitės ta pačia kortele.
+
+Kiekvieną dieną 
+Dažniau nei kartą per savaitę 
+Kartą per savaitę 
+Bent kartą per mėnesį 
+Tik per didžiąsias šventes 
+Dar rečiau 
+Niekada 
+
+C24
+{QUESTION}
+Ar priskirtumėte save dėl kokių nors priežasčių Lietuvoje diskriminuojamų žmonių grupei?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C25
+{QUESTION}
+Dėl ko ši jūsų grupė yra diskriminuojama?
+
+{ANSWERS}
+Dėl odos spalvos arba rasės 
+Dėl pilietybės 
+Dėl religijos 
+Dėl kalbos 
+Dėl tautybės 
+Dėl amžiaus 
+Dėl lyties 
+Dėl seksualinės orientacijos 
+Dėl neįgalumo 
+Kita 
+
+C26
+{QUESTION}
+Ar jūs esate Lietuvos pilietis?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C27
+{QUESTION}
+O kokia tada jūsų pilietybė?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Ar jūs gimėte Lietuvoje?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C29
+{QUESTION}
+Tuomet kurioje šalyje gimėte?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+Kada jūs pirmą kartą atvykote gyventi į Lietuvą? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Mažiau nei prieš metus 
+Prieš 1-5 metus
+Prieš 6-10 metų 
+Prieš 11-20 metų 
+Daugiau negu prieš 20 metų 
+
+C31
+{QUESTION}
+Kokia kalba arba kalbomis jūs dažniausiai kalbate namuose?
+
+{ANSWERS}
+ĮRAŠYTI NE DAUGIAU KAIP 2 KALBAS
+
+C32
+{QUESTION}
+Ar jūs save priskiriate kuriai nors Lietuvos tautinei mažumai?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C33
+{QUESTION}
+Ar jūsų tėvas gimė Lietuvoje?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C34
+{QUESTION}
+Tuomet gal žinote kurioje šalyje gimė jūsų tėvas?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Ar jūsų motina gimė Lietuvoje?
+
+{ANSWERS}
+Taip 
+Ne 
+
+C36
+{QUESTION}
+Tuomet gal žinote kurioje šalyje gimė jūsų motina?
+
+{ANSWERS}
+
+{INTRO}
+Toliau norėčiau užduoti keletą klausimų apie jus ir kitus šiuose namuose gyvenančius žmones.
+
+F1
+{QUESTION}
+Kiek žmonių nuolatos gyvena šiame gyvenamame būste (jūsų namų ūkyje), įskaitant jus patį ir vaikus.
+
+{ANSWERS}
+
+F3
+{QUESTION}
+Kuriais metais jūs gimėte?
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Žiūrėdami į šią kortelę, nurodykite, koks ryšys jį sieja su jumis?
+
+{ANSWERS}
+Vyras, žmona ar partneris/-ė 
+Sūnus ar dukra (arba posūnis ar podukra, įvaikis, globotinis, partnerio/-ės vaikas) 
+Tėvas ar motina, sutuoktinio/-ės ar partnerio/-ės tėvas arba motina, patėvis ar pamotė 
+Brolis ar sesuo (arba įseserė ar įbrolis, tėvų įvaikis ar globotinis) 
+Kitas/-a giminaitis/-ė 
+Kitas giminystės ryšiais nesusijęs asmuo 
+
+F5
+{QUESTION}
+Kuris variantas šioje kortelėje geriausiai apibūdina vietovę, kurioje gyvenate?
+
+{ANSWERS}
+Didmiestis 
+Didmiesčio priemiestis arba pakraštys 
+Miestas arba miestelis 
+Kaimas 
+Vienkiemis arba atskiras ūkis 
+
+F6
+{QUESTION}
+Koks yra jūsų aukščiausias pasiektas išsilavinimo lygis? Atsakykite, naudodamiesi šia kortele.
+
+{ANSWERS}
+Nebaigtas pradinis 
+Pradinis 
+Profesinis (nebaigus pagrindinio) 
+Pagrindinis (apima ir jaunimo mokyklas) 
+Profesinis (kartu baigiant ir pagrindinį) 
+Profesinis (po pagrindinio baigimo) 
+Vidurinis (apima ir gimnazijas) 
+Specialusis vidurinis (apima ir technikumus) 
+Profesinis (po vidurinio baigimo) 
+Aukštesnysis arba aukštasis neuniversitetinis 
+Aukštasis universitetinis (įgytas bakalauro, magistro, rezidentūros, specialiosiose profesinėse ar vientisosiose studijose) 
+Mokslų daktaro ar kandidato laipsnis 
+
+F6a
+{QUESTION}
+Kurioje iš šių sričių jūs esate pasiekęs aukščiausią išsilavinimo lygį?
+
+{ANSWERS}
+Bendrasis išsilavinimas arba nesusijęs su jokia konkrečia sritimi 
+Menų (taip pat ir taikomųjų) srityje 
+Humanitarinių mokslų srityje – filologija, literatūra, istorija, teologija ar pan. 
+Techninių ir inžinerinių mokslų srityje (apima architektūrą ir projektavimą, gamybą, amatus, statybą ir pan.) 
+Žemės ūkio ir miškininkystės srityje 
+Pedagogikos ar švietimo srityje 
+Gamtos, tiksliųjų mokslų, informatikos ar pan. srityje 
+Medicinos, sveikatos priežiūros, slaugos ar pan. srityje 
+Ekonomikos, prekybos, verslo administravimo, finansų ar pan. srityje 
+Socialinių mokslų, viešojo administravimo, žurnalistikos, kultūros, sporto ir turizmo ar pan. srityje 
+Teisės ir teisinių paslaugų srityje 
+Asmeninio ar viešojo aptarnavimo paslaugų srityje – viešasis maitinimas, namų ruoša, kirpimas ar pan. 
+Viešosios tvarkos ir saugumo palaikymo srityje – policija, kariuomenė, ugniagesių paslaugos ir pan. 
+Transporto ir telekomunikacijų srityje 
+
+F7
+{QUESTION}
+Kiek apytiksliai metų jūs iš viso mokėtės? Atsakydami įskaičiuokite, kiek mokslo ar studijų metų užbaigėte mokydamiesi pradinėje, pagrindinėje, vidurinėje ar profesinėje mokykloje, gimnazijoje, technikume, aukštesniojoje mokykloje, kolegijoje, universitete ar institute ir t. t. Norėčiau patikslinti, kad skaičiuodami įtrauktumėte studijas dieniniame, vakariniame bei neakivaizdiniame skyriuje ir skaičiuotumėte tik mokslo ar studijų metus, kai aktyviai mokėtės, neįskaitant laiko praleisto
+akademinėse atostogose, darant studijų ar mokslo pertrauką ar pan. Be to, jei mokėtės vakariniame ar neakivaizdiniame skyriuje, skaičiuodami metus paverskite juos atitinkamais dieninio skyriaus mokymosi trukmės metais, t. y kiek metų būtų trukęs mokymasis, jei būtumėte dieniniame skyriuje.
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, kuo jūs užsiėmėte per pastarąsias septynias dienas. Nurodykite visus tinkamus variantus.
+
+{ANSWERS}
+Dirbau apmokamą darbą: buvau samdomas/-a darbuotojas/-a, užsiėmiau individualia veikla arba dirbau šeimos versle (arba laikinai tuo neužsiėmiau dėl ligos, atostogų, prastovos, streiko ar pan.) 
+Mokiausi (išskyrus tuos atvejus kai už studijas mokėjo darbdavys) arba buvau akademinėse, vasaros ar panašiose atostogose
+Buvau bedarbis/-ė ir aktyviai ieškojau darbo 
+Buvau bedarbis/-ė, bet aktyviai neieškojau darbo 
+Sergu ilgalaike (lėtine) liga arba turiu negalią ir nedirbu 
+Esu pensininkas/-ė 
+Atlikinėjau privalomąją arba alternatyviąją krašto apsaugos tarnybą 
+Užsiėmiau namų ruoša, prižiūrėjau vaikus arba kitus asmenis 
+(Kita) 
+
+F8c
+{QUESTION}
+O kuris iš šių apibūdinimų geriausiai nusako tai, kuo jūs užsiėmėte per pastarąsias septynias dienas? Nurodykite
+tik vieną tinkamą variantą.
+
+{ANSWERS}
+Dirbau apmokamą darbą: buvau samdomas/-a darbuotojas/-a, užsiėmiau individualia veikla arba dirbau šeimos versle (arba laikinai tuo neužsiėmiau dėl ligos, atostogų, prastovos, streiko ar pan.)
+Mokiausi (išskyrus tuos atvejus kai už studijas mokėjo darbdavys) arba buvau akademinėse, vasaros ar panašiose atostogose
+Buvau bedarbis/-ė ir aktyviai ieškojau darbo 
+Buvau bedarbis/-ė, bet aktyviai neieškojau darbo 
+Sergu ilgalaike (lėtine) liga arba turiu negalią ir nedirbu 
+Esu pensininkas/-ė 
+Atlikinėjau privalomąją arba alternatyviąją krašto apsaugos tarnybą 
+Užsiėmiau namų ruoša, prižiūrėjau vaikus arba kitus asmenis 
+(Kita) 
+
+F9
+{QUESTION}
+Norėčiau dar kartą pasitikslinti, ar jūs per pastarąsias septynias dienas bent valandą ar daugiau dirbote kokį nors apmokamą darbą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F10
+{QUESTION}
+Ar jūs kada nors dirbote apmokamą darbą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F11
+{QUESTION}
+Kuriais metais paskutinį kartą jūs dirbote apmokamą darbą?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Savo pagrindiniame darbe jūs ... ?
+
+{ANSWERS}
+... esate/buvote samdomas/-a darbuotojas/-a
+... užsiimate/užsiėmėte individualia veikla (pats sau darbdavys)
+... ar dirbate/dirbote savo šeimos versle? 
+
+F13
+{QUESTION}
+Kiek darbuotojų jūs turite, jei tokių yra?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Jūsų darbo sutartis yra... ?
+
+{ANSWERS}
+... neterminuota
+... terminuota
+... ar jūs nesate/nebuvote sudaręs/-iusi darbo sutarties? 3
+
+F15
+{QUESTION}
+Kiek apytiksliai žmonių, įskaitant ir jus, dirba/dirbo pagrindinėje jūsų darbovietėje … ?
+
+{ANSWERS}
+... mažiau negu 10
+nuo 10 iki 24
+nuo 25 iki 99
+nuo 100 iki 499
+ar 500 ir daugiau? 
+
+F16
+{QUESTION}
+Ar jūs savo pagrindiniame darbe esate atsakingas už kitų darbuotojų darbo priežiūrą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F17
+{QUESTION}
+Už kelių darbuotojų darbo priežiūrą esate atsakingas?
+
+{ANSWERS}
+
+F18
+{INTRO}
+Dabar perskaitysiu keletą dalykų, susijusių su tam tikrais jūsų darbo aspektais. 
+
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar jūsų darbovietės vadovybė jums leidžia... ? ... spręsti, kaip organizuoti savo kasdienį darbą?
+
+{ANSWERS}
+00 Aš neturiu/neturėjau jokios įtakos
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tai visiškai priklaus o/priklau sė nuo manęs
+
+F19
+{QUESTION}
+... daryti įtaką organizacijos veiklos politikai?
+
+{ANSWERS}
+00 Aš neturiu/neturėjau jokios įtakos
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tai visiškai priklaus o/priklau sė nuo manęs
+
+F20
+{QUESTION}
+Kiek darbo valandų per savaitę yra numatyta jūsų pagrindinio darbo sutartyje, neįskaitant apmokamų ar neapmokamų viršvalandžių?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+O kiek darbo valandų, įskaitant mokamus ar nemokamus viršvalandžius, jūs paprastai dirbate per savaitę, nepriklausomai nuo to, kiek darbo valandų yra numatyta jūsų pagrindinio darbo sutartyje?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Kokia yra pagrindinė įmonės ar organizacijos, kurioje jūs dirbate veiklos sritis?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, kokio tipo organizacijoje jūs dirbate?
+
+{ANSWERS}
+Centrinės arba vietos valdžios institucija 
+Kita viešojo sektoriaus institucija (pvz., švietimo ar sveikatos priežiūros) 
+Valstybinė įmonė 
+Privati įmonė 
+Individuali veikla 
+Kita 
+
+F24
+{QUESTION}
+Kaip vadinasi jūsų pareigos pagrindinėje darbovietėje?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Kokio pobūdžio darbą jūs dažniausiai atliekate savo pagrindiniame darbe?
+
+{ANSWERS}
+
+F25a
+{QUESTION}
+Kokio išsilavinimo ar kvalifikacijos reikia jūsų darbui?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Ar per pastaruosius 10 metų jūs dirbote apmokamą darbą kitoje šalyje 6 arba daugiau mėnesių?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F27
+{QUESTION}
+Ar jūs kada nors buvote bedarbis ir ieškojote darbo ilgiau negu tris mėnesius?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F28
+{QUESTION}
+Ar bent vienas iš tų laikotarpių tęsėsi 12 ar daugiau mėnesių?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F29
+{QUESTION}
+Ar kuris nors iš tų laikotarpių buvo per pastaruosius 5 metus?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F30
+{QUESTION}
+Ar jūs esate arba kada nors buvote profesinės sąjungos ar kitos panašios organizacijos narys ... ?
+
+{ANSWERS}
+Taip, yra šiuo metu 
+Taip, buvo anksčiau 
+Ne 
+
+F31
+{QUESTION}
+Galvodami apie visas jūsų ir kartu su jumis šiuose namuose gyvenančių žmonių pajamas ir visus jų pajamų
+šaltinius, atsakykite, kuris pajamų šaltinis jūsų namuose yra pagrindinis? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Darbo užmokesčiai 
+Pajamos iš individualios veiklos (išskyrus ūkininkavimą) 
+Pajamos iš ūkininkavimo 
+Pensijos 
+Bedarbio pašalpos arba išeitinės kompensacijos 
+Kokios nors kitos socialinės pašalpos arba išmokos 
+Pajamos iš investicijų, santaupų, draudimo, nekilnojamojo turto ar kitos nuosavybės 
+Pajamos iš kitų šaltinių 
+
+F32
+{QUESTION}
+Naudodamiesi šia kortele, nurodykite, prašau, kuriai pajamų grupei priskirtumėte jūsų ir kartu su jumis šiuose namuose gyvenančių žmonių bendras mėnesines pajamas iš visų šaltinių, po visų mokesčių nuskaitymo. Atsakykite nurodydami tik raidę iš kortelės. Jeigu nežinote tikslios sumos, nurodykite apytiksliai.
+
+{ANSWERS}
+PER MĖNESĮ apytiksliai yra:
+J Mažiau negu 700 litų
+R Nuo 700 iki 900 litų
+C Daugiau negu 900 iki 1300 litų
+M Daugiau negu 1300 iki 1600 litų
+F Daugiau negu 1600 iki 2000 litų
+S Daugiau negu 2000 iki 2500 litų
+K Daugiau negu 2500 iki 3000 litų
+P Daugiau negu 3000 iki 4000 litų
+D Daugiau negu 4000 iki 6000 litų
+H Daugiau negu 6000 litų
+
+F33
+{QUESTION}
+Kuris iš kortelėje pateiktų apibūdinimų geriausiai nusakytų jūsų požiūrį į dabartines jūsų ir kartu su jumis šiuose namuose gyvenančių žmonių pajamas?
+
+{ANSWERS}
+Esamos pajamos leidžia gyventi nejaučiant jokio nepritekliaus 
+Esamų pajamų iš esmės pakanka 
+Sunkiai verčiamės su esamomis pajamomis 
+Labai sunkiai verčiamės su esamomis pajamomis 
+
+F34
+{QUESTION}
+Jeigu dėl kokių nors priežasčių jūs turėtumėte didelių finansinių sunkumų ir jums reikėtų pasiskolinti pinigų, kad sudurtumėte galą su galu, sunku ar lengva tai būtų padaryti? Atsakykite naudodamiesi šia kortele.
+
+{ANSWERS}
+Labai sunku 
+Pakankamai sunku 
+Nei sunku, nei lengva 
+Pakankamai lengva 
+Labai lengva 
+
+F36
+{QUESTION}
+Koks yra jūsų vyro aukščiausias pasiektas išsilavinimo lygis? Atsakykite, naudodamiesi šia kortele.
+
+{ANSWERS}
+Nebaigtas pradinis 
+Pradinis 
+Profesinis (nebaigus pagrindinio) 
+Pagrindinis (apima ir jaunimo mokyklas) 
+Profesinis (kartu baigiant ir pagrindinį) 
+Profesinis (po pagrindinio baigimo) 
+Vidurinis (apima ir gimnazijas) 
+Specialusis vidurinis (apima ir technikumus) 
+Profesinis (po vidurinio baigimo) 
+Aukštesnysis arba aukštasis neuniversitetinis 
+Aukštasis universitetinis (įgytas bakalauro, magistro, rezidentūros, specialiosiose profesinėse ar vientisosiose studijose) 
+Mokslų daktaro ar kandidato laipsnis 
+
+F37a
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, kuo jis užsiėmė per pastarąsias 7 dienas. Nurodykite visus tinkamus variantus.
+
+{ANSWERS}
+Dirbo apmokamą darbą: buvo samdomas/-a darbuotojas/-a, užsiėmė individualia veikla arba dirbo šeimos versle (arba laikinai tuo neužsiėmė dėl ligos, atostogų, prastovos, streiko ar pan.) 
+Mokėsi (išskyrus tuos atvejus kai už studijas mokėjo darbdavys) arba buvo akademinėse, vasaros ar panašiose atostogose
+Buvo bedarbis/-ė ir aktyviai ieškojo darbo 
+Buvo bedarbis/-ė, bet aktyviai neieškojo darbo 
+Serga ilgalaike (lėtine) liga arba turi negalią ir nedirba 
+Yra pensininkas/-ė 
+Atlikinėjo privalomąją arba alternatyviąją krašto apsaugos tarnybą 
+Užsiėmė namų ruoša, prižiūrėjo vaikus arba kitus asmenis 
+(Kita) 
+
+F37c
+{QUESTION}
+O kuris iš šių apibūdinimų geriausiai nusako tai, kuo jis užsiėmė per pastarąsias 7 dienas? Nurodykite tik vieną tinkamą variantą.
+
+{ANSWERS}
+Dirbo apmokamą darbą: buvo samdomas/-a darbuotojas/-a, užsiėmė individualia veikla arba dirbo šeimos versle (arba laikinai tuo neužsiėmė dėl ligos, atostogų, prastovos, streiko ar pan.)
+Mokėsi (išskyrus tuos atvejus kai už studijas mokėjo darbdavys) arba buvo akademinėse, vasaros ar panašiose atostogose
+Buvo bedarbis/-ė ir aktyviai ieškojo darbo 
+Buvo bedarbis/-ė, bet aktyviai neieškojo darbo 
+Serga ilgalaike (lėtine) liga arba turi negalią ir nedirba 
+Yra pensininkas/-ė 
+Atlikinėjo privalomąją arba alternatyviąją krašto apsaugos tarnybą 
+Užsiėmė namų ruoša, prižiūrėjo vaikus arba kitus asmenis 
+(Kita) 
+
+F38
+{QUESTION}
+Norėčiau pasitikslinti, ar jis per pastarąsias 7 dienas bent valandą ar daugiau dirbo kokį nors apmokamą darbą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F39
+{QUESTION}
+Kaip vadinasi jo pareigos pagrindinėje darbovietėje?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Kokio pobūdžio darbą jis dažniausiai atlieka savo pagrindiniame darbe?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Kokio išsilavinimo ar kvalifikacijos reikia jo darbui?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Savo pagrindiniame darbe jis... ?
+
+{ANSWERS}
+... yra samdomas/-a darbuotojas/-a
+... užsiima individualia veikla (pats sau darbdavys)
+... ar dirba jūsų šeimos versle? 
+
+F43
+{QUESTION}
+Kiek darbuotojų jis turi, jei tokių yra?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Ar savo pagrindiniame darbe jis yra atsakingas už kitų darbuotojų darbo priežiūrą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F45
+{QUESTION}
+Už kelių darbuotojų darbo priežiūrą jis yra atsakingas?
+
+{ANSWERS}
+
+F46
+{INTRO}
+Dabar perskaitysiu keletą dalykų, susijusių su tam tikrais jūsų vyro darbo aspektais.
+
+{QUESTION}
+Naudodamiesi šia kortele, atsakykite, ar jo darbovietės vadovybė jamleidžia ... ? ... spręsti, kaip organizuoti savo kasdienį darbą?
+
+{ANSWERS}
+00 Jis/ji neturi jokios įtakos
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tai visiškai priklaus o nuo jo/jos
+
+F47
+{QUESTION}
+... daryti įtaką organizacijos veiklos politikai?
+
+{ANSWERS}
+00 Jis/ji neturi jokios įtakos
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Tai visiškai priklaus o nuo jo/jos
+
+F48
+{QUESTION}
+Kiek darbo valandų, įskaitant mokamus ar nemokamus viršvalandžius, jis paprastai dirba per savaitę savo pagrindiniame darbe?
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Koks yra jūsų tėvo aukščiausias pasiektas išsilavinimo lygis? Atsakykite, naudodamiesi šia kortele.
+
+{ANSWERS}
+Nebaigtas pradinis 
+Pradinis 
+Profesinis (nebaigus pagrindinio) 
+Pagrindinis (apima ir jaunimo mokyklas) 
+Profesinis (kartu baigiant ir pagrindinį) 
+Profesinis (po pagrindinio baigimo) 
+Vidurinis (apima ir gimnazijas) 
+Specialusis vidurinis (apima ir technikumus) 
+Profesinis (po vidurinio baigimo) 
+Aukštesnysis arba aukštasis neuniversitetinis 
+Aukštasis universitetinis (įgytas bakalauro, magistro, rezidentūros, specialiosiose profesinėse ar vientisosiose studijose) 
+Mokslų daktaro ar kandidato laipsnis 
+
+F50
+{QUESTION}
+Kai jums buvo 14 metų, jūsų tėvas buvo samdomas darbuotojas, užsiėmė individualia veikla ar tuo metu nedirbo?
+
+{ANSWERS}
+Buvo samdomas darbuotojas 
+Užsiėmė individualia veikla (pats sau darbdavys) 
+Nedirbo 
+(Kai respondentui buvo 14 metų tėvas buvo miręs/negyveno kartu) 
+
+F51
+{QUESTION}
+Kiek darbuotojų jis turėjo?
+
+{ANSWERS}
+Nei vieno 
+Nuo 1 iki 24 
+25 ar daugiau 
+
+F52
+{QUESTION}
+Ar jis buvo atsakingas už kitų darbuotojų darbo priežiūrą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F53
+{QUESTION}
+Kaip vadinosi jo pareigos pagrindinėje darbovietėje?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Kuris apibūdinimas šioje kortelėje geriausiai nusako pobūdį darbo, kurį jis dirbo, kai jums buvo 14 metų?
+
+{ANSWERS}
+Aukštos kvalifikacijos specialistas Pavyzdžiui: gydytojas, mokytojas, inžinierius, menininkas, finansininkas
+Aukščiausio lygmens pareigūnas ar vadovas Pavyzdžiui: bankininkas, didelės įmonės direktorius, aukšto lygmens valstybės tarnautojas, profesinės organizacijos vadovas
+Biuro ar administracijos darbuotojas Pavyzdžiui: sekretorius, administratorius, įstaigos ar įmonės tarnautojas, biuro vadovas, buhalteris
+Prekybos sektoriaus darbuotojas Pavyzdžiui: pardavimų vadybininkas, parduotuvės savininkas, pardavėjas, draudimo agentas
+Paslaugų sektoriaus darbuotojas Pavyzdžiui: restorano savininkas, policininkas, padavėjas, socialinis darbuotojas, kirpėjas, karinė tarnyba
+Aukštos kvalifikacijos darbininkas Pavyzdžiui: meistras, darbų vykdytojas, mechanikas, spaustuvininkas, šaltkalvis, elektrikas
+Vidutinės kvalifikacijos darbininkas Pavyzdžiui: mūrininkas, autobuso vairuotojas, pakuotojas, stalius, skardininkas, kepėjas
+Žemos kvalifikacijos darbininkas Pavyzdžiui: juodadarbis, krovikas (nešikas), nekvalifikuotas gamyklos darbininkas
+Žemės ūkio darbininkas Pavyzdžiui: ūkininkas, ūkio darbininkas, traktoriaus vairuotojas, žvejyba 
+
+F55
+{QUESTION}
+Koks yra jūsų motinos aukščiausias pasiektas išsilavinimo lygis? Atsakykite, naudodamiesi šia kortele.
+
+{ANSWERS}
+Nebaigtas pradinis 
+Pradinis 
+Profesinis (nebaigus pagrindinio) 
+Pagrindinis (apima ir jaunimo mokyklas) 
+Profesinis (kartu baigiant ir pagrindinį) 
+Profesinis (po pagrindinio baigimo) 
+Vidurinis (apima ir gimnazijas) 
+Specialusis vidurinis (apima ir technikumus) 
+Profesinis (po vidurinio baigimo) 
+Aukštesnysis arba aukštasis neuniversitetinis 
+Aukštasis universitetinis (įgytas bakalauro, magistro, rezidentūros, specialiosiose profesinėse ar vientisosiose studijose) 
+Mokslų daktaro ar kandidato laipsnis 
+
+F56
+{QUESTION}
+Kai jums buvo 14 metų, jūsų motina buvo samdoma darbuotoja, užsiėmė individualia veikla ar tuo metu nedirbo?
+
+{ANSWERS}
+Buvo samdoma darbuotoja 
+Užsiėmė individualia veikla (pats sau darbdavys) 
+Nedirbo 
+(Kai respondentui buvo 14 metų motina buvo mirusi/negyveno kartu) 
+
+F57
+{QUESTION}
+Kiek darbuotojų ji turėjo?
+
+{ANSWERS}
+Nei vieno 
+Nuo 1 iki 24 
+25 ar daugiau 
+
+F58
+{QUESTION}
+Ar ji buvo atsakinga už kitų darbuotojų darbo priežiūrą?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F59
+{QUESTION}
+Kaip vadinosi jos pareigos pagrindinėje darbovietėje?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Kuris apibūdinimas šioje kortelėje geriausiai nusako pobūdį darbo, kurį ji dirbo, kai jums buvo 14 metų?
+
+{ANSWERS}
+Aukštos kvalifikacijos specialistė Pavyzdžiui: gydytoja, mokytoja, inžinierė, menininkė, finansininkė
+Aukščiausio lygmens pareigūnė ar vadovė Pavyzdžiui: bankininkė, didelės įmonės direktorė, aukšto lygmens valstybės tarnautoja, profesinės organizacijos vadovė
+Biuro ar administracijos darbuotoja Pavyzdžiui: sekretorė, administratorė, įstaigos ar įmonės tarnautoja, biuro vadovė, buhalterė
+Prekybos sektoriaus darbuotoja Pavyzdžiui: pardavimų vadybininkė, parduotuvės savininkė, pardavėja, draudimo agentė
+Paslaugų sektoriaus darbuotoja Pavyzdžiui: restorano savininkė, policininkė, padavėja, socialinė darbuotoja, kirpėja, karinė tarnyba
+Aukštos kvalifikacijos darbininkė Pavyzdžiui: meistrė, darbų vykdytoja, mechanikė, spaustuvininkė, šaltkalvė, elektrikė
+Vidutinės kvalifikacijos darbininkė Pavyzdžiui: mūrininkė, autobuso vairuotoja, pakuotoja, dailidė, skardininkė, kepėja
+Žemos kvalifikacijos darbininkė Pavyzdžiui: juodadarbė, krovikė (nešikė), nekvalifikuota gamyklos darbininkė
+Žemės ūkio darbininkė Pavyzdžiui: ūkininkė, ūkio darbininkė, traktoriaus vairuotoja, žvejyba
+
+F61
+{QUESTION}
+Ar per pastaruosius 12 mėnesių jūs dalyvavote kokiuose nors kursuose, mokymuose, paskaitose ar konferencijose siekdami patobulinti savo darbinius įgūdžius ir žinias?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F62
+{QUESTION}
+Toliau norėčiau užduoti keletą klausimų apie jūsų dabartinę šeimyninę padėtį? Kuris iš apibūdinimų šioje kortelėje jums geriausiai tinka?
+
+{ANSWERS}
+Vedęs/ištekėjusi 
+Gyvename atskirai, nors oficialiai nesame išsiskyrę 
+Oficialiai išsiskyręs/išsiskyrusi 
+Našlys/našlė 
+Niekada nebuvau vedęs/ištekėjusi 
+
+F63
+{QUESTION}
+Ar jūs šiuo metu gyvenate su savo vyru?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F64
+{QUESTION}
+Ar jūs šiuo metu jūs gyvenate su partnere?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F66
+{QUESTION}
+Norėčiau dar pasitikslinti, ar jūs kada nors, apskritai, gyvenote su partnere nesusituokęs?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F68
+{QUESTION}
+Norėčiau vėlgi pasitikslinti, ar jūs kada nors, apskritai, buvote išsiskyręs?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F70
+{QUESTION}
+Ar kada nors kartu su jumis namuose gyveno savi vaikai, vyro vaikai, įvaikinti vaikai, globotiniai ar partnerio vaikai?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F71
+{QUESTION}
+Ar jūsų namuose yra fiksuoto ryšio telefono linija?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F72
+{QUESTION}
+Ar jūs pats turite mobilųjį telefoną?
+
+{ANSWERS}
+Taip 
+Ne 
+
+F73
+{QUESTION}
+Ar jūs naudojatės internetu norėdami paskambinti telefonu iš namų?
+
+{ANSWERS}
+Taip 
+Ne 
+(Namuose nėra interneto) 
+
+
