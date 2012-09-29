@@ -178,6 +178,7 @@ class Migration(DataMigration):
         print "LOG STORED AT '/tmp/jorge_import.log'"
 
 
+
     def backwards(self, orm):
         "Write your backwards methods here."
 
