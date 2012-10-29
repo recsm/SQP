@@ -1731,6 +1731,23 @@ class Completion(models.Model):
             (unicode(self.user), ((self.complete) and '' or 'not'),
              unicode(self.question), unicode(self.characteristic_set))
 
+    def coding_list(self):
+        list = '<table>'
+        for branch in self.question.iter_branches(user=self.user, charset=self.characteristic_set):
+            if branch:
+                
+                if str(branch.label.name) == 'True':
+                    choice_text = branch.coding_choice
+                else:
+                    choice_text = branch.label.name
+                    
+                characteristic = branch.label.characteristic
+                choice = branch.coding_choice
+                list += "<tr><th>%s</th><td>%s</td></tr>" % (characteristic, choice_text)
+        list += '</table>'
+        return list
+    coding_list.allow_tags = True
+
 
 class Prediction(models.Model):
     paramater = models.ForeignKey('Parameter') #TODO: fix spelling error

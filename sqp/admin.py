@@ -37,7 +37,40 @@ class CharacteristicAdmin(ModelAdmin):
     inlines = (LabelInline, )
 admin.site.register(Characteristic,  CharacteristicAdmin)
 
+class CompletionAdmin(ModelAdmin):
+    raw_id_fields = ("question",)
+    list_display = ('question', 'user', 'characteristic_set', 'complete', 'authorized')
+    exclude = ('predictions', 'potential_improvements', 'out_of_date' )
+    list_filter = ('complete', 'authorized', 'user', 'characteristic_set')
+    search_fields = ('question__item__name', 'question__item__study__name')
+    readonly_fields = ('complete', 'coding_list',)
+    actions = ['mark_as_authorized', 'mark_as_not_authorized']
 
+    def mark_as_authorized(self, request, queryset):
+        
+        #Make sure that there are some selected rows 
+        n = queryset.count()
+        if not n:
+            return None
+
+        for completion in queryset:
+            completion.authorized = True
+            completion.save()
+    mark_as_authorized.short_description = 'Mark coding completion records as authorized'
+
+    def mark_as_not_authorized(self, request, queryset):
+        
+        #Make sure that there are some selected rows 
+        n = queryset.count()
+        if not n:
+            return None
+
+        for completion in queryset:
+            completion.authorized = False
+            completion.save()
+    mark_as_authorized.short_description = 'Mark coding completion records as NOT authorized'
+
+admin.site.register(Completion, CompletionAdmin)
 
 class BranchInline(admin.TabularInline):
     model = Branch
