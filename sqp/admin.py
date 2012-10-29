@@ -68,7 +68,7 @@ class CompletionAdmin(ModelAdmin):
         for completion in queryset:
             completion.authorized = False
             completion.save()
-    mark_as_authorized.short_description = 'Mark coding completion records as NOT authorized'
+    mark_as_not_authorized.short_description = 'Mark coding completion records as NOT authorized'
 
 admin.site.register(Completion, CompletionAdmin)
 
