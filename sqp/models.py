@@ -1727,9 +1727,20 @@ class Completion(models.Model):
     authorized  = models.BooleanField(default=False)
 
     def __unicode__(self):
-        return u"%s has %s completed question '%s' for charset '%s'" % \
-            (unicode(self.user), ((self.complete) and '' or 'not'),
+        return u"%s : %s  - question '%s' for charset '%s'" % \
+            (unicode(self.user), ((self.complete) and 'COMPLETE' or 'NOT COMPLETE'),
              unicode(self.question), unicode(self.characteristic_set))
+
+    def assign_to_user(self, to_user):
+
+        codings = Coding.objects.filter(question=self.question,
+                                        user=self.user)
+        for coding in codings:
+            coding.user = to_user
+            coding.save()
+
+        self.user = to_user
+        self.save()
 
     def coding_list(self):
         list = '<table>'

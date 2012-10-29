@@ -41,10 +41,49 @@ class CompletionAdmin(ModelAdmin):
     raw_id_fields = ("question",)
     list_display = ('question', 'user', 'characteristic_set', 'complete', 'authorized')
     exclude = ('predictions', 'potential_improvements', 'out_of_date' )
-    list_filter = ('complete', 'authorized', 'user', 'characteristic_set')
-    search_fields = ('question__item__name', 'question__item__study__name')
+    list_filter = ('complete', 'authorized', 'user', 'characteristic_set', 'question__item__study', 'question__item')
     readonly_fields = ('complete', 'coding_list',)
-    actions = ['mark_as_authorized', 'mark_as_not_authorized']
+    actions = ['mark_as_authorized', 'mark_as_not_authorized', 'assign_codings_to_other_user']
+
+
+    def assign_codings_to_other_user(self, request, queryset):
+        
+        #Make sure that there are some selected rows 
+        n = queryset.count()
+        if not n:
+            return None
+        
+        # The user has already confirmed the assignment
+        # Do the change and return a None to display the change list view again.
+        if request.POST.get('post') and request.POST.get('user_id'):
+            """
+            Loop through all objects the user has selected and call our custom function.
+            """
+            user = User.objects.get(pk=int(request.POST.get('user_id')))
+            for obj in queryset:
+
+                obj.assign_to_user(user)
+                obj.save()
+            
+            self.message_user(request, "%s completions were assigned correctly" % (len(queryset)))
+            return None
+            
+        opts = self.model._meta
+        app_label = opts.app_label
+        
+            
+        context = { "title": 'Assign Codings to Other User',
+                    'queryset': queryset,
+                    "all_users" : User.objects.all(),
+                    "opts": opts,
+                    "root_path": self.admin_site.root_path,
+                    "app_label": app_label,
+                    'action_checkbox_name': helpers.ACTION_CHECKBOX_NAME}
+        
+        return render_to_response('admin/assign_codings_to_other_user.html', context,
+                                  context_instance=template.RequestContext(request))
+
+    assign_codings_to_other_user.short_description = 'Assign Codings to Other User'
 
     def mark_as_authorized(self, request, queryset):
         
@@ -152,7 +191,7 @@ class QuestionBulkAssignmentsAdmin(ModelAdmin):
         return actions
     
     def delete_view(self, request, object_id, extra_context=None):
-        """The delete view is customized to show hich related questions will be deleted"""
+        """The delete view is customized to show which related questions will be deleted"""
         extra_context = extra_context or {}
         obj = QuestionBulkAssignments.objects.get(pk=object_id)
         extra_context['assignments_to_be_deleted'] = obj.assignments_to_be_deleted()

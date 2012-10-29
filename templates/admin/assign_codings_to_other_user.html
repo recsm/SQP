@@ -1,0 +1,54 @@
+{% extends "admin/base_site.html" %}
+{% load i18n l10n %}
+
+{% block breadcrumbs %}
+<div class="breadcrumbs">
+     <a href="../../">{% trans "Home" %}</a> &rsaquo;
+     <a href="../">{{ app_label|capfirst }}</a> &rsaquo;
+     <a href="./">{{ opts.verbose_name_plural|capfirst }}</a> &rsaquo;
+     {% trans 'Confirm Change of Completions and Codings to Other User' %}
+</div>
+{% endblock %}
+
+{% block content %}
+	<h2>Completions and Codings that will be assigned to users: {{queryset.count}}</h2>
+	<div style="padding:20px;overflow:hidden">
+	<table>
+		<tr><th>Question</th>
+	   		<th>User</th>
+	   		<th>Characteristic Set</th>
+	   		<th>Complete</th>
+	   	</tr>
+	{% for obj in queryset %}
+	   	<tr><th>{{obj.question}}</th>
+	   		<td>{{obj.user}}</td>
+	   		<td>{{obj.characteristic_set}}</td>
+	   		<td>{{obj.complete}}</td>
+	   	</tr>
+    {% endfor %}
+	</table>
+    </div>
+    
+  
+	
+	  <form action="" method="post">{% csrf_token %}
+	    <div>
+	    	{% for obj in queryset %}
+		   		 <input type="hidden" name="{{ action_checkbox_name }}" value="{{ obj.pk|unlocalize }}" />
+		    {% endfor %}
+		    <select name="user_id">
+		    	<option> -- Select User --</option>
+		    	{% for user in all_users %}
+		    		<option value="{{user.id}}">{{user}}</option>
+		    	{% endfor %}
+		    </select>
+		    <input type="hidden" name="action" value="assign_codings_to_other_user" />
+		    <input type="hidden" name="post" value="yes" />
+		    <input type="submit" value="Assign completions and codings" />
+	    </div>
+    </form>
+
+	
+ 
+
+{% endblock %}
