@@ -49,6 +49,7 @@ class Migration(SchemaMigration):
             
             qkey = row['item'] + '_' + row['country'] + '_' + row['language']
             
+            user = User.objects.get(id=row['user_id'])
             if qkey not in questions.keys():
                 print qkey
                 language = sqp_models.Language.objects.get(iso=row['language'])
@@ -56,10 +57,13 @@ class Migration(SchemaMigration):
                 item     = sqp_models.Item.objects.get(name=row['item'], study=study)
                 question = sqp_models.Question.objects.get(item=item, country=country, language=language)
                 questions[qkey] = question
+                #Here the coding is never complete since there are no position / comp_asisted etc...
+                question.set_completion(user=user, charset=char_set, complete=False, authorized=True)
+             
             else:
                 question = questions[qkey]
                 
-            user = User.objects.get(id=row['user_id'])
+           
             char = getch(row['short_name'])
             sqp_models.Coding(question=question, 
                               characteristic=char,

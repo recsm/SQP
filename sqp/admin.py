@@ -39,10 +39,10 @@ admin.site.register(Characteristic,  CharacteristicAdmin)
 
 class CompletionAdmin(ModelAdmin):
     raw_id_fields = ("question",)
-    list_display = ('question', 'user', 'characteristic_set', 'complete', 'authorized')
+    list_display = ('question', 'user', 'characteristic_set','complete', 'authorized')
     exclude = ('predictions', 'potential_improvements', 'out_of_date' )
     list_filter = ('complete', 'authorized', 'user', 'characteristic_set', 'question__item__study', 'question__item', 'question__country', 'question__language')
-    readonly_fields = ('complete', 'coding_list',)
+    readonly_fields = ('complete', 'coding_list_tree', 'coding_list_all')
     actions = ['mark_as_authorized', 'mark_as_not_authorized', 'assign_codings_to_other_user']
 
 

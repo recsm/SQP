@@ -979,7 +979,7 @@ def get_question_coding_history(user, questionId, completionId = False, characte
             from_characteristic = models.Characteristic.objects.get(pk=last_coded_char_id)
             branch = next_branch(from_characteristic, for_user, question, charset)
             if branch is not None:    
-                characteristic = characteristic = branch.to_characteristic
+                characteristic = branch.to_characteristic
                 choice = ''
                 choice_text = ''
                 

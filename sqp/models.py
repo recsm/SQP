@@ -1742,7 +1742,7 @@ class Completion(models.Model):
         self.user = to_user
         self.save()
 
-    def coding_list(self):
+    def coding_list_tree(self):
         list = '<table>'
         for branch in self.question.iter_branches(user=self.user, charset=self.characteristic_set):
             if branch:
@@ -1757,8 +1757,18 @@ class Completion(models.Model):
                 list += "<tr><th>%s</th><td>%s</td></tr>" % (characteristic, choice_text)
         list += '</table>'
         return list
-    coding_list.allow_tags = True
+    coding_list_tree.allow_tags = True
 
+    def coding_list_all(self):
+        list = '<table>'
+        for coding in Coding.objects.filter(question=self.question, user=self.user).order_by('characteristic__name'):
+       
+                characteristic = coding.characteristic
+                choice = coding.choice
+                list += "<tr><th>%s</th><td>%s</td></tr>" % (characteristic, choice)
+        list += '</table>'
+        return list
+    coding_list_all.allow_tags = True
 
 class Prediction(models.Model):
     paramater = models.ForeignKey('Parameter') #TODO: fix spelling error
