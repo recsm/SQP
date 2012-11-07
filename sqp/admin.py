@@ -53,6 +53,10 @@ class CompletionAdmin(ModelAdmin):
         if not n:
             return None
         
+        existing_completions = []
+        existing_codings = []
+        error = False
+
         # The user has already confirmed the assignment
         # Do the change and return a None to display the change list view again.
         if request.POST.get('post') and request.POST.get('user_id'):
@@ -60,13 +64,36 @@ class CompletionAdmin(ModelAdmin):
             Loop through all objects the user has selected and call our custom function.
             """
             user = User.objects.get(pk=int(request.POST.get('user_id')))
-            for obj in queryset:
-
-                obj.assign_to_user(user)
-                obj.save()
+            #Dry run to check
             
-            self.message_user(request, "%s completions were assigned correctly" % (len(queryset)))
-            return None
+            for obj in queryset:
+                try:
+                    completion = Completion.objects.get(user=user,
+                                                        question = obj.question,
+                                                        characteristic_set = obj.characteristic_set)
+                    existing_completions.append(completion)                    
+                except Completion.DoesNotExist:
+                    #ok, doesn't exist so we are ok to copy it
+                    pass
+
+                
+                codings = Coding.objects.filter(user=user,
+                                               question = obj.question)
+                if codings.count():
+                    for coding in codings:
+                        existing_codings.append(coding)                    
+               
+            if len(existing_completions) != 0 or len(existing_codings) != 0:
+                error = True
+
+            if not error:
+                for obj in queryset:
+
+                    obj.assign_to_user(user)
+                    obj.save()
+                
+                self.message_user(request, "%s completions were assigned correctly" % (len(queryset)))
+                return None
             
         opts = self.model._meta
         app_label = opts.app_label
@@ -78,7 +105,10 @@ class CompletionAdmin(ModelAdmin):
                     "opts": opts,
                     "root_path": self.admin_site.root_path,
                     "app_label": app_label,
-                    'action_checkbox_name': helpers.ACTION_CHECKBOX_NAME}
+                    'action_checkbox_name': helpers.ACTION_CHECKBOX_NAME,
+                    'error' : error,
+                    'existing_completions' : existing_completions,
+                    'existing_codings': existing_codings}
         
         return render_to_response('admin/assign_codings_to_other_user.html', context,
                                   context_instance=template.RequestContext(request))

@@ -11,6 +11,31 @@
 {% endblock %}
 
 {% block content %}
+
+	{% if error %}
+  		<h1 style="color:red">Error, the user chosen already has codings or completions.</h1>
+  		{% if existing_completions %}
+	  		<br>
+	  		<h3 style="color:red">The following completion records already exist</h3>
+	  		<ul>
+	  		{% for completion in existing_completions %}
+	  			<li>{{completion}}</li>
+	  		{% endfor %}
+	  		</ul>
+
+  		{% endif %}
+
+  		{% if existing_codings %}
+	  		<br>
+	  		<h3 style="color:red">The following coding records already exist</h3>
+	  		<ul>
+	  		{% for coding in existing_codings %}
+	  			<li>{{coding}}</li>
+	  		{% endfor %}
+	  		</ul>
+  		{% endif %}
+  	{% endif %}
+
 	<h2>Completions and Codings that will be assigned to users: {{queryset.count}}</h2>
 	<div style="padding:20px;overflow:hidden">
 	<table>
@@ -29,7 +54,7 @@
 	</table>
     </div>
     
-  
+  	
 	
 	  <form action="" method="post">{% csrf_token %}
 	    <div>
