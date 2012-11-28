@@ -1,0 +1,1900 @@
+﻿A1
+{QUESTION}
+On an average weekday, how much time, in total, do you spend watching television? Please use this card to answer.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A2
+{QUESTION}
+And again on an average weekday, how much of your time watching television is spent watching news or programmes about politics and current affairs? Still use this card.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A3
+{QUESTION}
+On an average weekday, how much time, in total, do you spend listening to the radio? Use the same card.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A4
+{QUESTION}
+And again on an average weekday, how much of your time listening to the radio is spent listening to news or programmes about politics and current affairs? Still use this card.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A5
+{QUESTION}
+On an average weekday, how much time, in total, do you spend reading the newspapers? Use this card again.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A6
+{QUESTION}
+And how much of this time is spent reading about politics and current affairs? Still use this card.
+
+{ANSWERS}
+No time at all 
+Less than 1/2 hour 
+1/2 hour to 1 hour 
+More than 1 hour, up to 1 1/2 hours 
+More than 1 1/2 hours, up to 2 hours 
+More than 2 hours, up to 2 1/2 hours 
+More than 2 1/2 hours, up to 3 hours 
+More than 3 hours 
+
+A7
+{QUESTION}
+Now, using this card, how often do you use the internet, the World Wide Web or e-mail – whether at home or at work - for your personal use?
+
+{ANSWERS}
+No access at home or work 
+Never use 
+Less than once a month 
+Once a month 
+Several times a month 
+Once a week 
+Several times a week 
+Every day 
+
+A8
+{QUESTION}
+Using this card, generally speaking, would you say that most people can be trusted, or that you can't be too careful in dealing with people? Please tell me on a score of 0 to 10, where 0 means you can't be too careful and 10 means that most people can be trusted.
+
+{ANSWERS}
+0 You can’t be too careful 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Most people can be trusted
+
+A9
+{QUESTION}
+Using this card, do you think that most people would try to take advantage of you if they got the chance, or would they try to be fair?
+
+{ANSWERS}
+0 Most people would try to take advantage of me
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Most people would try to be fair
+
+A10
+{QUESTION}
+Would you say that most of the time people try to be helpful or that they are mostly looking out for themselves? Please use this card.
+
+{ANSWERS}
+0 People mostly look out for themselves
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 People mostly try to be helpful
+
+{INTRO}
+Now we want to ask a few questions about politics and government
+
+B1
+{QUESTION}
+How interested would you say you are in politics - are you...
+
+{ANSWERS}
+very interested 
+quite interested 
+hardly interested 
+or, not at all interested? 
+
+B4
+Using this card, please tell me on a score of 0-10 how much you personally trust each of the institutions I read out. 0 means you do not trust an institution at all, and 10 means you have complete trust. Firstly... Britain’s parliament? 
+
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B5
+{QUESTION}
+...the legal system?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B6
+{QUESTION}
+...the police?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B7
+{QUESTION}
+...politicians?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B8
+{QUESTION}
+...political parties?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B9
+{QUESTION}
+...the European Parliament?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B10
+{QUESTION}
+...the United Nations?
+
+{ANSWERS}
+0 No trust at all 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust
+
+B11
+{INTRO}
+Some people don't vote nowadays for one reason or another. 
+
+{QUESTION}
+Did you vote in the last general election in the British general election in May 2010?
+
+{ANSWERS}
+Yes 
+No 
+Not eligible to vote 
+
+B12
+{QUESTION}
+Which party did you vote for in that election?
+
+{ANSWERS}
+Conservative 
+Labour 
+Liberal Democrat 
+Scottish National Party 
+Plaid Cymru 
+Green Party 
+Other
+
+B12NI
+{QUESTION}
+Which party did you vote for in that election?
+
+{ANSWERS}
+Ulster Unionist Party 
+Democratic Unionist Party 
+Sinn Fein 
+Social Democratic and Labour Party 
+Alliance Party 
+Progressive Unionist Party 
+United Kingdom Unionist Party 
+Women's Coalition 
+United Unionist Assembly Party 
+Northern Ireland Unionist Party 
+Workers Party 
+Other 
+
+{INTRO}
+There are different ways of trying to improve things in Britain or help prevent things from going wrong. 
+
+B13
+{QUESTION}
+During the last 12 months, have you done any of the following? Have you... contacted a politician, government or local government official?
+
+{ANSWERS}
+Yes 
+No 
+
+B14
+{QUESTION}
+...worked in a political party or action group?
+
+{ANSWERS}
+Yes 
+No 
+
+B15
+{QUESTION}
+...worked in another organisation or association?
+
+{ANSWERS}
+Yes 
+No 
+
+B16
+{QUESTION}
+...worn or displayed a campaign badge/ sticker?
+
+{ANSWERS}
+Yes 
+No 
+
+B17
+{QUESTION}
+...signed a petition?
+
+{ANSWERS}
+Yes 
+No 
+
+B18
+{QUESTION}
+...taken part in a lawful public demonstration?
+
+{ANSWERS}
+Yes 
+No 
+
+B19
+{QUESTION}
+...boycotted certain products?
+
+{ANSWERS}
+Yes 
+No 
+
+B20a
+{QUESTION}
+Is there a particular political party you feel closer to than all the other parties?
+
+{ANSWERS}
+Yes 
+No 
+
+B20b
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Conservative 
+Labour 
+Liberal Democrat 
+Scottish National Party 
+Plaid Cymru 
+Green Party 
+Other
+
+B20bNI 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Ulster Unionist Party 
+Democratic Unionist Party 
+Sinn Fein 
+Social Democratic and Labour Party 
+Alliance Party 
+Progressive Unionist Party 
+United Kingdom Unionist Party 
+Women's Coalition 
+United Unionist Assembly Party 
+Northern Ireland Unionist Party 
+Workers Party 
+Other 
+
+B20c 
+{QUESTION}
+How close do you feel to this party? Do you feel that you are...
+
+{ANSWERS}
+very close
+quite close 
+not close 
+or, not at all close? 
+
+B21
+{QUESTION}
+Are you a member of any political party?
+
+{ANSWERS}
+Yes 
+No 
+
+B22
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Conservative 
+Labour 
+Liberal Democrat 
+Scottish National Party 
+Plaid Cymru 
+Green Party 
+Other
+
+B22NI
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Ulster Unionist Party
+Democratic Unionist Party
+Sinn Fein
+Social Democratic and Labour Party
+Alliance Party
+Progressive Unionist Party
+United Kingdom Unionist Party
+Women's Coalition
+United Unionist Assembly Party
+Northern Ireland Unionist Party
+Workers Party
+Other 
+
+B23
+{INTRO}
+In politics people sometimes talk of "left" and "right". 
+
+{QUESTION}
+Using this card, where would you place yourself on this scale, where 0 means the left and 10 means the right?
+
+{ANSWERS}
+0 Left
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Right
+
+B24
+{QUESTION}
+All things considered, how satisfied are you with your life as a whole nowadays? Please answer using this card, where 0 means extremely dissatisfied and 10 means extremely satisfied.
+
+{ANSWERS}
+0 Extremely dissatisfied 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B25
+{QUESTION}
+On the whole how satisfied are you with the present state of the economy in Britain? Still use this card.
+
+{ANSWERS}
+0 Extremely dissatisfied 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B26
+{QUESTION}
+Now thinking about the British government, how satisfied are you with the way it is doing its job? Still use this card.
+
+{ANSWERS}
+0 Extremely dissatisfied 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B27
+{QUESTION}
+And on the whole, how satisfied are you with the way democracy works in Britain? Still use this card.
+
+{ANSWERS}
+0 Extremely dissatisfied 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B28
+{QUESTION}
+Now, using this card, please say what you think overall about the state of education in Britain nowadays?
+
+{ANSWERS}
+0 Extremely bad 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely good
+
+B29
+{QUESTION}
+Still using this card, please say what you think overall about the state of health services in Britain nowadays?
+
+{ANSWERS}
+0 Extremely bad 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely good
+
+B30
+{QUESTION}
+Using this card, please say to what extent you agree or disagree with each of the following statements... The government should take measures to reduce differences in income levels
+
+{ANSWERS}
+Agree strongly 
+Agree 
+Neither agree nor disagree 
+Disagree 
+Disagree strongly 
+
+B31
+{QUESTION}
+Gay men and lesbians should be free to live their own life as they wish
+
+{ANSWERS}
+Agree strongly 
+Agree 
+Neither agree nor disagree 
+Disagree 
+Disagree strongly 
+
+B32
+{QUESTION}
+Political parties that wish to overthrow democracy should be banned
+
+{ANSWERS}
+Agree strongly 
+Agree 
+Neither agree nor disagree 
+Disagree 
+Disagree strongly 
+
+B33
+{QUESTION}
+Modern science can be relied on to solve our environmental problems
+
+{ANSWERS}
+Agree strongly 
+Agree 
+Neither agree nor disagree 
+Disagree 
+Disagree strongly 
+
+{INTRO}
+Now some questions about people from other countries coming to live in Britain.
+
+B35 
+{QUESTION}
+Now, using this card, to what extent do you think Britain should allow people of the same race or ethnic group as most of Britain's people to come and live here?
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some 
+Allow a few 
+Allow none 
+
+B36
+{QUESTION}
+How about people of a different race or ethnic group from most British people? Still use this card.
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some 
+Allow a few 
+Allow none 
+
+B37
+{QUESTION}
+How about people from the poorer countries outside Europe? Use the same card.
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some 
+Allow a few 
+Allow none 
+
+B38
+{QUESTION}
+Would you say it is generally bad or good for Britain's economy that people come to live here from other countries? Please use this card.
+
+{ANSWERS}
+0 Bad for the economy 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Good for the economy
+
+B39
+{QUESTION}
+And, using this card, would you say that Britain's cultural life is generally undermined or enriched by people coming to live here from other countries?
+
+{ANSWERS}
+0 Cultural life undermined 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cultural life enriched
+
+B40
+{QUESTION}
+Is Britain made a worse or a better place to live by people coming to live here from other countries? Please use this card.
+
+{ANSWERS}
+0 Worse place to live 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Better place to live
+
+{INTRO}
+And now a few questions about you and your life.
+
+C1
+{QUESTION}
+Taking all things together, how happy would you say you are? Please use this card.
+
+{ANSWERS}
+0 Extremely unhappy 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely happy
+
+C2
+{QUESTION}
+Using this card, how often do you meet socially with friends, relatives or work colleagues?
+
+{ANSWERS}
+Never 
+Less than once a month 
+Once a month 
+Several times a month 
+Once a week 
+Several times a week 
+Every day 
+
+C3
+{QUESTION}
+Do you have anyone with whom you can discuss intimate and personal matters?
+
+{ANSWERS}
+Yes 
+No 
+
+C4
+{QUESTION}
+Compared to other people of your age, how often would you say you take part in social activities? Please use this card.
+
+{ANSWERS}
+Much less than most 
+Less than most 
+About the same 
+More than most 
+Much more than most 
+
+C5
+{QUESTION}
+Have you or a member of your household been the victim of a burglary or assault in the last 5 years?
+
+{ANSWERS}
+Yes 
+No 
+
+C6
+{QUESTION}
+How safe do you - or would you - feel walking alone in this area after dark? Do - or would - you feel...
+
+{ANSWERS}
+very safe 
+safe 
+unsafe 
+or, very unsafe 
+
+C7 
+{QUESTION}
+How often, if at all, do you worry about your home being burgled? Please choose your answer from this card.
+
+{ANSWERS}
+All or most of the time 
+Some of the time 
+Just occasionally 
+Never 
+
+C8 
+{QUESTION}
+Does this worry about your home being burgled have a...
+
+{ANSWERS}
+...serious effect on the quality of your life 
+...some effect 
+or no real effect on the quality of your life? 
+
+C9 
+{QUESTION}
+How often, if at all, do you worry about becoming a victim of violent crime? Please choose your answer from this card.
+
+{ANSWERS}
+All or most of the time 
+Some of the time 
+Just occasionally 
+Never 
+
+C10 
+{QUESTION}
+Does this worry about becoming a victim of violent crime have a ...
+
+{ANSWERS}
+...serious effect on the quality of your life 
+...some effect 
+or no real effect on the quality of your life? 
+
+{INTRO}
+The next set of questions are about yourself.
+
+C15
+{QUESTION}
+How is your health in general? Would you say it is...
+
+{ANSWERS}
+very good 
+good 
+fair 
+bad 
+or, very bad? 
+
+C16
+{QUESTION}
+Are you hampered in your daily activities in any way by any longstanding illness, or disability, infirmity or mental health problem? IF YES, is that a lot or to some extent?
+
+{ANSWERS}
+Yes a lot 
+Yes to some extent 
+No 
+
+C17
+{QUESTION}
+Do you consider yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes 
+No 
+
+C18
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Roman Catholic
+Church of England / Anglican
+Church of Ireland
+Baptist
+Methodist
+Presbyterian / Church of Scotland
+United Reform Church / Congregational
+Free Presbyterian
+Brethren
+Other Protestant 
+Greek or Russian Orthodox
+Other Eastern Orthodox 
+Other Christian 
+Hindu
+Sikh
+Buddhist
+Other Eastern Religions 
+Jewish
+Islam / Muslim
+Other non-Christian 
+
+C19 
+{QUESTION}
+Have you ever considered yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes 
+No 
+
+C20
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Roman Catholic
+Church of England / Anglican
+Church of Ireland
+Baptist
+Methodist
+Presbyterian / Church of Scotland
+United Reform Church / Congregational
+Free Presbyterian
+Brethren
+Other Protestant 
+Greek or Russian Orthodox
+Other Eastern Orthodox 
+Other Christian 
+Hindu
+Sikh
+Buddhist
+Other Eastern Religions
+Jewish
+Islam / Muslim
+Other non-Christian 
+
+C21 
+{QUESTION}
+Regardless of whether you belong to a particular religion, how religious would you say you are? Please use this card.
+
+{ANSWERS}
+0 Not at all religious 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Very religious
+
+C22
+{QUESTION}
+Apart from special occasions such as weddings and funerals, about how often do you attend religious services nowadays? Please use this card.
+
+{ANSWERS}
+Every day 
+More than once a week 
+Once a week 
+At least once a month 
+Only on special holy days 
+Less often 
+Never 
+
+C23
+{QUESTION}
+Apart from when you are at religious services, how often, if at all, do you pray? Please use this card.
+
+{ANSWERS}
+Every day 
+More than once a week 
+Once a week 
+At least once a month 
+Only on special holy days 
+Less often 
+Never 
+
+C24
+{QUESTION}
+Would you describe yourself as a member of a group that is discriminated against in this country?
+
+{ANSWERS}
+Yes 
+No 
+
+C25
+{QUESTION}
+On what grounds is your group discriminated against?
+
+{ANSWERS}
+Colour or race 
+Nationality 
+Religion 
+Language 
+Ethnic Group 
+Age 
+Gender 
+Sexuality 
+Disability 
+Other
+
+C26
+{QUESTION}
+Are you a citizen of the UK?
+
+{ANSWERS}
+Yes 
+No 
+
+C27
+{QUESTION}
+What citizenship do you hold?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Were you born in the UK?
+
+{ANSWERS}
+Yes 
+No 
+
+C29
+{QUESTION}
+In which country were you born?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+What year did you first come to live in the UK?
+
+{ANSWERS}
+
+C31
+{QUESTION}
+What language or languages do you speak most often at home?
+
+{ANSWERS}
+WRITE IN UP TO TWO LANGUAGES.
+
+C32
+{QUESTION}
+Do you belong to a minority ethnic group in the UK?
+
+{ANSWERS}
+Yes 
+No 
+
+C33
+{QUESTION}
+Was your father born in the UK?
+
+{ANSWERS}
+Yes 
+No 
+
+C34
+{QUESTION}
+In which country was your father born?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Was your mother born in the UK?
+
+{ANSWERS}
+Yes 
+No 
+
+C36
+{QUESTION}
+In which country was your mother born?
+
+{ANSWERS}
+
+
+{INTRO}
+Now, I would like to ask you some details about yourself and others in your household.
+
+F1
+{QUESTION}
+Including yourself, how many people - including children - live here regularly as membersof this household? 
+
+{ANSWERS}
+
+F3
+{QUESTION}
+And in what year were you born?
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Looking at this card, what relationship is he to you?
+
+{ANSWERS}
+Husband/wife/partner 
+Son/daughter (inc. step, adopted, foster, child of partner) 
+Parent, parent-in-law, partner's parent, step parent 
+Brother/sister (inc. step, adopted, foster) 
+Other relative 
+Other non-relative 
+
+F6 
+{QUESTION}
+You just told me that you live with your husband. Which one of the descriptions on this card describes your relationship to them?
+
+{ANSWERS}
+Legally married
+In a legal civil partnership
+Living with my partner (cohabiting) – not legally recognised
+Legally separated
+Legally divorced/legal civil union dissolved
+
+F7
+{QUESTION}
+And can I just check have you ever lived with a partner, without being married to them or in a civil partnership?
+
+{ANSWERS}
+Yes 
+No 
+
+F8
+{QUESTION}
+Can I just check have you ever been divorced or had a civil partnership dissolved?
+
+{ANSWERS}
+Yes 
+No 
+
+F11
+{QUESTION}
+This question is about your legal marital status not about who you may or may not be living with. Which one of the descriptions on this card describes your legal marital status now?
+
+{ANSWERS}
+Legally married
+In a legal civil partnership
+Legally separated
+Legally divorced / Civil partnership dissolved
+Widowed / Civil partner died
+None of these (NEVER married or in a legal civil partnership)
+Don’t Know
+
+F13 
+{QUESTION}
+Have you ever had any children of your own, step-children, adopted children, foster children or a partner’s children living in your household?
+
+{ANSWERS}
+Yes 
+No 
+
+F13a
+{QUESTION}
+Is there a fixed-line telephone in (your part of) this accommodation?
+
+{ANSWERS}
+Yes 
+No 
+
+F14
+{QUESTION}
+Which phrase on this card best describes the area where you live?
+
+{ANSWERS}
+A big city 
+The suburbs or outskirts of a big city 
+A town or a small city 
+A country village 
+A farm or home in the countryside 
+
+F15a
+{QUESTION}
+Have you passed any of the examinations on this card? Please choose the section into which your HIGHEST level of education falls.
+
+{ANSWERS}
+2 or more A-levels, S-levels, A2-level, AS-levels, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate
+GNVQ Intermediate
+Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate
+5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6
+Scottish SCE Ordinary Bands A-C or Pass, Scottish Standard Grades 1-3 or Pass, School Certificate or Matriculation, Scottish School Leaving certificate Lower Grade, SUPE Ordinary, Scottish Intermediate 1 (A grade), Scottish Intermediate 2, Intermediate Welsh Baccalaureate, Northern Irish Junior Certificate, 1 A-level or equivalent
+1-4 GCSEs A-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate
+Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates).
+
+F15c 
+{QUESTION}
+How old were you when you completed your continuous full-time education?
+
+{ANSWERS}
+
+F16 
+{QUESTION}
+About how many years of education have you completed, whether full-time or part-time? Please report these in full-time equivalents and include compulsory years of schooling.
+
+{ANSWERS}
+
+F17a 
+{QUESTION}
+Using this card, which of these descriptions applies to what you have been doing for the last 7 days? Select all that apply.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+doing housework, looking after children or other persons 
+(other) 
+
+F17c
+{QUESTION}
+And which of these descriptions best describes your situation (in the last seven days)? Please select only one.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+doing housework, looking after children or other persons 
+(other) 
+
+F18 
+{QUESTION}
+Can I just check, did you do any paid work of an hour or more in the last seven days?
+
+{ANSWERS}
+Yes 
+No 
+
+F19 
+{QUESTION}
+Have you ever had a paid job?
+
+{ANSWERS}
+Yes 
+No 
+
+F20 
+{QUESTION}
+In what year were you last in a paid job?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+In your main job are you… 
+
+{ANSWERS}
+…an employee
+self-employed
+or, working for your own family’s business? 
+
+F22 
+{QUESTION}
+How many employees (if any) do you have?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Do you have a work contract of…
+
+{ANSWERS}
+…unlimited duration,
+or, limited duration
+or, do/did you have no contract? 
+
+F23a
+{QUESTION}
+When your job started do you think that it was considered by your employer to be...
+
+{ANSWERS}
+…a temporary or fixed term job lasting less than 12 months
+a temporary or fixed term job lasting 12 months or more
+or, a permanent job? 
+
+F24 
+{QUESTION}
+Including yourself, about how many people are employed at the place where you usually work …
+
+{ANSWERS}
+…under 10
+10 to 24
+25 to 99
+100 to 499
+or, 500 or more? 
+
+F25 
+{QUESTION}
+In your main job, do you have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F26 
+{QUESTION}
+How many people are you responsible for?
+
+{ANSWERS}
+
+{INTRO}
+I am going to read out a list of things about your working life. 
+
+F27
+{QUESTION}
+Using this card, please say how much the management at your work allows you …to decide how your own daily work is organised?
+
+{ANSWERS}
+00 I have/ had no influence
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 I have/ had complete control
+
+F28
+{QUESTION}
+…to influence policy decisions about the activities of the organisation?
+
+{ANSWERS}
+00 I have/ had no influence
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 I have/ had complete control
+
+F28a
+{QUESTION}
+...to choose or change your pace of work?
+
+{ANSWERS}
+00 I have/ had no influence
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 I have/ had complete control
+
+F29 
+{QUESTION}
+What are your total ‘basic’ or contracted hours each week (in your main job), excluding any paid and unpaid overtime?
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Regardless of your basic or contracted hours, how many hours do you normally work a week (in your main job), including any paid or unpaid overtime.
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+What does the firm/ organisation you work for mainly make or do? 
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+Which of the types of organisation on this card do you work for?
+
+{ANSWERS}
+Central or local government 
+Other public sector (such as education and health) 
+A state-owned enterprise 
+A private firm 
+Self-employed 
+Other 
+
+F33 
+{QUESTION}
+What is the name or title of your main job?
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+In your main job, what kind of work do you do most of the time?
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+What training or qualifications are needed for the job?
+
+{ANSWERS}
+
+F34b
+{QUESTION}
+Which of the reasons shown on this card best describes your main reason for leaving your last employer?
+
+{ANSWERS}
+I obtained a better job 
+I decided to start my own business / become self-employed 
+My contract ended 
+I was made redundant or dismissed 
+My employer stopped operating 
+My own / family business was closed or was sold 
+Illness or disability 
+I retired 
+Personal or family reasons 
+Other 
+Never left an employer 
+
+F35 
+{QUESTION}
+In the last 10 years have you done any paid work in another country for a period of 6 months or more?
+
+{ANSWERS}
+Yes 
+No 
+
+F36 
+{QUESTION}
+Have you ever been unemployed and seeking work for a period of more than three months?
+
+{ANSWERS}
+Yes 
+No 
+
+F37 
+{QUESTION}
+Have any of these periods lasted for 12 months or more?
+
+{ANSWERS}
+Yes 
+No 
+
+F38 
+{QUESTION}
+Have any of these periods been within the past 5 years?
+
+{ANSWERS}
+Yes 
+No 
+
+F39
+{QUESTION}
+Are you or have you ever been a member of a trade union or similar organisation? IF YES, is that currently or previously?
+
+{ANSWERS}
+Yes, currently 
+Yes, previously 
+No 
+
+F40
+{QUESTION}
+Please consider the income of all household members and any income which may be received by the household as a whole. What is the main source of income in your household? Please use this card.
+
+{ANSWERS}
+Wages or salaries 
+Income from self-employment (excluding farming) 
+Income from farming 
+Pensions 
+Unemployment/redundancy benefit 
+Any other social benefits or grants 
+Income from investment, savings, insurance or property 
+Income from other sources 
+
+F41A
+{QUESTION}
+Using this card, please tell me which letter describes your household's total income, after tax and compulsory deductions, from all sources? If you don't know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income.
+
+{ANSWERS}
+Approximate WEEKLY
+J Less than £180
+R £180 to under £240
+C £240 to under £300
+M £300 to under £360
+F £360 to under £440
+S £440 to under £530
+K £530 to under £630
+P £630 to under £790
+D £790 to under £1,030
+H £1,030 or more
+
+F41B
+{QUESTION}
+Using this card, please tell me which letter describes your household's total income, after tax and compulsory deductions, from all sources? If you don't know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income.
+
+{ANSWERS}
+Approximate MONTHLY
+J Less than £780
+R £780 to under £1,040
+C £1,040 to under £1,300
+M £1,300 to under £1,570
+F £1,570 to under £1,910
+S £1,910 to under £2,290
+K £2,290 to under £2,750
+P £2,750 to under £3,420
+D £3,420 to under £4,490
+H £4,490 or more
+
+F41C
+{QUESTION}
+Using this card, please tell me which letter describes your household's total income, after tax and compulsory deductions, from all sources? If you don't know the exact figure, please give an estimate. Use the part of the card that you know best: weekly, monthly or annual income.
+
+{ANSWERS}
+Approximate ANNUAL
+J Less than £9,390
+R £9,390 to under £12,510
+C £12,510 to under £15,590
+M £15,590 to under £18,880
+F £18,880 to under £22,940
+S £22,940 to under £27,530
+K £27,530 to under £33,060
+P £33,060 to under £41,090
+D £41,090 to under £53,920
+H £53,920 or more
+
+F41a
+{QUESTION}
+Around how large a proportion of the household income do you provide yourself? Please use this card.
+
+{ANSWERS}
+None 
+Very small 
+Under a half 
+About half 
+Over a half 
+Very large 
+All 
+
+F42
+{QUESTION}
+Which of the descriptions on this card comes closest to how you feel about your household’s income nowadays?
+
+{ANSWERS}
+Living comfortably on present income
+Coping on present income 
+Finding it difficult on present income 
+Finding it very difficult on present income 
+
+F43
+{QUESTION}
+If for some reason you were in serious financial difficulties and had to borrow money to make ends meet, how difficult or easy would that be? Please use this card.
+
+{ANSWERS}
+Very difficult 
+Quite difficult 
+Neither easy nor difficult 
+Quite easy 
+Very easy 
+
+F45a
+{QUESTION}
+Has your husband passed any of the examinations on this card? Please choose the section into which their HIGHEST level of education falls.
+
+{ANSWERS}
+2 or more A-levels, S-levels, A2-level, AS-levels, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate
+GNVQ Intermediate
+Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate
+5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6
+Scottish SCE Ordinary Bands A-C or Pass, Scottish Standard Grades 1-3 or Pass, School Certificate or Matriculation, Scottish School Leaving certificate Lower Grade, SUPE Ordinary, Scottish Intermediate 1 (A grade), Scottish Intermediate 2, Intermediate Welsh Baccalaureate, Northern Irish Junior Certificate, 1 A-level or equivalent
+1-4 GCSEs A-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate
+Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates).
+
+F45b 
+{QUESTION}
+and has your husband passed any of the examinations on this card? Please choose the section into which their HIGHEST level of education falls.
+
+{ANSWERS}
+Ph.D, D.Phil or equivalent
+Masters Degree, M.Phil, Post-Graduate Diplomas and Certificates
+5 year University/CNAA first Degree (MB, BDS, BV etc)
+3-4 year University/CNAA first Degree (BA, BSc., BEd., BEng. etc)
+Nursing certificate, Teacher training, HE Diploma, Edexcel/BTEC/BEC/TEC - Higher National Diploma (HND), OCR/RSA – Higher Diploma, City and Guilds - Level 4/Full Technological/Part IV, NVQ/SVQ Level 4 or 5 or equivalent
+Foundation Degree (FdA, FdSc etc)
+Edexcel/BTEC/BEC/TEC - Higher National Certificate (HNC) or equivalent
+HE Access
+Vocational A-level (AVCE), GCE Applied A-level, NVQ/SVQ Level 3
+GNVQ/SNVQ Advanced, Edexcel/BTEC/BEC/TEC (General/Ordinary) National Certificate or Diploma (ONC/OND)
+(Modern) Apprenticeship, Advanced (Modern) Apprenticeship, SVQ/NVQ/Key Skills Level 1 and 2, City and Guilds Craft/Intermediate/Advanced (Levels 1 to 3/Parts I - III), RSA/OCR Vocational or First Certificate/Diploma, Advanced Diploma, Edexcel/BTEC First Certificate or First/General Diploma
+Any other qualifications (specify)
+
+F45c 
+{QUESTION}
+How old was your husband when they completed continuous full-time education?
+
+{ANSWERS}
+
+F46a
+{QUESTION}
+Which of the descriptions on this card applies to what he has been doing for the last 7 days? Select all that apply.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+doing housework, looking after children or other persons 
+(other) 
+
+F46c
+{QUESTION}
+And which of the descriptions on this card best describes his situation (in the last 7 days)? Please select only one.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+doing housework, looking after children or other persons 
+(other) 
+
+F47 
+{QUESTION}
+Can I just check, did he do any paid work (of an hour or more) in the last 7 days?
+
+{ANSWERS}
+Yes 
+No 
+
+F48 
+{QUESTION}
+What is the name or title of his main job?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+In his main job, what kind of work does he do most of the time?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+What training or qualifications are needed for the job?
+
+{ANSWERS}
+
+F50A 
+{QUESTION}
+What does the firm or organisation he works for mainly make or do?
+
+{ANSWERS}
+
+F50B 
+{QUESTION}
+Including your husband, about how many people are employed at the place where he usually works ... 
+
+{ANSWERS}
+...under 10
+10 to 24
+25 to 99
+100 to 499
+or, 500 or more? 
+
+F51 
+{QUESTION}
+In his main job is he … 
+
+{ANSWERS}
+...an employee
+self-employed
+or working for your family business? 
+
+F52 
+{QUESTION}
+How many employees (if any) does he have?
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+In his main job, does he have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F54 
+{QUESTION}
+How many people is he responsible for?
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+How many hours does he normally work a week (in his main job)? Please include any paid or unpaid overtime.
+
+{ANSWERS}
+
+F58a
+{QUESTION}
+Has your father passed any of the examinations on this card? Please choose the section into which his HIGHEST level of education falls.
+
+{ANSWERS}
+2 or more A-levels, S-levels, A2-level, AS-levels, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate
+GNVQ Intermediate
+Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate
+5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6
+Scottish SCE Ordinary Bands A-C or Pass, Scottish Standard Grades 1-3 or Pass, School Certificate or Matriculation, Scottish School Leaving certificate Lower Grade, SUPE Ordinary, Scottish Intermediate 1 (A grade), Scottish Intermediate 2, Intermediate Welsh Baccalaureate, Northern Irish Junior Certificate, 1 A-level or equivalent
+1-4 GCSEs A-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate
+Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates).
+
+F58b
+{QUESTION}
+and has your father passed any of the examinations on this card? Please choose the section into which his HIGHEST level of education falls.
+
+{ANSWERS}
+Ph.D, D.Phil or equivalent
+Masters Degree, M.Phil, Post-Graduate Diplomas and Certificates
+5 year University/CNAA first Degree (MB, BDS, BV etc)
+3-4 year University/CNAA first Degree (BA, BSc., BEd., BEng. etc)
+Nursing certificate, Teacher training, HE Diploma, Edexcel/BTEC/BEC/TEC - Higher National Diploma (HND), OCR/RSA - Higher Diploma, City and Guilds - Level 4/Full Technological/Part IV, NVQ/SVQ Level 4 or 5 or equivalent
+Foundation Degree (FdA, FdSc etc)
+Edexcel/BTEC/BEC/TEC - Higher National Certificate (HNC) or equivalent
+HE Access
+Vocational A-level (AVCE), GCE Applied A-level, NVQ/SVQ Level 3
+GNVQ/SNVQ Advanced, Edexcel/BTEC/BEC/TEC (General/Ordinary) National Certificate or Diploma (ONC/OND)
+(Modern) Apprenticeship, Advanced (Modern) Apprenticeship, SVQ/NVQ/Key Skills Level 1 and 2, City and Guilds Craft/Intermediate/Advanced (Levels 1 to 3/Parts I - III), RSA/OCR Vocational or First Certificate/Diploma, Advanced Diploma, Edexcel/BTEC First Certificate or First/General Diploma
+Any other qualifications (specify)
+
+F58c 
+{QUESTION}
+How old was your father when he completed continuous full-time education?
+
+{ANSWERS}
+
+F59 
+{QUESTION}
+When you were 14, did your father work as an employee, was he self-employed, or was he not working then?
+
+{ANSWERS}
+Employee 
+Self-employed 
+Not working 
+ (Father dead/absent when respondent was 14) 
+
+F60 
+{QUESTION}
+How many employees did he have?
+
+{ANSWERS}
+None 
+1 to 24 
+25 or more 
+
+F61 
+{QUESTION}
+Did he have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F62 
+{QUESTION}
+What was the name or title of his main job?
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work he did when you were 14?
+
+{ANSWERS}
+Professional and technical occupations such as: doctor – teacher – engineer – artist – accountant 
+Higher administrator occupations such as: banker – executive in big business – high government official – union official 
+Clerical occupations such as: secretary – clerk – office manager – book keeper 
+Sales occupations such as: sales manager – shop owner – shop assistant – insurance agent 
+Service occupations such as: restaurant owner – police officer – waiter – caretaker – barber – armed forces 
+Skilled worker such as: foreman – motor mechanic – printer – tool and die maker – electrician 
+Semi-skilled worker such as: bricklayer – bus driver – cannery worker – carpenter – sheet metal worker – baker 
+Unskilled worker such as: labourer – porter – unskilled factory worker 
+Farm worker such as: farmer – farm labourer– tractor driver– fisherman 
+
+F64a 
+{QUESTION}
+Has your mother passed any of the examinations on this card? Please choose the section into which her HIGHEST level of education falls.
+
+{ANSWERS}
+2 or more A-levels, S-levels, A2-level, AS-levels, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate
+GNVQ Intermediate
+Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate
+5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6
+Scottish SCE Ordinary Bands A-C or Pass, Scottish Standard Grades 1-3 or Pass, School Certificate or Matriculation, Scottish School Leaving certificate Lower Grade, SUPE Ordinary, Scottish Intermediate 1 (A grade), Scottish Intermediate 2, Intermediate Welsh Baccalaureate, Northern Irish Junior Certificate, 1 A-level or equivalent
+1-4 GCSEs A-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate
+Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates).
+
+F64b
+{QUESTION}
+and has your mother passed any of the examinations on this card? Please choose the section into which her HIGHEST level of education falls.
+
+{ANSWERS}
+Ph.D, D.Phil or equivalent
+Masters Degree, M.Phil, Post-Graduate Diplomas and Certificates
+5 year University/CNAA first Degree (MB, BDS, BV etc)
+3-4 year University/CNAA first Degree (BA, BSc., BEd., BEng. etc)
+Nursing certificate, Teacher training, HE Diploma, Edexcel/BTEC/BEC/TEC - Higher National Diploma (HND), OCR/RSA - Higher Diploma, City and Guilds - Level 4/Full Technological/Part IV, NVQ/SVQ Level 4 or 5 or equivalent
+Foundation Degree (FdA, FdSc etc)
+Edexcel/BTEC/BEC/TEC - Higher National Certificate (HNC) or equivalent
+HE Access
+Vocational A-level (AVCE), GCE Applied A-level, NVQ/SVQ Level 3
+GNVQ/SNVQ Advanced, Edexcel/BTEC/BEC/TEC (General/Ordinary) National Certificate or Diploma (ONC/OND)
+(Modern) Apprenticeship, Advanced (Modern) Apprenticeship, SVQ/NVQ/Key Skills Level 1 and 2, City and Guilds Craft/Intermediate/Advanced (Levels 1 to 3/Parts I - III), RSA/OCR Vocational or First Certificate/Diploma, Advanced Diploma, Edexcel/BTEC First Certificate or First/General Diploma
+Any other qualifications (specify)
+
+F64c 
+{QUESTION}
+How old was your mother when she completed continuous full-time education?
+
+{ANSWERS}
+
+F65 
+{QUESTION}
+When you were 14, did your mother work as an employee, was she self-employed, or was she not working then?
+
+{ANSWERS}
+Employee 
+Self-employed 
+Not working 
+ (Mother dead/absent when respondent was 14) 
+
+F66 
+{QUESTION}
+How many employees did she have?
+
+{ANSWERS}
+None 
+1 to 24 
+25 or more 
+
+F67 
+{QUESTION}
+Did she have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F68 
+{QUESTION}
+What was the name or title of her main job?
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work she did when you were 14?
+
+{ANSWERS}
+Professional and technical occupations such as: doctor – teacher – engineer – artist – accountant 
+Higher administrator occupations such as: banker – executive in big business – high government official – union official 
+Clerical occupations such as: secretary – clerk – office manager – book keeper 
+Sales occupations such as: sales manager – shop owner – shop assistant – insurance agent 
+Service occupations such as: restaurant owner – police officer – waiter – caretaker – barber– armed forces 
+Skilled worker such as: foreman – motor mechanic – printer – tool and die maker – electrician 
+Semi-skilled worker such as: bricklayer – bus driver – cannery worker – carpenter – sheet metal worker – baker 
+Unskilled worker such as: labourer – porter – unskilled factory worker 
+Farm worker such as: farmer – farm labourer– tractor driver– fisherman 
+
+F70 
+{QUESTION}
+During the last twelve months, have you taken any course or attended any lecture or conference to improve your knowledge
+or skills for work?
+
+{ANSWERS}
+Yes 
+No 
+
+F70a
+{QUESTION}
+About how many days in total have you spent on this training or education in the last 12 months? Please count two half days as one whole day.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Now please think about what you have learnt during this training or education. How useful would what you have learnt be if you wanted to go and work for a different employer or firm? Please use this card.
+
+{ANSWERS}
+Very useful 
+Quite useful 
+Not very useful 
+Not at all useful 
+
+F70c
+{QUESTION}
+How much of this training or education was paid for by your employer or firm? Please use this card.
+
+{ANSWERS}
+All 
+Most 
+About half 
+Some 
+None 
+

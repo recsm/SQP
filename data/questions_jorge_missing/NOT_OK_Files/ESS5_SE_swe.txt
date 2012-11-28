@@ -1,0 +1,1781 @@
+﻿A1
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att titta på TV en vanlig vardag? Titta på svarsalternativen på det här kortet. 
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A2
+{QUESTION}
+Återigen en vanlig vardag, hur stor del av den tid som du tittar på TV tittar du på nyheter eller program om politik och aktuella samhällsfrågor? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A3
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att lyssna på radio en vanlig vardag? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A4
+{QUESTION}
+Och återigen en vanlig vardag, hur stor del av den tid som du lyssnar på radio lyssnar du på nyheter eller program om politik och aktuella samhällsfrågor? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A5
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att läsa dagstidningar en vanlig vardag? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A6
+{QUESTION}
+Och hur stor del av denna tid ägnar du åt att läsa om politik och aktuella samhällsfrågor? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Ingen tid alls
+Mindre än 1/2 timme
+1/2 timme, till 1 timme
+Mer än 1 timme , upp till 1 1/2 timme
+Mer än 1 och 1/2 timme , upp till 2 timmar
+Mer än 2 timmar , upp till 2 och 1/2 timme
+Mer än 2 och 1/2 timmar, upp till 3 timmar
+Mer än 3 timmar
+
+A7
+{QUESTION}
+Hur ofta använder du Internet, 'webben' eller e-post - antingen hemma eller på jobbet - för PRIVAT bruk? Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+Ingen tillgång hemma eller på jobbet
+Använder aldrig
+Mindre än en gång i månaden
+En gång i månaden
+Flera gånger i månaden
+En gång i veckan
+Flera gånger i veckan
+Varje dag
+
+A8
+{QUESTION}
+Skulle du säga att man i allmänhet kan lita på de flesta människor  eller att man inte kan vara nog försiktig när man har att göra med andra människor? Svara på en skala från 00 till 10, där 00 betyder att man inte kan vara nog försiktig och 10 betyder att man kan lita på de flesta människor. Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+00 Man kan inte vara  nog försiktig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Man kan lita på de flesta människor
+
+A9
+{QUESTION}
+Tror du att de flesta människor skulle försöka utnyttja  dig om de fick chansen eller skulle de försöka vara ärliga och rättvisa? Titta på svarsalternativen på det här kortet
+
+{ANSWERS}
+00 De flesta människor skulle försöka utnyttja mig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 De flesta människor skulle försöka vara ärliga och rättvisa
+
+A10
+{QUESTION}
+Skulle du säga att människor för det mesta försöker  vara hjälpsamma, eller att de främst ser till sig själva? Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+00 Människor ser främst till sig själva
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Människor försöker för det mesta vara hjälpsamma
+
+B1
+{INTRO}
+Nu vill vi ställa några frågor om stat och politik.
+
+{QUESTION}
+Hur intresserad skulle du säga att du är av politik? Är du...
+
+{ANSWERS}
+Mycket intresserad
+Ganska intresserad
+Inte särskilt intresserad
+Inte alls intresserad?
+
+B4
+{QUESTION}
+Med hjälp av detta kort vill jag att du, på en skala från 00 till 10, talar om hur stor tillit du personligen har till var och en av följande institutioner. 00 betyder att du inte har någon tillit alls till institutionen, och 10 betyder att du har fullständig tillit. Till att börja med... Sveriges riksdag?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B5
+{QUESTION}
+...Rättsväsendet?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B6
+{QUESTION}
+...Polisen?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B7
+{QUESTION}
+...Politiker?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B8
+{QUESTION}
+......Politiska partier?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B9
+{QUESTION}
+...Europaparlamentet?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B10
+{QUESTION}
+...FN, Förenta Nationerna?
+
+{ANSWERS}
+00 Ingen tillit alls
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fullständig tillit
+
+B11
+{INTRO}
+En del människor röstar inte nuförtiden av en eller annan anledning. 
+
+{QUESTION}
+Röstade du i det svenska riksdagsvalet den 19 september 2010?
+
+{ANSWERS}
+Ja
+Nej
+Ej röstberättigad
+
+B12
+{QUESTION}
+Vilket parti röstade du på i det valet?
+
+{ANSWERS}
+Centerpartiet 
+Folkpartiet liberalerna 
+Kristdemokraterna 
+Miljöpartiet de gröna 
+Moderaterna 
+Socialdemokraterna 
+Vänsterpartiet 
+Feministiskt initiativ, FI 
+Junilistan 
+Sverigedemokraterna 
+Annat parti ...
+
+B12TXT
+{QUESTION}
+Vilket annat parti röstade du på i det valet?
+
+{ANSWERS}
+
+B13
+{INTRO}
+Det finns olika sätt att försöka förbättra saker i Sverige eller att försöka förhindra att saker går fel.
+
+{QUESTION}
+Har du under de senaste 12 månaderna gjort något av följande: ... Kontaktat en politiker eller offentlig tjänsteman
+på riks- eller lokal nivå?
+
+{ANSWERS}
+Ja
+Nej
+
+B14
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ...Arbetat i ett politiskt parti eller en aktionsgrupp?
+
+{ANSWERS}
+Ja
+Nej
+
+B15
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ...Arbetat i annan organisation eller förening?
+
+{ANSWERS}
+Ja
+Nej
+
+B16
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ...Burit eller visat upp något kampanjmärke?
+
+{ANSWERS}
+Ja
+Nej
+
+B17
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ...Skrivit under en namninsamling?
+
+{ANSWERS}
+Ja
+Nej
+
+B18
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ... Deltagit i en laglig demonstration?
+
+{ANSWERS}
+Ja
+Nej
+
+B19
+{QUESTION}
+(Har du under de senaste 12 månaderna ... ) ...Bojkottat vissa produkter?
+
+{ANSWERS}
+Ja
+Nej
+
+B20A
+{QUESTION}
+Finns det något särskilt politiskt parti som du känner att du står närmare än något annat parti?
+
+{ANSWERS}
+Ja
+Nej
+
+B20B
+{QUESTION}
+Vilket parti?
+
+{ANSWERS}
+Centerpartiet 
+Folkpartiet liberalerna 
+Kristdemokraterna 
+Miljöpartiet de gröna 
+Moderaterna 
+Socialdemokraterna 
+Vänsterpartiet 
+Feministiskt initiativ, FI 
+Junilistan 
+Sverigedemokraterna 
+Annat parti ...
+
+B20C
+{QUESTION}
+Hur nära känner du att du står detta parti? Känner du att du står...
+
+{ANSWERS}
+Mycket nära
+Ganska nära
+Inte särskilt nära
+Inte alls nära
+
+B21
+{QUESTION}
+Är du medlem i något politiskt parti?
+
+{ANSWERS}
+Ja
+Nej
+
+B22
+{QUESTION}
+Vilket parti?
+
+{ANSWERS}
+Centerpartiet 
+Folkpartiet liberalerna 
+Kristdemokraterna 
+Miljöpartiet de gröna 
+Moderaterna 
+Socialdemokraterna 
+Vänsterpartiet 
+Feministiskt initiativ, FI 
+Junilistan 
+Sverigedemokraterna 
+Annat parti ...
+
+B23
+{INTRO}
+I politiska sammanhang brukar man ibland tala om 'vänster' och 'höger'. 
+
+{QUESTION}
+Var skulle du placera dig själv på denna skala, där 00 betyder vänster och 10 betyder höger? Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+00 Vänster 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Höger
+
+B24
+{QUESTION}
+På det hela taget, hur nöjd är du med ditt liv i stort nuförtiden? Titta på det här svarskortet där 00 betyder extremt missnöjd och 10 betyder extremt nöjd.
+
+{ANSWERS}
+00 Extremt missnöjd 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt nöjd
+
+B25
+{QUESTION}
+På det hela taget, hur nöjd är du med den ekonomiska situationen i Sverige i dagsläget? Titta fortfarande på samma kort.
+
+{ANSWERS}
+00 Extremt missnöjd 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt nöjd
+
+B26
+{QUESTION}
+Om du tänker på Sveriges regering, hur nöjd är du med hur den sköter sitt jobb? Titta fortfarande på samma kort.
+
+{ANSWERS}
+00 Extremt missnöjd 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt nöjd
+
+B27
+{QUESTION}
+Hur nöjd är du på det hela taget med hur demokratin fungerar i Sverige? Titta fortfarande på samma kort.
+
+{ANSWERS}
+00 Extremt missnöjd 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt nöjd
+
+B28
+{QUESTION}
+Nu vill jag att du säger vad du på det hela taget anser om situationen vad gäller skola och utbildning i Sverige nuförtiden. Titta på svarsalternativen på det här kortet där 00 betyder extremt dåligt och 10 betyder extremt bra.
+
+{ANSWERS}
+00 Extremt dålig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt bra
+
+B29
+{QUESTION}
+Säg vad du på det hela taget anser om situationen vad gäller hälso- och sjukvård i Sverige nuförtiden. Titta fortfarande på samma kort där 00 betyder extremt dåligt och 10 betyder extremt bra.
+
+{ANSWERS}
+00 Extremt dålig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt bra
+
+B30
+{QUESTION}
+Säg i vilken utsträckning du instämmer i eller tar avstånd från vart och ett av följande påståenden. Titta på svarsalternativen på det här kortet. Regeringen och riksdagen bör vidta åtgärder för att minska inkomstskillnader.
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd
+
+B31
+{QUESTION}
+Homosexuella män och kvinnor bör få leva sina egna liv som de själva vill.
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd
+
+
+B32
+{QUESTION}
+Politiska partier som vill avskaffa demokratin bör förbjudas.
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd
+
+B33
+{QUESTION}
+Man kan lita på att den moderna vetenskapen kan lösa våra miljöproblem.
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd
+
+B35
+
+{INTRO}
+Nu några frågor om människor från andra länder som kommer för att bo i Sverige.
+
+{QUESTION}
+I vilken utsträckning tycker du att Sverige bör tillåta människor av SAMMA hudfärg tillhörighet som majoriteten av Sveriges befolkning att komma och bo här? Använd nu detta kort.
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+B36
+{QUESTION}
+... och när det gäller människor som har en ANNAN hudfärg tillhörighet än majoriteten av Sveriges befolkning? Använd fortfarande detta kort.
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+B37
+{QUESTION}
+... och när det gäller människor från de fattigare länderna utanför Europa? Använd samma kort.
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+B38
+{QUESTION}
+Skulle du säga att det i allmänhet är dåligt eller bra för Sveriges ekonomi att människor från andra länder kommer för att bo här? Använd detta kort.
+
+{ANSWERS}
+00 Dåligt för ekonomin
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Bra för ekonomin
+
+B39
+{QUESTION}
+Skulle du säga att Sveriges kulturella liv i allmänhet undergrävs eller berikas av att människor från andra länder kommer för att bo här? Använd detta kort.
+
+{ANSWERS}
+00 Kulturellt liv undergrävs
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Kulturellt liv berikas
+
+B40
+{QUESTION}
+Blir Sverige ett sämre eller bättre land att leva i av att människor från andra länder kommer för att bo här? Använd detta kort.
+
+{ANSWERS}
+00 Sämre land att leva i
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Bättre land att leva i
+
+C1
+{INTRO}
+Och nu några frågor om dig och ditt liv. 
+
+{QUESTION}
+Allt sammantaget, hur lycklig skulle du säga att du är? Titta på detta kort.
+
+{ANSWERS}
+00 Extremt olycklig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extremt lycklig
+
+C2
+{QUESTION}
+Hur ofta umgås du med vänner, släktingar eller arbetskamrater? Titta på detta kort.
+
+{ANSWERS}
+Aldrig
+Mindre än en gång i månaden
+En gång i månaden
+Flera gånger i månaden
+En gång i veckan
+Flera gånger i veckan
+Varje dag
+
+C3
+{QUESTION}
+Har du någon som du kan diskutera intima och personliga frågor med?
+
+{ANSWERS}
+Ja
+Nej
+
+C4
+{QUESTION}
+Jämfört med andra människor i din ålder, hur ofta skulle du säga att du deltar i sociala aktiviteter? Titta på detta kort.
+
+{ANSWERS}
+Mycket mindre än de flesta
+Mindre än de flesta
+Ungefär lika mycket
+Mer än de flesta
+Mycket mer än de flesta
+
+C5
+{QUESTION}
+Har du eller någon i ditt hushåll blivit utsatt för inbrott eller överfall under de senaste 5 åren?
+
+{ANSWERS}
+Ja
+Nej
+
+C6
+{QUESTION}
+Hur trygg känner du dig, eller skulle du känna dig, att gå ensam i ditt bostadsområde efter mörkrets inbrott? Känner du dig, eller skulle du känna dig...
+
+{ANSWERS}
+Mycket trygg
+Trygg
+Otrygg
+Mycket otrygg
+
+C7 
+{QUESTION}
+Hur ofta oroar du dig, om du oroar dig alls, för att ditt hem ska utsättas för inbrott?  Titta på det här kortet 
+
+{ANSWERS}
+Alltid eller nästan alltid 
+Ibland 
+Sällan 
+Aldrig 
+
+C8 
+{QUESTION}
+Har denna oro att ditt hem ska utsättas för inbrott en..  
+
+{ANSWERS}
+...allvarlig inverkan på din livskvalitet 
+...viss inverkan 
+...eller ingen direkt inverkan på din livskvalitet 
+
+C9 
+{QUESTION}
+Hur ofta oroar du dig, om du oroar dig alls, för att bli offer för våldsbrott?  Titta på det här kortet 
+
+{ANSWERS}
+Alltid eller nästan alltid 
+Ibland 
+Sällan 
+Aldrig 
+
+C10 
+{QUESTION}
+Har denna oro att du ska bli offer för våldsbrott en... 
+
+{ANSWERS}
+Allvarlig inverkan på din livskvalitet 
+Viss inverkan 
+Eller ingen direkt inverkan på din livskvalitet 
+
+C15 
+{INTRO}
+De frågor som kommer nu handlar om dig själv. 
+
+{QUESTION}
+Hur är ditt allmänna hälsotillstånd? Skulle du säga att det är...
+
+{ANSWERS}
+Mycket bra
+Bra
+Någorlunda
+Dåligt
+Mycket dåligt
+
+C16
+{QUESTION}
+Hindras du på något sätt i dina dagliga aktiviteter av någon långvarig sjukdom eller funktionshinder, krämpor eller psykiska besvär? 
+
+{ANSWERS}
+Ja, mycket
+Ja, i viss utsträckning
+Nej
+
+C17
+{QUESTION}
+Anser du dig tillhöra någon särskild religion eller samfund?
+
+{ANSWERS}
+Ja
+Nej
+
+C18
+{QUESTION}
+Vilken då?
+
+{ANSWERS}
+Katolska kyrkan
+Svenska kyrkan
+Annan protestantisk församling (t.ex frikyrka)
+Ortodoxa kyrkan
+Annan kristen församling
+Judisk
+Islam
+Österländsk religion (t ex Buddhism, Hinduism, Sikh, Shinto, Tao etc.)
+Annan Icke-kristen religión
+
+C19
+{QUESTION}
+Har du någonsin ansett dig tillhöra någon särskild religion eller samfund?
+
+{ANSWERS}
+Ja
+Nej
+
+C20
+{QUESTION}
+Vilken då?
+
+{ANSWERS}
+Katolska kyrkan
+Svenska kyrkan
+Annan protestantisk församling (t.ex frikyrka)
+Ortodoxa kyrkan
+Annan kristen församling
+Judisk
+Islam
+Österländsk religion (t ex Buddhism, Hinduism, Sikh, Shinto, Tao etc.)
+Annan Icke-kristen religión
+
+C21
+{QUESTION}
+Oavsett om du tillhör någon särskild religion eller inte, hur religiös skulle du säga att du är? Titta på det här kortet.
+
+{ANSWERS}
+00 Inte alls religiös
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mycket religiös
+
+C22
+{QUESTION}
+Förutom vid särskilda tillfällen såsom bröllop och begravningar, ungefär hur ofta besöker du religiösa sammankomster nuförtiden? Titta på detta svarskort.
+
+{ANSWERS}
+Varje dag
+Mer än en gång i veckan
+En gång i veckan
+Minst en gång i månaden
+Bara under speciella helgdagar
+Mindre ofta
+Aldrig
+
+C23
+{QUESTION}
+Förutom när du är på religiösa sammankomster, hur ofta, om någonsin, ber du? Titta fortfarande på samma kort.
+
+{ANSWERS}
+Varje dag
+Mer än en gång i veckan
+En gång i veckan
+Minst en gång i månaden
+Bara under speciella helgdagar
+Mindre ofta
+Aldrig
+
+C24
+{QUESTION}
+Skulle du säga att du tillhör en grupp som är diskriminerad i detta land?
+
+{ANSWERS}
+Ja
+Nej
+
+C25
+{QUESTION}
+På vilka grunder är din grupp utsatt för diskriminering?
+
+{ANSWERS}
+Hudfärg 
+Nationalitet
+Religion
+Språk
+Etnisk tillhörighet
+Ålder
+Kön
+Sexuell läggning
+Funktionshinder
+Annat
+
+C25TXT
+{QUESTION}
+På vilka andra grunder är din grupp utsatt för diskriminering?
+
+{ANSWERS}
+
+C26
+{QUESTION}
+Är du svensk medborgare?
+
+{ANSWERS}
+Ja
+Nej
+
+C27
+{QUESTION}
+Vilket medborgarskap har du?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+Är du född i Sverige?
+
+{ANSWERS}
+Ja
+Nej
+
+C29
+{QUESTION}
+I vilket land är du född?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+Vilket år kom du för att bo i Sverige?
+
+{ANSWERS}
+
+C31
+{QUESTION}
+Vilket eller vilka språk talar du för det mesta hemma?
+
+{ANSWERS}
+
+C31B
+{QUESTION}
+Brukar du tala något ytterligare språk hemma? I så fall vilket?
+
+{ANSWERS}
+
+C32
+{QUESTION}
+Tillhör du någon etnisk minoritetsgrupp i Sverige?
+
+{ANSWERS}
+Ja
+Nej
+
+C33
+{QUESTION}
+Är din far född i Sverige?
+
+{ANSWERS}
+Ja
+Nej
+
+C34
+{QUESTION}
+I vilket land föddes din far?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Är din mor född i Sverige?
+
+{ANSWERS}
+Ja
+Nej
+
+C36
+{QUESTION}
+I vilket land föddes din mor?
+
+{ANSWERS}
+
+F1
+{INTRO}
+Nu skulle jag vilja fråga några saker om dig själv och andra i ditt hushåll.
+
+{QUESTION}
+Om du räknar med dig själv, hur många personer - inklusive barn - bor i detta hushåll?
+
+{ANSWERS}
+
+F302
+{QUESTION}
+Vilket år föddes han?
+
+{ANSWERS}
+
+F4
+{QUESTION}
+Vilken relation har han till dig? Titta på det här kortet.
+
+{ANSWERS}
+Make/maka/sambo
+Son/dotter (inkl. partners barn/styvbarn/adopterat barn/ fosterbarn).
+Förälder/svärförälder/partners förälder/styvfar/styvmor
+Annan släkting
+Annan icke-släkting
+
+F5
+{QUESTION}
+Vilket svarsalternativ på detta kort beskriver bäst området där du bor?
+
+{ANSWERS}
+En storstad
+En förort eller utkanten av en storstad
+En liten eller mellanstor stad
+En by
+En gård eller ett hus på landet
+
+F6 
+{QUESTION}
+Du har berättat att du bor tillsammans med din make.  Vilken av följande beskrivningar på det här kortet stämmer in på ditt förhållande till honom? 
+
+{ANSWERS}
+Gift 
+Registrerat partnerskap 
+Sambo 
+Skild / Registrerat partnerskap upplöst 
+
+F7 
+{QUESTION}
+Har du NÅGON GÅNG bott ihop med en partner, utan att ha varit gift eller registrerad partner med honom? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F8
+{QUESTION}
+Har du någonsin skilt dig? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F11 
+{QUESTION}
+Den här frågan gäller ditt CIVILSTÅND, inte vem du eventuellt bor ihop med. Vilken av följande beskrivningar på det här kortet passar bäst in på ditt civilstånd just nu? 
+
+{ANSWERS}
+Gift 
+Registrerat partnerskap 
+Skild / registrerat partnerskap upplöst 
+Änkling/änka/partner i registrerat partnerskap avliden 
+Ingen av dessa 
+(har ALDRIG varit gift eller partner i ett registrerat partnerskap) 
+
+F13 
+{QUESTION}
+Har du någonsin haft några egna barn, styvbarn, adoptivbarn, fosterbarn eller partners barn  som har bott i ditt hushåll? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F13A
+{QUESTION}
+Finns det en fast teleanslutning i din bostad? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F14 
+{QUESTION}
+Vilket svarsalternativ på detta kort beskriver bäst området där du bor? 
+
+{ANSWERS}
+En storstad 
+En förort eller utkanten av en storstad 
+En liten eller mellanstor stad 
+En by 
+En gård eller ett hus på landet 
+
+F15 
+{QUESTION}
+Vilken är din högsta avklarade utbildning? Använd detta kort när Du svarar. 
+
+{ANSWERS}
+Ej avslutad Folkskola / Grundskola (1 - 6 skolår) 
+Avslutad Folkskola / Grundskola (7 - 8 skolår) 
+Avslutad Grundskola (9 skolår) / Realskola 
+Fackskola (1963-1970) / 2-årig gymnasielinje / 2-årig yrkesskola 
+Studieförberedande gymnasieprogram (3 år) 
+Gamla gymnasieutbildningar (2 år) / Flickskola 
+Yrkesinriktade gymnasieprogram (3 år) 
+4-årig gymnasielinje (före 1995) / Tekniskt basår 
+Universitet / Högskola (1 år) med examen 
+Eftergymnasial utbildning (1 år), t.ex. KY-utb, militärutb (Ej Universitet / Högskola) 
+Universitet / Högskola (2 år) med examen (högskoleexamen) 
+Eftergymnasial utbildning (3 år) / KY-utbildning (2-3 år) (Ej Universitet / Högskola) 
+Kandidat och/eller yrkesexamen från Högskola (3 år) 
+Kandidat och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (3 år) 
+Magisterexamen och/eller yrkesexamen från Högskola (4 år) 
+Mastersexamen från Högskola 
+Magisterexamen och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (4 år) 
+Mastersexamen från Universitet, KTH, CTH, Handelshögskolan 
+Forskarutbildning: Licentiatexamen 
+Forskarutbildning: Doktorsexamen 
+
+F16 
+{QUESTION}
+Hur många års utbildning har du fullföljt, oavsett om det är heltids- eller deltidsstudier?  Räkna om till motsvarande heltidsstudier. Inkludera även grundskolan. 
+  
+{ANSWERS}
+
+F17A 
+{QUESTION}
+Vilka av dessa beskrivningar passar in på vad du har gjort under de senaste sju dagarna?  Använd det här kortet. 
+
+{ANSWERS}
+Förvärvsarbete (eller för tillfället ledig / bortrest / på semester), (anställd, egenföretagare, arbetat i familjeföretaget) 
+Utbildning, även under lov/ledighet (ej utbildning betald av en arbetsgivare) 
+Arbetslös och aktivt arbetssökande 
+Arbetslös, vill ha ett arbete men är inte aktivt arbetssökande 
+Sjukersättning (Förtidspension p.g.a. sjukdom eller funktionshinder) 
+Ålderspensionerad 
+Militärtjänstgöring eller samhällstjänst 
+Skötte eget hushåll (ej som löneanställd) 
+Annat 
+
+F17C 
+{QUESTION}
+Vilken av dessa passar BÄST in på vad du har gjort under de senaste sju dagarna?  Använd samma kort igen. 
+
+{ANSWERS}
+
+F18 
+{QUESTION}
+Utförde du något betalt arbete på minst en timme under de senaste sju dagarna? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F19 
+{QUESTION}
+Har du någonsin haft ett betalt arbete? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F20 
+{QUESTION}
+Vilket år hade du senast ett betalt arbete? 
+ 
+{ANSWERS}
+
+F21
+{QUESTION}
+Är du ... 
+
+{ANSWERS}
+ ... anställd, 
+... egen företagare, eller 
+... arbetande i familjeföretaget? 
+
+F22 
+{QUESTION}
+Hur många anställda (om några) har du? 
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Är du.... 
+
+{ANSWERS}
+... tillsvidareanställd, 
+... tidsbegränsat anställd, eller 
+... <<TEXT 'har' om UParbetar = 'ja'>><<TEXT 'hade' om UParbetar = 'nej'>> du inget anställningsbevis? 
+
+F23A 
+{QUESTION}
+När ditt jobb började, tror du att din arbetsgivare betraktade det som ... 
+
+{ANSWERS}
+... ett tillfälligt eller tidsbegränsat jobb som skulle vara kortare tid än 12 månader, 
+... ett tillfälligt eller tidsbegränsat jobb som skulle vara 12 månader eller mer, 
+... eller ett fast jobb? 
+ANNAT 
+
+F24 
+{QUESTION}
+Om du räknar med dig själv, ungefär hur många anställda finns på din arbetsplats? 
+
+{ANSWERS}
+Under 10 
+10 till 24 
+25 till 99
+100 till 499 
+500 eller fler 
+
+F25 
+{QUESTION}
+Har du någon arbetsledande funktion? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F26 
+{QUESTION}
+Hur många personer är du ansvarig för? 
+
+{ANSWERS}
+
+F27 
+{INTRO}
+Jag kommer att läsa en lista på saker som rör ditt arbetsliv. 
+
+{QUESTION}
+Titta på det här kortet och säg hur mycket ledningen på din arbetsplats tillåter dig ... att bestämma hur ditt eget dagliga arbete organiseras.
+
+{ANSWERS}
+00 Jag har/hade inget inflytande
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Jag har/hade full kontroll
+
+F28 
+{QUESTION}
+... att påverka principiella beslut som rör organisationens verksamhet och inriktning. 
+
+{ANSWERS}
+00 Jag har/hade inget inflytande
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Jag har/hade full kontroll
+
+F28A 
+{QUESTION}
+... att välja eller förändra din arbetstakt. 
+
+{ANSWERS}
+00 Jag har/hade inget inflytande
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Jag har/hade full kontroll
+
+F29 
+{QUESTION}
+Vilken är den totala veckoarbetstiden enligt ditt avtal,  förutom eventuell betald eller obetald övertid? 
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Oavsett din arbetstid enligt avtal, hur många timmar arbetar du normalt per vecka,  inklusive eventuell betald eller obetald övertid? 
+ 
+{ANSWERS}
+
+F31 
+{QUESTION}
+Vilken är den huvudsakliga verksamheten eller tillverkningen på din arbetsplats? 
+ 
+{ANSWERS}
+
+F32 
+{QUESTION}
+Titta på det här kortet. Vilken slags organisation arbetar du för? 
+
+{ANSWERS}
+Statlig eller kommunal förvaltning 
+Offentlig sektor (t.ex. skolan eller sjukvården) 
+Offentligt företag 
+Privat företag 
+Egenföretagare 
+Annat 
+
+F33 
+{QUESTION}
+Till vilket yrke vill du räkna ditt senaste arbete? 
+ 
+{ANSWERS}
+
+F34 
+{QUESTION}
+Vilka är dina huvudsakliga arbetsuppgifter? 
+
+{ANSWERS}
+
+F34A 
+{QUESTION}
+Vilken utbildning eller kvalifikationer är nödvändiga för ditt arbete? 
+
+{ANSWERS}
+
+F34B 
+{QUESTION}
+Vilka av anledningarna på detta kort beskriver bäst den huvudsakliga anledningen till att du slutade hos din förra arbetsgivare? 
+
+{ANSWERS}
+Jag fick ett bättre jobb 
+Jag bestämde mig för att starta egen firma 
+Min anställning upphörde 
+Jag blev friställd eller avskedad 
+Arbetsgivarens verksamhet upphörde 
+Mitt eget eller familjeföretaget lades ner eller såldes 
+Sjukdom eller skada 
+Jag gick i pension 
+Personliga eller familjeskäl 
+Annat 
+HAR ALDRIG LÄMNAT EN ARBETSGIVARE 
+
+F35 
+{QUESTION}
+Har du under de senaste 10 åren utfört något betalt arbete i något annat land under en period av sex månader eller mer? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F36 
+{QUESTION}
+Har du NÅGONSIN varit arbetslös och arbetssökande under en period längre än tre månader? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F37 
+{QUESTION}
+Har någon av dessa perioder varat i tolv månader eller mer? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F38 
+{QUESTION}
+Har någon av dessa perioder (3 eller 12 månader) varit under de senaste fem åren? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F39 
+{QUESTION}
+Är du eller har du någonsin varit medlem i en fackförening eller liknande organisation? 
+
+{ANSWERS}
+Ja, är för närvarande medlem 
+Ja, har tidigare varit medlem 
+Nej 
+
+F40 
+{QUESTION}
+Vilken är den främsta inkomstkällan i ditt hushåll? Ta med i beräkningen alla hushållsmedlemmars inkomster och all den inkomst som hushållet som helhet erhåller. Titta på det här svarskortet. 
+
+{ANSWERS}
+Löner 
+Inkomst från eget företag (ej från jordbruk) 
+Inkomst från jordbruk 
+Pensioner 
+Arbetslöshetsersättning eller avgångsvederlag 
+Någon annan typ av understöd eller sociala bidrag  (t.ex sjukpenning, föräldrapenning, socialbidrag, studielån) 
+Inkomst från investeringar, sparkapital, försäkringar / försäkringsutbetalningar eller annan egendom 
+Inkomst från någon annan källa 
+
+F41 
+{QUESTION}
+Titta på det här kortet. Om du lägger ihop alla inkomstkällor, vilken bokstav beskriver ditt hushålls totala nettoinkomst i månaden? Gör en uppskattning om du inte vet den exakta siffran. 
+
+{ANSWERS}
+Hushållets totala nettoinkomst i månaden 
+( J ) Upp till 11 499 
+( R ) 11 500 - 13 999 
+( C ) 14 000 - 16 999 
+( M ) 17 000 - 19 999 
+( F ) 20 000 - 23 999 
+( S ) 24 000 - 27 999 
+( K ) 28 000 - 31 999 
+( P ) 32 000 - 35 999 
+( D ) 36 000 - 43 999 
+( H ) 44 000 eller mer 
+
+F41A 
+{QUESTION}
+Ungefär hur stor del av hushållets inkomst bidrar du med? Använd detta kort. 
+
+{ANSWERS}
+Ingen 
+Väldigt liten 
+Mindre än hälften 
+Ungefär hälften 
+Mer än hälften 
+Väldigt stor 
+Hela 
+
+F42 
+{QUESTION}
+Vilket av svarsalternativen på det här kortet beskriver bäst hur du uppfattar ditt hushålls nuvarande inkomst? Använd detta svarskort. 
+
+{ANSWERS}
+Klarar oss/mig bra på den nuvarande inkomsten. 
+Klarar oss/mig på den nuvarande inkomsten. 
+Har svårt att klara oss/mig på den nuvarande inkomsten. 
+Har mycket svårt att klara oss/mig på den nuvarande inkomsten.
+
+F43 
+{QUESTION}
+Om du av någon anledning hamnade i allvarliga ekonomiska svårigheter och var tvungen  att låna pengar för att få det att gå ihop, hur svårt eller lätt skulle det vara? Titta på det här svarskortet. 
+
+{ANSWERS}
+Mycket svårt 
+Ganska svårt 
+Varken lätt eller svårt 
+Ganska lätt 
+Mycket lätt 
+
+F45 
+{QUESTION}
+Vilken är din makes högsta utbildning? 
+
+{ANSWERS}
+Ej avslutad Folkskola / Grundskola (1 - 6 skolår) 
+Avslutad Folkskola / Grundskola (7 - 8 skolår) 
+Avslutad Grundskola (9 skolår) / Realskola 
+Fackskola (1963-1970) / 2-årig gymnasielinje / 2-årig yrkesskola 
+Studieförberedande gymnasieprogram (3 år) 
+Gamla gymnasieutbildningar (2 år) / Flickskola 
+Yrkesinriktade gymnasieprogram (3 år) 
+4-årig gymnasielinje (före 1995) / Tekniskt basår 
+Universitet / Högskola (1 år) med examen
+Eftergymnasial utbildning (1 år), t.ex. KY-utb, militärutb (Ej Universitet / Högskola) 
+Universitet / Högskola (2 år) med examen (högskoleexamen) 
+Eftergymnasial utbildning (3 år) / KY-utbildning (2-3 år) (Ej Universitet / Högskola) 
+Kandidat och/eller yrkesexamen från Högskola (3 år) 
+Kandidat och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (3 år) 
+Magisterexamen och/eller yrkesexamen från Högskola (4 år) 
+Mastersexamen från Högskola 
+Magisterexamen och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (4 år) 
+Mastersexamen från Universitet, KTH, CTH, Handelshögskolan 
+Forskarutbildning: Licentiatexamen 
+Forskarutbildning: Doktorsexamen 
+ 
+F46A 
+{QUESTION}
+Vilka av dessa beskrivningar passar in på vad din make har gjort under de senaste sju dagarna? Använd det här kortet. 
+
+{ANSWERS}
+Förvärvsarbete (eller för tillfället ledig/bortrest/på semester),  (anställd, egenföretagare, arbetat i familjeföretaget) 
+Utbildning, även under lov/ledighet (ej utbildning betald av en arbetsgivare) 
+Arbetslös och aktivt arbetssökande 
+Arbetslös, vill ha ett arbete men är inte aktivt arbetssökande 
+Sjukersättning (Förtidspension p.g.a. sjukdom eller funktionshinder) 
+Ålderspensionerad 
+Militärtjänstgöring eller samhällstjänst 
+Skötte eget hushåll (ej som löneanställd)
+Annat
+
+F46C 
+{QUESTION}
+Vilken av dessa passar BÄST in på vad han har gjort under de senaste sju dagarna? Använd samma kort igen. 
+
+{ANSWERS}
+Förvärvsarbete (eller för tillfället ledig/bortrest/på semester),  (anställd, egenföretagare, arbetat i familjeföretaget) 
+Utbildning, även under lov/ledighet (ej utbildning betald av en arbetsgivare) 
+Arbetslös och aktivt arbetssökande 
+Arbetslös, vill ha ett arbete men är inte aktivt arbetssökande 
+Sjukersättning (Förtidspension p.g.a. sjukdom eller funktionshinder) 
+Ålderspensionerad 
+Militärtjänstgöring eller samhällstjänst 
+Skötte eget hushåll (ej som löneanställd)
+Annat
+
+F47 
+{QUESTION}
+Utförde han något betalt arbete (d.v.s. minst en timme) under de senaste sju dagarna? 
+
+{ANSWERS}
+Ja 
+Nej 
+ 
+F48 
+{QUESTION}
+Till vilket yrke vill du räkna din makes arbete? 
+ 
+{ANSWERS}
+
+F49 
+{QUESTION}
+Vilka är hans huvudsakliga arbetsuppgifter? 
+ 
+{ANSWERS}
+
+F50 
+{QUESTION}
+Vilken utbildning eller kvalifikationer är nödvändiga för hans arbete? 
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+Är din make ... 
+ 
+{ANSWERS}
+... anställd, 
+... egen företagare, eller 
+... arbetande i familjeföretaget? 
+ 
+F52 
+{QUESTION}
+Hur många anställda (om några) har han? 
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Har din make någon arbetsledande funktion? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F54 
+{QUESTION}
+Hur många personer är han ansvarig för? 
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Hur många timmar arbetar han normalt per vecka (i sitt huvudsakliga jobb)? Jag vill att du inkluderar eventuell betald eller obetald övertid. 
+ 
+{ANSWERS}
+
+F58 
+{QUESTION}
+Vilken är din fars högsta utbildning? 
+
+{ANSWERS}
+Ej avslutad Folkskola / Grundskola (1 - 6 skolår
+Avslutad Folkskola / Grundskola (7 - 8 skolår) 
+Avslutad Grundskola (9 skolår) / Realskola 
+Fackskola (1963-1970) / 2-årig gymnasielinje / 2-årig yrkesskola 
+Studieförberedande gymnasieprogram (3 år) 
+Gamla gymnasieutbildningar (2 år) / Flickskola 
+Yrkesinriktade gymnasieprogram (3 år) 
+4-årig gymnasielinje (före 1995) / Tekniskt basår 
+Universitet / Högskola (1 år) med examen 
+Eftergymnasial utbildning (1 år), t.ex. KY-utb, militärutb (Ej Universitet / Högskola) 
+Universitet / Högskola (2 år) med examen (högskoleexamen) 
+Eftergymnasial utbildning (3 år) / KY-utbildning (2-3 år) (Ej Universitet / Högskola) 
+Kandidat och/eller yrkesexamen från Högskola (3 år) 
+Kandidat och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (3 år) 
+Magisterexamen och/eller yrkesexamen från Högskola (4 år) 
+Mastersexamen från Högskola 
+Magisterexamen och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (4 år) 
+Mastersexamen från Universitet, KTH, CTH, Handelshögskolan 
+Forskarutbildning: Licentiatexamen 
+Forskarutbildning: Doktorsexamen 
+ 
+F59 
+{QUESTION}
+När du var 14 år gammal, var din far då ... 
+
+{ANSWERS}
+... anställd, 
+... egenföretagare, eller 
+... inte förvärvsarbetande? 
+FADER DÖD / FRÅNVARANDE NÄR UP VAR 14 ÅR 
+
+F60 
+{QUESTION}
+Hur många anställda (om några) hade han? 
+
+{ANSWERS}
+Inga 
+1 – 24
+25 eller fler 
+
+F61 
+{QUESTION}
+Hade han någon arbetsledande funktion? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F62 
+{QUESTION}
+Vilket yrke hade din far? 
+ 
+{ANSWERS}
+
+F63 
+{QUESTION}
+Vilken av beskrivningarna på detta kort beskriver bäst vilken typ av arbete han utförde när du var 14? 
+
+{ANSWERS}
+Professionella & tekniska yrken (t.ex. läkare, lärare, ingenjör, konstnär, revisor) 
+Högre tjänstemannayrket (t.ex. högre banktjänsteman, chef på storföretag,  högre regeringstjänsteman, fackföreningstjänsteman) 
+Kontorsyrken (t.ex. sekreterare, kontorist, kontorschef, bokhållare) 
+Försäljningsyrken (t.ex. försäljningschef, affärsinnehavare, affärsbiträde,  försäkringsagent) 
+Serviceyrken (t.ex. restaurangägare, polis, kypare, vaktmästare, frisör) 
+Kvalificerat yrkesarbete (t.ex. förman, mekaniker, verktygsmakare, elektriker) 
+Halvkvalificerat yrkesarbete (t.ex. murare, busschaufför, snickare, plåtslagare, bagare) 
+Okvalificerat arbete (t.ex. grovarbetare, stadsbud, ej yrkesutbildad fabriksarbetare) 
+Lantarbetare (t.ex. lantbrukare, lantarbetare, traktorförare, fiskare) 
+
+F64 
+{QUESTION}
+Vilken är din mors högsta utbildning? 
+
+{ANSWERS}
+Ej avslutad Folkskola / Grundskola (1 - 6 skolår) 
+Avslutad Folkskola / Grundskola (7 - 8 skolår) 
+Avslutad Grundskola (9 skolår) / Realskola 
+Fackskola (1963-1970) / 2-årig gymnasielinje / 2-årig yrkesskola 
+Studieförberedande gymnasieprogram (3 år) 
+Gamla gymnasieutbildningar (2 år) / Flickskola 
+Yrkesinriktade gymnasieprogram (3 år) 
+4-årig gymnasielinje (före 1995) / Tekniskt basår 
+Universitet / Högskola (1 år) med examen 
+Eftergymnasial utbildning (1 år), t.ex. KY-utb, militärutb (Ej Universitet / Högskola) 
+Universitet / Högskola (2 år) med examen (högskoleexamen) 
+Eftergymnasial utbildning (3 år) / KY-utbildning (2-3 år) (Ej Universitet / Högskola) 
+Kandidat och/eller yrkesexamen från Högskola (3 år) 
+Kandidat och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (3 år) 
+Magisterexamen och/eller yrkesexamen från Högskola (4 år) 
+Mastersexamen från Högskola 
+Magisterexamen och/eller yrkesexamen från Universitet, KTH, CTH, Handelshögskolan (4 år) 
+Mastersexamen från Universitet, KTH, CTH, Handelshögskolan 
+Forskarutbildning: Licentiatexamen 
+Forskarutbildning: Doktorsexamen 
+
+F65 
+{QUESTION}
+När du var 14 år gammal, var din mor då ... 
+
+{ANSWERS}
+... anställd, 
+... egenföretagare, eller 
+... inte förvärvsarbetande? 
+MODER DÖD / FRÅNVARANDE NÄR UP VAR 14 ÅR 
+
+F66 
+{QUESTION}
+Hur många anställda (om några) hade hon? 
+
+{ANSWERS}
+Inga 
+1 - 24 
+25 eller fler 
+
+F67 
+{QUESTION}
+Hade hon någon arbetsledande funktion? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F68 
+{QUESTION}
+Vilket yrke hade din mor? 
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Vilken av beskrivningarna på detta kort beskriver bäst vilken typ av arbete hon utförde när du var 14? 
+
+{ANSWERS}
+Professionella & tekniska yrken (t.ex. läkare, lärare, ingenjör, konstnär, revisor) 
+Högre tjänstemannayrket (t.ex. högre banktjänsteman, chef på storföretag,  högre regeringstjänsteman, fackföreningstjänsteman) 
+Kontorsyrken (t.ex. sekreterare, kontorist, kontorschef, bokhållare) 
+Försäljningsyrken (t.ex. försäljningschef, affärsinnehavare, affärsbiträde,  försäkringsagent) 
+Serviceyrken (t.ex. restaurangägare, polis, kypare, vaktmästare, frisör) 
+Kvalificerat yrkesarbete (t.ex. förman, mekaniker, verktygsmakare, elektriker) 
+Halvkvalificerat yrkesarbete (t.ex. murare, busschaufför, snickare, plåtslagare, bagare) 
+Okvalificerat arbete (t.ex. grovarbetare, stadsbud, ej yrkesutbildad fabriksarbetare) 
+Lantarbetare (t.ex. lantbrukare, lantarbetare, traktorförare, fiskare) 
+
+F70 
+{QUESTION}
+Under de senaste tolv månaderna, har du deltagit i någon kurs eller konferens, eller gått på någon föreläsning i syfte att förbättra dina kunskaper eller färdigheter i arbetet? 
+
+{ANSWERS}
+Ja 
+Nej 
+
+F70A 
+{QUESTION}
+Ungefär hur många dagar totalt sett har du tillbringat på den här utbildningen under de senaste 12 månaderna? Räkna två halvdagar som en heldag.
+
+{ANSWERS}
+
+F70B 
+{QUESTION}
+Tänk nu på vad du har lärt dig under utbildningen. Hur användbart skulle det du har lärt dig vara om du skulle vilja arbeta för en annan arbetsgivare eller annat företag? Använd det här kortet. 
+
+{ANSWERS}
+Väldigt användbart 
+Ganska användbart 
+Inte särskilt användbart 
+Inte användbart alls 
+
+F70C 
+{QUESTION}
+Hur stor del av den här utbildningen betalades av din arbetsgivare eller ditt företag? 
+
+{ANSWERS}
+Hela 
+Den största delen
+Ungefär hälften 
+En liten del 
+Ingenting 
+

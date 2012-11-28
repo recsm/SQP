@@ -1,0 +1,1811 @@
+﻿A1
+{QUESTION}
+Într-o zi lucrătoare a săptămanii (de luni pană vineri) cât timp vă petreceţi … Uitîndu-vă la TV
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A2
+{QUESTION}
+Urmărind la TV ştiri sau programe destinate vieţii politice şi problemelor pe care le rezolvă guvernul
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A3
+{QUESTION}
+Ascultînd radioul
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A4
+{QUESTION}
+Ascultînd la radio ştiri sau programe destinate vieţii politice şi problemelor pe care le rezolvă guvernul
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A5
+{QUESTION}
+Citind ziarele
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A6
+{QUESTION}
+Citind articole din ziare despre politică şi modul în care guvernanţii rezolvă problemele cetăţenilor
+
+{ANSWERS}
+Deloc
+Mai puţin de jumătate de oră
+Între ½ oră şi o oră
+Între o oră şi o oră şi ½
+Între o oră şi ½ şi 2 ore
+Între 2 ore şi 2 ore şi ½
+Între 2 ore şi ½ şi 3 ore
+Mai mult de 3 ore
+
+A7
+{QUESTION}
+Cit de des folosiţi Internetul sau emailul – fie la serviciu, fie acasă – în interes personal (nelegat de sarcini de serviciu)? 
+
+{ANSWERS}
+Nu am acces la internet acasa sau la serviciu 
+Niciodată 
+Mai puţin de o dată pe lună 
+O dată pe lună 
+De câteva ori pe lună
+O dată pe săptămînă
+De câteva ori pe săptămînă
+În fiecare zi a săptămînii
+
+A8
+{QUESTION}
+In general vorbind, credeţi că “poţi avea încredere în majoritatea oamenilor” sau că “trebuie să fii prudent în relaţiile cu ceilalţi oameni”? Vă rog să daţi o notă pe o scală de la 0 la 10, unde 0 înseamnă că “trebuie să fii prudent în relaţiile cu ceilalţi oameni ” şi 10 înseamnă că “poţi avea încredere în majoritatea oamenilor”.
+
+{ANSWERS}
+0 Trebuie să fi prudent în relaţia cu oamenii 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Poţi avea încredere în majoritatea oamenilor
+
+A9
+{QUESTION}
+Pe aceeaşi scală de la 0 la 10, credeţi ca cei mai mulţi dintre oameni ar încerca să profite de pe urma altora sau că cei mai mulţi oameni ar fi cinstiţi (oneşti)? 
+
+{ANSWERS}
+0Cei mai mulţi oameni ar încerca să profite de pe urma altora
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cei mai mulţi oameni ar fi cinstiţi (oneşti)
+
+A10
+{QUESTION}
+Pe o scală de la 0 la 10, aţi spune că de cele mai multe ori oamenii îşi urmăresc propriile interese sau că de cele mai multe ori oamenii încearcă să îi ajute pe cei din jur? 
+
+{ANSWERS}
+0 De cele mai multe ori oamenii isi urmăresc propriile interese
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 De cele mai multe ori oamenii încearcă să ii ajute pe ceilalţi
+
+{INTRO}
+Acum vă voi adresa câteva întrebări legate de politică şi guvernare
+
+B1
+{QUESTION}
+Cit de interesat sunteţi de politică?
+
+{ANSWERS}
+Foarte interesat /ă 
+Interesat /ă
+Nu prea interesat/ă
+Deloc interesat/ă 
+
+ B2
+{QUESTION}
+Cât de des aveţi impresia că politica este atat de complicată încat nu puteţi înţelege ce se întâmplă de fapt în politică?
+
+{ANSWERS}
+Niciodată 
+Rar 
+Uneori/Din când în când 
+De multe ori 
+De foarte multe ori
+
+B3
+{QUESTION}
+Cât de greu sau cât de uşor vă formaţi propria părere cu privire la chestiunile politice?
+
+{ANSWERS}
+Foarte greu 
+Greu 
+Nici greu, nici uşor 
+Uşor 
+Foarte uşor
+
+B4 
+{QUESTION}
+Vă rog să îmi spuneţi, câtă încredere aveţi în fiecare dintre instituţiile pe care vi le voi citi, pe scală de la 0 la 10, unde 0 înseamnă că nu aveţi deloc încredere în acea instituţie, iar 10 înseamnă că aveţi încredere totală în instituţia respectivă. Cită incredere aveţi în… Parlamentul României?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B5 
+{QUESTION}
+sistemul de justiţie?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B6
+{QUESTION}
+poliţie?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B7
+{QUESTION}
+politicieni?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B8
+{QUESTION}
+partide politice?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B9
+{QUESTION}
+Parlamentul European?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B10
+{QUESTION}
+Naţiunile Unite (ONU)?
+
+{ANSWERS}
+0 Nu am deloc încredere
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Incredere totală
+
+B11
+{INTRO}
+In zilele noastre, dintr-un motiv sau altul, unii oameni nu votează. 
+
+{QUESTION}
+Dumneavoastră aţi votat la ultimele alegeri parlamentare din 30 noiembrie 2008?
+
+{ANSWERS}
+Da, am votat 
+Nu, nu am votat 
+Nu am votat fiindcă nu aveam vîrsta de 18 ani 
+
+B12
+{QUESTION}
+Cu ce partid sau formaţiune politică ati votat la ultimele alegeri generale din noiembrie 2008?
+
+{ANSWERS}
+PD-L
+Alianţa PSD-PC
+PNL
+PRM
+UDMR
+PNG-CD
+Alt partid/Care?
+
+B13
+{INTRO}
+Există diferite căi prin care oamenii pot încerca să îmbunătească situaţia din România. 
+
+{QUESTION}
+În ultimele 12 luni, dvs. personal…? Aţi contactat un politician, un reprezentant al guvernului sau un reprezentant al autorităţilor locale (primar, vice-primar, consilieri)?
+
+{ANSWERS}
+Da
+Nu
+
+B14
+{QUESTION}
+Aţi activat într-un partid politic sau într-un grup de acţiune civică?
+
+{ANSWERS}
+Da
+Nu
+
+B15
+{QUESTION}
+Aţi activat într-o altă organizaţie sau asociaţie?
+
+{ANSWERS}
+Da
+Nu
+
+B16
+{QUESTION}
+Aţi purtat insigne sau împărţit fluturaşi de campanie?
+
+{ANSWERS}
+Da
+Nu
+
+B17
+{QUESTION}
+Aţi semnat o petiţie?
+
+{ANSWERS}
+Da
+Nu
+
+B18
+{QUESTION}
+Aţi participat la o demonstraţie publică sau un miting legale?
+
+{ANSWERS}
+Da
+Nu
+
+B19
+{QUESTION}
+Aţi boicotat (aţi refuzat să cumpăraţi şi utilizaţi) anumite produse?
+
+{ANSWERS}
+Da
+Nu
+
+B20a
+{QUESTION}
+Există vreun partid politic de care vă simţiţi mai apropiat decît de altele?
+
+{ANSWERS}
+Da
+Nu
+
+B20b
+{QUESTION}
+Care este partidul politic de care vă simiţit mai apropiat decit de alte partide?
+
+{ANSWERS}
+PNL
+PD-L
+PSD
+PRM
+UDMR
+PC
+PNG-CD
+PIN
+PPCD (PNTCD)
+Alt partid (Care?)
+
+B20c
+{QUESTION}
+Cît de apropiat vă simiţit de acest partid?
+
+{ANSWERS}
+Foarte apropiat 
+Destul de apropiat
+Puţin apropiat
+Deloc apropiat
+
+B21
+{QUESTION}
+Sunteţi membru al vreunui partid politic?
+
+{ANSWERS}
+Da
+Nu
+
+B22
+{QUESTION}
+Al cărui partid politic sunteţi membru?
+
+{ANSWERS}
+PNL
+PD-L
+PSD
+PRM
+UDMR
+PC
+PNG-CD
+PIN
+PNTCD
+Alt partid (Care?)
+
+B23
+{INTRO}
+În politică se vorbeşte despre “Dreapta” şi “Stânga”.
+
+{QUESTION}
+Pe o scală de la 0 la 10, unde 0 înseamnă Stânga şi 10 înseamnă Dreapta, unde vă situaţi dvs. din punctul de vedere al opiniilor politice?
+
+{ANSWERS}
+0 Stânga
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Dreapta
+
+B24
+{QUESTION}
+Pe o scală de la 0 la 10 cat de mulţumit sunteţi de…?… Viaţa dvs. în general?
+
+{ANSWERS}
+0 Total nemulţumit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Total Mulţumit
+
+B25
+{QUESTION}
+Situaţia economică din tara?
+
+{ANSWERS}
+0 Total nemulţumit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Total Mulţumit
+
+B26
+{QUESTION}
+Modul în care guvernul îsi face datoria?
+
+{ANSWERS}
+0 Total nemulţumit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Total Mulţumit
+
+B27
+{QUESTION}
+Modul în care functionează democraţia în România?
+
+{ANSWERS}
+0 Total nemulţumit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Total Mulţumit
+
+B28
+{QUESTION}
+Acum, utilizând o scală de la 0 la 10, unde 0 înseamnă foarte proastă şi 10 foarte bună, cum evaluaţi situaţia…?
+...sistemului de învăţămant din România?
+
+{ANSWERS}
+0 Foarte proastă
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Foarte bună
+
+B29 
+{QUESTION}
+Sistemului de sănătate din România?
+
+{ANSWERS}
+0 Foarte proastă
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Foarte bună
+
+B30
+{QUESTION}
+În ce masura sunteti sau nu de acord cu următoarele afirmaţii, utilizând o scală de la 1 la 5, unde 1 înseamnă
+acord total şi 5 dezacord total…? Guvernul ar trebui să ia măsuri pentru a reduce diferenţele de venituri ale oamenilor
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord, nici dezacord
+Dezacord
+Dezacord total
+
+B31
+{QUESTION}
+Homosexualii şi lesbienele ar trebui să fie liberi şa-şi trăiască viaţa aşa cum doresc
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord, nici dezacord
+Dezacord
+Dezacord total
+
+B32
+{QUESTION}
+Partidele politice care doresc desfiinţarea democraţiei (alegeri libere şi partide politice) ar trebui interzise
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord, nici dezacord
+Dezacord
+Dezacord total
+
+B33
+{QUESTION}
+Ne putem baza pe ştiinţa modernă pentru rezolvarea problemelor de mediu
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord, nici dezacord
+Dezacord
+Dezacord total
+
+B34
+{QUESTION}
+Vorbind despre Uniunea Europeană, unii oameni spun că procesul de integrare europeană ar trebui să continue. Alţii consideră că s-a mers prea departe cu procesul de integrare. Folosind această scală, unde s-ar plasa opiniile dvs.? 
+
+{ANSWERS}
+0 S-a ajuns prea departe cu procesul de integrare
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Procesul de intergare ar trebui să continue
+
+{INTRO}
+În cele ce urmează vom discuta despre oamenii care vin din alte ţări să locuiască în România
+
+B35
+{QUESTION}
+În ce măsură România ar trebui să permită ca persoane de aceeaşi rasă ca românii sa vina şi să locuiasă aici?
+
+{ANSWERS}
+România ar trebui sa permita cît mai multor astfel de persoane acest lucru
+România ar trebui sa permita multor astfel de persoane acest lucru
+România ar trebui sa permita doar citorva astfel de persoane acest lucru
+România ar trebui să nu permita nici unei astfel de persoane acest lucru
+
+B36
+{QUESTION}
+În ce măsură România ar trebui să permită ca persoane de etnie diferită sa vina şi să locuiasă aici?
+
+{ANSWERS}
+România ar trebui sa permita cît mai multor astfel de persoane acest lucru
+România ar trebui sa permita multor astfel de persoane acest lucru
+România ar trebui sa permita doar citorva astfel de persoane acest lucru
+România ar trebui să nu permita nici unei astfel de persoane acest lucru
+
+B37
+{QUESTION}
+În ce măsură România ar trebui să permită persoanelor din ţări mai sărace din afara Europei să vină şi să locuiasă aici?
+
+{ANSWERS}
+România ar trebui sa permita cît mai multor astfel de persoane acest lucru
+România ar trebui sa permita multor astfel de persoane acest lucru
+România ar trebui sa permita doar citorva astfel de persoane acest lucru
+România ar trebui să nu permita nici unei astfel de persoane acest lucru
+
+B38
+{QUESTION}
+Credeţi că, în general, este rău sau bine pentru economia României că oameni din alte ţări vin să trăiască aici? 
+
+{ANSWERS}
+0 Lucru rău pentru economie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Lucru bun pentru economie
+
+B39
+{QUESTION}
+Pe o aceaaşi scală de la 0 la 10, credeţi că viaţa culturală a României este pusă în pericol sau este îmbogăţită de cetăţenii care vin din alte ţări să trăiască aici?
+
+{ANSWERS}
+0 Viaţa culturală este pusă în pericol
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Viaţa culturală este îmbogăţită
+
+B40
+{QUESTION}
+Credeţi că, odată cu sosirea aici a cetăţenilor din alte ţari, România va deveni un loc în care se va trăi mai prost sau un loc în care se va trai mai bine? 
+
+{ANSWERS}
+0 Un loc in care se va trai mai prost
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Un loc in care se va trai mai bine
+
+{INTRO}
+In continuare, vă voi pune citeva întrebări despre dvs. si viata dvs.
+
+C1
+{QUESTION}
+Luând în considerare toate lucrurile, pe o scală de la 0 la 10, cat de fericit aţi spune că sunteţi?
+
+{ANSWERS}
+0 Extrem de nefericit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrem de fericit
+
+C2
+{QUESTION}
+Cât de des vă întalniţi cu prietenii, rudele sau colegii de servici pentru a vă petrece împreună timpul liber?
+
+{ANSWERS}
+Niciodată
+Mai rar de o dată pe lună
+O data pe luna
+De câteva ori pe lună
+O dată pe saptamână
+De câteva ori pe saptamâna
+In fiecare zi
+
+C3
+{QUESTION}
+Aveţi pe cineva în cercul dvs. de prieteni, colegi sau rude cu care puteţi discuta probleme personale sau intime (de ex. probleme de familie sau de viaţă sexuală)?
+
+{ANSWERS}
+Da
+Un
+
+C4
+{QUESTION}
+Comparativ cu alte persoane de aceeasi vârstă cu dvs., cat de des luaţi parte la diverse activităţi cum ar fi cele de petrecere a timpului liber?
+
+{ANSWERS}
+Mult mai rar decit alte persoane de vîrsta mea
+Mai rar decit alte persoane de vîrsta mea
+Cam la fel de des ca alte persoane de vîrsta mea
+Mai des decit alte persoane de vîrsta mea
+Mult mai des decit alte persoane de vîrsta mea
+
+C5
+{QUESTION}
+În ultimii 5 ani, dvs. sau cineva din gospodăria dvs. aţi fost victima unui furt sau a unei agresiuni fizice?
+
+{ANSWERS}
+Da 
+Nu
+
+C6
+{QUESTION}
+Cât de în siguranţă va simiţiti când mergeţi singur pe stradă, după lăsarea întunericului, în zona în care locuiţi?
+Aţi spune că vă simţiti…?
+
+{ANSWERS}
+În foarte mare siguranţă 
+În mare siguranţă 
+În nesiguranţă
+În foarte mare nesiguranţă 
+
+C7
+{QUESTION}
+Cat de des vă este teamă că locuinţa v-ar putea fi spartă?
+
+{ANSWERS}
+Tot timpul sau aproape în permanenţă 
+Uneori 
+Doar ocazional
+Niciodată 
+
+C8
+{QUESTION}
+Ce efecte are asupra calităţii vieţii dvs. teama că locuniţa v-ar putea fi spartă?
+
+{ANSWERS}
+Are efecte negative asupra calităţii vieţii dvs.
+Are unele efecte negative asupra calităţii vieţii dvs. 
+Nu are niciun efect negativ asupra calităţii vieţii dvs. 
+
+C9
+{QUESTION}
+Cat de des vă temeţi că aţi putea fi victima unei agresiuni fizice violente?
+
+{ANSWERS}
+Tot timpul sau aproape în permanenţă 
+Uneori 
+Rareori 
+Niciodată 
+
+C10
+{QUESTION}
+Ce efecte are asupra calităţii vieţii dvs. teama că aţi putea fi victima unei agresiuni fizice violente?
+
+{ANSWERS}
+Are efecte negative asupra calităţii vieţii dvs.
+Are unele efecte negative asupra calităţii vieţii dvs. 
+Nu are niciun efect asupra calităţii vieţii dvs. 
+
+C11
+{QUESTION}
+Cat este de probabil ca un atac terorist să aibă loc în următoarele 12 luni în Europa?
+
+{ANSWERS}
+Foarte probabil 
+Probabil 
+Puţin probabil
+Deloc probabil
+
+C12
+{QUESTION}
+Cât este de probabil ca un atac terorist să aibă loc în următoarele 12 luni în România?
+
+{ANSWERS}
+Foarte probabil 
+Probabil 
+Puţin probabil
+Deloc probabil
+
+C13
+{QUESTION}
+In ce măsură sunteţi sau nu de acord cu următoarele afirmaţii? Dacă o persoană este suspectată de planificarea unui atac terorist în România, poliţia ar trebui să aibă dreptul legal de a reţine persoana respectivă până atunci cînd se strâng suficiente dovezi pentru a se dovedi nevinovăţia
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord,
+nici dezacord
+Dezacord
+Dezacord Total
+
+C14
+{QUESTION}
+A tortura un prizonier într-o închisoare din România nu este niciodată justificat, chiar dacă în urma acestei acţiuni se pot strange informaţii care ar putea preveni un atac terorist.
+
+{ANSWERS}
+Acord total
+Acord
+Nici acord,
+nici dezacord
+Dezacord
+Dezacord Total
+
+{INTRO}
+Următorul set de întrebări va face referire la persoana dvs.
+
+C15
+{QUESTION}
+Cum consideraţi că este starea dvs de sănătate, în general?
+
+{ANSWERS}
+Foarte buna
+Bună
+Nici bună, nici proastă
+Proastă
+Foarte proastă
+
+C16
+{QUESTION}
+In activităţile zilnice, sunteţi împiedicat în vreun fel de vreo afecţiune, dizabilitate, infirmitate sau probleme de sănătate mentală?
+
+{ANSWERS}
+Da, in mare masura
+Da, intr-o oarecare masura
+Nu
+
+C17
+{QUESTION}
+Aparţineţi vreunei confesiuni sau grup religios (în sensul de “aveţi o religie”)?
+
+{ANSWERS}
+Da 
+Nu 
+
+C18
+{QUESTION}
+Care este religia dvs.?
+
+{ANSWERS}
+Creştin-ortodoxă
+Romano-catolică
+Greco-Catolică
+Protestantă (generica, fără alte precizari)
+Baptistă
+Metodistă
+Adventistă
+Mozaică/Evreu
+Musulmană
+Alta (Care?)
+
+C19
+{QUESTION}
+Aţi aparţinut vreodată vreunei religii sau confesiuni religioase?
+
+{ANSWERS}
+Da 
+Nu 
+
+C20
+{QUESTION}
+Dacă Da (cod 1 la C19), care era religia/ confesiunea dvs. religioasă?
+
+{ANSWERS}
+
+C21
+{QUESTION}
+Indiferent dacă aveţi sau nu o religie, pe o scală de la 0 la 10, cat de religios aţi spune că sunteţi?
+
+{ANSWERS}
+0 Deloc religios (religioasă)ă
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Foarte religios (religioasă)
+
+C22
+{QUESTION}
+In afara ocaziilor speciale precum nunţi, botezuri sau înmormantări, cat de des mergeţi la biserică?
+
+{ANSWERS}
+în fiecare zi
+Mai mult de o dată pe săptămană 
+O data pe săptămînă
+Cel puţin o dată pe lună
+Numai la sărbători
+Mai rar
+Niciodată
+
+C23 
+{QUESTION}
+In afara momentelor când sunteti la biserică, cât de des vă rugaţi rugăciuni?
+
+{ANSWERS}
+
+C24
+{QUESTION}
+Consideraţi că faceţi parte dintr-un grup care este discriminat în România
+
+{ANSWERS}
+Da 
+Nu 
+
+C25
+{QUESTION}
+Din ce motive grupul din care faceţi parte este discriminat?
+
+{ANSWERS}
+Din cauza culorii pielii sau a rasei
+Pe motivul naţionalitătii
+Datorită religiei
+Datorită limbii pe care o vorbesc
+Datorită etniei
+Datorită varstei
+Datorită genului (sexului)
+Datorită orientării sexuale
+Datorită dizabilităţilor, hadicapului
+Alt motiv/Care?
+
+C26
+{QUESTION}
+Aveţi cetăţenia română?
+
+{ANSWERS}
+Da 
+Nu
+
+C27
+{QUESTION}
+Ce cetaţenie aveţi?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+V-aţi născut în România?
+
+{ANSWERS}
+Da 
+Nu
+
+C29
+{QUESTION}
+In ce ţară v-ati născut?
+
+{ANSWERS}
+
+C30
+{QUESTION}
+Cu cât timp în urmă aţi venit pentru prima dată să locuiţi în România?
+
+{ANSWERS}
+în cursul ultimului an
+Cu 1-5 ani în urmă
+Cu 6-10 ani în urmă
+Cu 11-20 de ani în urmă
+Cu mai mult de 20 de ani în urmă
+NC (s-a născut în Romania)
+
+C31
+{QUESTION}
+Ce limbă folosiţi cel mai des când sunteţi acasă?
+
+{ANSWERS}
+(Se înregistrează pînă la 2 limbi)
+
+C32
+{QUESTION}
+Aparţineţi vreunei minorităţi etnice din România?
+
+{ANSWERS}
+Da 
+Nu
+
+C32
+{QUESTION}
+Care este etnia dvs? 
+
+{ANSWERS}
+Roman 
+Maghiar 
+Rom 
+German 
+Alta/Care?
+
+C33
+{QUESTION}
+Tatăl dvs. s-a născut în România?
+
+{ANSWERS}
+Da 
+Nu
+
+C34
+{QUESTION}
+In ce ţară s-a născut tatăl dvs.?
+
+{ANSWERS}
+
+C35
+{QUESTION}
+Mama dvs. s-a născut în România?
+
+{ANSWERS}
+Da 
+Nu
+
+C36
+{QUESTION}
+In ce ţară s-a născut mama dvs.?
+
+{ANSWERS}
+
+{INTRO}
+Acum, aş dori să vă solicit câteva detalii cu privire la dvs. şi la ceilalţi membri ai gospodăriei dvs.
+
+F1. 
+{QUESTION}
+Câte persoane – inclusiv dvs şi copii (dacă aveţi) – locuiesc aici permanent ca membri ai gospodăriei?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Anul naşterii
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Relaţia cu respondentul 
+
+{ANSWERS}
+Soţ, soţie, partener(ă)
+Fiu/ fiică, inclusiv vitreg(ă), adoptat(ă), în îngrijire socială, copilul partenerei(ului), ginere/noră
+Părinte, părinte adoptive/vitreg, părintele partenerei/soţiei/soţului
+Frate/soră (inclusiv vitreg(ă),adoptat(ă), în îngrijire socială)
+Altă rudă
+Altă persoană care nu este rudă
+
+F5
+{QUESTION}
+Dvs. locuiţi …. 
+
+{ANSWERS}
+Intr-un oraş mare 
+In suburbiile unui oraş mare 
+Intr-un oras mic 
+Intr-o comuna/sat
+La o casa izolata de vreo comuna/sat/
+
+F5a
+{QUESTION}
+Aşadar, localitatea în care locuiţi este…
+
+{ANSWERS}
+Oraş mare peste 200.000 locuitori 
+Oraş mare între 200-100.000 locuitori 
+Oraş mic între 100000-30000 locuitori 
+Oraş foarte mic (sub 30000 locuitori)
+Comună-reşedinţă
+Sat 
+
+F6
+{QUESTION}
+Care este ultima şcoală pe care aţi absolvit-o ?
+
+{ANSWERS}
+Fara scoala
+Scoala primara
+Gimnaziu
+Scoala profesioanla ori de meserii
+Liceu
+Scoala post-liceala (inclusiv colegiu)
+Studii superioare/facultate
+Studii post-universitare
+
+F6a 
+{QUESTION}
+Care este profilul ultimei şcoli absolvite?
+
+{ANSWERS}
+General sau niciun domeniu specific
+Arte
+Cultură umanistă – limbi străine, limbi clasice, istorie, teologie etc
+Tehnică şi inginerie, incluzând arhitectură şi planificare, industrie, meşteşugărie-artizanat, construcţii etc
+Agricultură şi silvicultură
+Pedagogie şi educaţie
+Ştiinţă (cercetare), matematică, IT, etc
+Servicii medicale, de sănătate, de asistenţă etc
+Economie, comerţ, administrarea afecerilor, contabilitate etc
+Studii sociale şi comportamentale, administraţie publică, media, cultură, sport şi divertisment, etc
+Sevicii juridice şi legislative
+Servicii (ospătar, bucătar, coafeză, frizer, etc) etc
+Siguranţă şi ordine publică – poliţie, armată, pompieri, etc
+Transport şi telecomunicaţii
+
+F7
+{QUESTION}
+Caţi ani de şcoală aţi făcut în total?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Utilizând următoarea listă, care dintre următoarele descrieri corespunde cu statutul dvs ocupational avut în ultimele 7 zile?
+
+{ANSWERS}
+Salariat/angajat (inclusiv liber profesionişti, mici întreprinzători şi patroni)
+Elev sau student
+Şomer în căutarea unui loc de muncă
+Şomer, dorind un loc de muncă, dar fără a face nimic pentru a căuta un loc de muncă
+Pensionat de boală sau persoană cu handicap
+Pensionar/ă
+Imi satisfac stagiul militar obligatoriu
+Casnic/ă (prestează munci în gospodărie, are grijă de copii sau de alte persoane)
+Altă situaţie
+
+F8c
+{QUESTION}
+Care este principala dvs. ocupaţie în acest moment? 
+
+{ANSWERS}
+
+F9
+{QUESTION}
+Aşadar, în ultimele 7 zile, dvs….?
+
+{ANSWERS}
+Aţi prestat o muncă pentru care aţi fost remunerat/ă 
+Nu aţi prestat o muncă pentru care aţi fost remunerat/ă 
+
+F10
+{QUESTION}
+Aţi avut vreodată un loc de muncă fost vreodată salariat?
+
+{ANSWERS}
+Da 
+Nu 
+
+F11
+{QUESTION}
+În ce an aţi avut ultimul loc de muncă? 
+
+{ANSWERS}
+
+F12
+{QUESTION}
+La principalul loc de muncă al dvs. sunteţi …
+
+{ANSWERS}
+Angajat 
+Mic întreprinzător sau patron 
+Lucraţi în cadrul unei afaceri a familiei 
+
+F13
+{QUESTION}
+Catî angajaţi are/avea firma dvs?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Sunteţi fost angajat..
+
+{ANSWERS}
+Contract de muncă pe durată nedeterminată
+Contract de muncă pe durată determinată 
+Nu am/am avut un contract de muncă 
+
+F15 
+{QUESTION}
+Caţi angajaţi sunt/erau în firma unde lucraţi lucrat ?
+
+{ANSWERS}
+Sub 10 angajaţi
+Intre 10 şi 24 de angajaţi
+Intre 25 si 99 de angajati
+intre 100 si 499 de angajaţi
+500 de angajaţi sau mai mulţi
+
+F16 
+{QUESTION}
+La principalul dvs. loc de muncă, aveţi avut responsabilităţi care vizează controlul activităţii desfăşurate de alţi angajaţi?
+
+{ANSWERS}
+Da 
+Nu 
+
+F17
+{QUESTION}
+Câte persoane aveti  în subordine?
+
+{ANSWERS}
+
+{INTRO}
+În cele ce urmează am să vă citesc o serie de lucruri legate de activitatea pe care aţi desfăşurat-o desfăşuraţi la locul de muncă.
+
+F18 
+{QUESTION}
+La actualul loc de muncă (sau la ultimul loc de muncă), cît de mult vă permite conducerea… să decideţi dvs. cum este  organizată ziua de muncă?
+
+{ANSWERS}
+0 Nu am / nu am avut niciun control ori influenţă
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Am / Aveam control complet
+
+F19 
+{QUESTION}
+…să influenţaţi deciziile cu privire la activităţile firmei?
+
+{ANSWERS}
+0 Nu am / nu am avut niciun control ori influenţă
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Am / Aveam control complet
+
+F20
+{QUESTION}
+Care era durata de muncă pe săptămînă stabilită prin contract prin înţelegere cu patronul, la principalul loc de muncă, fără a lua în calcul aici orele suplimentare?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Câte ore pe săptămană lucraţi dvs. efectiv la principalul loc de muncă, incluzând aici orice ore suplimentare plătite sau neplătite?
+
+{ANSWERS}
+
+F22 
+{QUESTION}
+Care este principalul obiect de activitate al firmei pentru care lucraţi lucrat?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+În ce tip de organizatie lucrati?
+
+{ANSWERS}
+Administratie centrală sa locală
+Alt sector public (precum educatie si sănătate)
+Întreprindere de stat
+Societate privată
+Afacere proprie
+Altul
+
+F24 
+{QUESTION}
+Care este numele sau titulatura postului pe care îl ocupaţi la principalul loc de muncă?
+
+{ANSWERS}
+
+F25 
+{QUESTION}
+La principalul dvs. loc de muncă, ce fel de activităţi obişnuiţi să desfăşuraţi în cea mai mare parte a timpului ?
+
+{ANSWERS}
+
+F25a. 
+{QUESTION}
+Care sunt calificările de care este nevoie pentru a ocupa postul dvs.? 
+
+{ANSWERS}
+
+F26
+{QUESTION}
+În ultimii 10 ani, aţi desfăşurat muncă salarizată într-o altă ţară, pentru o perioadă de minimum 6 luni?
+
+{ANSWERS}
+Da 
+Nu 
+
+F27
+S-a întâmplat vreodată să rămâneţi 3 luni de zile sau mai mult, fără loc de muncă, timp în care aţi căutat să vă angajaţi?
+
+{ANSWERS}
+Da 
+Nu 
+
+F28
+{QUESTION}
+S-a întâmplat ca perioada în care aţi rămas fără loc de muncă, să dureze până la 12 luni sau chiar şi mai mult?
+
+{ANSWERS}
+Da 
+Nu 
+
+F29
+{QUESTION}
+Dar în ultimii 5 ani, au fost perioade când nu aţi avut un loc de muncă mai mult de 3 luni? 
+
+{ANSWERS}
+Da 
+Nu 
+
+F30
+{QUESTION}
+Aţi sunteţi membru al vreunui sindicat ?
+
+{ANSWERS}
+Da, sunt şi în prezent membru 
+Da, am fost membru de sindicat dar nu mai sunt 
+Nu
+
+F31
+{QUESTION}
+Vă rog să vă gândiţi la veniturile tuturor membrilor din gospodăria dvs. Care este principala sursă de venit în gospodăria dvs.? 
+
+{ANSWERS}
+Salarii
+Venituri obţinute din activităţi pe cont propriu (inclusiv ca liber profesionist, mic întreprinzător sau patron, dar nu din activităţi agricole)
+Venituri obţinute din activităţi agricole, cresterea animalelor
+Pensii
+Ajutor de şomaj sau plăţi datorate disponibilizărilor
+Alte tipuri de beneficii sau ajutoare sociale
+Venituri obţinute din investiţii, economii, asigurării, închirieri, arendă
+Venituri obţinute din alte surse
+
+F32
+{QUESTION}
+Vă rog să îmi spuneţi ce categorie se potriveşte cel mai bine cu venitul total net al gospodăriei dvs. (suma care vă rămâne după ce s-au scăzut impozitele) în luna Noiembrie 2008?
+
+{ANSWERS}
+J Sub 700 RON
+R 701 – 800 RON
+C 801 – 900 RON
+M 901 – 1000 RON
+F 1001 – 1100 RON
+S 1101 – 1200 RON
+K 1201 – 1400 RON
+P 1401 – 1750 RON
+D 1751 – 3000 RON
+H Peste 3000 RON
+
+F33
+{QUESTION}
+Care din afirmaţiile de mai jos descrie cel mai bine veniturile gospodăriei dvs.?
+
+{ANSWERS}
+Veniturile din gospodăria mea imi asigură un trai confortabil
+Veniturile din gospodăria mea imi sunt suficiente
+Imi este greu să ma descurc cu veniturile din gospodărie
+Imi este foarte greu să ma descurc cu veniturile din gospodărie
+
+F34 
+{QUESTION}
+Dacă din diverse motive aţi avea serioase dificultăţi financiare şi aţi fi nevoit să vă împrumutaţi pentru a o scoate la capăt, cât de greu sau uşor v-ar fi să vă împrumutaţi?
+
+{ANSWERS}
+Foarte greu 
+Greu 
+ Nici greu, dar nici uşor 
+Uşor
+Foarte uşor
+
+F34a
+{QUESTION}
+Vă rog să îmi spuneţi care a fost venitul total net lunar al gospodăriei dvs. (suma care vă rămâne după ce s-au scăzut impozitele) in luna Noiembrie 2008? Dacă nu cunoaşteţi cifra exactă, îmi puteţi da o estimare.
+
+{ANSWERS}
+
+F35
+{QUESTION}
+In prezent, locuiţi cu soţul?
+
+{ANSWERS}
+Da 
+Nu 
+
+F36
+{QUESTION}
+Care este ultima şcoală absolvită de soţ?
+
+{ANSWERS}
+Fara scoala
+Scoala primara
+Gimnaziu
+Scoala profesioanla ori de meserii
+Liceu
+Scoala post-liceala (inclusiv colegiu)
+Studii superioare/facultate
+Studii post-universitare
+
+F37a
+{QUESTION}
+Care este în prezent (în ultimele 7 zile) statutul ocupaţional de soţului? 
+
+{ANSWERS}
+Salariat/angajat (inclusiv mici liber profesionişti, mici întreprinzători şi patroni)
+Elev sau student
+Şomer în căutarea unui loc de muncă
+Şomer, dorind un loc de muncă, dar fără a face nimic pentru a căuta un loc de muncă
+Pensionat de boală sau persoană cu handicap
+Pensionar/ă
+Işi satisface stagiul militar obligatoriu
+Casnic/ă (prestează munci în gospodărie, are grijă de copii sau de alte persoane)
+Altă situaţie
+
+F37c
+{QUESTION}
+Care este principala ocupaţie în acest moment a soţului?
+
+{ANSWERS}
+
+F38
+{QUESTION}
+Aşadar, soţul dvs. a prestat o muncă salarizată în ultimele 7 zile?
+
+{ANSWERS}
+Da 
+Nu 
+
+F39 
+{QUESTION}
+Care este numele sau titulatura postului pe care îl ocupă soţul dvs?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+La principalul loc de muncă al soţului, ce fel de activităţi desfăşoară în cea mai mare parte a timpului ?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Care sunt calificările de care soţul are nevoie pentru a ocupa postul pe care il au? 
+
+{ANSWERS}
+
+F42
+{QUESTION}
+La principalul loc de muncă al dvs., soţul este…
+
+{ANSWERS}
+Angajat 
+Mic întreprinzător sau patron 
+Lucrează în cadrul unei afaceri a familiei 
+
+F43
+{QUESTION}
+Câţi angajaţi are firma soţului dvs?
+
+{ANSWERS}
+
+F44 
+{QUESTION}
+La principalul loc de muncă al soţului, acesta are responsabilităţi care vizează controlul activităţii desfăşurate de alţi angajaţi?
+
+{ANSWERS}
+Da 
+Nu 
+
+F45
+{QUESTION}
+Câte persoane are în subordine soţul?
+
+{ANSWERS}
+
+
+{INTRO}
+În cele ce urmează am să vă citesc o serie de lucruri legate de activitatea pe care o desfăşoară ca angajat soţul dvs.
+
+F46 
+{QUESTION}
+La actualul loc de muncă (sau la ultimul loc de muncă), cît de mult ii permit sefii soţului…să decidă singur cum îsi organizează ziua de muncă?
+
+{ANSWERS}
+0 Nu îi permit deloc/nu are niciun control
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sotul/soţia/partenera/ au control complet
+
+F47 
+{QUESTION}
+…să influenţeze deciziile cu privire la activităţile firmei?
+
+{ANSWERS}
+0 Nu îi permit deloc/nu are niciun control
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sotul/soţia/partenera/ au control complet
+
+F48
+{QUESTION}
+Câte ore munceşte pe săptămînă la principalul loc de muncă, soţul, inclusiv ore suplimentare plătite sau neplătite? 
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Care este ultima şcoală absolvită de tatăl dvs.? 
+
+{ANSWERS}
+Fara scoala
+Scoala primara
+Gimnaziu
+Scoala profesională ori de meserii
+Liceu
+Scoala post-liceala (inclusiv colegiu)
+Studii superioare/facultate
+Studii post-universitare
+
+F50
+{QUESTION}
+Când aveaţi 14 ani, tatăl dvs. lucra ca angajat, lucra pe cont propriu sau nu lucra deloc?
+
+Era angajat/salariat 
+Lucra pe cont propriu 
+Nu lucra deloc 
+Era decedat sau nu locuia în aceeaşi gospodărie
+
+F51 
+{QUESTION}
+Câţi angajaţi avea?
+
+{ANSWERS}
+Niciunul 
+Intre 1 si 24 
+25 de angajati sau mai mulţi
+
+F52
+{QUESTION}
+Tatăl dvs. avea subordonaţi?
+
+{ANSWERS}
+Da 
+Nu 
+
+F53
+{QUESTION}
+Care era ocupaţia tatălui dvs. cind aveaţi vîrsta de 14 ani? 
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Care era ocupaţia tatălui dvs. când aveaţi vârsta de 14 ani?  Nu există răspuns corect sau greşit, alegeţi categoria care consideraţi că este cea mai potrivită.
+
+{ANSWERS}
+Ocupaţii tehnice şi profesionale, precum doctor, profesor, inginer, artist, contabil
+Ocupaţii administrative de nivel înalt precum bancher, director în afaceri, parlamentar sau membru al guvernului, înalt funcţionar al UE
+Ocupaţii administrative, precum funcţionar, secretar, şef de birou, bibliotecar
+Domeniul vânzări, precum director de vânzări, proprietar de magazin, agent de vânzări, agent de asigurări
+Domeniul servicii, precum proprietar de restaurant, poliţist, ospătar, îngrijitor, bărbier, militar
+Meserii, precum maistru, mecanic auto, sculer-matriţor, electrician
+Meserii semi-calificate, precum cărămidar, şofer de autobuz, tâmplar, metalurgist, brutar
+Meserii necalificate, precum muncitor, portar, muncitor în fabrică
+Domeniul agicol, precum fermier, lucrător agricol, şofer de tractor, pescar
+
+F55
+{QUESTION}
+Care este ultima şcoală absolvită de mama dvs.? 
+
+{ANSWERS}
+Fara scoală
+Scoala primară
+Gimnaziu
+Scoala profesională ori de meserii
+Liceu
+Scoala post-liceală (inclusiv colegiu)
+Studii superioare/facultate
+Studii post-universitare
+
+F56
+{QUESTION}
+Când aveaţi 14 ani, mama dvs. lucra ca angajat, lucra pe cont propriu sau nu lucra deloc?
+
+{ANSWERS}
+Era angajată/salariată 
+Lucra pe cont propriu 
+Nu lucra deloc 
+Era decedată sau nu locuia în aceeaşi gospodărie
+
+F57 
+{QUESTION}
+Câţi angajaţi avea?
+
+{ANSWERS}
+Niciunul 
+Intre 1 si 24 
+25 de angajati sau mai mulţi 
+
+F58
+{QUESTION}
+Mama dvs. avea subordonaţi?
+
+{ANSWERS}
+Da 
+Nu 
+
+F59
+{QUESTION}
+Care era ocupaţia mamei dvs. cind aveaţi vîrsta de 14 ani? 
+
+{ANSWERS}
+
+F60a
+{QUESTION}
+Care era ocupaţia mamei dvs. când aveaţi vârsta de 14 ani? Nu există răspuns corect sau greşit, alegeţi categoria care consideraţi că este cea mai potrivită.
+
+{ANSWERS}
+Ocupaţii tehnice şi profesionale, precum doctor, profesor, inginer, artist, contabil
+Ocupaţii administrative de nivel înalt precum bancher, director în afaceri, parlamentar sau membru al guvernului, înalt funcţionar al UE
+Ocupaţii administrative, precum funcţionar, secretar, şef de birou, bibliotecar
+Domeniul vânzări, precum director de vânzări, proprietar de magazin, agent de vânzări, agent de asigurări
+Domeniul servicii, precum proprietar de restaurant, poliţist, ospătar, îngrijitor, bărbier, militar
+Meserii, precum maistru, mecanic auto, sculer-matriţor, electrician
+Meserii semi-calificate, precum cărămidar, şofer de autobuz, tâmplar, metalurgist, brutar
+Meserii necalificate, precum muncitor, portar, muncitor în fabrică
+Domeniul agicol, precum fermier, lucrător agricol, şofer de tractor, pescar
+
+F61
+{QUESTION}
+În ultimele 12 luni, aţi urmat vreun curs de specializare sau aţi participat la vreo conferinţă pentru a vă îmbunătăţi cunoştinţele profesionale (legate de locul de muncă)?
+
+{ANSWERS}
+Da 
+Nu 
+
+F62 
+{QUESTION}
+în prezent, sunteţi….
+
+{ANSWERS}
+Căsătorit/ă 
+Despărţit/ă (dar încă legal căsătorit/ă) 
+Divorţat/ă 
+Văduv/ă
+Nu am fost niciodată casătorit/ă
+
+F63 
+{QUESTION}
+În prezent locuiţi cu soţul?
+
+{ANSWERS}
+Da 
+Nu 
+
+F64 
+{QUESTION}
+În prezent locuiţi cu un partener?
+
+{ANSWERS}
+Da 
+Nu 
+
+F66 
+{QUESTION}
+Aţi locuit vreodată cu un partener fără să fi fost căsătorit cu acesta?
+
+{ANSWERS}
+Da 
+Nu 
+
+F68
+{QUESTION}
+Aşadar, aţi divorţat vreodată ?
+
+{ANSWERS}
+Da 
+Nu 
+
+F69
+{QUESTION}
+Dvs….
+
+{ANSWERS}
+Aveţi copii care locuiesc cu dvs în gospodărie în prezent 
+Nu aveţi copii care locuiesc în gospodărie cu dvs în prezent 
+
+F70
+{QUESTION}
+Aţi avut copii, copii vitregi, copii adoptaţi, nepoţi care au locuit cu dvs. în gospodărie?
+
+{ANSWERS}
+Da 
+Nu 
+
+F71
+{QUESTION}
+Aveţi telefon fix în gospodărie (sau în partea dvs. de locuinţă)?
+
+{ANSWERS}
+Da 
+Nu 
+
+F72
+{QUESTION}
+Aveţi telefon mobil personal?
+
+{ANSWERS}
+Da 
+Nu 
+
+F73
+{QUESTION}
+Ultilizaţi internetul pentru a telefoana acasă? 
+
+{ANSWERS}
+Da 
+Nu
+Nu am internet acasă 
+
+

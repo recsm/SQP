@@ -1,0 +1,1746 @@
+﻿A1 
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete gledajući televiziju? Za odgovore molim vas koristite ovu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A2 
+{QUESTION}
+Od vremena koje provedete gledajući televiziju tijekom prosječnog radnog dana, koliko vremena provedete gledajući vijesti ili emisije o politici i trenutnim zbivanjima? I dalje koristite ovu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A3 
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete slušajući radio? Koristite istu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A4 
+{QUESTION}
+Od vremena koje provedete slušajući radio tijekom prosječnog radnog dana, koliko vremena provedete slušajući vijesti ili emisije o politici i trenutnim zbivanjima? I dalje koristite ovu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A5 
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete čitajući novine? Koristite istu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A6 
+{QUESTION}
+Koliko od toga vremena provedete čitajući o politici i trenutnim zbivanjima? Koristite istu karticu.
+
+{ANSWERS}
+Uopće ne 
+Manje od ½ sata 
+½ sata do 1 sat 
+Više od 1 sat, manje od 1½ sat 
+Više od 1½ sat, manje od 2 sata 
+Više od 2 sata, manje od 2½ sata 
+Više od 2½ sata, manje od 3 sata 
+Više od 3 sata 
+
+A7 
+{QUESTION}
+Sada, koristeći ovu karticu, ocijenite koliko često koristite internet, World Wide Web ili email – bilo na poslu bilo kod kuće – iz privatnih razloga?
+
+{ANSWERS}
+Nemam pristup kod kuće, niti na poslu 
+Nikada ne koristim 
+Rjeđe nego jednom mjesečno 
+Jednom mjesečno 
+Nekoliko puta mjesečno 
+Jednom tjedno 
+Nekoliko puta tjedno 
+Svaki dan 
+
+A8 
+{QUESTION}
+Koristeći ovu karticu, općenito govoreći, smatrate li da se većini ljudi može vjerovati ili da nikada ne možete biti previše oprezni kada se radi o ljudima? Molim vas izrazite to kao rezultat od 0 do 10, gdje 0 označuje da nikada ne možete biti previše oprezni, a 10 da većini ljudi možete vjerovati.
+
+{ANSWERS}
+00 Nikada ne možeš biti previše oprezan
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Većini ljudi može se vjerovati
+
+00 88
+
+A9
+{QUESTION}
+Koristeći ovu karticu, navedite mislite li da bi vas većina ljudi pokušala iskoristiti kada bi za to imali priliku, ili bi pokušali biti fer i korektni?
+
+{ANSWERS}
+00 Većina ljudi pokušala bi me iskoristiti
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Većina ljudi pokušala bi biti fer
+
+A10
+{QUESTION}
+Smatrate li da ljudi većinom pokušavaju pomoći drugima ili da se uglavnom brinu o sebi? Molim koristite ovu karticu.
+
+{ANSWERS}
+00 Ljudi se uglavnom brinu o sebi
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ljudi uglavnom pokušavaju pomoći drugima
+
+{INTRO}
+Sada bih vas pitao nekoliko pitanja o politici i vladi
+
+B1 
+{QUESTION}
+Što biste rekli koliko ste zainteresirani za politiku – vi ste… 
+
+{ANSWERS}
+vrlo zainteresirani
+donekle zainteresirani
+malo zainteresirani 
+ili uopće niste zainteresirani? 
+
+B4
+{QUESTION}
+Koristeći ovu karticu, molim vas odaberite jedan broj na skali od 0-10 koji najbolje opisuje koliko vi osobno vjerujete svakoj od institucija koje ću pročitati. Nula znači da uopće ne vjerujete toj instituciji, a 10 da imate potpuno povjerenje. Za početak, koliko vjerujete… … Hrvatskom saboru?
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B5 
+{QUESTION}
+… pravosuđu? 
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B6 
+{QUESTION}
+… policiji? 
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B7 
+{QUESTION}
+… političarima? 
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B8 
+{QUESTION}
+…strankama? 
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B9 
+{QUESTION}
+… Europskom parlamentu?
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B10 
+{QUESTION}
+… Ujedinjenim narodima?
+
+{ANSWERS}
+00 Uopće nemam povjerenja
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam potpuno povjerenje
+
+B11 
+{INTRO}
+Danas neki ljudi ne glasaju na izborima iz različitih razloga.
+
+{QUESTION}
+ Jeste li vi glasali na hrvatskim parlamentarnim izborima u studenom 2007. godine?
+
+{ANSWERS}
+Jesam 
+Nisam 
+Nisam imao pravo glasa 
+
+B12 
+{QUESTION}
+Za koju ste stranku glasali na tim izborima?
+
+{ANSWERS}
+Hrvatska demokratska zajednica (HDZ) 
+Socijaldemokratska partija Hrvatske (SDP) 
+Hrvatska narodna stranka - Liberalni demokrati (HNS) 
+Hrvatska seljačka stranka (HSS) 
+Hrvatsko socijalno-liberalna stranka (HSLS) 
+Istarski demokratski sabor (IDS) 
+Hrvatski demokratski savez Slavonije i Baranje (HDSSB) 
+Samostalna demokratska Srpska stranka (SDSS) 
+Hrvatska stranka prava (HSP) 
+Hrvatska stranka umirovljenika (HSU) 
+Neka druga 
+
+B13
+{INTRO}
+Postoje različiti načini na koje građani mogu pokušati poboljšati stanje u Hrvatskoj ili spriječiti da se ono pogorša. 
+
+{QUESTION}
+Jeste li tijekom posljednjih 12 mjeseci učinili nešto od navedenog? Jeste li …kontaktirali nekog političara, službenika hrvatske vlade ili lokalne vlasti?
+
+{ANSWERS}
+Da 
+Ne 
+
+B14 
+{QUESTION}
+…radili za neku političku stranku ili aktivističku organizaciju? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B15
+{QUESTION}
+ …radili za neku drugu organizaciju ili udrugu? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B16 
+{QUESTION}
+…nosili ili isticali bedževe ili naljepnice neke javne kampanje? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B17 
+{QUESTION}
+…potpisali neku peticiju? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B18 
+{QUESTION}
+…sudjelovali u legalnim javnim prosvjedima? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B19 
+{QUESTION}
+…bojkotirali određene proizvode? 
+
+{ANSWERS}
+Da 
+Ne 
+
+B20a 
+{QUESTION}
+Postoji li određena politička stranka kojoj se osjećate bliži nego drugim strankama?
+
+{ANSWERS}
+Da 
+Ne 
+
+B20b 
+{QUESTION}
+Koja?
+
+{ANSWERS}
+Hrvatska demokratska zajednica (HDZ) 
+Socijaldemokratska partija Hrvatske (SDP) 
+Hrvatska narodna stranka - Liberalni demokrati (HNS) 
+Hrvatska seljačka stranka (HSS) 
+Hrvatsko socijalno-liberalna stranka (HSLS) 
+Istarski demokratski sabor (IDS) 
+Hrvatski demokratski savez Slavonije i Baranje (HDSSB) 
+Samostalna demokratska Srpska stranka (SDSS) 
+Hrvatska stranka prava (HSP) 
+Hrvatska stranka umirovljenika (HSU) 
+Neka druga 
+
+B20c 
+{QUESTION}
+Koliko se blisko osjećate toj stranci? Osjećate li da ste …
+
+{ANSWERS}
+vrlo bliski
+dosta bliski
+ne baš bliski 
+ili uopće niste bliski? 
+
+B21 
+{QUESTION}
+Jeste li član neke političke stranke?
+
+{ANSWERS}
+Da 
+Ne 
+
+B22 
+{QUESTION}
+Koje?
+
+{ANSWERS}
+Hrvatska demokratska zajednica (HDZ) 
+Socijaldemokratska partija Hrvatske (SDP) 
+Hrvatska narodna stranka - Liberalni demokrati (HNS) 
+Hrvatska seljačka stranka (HSS) 
+Hrvatsko socijalno-liberalna stranka (HSLS) 
+Istarski demokratski sabor (IDS) 
+Hrvatski demokratski savez Slavonije i Baranje (HDSSB) 
+Samostalna demokratska Srpska stranka (SDSS) 
+Hrvatska stranka prava (HSP) 
+Hrvatska stranka umirovljenika (HSU) 
+Neka druga 
+
+B23 
+{INTRO}
+U politici ljudi nekada spominju “lijevo” i “desno”. 
+
+{QUESTION}
+Koristeći ovu karticu, recite gdje biste sebe smjestili na ovoj skali, na kojoj 0 označuje lijevo, a 10 desno?
+
+{ANSWERS}
+00 Lijevo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Desno 
+
+B24 
+{QUESTION}
+Općenito govoreći, koliko ste trenutno zadovoljni svojim životom u cijelosti? Molim odgovorite koristeći ovu karticu, na kojoj 0 označuje izrazito nezadovoljstvo, a 10 izrazito zadovoljstvo.
+
+{ANSWERS}
+00 Izrazito nezadovoljan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito zadovoljan/na (Ne zna)
+
+B25 
+{QUESTION}
+Općenito, koliko ste zadovoljni sadašnjim stanjem ekonomije u Hrvatskoj? Koristite ovu karticu.
+
+{ANSWERS}
+00 Izrazito nezadovoljan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito zadovoljan/na (Ne zna)
+
+B26 
+{QUESTION}
+Kada razmišljate o hrvatskoj vladi, koliko ste zadovoljni kako ona obavlja svoje dužnosti? I dalje koristite ovu karticu.
+
+{ANSWERS}
+00 Izrazito nezadovoljan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito zadovoljan/na (Ne zna)
+
+B27 
+{QUESTION}
+Općenito, koliko ste zadovoljni funkcioniranjem demokracije u Hrvatskoj? Koristite ovu karticu.
+
+{ANSWERS}
+00 Izrazito nezadovoljan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito zadovoljan/na (Ne zna)
+
+B28 
+{QUESTION}
+Sada, koristeći ovu karticu, molim vas recite što općenito mislite o obrazovnom sustavu danas u Hrvatskoj?
+
+{ANSWERS}
+00 Izrazito loš
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito dobar 
+
+B29
+{QUESTION}
+I dalje koristeći ovu karticu, molim vas recite što općenito mislite o zdravstvenim uslugama danas u Hrvatskoj?
+
+{ANSWERS}
+00 Izrazito loš
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito dobar 
+
+B30 
+{QUESTION}
+Koristeći ovu karticu, recite koliko se slažete ili ne slažete sa svakom od tvrdnji koje ću vam pročitati. Vlada bi trebala poduzeti
+mjere da smanji razlike u plaćama.
+
+{ANSWERS}
+Izrazito se slažem
+Slažem se
+Niti se slažem, niti se ne slažem
+Ne slažem se
+Izrazito se ne slažem
+
+B31
+{QUESTION}
+Homoseksualci bi trebali imati slobodu da žive kako im se sviđa.
+
+{ANSWERS}
+Izrazito se slažem
+Slažem se
+Niti se slažem, niti se ne slažem
+Ne slažem se
+Izrazito se ne slažem
+
+B32
+{QUESTION}
+Političke stranke koje žele srušiti demokraciju trebaju biti zabranjene.
+
+{ANSWERS}
+Izrazito se slažem
+Slažem se
+Niti se slažem, niti se ne slažem
+Ne slažem se
+Izrazito se ne slažem
+
+B33
+{QUESTION}
+Možemo se pouzdati u to da će moderna znanost riješiti naše probleme s okolišem.
+
+{ANSWERS}
+Izrazito se slažem
+Slažem se
+Niti se slažem, niti se ne slažem
+Ne slažem se
+Izrazito se ne slažem
+
+{INTRO}
+Sada nekoliko pitanja o ljudima iz drugih zemalja koji dolaze živjeti u Hrvatsku.
+
+B35 
+{QUESTION}
+Sada, koristeći ovu karticu, što mislite, do koje mjere bi Hrvatska trebala dopustiti ljudima iste rase ili etničkog podrijetla kao većina hrvatskog stanovništva da se dosele i žive ovdje?
+
+{ANSWERS}
+Dopustiti mnogima da se dosele i žive ovdje 
+Dopustiti nekima 
+Dopustiti tek manjem broju 
+Ne dopustiti nikome 
+
+B36
+{QUESTION}
+A što je s ljudima drugačije rase ili etničkog podrijetla od većine hrvatskog stanovništva? I dalje koristite ovu karticu.
+
+{ANSWERS}
+Dopustiti mnogima da se dosele i žive ovdje 
+Dopustiti nekima 
+Dopustiti tek manjem broju 
+Ne dopustiti nikome 
+
+B37
+{QUESTION}
+A s ljudima iz siromašnijih zemalja izvan Europe? Koristite istu karticu.
+
+{ANSWERS}
+Dopustiti mnogima da se dosele i žive ovdje 
+Dopustiti nekima 
+Dopustiti tek manjem broju 
+Ne dopustiti nikome 
+
+B38
+{QUESTION}
+Što mislite, je li za hrvatsko gospodarstvo uglavnom loše ili dobro da se ljudi iz drugih zemalja doseljavaju i nastanjuju u Hrvatskoj? Koristite ovu karticu.
+
+{ANSWERS}
+00 Loše za gospodarstvo
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Dobro za gospodarstvo 
+
+B39
+{QUESTION}
+Što mislite, koristeći ovu karticu, je li doseljavanje ljudi iz drugih zemalja ugrožava ili obogaćuje kulturni život Hrvatske?
+
+{ANSWERS}
+00 To ugrožava kulturni život
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 To obogaćuje kulturni život 
+
+B40
+{QUESTION}
+Postaje li Hrvatska lošije ili bolje mjesto za život ako se u nju doseljavaju i nastanjuju ljudi iz drugih zemalja? Molim koristite ovu karticu.
+
+{ANSWERS}
+00 Lošije mjesto za život
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Bolje mjesto za život 
+
+{INTRO}
+I sada nekoliko pitanja o vama i vašem životu.
+
+C1 
+{QUESTION}
+Općenito govoreći, što biste rekli koliko ste sretni? Molim koristite ovu karticu.
+
+{ANSWERS}
+00 Izrazito nesretan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Izrazito sretan/na 
+
+C2 
+{QUESTION}
+Koristeći ovu karticu, koliko često se družite s prijateljima, rođacima i kolegama s posla?
+
+{ANSWERS}
+Nikada 
+Rjeđe nego jednom mjesečno 
+Jednom mjesečno 
+Nekoliko puta mjesečno 
+Jednom tjedno 
+Nekoliko puta tjedno 
+Svaki dan 
+
+C3 
+{QUESTION}
+Imate li ikoga s kime možete razgovarati o intimnim i osobnim temama?
+
+{ANSWERS}
+Da 
+Ne 
+
+C4 
+{QUESTION}
+U usporedbi s drugim ljudima vaše dobi, koliko često sudjelujete u društvenim aktivnostima? Molim koristite ovu karticu.
+
+{ANSWERS}
+Mnogo manje nego drugi 
+Manje nego drugi 
+Uglavnom podjednako 
+Više nego drugi 
+Mnogo više nego drugi 
+
+C5 
+{QUESTION}
+Jeste li vi ili neki član vašeg domaćinstva bili žrtvom razbojstva ili napada u posljednjih 5 godina?
+
+{ANSWERS}
+Da 
+Ne 
+
+C6 
+{QUESTION}
+Koliko sigurno se osjecate, ili biste se osjecali, hodajuci po mraku svojim susjedstvom? Osjecate se, ili biste se osjecali …
+
+{ANSWERS}
+...vrlo sigurno
+sigurno
+nesigurno
+ili vrlo nesigurno? 
+
+C7 
+{QUESTION}
+Brinete li i koliko često da će vaša kuća biti orobljena? Molim odaberite jedan odgovor s ove kartice.
+
+{ANSWERS}
+Gotovo stalno 
+Povremeno 
+Samo ponekad 
+Nikada 
+
+C8 
+{QUESTION}
+Je li ta briga da će vaša kuća biti orobljena… 
+
+{ANSWERS}
+…bitno utječe na kvalitetu vašeg života
+…ima neki utjecaj na kvalitetu vašeg života 
+…ili nema utjecaj na kvalitetu vašeg života? 
+
+C9 
+{QUESTION}
+Brinete li i koliko cesto da cete postati žrtvom nasilnog zlocina? Molim odaberite jedan odgovor s ove kartice.
+
+{ANSWERS}
+Gotovo stalno 
+Povremeno 
+Samo ponekad 
+Nikada 
+
+C10
+{QUESTION}
+ Je li vaša briga da ćete postati žrtvom nasilnog zločina… 
+
+{ANSWERS}
+…bitno utječe na kvalitetu vašeg života
+…ima neki utjecaj na kvalitetu vašeg života 
+…ili nema utjecaj na kvalitetu vašeg života? 
+
+{INTRO}
+Sada nekoliko pitanja o vama samima.
+
+C15 
+{QUESTION}
+Kakvo je vaše zdravlje u cijelosti? Biste li rekli da je ono… 
+
+{ANSWERS}
+...vrlo dobro
+…dobro
+…zadovoljavajuće
+…loše 
+…ili vrlo loše? 
+
+C16 
+{QUESTION}
+Jesu li vaše dnevne aktivnosti na bilo koji način otežane zbog neke dugotrajnije bolesti, invalidnosti, nemoći ili problema s mentalnim zdravljem? AKO DA, jesu li značajno otežane ili samo donekle?
+
+{ANSWERS}
+Da, značajno su otežane 
+Da, donekle su otežane 
+Ne 
+
+C17 
+{QUESTION}
+Osjećate li se pripadnikom neke određene religije ili denominacije?
+
+{ANSWERS}
+Da
+Ne 
+
+C18 
+{QUESTION}
+Koje?
+
+{ANSWERS}
+Rimokatoličke 
+Protestantske 
+Pravoslavne 
+Druge kršćanske religije 
+Židovske 
+Islamske 
+Istočnjačke religije 
+Druge nekršćanske religije 
+
+C19 
+{QUESTION}
+Jeste li ikada osjećali da pripadate nekoj određenoj religiji ili denominaciji?
+
+{ANSWERS}
+Da 
+Ne 
+
+C20 
+{QUESTION}
+Kojoj?
+
+{ANSWERS}
+Rimokatoličkoj 
+Protestantskoj 
+Pravoslavnoj 
+Druge kršćanske religije 
+Židovskoj 
+Islamskoj 
+Istočnjačke religije 
+Druge nekršćanske religije 
+
+C21 
+{QUESTION}
+Bez obzira na to pripadate li ili ne nekoj određenoj religiji, što biste rekli koliko ste religiozni? Koristite ovu karticu.
+
+{ANSWERS}
+00 Nisam religiozan/na
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Vrlo sam religiozan/na 
+
+C22 
+{QUESTION}
+Ako izuzmete posebne događaje kao što su vjenčanja i sprovodi, koliko često pisustvujete religijskim obredima? Koristite ovu karticu.
+
+{ANSWERS}
+Svaki dan 
+Češće nego jednom tjedno 
+Jednom tjedno 
+Barem jednom mjesečno 
+Samo za blagdane 
+Rjeđe od toga 
+Nikada 
+
+C23
+{QUESTION}
+Osim na religijskim obredima, koliko se često molite? Molim koristite ovu karticu.
+
+{ANSWERS}
+Svaki dan 
+Češće nego jednom tjedno 
+Jednom tjedno 
+Barem jednom mjesečno 
+Samo za blagdane 
+Rjeđe od toga 
+Nikada 
+
+C24 
+{QUESTION}
+Biste li sebe opisali kao pripadnika grupe prema kojoj se u Hrvatskoj nepravedno postupa, koja je diskriminirana?
+
+{ANSWERS}
+Da 
+Ne 
+
+C25 
+{QUESTION}
+Na temelju čega je vaša grupa diskriminirana? 
+
+{ANSWERS}
+Boja kože ili rasa 
+Nacionalnost 
+Vjera 
+Jezik 
+Etnička pripadnost 
+Dob 
+Spol (rod) 
+Seksualna orijentacija 
+Invaliditet 
+Drugo 
+
+C26 
+{QUESTION}
+Jeste li hrvatski državljanin?
+
+{ANSWERS}
+Da 
+Ne 
+
+C27 
+{QUESTION}
+Koje državljanstvo imate?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Jeste li rođeni u Hrvatskoj?
+
+{ANSWERS}
+Da 
+Ne 
+
+C29 
+{QUESTION}
+U kojoj ste zemlji rođeni?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Koje ste godine prvi puta došli živjeti u Hrvatsku?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Koji jezik ili jezike najčešće govorite kod kuće? 
+
+{ANSWERS}
+NAPIŠITE NAJVIŠE DVA JEZIKA.
+
+C32 
+{QUESTION}
+Pripadate li nekoj od nacionalnih manjina u Hrvatskoj?
+
+{ANSWERS}
+Da 
+Ne 
+
+C33 
+{QUESTION}
+Je li vaš otac rođen u Hrvatskoj?
+
+{ANSWERS}
+Da 
+Ne 
+
+C34 
+{QUESTION}
+U kojoj je zemlji vaš otac rođen?
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Je li vaša majka rođena u Hrvatskoj?
+
+{ANSWERS}
+Da 
+Ne 
+
+C36 
+{QUESTION}
+U kojoj je zemlji rođena vaša majka?
+
+{ANSWERS}
+
+{INTRO}
+Sada ću vam postaviti nekoliko pitanja o vama i drugim osobama u vašem kućanstvu.
+
+F1 
+{QUESTION}
+Uključujući vas, koliko osoba (uključujući i djecu) živi ovdje stalno, kao članovi kućanstva?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Koje ste godine vi rođeni? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Gledajuci u ovu karticu, odredite u kakvom ste odnosu s tom osobom?
+
+{ANSWERS}
+Suprug(a) / partner(ica) 
+Sin ili kćer (uključujući posvojeno ili udomljeno dijete te dijete partnera i sl.) 
+Roditelj (uključujući poočima ili pomajku, partnera roditelja, skrbnika te udomitelja) 
+Brat ili sestra (uključujući polusestru, polubrata te usvojeno i udomljeno dijete ili dijete roditeljeva partnera)
+Drugi rođak 
+Druga osoba s kojom niste u rodu 
+
+
+
+F6 
+{QUESTION}
+Upravo ste mi rekli da živite sa svojim suprugom odnosno sa svojom suprugom. Koji od opisa na ovoj kartici najbolje opisuje vaš odnos?
+
+{ANSWERS}
+Bracna zajednica 
+Zakonski priznata izvanbracna zajednica 
+Zajednicki život s partnerom/partnericom 
+Zakonski razvedeni/razvrgnuta izvanbracna zajednica
+
+F7 
+{QUESTION}
+Mogu li samo provjeriti jeste li ikada živjeli s partnerom a da niste bili zakonski vjenacni (ili u zakonski priznatoj izvanbracnoj zajednici)?
+
+{ANSWERS}
+Da 
+Ne 
+
+F8 
+{QUESTION}
+Mogu li samo provjeriti jeste li ikada bili razvedeni ili ste razvrgnuli zakonski priznatu izvanbracnu zajednicu?
+
+{ANSWERS}
+Da 
+Ne 
+
+F11 
+{QUESTION}
+Ovo je pitanje o vašem zakonskom bracnom status i ne odnosi na to s kime živite ili ne živite. Koji od opisa na ovoj kartici opisuje vaš trenutni zakonski bracni status?
+
+{ANSWERS}
+Zakonski vjencan/a
+U zakonski priznatoj izvanbracnoj zajednici
+Nema odgovora tri u hrvatskoj verziji
+Zakonski razveden/razvrgnuta izvanbracna zajednica
+Udovac/ica, partner/ica iz izvanbracne zajednice je preminuo
+Ništa od navedenog (NIKAD vjencan/a niti živio/živjela u
+zakonski priznatoj izvanbracnoj zajednici) 
+
+F13 
+{QUESTION}
+Jeste li ikada imali vlastitu djecu, posvojenu ili udomljenu, pastorke ili partnerovu djecu koja su živjela s vama u kucanstvu?
+
+{ANSWERS}
+Da 
+Ne 
+
+F13a 
+{QUESTION}
+Imate li fiksnu telefonsku liniju u (vašem dijelu) kucanstvu?
+
+{ANSWERS}
+Da 
+Ne 
+
+F14 
+{QUESTION}
+Koji izraz najbolje odgovara mjestu gdje vi živite?
+
+{ANSWERS}
+Veliki grad 
+Predgrade ili okolica velikog grada 
+Manji grad 
+Selo 
+Farma ili kuca izvan naselja 
+
+F15 
+{QUESTION}
+Koji je najviši stupanj obrazovanja koji ste postigli? Molim vas, koristite ovu karticu.
+
+{ANSWERS}
+Bez škole (do tri razreda osnovne škole) 
+Nedovršena osnovna škola (4 do 7 razreda) 
+Završena osnovna škola
+Srednja strukovna škola u trajanju 1-2 godine (obrtnicka, industrijska, KV)
+Srednja strukovna škola u trajanju 3 godine (obrtnicka, industrijska, VKV)
+Tehnicke i srodne strukovne škole, škole za zanimanje u trajanju od 4 godine ili više
+Gimnazija
+Strucni studij na visokoj školi ili veleucilištu (2-3 godine)
+Preddiplomski sveucilišni studij - za akademski naslov "baccalaureus" (3-4 godine); umjetnicka akademija (prediplomski studij)
+Specijalisticki diplomski strucni studij (4-5 godina); specijalist struke
+Diplomski sveucilišni studij (4-6 godina) - stari program
+Strucni magisterij (5 godina); umjetnicka akademija (diplomski studij)
+Postignut magisterij znanosti ili završen poslijediplomski specijalisticki studij
+Postignut doktorat znanosti 
+(Ništa od toga / nešto drugo)
+
+F16 
+{QUESTION}
+Koliko ste se godina ukupno školovali (ukljucite sve vrste redovnog i izvanrednog školovanja i doškolovanja). 
+
+{ANSWERS}
+
+F17a 
+{QUESTION}
+Koristeci ovu karticu, koji od sljedecih opisa odgovara onome što ste radili u proteklih 7 dana? Odaberite sve što odgovara.
+
+{ANSWERS}
+Radite placeni posao (zaposleni kod poslodavca, samozaposleni ili u obiteljskom poslu) 
+Školujete se (to obrazovanje nije vam placeno od poslodavca) 
+Nezaposleni ste i aktivno tražite posao 
+Nezaposleni ste, želite posao, ali ga ne tražite aktivno 
+Trajno ste bolesni ili s invaliditetom 
+U mirovini ste 
+(Nema odgovora 7 u hrvatskoj verziji) 
+Bavite se kucanskim poslovima, cuvanjem djece ili drugih osoba 
+(Drugo) 
+
+F17c 
+{QUESTION}
+Koji od ovih opisa najbolje odgovara vašoj situaciji (u posljednjih sedam dana). Molim odaberite samo jedan opis.
+
+{ANSWERS}
+Radite placeni posao (zaposleni kod poslodavca, samozaposleni ili u obiteljskom poslu) 
+Školujete se (to obrazovanje nije vam placeno od poslodavca) 
+Nezaposleni ste i aktivno tražite posao 
+Nezaposleni ste, želite posao, ali ga ne tražite aktivno 
+Trajno ste bolesni ili s invaliditetom 
+U mirovini ste 
+(Nema odgovora 7 u hrvatskoj verziji) 
+Bavite se kucanskim poslovima, cuvanjem djece ili drugih osoba 
+(Drugo) 
+
+F18 
+{QUESTION}
+Samo da provjerim, jeste li u zadnjih sedam dana imali bilo kakav placeni posao u trajanju od jednog sata ili više?
+
+{ANSWERS}
+Da 
+Ne 
+
+F19 
+{QUESTION}
+Jeste li ikada imali placeni posao?
+
+{ANSWERS}
+Da 
+Ne 
+
+F20 
+{QUESTION}
+Koje ste godine zadnji put imali placeni posao?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+U Vašem glavnom poslu vi ste… 
+
+{ANSWERS}
+...zaposlenik 
+...samozaposlen 
+...radili obiteljski posao? 
+
+F22 
+{QUESTION}
+Koliko zaposlenih imate, ako ijednog?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Imate li ugovor o radu…. 
+
+{ANSWERS}
+na neodredeno vrijeme
+na odredeno vrijeme
+ili ste radili bez ugovora? 
+
+F23a 
+{QUESTION}
+Kada ste poceli raditi, je li vaš poslodavac smatrao da ce se raditi o … 
+
+{ANSWERS}
+… privremenom ugovoru o radu ili ugovoru na odredeno vrijeme, u trajanju kracem od 12 mjeseci
+… privremenom ugovoru o radu ili ugovoru na odredeno vrijeme, u trajanju od 12 mjeseci ili duže
+ili, stalnom poslu 
+(Drugo) 
+
+F24 
+{QUESTION}
+Ukljucujuci vas, otprilike koliko ljudi je zaposleno na mjestu gdje radite (ste obicno radili)…
+
+{ANSWERS}
+…manje od 10
+10 do 24
+25 do 99
+100 do 499 
+ili 500 ili više? 
+
+F25 
+{QUESTION}
+U vašem glavnom poslu, imate li odgovornost nadgledanja rada drugih zaposlenika?
+
+{ANSWERS}
+Da 
+Ne 
+
+F26 
+{QUESTION}
+Za koliko ste ljudi odgovorni?
+
+{ANSWERS}
+
+{INTRO}
+A sada me zanima još nešto o vašem radnom životu. 
+
+F27
+{QUESTION}
+Koristeci ovu karticu, molim vas odredite u kojoj mjeri vam uprava na poslu omogucuje, ili vam je omogucavala… da odlucujete kako ce vaš dnevni posao biti organiziran?
+
+{ANSWERS}
+00 Nemam (nisam imao) utjecaj
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam (imao sam) potpunu kontrolu
+
+F28 
+{QUESTION}
+…da utjecete na politiku tvrtke i odluke o aktivnostima organizacije
+
+{ANSWERS}
+00 Nemam (nisam imao) utjecaj
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam (imao sam) potpunu kontrolu
+
+F28a
+{QUESTION}
+...da birate ili mijenjate svoj tempo rada?
+
+{ANSWERS}
+00 Nemam (nisam imao) utjecaj
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Imam (imao sam) potpunu kontrolu
+
+F29 
+{QUESTION}
+Po ugovoru, koliko sati tjedno radite svoj osnovni posao (ne racunajuci prekovremeni rad)?
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Neovisno o broju sati u ugovoru, koliko sati tjedno uobicajeno radite svoj osnovni posao, ukljucujuci prekovremeni rad (placeni i ne placeni)?
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Što tvrtka ili organizacija u kojoj radite prvenstveno proizvodi ili radi? 
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+U kojem tipu organizacije radite? 
+
+{ANSWERS}
+Državna ili lokalna vlast 
+Drugi javni sektor (poput obrazovanja i zdravstva) 
+Tvrtka u državnom vlasništvu 
+Privatna tvrtka 
+Samozapolen/a (samostalno zaposlen/na) 
+Drugo 
+
+F33 
+{QUESTION}
+Koji je naziv vašeg osnovnog posla? 
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+Obavljajuci svoj osnovni posao, koje zadace najcešce obavljate? 
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Kakve su kvalifikacije ili treninzi potrebni za taj posao? 
+
+{ANSWERS}
+
+F34b 
+{QUESTION}
+Koji od razloga na ovoj kartici najbolje opisuje glavni razlog zbog kojega ste napustili svog posljednjeg poslodavca?
+
+{ANSWERS}
+Dobio/dobila sam bolji posao 
+Odlucio/odlucila sam pokrenuti vlastiti posao/ samostalno zaposlenje 
+Istekao mi je ugovor 
+Postao/la sam višak ili dobio/dobila otkaz 
+Poslodavac je prestao raditi 
+Moj vlastiti /obiteljski posao je zatvoren ili prodan 
+Bolest ili invaliditet 
+Otišao/la sam u mirovinu 
+Osobni ili obiteljski razlozi 
+Drugo 
+Nikad nisam promijenio/la poslodavca 
+
+F35 
+{QUESTION}
+Jeste li u posljednjih 10 godina radili bilo kakav placeni posao u inozemstvu u trajanju od 6 mjeseci ili duže?
+
+{ANSWERS}
+Da 
+Ne 
+
+F36 
+{QUESTION}
+Jeste li ikada bili nezaposleni i tražili posao duže od tri mjeseca ?
+
+{ANSWERS}
+Da 
+Ne 
+
+F37 
+{QUESTION}
+Je li neki od tih perioda traženja posla trajao 12 mjeseci ili duže?
+
+{ANSWERS}
+Da 
+Ne 
+
+F38 
+{QUESTION}
+Je li neki od tih perioda traženja posla, koji su trajali duže od tri mjeseca, bio u posljednjih 5 godina?
+
+{ANSWERS}
+Da 
+Ne 
+
+F39 
+{QUESTION}
+Jeste li ikada bili clan sindikata ili slicne organizacije? AKO JESTE, jeste li i sada clan ili ste bili prije?
+
+{ANSWERS}
+Jesam, trenutno 
+Jesam, u prošlosti 
+Ne 
+
+F40 
+{QUESTION}
+Molim vas, uzmite u obzir prihode svih clanova kucanstva i prihod koji kucanstvo ostvaruje zajednicki. Koji je osnovni izvor prihoda u vašem kucanstvu? Molim vas, koristite ovu karticu.
+
+{ANSWERS}
+Place, nadnice ili honorari 
+Prihod od samozapošljavanja (osim poljoprivrede) 
+Prihod od poljoprivrede 
+Mirovine 
+Naknada za nezaposlenost/otpremnine 
+Druge socijalne naknade ili pomoci 
+Prihodi od investiranja, uštedevine, osiguranja ili vlasništva 
+Prihodi iz drugih izvora 
+
+F41 
+{QUESTION}
+Koristeci ovu karticu, ako zbrojite prihode iz svih izvora, koje slovo odgovara totalnom neto prihodu vašeg kucanstva (nakon poreza i obaveznih odbitaka)? Ako ne znate tocan iznos, procijenite
+
+{ANSWERS}
+UKUPNI MJESECNI PRIHODI VAŠEG KUCANSTVA
+J Do 1.364
+R 1.365 do 2.426
+C 2.427 do 3.374
+M 3.375 do 4.406
+F 4.407 do 5.536
+S 5.537 do 6.714
+K 6.715 do 8.094
+P 8.095 do 9.868
+D 9.869 do 12.054
+H 12.055 i više
+
+F41a 
+{QUESTION}
+Otprilike koliki udio ukupnih prihoda vašeg kucanstva vi sami privredujete? Koristite ovu karticu.
+
+{ANSWERS}
+Nikakav 
+Vrlo mali 
+Manje od pola 
+Oko pola 
+Više od pola 
+Vrlo veliki 
+Sve 
+
+F42
+{QUESTION}
+Koji je od opisa na ovoj kartici najbliži onome kako doživljavate prihode svog kucanstva?
+
+{ANSWERS}
+Dobro živim sa sadašnjim prihodima 
+Snalazim se sa sadašnjim prihodima 
+Teško mi je sa sadašnjim prihodima 
+Vrlo mi je teško sa sadašnjim prihodima 
+
+F43
+{QUESTION}
+Ako biste se iz nekog razloga našli u vrlo teškoj financijskoj situaciji zbog koje biste morali posuditi novac da 'skrpate kraj s krajem', bi li vam to bilo teško ili lako? Molim vas, koristite ovu karticu.
+
+{ANSWERS}
+Vrlo teško 
+Prilicno teško 
+Ni lako ni teško 
+Prilicno lako 
+Vrlo lako 
+
+F45
+{QUESTION}
+Koji je najviši stupanj obrazovanja koji je postigao vaš suprug? Koristite ovu karticu.
+
+{ANSWERS}
+Bez škole (do tri razreda osnovne škole) 
+Nedovršena osnovna škola (4 do 7 razreda)
+Završena osnovna škola
+Srednja strukovna škola u trajanju 1-2 godine (obrtnicka, industrijska, KV)
+Srednja strukovna škola u trajanju 3 godine (obrtnicka, industrijska, VKV)
+Tehnicke i srodne strukovne škole, škole za zanimanje u trajanju od 4 godine ili više
+Gimnazija
+Strucni studij na visokoj školi ili veleucilištu (2-3 godine)
+Preddiplomski sveucilišni studij - za akademski naslov "baccalaureus" (3-4 godine); umjetnicka akademija (prediplomski studij)
+Specijalisticki diplomski strucni studij (4-5 godina); specijalist struke
+Diplomski sveucilišni studij (4-6 godina) - stari program
+Strucni magisterij (5 godina); umjetnicka akademija (diplomski studij)
+Postignut magisterij znanosti ili završen poslijediplomski specijalisticki studij
+Postignut doktorat znanosti 
+(Ništa od toga / nešto drugo)
+
+
+F46a 
+{QUESTION}
+Koji od ovih opisa odgovara onome što je vaš suprug radio u posljednjih 7 dana? Odaberite sve što odgovara.
+
+{ANSWERS}
+Radi placeni posao (zaposlen/a kod poslodavca, samozaposlen/a ili u obiteljskom poslu) 
+Školuje se (to obrazovanje mu/joj nije placeno od poslodavca) 
+Nezaposlen(a) je i aktivno traži posao 
+Nezaposlen(a) je, želi posao, ali ga ne traži aktivno 
+Trajno je bolestan(a) ili s invaliditetom 
+U mirovini je 
+(Nema odgovora 7 u hrvatskoj verziji) 
+Bavi se kucanskim poslovima, cuvanjem djece ili drugih osoba 
+(Drugo) 
+
+F46c
+{QUESTION}
+A koji od opisa na ovoj kartici najbolje odgovara njegovoj situaciji (u posljednjih tjedan dana). Molim odaberite samo jedan odgovor.
+
+{ANSWERS}
+Radi placeni posao (zaposlen/a kod poslodavca, samozaposlen/a ili u obiteljskom poslu) 
+Školuje se (to obrazovanje mu/joj nije placeno od poslodavca) 
+Nezaposlen(a) je i aktivno traži posao 
+Nezaposlen(a) je, želi posao, ali ga ne traži aktivno 
+Trajno je bolestan(a) ili s invaliditetom 
+U mirovini je 
+(Nema odgovora 7 u hrvatskoj verziji) 
+Bavi se kucanskim poslovima, cuvanjem djece ili drugih osoba 
+(Drugo) 
+
+F47 
+{QUESTION}
+Mogu li samo provjeriti - je li on radio placeni posao u proteklih 7 dana (u trajanju od najmanje jednog sata)?
+
+{ANSWERS}
+Da 
+Ne 
+
+F48 
+{QUESTION}
+Koji je naziv njegovog osnovnog posla?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+U njegovom osnovnom poslu, koje zadace najcešce obavlja? 
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Kakve kvalifikacije su potrebne za obavljanje tog posla?
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+U svome osnovnom poslu, on je…
+
+{ANSWERS}
+...zaposlenik/ica 
+...samozaposlen/a 
+...ili radi u obiteljskom poslu? 
+
+F52 
+{QUESTION}
+Koliko zaposlenika (ukoliko ih uopce ima) on ima?
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+U svojem osnovnom poslu, ima li vaš partner odgovornost nadgledanja rada drugih zaposlenika?
+
+{ANSWERS}
+Da 
+Ne 
+
+F54 
+{QUESTION}
+Za koliko osoba je odgovoran?
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Koliko sati tjedno vaš partner obicno radi svoj osnovni posao (racunajuci prekovremeni rad)
+
+{ANSWERS}
+
+F58 
+{QUESTION}
+Koji je najviši stupanj obrazovanja koji je postigao vaš otac?
+
+{ANSWERS}
+Bez škole (do tri razreda osnovne škole) 
+Nedovršena osnovna škola (4 do 7 razreda) 
+Završena osnovna škola
+Srednja strukovna škola u trajanju 1-2 godine (obrtnicka, industrijska, KV)
+Srednja strukovna škola u trajanju 3 godine (obrtnicka, industrijska, VKV)
+Tehnicke i srodne strukovne škole, škole za zanimanje u trajanju od 4 godine ili više
+Gimnazija
+Strucni studij na visokoj školi ili veleucilištu (2-3 godine)
+Preddiplomski sveucilišni studij - za akademski naslov "baccalaureus" (3-4 godine); umjetnicka akademija (prediplomski studij)
+Specijalisticki diplomski strucni studij (4-5 godina); specijalist struke
+Diplomski sveucilišni studij (4-6 godina) - stari program
+Strucni magisterij (5 godina); umjetnicka akademija (diplomski studij)
+Postignut magisterij znanosti ili završen poslijediplomski specijalisticki studij
+Postignut doktorat znanosti 
+(Ništa od toga / nešto drugo)
+
+F59 
+{QUESTION}
+Kada ste imali 14 godina, je li vaš otac bio zaposlenik, samozaposlen ili uopce nije radio?
+
+{ANSWERS}
+
+F60 
+{QUESTION}
+Koliko je zaposlenika imao?
+
+{ANSWERS}
+Niti jednog 
+1 do 24 
+25 ili više 
+
+F61 
+{QUESTION}
+Je li imao odgovornost nadgledanja rada drugih zaposlenika?
+
+{ANSWERS}
+Da 
+Ne 
+
+F62 
+{QUESTION}
+Koji je bio naziv njegovog osnovnog posla?
+
+{ANSWERS}
+Zaposlenik 
+Samozaposlen 
+Nije radio 
+(Otac je preminuo ili nije živio u domacinstvu) 
+
+F63 
+{QUESTION}
+Koji od opisa na ovoj kartici najbolje opisuje vrstu posla koju je vaš otac obavljao kada vam je bilo 14 godina? 
+
+{ANSWERS}
+Strucna i tehnicka zanimanja poput: lijecnik – nastavnik – inženjer – umjetnik – racunovoda
+Viša administrativna zanimanja poput: bankar – direktor u velikoj tvrtki – visoki vladin dužnosnik
+Službenicka zanimanja poput: tajnik – cinovnik – službenik – voditelj ureda – knjigovoda
+Trgovacka zanimanja poput: voditelj prodaje – vlasnik ducana – pomocnik u ducanu – agent osiguranja
+Uslužna zanimanja poput : vlasnik restorana – policajac – konobar– njegovatelj – frizer – vojnik
+Kvalificirani radnik poput: automehanicar – tiskar – alatnicar – elektricar
+Polukvalificirani radnik poput: zidar – vozac autobusa – stolar – bravar – pekar
+Nekvalificirani radnik poput: radnik – nosac – nekvalificirani radnik u tvornici
+Radnik na farmi poput: poljoprivrednik – radnik na farmi – vozac traktora-ribar
+
+F64 
+{QUESTION}
+Koji je najviši stupanj obrazovanja koji je postigla vaša majka? Molim koristite ovu karticu.
+
+{ANSWERS}
+Bez škole (do tri razreda osnovne škole) 
+Nedovršena osnovna škola (4 do 7 razreda)
+Završena osnovna škola
+Srednja strukovna škola u trajanju 1-2 godine (obrtnicka, industrijska, KV)
+Srednja strukovna škola u trajanju 3 godine (obrtnicka, industrijska, VKV)
+Tehnicke i srodne strukovne škole, škole za zanimanje u trajanju od 4 godine ili više
+Gimnazija
+Strucni studij na visokoj školi ili veleucilištu (2-3 godine)
+Preddiplomski sveucilišni studij - za akademski naslov "baccalaureus" (3-4 godine); umjetnicka akademija (prediplomski studij)
+Specijalisticki diplomski strucni studij (4-5 godina); specijalist struke
+Diplomski sveucilišni studij (4-6 godina) - stari program
+Strucni magisterij (5 godina); umjetnicka akademija (diplomski studij)
+Postignut magisterij znanosti ili završen poslijediplomski specijalisticki studij
+Postignut doktorat znanosti 
+(Ništa od toga / nešto drugo)
+
+F65 
+{QUESTION}
+Kada ste imali 14 godina, je li vaša majka bila zaposlena, samozaposlena ili uopce nije radila?
+
+{ANSWERS}
+Zaposlena 
+Samozaposlena 
+Nije radila 
+ (Majka je preminula ili nije živjela u domacinstvu) 
+
+F66 
+{QUESTION}
+Koliko je zaposlenika imala?
+
+{ANSWERS}
+Niti jednog 
+1 do 24 
+25 ili više 
+
+F67 
+{QUESTION}
+Je li imala odgovornost nadgledanja rada drugih zaposlenika?
+
+{ANSWERS}
+Da 
+Ne 
+
+F68 
+{QUESTION}
+Koji je bio naziv njezinog osnovnog posla?
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Koji od opisa na ovoj kartici najbolje opisuje vrstu posla koju je vaša majka obavljala kada vam je bilo 14 godina?
+
+{ANSWERS}
+Strucna i tehnicka zanimanja poput: lijecnik – nastavnik – inženjer – umjetnik – racunovoda
+Viša administrativna zanimanja poput: bankar – direktor u velikoj tvrtki – visoki vladin dužnosnik
+Službenicka zanimanja poput: tajnik – cinovnik – službenik – voditelj ureda – knjigovoda
+Trgovacka zanimanja poput: voditelj prodaje – vlasnik ducana – pomocnik u ducanu – agent osiguranja
+Uslužna zanimanja poput : vlasnik restorana – policajac – konobar– njegovatelj – frizer – vojnik
+Kvalificirani radnik poput: automehanicar – tiskar – alatnicar – elektricar
+Polukvalificirani radnik poput: zidar – vozac autobusa – stolar – bravar – pekar
+Nekvalificirani radnik poput: radnik – nosac – nekvalificirani radnik u tvornici
+Radnik na farmi poput: poljoprivrednik – radnik na farmi – vozac traktora-ribar
+
+F70 
+{QUESTION}
+Jeste li u posljednjih 12 mjeseci sudjelovali na nekom tecaju, predavanju ili konferenciji da biste
+poboljšali znanje ili vještine za posao?
+
+{ANSWERS}
+Da 
+Ne 
+
+F70a 
+{QUESTION}
+Koliko ste otprilike sveukupno dana proveli na toj edukaciji ili treningu u posljednijih 12 mjeseci? Molim vas da dvije polovine dana racunate kao cijeli dan.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Sada vas molim da razmislite o tome što ste naucili tijekom ovog treninga ili edukacije/ usavršavanja. Koliko bi to to što ste naucili bilo korisno ako biste željeli ici raditi za drugog poslodavca ili tvrtku? Molim vas, koristite ovu karticu.
+
+{ANSWERS}
+Vrlo korisno 
+Prilicno korisno 
+Ne baš korisno 
+Uopce ne bi bilo korisno 
+
+F70c 
+{QUESTION}
+Koliki dio ovih treninga ili edukacija je platio vaš poslodavac ili tvrtka? Molim vas, koristite ovu karticu.
+
+{ANSWERS}
+Sve 
+Najveci dio 
+Oko pola 
+Nešto 
+Ništa 
+

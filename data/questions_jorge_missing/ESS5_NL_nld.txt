@@ -1,0 +1,1778 @@
+﻿A1 
+{QUESTION}
+Hoeveel tijd besteedt u op een gewone doordeweekse dag in totaal aan televisie kijken? Wilt u deze kaart gebruiken voor uw antwoord?
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A2 
+{QUESTION}
+Hoeveel van de tijd die u op een gewone doordeweekse dag naar de televisie kijkt, kijkt u naar nieuws of programma’s over politiek en actualiteiten? Wilt u deze kaart weer gebruiken?
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A3 
+{QUESTION}
+Hoeveel tijd besteedt u op een gewone doordeweekse dag in totaal aan naar de radio luisteren? Gebruik dezelfde kaart.
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A4 
+{QUESTION}
+Hoeveel van de tijd die u op een gewone doordeweekse dag naar de radio luistert, luistert u naar nieuws of programma’s over politiek en actualiteiten? Gebruik nog steeds deze kaart.
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A5 
+{QUESTION}
+Hoeveel tijd besteedt u op een gewone doordeweekse dag in totaal aan het lezen van kranten? Wilt u weer antwoorden aan de hand van deze kaart?
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A6 
+{QUESTION}
+En hoeveel van die tijd leest u over politiek en actualiteiten? Wilt u weer antwoorden aan de hand van deze kaart?
+
+{ANSWERS}
+Geen tijd aan besteed
+Minder dan een ½ uur
+Van een ½ uur, tot hoogstens 1 uur
+Meer dan 1 uur, tot hoogstens1½ uur
+Meer dan 1½ uur, tot hoogstens 2 uur
+Meer dan 2 uur, tot hoogstens 2½ uur
+Meer dan 2½ uur, tot hoogstens 3 uur
+Meer dan 3 uur
+
+A7 
+{QUESTION}
+Wilt u nu deze kaart gebruiken voor uw antwoord? Hoe vaak maakt u – thuis of op het werk – gebruik van het internet of e-mail voor uw persoonlijke privé doeleinden?
+
+{ANSWERS}
+Geen toegang thuis of op het werk 
+Nooit gebruikt 
+Minder dan 1 keer per maand 
+1 keer per maand 
+Meerdere keren per maand 
+1 keer per week 
+Meerdere keren per week 
+Elke dag 
+
+A8 
+{QUESTION}
+Denkt u, in het algemeen, dat de meeste mensen te vertrouwen zijn, of dat je niet voorzichtig genoeg kunt zijn in de omgang met mensen? Wilt u een antwoord geven van 0 tot 10 aan de hand van deze kaart, waarbij 0 betekent dat je niet voorzichtig genoeg kunt zijn en 10 dat de meeste mensen te vertrouwen zijn.
+
+{ANSWERS}
+00 Je kunt niet voorzichtig genoeg zijn
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 De meeste mensen zijn te vertrouwen
+
+A9 
+{QUESTION}
+Wilt u nu deze kaart gebruiken? Denkt u dat de meeste mensen zouden proberen misbruik van u te maken als zij daartoe de kans krijgen, of zouden zij proberen eerlijk te zijn?
+
+{ANSWERS}
+00 De meeste mensen zouden proberen misbruik van mij te maken
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 De meeste mensen zouden proberen eerlijk te zijn
+
+A10
+{QUESTION}
+Denkt u dat mensen meestal behulpzaam proberen te zijn of denkt u dat zij meestal aan zichzelf denken? Wilt u nu gebruik maken van deze kaart?
+
+{ANSWERS}
+00 Mensen denken meestal aan zichzelf
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mensen proberen meestal behulpzaam te zijn
+
+{INTRO}
+Nu willen wij graag enkele vragen stellen over politiek en overheid.
+
+B1 
+{QUESTION}
+Hoe geïnteresseerd bent u in de politiek? Bent u … 
+
+{ANSWERS}
+heel erg geïnteresseerd
+tamelijk geïnteresseerd
+nauwelijks geïnteresseerd
+of, helemaal niet geïnteresseerd? 
+
+B4
+{QUESTION}
+Gebruik deze kaart. Kunt u op een schaal van 0 tot 10 aangeven hoeveel vertrouwen u persoonlijk heeft in elk van de instellingen die ik oplees? 0 betekent dat u helemaal geen vertrouwen heeft in een instelling en 10 dat u volledig vertrouwen heeft. Ten eerste … het Nederlands parlement?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B5
+{QUESTION}
+… het rechtsstelsel?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B6
+{QUESTION}
+… de politie?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B7
+{QUESTION}
+… politici?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B8
+{QUESTION}
+… politieke partijen?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B9
+{QUESTION}
+… het Europees Parlement?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B10
+{QUESTION}
+… de Verenigde Naties?
+
+{ANSWERS}
+00 Helemaal geen vertrouwen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Volledig vertrouwen
+
+B11 
+{INTRO}
+Sommige mensen stemmen tegenwoordig om de één of andere reden niet. 
+
+{QUESTION}
+Heeft u tijdens de laatste Tweede Kamer verkiezingen in juni 2010 gestemd?
+
+{ANSWERS}
+Ja 
+Nee 
+Niet stemgerechtigd 
+
+B12 
+{QUESTION}
+Op welke partij heeft u bij die verkiezingen gestemd?
+
+{ANSWERS}
+VVD
+PVDA
+PVV
+CDA
+SP
+D66
+GroenLinks
+ChristenUnie
+SGP
+Partij voor de Dieren
+TON (Lijst Verdonk)
+Andere 
+Blanco gestemd
+
+{INTRO}
+Er zijn verschillende manieren om te proberen in Nederland dingen te verbeteren of om te helpen voorkomen dat dingen verkeerd gaan.
+
+B13
+{QUESTION}
+Heeft u in de afgelopen 12 maanden een van de volgende dingen gedaan? Heeft u contact opgenomen met een politicus, een landelijke of gemeentelijke ambtenaar?
+
+{ANSWERS}
+Ja
+Nee
+
+B14
+{QUESTION}
+Bent u in een politieke partij of actiegroep actief geweest?
+
+{ANSWERS}
+Ja
+Nee
+
+B15
+{QUESTION}
+Bent u in een andere organisatie of vereniging actief geweest?
+
+{ANSWERS}
+Ja
+Nee
+
+B16
+{QUESTION}
+Heeft u een sticker of badge gedragen voor een campagne?
+
+{ANSWERS}
+Ja
+Nee
+
+B17
+{QUESTION}
+Heeft u deelgenomen aan een handtekeningenactie?
+
+{ANSWERS}
+Ja
+Nee
+
+B18
+{QUESTION}
+Heeft u deelgenomen aan een geoorloofde openbare demonstratie?
+
+{ANSWERS}
+Ja
+Nee
+
+B19
+{QUESTION}
+Heeft u bepaalde producten geboycot?
+
+{ANSWERS}
+Ja
+Nee
+
+B20a 
+{QUESTION}
+Is er een bepaalde politieke partij waarmee u zich meer verbonden voelt dan met al de andere?
+
+{ANSWERS}
+Ja
+Nee
+
+B20b 
+{QUESTION}
+Welke?
+
+{ANSWERS}
+VVD 
+PVDA 
+PVV 
+CDA 
+SP 
+D66 
+GroenLinks 
+ChristenUnie
+SGP 
+Partij voor de Dieren 
+TON(Lijst Verdonk) 
+Andere 
+
+B20c 
+{QUESTION}
+Hoezeer voelt u zich verbonden met deze partij? Voelt u zich … 
+
+{ANSWERS}
+nauw verbonden
+tamelijk verbonden
+niet verbonden
+of, helemaal niet verbonden? 
+
+B21 
+{QUESTION}
+Bent u lid van een politieke partij?
+
+{ANSWERS}
+Ja 
+Nee 
+
+B22 
+{QUESTION}
+Van welke partij?
+
+{ANSWERS}
+VVD
+PVDA
+PVV
+CDA
+SP
+D66
+GroenLinks
+ChristenUnie
+SGP
+Partij voor de Dieren
+TON(Lijst Verdonk)
+Andere 
+
+B23 
+{INTRO}
+In de politiek wordt soms gesproken over “links” en “rechts”. 
+
+{QUESTION}
+Als u deze kaart gebruikt, waar zou u zich op deze schaal plaatsen, waarbij 0 links betekent en 10 rechts?
+
+{ANSWERS}
+00 Links 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Rechts 
+
+B24 
+{QUESTION}
+Alles bij elkaar genomen, hoe tevreden bent u vandaag de dag met uw leven in het algemeen? Gebruik deze
+kaart om te antwoorden, waarbij 0 zeer ontevreden betekent en 10 zeer tevreden.
+
+{ANSWERS}
+00 Zeer ontevreden 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer tevreden 
+
+B25 
+{QUESTION}
+Hoe tevreden bent u in het algemeen met de huidige toestand van de economie in Nederland? Gebruik nog steeds deze kaart.
+
+{ANSWERS}
+00 Zeer ontevreden 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer tevreden 
+
+B26 
+{QUESTION}
+Als u nu denkt aan de Nederlandse regering, hoe tevreden bent u over de manier waarop zij haar werk doet? Gebruik nog steeds deze kaart.
+
+{ANSWERS}
+00 Zeer ontevreden 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer tevreden 
+
+B27 
+{QUESTION}
+Hoe tevreden bent u in het algemeen met de manier waarop de democratie werkt in Nederland? Gebruik nog steeds deze kaart.
+
+{ANSWERS}
+00 Zeer ontevreden 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer tevreden 
+
+B28 
+{QUESTION}
+Wilt u nu via deze kaart zeggen wat u in het algemeen vindt van de huidige staat van het onderwijs in Nederland?
+
+{ANSWERS}
+00 Zeer slecht 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer goed 
+
+B29 
+{QUESTION}
+Nog steeds gebruikmakend van deze kaart, kunt u zeggen wat u in het algemeen vindt van de huidige staat van de gezondheidszorg in Nederland?
+
+{ANSWERS}
+00 Zeer slecht 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer goed 
+
+B30
+{QUESTION}
+Kunt u met deze kaart aangeven in welke mate u het met elk van de volgende uitspraken eens of oneens bent? De overheid zou maatregelen moeten nemen om inkomensverschillen te verminderen.
+
+{ANSWERS}
+Helemaal eens
+Eens
+Niet eens, niet oneens
+Oneens
+Helemaal oneens
+
+B31
+{QUESTION}
+Homoseksuele mannen en lesbische vrouwen moeten vrij zijn om hun leven te leiden zoals zij dat willen.
+
+{ANSWERS}
+Helemaal eens
+Eens
+Niet eens, niet oneens
+Oneens
+Helemaal oneens
+
+B32
+{QUESTION}
+Politieke partijen die de democratie omver willen werpen moeten worden verboden.
+
+{ANSWERS}
+Helemaal eens
+Eens
+Niet eens, niet oneens
+Oneens
+Helemaal oneens
+
+B33
+{QUESTION}
+Men kan op de moderne wetenschap rekenen voor de oplossing van onze milieuproblematiek.
+
+{ANSWERS}
+Helemaal eens
+Eens
+Niet eens, niet oneens
+Oneens
+Helemaal oneens
+
+{INTRO}
+Nu volgen enkele vragen over mensen uit andere landen die in Nederland komen wonen.
+
+B35
+{QUESTION}
+Gebruik deze kaart. In welke mate vindt u dat Nederland mensen van dezelfde huidskleur of dezelfde etnische groep als de meeste Nederlanders zou moeten toelaten om hier te komen wonen en leven? Het Nederlands beleid moet…
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven 
+Sommigen toelaten 
+Enkelen toelaten 
+Niemand toelaten 
+
+B36
+{QUESTION}
+En wat is uw mening met betrekking tot mensen van een andere huidskleur of etnische groep dan de meeste
+Nederlanders? Gebruik nog steeds deze kaart. Het Nederlands beleid moet… Gebruik nog steeds deze kaart.
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven 
+Sommigen toelaten 
+Enkelen toelaten 
+Niemand toelaten 
+
+B37
+{QUESTION}
+En wat is uw mening met betrekking tot mensen uit de armere landen buiten Europa? Gebruik dezelfde kaart.
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven 
+Sommigen toelaten 
+Enkelen toelaten 
+Niemand toelaten 
+
+B38
+{QUESTION}
+Is het volgens u over het algemeen slecht of goed voor de Nederlandse economie dat mensen uit andere landen hier komen wonen? Gebruik deze kaart.
+
+{ANSWERS}
+00 Slecht voor de economie 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Goed voor de economie 
+
+B39
+{QUESTION}
+Vindt u dat het culturele leven in Nederland over het algemeen ondermijnd of verrijkt is door mensen uit andere landen die hier zijn komen wonen? Gebruik deze kaart.
+
+{ANSWERS}
+00 Culturele leven is ondermijnd 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Culturele leven is verrijkt
+
+B40
+{QUESTION}
+Is Nederland, door mensen uit andere landen die hier zijn komen wonen, een slechtere of betere plek geworden om te wonen? Gebruik deze kaart.
+
+{ANSWERS}
+00 Slechtere plek om te wonen 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Betere plek om te wonen
+
+{INTRO}
+En nu enkele vragen over u en uw leven.
+
+C1 
+{QUESTION}
+Alles bij elkaar genomen, hoe gelukkig zou u zeggen dat u bent? Gebruik deze kaart.
+
+{ANSWERS}
+00 Zeer ongelukkig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zeer gelukkig 
+
+C2 
+{QUESTION}
+Kunt u op deze kaart aangeven hoe vaak u om sociale redenen vrienden, familieleden, of collega’s ontmoet?
+
+{ANSWERS}
+Nooit 
+Minder dan 1 keer per maand 
+1 keer per maand 
+Meerdere keren per maand 
+1 keer per week 
+Meerdere keren per week 
+Elke dag 
+
+C3 
+{QUESTION}
+Heeft u iemand met wie u intieme en persoonlijke kwesties kunt bespreken?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C4 
+{QUESTION}
+Hoe vaak neemt u, in vergelijking met andere mensen van uw leeftijd, deel aan sociale activiteiten? Gebruik deze kaart.
+
+{ANSWERS}
+Veel minder dan de meesten 
+Minder dan de meesten 
+Ongeveer evenveel 
+Meer dan de meesten 
+Veel meer dan de meesten 
+
+C5 
+{QUESTION}
+Bent u of iemand in uw huishouden in de afgelopen 5 jaar slachtoffer geweest van een inbraak of van lichamelijk geweld?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C6 
+{QUESTION}
+Hoe veilig voelt u zich – of zou u zich voelen – als u in het donker in uw eentje door deze buurt loopt? Als u dat doet of zou doen, voelt u zich dan … 
+
+{ANSWERS}
+… heel erg veilig
+veilig
+onveilig
+of, heel erg onveilig? 
+
+C7 
+{QUESTION}
+Hoe vaak maakt u zich zorgen dat er bij u thuis wordt ingebroken? Wilt u deze kaart gebruiken voor uw antwoord?
+
+{ANSWERS}
+Altijd of meestal 
+Soms 
+Slechts af en toe 
+Nooit 
+
+C8 
+{QUESTION}
+Heeft deze bezorgdheid over een mogelijke inbraak bij u thuis... 
+
+{ANSWERS}
+…ernstige gevolgen voor de kwaliteit van uw leven
+…enige gevolgen
+of geen echte gevolgen voor de kwaliteit van uw leven?
+
+C9
+{QUESTION}
+Hoe vaak maakt u zich zorgen dat u slachtoffer wordt van een gewelddadige misdaad? Wilt u deze kaart gebruiken voor uw antwoord?
+
+{ANSWERS}
+Altijd of meestal 
+Soms 
+Slechts af en toe 
+Nooit 
+
+C10 
+{QUESTION}
+Heeft deze bezorgdheid dat u slachtoffer wordt van een gewelddadige misdaad … 
+
+{ANSWERS}
+…ernstige gevolgen voor de kwaliteit van uw leven
+…enige gevolgen
+of geen echte gevolgen voor de kwaliteit van uw leven? 
+
+{INTRO}
+De volgende vragen gaan over uzelf.
+
+C15
+{QUESTION}
+Hoe is uw gezondheid over het algemeen? Zou u die omschrijven als … 
+
+{ANSWERS}
+… heel erg goed
+goed
+redelijk
+slecht
+of, heel erg slecht? 
+
+C16 
+{QUESTION}
+Wordt u op de één of andere manier in uw dagelijkse activiteiten beperkt door een langdurige ziekte, of door een handicap, of door een lichamelijke of geestelijke aandoening? INDIEN JA, is dat in erge mate of in zekere mate?
+
+{ANSWERS}
+Ja, in erge mate 
+Ja, in zekere mate 
+Nee 
+
+C17 
+{QUESTION}
+Beschouwt u zichzelf als lid van een bepaald geloof of kerkgenootschap?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C18 
+{QUESTION}
+Welke?
+
+{ANSWERS}
+Rooms Katholiek
+Protestant
+Oosters Orthodox Christelijke Kerk
+Ander christelijk kerkgenootschap  
+Jodendom
+Islam / Moslim
+Hindoeïsme
+Andere niet-christelijke religie  
+
+C19 
+{QUESTION}
+Heeft u zichzelf ooit beschouwd als lid van een bepaald geloof of kerkgenootschap?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C20 
+{QUESTION}
+Welke?
+
+{ANSWERS}
+Rooms Katholiek
+Protestant
+Oosters Orthodox Christelijke Kerk
+Ander christelijk kerkgenootschap  
+Jodendom
+Islam / Moslim
+Hindoeïsme
+Andere niet-christelijke religie  
+
+C21 
+{QUESTION}
+Ongeacht of u zichzelf nu wel of niet als lid van een bepaald geloof of kerkgenootschap beschouwt, hoe gelovig vindt u dat u bent? 
+
+{ANSWERS}
+00 Helemaal niet gelovig 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Heel erg gelovig 
+
+C22 
+{QUESTION}
+Afgezien van speciale gelegenheden zoals huwelijken en begrafenissen, hoe vaak gaat u tegenwoordig naar religieuze diensten? Gebruik deze kaart.
+
+{ANSWERS}
+Elke dag 
+Meer dan 1 keer per week 
+1 keer per week 
+Tenminste 1 keer per maand 
+Alleen op speciale religieuze dagen 
+Minder vaak 
+Nooit 
+
+C23 
+{QUESTION}
+Los van wanneer u naar religieuze diensten gaat, hoe vaak bidt u? Gebruik deze kaart.
+
+{ANSWERS}
+Elke dag 
+Meer dan 1 keer per week 
+1 keer per week 
+Tenminste 1 keer per maand 
+Alleen op speciale religieuze dagen 
+Minder vaak 
+Nooit 
+
+C24 
+{QUESTION}
+Zou u zichzelf omschrijven als lid van een groep die in Nederland wordt gediscrimineerd?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C25 
+{QUESTION}
+Om welke redenen wordt uw groep gediscrimineerd?
+
+{ANSWERS}
+Huidskleur of ras 
+Nationaliteit 
+Geloof 
+Taal 
+Etnische groep 
+Leeftijd 
+Geslacht 
+Seksuele geaardheid 
+Handicap 
+Anders 
+
+C26 
+{QUESTION}
+Heeft u de Nederlandse nationaliteit?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C27 
+{QUESTION}
+Wat is uw nationaliteit?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Bent u geboren in Nederland?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C29 
+{QUESTION}
+In welk land bent u geboren?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+In welk jaar bent u voor het eerst in Nederland komen wonen?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Welke taal of talen spreekt u thuis het meest?
+
+{ANSWERS}
+NOTEER NIET MEER DAN 2 TALEN 
+
+C32 
+{QUESTION}
+Behoort u tot een etnische minderheid in Nederland? Daaronder verstaan we etnische groepen zoals Turken,
+Marokkanen, Surinamers en Antillianen die oorspronkelijk niet afkomstig zijn uit Nederland.
+
+{ANSWERS}
+Ja 
+Nee 
+
+C33 
+{QUESTION}
+Is uw vader in Nederland geboren?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C34 
+{QUESTION}
+In welk land werd uw vader geboren?
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Is uw moeder in Nederland geboren?
+
+{ANSWERS}
+Ja 
+Nee 
+
+C36 
+{QUESTION}
+In welk land werd uw moeder geboren?
+
+{ANSWERS}
+
+
+{INTRO}
+Ik wil u nu graag iets vragen over uzelf en de andere leden van uw huishouden.
+
+F1 
+{QUESTION}
+Hoeveel mensen wonen hier normaal gesproken als lid van dit huishouden, uzelf en kinderen meegerekend?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+En in welk jaar bent u hij geboren? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Als u op deze kaart kijkt, kunt u dan aangeven welke relatie er tussen hem en u is?
+
+{ANSWERS}
+Echtgeno(o)t(e)/partner
+Zoon/dochter (incl. stief-, pleeg-, geadopteerd kind, kind van partner)
+Ouder/schoonouder/ ouder van partner/stiefouder
+Broer/zus (incl. stief-, pleeg-, geadopteerde broer / zus)
+Ander familielid
+Ander niet-familielid
+
+F6
+{QUESTION}
+U heeft mij zonet verteld dat u samenwoont met uw echtgenoot. Welke van de beschrijvingen op deze kaart geeft uw relatie met hem of haar weer?
+
+{ANSWERS}
+Getrouwd 
+In een geregistreerd partnerschap 
+Samenwonend zonder samenlevingscontract 
+Samenwonend met samenlevingscontract 
+Gescheiden van tafel en bed 
+Gescheiden 
+
+F7 
+{QUESTION}
+En voor de zekerheid, mag ik u vragen of u ooit met een partner heeft samengewoond zonder ermee getrouwd te zijn (of als partner te zijn geregistreerd)?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F8 
+{QUESTION}
+Voor de zekerheid, mag ik u vragen of u ooit gescheiden bent na een huwelijk of een geregistreerd partnerschap heeft ontbonden?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F11 
+{QUESTION}
+Deze vraag gaat over uw wettelijke burgerlijke staat, niet over met wie u al dan niet samenwoont. Welke van de beschrijvingen op deze kaart geeft uw wettige burgerlijke staat op dit moment weer?
+
+{ANSWERS}
+Getrouwd 
+In een geregistreerd partnerschap 
+Gescheiden van tafel en bed 
+Gescheiden 
+Weduwnaar/weduwe 
+Geen van bovenstaande (NOOIT getrouwd of in geregistreerd partnerschap)
+
+F13 
+{QUESTION}
+Heeft u ooit eigen kinderen, stiefkinderen, geadopteerde of pleegkinderen, of kinderen van een partner gehad die in uw huishouding woonden?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F13a 
+{QUESTION}
+Is er een vaste telefoonlijn in (uw deel van) deze woning?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F14
+{QUESTION}
+Welke omschrijving op deze kaart past het best bij de omgeving waar u woont?
+
+{ANSWERS}
+Een grote stad 
+De voorsteden of buitenwijken van een grote stad 
+Een kleine stad 
+Een dorp 
+Een boerderij of woning op het platteland 
+
+F15 
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat u succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+Basisschool niet afgemaakt 
+Alleen basisschool afgemaakt 
+LBO, VBO, LEAO, LTS ambachtsschool, huishoudschool, LHNO, VMBO (niveaus 1-3; basisberoepsgericht, kaderberoepsgericht, gemengd) afgemaakt
+MULO, ULO, MAVO, VMBO (niveau 4; theoretische leerweg); HAVO jaar 3-4; VWO jaar 3-5 afgemaakt
+KMBO, leerlingwezen, MBO niveau 1, MEAO, MTS afgemaakt (duur < 2 jaar) 
+HAVO, MMS, MSVM afgemaakt 
+VWO, HBS, atheneum, gymnasium afgemaakt 
+MBO niveau 2 en 3 afgemaakt (duur 2-3 jaar) 
+MBO niveau 4 afgemaakt (duur 4 jaar) 
+MBO-plus voor havisten 
+propedeuse WO, OU-certificaat 
+korte HBO-opleiding einddiploma (2 of 3 jaar), kweekschool, conservatorium, MO-acten 
+Bachelor HBO afgemaakt 
+Bachelor universiteit afgemaakt 
+HBO: Master's degree, tweede fase opleidingen; Post HBO-opleidingen, pre-master onderwijs voor HBO
+WO/universiteit: Master's degree, tweede fase opleidingen; ingenieur, meester, doctorandus 
+Doctoraat / gepromoveerd 
+
+F16 
+{QUESTION}
+Hoeveel jaar voltijd- of deeltijdonderwijs heeft u ongeveer afgerond? In geval van deeltijdonderwijs graag omrekenen naar voltijdjaren en optellen bij het aantal jaren onderwijs vanaf 6 jaar.
+
+{ANSWERS}
+
+F17a 
+{QUESTION}
+Welke van de omschrijvingen op deze kaart is van toepassing op wat u de afgelopen 7 dagen heeft gedaan? Kies wat van toepassing is. 
+
+{ANSWERS}
+betaald werk verricht (of tijdelijk afwezig) (werknemer, zelfstandig werkzaam, werkzaam voor familiebedrijf) 
+onderwijs gevolgd, ook indien op vakantie (niet door werkgever betaald) 
+werkloos en actief op zoek naar werk 
+werkloos, wil werk maar niet actief op zoek naar werk 
+invalide of arbeidsongeschikt 
+gepensioneerd 
+actief in het huishouden, voor kinderen of andere personen zorgen 
+(anders) 
+
+F17c 
+{QUESTION}
+En welke van de omschrijvingen op deze kaart past het beste bij uw situatie (in de afgelopen 7 dagen)? Noem slechts 1 omschrijving.
+
+{ANSWERS}
+betaald werk verricht (of tijdelijk afwezig) (werknemer, zelfstandig werkzaam, werkzaam voor familiebedrijf) 
+onderwijs gevolgd, ook indien op vakantie (niet door werkgever betaald) 
+werkloos en actief op zoek naar werk 
+werkloos, wil werk maar niet actief op zoek naar werk 
+invalide of arbeidsongeschikt 
+gepensioneerd 
+actief in het huishouden, voor kinderen of andere personen zorgen 
+(anders) 
+
+F18 
+{QUESTION}
+Zou ik u nog even mogen vragen, heeft u in de afgelopen 7 dagen enig betaald werk verricht gedurende één uur of langer?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F19 
+{QUESTION}
+Heeft u ooit betaald werk verricht?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F20 
+{QUESTION}
+In welk jaar heeft u voor het laatst betaald werk verricht?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Was u …
+
+{ANSWERS}
+… een werknemer in loondienst
+als zelfstandige werkzaam
+of, werkzaam in eigen familiebedrijf? 
+
+F22 
+{QUESTION}
+Hoeveel werknemers heeft u?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Heeft u een arbeidscontract voor …
+
+{ANSWERS}
+onbepaalde tijd
+bepaalde tijd
+heeft/had u geen contract? 
+
+F23a 
+{QUESTION}
+Denkt u dat toen uw baan begon uw werkgever uitging van…
+
+{ANSWERS}
+…een tijdelijke baan of een baan voor bepaalde tijd van minder dan 12 maanden?
+een tijdelijke baan of een baan voor bepaalde tijd 
+van 12 maanden of meer, of een vaste baan?
+(Anders) 
+
+F24 
+{QUESTION}
+Uzelf meegerekend, hoeveel mensen zijn ongeveer werkzaam op de locatie waar u gewoonlijk werkt? 
+
+{ANSWERS}
+…minder dan 10
+10 tot 24
+25 tot 99
+100 tot 499
+of, 500 of meer? 
+
+F25 
+{QUESTION}
+Heeft u, in uw belangrijkste baan, enige verantwoordelijkheid om leiding te geven of toezicht te houden op het werk van andere werknemers?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F26 
+{QUESTION}
+Voor hoeveel mensen was u verantwoordelijk?
+
+{ANSWERS}
+
+{INTRO}
+Ik ga u nu een aantal dingen voorlezen over uw arbeidssituatie. 
+
+F27
+{QUESTION}
+Kunt u met behulp van deze kaart aangeven in hoeverre de directie op uw werk u toestaat  om… te beslissen hoe uw eigen dagelijks werk is georganiseerd?
+
+{ANSWERS}
+00 Ik heb/had geen invloed
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ik bepaal(de) dat helemaal ze
+
+F28 
+{QUESTION}
+…invloed uit te oefenen op beleidsbeslissingen
+
+{ANSWERS}
+00 Ik heb/had geen invloed
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ik bepaal(de) dat helemaal ze
+
+F28a 
+{QUESTION}
+… uw eigen werktempo te bepalen of te veranderen
+
+{ANSWERS}
+00 Ik heb/had geen invloed
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 Ik bepaal(de) dat helemaal ze
+
+F29 
+{QUESTION}
+Wat zijn uw contractueel vastgelegde uren per week (in uw belangrijkste baan) zonder betaalde en onbetaalde overuren?
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Ongeacht uw contracturen, hoeveel uur werkt u normaal per week (in uw belangrijkste baan), met inbegrip van betaalde of onbetaalde overuren?
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Wat doet of maakt het bedrijf organisatie waarvoor u werkt gewerkt hoofdzakelijk?
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+Voor welk soort organisatie op deze kaart werkt u?
+
+{ANSWERS}
+Centrale of lokale overheid 
+Overige publieke sector (bv onderwijs en gezondheidszorg)
+Overheidsbedrijf 
+Particulier bedrijf 
+Zelfstandigen (eigen bedrijf) 
+Anders 
+
+F33 
+{QUESTION}
+Wat is de naam of titel van uw (belangrijkste) baan?
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Wat voor werk doet u het merendeel van uw tijd in uw (belangrijkste) baan?
+
+{ANSWERS}
+
+F34b 
+{QUESTION}
+Welke van de volgende redenen op deze kaart komt het meest overeen met uw hoofdreden om uw laatste werkgever te verlaten? 
+
+{ANSWERS}
+Ik kon een betere baan krijgen 
+Ik besloot mijn eigen bedrijf te starten/ voor mijzelf te beginnen
+Mij contract liep af 
+Mijn functie hield op te bestaan of ik was ontslagen 
+Mijn werkgever hield op te bestaan 
+Mijn eigen/ familiebedrijf werd gesloten of verkocht 
+Ziekte of invaliditeit 
+Pensionering 
+Persoonlijke of familiaire redenen 
+Anders 
+Ben nooit bij een werkgever vetrokken 
+
+F35 
+{QUESTION}
+Heeft u in de afgelopen 10 jaar betaald werk verricht in een ander land gedurende een periode van 6 maanden of langer?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F36 
+{QUESTION}
+Bent u ooit werkloos en op zoek naar werk geweest gedurende een periode van meer dan 3 maanden?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F37 
+{QUESTION}
+Is er zo’n periode geweest die 12 maanden heeft geduurd of langer?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F38 
+{QUESTION}
+Is er zo’n periode geweest in de afgelopen 5 jaar?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F39 
+{QUESTION}
+Bent u lid van een vakbond of soortgelijke organisatie of bent u dat ooit geweest? ZO JA, bent u momenteel lid of was u vroeger lid (maar momenteel niet meer)?
+
+{ANSWERS}
+Ja, momenteel 
+Ja, vroeger 
+Nee 
+
+F40
+{QUESTION}
+Denkt u eens aan het inkomen van alle leden van het huishouden en al het inkomen dat mogelijk door het huishouden in zijn geheel wordt ontvangen. Wat is de belangrijkste bron van inkomen in uw huishouden? Gebruik deze kaart.
+
+{ANSWERS}
+Lonen of salarissen 
+Inkomen uit zelfstandige onderneming (exclusief agrarisch bedrijf) 
+Inkomen uit agrarisch bedrijf 
+Pensioenen 
+Werkloosheidsuitkering/afvloeiingsregeling 
+Andere sociale uitkeringen of toelagen 
+Inkomen uit beleggingen, spaargelden, verzekeringen, of onroerende zaken
+Inkomen uit andere bronnen 
+
+F41A 
+{QUESTION}
+Gebruikmakend van deze kaart, kunt u mij vertellen welke letter overeenkomt met het totale inkomen van uw huishouden uit alle bronnen en na aftrek van belastingen en sociale premies/ verplichte bijdragen? Als u het precieze inkomen niet weet, maak dan een schatting. Gebruik het deel van de kaart dat voor u het gemakkelijkst is: week- maand of jaarinkomen
+
+{ANSWERS}
+Ongeveer PER WEEK
+J Minder dan € 250
+R € 250 tot € 325
+C € 325 tot € 380
+M € 380 tot € 460
+F € 460 tot € 550
+S € 550 tot € 650
+K € 650 tot € 750
+P € 750 tot € 900
+D € 900 tot € 1100
+H € 1100 of meer
+
+F41B 
+{QUESTION}
+Gebruikmakend van deze kaart, kunt u mij vertellen welke letter overeenkomt met het totale inkomen van uw huishouden uit alle bronnen en na aftrek van belastingen en sociale premies/ verplichte bijdragen? Als u het precieze inkomen niet weet, maak dan een schatting. Gebruik het deel van de kaart dat voor u het gemakkelijkst is: week- maand of jaarinkomen
+
+{ANSWERS}
+Ongeveer PER MAAND
+J Minder dan € 1000
+R € 1000 tot € 1400
+C € 1400 tot € 1600
+M € 1600 tot € 2000
+F € 2000 tot € 2400
+S € 2400 tot € 2800
+K € 2800 tot € 3250
+P € 3250 tot € 3800
+D € 3800 tot € 4800
+H € 4800 of meer
+
+F41C
+{QUESTION}
+Gebruikmakend van deze kaart, kunt u mij vertellen welke letter overeenkomt met het totale inkomen van uw huishouden uit alle bronnen en na aftrek van belastingen en sociale premies/ verplichte bijdragen? Als u het precieze inkomen niet weet, maak dan een schatting. Gebruik het deel van de kaart dat voor u het gemakkelijkst is: week- maand of jaarinkomen
+
+{ANSWERS}
+Ongeveer PER JAAR
+J Minder dan € 13.000
+R € 13.000 tot € 17.000
+C € 17.000 tot € 20.000
+M € 20.000 tot € 24.000
+F € 24.000 tot € 29.000
+S € 29.000 tot € 34.000
+K € 34.000 tot € 39.000
+P € 39.000 tot € 46.000
+D € 46.000 tot € 58.000
+H € 58.000 of meer
+
+F41a 
+{QUESTION}
+En welk deel van het huishoudinkomen draagt u zelf ongeveer bij? Gebruikt u alstublieft deze kaart.
+
+{ANSWERS}
+Geen 
+Heel erg klein 
+Minder dan de helft 
+Ongeveer de helft 
+Meer dan de helft 
+Heel erg groot 
+Alles 
+
+F42
+{QUESTION}
+Welke van de omschrijvingen op deze kaart komt het dichtst in de buurt van uw beeld van het huidige inkomen van uw huishouden?
+
+{ANSWERS}
+Comfortabel leven met het huidige inkomen 
+Het lukt om rond te komen met het huidige inkomen 
+Moeilijk rondkomen met het huidige inkomen 
+Heel erg moeilijk rondkomen met het huidige inkomen 
+
+F43 
+{QUESTION}
+Als u om één of andere reden in ernstige financiële problemen zou raken en geld zou moeten lenen om rond te kunnen komen, hoe moeilijk of makkelijk zou dat zijn? Gebruik deze kaart.
+
+{ANSWERS}
+Heel erg moeilijk 
+Tamelijk moeilijk 
+Niet makkelijk, niet moeilijk 
+Tamelijk makkelijk 
+Heel erg makkelijk 
+
+F45
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw echtgenot succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+Basisschool niet afgemaakt 
+Alleen basisschool afgemaakt 
+LBO, VBO, LEAO, LTS ambachtsschool, huishoudschool, LHNO, VMBO (niveaus 1-3; basisberoepsgericht, kaderberoepsgericht, gemengd) afgemaakt
+MULO, ULO, MAVO, VMBO (niveau 4; theoretische leerweg); HAVO jaar 3-4; VWO jaar 3-5 afgemaakt
+KMBO, leerlingwezen, MBO niveau 1, MEAO, MTS afgemaakt (duur < 2 jaar) 
+HAVO, MMS, MSVM afgemaakt 
+VWO, HBS, atheneum, gymnasium afgemaakt 
+MBO niveau 2 en 3 afgemaakt (duur 2-3 jaar) 
+MBO niveau 4 afgemaakt (duur 4 jaar) 
+MBO-plus voor havisten 
+propedeuse WO, OU-certificaat 
+korte HBO-opleiding einddiploma (2 of 3 jaar), kweekschool, conservatorium, MO-acten 520 Bachelor HBO afgemaakt 
+Bachelor universiteit afgemaakt 
+HBO: Master's degree, tweede fase opleidingen; Post HBO-opleidingen, pre-master onderwijs voor HBO
+WO/universiteit: Master's degree, tweede fase opleidingen; ingenieur, meester, doctorandus 
+Doctoraat / gepromoveerd 
+
+F46a 
+{QUESTION}
+Welke van de omschrijvingen op deze kaart is van toepassing op wat hij de afgelopen 7 dagen heeft gedaan? 
+
+{ANSWERS}
+betaald werk verricht (of tijdelijk afwezig) (werknemer, zelfstandig werkzaam, werkzaam voor familiebedrijf) 
+onderwijs gevolgd, ook indien op vakantie (niet door werkgever betaald) 
+werkloos en actief op zoek naar werk 
+werkloos, wil werk maar niet actief op zoek naar werk 
+invalide of arbeidsongeschikt 
+gepensioneerd 
+actief in het huishouden, voor kinderen of andere personen zorgen 
+(anders) 
+
+F46c 
+{QUESTION}
+En welke van de omschrijvingen op deze kaart past het beste bij zijn situatie (in de afgelopen 7 dagen)? Noem slechts één omschrijving.
+
+{ANSWERS}
+betaald werk verricht (of tijdelijk afwezig) (werknemer, zelfstandig werkzaam, werkzaam voor familiebedrijf) 
+onderwijs gevolgd, ook indien op vakantie (niet door werkgever betaald) 
+werkloos en actief op zoek naar werk 
+werkloos, wil werk maar niet actief op zoek naar werk 
+invalide of arbeidsongeschikt 
+gepensioneerd 
+actief in het huishouden, voor kinderen of andere personen zorgen 
+(anders) 
+
+F47 
+{QUESTION}
+Zou ik nog even mogen vragen, heeft hij in de afgelopen 7 dagen enig betaald werk verricht (gedurende één uur of langer)?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F48 
+{QUESTION}
+Wat is de naam of titel van zijn belangrijkste baan?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Wat voor werk doet hij het merendeel van de tijd in zijn belangrijkste baan?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Welke opleiding of diploma’s zijn er nodig voor die baan?
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+In zijn/haar belangrijkste baan is hij … 
+
+{ANSWERS}
+… een werknemer in loondienst
+als zelfstandige werkzaam
+of, werkzaam in uw familiebedrijf? 
+
+F52 
+{QUESTION}
+Hoeveel werknemers heeft hij?
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Heeft hij in zijn belangrijkste baan enige verantwoordelijkheid om leiding te geven of toezicht te houden op het werk van andere werknemers?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F54 
+{QUESTION}
+Voor hoeveel mensen is hij verantwoordelijk?
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Hoeveel uur werkt hij normaal per week (in zijn belangrijkste baan)? Reken alle betaalde en onbetaalde overuren mee.
+
+{ANSWERS}
+
+F58
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw vader succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+Basisschool niet afgemaakt 
+Alleen basisschool afgemaakt 
+LBO, VBO, LEAO, LTS ambachtsschool, huishoudschool, LHNO, VMBO (niveaus 1-3; basisberoepsgericht, kaderberoepsgericht, gemengd) afgemaakt
+MULO, ULO, MAVO, VMBO (niveau 4; theoretische leerweg); HAVO jaar 3-4; VWO jaar 3-5 afgemaakt
+KMBO, leerlingwezen, MBO niveau 1, MEAO, MTS afgemaakt (duur < 2 jaar) 
+HAVO, MMS, MSVM afgemaakt 
+VWO, HBS, atheneum, gymnasium afgemaakt 
+MBO niveau 2 en 3 afgemaakt (duur 2-3 jaar) 
+MBO niveau 4 afgemaakt (duur 4 jaar) 
+MBO-plus voor havisten 
+propedeuse WO, OU-certificaat 
+korte HBO-opleiding einddiploma (2 of 3 jaar), kweekschool, conservatorium, MO-acten 
+Bachelor HBO afgemaakt 
+Bachelor universiteit afgemaakt 
+HBO: Master's degree, tweede fase opleidingen; Post HBO-opleidingen, pre-master onderwijs voor HBO
+WO/universiteit: Master's degree, tweede fase opleidingen; ingenieur, meester, doctorandus 
+Doctoraat / gepromoveerd 
+
+F59 
+{QUESTION}
+Toen u 14 jaar oud was, werkte uw vader toen als werknemer in loondienst, was hij zelfstandig werkzaam, of werkte hij toen niet?
+
+{ANSWERS}
+Werknemer in loondienst 
+Zelfstandig werkzaam 
+Niet werkzaam 
+(Vader was overleden/afwezig toen respondent 14 jaar was) 
+
+F60 
+{QUESTION}
+Hoeveel werknemers had hij?
+
+{ANSWERS}
+Geen 
+1 tot 24 
+25 of meer 
+
+F61 
+{QUESTION}
+Had hij enige verantwoordelijkheid om leiding te geven of toezicht te houden op het werk van andere werknemers?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F62 
+{QUESTION}
+Wat was de naam of titel van zijn (belangrijkste) baan?
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Welke van de omschrijvingen op deze kaart geeft het beste weer wat voor werk hij deed toen u 14 jaar oud was? 
+
+{ANSWERS}
+Wetenschappelijk / vakspecialistisch beroep b.v. dokter, leraar, ingenieur, kunstenaar, accountant
+Hoger leidinggevend beroep b.v. bankier, directeur in groot bedrijf, hogere ambtenaar, vakbondsvertegenwoordiger
+Administratief beroep b.v. secretariaatsmedewerker, kantoorbediende, office manager, boekhouder 
+Commercieel beroep b.v. sales manager, winkeleigenaar, winkelbediende, verzekeringsagent
+Dienstverlenend beroep b.v. eigenaar van een restaurant, politieagent, kelner, verpleegkundige, verzorgende, kapper, leger
+Geschoolde arbeider b.v. ploegbaas, automonteur, drukker, gereedschapsmaker, elektricien
+Half geschoolde arbeider b.v. metselaar, buschauffeur, timmerman, metaalbewerker, bakker
+Ongeschoolde arbeider b.v. handarbeider, fabrieksarbeider
+Landbouwberoep b.v. zelfstandige boer, landarbeider, tractor bestuurder, visser
+
+F64
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw moeder succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+Basisschool niet afgemaakt 
+Alleen basisschool afgemaakt 
+LBO, VBO, LEAO, LTS ambachtsschool, huishoudschool, LHNO, VMBO (niveaus 1-3; basisberoepsgericht, kaderberoepsgericht, gemengd) afgemaakt
+MULO, ULO, MAVO, VMBO (niveau 4; theoretische leerweg); HAVO jaar 3-4; VWO jaar 3-5 afgemaakt
+KMBO, leerlingwezen, MBO niveau 1, MEAO, MTS afgemaakt (duur < 2 jaar) 
+HAVO, MMS, MSVM afgemaakt 
+VWO, HBS, atheneum, gymnasium afgemaakt 
+MBO niveau 2 en 3 afgemaakt (duur 2-3 jaar) 
+MBO niveau 4 afgemaakt (duur 4 jaar) 
+MBO-plus voor havisten 
+propedeuse WO, OU-certificaat 
+korte HBO-opleiding einddiploma (2 of 3 jaar), kweekschool, conservatorium, MO-acten 
+Bachelor HBO afgemaakt 
+Bachelor universiteit afgemaakt 
+HBO: Master's degree, tweede fase opleidingen; Post HBO-opleidingen, pre-master onderwijs voor HBO
+WO/universiteit: Master's degree, tweede fase opleidingen; ingenieur, meester, doctorandus 
+Doctoraat / gepromoveerd 
+
+F65 
+{QUESTION}
+Toen u 14 jaar oud was, werkte uw moeder toen als werknemer in loondienst, was zij zelfstandig werkzaam, of werkte zij toen niet?
+
+{ANSWERS}
+Werkneemster in loondienst 
+Zelfstandig werkzaam 
+Niet werkzaam 
+(Moeder was overleden/afwezig toen respondent 14 jaar was) 
+
+F66 
+{QUESTION}
+Hoeveel werknemers had zij?
+
+Geen 
+1 tot 24 
+25 of meer 
+
+F67 
+{QUESTION}
+Had zij enige verantwoordelijkheid om leiding te geven of toezicht te houden op het werk van andere werknemers?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F68 
+{QUESTION}
+Wat was de naam of titel van haar (belangrijkste) baan?
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Welke van de omschrijvingen op deze kaart geeft het beste weer wat voor werk zij deed toen u 14 jaar oud was? 
+
+{ANSWERS}
+Wetenschappelijk / vakspecialistisch beroep b.v. dokter, leraar, ingenieur, kunstenaar, accountant 
+Hoger leidinggevend beroep b.v. bankier, directeur in groot bedrijf, hogere ambtenaar, vakbondsvertegenwoordiger
+Administratief beroep b.v. secretariaatsmedewerker, kantoorbediende, office manager, boekhouder
+Commercieel beroep b.v. sales manager, winkeleigenaar, winkelbediende, verzekeringsagent
+Dienstverlenend beroep b.v. eigenaar van een restaurant, politieagent, kelner, verpleegkundige, verzorgende, kapper, leger
+Geschoolde arbeider b.v. ploegbaas, automonteur, drukker, gereedschapsmaker, elektricien 
+Half geschoolde arbeider b.v. metselaar, buschauffeur, timmerman, metaalbewerker, bakker
+Ongeschoolde arbeider b.v. handarbeider, fabrieksarbeider
+Landbouwberoep b.v. zelfstandige boer, landarbeider, tractor bestuurder, visser
+
+F70 
+{QUESTION}
+Heeft u gedurende de afgelopen 12 maanden een cursus gevolgd of een lezing of conferentie bijgewoond om uw kennis of vaardigheden voor uw werk te verbeteren?
+
+{ANSWERS}
+Ja 
+Nee 
+
+F70a 
+{QUESTION}
+Hoeveel dagen heeft u in totaal ongeveer besteed aan deze cursus of dit onderwijs in de afgelopen 12 maanden? Telt u twee halve dagen alstublieft als één hele dag.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Denkt u nu alstublieft terug aan wat u heeft geleerd tijdens deze cursus of dit onderwijs. Hoe nuttig zou hetgeen u heeft geleerd zijn indien u zou willen vertrekken en gaan werken voor een andere werkgever of een ander bedrijf? Gebruik deze kaart.
+
+{ANSWERS}
+Zeer nuttig 
+Redelijk nuttig 
+Niet erg nuttig 
+Helemaal niet nuttig 
+
+F70c
+{QUESTION}
+Hoeveel van deze cursus of dit onderwijs werd er door uw werkgever of bedrijf betaald? Gebruik deze kaart.
+
+{ANSWERS}
+Alles 
+Het grootste deel 
+Ongeveer de helft 
+Een klein deel 
+Niets 
+

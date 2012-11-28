@@ -1,0 +1,1763 @@
+﻿A1 
+{QUESTION}
+Egy átlagos hétköznapon összesen mennyi idõt tölt tévénézéssel? Kérem használja az 1. kártyalapot a válaszadáshoz!
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A2 
+{QUESTION}
+És egy átlagos hétköznap a tévénézésre fordított idején belül mennyi idõt tölt hírmûsorok vagy aktuális politikai mûsorok nézésével? Most is ugyanazt a kártyalapot használja a válaszadáshoz!
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A3 
+{QUESTION}
+Egy átlagos hétköznap összesen mennyi időt tölt rádióhallgatással? Most is ugyanazt a kártyalapot használja a válaszadáshoz!
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A4 
+{QUESTION}
+És egy átlagos hétköznap a rádióhallgatásra fordított idején belül mennyi időt tölt hírműsorok vagy politikai és aktuális ügyekkel foglalkozó műsorok hallgatásával?
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A5 
+{QUESTION}
+Egy átlagos hétköznap összesen mennyi időt tölt újságolvasással? Továbbra is használja az 1. kártyalapot!
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A6 
+{QUESTION}
+És ebbõl az idõbõl mennyi idõt fordít politikai és aktuális ügyekkel foglalkozó cikkek olvasására? Továbbra is használja az 1. kártyalapot!
+
+{ANSWERS}
+Semennyit
+Kevesebbet, mint fél órát
+maximum 1 órát
+maximum 1 és fél órát
+maximum 2 órát
+maximum 2 és fél órát
+maximum 3 órát
+3 óránál többet
+
+A7 
+{QUESTION}
+Milyen gyakran használja az Internetet, a világhálót vagy az e-mailt – otthon, a munkahelyén, vagy más helyen – magáncélra? Kérem, használja a 2. kártyalapot a válaszadáshoz!
+
+{ANSWERS}
+Nincs hozzáférésem sem otthon, sem a munkahelyemen 
+Sohasem használom 
+Ritkábban, mint havonta egyszer 
+Havonta egyszer 
+Havonta többször is 
+Hetente egyszer 
+Hetente többször 
+Minden nap 
+
+A8 
+{QUESTION}
+Általánosságban Ön mit mondana? A legtöbb emberben meg lehet bízni, vagy inkább azt, hogy nem lehetünk elég óvatosak az emberi kapcsolatokban? Helyezze el véleményét a skálán, ahol a “0” azt jelenti, hogy nem lehetünk elég óvatosak, a “10” pedig azt, hogy a legtöbb ember megbízható. Kérem, használja a. 3. kártyalapot a válaszadáshoz!
+
+{ANSWERS}
+00 Nem lehetünk elég óvatosak
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A legtöbb ember megbízható
+
+A9 
+{QUESTION}
+Gondolja, hogy a legtöbb ember, megpróbálná kihasználni Önt, ha alkalma nyílna rá, vagy igyekeznének tisztességesek lenni? Kérem, használja a 4. kártyalapot a válaszadáshoz!
+
+{ANSWERS}
+00 A legtöbb ember meg próbálna kihasználni
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 A legtöbb ember igyekezne tisztességes lenni
+
+A10 
+{QUESTION}
+Ön szerint az emberek inkább csak magukkal törődnek, vagy általában segítőkészek? Kérem, használja az 5. kártyalapot!
+
+{ANSWERS}
+00 Az emberek inkább csak magukkal törődnek
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Az emberek általában segítőkészek
+
+{INTRO}
+Most néhány kérdést szeretnénk feltenni a politikáról és a kormányzatról.
+
+B1 
+{QUESTION}
+Mennyire érdekli Önt a politika?
+
+{ANSWERS}
+Nagyon érdekli
+eléggé érdekli
+alig érdekli
+vagy egyáltalán nem érdekli? 
+
+B4
+{QUESTION}
+Kérem mondja meg, hogy Ön személy szerint mennyire bízik a következő intézményekben. A „0” azt jelenti, hogy Ön egyáltalán nem bízik az adott intézményben, a „10” pedig azt jelenti, hogy teljesen megbízik benne. Ön mennyire bízik meg… Kérem, használja a 8. kártyalapot!... .a magyar Országgyûlésben?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B5
+{QUESTION}
+… a magyar jogrendszerben?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B6
+{QUESTION}
+… a rendőrségben?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B7
+{QUESTION}
+…a politikusokban?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B8
+{QUESTION}
+…a politikai pártokban?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B9
+{QUESTION}
+...az Európai Parlamentben?
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B10
+{QUESTION}
+… az ENSZ-ben? [Egyesült Nemzetek Szervezetében]
+
+{ANSWERS}
+00 Egyáltalán nem bízik meg
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen megbízik
+
+B11 
+{INTRO}
+Manapság különbözõ okokból sokan nem mennek el szavazni.
+
+{QUESTION}
+Ön szavazott a legutóbbi 2010. áprilisi országgyűlési választásokon?
+
+{ANSWERS}
+Igen 
+Nem 
+Nem szavazhatott 
+
+B12 
+{QUESTION}
+Melyik párt listájára szavazott Ön a legutóbbi 2010. áprilisi országgyûlési választásokon?
+
+{ANSWERS}
+Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Kereszténydemokrata Néppárt)
+MDF (Magyar Demokrata Fórum)
+MIÉP
+MSZP (Magyar Szocialista Párt)
+Munkáspárt (Magyar Kommunista Munkáspárt)
+SZDSZ (Szabad Demokraták Szövetsége – A Magyar Liberális Párt)
+Centrum Párt (Centrum Összefogás Magyarországért)
+Kereszténydemokrata Párt - Keresztény Centrum Összefogás
+Magyar Vidék és Polgári Párt
+MCF Roma Összefogás Párt
+Jobbik Magyarországért Mozgalom
+Magyarországi Szociáldemokrata Párt
+Lehet Más a Politika (LMP)
+más párt
+
+{INTRO}
+Különböző módokon lehet megakadályozni a problémák kialakulását és javítani a dolgokon Magyarországon.
+
+B13
+{QUESTION}
+Az elmúlt 12 hónap során előfordult-e, hogy Ön a következő dolgok valamelyikét tette? Tehát előfordult-e, hogy… …kapcsolatba lépett politikussal, kormányzati, vagy önkormányzati képviselővel? 
+
+{ANSWERS}
+igen
+nem
+
+B14
+{QUESTION}
+…tevékenykedett politikai pártban vagy más politikai szervezetben?
+
+{ANSWERS}
+igen
+nem
+
+B15
+{QUESTION}
+…részt vett más szervezet vagy egyesület munkájában?
+
+{ANSWERS}
+igen
+nem
+
+B16
+{QUESTION}
+…viselt, vagy kihelyezett választási kampányjelvényeket?
+
+{ANSWERS}
+igen
+nem
+
+B17
+{QUESTION}
+…tiltakozó levelet, nyilatkozatot írt alá?
+
+{ANSWERS}
+igen
+nem
+
+B18
+{QUESTION}
+…részt vett törvényes, nyilvános felvonuláson?
+
+{ANSWERS}
+igen
+nem
+
+B19
+{QUESTION}
+…szándékosan nem vásárolt, bojkottált bizonyos termékeket?
+
+{ANSWERS}
+igen
+nem
+
+B20a 
+{QUESTION}
+Van-e olyan politikai párt, amely közelebb áll Önhöz, mint a többi?
+
+{ANSWERS}
+Van 
+Nincs 
+
+B20b 
+{QUESTION}
+Melyik ez a párt?
+
+{ANSWERS}
+Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Kereszténydemokrata Néppárt)
+MDF (Magyar Demokrata Fórum)
+MIÉP
+MSZP (Magyar Szocialista Párt)
+Munkáspárt (Magyar Kommunista Munkáspárt)
+SZDSZ (Szabad Demokraták Szövetsége – A Magyar Liberális Párt)
+Centrum Párt (Centrum Összefogás Magyarországért)
+Kereszténydemokrata Párt - Keresztény Centrum Összefogás
+Magyar Vidék és Polgári Párt
+MCF Roma Összefogás Párt
+Jobbik Magyarországért Mozgalom
+Magyarországi Szociáldemokrata Párt
+Lehet Más a Politika (LMP) 
+más párt
+
+B20c 
+{QUESTION}
+Mennyire szimpatizál ezzel a párttal?
+
+{ANSWERS}
+Teljesen 
+Nagyrészt 
+Nem nagyon 
+Egyáltalán nem 
+
+B21 
+{QUESTION}
+Tagja Ön hivatalosan valamelyik politikai pártnak?
+
+{ANSWERS}
+Igen 
+Nem 
+
+B22 
+{QUESTION}
+Melyik pártnak a tagja?
+
+{ANSWERS}
+Fidesz - KDNP (Fidesz – Magyar Polgári Szövetség Kereszténydemokrata Néppárt)
+MDF (Magyar Demokrata Fórum)
+MIÉP
+MSZP (Magyar Szocialista Párt)
+Munkáspárt (Magyar Kommunista Munkáspárt)
+SZDSZ (Szabad Demokraták Szövetsége – A Magyar Liberális Párt)
+Centrum Párt (Centrum Összefogás Magyarországért)
+Kereszténydemokrata Párt – Keresztény Centrum Összefogás
+Magyar Vidék és Polgári Párt
+MCF Roma Összefogás Párt
+Jobbik Magyarországért Mozgalom
+Magyarországi Szociáldemokrata Párt
+Lehet Más a Politika (LMP)
+más párt
+
+B23 
+{INTRO}
+A politikában az emberek gyakran beszélnek .bal-. és .jobboldalról..
+
+{QUESTION}
+Hol helyezné el önmagát ezen a skálán, ahol a .0. a baloldalt, a .10. a jobboldalt jelenti? Kérem használja a 9. kártyalapot!
+
+{ANSWERS}
+00 Baloldali
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Jobboldali
+
+B24 
+{QUESTION}
+Mindent összevetve mennyire elégedett mostani életével? Kérem válaszoljon a 10. Kártyalap segítségével, amelyen „0” jelenti, hogy ön teljesen elégedetlen, a „10” pedig hogy Ön teljesen elégedett. Kérem, használja a 10. kártyalapot!
+
+{ANSWERS}
+00 Teljesen elégedetlen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen elégedett
+
+B25 
+{QUESTION}
+Mindent összevetve, mennyire elégedett Magyarország jelenlegi gazdasági állapotával? Továbbra is használja a 10. kártyalapot!
+
+{ANSWERS}
+00 Teljesen elégedetlen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen elégedett
+
+B26 
+{QUESTION}
+Mennyire elégedett a jelenlegi magyar kormány munkájával? Továbbra is használja a 10. kártyalapot!
+
+{ANSWERS}
+00 Teljesen elégedetlen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen elégedett
+
+B27 
+{QUESTION}
+Mindent összevetve mennyire elégedett Magyarországon a demokrácia működésével? Továbbra is használja a 10. kártyalapot!
+
+{ANSWERS}
+00 Teljesen elégedetlen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Teljesen elégedett
+
+B28 
+{QUESTION}
+Mi a véleménye az oktatás általános állapotáról? Kérem, használja a 11. kártyalapot!
+
+{ANSWERS}
+00 Nagyon rossz
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Nagyon jó
+
+B29 
+{QUESTION}
+Mi a véleménye az egészségügy általános állapotáról? Továbbra is használja a 11. kártyalapot!
+
+{ANSWERS}
+00 Nagyon rossz
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Nagyon jó
+
+B30
+{QUESTION}
+Kérem mondja meg, hogy milyen mértékben ért, vagy nem ért egyet a következő kijelentésekkel. Kérem, használja a 12. kártyalapot! A kormánynak lépéseket kellene tennie a jövedelemkülönbségek csökkentése érdekében.
+
+{ANSWERS}
+teljesen egyet-értek
+egyet-értek
+Egyet is értek, meg
+nem nem értek egyet
+Egyáltalán nem értek egyet
+
+B31
+{QUESTION}
+Hagyni kell, hogy a meleg férfiak, és a leszbikus nők szabadon éljék az életüket melegként és leszbikusként úgy, ahogy akarják.
+
+{ANSWERS}
+teljesen egyet-értek
+egyet-értek
+Egyet is értek, meg
+nem nem értek egyet
+Egyáltalán nem értek egyet
+
+B32
+{QUESTION}
+A demokráciát fenyegető pártokat be kellene tiltani.
+
+{ANSWERS}
+teljesen egyet-értek
+egyet-értek
+Egyet is értek, meg
+nem nem értek egyet
+Egyáltalán nem értek egyet
+
+B33
+{QUESTION}
+A modern tudomány képes megoldani a környezeti problémákat.
+
+{ANSWERS}
+teljesen egyet-értek
+egyet-értek
+Egyet is értek, meg
+nem nem értek egyet
+Egyáltalán nem értek egyet
+
+{INTRO}
+Most egy-két kérdést szeretnék feltenni a külföldrõl betelepülõ emberekrõl.
+
+B35 
+{QUESTION}
+Kérem mondja meg, hogy a külföldön élő magyar nemzetiségűek mekkora részének engedné meg a betelepülést? Kérem, használja a 14. kártyalapot!
+
+{ANSWERS}
+Sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni 
+jónéhányuknak meg kellene engedni 
+Keveseknek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B36 
+{QUESTION}
+A külföldön élő nem magyar nemzetiségűek mekkora részének engedné meg a betelepülést? Továbbra is használja a 14. kártyalapot!
+
+{ANSWERS}
+Sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni 
+jónéhányuknak meg kellene engedni 
+Keveseknek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B37 
+{QUESTION}
+Az Európán kívüli szegényebb országokban élő emberek mekkora részének kellene megengedni, hogy Magyarországra jöjjön élni? Továbbra is használja a 14. kártyalapot!
+
+{ANSWERS}
+Sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni 
+jónéhányuknak meg kellene engedni 
+Keveseknek kellene megengedni 
+Senkinek nem kellene megengedni 
+
+B38 
+{QUESTION}
+Általában véve árt, vagy használ Magyarország gazdaságának, hogy más országokból idejönnek élni emberek? Kérem, használja a 15. kártyalapot!
+
+{ANSWERS}
+00 Árt a gazdaságnak
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Használ a gazdaságnak
+
+B39 
+{QUESTION}
+Mit mondana, Magyarország kulturális életének általában véve ártanak, vagy inkább gazdagítják, akik más országból idejönnek élni? Kérem, használja a 16. kártyalapot!
+
+{ANSWERS}
+00 Elnyomják a kulturális életet
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Gazdagítják a kulturális életet
+
+B40 
+{QUESTION}
+Rosszabb, vagy jobb hely lett-e Magyarország azzal, hogy más országból idejöttek emberek élni? Kérem, használja a 17. kártyalapot!
+
+{ANSWERS}
+00 Rosszabb lett
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Jobb lett
+
+{INTRO}
+Most néhány Önnel és az Ön életével kapcsolatos kérdés következik.
+
+C1 
+{QUESTION}
+Mindent egybevetve, mennyire érzi magát boldognak? Kérem, használja a 18. kártyalapot!
+
+{ANSWERS}
+00 Nagyon boldogtalan
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Nagyon boldog
+
+C2 
+{QUESTION}
+Milyen gyakran él társasági életet, jár össze, barátaival, rokonaival vagy kollégáival? Kérem, használja a 19. kártyalapot!
+
+{ANSWERS}
+Soha 
+Ritkábban, mint havonta egyszer 
+Havonta egyszer 
+Havonta többször is 
+Hetente egyszer 
+Hetente többször 
+Minden nap 
+
+C3 
+{QUESTION}
+Van-e olyan személy, akivel meg tudja beszélni személyes, legbensőbb magánügyeit?
+
+{ANSWERS}
+Igen, van 
+Nem, nincs 
+
+C4 
+{QUESTION}
+A hasonló korúakhoz képest Ön milyen gyakran jár társaságba? Kérem, használja a 20. kártyalapot!
+
+{ANSWERS}
+Sokkal ritkábban, mint mások 
+Ritkábban, mint mások 
+Körülbelül annyiszor, mint mások 
+Többször, mint mások 
+Sokkal többször, mint mások 
+
+C5 
+{QUESTION}
+Az elmúlt 5 évben volt-e Ön vagy háztartásának valamelyik tagja betörés vagy erőszakos támadás áldozata?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C6 
+{QUESTION}
+Mennyire érzi úgy, hogy ezen a környéken sötétedés után biztonságos egyedül sétálni?
+
+{ANSWERS}
+nagyon biztonságos
+biztonságos
+nem biztonságos
+vagy egyáltalán nem biztonságos? 
+
+C7
+{QUESTION}
+Milyen gyakran aggódik amiatt, hogy esetleg betörnek a lakásába? Kérem, használja a 21. kártyalapot!
+
+{ANSWERS}
+Mindig, vagy majdnem mindig
+Többször elõfordul
+Néha
+Soha 
+
+C8
+{QUESTION}
+Ez az aggodalom...
+
+{ANSWERS}
+komoly hatással van az életére,
+némi hatással van az életére, vagy
+nincs hatással az életére?
+
+C9
+{QUESTION}
+Milyen gyakran aggódik amiatt, hogy erőszakos bűncselekmény áldozatává válik? Ismét használja a 21. kártyalapot!
+
+{ANSWERS}
+Mindig, vagy majdnem mindig
+Többször elõfordul
+Néha
+Soha 
+
+C10
+{QUESTION}
+Ez az aggodalom...
+
+{ANSWERS}
+komoly hatással van az életére,
+némi hatással van az életére, vagy
+nincs hatással az életére?
+
+{INTRO}
+Most megint Önnel kapcsolatos kérdések következnek.
+
+C15 
+{QUESTION}
+Milyen az Ön általános egészségi állapota? 
+
+{ANSWERS}
+nagyon jó
+jó
+kielégítő
+rossz
+vagy nagyon rossz? 
+
+C16 
+{QUESTION}
+Akadályozza-e Önt mindennapi tevékenységében bármilyen módon valamilyen tartós betegség, rokkantság, fogyatékosság vagy lelki probléma? Ha igen, akkor milyen mértékben?
+
+{ANSWERS}
+Igen, nagyon
+Igen, bizonyos mértékig
+nem
+
+C17 
+{QUESTION}
+Van-e olyan vallás vagy felekezet, amelyhez tartozónak tekinti magát?
+
+{ANSWERS}
+Igen, van
+Nincs 
+
+C18 
+{QUESTION}
+Melyikhez?
+
+{ANSWERS}
+római katolikus
+görög katolikus
+más (római) katolikus
+baptista
+evangélikus (lutheránus)
+metodista
+pünkösdista
+református (kálvinista)
+más protestáns felekezet
+unitárius
+keleti ortodox
+mormon
+Jehova tanúi
+más keresztény felekezet
+adventista
+Hit Gyülekezete
+izraelita
+muszlim
+buddhista
+hindu
+más keleti vallás/felekezet
+Krisna tudatú hívő
+más nem keresztény felekezet
+egyéb
+
+C19 
+{QUESTION}
+Tekintette magát valaha is valamilyen valláshoz vagy felekezethez tartozónak?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C20 
+{QUESTION}
+Melyikhez?
+
+{ANSWERS}
+római katolikus
+görög katolikus
+más (római) katolikus
+baptista
+evangélikus (lutheránus)
+metodista
+pünkösdista
+református (kálvinista)
+más protestáns felekezet
+unitárius
+keleti ortodox”
+mormon
+Jehova tanúi”
+más keresztény felekezet
+adventista
+Hit Gyülekezete
+izraelita
+muszlim
+buddhista”
+hindu
+más keleti vallás/felekezet
+Krisna tudatú hívő
+más nem keresztény felekezet
+egyéb
+
+C21 
+{QUESTION}
+Függetlenül attól, hogy Ön tartozik-e valamelyik egyházhoz vagy felekezethez, mennyire tartja vallásosnak magát? Kérem használja a 23. kártyalapot!
+
+{ANSWERS}
+00 Egyáltalán nem vallásos
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Nagyon vallásos
+
+C22 
+{QUESTION}
+Az olyan különleges alkalmaktól eltekintve, mint az esküvõk és a temetések, mostanában milyen gyakran vesz részt vallási szertartásokon? Kérem használja a 24. kártyalapot!
+
+{ANSWERS}
+Minden nap 
+Hetente többször 
+Hetente egyszer 
+Havonta legalább egyszer 
+Csak a nagyobb ünnepeken 
+Ritkábban 
+Soha 
+
+C23 
+{QUESTION}
+A vallási szertartásokon való részvételt leszámítva milyen gyakran szokott Ön imádkozni - ha szokott egyáltalán? Továbbra is használja a 24. kártyalapot!
+
+{ANSWERS}
+Minden nap 
+Hetente többször 
+Hetente egyszer 
+Havonta legalább egyszer 
+Csak a nagyobb ünnepeken 
+Ritkábban 
+Soha 
+
+C24 
+{QUESTION}
+Olyan csoport tagjának tartja-e magát, amelyet hátrányos megkülönböztetés sújt ma Magyarországon?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C25 
+{QUESTION}
+Mi alapján éri hátrányos megkülönböztetés az Ön csoportját?
+
+{ANSWERS}
+Bőrszín vagy faji hovatartozás 
+Nemzetiség 
+Vallás 
+Nyelv 
+Etnikai csoport 
+Életkor 
+Nem 
+Szexualitás 
+Fogyatékosság 
+Egyéb 
+
+C26 
+{QUESTION}
+Ön magyar állampolgár?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C27 
+{QUESTION}
+Ön milyen állampolgárságú?
+
+{ANSWERS}
+
+C28
+{QUESTION}
+ Ön Magyarországon született?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C29 
+{QUESTION}
+Melyik országban született?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Melyik évben telepedett le Magyarországon?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Milyen nyelven vagy nyelveken beszél leggyakrabban otthon?
+
+{ANSWERS}
+MAXIMUM 2 NYELVET ÍRHAT BE!
+
+C32 
+{QUESTION}
+Tartozik Ön valamelyik magyarországi etnikai kisebbségi csoporthoz?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C33 
+{QUESTION}
+Az Ön édesapja Magyarországon született?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C34 
+{QUESTION}
+Melyik országban született az Ön édesapja?
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Az Ön édesanyja Magyarországon született?
+
+{ANSWERS}
+Igen 
+Nem 
+
+C36 
+{QUESTION}
+Az Ön édesanyja melyik országban született?
+
+{ANSWERS}
+
+F1
+{INTRO}
+Most Önnel és a háztartásában élőkkel kapcsolatban szeretnék föltenni néhány kérdést.
+
+{QUESTION}
+Saját magát – és a gyermekeket – is bele számítva, hányan élnek itt együtt egy háztartásban?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+És melyik évben született Ön? 
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Milyen rokoni kapcsolatban van vele? Kérem, használja a 45. kártyalapot! Ezt a válaszlapot megtekintve: milyen viszonyban van Ő Önnel?
+
+{ANSWERS}
+Férj/feleség/élettárs
+Fia/lánya (mostoha vagy nevelt is!)
+Szülő/após v. anyós, Az élettárs szülője, mostohaszülő
+testvér (mostoha és nevelt is)
+Egyéb rokon
+Egyéb nem rokon
+
+F6
+{QUESTION}
+Az imént azt mondta, hogy a férjével él együtt. Az ezen a kártyán szereplő leírások közül melyik illik a kapcsolatukra?
+
+{ANSWERS}
+Törvényes házasok 
+Nem regisztrált élettársi kapcsolatban élők 
+Regisztrált élettársi kapcsolatban élők 
+Nem vált el, de külön él 
+Elváltak 
+
+F7
+{QUESTION}
+Élt valaha partnerrel, házasság nélkül?
+
+{ANSWERS}
+Igen
+Nem
+
+F8
+{QUESTION}
+Volt valaha válása?
+
+{ANSWERS}
+Igen
+Nem
+
+F11
+{QUESTION}
+Ez a kérdés az Ön hivatalos családi állapotára vonatkozik, nem arra, hogy akivel él, avagy sem. A kártyán szereplő leírások közül melyik jellemzi most az Ön hivatalos családi állapotát?
+
+{ANSWERS}
+Házas
+Regisztrált élettársi kapcsolatban élő
+Nem vált el, de külön él
+Elvált
+Özvegy
+Egyik sem (SOSEM házasodott vagy regisztrálta élettársi kapcsolatát)
+
+F13.
+{QUESTION}
+Élt-e valaha saját vagy nevelt gyermek az Ön háztartásában?
+
+{ANSWERS}
+Igen
+Nem
+
+F13a
+{QUESTION}
+Van vezetékes telefon itt a lakásában?
+
+{ANSWERS}
+Igen
+Nem
+
+F14
+{QUESTION}
+Melyik kifejezés illik leginkább arra a környékre, ahol lakik? Kérem, használja a 48. kártyalapot!
+
+{ANSWERS}
+nagyváros
+nagyváros elővárosa
+város vagy kisváros
+falu vagy község
+tanya
+nem tudom
+válaszmegtagadó
+
+F15
+{QUESTION}
+Mi az Ön legmagasabb iskolai végzettsége? Kérem, használja az 49. kártyalapot!
+
+{ANSWERS}
+Nem járt iskolába; 1-3 osztályos elemi iskola vagy azzal egyenértékű
+4-7 osztályos elemi iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+10. évfolyamra épülő szakképzés
+Érettségi, befejezett szakközépiskola
+Érettségi, befejezett gimnázium
+Érettségire épülő felsőfokra nem akkreditált szakképzés, középfokú technikum
+Felsőfokú akkreditált szakképzés, felsőfokú technikum
+Főiskolai diploma vagy főiskolai alapképzési szak – BA /BSc
+Egyetemi alapképzési szak – BA /BSc
+Főiskolai mesterképzési szak – MA/MSs
+Egyetemi diploma vagy egyetemi mesterképzési szak – MA / MSc
+Felsőfokú végzettség tudományos fokozattal
+Egyéb
+
+F16
+{QUESTION}
+Hány évig tanult összesen? Beleértve a nappali, esti, levelező tagozatokat, kiegészítő képzéseket, és a kötelező iskolai oktatás éveit is.
+
+{ANSWERS}
+
+F17a
+{QUESTION}
+A következők közül melyikkel jellemezhető az, amit Ön az elmúlt 7 napban csinált? Melyik jellemző még? A válaszadáshoz használja az 50. válaszlapot.
+
+{ANSWERS}
+dolgoztam, fizetett munkát végeztem (vagy átmenetileg nem, pl. szabadság miatt) (alkalmazottként, vállalkozóként, a családi vállalkozásban)
+tanultam (amit nem a munkáltató fizetett) (akár a szabadság alatti időt is beleértve)
+munkanélküli voltam és aktívan munkát kerestem
+munkanélküli voltam, munkára vártam, de nem kerestem aktívan munkát
+tartósan beteg vagy rokkant
+nyugdíjas
+katonai vagy civil szolgálat
+háztartási munkát végeztem, a gyerekekre vagy másokra vigyáztam (GYES/GYED is)
+más
+
+F17c
+{QUESTION}
+És az alábbi lehetőségek közül melyik jellemzi legjobban az elmúlt 7 napját? Továbbra is használja az 50. kártyalapot!
+
+{ANSWERS}
+dolgoztam, fizetett munkát végeztem (vagy átmenetileg nem, pl. szabadság miatt) (alkalmazottként, vállalkozóként, a családi vállalkozásban)
+tanultam (amit nem a munkáltató fizetett) (akár a szabadság alatti időt is beleértve)
+munkanélküli voltam és aktívan munkát kerestem
+munkanélküli voltam, munkára vártam, de nem kerestem aktívan munkát
+tartósan beteg vagy rokkant
+nyugdíjas
+katonai vagy civil szolgálat
+háztartási munkát végeztem, a gyerekekre vagy másokra vigyáztam (GYES/GYED is)
+más
+
+F18
+{QUESTION}
+Hadd kérdezzem meg még egyszer, az elmúlt 7 napban végzett-e legalább egy órás munkát, amiért fizettek Önnek?
+
+{ANSWERS}
+ igen, végzett 
+ nem, nem végzett 
+
+F19
+{QUESTION}
+Volt-e már valaha fizetett állása?
+
+{ANSWERS}
+volt 
+nem, nem volt
+
+F20
+{QUESTION}
+Melyik évben volt utoljára állása?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Jelenlegi (legutolsó) főállásában Ön…
+
+{ANSWERS}
+alkalmazott (volt)
+vállalkozó (volt)
+a család saját vállalkozásában dolgozik (dolgozott)? 
+
+F22
+{QUESTION}
+Hány alkalmazottja van Önnek?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Milyen munkaszerződése van?
+
+{ANSWERS}
+határozatlan idejű
+határozott időre szóló 
+nincs /nem volt szerződése 
+
+F23a
+{QUESTION}
+Amikor dolgozni kezdett, Ön szerint ezt munkaadója minek tekintette?
+
+{ANSWERS}
+…12 hónapnál rövidebb határozott idejű munkaviszonynak
+12 hónapig vagy annál tovább tartó határozott idejű munkaviszonynak
+vagy, állandó munkaviszonynak?
+Egyéb
+
+F24
+{QUESTION}
+Önmagát is beleértve, hány embert foglalkoztatnak,  a munkahelyen, ahol Ön dolgozik?
+
+{ANSWERS}
+kevesebb, mint 10 embert
+10 és 24 között
+25 és 99 között
+100 és 499 között
+500-at vagy többet
+
+F25
+{QUESTION}
+Vannak-e Önnek beosztottjai a főállásában?
+
+{ANSWERS}
+igen
+nem 
+
+F26
+{QUESTION}
+Hány beosztottja van?
+
+{ANSWERS}
+
+F27
+{QUESTION}
+Mennyire teszi lehetővé a munkahelyén a főnökség, hogy… döntsön a napi munkája megszervezéséről?
+
+{ANSWERS}
+00 egyálta-lán nem tudom/ tudtam befo-lyásolni 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 csak tőlem függ/ füg-gött 
+
+F28
+{QUESTION}
+…a szervezet tevékenységét érintő döntéseket befolyásolja?
+
+{ANSWERS}
+00 egyálta-lán nem tudom/ tudtam befo-lyásolni 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 csak tőlem függ/ füg-gött 
+
+F28a
+{QUESTION}
+…megválassza vagy megváltoztassa saját munkatempóját?
+
+{ANSWERS}
+00 egyálta-lán nem tudom/ tudtam befo-lyásolni 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 csak tőlem függ/ füg-gött 
+
+F29
+{QUESTION}
+Mennyi (mennyi volt) az Ön „alap” vagy munkaszerződésben rögzített heti munkaideje (a főállásában), nem számítva a fizetett vagy nem fizetett túlórákat?
+
+{ANSWERS}
+
+F30
+{QUESTION}
+Hány órát dolgozik ténylegesen hetente (a főállásában), beleértve a fizetett vagy fizetetlen túlórákat is? Az alapmunkaidejétől, illetve a munkaszerződésében meghatározott munkaidőtől függetlenül vegye figyelembe az órákat!
+
+F31
+{QUESTION}
+Mivel foglalkozik, vagy mit állít elő az a vállalat, szervezet, ahol dolgozik?
+
+{ANSWERS}
+
+F32
+{QUESTION}
+Milyen típusú vállalatnál/ szervezetnél dolgozik?
+
+{ANSWERS}
+kormányzati vagy önkormányzati szektor
+más közszféra (pl. egészségügy, oktatás)
+állami vállalat
+magánvállalat
+saját vállalkozás
+egyéb: 
+vegyes, magán és állami vállalat
+
+F33
+{QUESTION}
+Mi az Ön fő foglalkozásának az elnevezése?
+
+{ANSWERS}
+
+F34
+{QUESTION}
+A főállásában többnyire milyen típusú munkát végez (végzett)?
+
+{ANSWERS}
+
+F34a
+{QUESTION}
+Milyen képzettség vagy végzettség szükséges (volt szükséges) ehhez a munkához?
+
+{ANSWERS}
+
+F34b
+{QUESTION}
+A kártyán szereplő indokok közül melyik áll legközelebb a fő indokhoz, amiért otthagyta előző munkaadóját?
+
+{ANSWERS}
+Jobb állást talált
+Úgy döntött, saját vállalkozásba kezd/egyéni vállalkozó lesz
+Lejárt a szerződése
+Leépítették/elbocsátották
+A munkaadó tevékenysége megszűnt
+Saját/családi vállalkozás megszűnése, eladása
+Betegség vagy rokkantság
+Nyugdíjazás
+Személyes vagy családi okok
+Egyéb
+Sosem hagyta ott munkaadóját
+
+F35
+{QUESTION}
+Az elmúlt 10 évben végzett-e valamilyen fizetett munkát külföldön legalább hat hónapig?
+
+{ANSWERS}
+igen
+nem
+
+F36
+{QUESTION}
+Volt-e valaha olyan helyzetben, hogy több mint három hónapon át munkanélküli volt és munkát keresett?
+
+{ANSWERS}
+Igen
+Nem
+
+F37
+{QUESTION}
+Az ilyen munkanélküli időszakok közül volt olyan, amelyik több, mint 12 hónapig tartott?
+
+{ANSWERS}
+Igen
+Nem
+
+F38
+{QUESTION}
+Volt munkanélküli az elmúlt 5 évben több mint három hónapon át?
+
+{ANSWERS}
+Igen
+Nem
+
+F39
+{QUESTION}
+Ön tagja-e, vagy volt-e valaha tagja szakszervezetnek? Most is tag vagy csak az volt?
+
+{ANSWERS}
+igen, tagja vagyok
+igen, tagja voltam
+nem, és nem is voltam
+
+F40
+{QUESTION}
+Az Ön háztartásában mi a fő jövedelemforrás vagy bevételi forrás? Kérem, vegye figyelembe a háztartás összes tagjának jövedelmét és az olyan jövedelmeket is, amit a háztartás egésze kap. Kérem, használja az 54. kártyalapot!
+
+{ANSWERS}
+bérek vagy fizetések
+vállalkozásból (kivéve mezőgazdaság) szerzett jövedelem
+mezőgazdasági vállalkozásból szerzett jövedelem
+nyugdíjak
+munkanélküli / jövedelempótló segély
+társadalombiztosítási juttatás (pl. családi pótlék, GYES) vagy bármilyen más forrásból szociális segély, ösztöndíj
+befektetésből, megtakarításból, biztosításból vagy ingatlan - hasznosításból származó jövedelem
+egyéb forrásból származó jövedelem
+
+F41
+{QUESTION}
+Kérem, a kártyalap felhasználásával mondja meg melyik betűjelzés írja le legjobban a háztartásának az összes forrásból származó havi, nettó bevételét. Ha nem tudja a pontos számot, kérem, becsülje meg az összeget! Használja a 55. válaszlapot.
+
+{ANSWERS}
+A háztartásának az összes forrásból származó havi nettó jövedelme:
+J - kevesebb, mint 75.000,-Ft
+R - 75.001 - 100.000,-Ft
+C - 100.001 -125.000,-Ft
+M - 125.001 - 150.000,-Ft
+F - 150.001 - 175.000,-Ft
+S - 175.001 - 200.000,-Ft
+K - 200.001 - 225.000,-Ft
+P - 225.001 - 250.000,-Ft
+D - 250.001 - 300.000,-Ft
+H - 300.000, - Ft –nál több
+
+F42
+{QUESTION}
+Melyik leírás közelíti meg leginkább az Önök háztartásának jelenlegi jövedelmi helyzetét?
+
+{ANSWERS}
+kényelmesen megélünk a jelenlegi jövedelmünkből
+kijövünk a jelenlegi jövedelmünkből
+nehezen élünk meg a jelenlegi jövedelmünkből
+nagyon nehezen élünk meg a jelenlegi jövedelmünkből
+
+F43
+{QUESTION}
+Ha valamilyen okból Ön komoly anyagi nehézségbe kerülne, és pénzt kellene kölcsön kérnie ahhoz, hogy a kiadásait fedezni tudja, mennyire lenne ez nehéz az Ön számára?
+
+{ANSWERS}
+nagyon nehéz lenne
+elég nehéz lenne
+se nem könnyű, se nem nehéz
+elég könnyű lenne
+nagyon könnyű lenne
+
+F45
+{QUESTION}
+Mi az Ön férjének legmagasabb iskolai végzettsége? Kérem, használja az 59. kártyalapot!
+
+{ANSWERS}
+Nem járt iskolába; 1-3 osztályos elemi iskola vagy azzal egyenértékű
+4-7 osztályos elemi iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+10. évfolyamra épülő szakképzés
+Érettségi, befejezett szakközépiskola
+Érettségi, befejezett gimnázium
+Érettségire épülő felsőfokra nem akkreditált szakképzés, középfokú technikum
+Felsőfokú akkreditált szakképzés, felsőfokú technikum
+Főiskolai diploma vagy főiskolai alapképzési szak – BA /BSc
+Egyetemi alapképzési szak – BA /BSc
+Főiskolai mesterképzési szak – MA/MSs
+Egyetemi diploma vagy egyetemi mesterképzési szak – MA / MSc
+Felsőfokú végzettség tudományos fokozattal
+Egyéb
+
+F46a
+{QUESTION}
+A következők közül mivel jellemezhető az Ön férjének az elmúlt 7 napja? Melyik jellemző még? Kérem, használja a 60. kártyalapot!
+
+{ANSWERS}
+dolgozott, fizetett munkát végzett (vagy átmenetileg nem, pl. szabadság miatt) (alkalmazottként, vállalkozóként, a családi vállalkozásban)
+tanult (amit nem a munkáltató fizetett) (akár a szabadság alatti időt is beleértve)
+munkanélküli volt és aktívan munkát keresett
+munkanélküli volt, munkára várt, de nem keresett aktívan munkát
+tartósan beteg vagy rokkant
+nyugdíjas
+katonai vagy civil szolgálat
+háztartási munkát végzett, a gyerekekre vagy másokra vigyázott (GYES/GYED is)
+más
+
+F46c
+{QUESTION}
+És az alábbi lehetőségek közül melyik jellemzi legjobban az Ön férjének az elmúlt 7 napját?
+
+{ANSWERS}
+dolgozott, fizetett munkát végzett (vagy átmenetileg nem, pl. szabadság miatt) (alkalmazottként, vállalkozóként, a családi vállalkozásban)
+tanult (amit nem a munkáltató fizetett) (akár a szabadság alatti időt is beleértve)
+munkanélküli volt és aktívan munkát keresett
+munkanélküli volt, munkára várt, de nem keresett aktívan munkát
+tartósan beteg vagy rokkant
+nyugdíjas
+katona vagy civil szolgálat
+háztartási munkát végzett, a gyerekekre vagy másokra vigyázott (GYES/GYED is)
+más
+
+F47
+{QUESTION}
+Megkérdezhetem, hogy az elmúlt 7 napban végzett-e az Ön férje legalább egy órás fizetett munkát?
+
+{ANSWERS}
+igen
+nem 
+
+F48
+{QUESTION}
+Mi az Ön partnerének főfoglalkozása jelenleg, vagy ha most nem dolgozik, akkor mi volt a legutolsó foglalkozása?
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Az Ön partnere a főállásában többnyire milyen típusú munkát végez?
+
+{ANSWERS}
+
+F50
+{QUESTION}
+Milyen képzettség vagy végzettség szükséges ehhez a munkához?
+
+{ANSWERS}
+
+F51
+{QUESTION}
+Jelenlegi (legutolsó) főállásában az Ön férje …
+
+{ANSWERS}
+alkalmazott (volt)
+vállalkozó (volt)
+a család saját vállalkozásában dolgozik (dolgozott)? 
+
+F52
+{QUESTION}
+Hány alkalmazottja van az Ön partnerének?
+
+{ANSWERS}
+
+F53
+{QUESTION}
+Vannak-e az Ön partnerének beosztottjai?
+
+{ANSWERS}
+igen
+nem 
+
+F54
+{QUESTION}
+Hány beosztottja van  az Ön partnerének?
+
+{ANSWERS}
+
+F57
+{QUESTION}
+Hány órát dolgozik az Ön partnere ténylegesen hetente (a főállásában), beleértve a fizetett vagy fizetetlen túlórákat is? Az alapmunkaidejétől, illetve a munkaszerződésében meghatározott munkaidőtől függetlenül vegye figyelembe az órákat!
+
+F58
+{QUESTION}
+Mi az Ön apjának a legmagasabb iskolai végzettsége?
+
+{ANSWERS}
+Nem járt iskolába; 1-3 osztályos elemi iskola vagy azzal egyenértékű
+4-7 osztályos elemi iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+10. évfolyamra épülő szakképzés
+Érettségi, befejezett szakközépiskola
+Érettségi, befejezett gimnázium
+Érettségire épülő felsőfokra nem akkreditált szakképzés, középfokú technikum
+Felsőfokú akkreditált szakképzés, felsőfokú technikum
+Főiskolai diploma vagy főiskolai alapképzési szak – BA /BSc
+Egyetemi alapképzési szak – BA /BSc
+Főiskolai mesterképzési szak – MA/MSs
+Egyetemi diploma vagy egyetemi mesterképzési szak – MA / MSc
+Felsőfokú végzettség tudományos fokozattal
+Egyéb
+
+F59
+{QUESTION}
+Amikor Ön 14 éves volt, az Ön apja a főállásában...
+
+{ANSWERS}
+alkalmazott volt
+vállalkozó volt
+nem dolgozott
+az apa meghalt/nem élt ugyanabban a háztartásban, amikor a válaszoló 14 éves volt 
+
+F60
+{QUESTION}
+Hány alkalmazottja volt az Ön apjának?
+
+{ANSWERS}
+egy sem
+1 és 24 között
+25 vagy több
+
+F61
+{QUESTION}
+Voltak-e az Ön apjának beosztottjai (amikor Ön 14 éves volt)?
+
+{ANSWERS}
+Igen
+Nem
+
+F62
+{QUESTION}
+Mi volt az Ön apjának a fő foglalkozása?
+
+{ANSWERS}
+
+F63
+{QUESTION}
+Melyik leírás illik legjobban arra a munkára, amit az Ön apja végzett, amikor Ön 14 éves volt? Kérem, használja a 62. kártyalapot!
+
+{ANSWERS}
+diplomás szakemberek Pl.:orvos, tanár, mérnök, művész, könyvvizsgáló
+diplomás vezető hivatalnokok Pl.: bankár, vállalati vezető, magas rangú köztisztviselő,állami hivatalnok, szakszervezeti hivatalnok
+irodai és közvetítői foglalkozások Pl.: titkár, személyi asszisztens/titkár, könyvelő, irodavezető
+értékesítéssel foglalkozók Pl.: értékesítési vezető, üzlet tulajdonos, bolti eladó, biztosítási ügynök
+szolgáltatóiparban dolgozók Pl.: étterem tulajdonos, rendőr, pincér, gondozó, fodrász, fegyveres erők tagjai, katona
+nem diplomás szakemberek, technikusok, mesteremberek Pl.: autószerelő, szerszámkészítő, villanyszerelő
+szakmunkások Pl.: buszvezető, ács, lakatos, pék
+segédmunkások Pl.: segédmunkás, hordár, gyárban segédmunkás
+mezőgazdasági dolgozók Pl.:farmer, földműves,traktorvezető, halász
+
+F64
+{QUESTION}
+Mi az Ön anyjának a legmagasabb iskolai végzettsége? Kérem, használja a 63. kártyalapot!
+
+{ANSWERS}
+Nem járt iskolába; 1-3 osztályos elemi iskola vagy azzal egyenértékű
+4-7 osztályos elemi iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+10. évfolyamra épülő szakképzés
+Érettségi, befejezett szakközépiskola
+Érettségi, befejezett gimnázium
+Érettségire épülő felsőfokra nem akkreditált szakképzés, középfokú technikum
+Felsőfokú akkreditált szakképzés, felsőfokú technikum
+Főiskolai diploma vagy főiskolai alapképzési szak – BA /BSc
+Egyetemi alapképzési szak – BA /BSc
+Főiskolai mesterképzési szak – MA/MSs
+Egyetemi diploma vagy egyetemi mesterképzési szak – MA / MSc
+Felsőfokú végzettség tudományos fokozattal
+Egyéb
+
+F65
+{QUESTION}
+Amikor Ön 14 éves volt, az Ön anyja a fő állásában...
+
+{ANSWERS}
+alkalmazott volt
+vállalkozó volt
+nem dolgozott
+az anya meghalt/nem élt ugyanabban a háztartásban, amikor a válaszoló 14 éves volt 
+
+F66
+{QUESTION}
+Hány alkalmazottja volt az Ön anyjának (amikor Ön 14 éves volt)?
+
+{ANSWERS}
+egy sem
+1 és 24 között
+25 vagy több
+
+F67
+{QUESTION}
+Voltak-e az Ön anyjának beosztottjai (amikor Ön 14 éves volt)?
+
+{ANSWERS}
+Igen
+Nem
+
+F68
+{QUESTION}
+Mi volt az Ön anyjának a főfoglalkozása ?
+
+{ANSWERS}
+
+F69
+{QUESTION}
+Melyik leírás illik legjobban arra a munkára, amit az Ön anyja végzett, amikor Ön 14 éves volt? A 64. kártyalapról válasszon!
+
+{ANSWERS}
+diplomás szakemberek Pl.:orvos, tanár, mérnök, művész, könyvvizsgáló
+diplomás vezető hivatalnokok Pl.: bankár, vállalati vezető, magas rangú köztisztviselő,állami hivatalnok, szakszervezeti hivatalnok
+irodai és közvetítői foglalkozások Pl.: titkár, személyi asszisztens/titkár, könyvelő, irodavezető
+értékesítéssel foglalkozók Pl.: értékesítési vezető, üzlet tulajdonos, bolti eladó, biztosítási ügynök
+szolgáltatóiparban dolgozók Pl.: étterem tulajdonos, rendőr, pincér, gondozó, fodrász, fegyveres erők tagjai, katona
+nem diplomás szakemberek, technikusok, mesteremberek Pl.: autószerelő, szerszámkészítő, villanyszerelő
+szakmunkások Pl.: buszvezető, ács, lakatos, pék
+segédmunkások Pl.: segédmunkás, hordár, gyárban segédmunkás
+mezőgazdasági dolgozók Pl.:farmer, földműves,traktorvezető, halász
+
+F70
+{QUESTION}
+Az elmúlt 12 hónapban részt vett-e valamilyen tanfolyamon, előadáson vagy konferencián azzal a céllal, hogy tökéletesítse a munkájához szükséges ismereteit vagy szaktudását?
+
+{ANSWERS}
+Igen
+Nem
+
+F70a
+{QUESTION}
+Összesen körülbelül hány napot töltött ezen az oktatáson vagy képzésen az elmúlt 12 hónapban? Kérem, számoljon két fél napot egy egésznek.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Kérem, gondoljon most a képzésen vagy oktatáson elsajátítottakra. Mennyire lennének hasznosak a tanultak, ha egy másik munkaadóhoz vagy céghez akarna elmenni dolgozni? Kérem, használja ezt a kártyalapot.
+
+{ANSWERS}
+Nagyon hasznos
+Elég hasznos
+Nem túl hasznos
+Egyáltalán nem hasznos
+
+F70c
+{QUESTION}
+Az oktatás vagy képzés költségének mekkora részét állta a munkaadó vagy a cég? Kérem, használja ezt a kártyalapot.
+
+{ANSWERS}
+Mindet
+Nagy részét
+Kb. felét
+Egy kis részét
+Semmit
+

@@ -1,0 +1,1726 @@
+﻿A1 
+{QUESTION}
+Prosimo ocenite, koliko časa na dan gledate televizijo na običajen dan v tednu? Odgovorite s pomočjo te kartice.
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A2 
+{QUESTION}
+Ponovno povejte za običajen dan v tednu, koliko od časa, ki ga porabite za gledanje televizije, gledate poročila ali oddaje s politično tematiko oziroma tematiko aktualnih dogodkov?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+
+A3 
+{QUESTION}
+Koliko časa na dan poslušate radio na običajen dan v tednu?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A4 
+{QUESTION}
+In koliko časa na običajen dan v tednu na radiu poslušate poročila ali oddaje s politično tematiko, oziroma tematiko aktualnih dogodkov?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A5 
+{QUESTION}
+Koliko časa na dan berete časopise na običajen dan v tednu?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A6 
+{QUESTION}
+In koliko tega časa porabite za branje o politiki oziroma aktualnih dogodkih?
+
+{ANSWERS}
+sploh nič 
+manj kot ½ ure
+od ½ ure do 1 ure
+več kot 1 uro do 1½ ure
+več kot 1½ ure, do 2 uri
+več kot 2 uri do 2½ uri 
+več kot 2½ uri do 3 ure
+več kot 3 ure
+
+A7 
+{QUESTION}
+Kako pogosto za osebno rabo uporabljate internet - svetovni splet ali elektronsko pošto - bodisi doma, bodisi v službi?
+
+{ANSWERS}
+doma in v službi nima dostopa
+nikoli
+manj kot enkrat mesečno
+enkrat mesečno
+nekajkrat mesečno
+enkrat tedensko
+večkrat tedensko
+vsak dan
+
+A8 
+{QUESTION}
+Če govorimo na splošno, ali bi rekli, da večini ljudi lahko zaupamo, ali menite, da je treba biti z ljudmi zelo previden? Izberite ustrezno vrednost na lestvici od 0 do 10, pri čemer 0 pomeni, da je treba biti z ljudmi zelo previden, 10 pa, da večini ljudi lahko zaupamo.
+
+{ANSWERS}
+00 treba je biti zelo previden 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 večini ljudi lahko zaupamo 
+
+A9 
+{QUESTION}
+Ali menite, da bi vas večina ljudi skušala izkoristiti, če bi za to dobila priložnost, ali pa bi večina skušala ravnati pošteno?
+
+{ANSWERS}
+00 večina bi me skušala izkoristiti 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 večina bi skušala ravnati pošteno 
+
+A10 
+{QUESTION}
+Kaj menite, ali so ljudje večinoma pripravljeni pomagati drugim ali pa večinoma gledajo predvsem nase?
+
+{ANSWERS}
+00 večinoma gledajo predvsem nase 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 večinoma so pripravljeni pomagati drugim 
+
+{INTRO}
+Zdaj vam bomo zastavili nekaj vprašanj o vladi in politiki na sploh.
+
+B1 
+{QUESTION}
+Kaj bi rekli, koliko se zanimate za politiko? 
+
+{ANSWERS}
+zelo se zanimam
+še kar se zanimam
+komaj kaj se zanimam
+sploh se ne zanimam
+
+B4
+{QUESTION}
+Prosim, da s pomočjo lestvice od 00-10 ocenite, koliko vi osebno zaupate vsaki od naslednjih ustanov. 0 pomeni, da ustanovi sploh ne zaupate, 10 pa, da ji povsem zaupate. Najprej.. državnemu zboru
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B5 
+{QUESTION}
+pravnemu sistemu 
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B6 
+{QUESTION}
+policiji 
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B7 
+{QUESTION}
+politikom 
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B8 
+{QUESTION}
+političnim strankam 
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B9 
+{QUESTION}
+Evropskemu parlamentu 
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B10 
+{QUESTION}
+Organizaciji Združenih narodov OZN
+
+{ANSWERS}
+00 sploh ne zaupam 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 povsem zaupam 
+
+B11 
+{INTRO}
+Danes je običajno, da se nekateri ljudje iz takšnih ali drugačnih razlogov ne udeležujejo volitev. 
+
+{QUESTION}
+Ali ste se vi udeležili volitev v državni zbor septembra 2008?
+
+{ANSWERS}
+da 
+ne 
+nisem imel(a) volilne pravice 
+
+B12 
+{QUESTION}
+Za katero stranko oz. za kandidata katere stranke ste glasovali na volitvah za državni zbor septembra 2008?
+
+{ANSWERS}
+DESUS - Demokratska stranka upokojencev
+LDS - Liberalna demokracija Slovenije
+LIPA - stranka
+NSI – Nova Slovenija - krščanska ljudska stranka
+SDS - Slovenska demokratska stranka
+SLS - Slovenska ljudska stranka in SMS – Stranka mladih Slovenije
+SNS - Slovenska nacionalna stranka
+SD - Socialni demokrati
+ZARES - nova politika
+druga stranka
+
+{INTRO}
+Obstaja več načinov, kako bi v Sloveniji lahko izboljšali stvari ali pa preprečili, da bi šlo kaj narobe. 
+
+B13 
+{QUESTION}
+Ali ste v zadnjih 12 mesecih naredili kaj od navedenega? Ali ste... stopili v stik s politikom ali predstavnikom državne ali občinske oblasti
+
+{ANSWERS}
+da 
+ne 
+
+B14 
+{QUESTION}
+delovali v politični stranki ali skupini aktivistov 
+
+{ANSWERS}
+da 
+ne 
+
+B15 
+{QUESTION}
+delovali v kakšni drugi politični organizaciji ali zvezi 
+
+{ANSWERS}
+da 
+ne 
+
+B16 
+{QUESTION}
+nosili značko ali nalepko v podporo neki politični akciji 
+
+{ANSWERS}
+da 
+ne 
+
+B17 
+{QUESTION}
+podpisali peticijo 
+
+{ANSWERS}
+da 
+ne 
+
+B18 
+{QUESTION}
+se udeležili zakonitih demonstracij 
+
+{ANSWERS}
+da 
+ne 
+
+B19 
+{QUESTION}
+bojkotirali določene izdelke 
+
+{ANSWERS}
+da 
+ne 
+
+B20a 
+{QUESTION}
+Ali je kakšna politična stranka, ki se ji čutite bližje kot drugim strankam?
+
+{ANSWERS}
+da 
+ne 
+
+B20b 
+{QUESTION}
+Katera stranka je to?
+
+{ANSWERS}
+DESUS - Demokratska stranka upokojencev
+LDS - Liberalna demokracija Slovenije
+LIPA - stranka
+NSI – Nova Slovenija - krščanska ljudska stranka
+SDS - Slovenska demokratska stranka
+SLS - Slovenska ljudska stranka
+SNS - Slovenska nacionalna stranka
+SD - Socialni demokrati
+ZARES - nova politika
+druga stranka
+
+B20c 
+{QUESTION}
+Kako blizu se čutite tej stranki? Se ji čutite...
+
+{ANSWERS}
+zelo blizu
+blizu
+ne preveč blizu
+sploh ne blizu
+
+B21 
+{QUESTION}
+Ali ste član kakšne politične stranke
+
+{ANSWERS}
+da 
+ne 
+
+B22 
+{QUESTION}
+Katera stranka je to?
+
+{ANSWERS}
+DESUS - Demokratska stranka upokojencev
+LDS - Liberalna demokracija Slovenije
+LIPA - stranka
+NSI – Nova Slovenija - krščanska ljudska stranka
+SDS - Slovenska demokratska stranka
+SLS - Slovenska ljudska stranka
+SNS - Slovenska nacionalna stranka
+SD - Socialni demokrati
+ZARES - nova politika
+druga stranka
+
+B23 
+{INTRO}
+V politiki se včasih govori o levici in desnici. 
+
+{QUESTION}
+Kam bi vi uvrstili sami sebe na lestvici od 0 do 10, kjer pomeni 0 levo in 10 desno?
+
+{ANSWERS}
+00 levo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 desno
+
+B24 
+{QUESTION}
+V celoti gledano, kako zadovoljni ste sedaj s svojim življenjem? Prosim, izberite ustrezno vrednost na lestvici od 0 do 10, pri čemer pomeni 0, da ste izredno nezadovoljni, 10 pa, da ste izredno zadovoljni.
+
+{ANSWERS}
+00 izredno nezadovoljen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno zadovoljen 
+
+B25 
+{QUESTION}
+Kako zadovoljni ste na splošno s sedanjim gospodarskim stanjem v Sloveniji? Prosimo, uporabite enako lestvico.
+
+{ANSWERS}
+00 izredno nezadovoljen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno zadovoljen 
+
+B26 
+{QUESTION}
+Kako zadovoljni ste s sedanjo slovensko vlado, s tem, kako opravlja svoje delo? Prosimo, uporabite enako lestvico.
+
+{ANSWERS}
+00 izredno nezadovoljen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno zadovoljen 
+
+B27 
+{QUESTION}
+Kako zadovoljni ste na splošno z delovanjem demokracije v Sloveniji?
+
+{ANSWERS}
+00 izredno nezadovoljen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno zadovoljen 
+
+B28 
+{QUESTION}
+Kakšno je po vašem mnenju splošno stanje šolstva danes v Sloveniji? 
+
+{ANSWERS}
+00 izredno slabo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno dobro 
+
+B29 
+{QUESTION}
+In kakšno je po vašem mnenju splošno stanje zdravstva danes v Sloveniji?
+
+{ANSWERS}
+00 izredno slabo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 izredno dobro 
+
+B30
+{QUESTION}
+Povejte, koliko soglašate ali ne soglašate z vsako od naslednjih trditev? Vlada bi morala sprejeti ukrepe za zmanjšanje razlik v dohodkih med ljudmi.
+
+{ANSWERS}
+močno soglašam 
+soglašam
+niti soglašam niti, ne soglašam 
+ne soglašam 
+sploh ne soglašam 
+
+B31 
+{QUESTION}
+Homoseksualci in lezbijke morajo imeti svobodo, da si uredijo življenje po lastnih željah. 
+
+{ANSWERS}
+močno soglašam 
+soglašam
+niti soglašam niti, ne soglašam 
+ne soglašam 
+sploh ne soglašam 
+
+B32 
+{QUESTION}
+Politične stranke, katerih cilj je odprava demokracije, je potrebno prepovedati. 
+
+{ANSWERS}
+močno soglašam 
+soglašam
+niti soglašam niti, ne soglašam 
+ne soglašam 
+sploh ne soglašam 
+
+B33 
+{QUESTION}
+Lahko smo prepričani, da bo moderna znanost rešila probleme v zvezi z okoljem. 
+
+{ANSWERS}
+močno soglašam 
+soglašam
+niti soglašam niti, ne soglašam 
+ne soglašam 
+sploh ne soglašam 
+
+{INTRO}
+Zdaj pa nekaj vprašanj o ljudeh iz drugih držav, ki prihajajo živet v Slovenijo.
+
+B35 
+{QUESTION}
+Kaj menite, v kolikšnem obsegu naj Slovenija dovoli priseljevanje ljudi s podobnim narodnostnim izvorom kot ga ima večina prebivalcev Slovenije?
+
+{ANSWERS}
+mnogim naj dovoli priselitev
+nekaterim naj dovoli
+zelo redkim naj dovoli
+nikomur naj ne dovoli
+
+B36 
+{QUESTION}
+Kaj pa ljudje z drugačnim narodnostnim izvorom, kot ga ima večina prebivalcev Slovenije?
+
+{ANSWERS}
+mnogim naj dovoli priselitev
+nekaterim naj dovoli
+zelo redkim naj dovoli
+nikomur naj ne dovoli
+
+B37 
+{QUESTION}
+In v kolikšnem obsegu naj Slovenija dovoli priseljevanje ljudi iz revnejših držav zunaj Evrope?
+
+{ANSWERS}
+mnogim naj dovoli priselitev
+nekaterim naj dovoli
+zelo redkim naj dovoli
+nikomur naj ne dovoli
+
+
+B38 
+{QUESTION}
+Ali menite, da je v splošnem dobro ali slabo za slovensko gospodarstvo, da prihajajo živet k nam priseljenci iz drugih držav?
+
+{ANSWERS}
+00 slabo za gospodarstvo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 dobro za gospodarstvo 
+
+B39 
+{QUESTION}
+Ali menite, da je kulturno življenje v Sloveniji zaradi priseljencev v splošnem ogroženo ali obogateno?
+
+{ANSWERS}
+00 kulturno življenje je ogroženo 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 kulturno življenje je obogateno 
+
+B40 
+{QUESTION}
+Ali menite, da je Slovenija zaradi priseljencev iz drugih držav postala slabša ali boljša dežela za bivanje?
+
+{ANSWERS}
+00 slabša dežela za bivanje 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 boljša dežela za bivanje 
+
+
+{INTRO}
+Zdaj pa vam bomo zastavili nekaj vprašanj o vas in vašem življenju.
+
+C1 
+{QUESTION}
+V celoti gledano, kako srečni bi rekli, da ste? Izberite ustrezno vrednost na lestvici od 0 do 10.
+
+{ANSWERS}
+00 zelo nesrečen 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 zelo srečen 
+
+C2 
+{QUESTION}
+Ocenite, kako pogosto se iz družabnih razlogov dobivate s prijatelji, sorodniki ali kolegi z dela?
+
+{ANSWERS}
+nikoli
+manj kot enkrat na mesec
+enkrat na mesec
+nekajkrat na mesec
+enkrat na teden
+večkrat na teden
+vsak dan
+
+C3 
+{QUESTION}
+Ali imate koga, s katerim se lahko pogovorite o intimnih in osebnih stvareh?
+
+{ANSWERS}
+da
+ne
+
+C4 
+{QUESTION}
+Če se primerjate z drugimi ljudmi vaše starosti, kako pogosto bi zase rekli, da se udeležujete različnih družabnih srečanj?
+
+{ANSWERS}
+precej manj kot večina drugih
+manj kot večina drugih
+približno enako
+več kot večina drugih
+precej več kot večina drugih
+
+C5 
+{QUESTION}
+Ste bili vi ali kdo od članov vašega gospodinjstva v zadnjih petih letih žrtev vloma ali fizičnega napada?
+
+{ANSWERS}
+da
+ne
+
+C6 
+{QUESTION}
+Kako varno se počutite, kadar zvečer hodite (ali bi hodili) sami po vaši soseski?
+
+{ANSWERS}
+zelo varno
+varno
+ogroženo
+zelo ogroženo
+
+C7 
+{QUESTION}
+Kako pogosto, če sploh, vas skrbi, da bi kdo vlomil v vaše stanovanje oz. hišo?
+
+{ANSWERS}
+skoraj ves čas
+pogosto 
+le včasih
+nikoli
+
+C8 
+{QUESTION}
+Ali skrb zaradi možnega vloma v vaš dom…
+
+{ANSWERS}
+močno vpliva na kakovost vašega življenja
+vpliva do določene mere
+nima vpliva na kakovost vašega življenja?
+
+C9 
+{QUESTION}
+Kako pogosto, če sploh, vas skrbi, da bi postali žrtev nasilnega napada?
+
+{ANSWERS}
+skoraj ves čas
+pogosto 
+le včasih
+nikoli
+
+C10 
+{QUESTION}
+Ali skrb zaradi možnega nasilnega napada…
+
+{ANSWERS}
+močno vpliva na kakovost vašega življenja
+vpliva do določene mere
+nima vpliva na kakovost vašega življenja?
+
+C15 
+{QUESTION}
+Kako bi na splošno ocenili vaše zdravje? Bi rekli, da je…
+
+{ANSWERS}
+zelo dobro
+dobro
+zadovoljivo
+slabo
+zelo slabo
+
+C16
+{QUESTION}
+Ali vas pri vaših vsakdanjih opravilih kakorkoli ovira kakšna kronična bolezen, invalidnost ali psihična težava? Če da, koliko vas ovira?
+
+{ANSWERS}
+da, precej
+da, do neke mere
+ne
+
+C17 
+{QUESTION}
+Ali se imate za pripadnika kakšne religije ali veroizpovedi?
+
+{ANSWERS}
+da 
+ne 
+
+C18 
+{QUESTION}
+Katere?
+
+{ANSWERS}
+rimokatoliška
+protestantska
+pravoslavna
+druge krščanske
+judovske
+muslimanske
+vzhodnjaške (hinduizem, budizem)
+druge nekrščanske
+
+C19 
+{QUESTION}
+Ali ste se v preteklosti čutili pripadnika kakšne religije ali verske skupnosti?
+
+{ANSWERS}
+da 
+ne 
+
+C20 
+{QUESTION}
+Katere?
+
+{ANSWERS}
+rimokatoliška
+protestantska
+pravoslavna
+druge krščanske
+judovske
+muslimanske
+vzhodnjaške (hinduizem, budizem)
+druge nekrščanske
+
+C21 
+{QUESTION}
+Ne glede na to, ali pripadate kateri od religij ali ne, prosimo ocenite, koliko ste verni?
+
+{ANSWERS}
+00 sploh nisem veren 
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 zelo sem veren
+
+C22 
+{QUESTION}
+Če odštejete posebne priložnosti, kot so poroke ali pogrebi, kako pogosto obiskujete verske obrede?
+
+{ANSWERS}
+vsak dan
+več kot enkrat na teden
+enkrat na teden
+vsaj enkrat na mesec
+le ob posebnih verskih praznikih
+še redkeje
+nikoli
+
+C23 
+{QUESTION}
+Če odštejete udeležbo pri verskih obredih, kako pogosto sicer molite, če sploh molite?
+
+{ANSWERS}
+vsak dan
+več kot enkrat na teden
+enkrat na teden
+vsaj enkrat na mesec
+le ob posebnih verskih praznikih
+še redkeje
+nikoli
+
+C24 
+{QUESTION}
+Ali bi zase lahko rekli, da pripadate kakšni skupini, ki v naši državi trpi zaradi diskriminacije, neenakopravnosti?
+
+{ANSWERS}
+da 
+ne 
+
+C25 
+{QUESTION}
+Na podlagi česa je ta skupina neenakopravno obravnavana? 
+
+{ANSWERS}
+barve kože ali rase
+tujega državljanstva
+vere
+jezika
+narodnostne pripadnosti
+starosti
+spola
+spolne usmerjenosti
+invalidnosti
+drugo 
+
+C26 
+{QUESTION}
+Ali ste državljan Slovenije?
+
+{ANSWERS}
+da 
+ne 
+
+C27 
+{QUESTION}
+Kakšno državljanstvo imate?
+
+{ANSWERS}
+
+C28 
+{QUESTION}
+Ali ste bili rojeni na ozemlju današnje Slovenije?
+
+{ANSWERS}
+da 
+ne 
+
+C29 
+{QUESTION}
+V kateri državi (republiki bivše Jugoslavije) ste bili rojeni?
+
+{ANSWERS}
+
+C30 
+{QUESTION}
+Koliko let je od tega, ko ste prvič prišli živet v Slovenijo?
+
+{ANSWERS}
+
+C31 
+{QUESTION}
+Kateri jezik ali jezike doma najpogosteje govorite?
+
+{ANSWERS}
+VPIŠITE NAJVEČ DVA JEZIKA:
+
+C32 
+{QUESTION}
+Ali se čutite pripadnika katere od manjšinskih narodnosti v Sloveniji?
+
+{ANSWERS}
+da 
+ne 
+
+C33 
+{QUESTION}
+Je bil vaš oče rojen v Sloveniji, oziroma v eni od republik nekdanje Jugoslavije?
+
+{ANSWERS}
+da, na ozemlju današnje Slovenije 
+da, v eni od drugih republik nekdanje Jugoslavije 
+ne 
+
+C34 
+{QUESTION}
+V kateri državi je bil rojen vaš oče?
+
+{ANSWERS}
+
+C35 
+{QUESTION}
+Je bila vaša mama rojena v Sloveniji, oziroma eni od republik nekdanje Jugoslavije?
+
+{ANSWERS}
+da, na ozemlju današnje Slovenije 
+da, v eni od drugih republik nekdanje Jugoslavije 
+ne 
+
+C36 
+{QUESTION}
+V kateri državi oz. republiki je bila rojena vaša mati?
+
+{ANSWERS}
+
+
+{INTRO}
+Zdaj pa bi vam radi zastavili nekaj vprašanj o vas in vašem gospodinjstvu.
+
+F1 
+{QUESTION}
+Koliko oseb živi v vašem gospodinjstvu, vključno z otroci in z vami?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Katerega leta ste bili rojeni?
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+V kakšnem sorodstvenem odnosu je z vami?
+
+{ANSWERS}
+mož / žena / partner 
+sin / hči (tudi pastorki / posvojeni / rejenci)
+mama / oče /tašča / tast / starši partnerja
+brat / sestra (tudi polbrat / polsestra, posvojenec, rejenec) 
+drug sorodnik 
+ni v sorodu 
+
+F6 
+{QUESTION}
+Povedali ste, da živite z zakoncem. Kateri od naslednjih opisov najbolj ustreza vaši sedanji situaciji?
+
+{ANSWERS}
+poročen
+izvenzakonska skupnost – registrirana 
+izvenzakonska skupnost – neregistrirana
+ločen, razvezan
+
+F7 
+{QUESTION}
+Ali ste kdaj živeli s partnerjem, ne da bi bili z njim poročeni?
+
+{ANSWERS}
+da
+ne
+
+F8 
+{QUESTION}
+Ste se kdaj ločili?
+
+{ANSWERS}
+da
+ne
+
+F11 
+{QUESTION}
+Vprašanje se nanaša na vaš uradni zakonski stan in ne na to s kom živite. Kaj od naštetega najbolje opisuje vaš uradni zakonski stan?
+
+{ANSWERS}
+poročen
+ločen, razvezan
+vdovel
+nič od tega (nikoli poročen)
+
+F13 
+{QUESTION}
+Ali so v vašem gospodinjstvu kdaj živeli otroci (vaši, posvojeni, pastorki, rejenci)?
+
+{ANSWERS}
+da
+ne
+
+F13a 
+{QUESTION}
+Ali imate v vašem gospodinjstvu priključek za fiksni (stacionarni) telefon?
+
+{ANSWERS}
+da
+ne
+
+F14 
+{QUESTION}
+Kako bi opisali območje, na katerem živite?
+
+{ANSWERS}
+veliko mesto
+predmestje ali obrobje velikega mesta
+manjše mesto
+vas
+kmetija ali hiša na deželi
+
+F15
+{QUESTION}
+Katera je zadnja šola, ki ste jo končali, redno ali izredno?
+
+{ANSWERS}
+Brez šolske izobrazbe - oseba, ki nima dokončanega niti enega razreda OŠ, je brez šolske izobrazbe. Brez šolske izobrazbe so tudi osebe, ki imajo narejene 3 razrede osemletke ali manj oz. 5 razredov devetletke ali manj
+Nepopolna osnovnošolska izobrazba - osebe, ki imajo več kot 3 razrede osemletke, ali več kot 5 razredov devetletke a niso dokončale OŠ oz. niso pridobile spričevala o končani OŠ.
+Osnovnošolska izobrazba - osebe, ki imajo zaključenih vseh osem oz. Devet razredov OŠ in so pridobile spričevalo o končani OŠ.
+Nižja ali srednja poklicna izobrazba - osebe, ki so končale šolanje v 1- do 2,5-letnih programih za pridobitev nižje poklicne izobrazbe oz. osebe, ki se končale šolanje v 3-letnih programih za pridobitev srednje poklicne izobrazbe; certifikat o NPK.
+Srednja strokovna izobrazba - oseb, ki so končale srednjo tehniško šolo oz. Drugo strokovno izobrazbo, trajanje 4 ali 5 let, opravljena matura; tudi mojstrska oziroma delovodska ali poslovodska šola.
+Srednja splošna izobrazba – osebe, ki so končale šolanje v gimnaziji ali strokovni gimnaziji, imajo maturitetno spričevalo.
+Višja strokovna izobrazba, višješolska izobrazba - osebe, ki so končale šolanje v 2- letnem programu višjega strokovnega izobraževanja na višji strokovni šoli. 
+Visokošolska strokovna izobrazba - osebe, ki so končale šolanje v 3- letnem (izjemoma 4-letnem) dodiplomskem visokošolskem programu na visoki strokovni šoli, fakulteti ali akademiji; 1. bolonjska stopnja.
+Visokošolska univerzitetna izobrazba - osebe, ki so končale šolanje v 4-letnem dodiplomskem univerzitetnem programu na fakulteti ali akademiji; tudi 1. bolonjska stopnja; običajno 4 leta+diploma.
+Specializacija - ki so končale šolanje v 1- do 2- letnem podiplomskem specialističnem študijskem programu in si bodo pridobile strokovni naziv specialist; običajno 1 leto. -
+Magisterij - osebe ki so končale šolanje v 2- letnem podiplomskem magistrskem programu in so si pridobile znanstveni naslov magister znanosti oziroma magister umetnosti; tudi bolonjski magisterij. V to stopnjo študija spada tudi študij MBA. V to kategorijo spadajo tudi osebe, ki so se šolale 5 ali 6 let po starem univerzitetnem programu (npr. študij medicine).
+Doktorat
+
+F16 
+{QUESTION}
+Koliko let je trajalo vaše šolanje, bodisi redno ali izredno? Prosim, izrazite število v celih letih in upoštevajte tudi obvezno izobrazbo.
+
+{ANSWERS}
+
+F17a 
+{QUESTION}
+Kaj od naštetega opisuje vašo delovno aktivnost v zadnjem tednu dni? Navedite vse ustrezne odgovore. ... Morda še kaj?
+
+{ANSWERS}
+opravlja plačano delo, tudi če je bil na dopustu (zaposlen samozaposlen, dela za svoje družinsko podjetje)
+se izobražuje (tudi če je trenutno na šolskih počitnicah; gre za izobraževanje, ki ga ne plačuje delodajalec)
+je nezaposlen, aktivno je iskal delo
+je nezaposlen, ni aktivno iskal dela
+trajno bolan ali delovno nezmožen
+upokojen
+prostovoljno delo v skupnosti
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe
+(drugo)
+
+F17c
+{QUESTION}
+In kaj od naštetega najbolje opisuje vašo delovno aktivnost v zadnjem tednu dni? Prosimo, navedite le en odgovor.
+
+{ANSWERS}
+opravlja plačano delo, tudi če je bil na dopustu (zaposlen samozaposlen, dela za svoje družinsko podjetje)
+se izobražuje (tudi če je trenutno na šolskih počitnicah; gre za izobraževanje, ki ga ne plačuje delodajalec)
+je nezaposlen, aktivno je iskal delo
+je nezaposlen, ni aktivno iskal dela
+trajno bolan ali delovno nezmožen
+upokojen
+prostovoljno delo v skupnosti
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe
+(drugo)
+
+F18 
+{QUESTION}
+Ali lahko še enkrat preverim, ali ste v zadnjih sedmih dneh opravili kakršnokoli plačano delo (vsaj uro ali več)?
+
+{ANSWERS}
+da
+ne
+
+F19 
+{QUESTION}
+Ste kdaj prej imeli plačano delo?
+
+{ANSWERS}
+da
+ne
+
+F20 
+{QUESTION}
+Katerega leta ste imeli zadnje plačano delo, zaposlitev?
+
+{ANSWERS}
+
+F21 
+{QUESTION}
+Ali pri svoji poglavitni zaposlitvi...
+
+{ANSWERS}
+delate/ ste delali za koga drugega 
+ste (bili) samozaposleni
+delate v družinskem podjetju
+
+F22 
+{QUESTION}
+Koliko ljudi zaposlujete (če sploh)?
+
+{ANSWERS}
+
+F23 
+{QUESTION}
+Ali imate pogodbo za...
+
+{ANSWERS}
+nedoločen čas 
+določen čas
+nisem imel pogodbe
+
+F23a 
+{QUESTION}
+Kaj menite, kako je vaš delodajalec gledal na vaše delo, ko vas je zaposlil?
+
+{ANSWERS}
+kot na začasno delo ali delo za določen čas, ki bo trajalo manj kot 12 mesecev
+kot na začasno delo ali delo za določen čas, ki bo trajalo 12 mesecev ali več
+kot na stalno zaposlitev
+(drugo)
+
+F24 
+{QUESTION}
+Koliko ljudi je zaposlenih v podjetju, organizaciji, kjer delate?
+
+{ANSWERS}
+manj kot 10
+10 do 24
+25 do 99
+100 do 499
+500 ali več
+
+F25 
+{QUESTION}
+Ali pri svojem delu tudi nadzorujete delo drugih zaposlenih oz. ste zanj odgovorni?
+
+{ANSWERS}
+da
+ne
+
+F26 
+{QUESTION}
+Koliko podrejenih imate pri svojem delu?
+
+{ANSWERS}
+
+{INTRO}
+Prebral vam bom nekaj stvari v zvezi z vašim delom, zaposlitvijo. 
+
+F27
+{QUESTION}
+Prosim, ocenite, koliko vam vaši predpostavljeni pri delu dopuščajo... da se sami odločate, kako si boste organizirali delo čez dan
+
+{ANSWERS}
+00 sploh nimam/ nisem imel vpliva na to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 v celoti vplivam/sem vplival na to
+
+F28 
+{QUESTION}
+da vplivate na odločitve o delovanju organizacije
+
+{ANSWERS}
+00 sploh nimam/ nisem imel vpliva na to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 v celoti vplivam/sem vplival na to
+
+F28a 
+{QUESTION}
+da si sami določate ali spreminjate ritem dela 
+
+{ANSWERS}
+00 sploh nimam/ nisem imel vpliva na to
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+10 v celoti vplivam/sem vplival na to
+
+F29 
+{QUESTION}
+Navedite število delovnih ur, ki jih morate tedensko opraviti (ste jih morali opraviti) po pogodbi, pri čemer ne upoštevajte plačanih ali neplačanih nadur.
+
+{ANSWERS}
+
+F30 
+{QUESTION}
+Ne glede na število ur, ki jih morate opraviti po pogodbi, ocenite, koliko ur na teden običajno dejansko opravite, vključno s plačanimi ali neplačanimi nadurami.
+
+{ANSWERS}
+
+F31 
+{QUESTION}
+Kaj podjetje ali organizacija, za katero delate, predvsem proizvaja oz. kaj je njena poglavitna dejavnost?
+
+{ANSWERS}
+
+F32 
+{QUESTION}
+V kakšnem tipu podjetja ali organizaciji, ki so nevedene na tej kartici, delate?
+
+{ANSWERS}
+državna ali občinska uprava
+ostali javni sektor (npr. izobraževanje in zdravstvo)
+podjetje v državni lasti
+podjetje v zasebni lasti
+samozaposlen
+drugo
+
+F33 
+{QUESTION}
+Kakšen je naziv vašega delovnega mesta?
+
+{ANSWERS}
+
+F34 
+{QUESTION}
+Kakšno delo pretežno opravljate v okviru tega delovnega mesta?
+
+{ANSWERS}
+
+F34a 
+{QUESTION}
+Kakšno usposabljanje ali kvalifikacije so potrebne za opravljanje tega dela?
+
+{ANSWERS}
+
+F34b 
+{QUESTION}
+V primeru da ste zamenjali zaposlitev, kaj je bil glavni razlog, da ste zapustili prejšnjega delodajalca? Izberite odgovor na kartici.
+
+{ANSWERS}
+dobil sem boljše delo
+odločil sem se ustanoviti lastno podjetje / postal sem samozaposlen
+moja pogodba se je iztekla
+postal sem delovni višek oz. bil odpuščen
+moj delodajalec je prenehal z dejavnostjo
+moje lastno / družinsko podjetje je prenehalo z dejavnostjo oz. je bilo prodano
+bolezen ali invalidnost
+upokojil sem se
+osebni ali družinski razlogi
+drugo
+nikoli nisem zapustil delodajalca
+
+F35 
+{QUESTION}
+Ali ste v zadnjih 10 letih najmanj 6 mesecev skupaj opravljali kakršnokoli plačano delo v drugi državi?
+
+{ANSWERS}
+da
+ne
+
+F36 
+{QUESTION}
+Ali ste bili kdaj brezposelni in ste iskali zaposlitev več kot tri mesece?
+
+{ANSWERS}
+da
+ne
+
+F37 
+{QUESTION}
+Ali je katero od teh obdobij trajalo 12 mesecev ali več?
+
+{ANSWERS}
+da
+ne
+
+F38 
+{QUESTION}
+Ali je bilo katero od teh obdobij v zadnjih 5 letih?
+
+{ANSWERS}
+da
+ne
+
+F39 
+{QUESTION}
+Ali ste zdaj oz. ste kdaj prej bili član sindikata ali podobne organizacije? ČE DA, ali ste član sedaj ali ste bili član, pa niste več?
+
+{ANSWERS}
+da, sedaj sem
+da, prej sem bil
+ne
+
+F40 
+{QUESTION}
+Prosim, pomislite na dohodke vsakega od članov vašega gospodinjstva in na morebitne druge dohodke gospodinjstva kot celote. Kaj bi rekli, kateri je glavni vir dohodka v vašem gospodinjstvu?
+
+{ANSWERS}
+plače
+dohodek iz samozaposlitve (brez kmetovanja)
+dohodek iz kmetovanja
+pokojnine
+podpora za brezposelne ali presežne delavce
+druge socialne podpore ali štipendije
+dohodek iz naložb, prihrankov, zavarovanja ali lastnine
+dohodki iz drugih virov
+
+F41 
+{QUESTION}
+S pomočjo te kartice povejte, katera črka najbolje označuje skupni mesečni neto dohodek vašega gospodinjstva (neto - brez davkov in prispevkov). Seštejte dohodke iz vseh virov. Če ne veste natančno, povejte približno.
+
+{ANSWERS}
+Skupni mesečni neto dohodek vašega gospodinjstva:
+J do 550 €
+R od 551 do 800 €
+C od 801 do 1000 €
+M od 1001 do 1300 €
+F od 1301 do 1600 €
+S od 1601 do 1900 €
+K od 1901 do 2200 €
+P od 2201 do 2500 €
+D od 2501 do 3100 €
+H nad 3100 €
+
+F41a 
+{QUESTION}
+Približno kolikšen delež dohodka gospodinjstva prispevate vi? Izberite odgovor na kartici.
+
+{ANSWERS}
+nič
+zelo majhen delež
+manj kot polovico
+približno polovico
+več kot polovico
+zelo velik delež
+celoten delež
+
+F42
+{QUESTION}
+Kako vidite situacijo z dohodkom v vašem gospodinjstvu? Kateri od naslednjih opisov ji najbolj ustreza?
+
+{ANSWERS}
+s sedanjimi dohodki se lahko brez težav preživljamo
+s sedanjimi dohodki ravno še shajamo
+s sedanjimi dohodki se le težko preživljamo
+s sedanjimi dohodki se izredno težko preživljamo
+
+F43
+{QUESTION}
+Če bi se nenadoma iz kakršnegakoli razloga znašli v resnih finančnih težavah in bi si morali od nekoga sposoditi denar, da bi se lahko preživljali, kako enostavno ali težko bi bilo to za vas?
+
+{ANSWERS}
+zelo težko
+dokaj težko
+niti težko niti enostavno
+dokaj enostavno
+zelo enostavno
+
+F45
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegel vaš zakonec, partner?
+
+{ANSWERS}
+Brez šolske izobrazbe - oseba, ki nima dokončanega niti enega razreda OŠ, je brez šolske izobrazbe. Brez šolske izobrazbe so tudi osebe, ki imajo narejene 3 razrede osemletke ali manj oz. 5 razredov devetletke ali manj
+Nepopolna osnovnošolska izobrazba - osebe, ki imajo več kot 3 razrede osemletke, ali več kot 5 razredov devetletke a niso dokončale OŠ oz. niso pridobile spričevala o končani OŠ.
+Osnovnošolska izobrazba - osebe, ki imajo zaključenih vseh osem oz. Devet razredov OŠ in so pridobile spričevalo o končani OŠ.
+Nižja ali srednja poklicna izobrazba - osebe, ki so končale šolanje v 1- do 2,5-letnih programih za pridobitev nižje poklicne izobrazbe oz. osebe, ki se končale šolanje v 3-letnih programih za pridobitev srednje poklicne izobrazbe; certifikat o NPK.
+Srednja strokovna izobrazba - oseb, ki so končale srednjo tehniško šolo oz. Drugo strokovno izobrazbo, trajanje 4 ali 5 let, opravljena matura; tudi mojstrska oziroma delovodska ali poslovodska šola.
+Srednja splošna izobrazba – osebe, ki so končale šolanje v gimnaziji ali strokovni gimnaziji, imajo maturitetno spričevalo.
+Višja strokovna izobrazba, višješolska izobrazba - osebe, ki so končale šolanje v 2- letnem programu višjega strokovnega izobraževanja na višji strokovni šoli.
+Visokošolska strokovna izobrazba - osebe, ki so končale šolanje v 3- letnem (izjemoma 4-letnem) dodiplomskem visokošolskem programu na visoki strokovni šoli, fakulteti ali akademiji; 1. bolonjska stopnja.
+Visokošolska univerzitetna izobrazba - osebe, ki so končale šolanje v 4-letnem dodiplomskem univerzitetnem programu na fakulteti ali akademiji; tudi 1. bolonjska stopnja; običajno 4 leta+diploma.
+Specializacija - ki so končale šolanje v 1- do 2- letnem podiplomskem specialističnem študijskem programu in si bodo pridobile strokovni naziv specialist; običajno 1 leto. 
+Magisterij - osebe ki so končale šolanje v 2- letnem podiplomskem magistrskem programu in so si pridobile znanstveni naslov magister znanosti oziroma magister umetnosti; tudi bolonjski magisterij. V to stopnjo študija spada tudi študij MBA. V to kategorijo spadajo tudi osebe, ki so se šolale 5 ali 6 let po starem univerzitetnem programu (npr. študij medicine).
+Doktorat
+
+F46a 
+{QUESTION}
+Kaj od naštetega opisuje delovno aktivnost zakonca v zadnjem tednu dni? Navedite vse ustrezne odgovore. ... Morda še kaj?
+
+{ANSWERS}
+opravlja plačano delo, tudi če je bil na dopustu (zaposlen samozaposlen, dela za svoje družinsko podjetje)
+se izobražuje (tudi če je trenutno na šolskih počitnicah; gre za izobraževanje, ki ga ne plačuje delodajalec)
+je nezaposlen, aktivno je iskal delo
+je nezaposlen, ni aktivno iskal dela
+trajno bolan ali delovno nezmožen
+upokojen
+prostovoljno delo v skupnosti
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe
+(drugo)
+
+
+F46c
+{QUESTION}
+In kaj od naštetega najbolje opisuje delovno aktivnost zakonca v zadnjem tednu dni? Prosimo, navedite le en odgovor.
+
+{ANSWERS}
+opravlja plačano delo, tudi če je bil na dopustu (zaposlen samozaposlen, dela za svoje družinsko podjetje)
+se izobražuje (tudi če je trenutno na šolskih počitnicah; Gre za izobraževanje, ki ga ne plačuje delodajalec)
+je nezaposlen, aktivno je iskal delo
+je nezaposlen, ni aktivno iskal(a)dela
+trajno bolan ali delovno nezmožen
+upokojen
+prostovoljno delo v skupnosti
+opravlja gospodinjska dela, skrbi za otroke ali druge osebe
+(drugo)
+
+F47 
+{QUESTION}
+Ali lahko še enkrat preverim, ali je v zadnjem tednu dni opravil kakšno delo za plačilo (uro ali več)?
+
+{ANSWERS}
+da
+ne
+
+F48 
+{QUESTION}
+Kakšen je naziv njegovega delovnega mesta?
+
+{ANSWERS}
+
+F49 
+{QUESTION}
+Kakšno delo večinoma opravlja na svojem delovnem mestu?
+
+{ANSWERS}
+
+F50 
+{QUESTION}
+Kakšno znanja ali kvalifikacije so potrebne za opravljanje tega dela?
+
+{ANSWERS}
+
+F51 
+{QUESTION}
+Ali pri svoji poglavitni zaposlitvi...
+
+{ANSWERS}
+dela za koga drugega 
+je samozaposlen(a)
+dela v družinskem podjetju 
+
+F52 
+{QUESTION}
+Koliko ljudi zaposluje (če sploh)?
+
+{ANSWERS}
+
+F53 
+{QUESTION}
+Ali pri svojem delu nadzoruje delo drugih zaposlenih, oz. je zanj odgovoren?
+
+{ANSWERS}
+da
+ne
+
+F54 
+{QUESTION}
+Koliko podrejenih ima pri svojem delu?
+
+{ANSWERS}
+
+F57 
+{QUESTION}
+Koliko ur na teden običajno dela, vključno s plačanimi ali neplačanimi nadurami.
+
+{ANSWERS}
+
+F58 
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegel vaš oče?
+
+{ANSWERS}
+Brez šolske izobrazbe - oseba, ki nima dokončanega niti enega razreda OŠ, je brez šolske izobrazbe. Brez šolske izobrazbe so tudi osebe, ki imajo narejene 3 razrede osemletke ali manj oz. 5 razredov devetletke ali manj
+Nepopolna osnovnošolska izobrazba - osebe, ki imajo več kot 3 razrede osemletke, ali več kot 5 razredov devetletke a niso dokončale OŠ oz. niso pridobile spričevala o končani OŠ.
+Osnovnošolska izobrazba - osebe, ki imajo zaključenih vseh osem oz. Devet razredov OŠ in so pridobile spričevalo o končani OŠ.
+Nižja ali srednja poklicna izobrazba - osebe, ki so končale šolanje v 1- do 2,5-letnih programih za pridobitev nižje poklicne izobrazbe oz. osebe, ki se končale šolanje v 3-letnih programih za pridobitev srednje poklicne izobrazbe; certifikat o NPK.
+Srednja strokovna izobrazba - oseb, ki so končale srednjo tehniško šolo oz. Drugo strokovno izobrazbo, trajanje 4 ali 5 let, opravljena matura; tudi mojstrska oziroma delovodska ali poslovodska šola.
+Srednja splošna izobrazba – osebe, ki so končale šolanje v gimnaziji ali strokovni gimnaziji, imajo maturitetno spričevalo.
+Višja strokovna izobrazba, višješolska izobrazba - osebe, ki so končale šolanje v 2- letnem programu višjega strokovnega izobraževanja na višji strokovni šoli. 
+Visokošolska strokovna izobrazba - osebe, ki so končale šolanje v 3- letnem (izjemoma 4-letnem) dodiplomskem visokošolskem programu na visoki strokovni šoli, fakulteti ali akademiji; 1. bolonjska stopnja.
+Visokošolska univerzitetna izobrazba - osebe, ki so končale šolanje v 4-letnem dodiplomskem univerzitetnem programu na fakulteti ali akademiji; tudi 1. bolonjska stopnja; običajno 4 leta+diploma.
+Specializacija - ki so končale šolanje v 1- do 2- letnem podiplomskem specialističnem študijskem programu in si bodo pridobile strokovni naziv specialist; običajno 1 leto.
+Magisterij - osebe ki so končale šolanje v 2- letnem podiplomskem magistrskem programu in so si pridobile znanstveni naslov magister znanosti oziroma magister umetnosti; tudi bolonjski magisterij. V to stopnjo študija spada tudi študij MBA. V to kategorijo spadajo tudi osebe, ki so se šolale 5 ali 6 let po starem univerzitetnem programu (npr. študij medicine).
+Doktorat
+
+F59 
+{QUESTION}
+Ko ste bili stari 14 let, ali je vaš oče...
+
+{ANSWERS}
+delal za koga drugega 
+bil je samozaposlen 
+ni bil zaposlen
+ni bil prisoten / že umrl 
+
+F60 
+{QUESTION}
+Koliko ljudi je zaposloval?
+
+{ANSWERS}
+nič
+1 do 24
+25 ali več 
+
+F61 
+{QUESTION}
+Ali je pri svojem delu nadzoroval delo drugih zaposlenih oz. je bil zanj odgovoren?
+
+{ANSWERS}
+da
+ne
+
+F62 
+{QUESTION}
+Kakšen je bil naziv njegovega delovnega mesta? 
+
+{ANSWERS}
+
+F63 
+{QUESTION}
+Katera od stvari najbolje opisuje vrsto dela, ki ga je opravljal, ko ste imeli 14 let? 
+
+{ANSWERS}
+strokovnjak ali tehnični poklic (zdravnik, učitelj, inženir, umetnik, računovodja)
+višji uradniški poklic (bančnik, vodilni v večjem podjetju, visoki državni uradnik, predstavnik sindikata)
+uradniški poklic (tajnik, uradnik, vodja pisarne, knjigovodja)
+trgovski poklic (vodja prodaje, trgovec, trgovski pomočnik, zavarovalniški agent)
+poklic v storitvenih dejavnostih (gostilničar, policist, natakar, oskrbnik, frizer, vojak)
+kvalificiran delavec (delovodja, mehanik, tiskar, orodjar, električar)
+polkvalificiran delavec (zidar, šofer, kovinar, tesar, klepar, pek)
+nekvalificiran delavec (delavec, nosač, nekvalificiran delavec v tovarni)
+kmetovalec (kmet, delavec na polju, šofer traktorja, ribič)
+
+F64 
+{QUESTION}
+Katera je najvišja stopnja izobrazbe, ki jo je dosegla vaša mama?
+
+{ANSWERS}
+Brez šolske izobrazbe - oseba, ki nima dokončanega niti enega razreda OŠ, je brez šolske izobrazbe. Brez šolske izobrazbe so tudi osebe, ki imajo narejene 3 razrede osemletke ali manj oz. 5 razredov devetletke ali manj
+Nepopolna osnovnošolska izobrazba - osebe, ki imajo več kot 3 razrede osemletke, ali več kot 5 razredov devetletke a niso dokončale OŠ oz. niso pridobile spričevala o končani OŠ.
+Osnovnošolska izobrazba - osebe, ki imajo zaključenih vseh osem oz. Devet razredov OŠ in so pridobile spričevalo o končani OŠ.
+Nižja ali srednja poklicna izobrazba - osebe, ki so končale šolanje v 1- do 2,5-letnih programih za pridobitev nižje poklicne izobrazbe oz. osebe, ki se končale šolanje v 3-letnih programih za pridobitev srednje poklicne izobrazbe; certifikat o NPK.
+Srednja strokovna izobrazba - oseb, ki so končale srednjo tehniško šolo oz. Drugo strokovno izobrazbo, trajanje 4 ali 5 let, opravljena matura; tudi mojstrska oziroma delovodska ali poslovodska šola.
+Srednja splošna izobrazba – osebe, ki so končale šolanje v gimnaziji ali strokovni gimnaziji, imajo maturitetno spričevalo.
+Višja strokovna izobrazba, višješolska izobrazba - osebe, ki so končale šolanje v 2- letnem programu višjega strokovnega izobraževanja na višji strokovni šoli.
+Visokošolska strokovna izobrazba - osebe, ki so končale šolanje v 3- letnem (izjemoma 4-letnem) dodiplomskem visokošolskem programu na visoki strokovni šoli, fakulteti ali akademiji; 1. bolonjska stopnja.
+Visokošolska univerzitetna izobrazba - osebe, ki so končale šolanje v 4-letnem dodiplomskem univerzitetnem programu na fakulteti ali akademiji; tudi 1. bolonjska stopnja; običajno 4 leta+diploma.
+Specializacija - ki so končale šolanje v 1- do 2- letnem podiplomskem specialističnem študijskem programu in si bodo pridobile strokovni naziv specialist; običajno 1 leto.
+Magisterij - osebe ki so končale šolanje v 2- letnem podiplomskem magistrskem programu in so si pridobile znanstveni naslov magister znanosti oziroma magister umetnosti; tudi bolonjski magisterij. V to stopnjo študija spada tudi študij MBA. V to kategorijo spadajo tudi osebe, ki so se šolale 5 ali 6 let po starem univerzitetnem programu (npr. študij medicine).
+Doktorat
+
+F65 
+{QUESTION}
+Ko ste bili stari 14 let, ali je vaša mati...
+
+{ANSWERS}
+delala za koga drugega 
+bila je samozaposlena 
+ni bila zaposlena
+ni bila prisotna / že umrla 
+
+F66 
+{QUESTION}
+Koliko ljudi je zaposlovala, če sploh?
+
+{ANSWERS}
+nič
+1 do 24
+25 ali več 
+
+F67 
+{QUESTION}
+Ali je pri svojem delu nadzorovala delo drugih zaposlenih oz. je bila zanj odgovorna?
+
+{ANSWERS}
+da
+ne
+
+F68 
+{QUESTION}
+Kakšen je bil naziv njenega delovnega mesta?
+
+{ANSWERS}
+
+F69 
+{QUESTION}
+Katera od stvari najbolje opisuje vrsto dela, ki ga je opravljala, ko ste imeli 14 let?
+
+{ANSWERS}
+strokovnjak ali tehnični poklic (zdravnik, učitelj, inženir, umetnik, računovodja)
+višji uradniški poklic (bančnik, vodilni v večjem podjetju, visoki državni uradnik, predstavnik sindikata)
+uradniški poklic (tajnik, uradnik, vodja pisarne, knjigovodja)
+trgovski poklic (vodja prodaje, trgovec, trgovski pomočnik, zavarovalniški agent)
+poklic v storitvenih dejavnostih (gostilničar, policist, natakar, oskrbnik, frizer, vojak)
+kvalificiran delavec (delovodja, mehanik, tiskar, orodjar, električar)
+polkvalificiran delavec (zidar, šofer, kovinar, tesar, klepar, pek)
+nekvalificiran delavec (delavec, nosač, nekvalificiran delavec v tovarni)
+kmetovalec (kmet, delavec na polju, šofer traktorja, ribič)
+
+F70 
+{QUESTION}
+Ali ste se v zadnjih 12 mesecih udeležili kakšnega tečaja, predavanja ali konference, da bi izboljšali svoje znanje ali delovne veščine?
+
+{ANSWERS}
+da
+ne
+
+F70a 
+{QUESTION}
+Koliko dni približno ste v zadnjih 12 mesecih preživeli na izobraževanju ali usposabljanju? Prosimo, da dva polovična dneva štejete kot en dan.
+
+{ANSWERS}
+
+F70b
+{QUESTION}
+Zdaj pa prosim pomislite na to, koliko ste se med izobraževanjem in usposabljanjem naučili. Koliko bi vam naučeno koristilo, če bi želeli oditi in se zaposliti pri drugem delodajalcu oz. podjetju? Izberite odgovor na kartici.
+
+{ANSWERS}
+zelo bi mi koristilo
+precej bi mi koristilo
+ne bi mi preveč koristilo
+sploh mi ne bi koristilo
+
+F70c
+{QUESTION}
+Kolikšen delež tega usposabljanja in izobraževanja je plačal vaš delodajalec oz. podjetje? Izberite odgovor na kartici.
+
+{ANSWERS}
+vse
+večino
+približno polovico
+nekaj
+nič
+
+
