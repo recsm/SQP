@@ -1,0 +1,1979 @@
+
+Q13 A1
+{QUESTION}
+Combien de temps passez-vous à regarder la télévision un jour de semaine ordinaire ? Je vous prie d'utiliser cette carte pour me répondre.
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q13 A2
+{QUESTION}
+Et combien de temps passez-vous un jour de semaine ordinaire à regarder les informations ou les programmes sur la politique et l'actualité ? Utilisez de nouveau cette carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q13 A3
+{QUESTION}
+Combien de temps passez-vous à écouter la radio un jour de semaine ordinaire ? Utilisez cette même carte pour me répondre.
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q13 A4
+{QUESTION}
+Et combien de temps, un jour de semaine ordinaire, passez-vous à écouter les informations ou les programmes sur la politique et l'actualité à la radio ? Utilisez de nouveau cette
+carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q13 A5
+{QUESTION}
+Combien de temps passez-vous à lire le journal un jour de semaine ordinaire ? Utilisez de nouveau cette carte.
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q13 A6
+{QUESTION}
+Et combien de temps, un jour de semaine ordinaire, passez-vous à lire des articles sur la politique et l'actualité dans les journaux ? Utilisez de nouveau cette carte. 
+
+{ANSWERS}
+Pas du tout
+Moins d'une demi-heure
+D'une demi-heure à une heure
+Plus d'une heure, jusqu'à une heure et demie
+Plus d'une heure et demie, jusqu'à 2 heures
+Plus de 2 heures, jusqu'à 2 heures et demie
+Plus de 2 heures et demie, jusqu'à trois heures
+Plus de 3 heures
+
+Q14 A7 
+{QUESTION}
+Maintenant, à l'aide de cette carte, dites-moi combien de fois vous utilisez internet, le World Wide Web ou le email pour votre usage personnel, que ce soit à la maison ou au travail ? 
+
+{ANSWERS}
+Pas d'accès à la maison ou au travail
+Ne l'utilise jamais
+Moins d'une fois par mois
+Une fois pas mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Chaque jour
+
+Q15 A8
+{QUESTION}
+Répondez s'il vous plaît, sur une échelle de 0 à 10, où 0 signifie que l'on n'est jamais trop prudent et 10 que l'on peut faire confiance à la plupart des personnes À l'aide de cette carte, diriez-vous que l'on peut généralement faire confiance à la plupart des personnes ou que l'on n'est jamais trop prudent dans ses contacts avec les autres gens ?
+
+{ANSWERS}
+0- On n'est jamais trop prudent
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- On peut faire confiance à la plupart des personnes
+
+Q16 A9
+{QUESTION}
+En utilisant cette carte, diriez-vous que la plupart des gens tenteraient de profiter de vous s'ils en avaient l'occasion ou qu'ils essayeraient de rester correct ? 
+
+{ANSWERS}
+0- La plupart des gens tenteraient de profiter de moi
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- La plupart des gens essayeraient de rester correct
+
+Q17 A10
+{QUESTION}
+Diriez-vous que la plupart du temps, les gens essaient d'être serviables ou qu'ils se préoccupent le plus souvent d'eux-mêmes ? 
+
+{ANSWERS}
+0- Les gens se préoccupent le plus souvent d'eux-mêmes
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Les gens essaient d'être serviables
+
+Q18 B1
+{QUESTION}
+Quel intérêt avez-vous pour la politique ? Êtes-vous : Et maintenant quelques questions concernant la politique et le gouvernement.
+
+{ANSWERS}
+Très intéressé
+Assez intéressé
+Peu intéressé
+Ou, pas du tout intéressé
+
+Q19 B2
+{QUESTION}
+Est-ce qu'il vous arrive de penser que la politique est si compliquée que vous ne pouvez vraiment pas comprendre ce qui se passe ? 
+
+{ANSWERS}
+Jamais
+Rarement
+De temps en temps
+Souvent
+Très souvent
+
+Q20 B3
+{QUESTION}
+Pensez-vous que vous pourriez participer activement à un groupe s'occupant de politique ? 
+
+{ANSWERS}
+Absolument pas
+Probablement pas
+Peut-être
+Probablement
+Absolument
+
+Q21 B4
+{QUESTION}
+Trouvez-vous difficile ou facile de vous faire une opinion sur les sujets politiques ? Je vous prie d'utiliser cette carte pour répondre. 
+
+{ANSWERS}
+Très difficile
+Difficile
+Ni difficile, ni facile
+Facile
+Très facile
+
+Q22 B5
+{QUESTION}
+À l'aide de cette carte, pensez-vous que les hommes politiques en général se soucient de ce que pensent les gens comme vous ? 
+
+{ANSWERS}
+Presque aucun homme politique ne se soucie de ce que pensent les gens comme moi
+Très peu s'en soucient
+Certains s'en soucient
+Beaucoup s'en soucient
+Presque tous les hommes politiques se soucient de ce que pensent les gens comme moi.
+
+Q23 B6
+{QUESTION}
+Selon vous, les hommes politiques sont-ils uniquement intéressés à récolter des voix ou s'intéressent-ils plutôt aux opinions des gens ? 
+
+{ANSWERS}
+Presque tous les hommes politiques sont uniquement intéressés à récolter des voix
+La plupart des hommes politiques sont uniquement intéressés à récolter des voix
+Certains hommes politiques sont uniquement intéressés à récolter des voix, d'autres non
+La plupart des hommes politiques s'intéressent aux opinions des gens
+Presque tous les hommes politiques s'intéressent aux opinions des gens
+
+Q24 B7
+{QUESTION}
+En utilisant cette carte, dites-moi, sur une échelle de 0 à 10, quelle confiance vous faites personnellement à chacune de ces institutions. 0 signifie que vous ne faites pas du tout confiance à une institution et 10 que vous lui faites complètement confiance. Le parlement suisse (Conseil National et Conseil des Etats)
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q24 B8
+{QUESTION}
+La justice
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q24 B9
+{QUESTION}
+La police
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q24 B10
+{QUESTION}
+Les hommes politiques
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q24 B11
+{QUESTION}
+Le parlement européen
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q24 B12
+{QUESTION}
+ Les Nations Unies
+
+{ANSWERS}
+0- Pas du tout confiance
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Complètement confiance
+
+Q25 B13
+{INTRO}
+Pour une raison ou une autre, il arrive aujourd'hui que des gens ne votent pas. 
+
+{QUESTION}
+Avez-vous voté à la dernière élection au Conseil National en octobre 1999 ?
+
+{ANSWERS}
+Oui
+Non
+N'a pas le droit de vote
+
+Q26 B14
+{QUESTION}
+Pour quel parti avez-vous voté à cette élection ? 
+
+{ANSWERS}
+Parti radical-démocratique (PRD)
+Parti démocrate-chrétien (PDC)
+Parti socialiste (PS)
+Union démocratique du centre (UDC)
+Parti libéral (PL)
+Alliance des indépendants (AdI)
+Parti évangélique populaire (PEP)
+Parti chrétien-social (PCS)
+Parti du travail (PdT) / Parti Ouvrier populaire (POP)
+Les Verts (PES), Les Verts alternatifs, Combat socialiste, les Vertes et solidarités)
+Démocrates suisses (DS) (ancienne Action nationale (AN))
+Union démocratique fédérale (UDF)
+Parti de la liberté (FSL, ancien Parti des automobilistes)
+Frauenparteien
+Lega dei Ticinesi (Lega)
+Autre
+
+Q27
+{QUESTION}
+Pour quel parti avez-vous voté à cette élection ?
+{ANSWERS}
+
+Q28 B15
+{INTRO}
+Il y a plusieurs moyens d'essayer d'améliorer la situation en Suisse ou d'éviter que les choses ne se dégradent. 
+
+{QUESTION}
+Durant les 12 derniers mois, avez-vous fait l'une des actions suivantes ... Contacté un homme politique, ou un responsable politique fédéral, cantonal ou communal
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B16
+{QUESTION}
+Milité dans un parti politique ou un groupe engagé politiquement
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B17
+{QUESTION}
+Travaillé dans une autre organisation ou association
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B18
+{QUESTION}
+Porté ou affiché un badge ou un autocollant de campagne
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B19
+{QUESTION}
+Signé une pétition
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B20
+{QUESTION}
+Participé à une manifestation publique autorisée
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B21
+{QUESTION}
+Boycotté certains produits
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B22
+{QUESTION}
+Acheté délibérément des produits pour des raisons politiques, éthiques ou écologiques
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B23
+{QUESTION}
+Donné de l'argent à une organisation ou à un groupe politique
+
+{ANSWERS}
+Oui
+Non
+
+Q28 B24
+{QUESTION}
+Participé à des actions de protestation illégales
+
+{ANSWERS}
+Oui
+Non
+
+Q29 B25a
+{QUESTION}
+Y a-t-il un parti politique dont vous vous sentiez plus proche que des autres partis ?
+
+{ANSWERS}
+Oui
+Non
+
+Q30 B25b
+{QUESTION}
+Lequel ?
+
+{ANSWERS}
+Parti radical-démocratique (PRD)
+Parti démocrate-chrétien (PDC)
+Parti socialiste (PS)
+Union démocratique du centre (UDC)
+Parti libéral (PL)
+Alliance des indépendants (AdI)
+Parti évangélique populaire (PEP)
+Parti chrétien-social (PCS)
+Parti du travail (PdT) / Parti Ouvrier populaire (POP)
+Les Verts (PES), Les Verts alternatifs, Combat socialiste, les Vertes et solidarités)
+Démocrates suisses (DS) (ancienne Action nationale (AN))
+Union démocratique fédérale (UDF)
+Parti de la liberté (FSL, ancien Parti des automobilistes)
+Frauenparteien
+Lega dei Ticinesi (Lega)
+Autre 
+
+Q31 
+{QUESTION}
+Lequel ? 
+
+{ANSWERS}
+
+Q32 B25c 
+{QUESTION}
+A quel point vous sentez-vous proche de ce parti ? Vous sentez-vous…
+
+{ANSWERS}
+Très proche
+Assez proche
+Pas tellement proche
+Pas proche du tout
+
+Q33 B26 
+{QUESTION}
+Êtes vous membre d'un parti politique ?
+
+{ANSWERS}
+Oui
+Non
+
+Q34 B27
+{QUESTION}
+Lequel ?
+
+{ANSWERS}
+Parti radical-démocratique (PRD)
+Parti démocrate-chrétien (PDC)
+Parti socialiste (PS)
+Union démocratique du centre (UDC)
+Parti libéral (PL)
+Alliance des indépendants (AdI)
+Parti évangélique populaire (PEP)
+Parti chrétien-social (PCS)
+Parti du travail (PdT) / Parti Ouvrier populaire (POP)
+Les Verts (PES), Les Verts alternatifs, Combat socialiste, les Vertes et solidarités)
+Démocrates suisses (DS) (ancienne Action nationale (AN))
+Union démocratique fédérale (UDF)
+Parti de la liberté (FSL, ancien Parti des automobilistes)
+Frauenparteien
+Lega dei Ticinesi (Lega)
+Autre
+
+Q35 
+{QUESTION}
+Êtes vous membre d'un parti politique ? Lequel ?
+
+{ANSWERS}
+
+Q36 B28
+{INTRO}
+En politique, les gens parlent parfois de gauche et de droite. 
+
+{QUESTION}
+En utilisant cette carte, où vous placeriez-vous sur cette échelle, 0 signifiant la gauche et 10 la droite ? 
+
+{ANSWERS}
+0- Gauche
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Droite
+
+Q37 B29
+{QUESTION}
+Dans l'ensemble, dans quelle mesure êtes-vous satisfait de votre vie actuelle ? Utilisez cette carte s'il vous plaît, où 0 signifie tout à fait insatisfait et 10 tout à fait satisfait. 
+
+{ANSWERS}
+0- Tout à fait insatisfait
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Tout à fait satisfait
+
+Q38 B30 
+{QUESTION}
+Dans l'ensemble, dans quelle mesure êtes-vous satisfait de l'état de l'économie en Suisse ? 
+
+{ANSWERS}
+0- Tout à fait insatisfait
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Tout à fait satisfait
+
+Q39 B31
+{QUESTION}
+Maintenant, en pensant au gouvernement suisse (Conseil Fédéral), dans quelle mesure êtes-vous satisfait de son travail? 
+
+{ANSWERS}
+0- Tout à fait insatisfait
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Tout à fait satisfait
+
+Q40 B32
+{QUESTION}
+Et dans l'ensemble, dans quelle mesure êtes-vous satisfait de la manière dont la démocratie fonctionne en Suisse ? 
+
+{ANSWERS}
+0- Tout à fait insatisfait
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Tout à fait satisfait
+
+Q41 B33 
+{QUESTION}
+À l'aide de cette carte, dites-moi ce que vous pensez en général de l'état du système scolaire en Suisse de nos jours ?
+
+{ANSWERS}
+0- Très mauvais
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Très bon
+
+Q42 B34
+{QUESTION}
+Toujours à l'aide de cette carte, dites-moi ce que vous pensez dans l'ensemble de l'état des services de santé en Suisse de nos jours ? 
+
+{ANSWERS}
+0- Très mauvais
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Très bon
+
+{INTRO}
+Certaines mesures politiques peuvent être prises à différents niveaux. 
+
+Q43 B35
+{QUESTION}
+En utilisant cette carte, à quel niveau diriez-vous que les mesures suivantes devraient principalement être prises ?
+La protection de l'environnement
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B36
+{QUESTION}
+La lutte contre le crime organisé
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B37
+{QUESTION}
+L'agriculture
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B38
+{QUESTION}
+La défense
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B39
+{QUESTION}
+La sécurité sociale
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B40
+{QUESTION}
+L'aide aux pays en développement
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B41
+{QUESTION}
+L'immigration et les réfugiés
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q43 B42
+{QUESTION}
+Les taux d'intérêts
+
+{ANSWERS}
+Niveau international
+Niveau européen
+Niveau national
+Niveau cantonal ou communal
+
+Q44 B43
+{QUESTION}
+À l'aide de cette carte, dites-moi s'il vous plaît dans quelle mesure vous êtes d'accord ou non avec chacune des propositions suivantes : Moins le gouvernement intervient dans l'économie et mieux c'est pour la Suisse
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B44
+{QUESTION}
+Le gouvernement devrait prendre des mesures pour réduire les différences de revenu
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B45
+{QUESTION}
+ Les travailleurs ont besoin de syndicats forts pour protéger leurs salaires et leurs conditions de travail
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B46
+{QUESTION}
+Les homosexuels hommes et femmes devraient être libres de vivre leur vie comme ils le souhaitent
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B47
+{QUESTION}
+ Quelles que soient les circonstances, la loi devraient toujours être respectée
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B48
+{QUESTION}
+ Il faudrait interdire les partis politiques qui remettent en cause la démocratie
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B49
+{QUESTION}
+ La croissance économique finit toujours par porter atteinte à l'environnement
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q44 B50
+{QUESTION}
+ On peut faire confiance à la science d'aujourd'hui pour résoudre les problèmes environnementaux
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+Q45 C1 
+{QUESTION}
+Tout bien considéré, dans quelle mesure diriez-vous que vous êtes heureux ? Je vais maintenant vous poser quelques questions à propos de vous et de votre vie .
+
+{ANSWERS}
+0- Très malheureux
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Très heureux
+
+Q46 C2 
+{QUESTION}
+À l'aide de cette carte, pouvez-vous me dire à quelle fréquence vous rencontrez des amis, de la famille ou des collègues en dehors du travail. 
+
+{ANSWERS}
+Jamais
+Moins d'une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Chaque jour
+
+Q47 C3 
+{QUESTION}
+Avez-vous dans votre entourage quelqu'un avec qui vous puissiez discuter de sujets intimes ou personnels ?
+
+{ANSWERS}
+Oui
+Non
+
+Q48 C4
+{QUESTION}
+En vous comparant à d'autres personnes de vôtre âge, à quelle fréquence prenez-vous part à des activités sociales ? 
+
+{ANSWERS}
+Beaucoup moins souvent que la plupart
+Moins souvent que la plupart
+À peu près la même chose
+Plus souvent que la plupart
+Beaucoup plus souvent que la plupart
+
+Q49 C5
+{QUESTION}
+Vous-même ou un membre de votre ménage, a-t-il été victime d'un cambriolage ou d'une agression ces 5 dernières années ?
+
+{ANSWERS}
+Oui
+Non
+
+Q50 C6
+{QUESTION}
+Dans quelle mesure vous sentez-vous (ou sentiriez-vous) en sécurité seul le soir à pied dans votre quartier ?
+
+{ANSWERS}
+Tout à fait en sécurité
+En sécurité
+En insécurité
+Tout à fait en insécurité
+
+Q51 C7
+{QUESTION}
+Quel est votre état de santé en général. Diriez-vous qu'il est…
+
+{ANSWERS}
+Très bon
+Bon
+Passable
+Mauvais
+Très mauvais
+
+Q52 C8 
+{QUESTION}
+Êtes-vous gêné d'une quelconque manière dans vos activités quotidiennes par une maladie de longue durée, handicap, infirmité ou un problème de santé mentale ?
+
+{ANSWERS}
+Oui fortement
+Oui, dans une certaine mesure
+Non
+
+Q53 C9
+{QUESTION}
+Est-ce que vous-même vous vous sentez appartenir à une religion ou confession particulière ?
+
+{ANSWERS}
+Oui
+Non
+
+Q54 C10
+{QUESTION}
+Laquelle ? 
+
+{ANSWERS}
+Catholique romain
+Catholique chrétien
+Protestante
+Orthodoxe (église russe, grecque)
+Autre religion chrétienne 
+Juive
+Islamique
+Bouddhiste
+Hindoue
+Autre religion non chrétienne 
+
+Q55 
+{QUESTION}
+Est-ce que vous-même vous vous sentez appartenir à une religion ou confession particulière ? Laquelle ?
+
+{ANSWERS}
+
+Q56 C11
+{QUESTION}
+Et vous êtes-vous une fois dans votre vie senti appartenir à une religion ou confession particulière ?
+
+{ANSWERS}
+Oui
+Non
+
+Q57 C12
+{QUESTION}
+Laquelle ?
+
+{ANSWERS}
+Catholique romain
+Catholique chrétien
+Protestante
+Orthodoxe (église russe, grecque)
+Autre religion chrétienne 
+Juive
+Islamique
+Bouddhiste
+Hindoue
+Autre religion non chrétienne
+
+Q58 
+{QUESTION}
+Et vous êtes-vous une fois dans votre vie senti appartenir à une religion ou confession particulière ? Laquelle ?
+
+{ANSWERS}
+
+Q59 C13
+{QUESTION}
+Indépendamment de votre appartenance religieuse, dans quelle mesure vous sentez-vous croyant?
+
+{ANSWERS}
+0- Pas du tout croyant
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10- Très croyant
+
+Q60 C14
+{QUESTION}
+Sans compter les occasions spéciales comme les mariages ou les décès, à quelle fréquence environ suivez-vous actuellement des services religieux ? 
+
+{ANSWERS}
+Chaque jour
+Plus d'une fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement à l'occasion de fêtes religieuses
+Moins souvent
+Jamais
+
+Q61 C15
+{QUESTION}
+Mis à part les services religieux, à quelle fréquence, le cas échéant, priez-vous? 
+
+{ANSWERS}
+Chaque jour
+Plus d'une fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement à l'occasion de fêtes religieuses
+Moins souvent
+Jamais
+
+Q62 C16 
+{QUESTION}
+Considérez-vous que vous appartenez à un groupe discrimé dans ce pays ?
+
+{ANSWERS}
+Oui
+Non
+
+Q63 C17
+{QUESTION}
+Pour quelle raison, ce groupe est-il discriminé?
+
+{ANSWERS}
+Couleur ou race
+Nationalité
+Religion
+Langue
+Groupe ethnique
+Âge
+Sexe (genre)
+Orientation sexuelle
+Handicap
+Autre
+
+Q64
+{QUESTION}
+Pour quelle raison, ce groupe est-il discriminé?
+
+{ANSWERS}
+
+Q65 C18
+{QUESTION}
+Êtes-vous citoyen Suisse ?
+
+{ANSWERS}
+Oui
+Non
+
+Q66 C19
+{QUESTION}
+Quelle nationalité avez-vous ?
+
+{ANSWERS}
+Suisse
+Belgique
+Danemark
+Allemagne
+Grèce
+Espagne
+France
+Irlande
+Italie
+Luxembourg
+Pays-Bas
+Portugal
+Royaume-Uni (Grande-Bretagne, Irlande du Nord)
+Autriche
+Suède
+Finlande
+Autres pays
+Sans nationalité
+
+Q67 
+{QUESTION}
+Quelle nationalité avez-vous ? 
+
+{ANSWERS}
+
+Q68 C20 
+{QUESTION}
+Êtes-vous né en Suisse?
+
+{ANSWERS}
+Oui
+Non
+
+Q69 C21
+{QUESTION}
+Dans quel pays êtes-vous né ?
+
+{ANSWERS}
+Suisse
+Belgique
+Danemark
+Allemagne
+Grèce
+Espagne
+France
+Irlande
+Italie
+Luxembourg
+Pays-Bas
+Portugal
+Royaume-Uni (Grande-Bretagne, Irlande du Nord)
+Autriche
+Suède
+Finlande
+Autres pays 
+Sans nationalité
+
+Q70 
+{QUESTION}
+Dans quel pays êtes-vous né ?
+
+{ANSWERS}
+
+Q71 C22 
+{QUESTION}
+Depuis combien de temps êtes-vous venu vivre en Suisse pour la première fois ? 
+
+{ANSWERS}
+Moins d'une année
+Entre 1 et 5 ans
+Entre 6 et 10 ans
+Entre 11 et 20 ans
+Plus de 20 ans
+
+Q72 C23
+{QUESTION}
+Quelle langue parlez-vous le plus souvent à la maison ?
+
+{ANSWERS}
+Allemand (suisse allemand ou bon allemand)
+Français
+Italien
+Romanche
+Portugais
+Espagnol
+Kurde
+Japonais
+Albanais
+Serbe
+Croate
+Anglais
+Autres 
+
+Q73 
+{QUESTION}
+Quelle langue parlez-vous le plus souvent à la maison ? 
+
+{ANSWERS}
+
+Q74 C24 
+{QUESTION}
+Faites-vous partie d'une minorité ethnique en Suisse ?
+
+{ANSWERS}
+Oui
+Non
+
+Q75 C25 
+{QUESTION}
+Votre père est-il né en Suisse ?
+
+{ANSWERS}
+Oui
+Non
+
+Q76 C26 
+{QUESTION}
+De quel continent votre père est-il originaire ? 
+
+{ANSWERS}
+Europe
+Afrique
+Asie
+Amérique du Nord
+Amérique du Sud et Caraïbes
+Australie, Océanie
+
+Q77 C27 
+{QUESTION}
+Votre mère est-elle née en Suisse ?
+
+{ANSWERS}
+Oui
+Non
+	
+Q78 C28 
+{QUESTION}
+De quel continent votre mère est-elle originaire ? 
+
+{ANSWERS}
+Europe
+Afrique
+Asie
+Amérique du Nord
+Amérique du Sud et Caraïbes
+Australie, Océanie
+
+Q121 F1
+{QUESTION}
+Combien de personnes, vous même et les enfants y compris, vivent régulièrement comme
+membres de votre ménage ? Et finalement, je voudrais vous demander quelques détails à propos
+de vous et des autres membres de votre ménage.
+
+{ANSWERS}
+
+Q122
+{QUESTION}
+Pourriez-vous m'indiquer le prénom, la date de naissance et le sexe de toutes les personnes - Enfants y compris - qui vivent dans votre ménage ? 
+
+{ANSWERS}
+___________
+ homme
+ femme
+
+
+Q158 F4 
+{QUESTION}
+Thomas est votre ... ? A l'aide de cette carte, dites-moi quelle relation a-t-il avec vous ? 
+
+{ANSWERS}
+Epoux/épouse/partenaire
+Fils, fille (aussi beau-fils/belle fille ou adoptés, enfant place dans une famille d'accueil, enfant du partenaire)
+Parents/beaux-parents/parents du partenaire/parents adoptifs
+Autres membres de la famille
+Autre personne non apparentée
+
+Q159 F5 
+{QUESTION}
+Quelle expression de cette carte décrit le mieux l'endroit où vous vivez ? 
+
+{ANSWERS}
+Une grande ville
+Une banlieue ou les faubourgs d'une grande ville
+Une ville moyenne ou petite
+Un village de campagne
+Une ferme ou une maison isolée dans la campagne
+
+Q160 F6
+{QUESTION}
+Quel est le plus haut niveau de formation que vous avez terminé ? 
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ etudes pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+Q161 F7 
+{QUESTION}
+Combien d'années d'études à plein temps avez-vous accomplies depuis la première année primaire et sans compter les éventuelles années d'apprentissage ? 
+
+{ANSWERS}
+
+Q162 F7bis
+{QUESTION}
+Et le cas échéant combien d'années d'apprentissage avez-vous accomplies ? 
+
+{ANSWERS}
+
+Q163 F8a
+{QUESTION}
+A l'aide de cette carte, dites-moi laquelle de ces descriptions correspond le mieux à ce que vous avez fait ces 7 derniers jours ?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d'une entreprise familiale)
+En formation (non payée par l'employeur), même si vous êtes actuellement en vacances
+Sans travail mais cherchant activement un emploi
+Sans travail mais voulant trouver un emploi, mais sans le chercher activement
+Malade ou handicapé de manière durable
+Retraité
+Service militaire ou service civil
+Travail ménager, s'occuper des enfants ou d'une autre personne
+Autres
+
+Q164 F8b
+{QUESTION}
+Et laquelle décrit-elle le mieux votre situation (ces 7 derniers jours) ?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d'une entreprise familiale)
+En formation (non payée par l'employeur), même si vous êtes actuellement en vacances
+Sans travail mais cherchant activement un emploi
+Sans travail mais voulant trouver un emploi, mais sans le chercher activement
+Malade ou handicapé de manière durable
+Retraité
+Service militaire ou service civil
+Travail ménager, s'occuper des enfants ou d'une autre personne
+Autres
+
+Q165 F9
+{QUESTION}
+J'aimerais encore savoir si vous avez effectué un quelconque travail rémunéré (une heure ou plus) ces 7 derniers jours ?
+
+{ANSWERS}
+Oui
+Non
+
+Q166 F10
+{QUESTION}
+Avez-vous déjà eu un travail rémunéré ?
+
+{ANSWERS}
+Oui
+Non
+
+Q167 F11 
+{QUESTION}
+En quelle année avez-vous exercé votre dernier travail rémunéré ? 
+
+{ANSWERS}
+
+Q168 F12 
+{QUESTION}
+Dans votre emploi principal êtes-vous ...
+
+{ANSWERS}
+employé
+indépendant
+collaborateur dans l'entreprise familiale
+
+Q169 F13
+{QUESTION}
+Combien d'employé avez-vous (si c'est le cas) ?
+
+{ANSWERS}
+
+Q170 F14
+{QUESTION}
+Avez-vous un contrat …
+
+{ANSWERS}
+À durée indéterminée
+Ou, à durée déterminée
+
+Q171 F15
+{QUESTION}
+En vous comptant vous-mêmes, combien de personnes sont employées à l'endroit où vous travaillez habituellement ?
+
+{ANSWERS}
+Moins de 10
+... 10 à 24
+... 25 à 99
+... 100 à 499
+... ou 500 et plus ?
+
+Q172 F16
+{QUESTION}
+Dans votre emploi principal, avez-vous la responsabilité de superviser le travail d'autres employés ?
+
+{ANSWERS}
+Oui
+Non
+
+Q173 F17
+{QUESTION}
+De combien de personnes êtes-vous responsable ? 
+
+{ANSWERS}
+
+Q174 F18
+{QUESTION}
+Dans quelle mesure, pouvez-vous organiser votre propre travail ?
+
+{ANSWERS}
+… Dans une large mesure
+... Dans une certaine mesure
+... Très peu
+... Pas du tout
+
+Q175 F19
+{QUESTION}
+Combien d'heures hebdomadaires de travail figurent (pour votre emploi principal) dans votre contrat, sans compter les heures supplémentaires, payées ou non ? 
+
+{ANSWERS}
+
+Q176 F20 
+{QUESTION}
+Indépendamment du contrat, combien d'heures hebdomadaires de travail accomplissez-vous habituellement, y compris les heures supplémentaires, payées ou non ? 
+
+{ANSWERS}
+
+Q177
+{QUESTION}
+{ANSWERS}
+Quel est le nom ou le titre de votre emploi principal ? 
+
+
+Q178 F21 
+{QUESTION}
+Quel est le nom ou le titre de votre emploi principal ? 
+
+{ANSWERS}
+
+Q179 
+{QUESTION}
+Code Profession
+
+{ANSWERS}
+
+Q180 
+{QUESTION}
+Quel est le nom ou le titre de votre emploi principal ? 
+
+{ANSWERS}
+
+Q181 F22 
+{QUESTION}
+Dans le cadre de votre emploi principal, quel type de travail faites-vous principalement ?
+
+{ANSWERS}
+
+Q182 F23 
+{QUESTION}
+Quelle formation ou qualifications sont-elles requises pour ce travail ?
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ études pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+Q183 F24 
+{QUESTION}
+Quelle est l'activité principale de l'entreprise/ organisation pour laquelle vous travaillez?
+
+{ANSWERS}
+
+Q184
+{QUESTION}
+Code Nace
+
+{ANSWERS}
+
+Q185 F25
+{QUESTION}
+Avez-vous déjà été sans emploi et à la recherche d'un travail pendant une période de plus de trois mois ?
+
+{ANSWERS}
+Oui
+Non
+
+Q186 F26
+{QUESTION}
+L'une ou l'autre de ces périodes a-t-elle duré 12 mois ou plus ?
+
+{ANSWERS}
+Oui
+Non
+
+Q187 F27
+{QUESTION}
+Et l'une ou l'autre de ces périodes a-t-elle eu lieu ces 5 dernières années ? 
+
+{ANSWERS}
+Oui
+Non
+
+Q188 F28
+{QUESTION}
+Êtes-vous ou avez-vous déjà été membre d'un syndicat ou d'une organisation similaire ?
+
+{ANSWERS}
+Oui, actuellement
+Oui, précédemment
+Non
+
+Q189 F29
+{QUESTION}
+Considérez s'il vous plaît le revenu de tous les membres du ménage, ainsi que les revenus reçus par le ménage dans son ensemble. Quelle est la source principale de revenu de votre ménage ?
+
+{ANSWERS}
+Salaires
+Revenu d'indépendant ou d'agriculteur
+Rentes, pensions
+Allocation de chômage, indemnités de licenciement
+Autres aides sociales ou bourses
+Revenus d'investissements, d'épargne, d'assurances ou de propriétés
+Autres sources de revenus
+
+Q190 F30a
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage. Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel. 
+
+{ANSWERS}
+Approximation hebdomadaire
+J Moins de Sfr 50
+R De Sfr 50 à moins de Sfr 100
+C De Sfr 100 à moins de Sfr 170
+M De Sfr 170 à moins de Sfr 350
+F De Sfr 350 à moins de Sfr 530
+S De Sfr 530 à moins de Sfr 690
+K De Sfr 690 à moins de Sfr 880
+P De Sfr 880 à moins de Sfr 1040
+D De Sfr 1040 à moins de Sfr 1730
+H De Sfr 1730 à moins de Sfr 2600
+U De Sfr 2600 à moins de Sfr 3460
+N Sfr 3460 ou plus
+
+Q190 F30b
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage. Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel. 
+
+{ANSWERS}
+Approximation mensuelle
+J Moins de Sfr 230
+R De Sfr 230 à moins de Sfr 450
+C De Sfr 450 à moins de Sfr 750
+M De Sfr 750 à moins de Sfr 1500
+F De Sfr 1500 à moins de Sfr 2300
+S De Sfr 2300 à moins de Sfr 3000
+K De Sfr 3000 à moins de Sfr 3800
+P De Sfr 3800 à moins de Sfr 4500
+D De Sfr 4500 à moins de Sfr 7500
+H De Sfr 7500 à moins de Sfr 11300
+U De Sfr 11300 à moins de Sfr 15000
+N Sfr 15000 ou plus
+
+Q190 F30c
+{QUESTION}
+En utilisant cette carte, si vous cumulez toutes les sources de revenu de votre ménage, quelle lettre décrit le mieux le revenu net total de votre ménage. Si vous ne connaissez pas le chiffre exact, veuillez donner une approximation. Utilisez la partie de la carte que vous connaissez le mieux : revenu hebdomadaire, mensuel ou annuel. 
+
+{ANSWERS}
+Approximatif annuelle
+J Moins de Sfr 2760
+R De Sfr 2760 à moins de Sfr 5400
+C De Sfr 5400 à moins de Sfr 9000
+M De Sfr 9000 à moins de Sfr 18000
+F De Sfr 18000 à moins de Sfr 27600
+S De Sfr 27600 à moins de Sfr 36000
+K De Sfr 36000 à moins de Sfr 45600
+P De Sfr 45600 à moins de Sfr 54000
+D De Sfr 54000 à moins de Sfr 90000
+H De Sfr 90000 à moins de Sfr 135600
+U De Sfr 135600 à moins de Sfr 180000
+N Sfr 180000 ou plus
+
+Q191 F31
+{QUESTION}
+Laquelle des descriptions de cette carte correspond au mieux à ce que vous pensez du revenu actuel de votre ménage ?
+
+{ANSWERS}
+On peut vivre confortablement du revenu actuel
+Le revenu actuel suffit
+Il est difficile de vivre avec le revenu actuel
+Il est très difficile de vivre avec le revenu actuel
+
+Q192 F32
+{QUESTION}
+Si pour l'une ou l'autre raison vous étiez dans une situation financière difficile et ayez à emprunter de l'argent pour boucler les fins de mois, dans quelle mesure serait-ce facile ou difficile ? 
+
+{ANSWERS}
+Très difficile
+Assez difficile
+Ni facile, ni difficile
+Assez facile
+Très facile
+
+Q193 F33
+{QUESTION}
+Partenaire
+
+{ANSWERS}
+Partenaire
+Pas de partenaire
+
+Q194 F34
+{QUESTION}
+Quel est le plus haut niveau de formation que votre époux, partenaire ait achevé ? 
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ etudes pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+• Q195 F35a
+{QUESTION}
+A l'aide de cette carte, dites-moi laquelle de ces descriptions correspond à ce qu'il a fait durant ces 7 derniers jours ?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d'une entreprise familiale)
+En formation (non payée par l'employeur), même si vous êtes actuellement en vacances
+Sans travail mais cherchant activementun emploi
+Sans travail mais voulant trouver un emploi, mais sans le chercher activement
+Malade ou handicapé de manière durable
+Retraité
+Service militaire ou service civil
+Travail ménager, s'occuper des enfants ou d'une autre personne
+Autres
+
+Q196 F35b
+{QUESTION}
+Et laquelle des descriptions de cette carte décrit le mieux sa situation (durant les 7 derniers jours)?
+
+{ANSWERS}
+Travail rémunéré (ou interruption temporaire) (employé, indépendant, collaborateur d'une entreprise familiale)
+En formation (non payée par l'employeur), même si vous êtes actuellement en vacances
+Sans travail mais cherchant activementun emploi
+Sans travail mais voulant trouver un emploi, mais sans le chercher activement
+Malade ou handicapé de manière durable
+Retraité
+Service militaire ou service civil
+Travail ménager, s'occuper des enfants ou d'une autre personne
+Autres
+
+Q197 F36 
+{QUESTION}
+J'aimerais aussi savoir s'il a effectué un travail rémunéré (d'une heure ou plus ) durant les 7 derniers jours ?
+
+{ANSWERS}
+Oui
+Non
+
+Q198
+{QUESTION}
+Quel est le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q199 F37 
+{QUESTION}
+Quel est le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q200 
+{QUESTION}
+Code Profession
+
+{ANSWERS}
+
+Q201 
+{QUESTION}
+Quel est le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q202 F38 
+{QUESTION}
+Dans le cadre de son emploi principal, quel type de travail fait-il principalement ?
+
+{ANSWERS}
+
+Q203 F39 
+{QUESTION}
+Quelle formation ou qualifications sont-elles requises pour ce travail ?
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ études pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+Q204 F40 
+{QUESTION}
+Dans son travail principal, est-il …
+
+{ANSWERS}
+un/e employé/e
+un/e indépendant/e
+collaborateur/trice dans l'entreprise familiale
+
+Q205 F41
+{QUESTION}
+Combien d'employé a-t-il (si c'est le cas) ?
+
+{ANSWERS}
+
+Q206 F42
+{QUESTION}
+Dans son emploi principal, a-t-il la responsabilité de superviser le travail d'autres employés ?
+
+{ANSWERS}
+Oui
+Non
+
+Q207 F43
+{QUESTION}
+De combien de personnes est-il responsable ? 
+
+{ANSWERS}
+
+Q208 F44
+{QUESTION}
+Combien d'heures travaille-t-il normalement par semaine (dans son emploi principal)? Y compris les heures supplémentaires payées et non payées ?
+
+{ANSWERS}
+
+Q209 F45
+{QUESTION}
+Quel est le plus haut niveau de formation que votre père a terminé ? 
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ etudes pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+Q210 F46
+{QUESTION}
+Lorsque vous aviez 14 ans, est-ce que votre père travaillait en tant qu'employé, en tant qu'indépendant ou ne travaillait-il pas à cette époque ?
+
+{ANSWERS}
+Employé
+Indépendant
+Sans activité lucrative
+(Père décédé/absent lorsque répondant avait 14 ans)
+
+Q211 F47
+{QUESTION}
+Combien d'employés avait-il ?
+
+{ANSWERS}
+Aucun
+De 1 à 24
+25 ou plus
+
+Q212 F48
+{QUESTION}
+Avait-il la responsabilité de superviser le travail d'autres employés ?
+
+{ANSWERS}
+Oui
+Non
+
+Q213
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q214 F49
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q215
+{QUESTION}
+Code Profession
+
+{ANSWERS}
+
+Q216
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q217 F50 Exclusive
+{QUESTION}
+Laquelle des descriptions de cette carte décrit au mieux le genre de travail qu'il faisait lorsque vous aviez quatorze ans ? 
+
+{ANSWERS}
+Professions libérales traditionnelles et assimilées expertcomptable, avocat, médecin, scientifique, ingénieur civil ou mécanique
+Professions de services spécialisées Enseignant, infirmier, physiothérapeute, travailleur social, assistant social, artiste, musicien, officier de police, programmeur
+Intermédiaires et employés de bureau qualifiés Secrétaire, assistant personnel, employé de bureau, téléphoniste, aide-infirmier, nurse
+Cadres supérieurs et administratifs Habituellement responsable d'élaboration, organisation, coordination Directeur des finances, directeur général
+Professions techniques et artisanales Mécaniciens, assembleurs, contrôleurs, plombier, imprimeurs, outilleurs, électriciens, jardinier, conducteur de train
+Professions manuelles et de services: Semi-qualifiées Employé de poste, opérateur de machine, agent de sécurité, concierge, réceptionniste, assistant de vente, employé de ferme
+Professions manuelles et de services, non-qualifiées Conducteurs de camions, nettoyeurs, emballeurs, ouvrier en général, serveur, barman
+Cadres inférieurs et moyens Chefs de bureau, gérant de restaurant, fondé de pouvoir, directeur de succursale, patron de café-restaurant
+
+Q218 F51
+{QUESTION}
+Quel est le plus haut niveau de formation que votre mère a terminé ? 
+
+{ANSWERS}
+Ecole obligatoire inachevée
+Ecole obligatoire (école secondaire)
+Formation professionnelle élémentaire (entreprise + école)
+Gymnase/collège, baccalauréat, école normale/ etudes pédagogiques
+Maturité professionnelle
+1 an: Ecole commerciale/de formation générale/stage ménager, séjour linguistique
+Apprentissage (niveau CFC)
+2 à 3 ans: Ecole de formation générale (EDD, école d'adm.)
+2 à 3 ans: Ecole professionnelle/métiers à plein temps (éc. sup. de commerce, ateliers profess.)
+Formation professionnelle supérieure avec maîtrise, brevet fédéral
+Ecole technique ou prof. (2 ans plein temps/3 ans temps partiel)
+Ecole prof. sup./technicum/ingénieur ETS, haute école spécialisée (3 ans plein temps/4 ans temps partiel)
+Université (3 ans, licence courte)
+Université, haute école (4 ans et plus, licence)
+Université, haute école (doctorat, post-grade)
+
+Q219 F52
+{QUESTION}
+Lorsque vous aviez 14 ans, est-ce que votre mère travaillait en tant qu'employée, en tant qu'indépendante ou ne travaillait-elle pas à cette époque ?
+
+{ANSWERS}
+Employé
+Indépendant
+Sans activité lucrative
+(Mère décédée/absente lorsque répondant avait 14 ans)
+
+Q220 F53
+{QUESTION}
+Combien d'employés avait-elle ?
+
+{ANSWERS}
+Aucun
+De 1 à 24
+25 ou plus
+
+Q221 F54
+{QUESTION}
+Avait-elle la responsabilité de superviser le travail d'autres employés ?
+
+{ANSWERS}
+Oui
+Non
+
+Q222
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ?
+
+{ANSWERS}
+
+Q223 F55 
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q224 
+{QUESTION}
+Code Profession
+
+{ANSWERS}
+
+Q225 
+{QUESTION}
+Quel était le nom ou le titre de son emploi principal ? 
+
+{ANSWERS}
+
+Q226 F56
+{QUESTION}
+Laquelle des descriptions de cette carte décrit au mieux le genre de travail qu'elle faisait lorsque vous aviez 14 ans ? 
+
+{ANSWERS}
+Professions libérales traditionnelles et assimilées expertcomptable, avocat, médecin, scientifique, ingénieur civil ou mécanique
+Professions de services spécialisées Enseignant, infirmier, physiothérapeute, travailleur social, assistant social, artiste, musicien, officier de police, programmeur
+Intermédiaires et employés de bureau qualifiés Secrétaire, assistant personnel, employé de bureau, téléphoniste, aide-infirmier, nurse
+Cadres supérieurs et administratifs Habituellement responsable d'élaboration, organisation, coordination Directeur des finances, directeur général
+Professions techniques et artisanales Mécaniciens, assembleurs, contrôleurs, plombier, imprimeurs, outilleurs, électriciens, jardinier, conducteur de train
+Professions manuelles et de services: Semi-qualifiées Employé de poste, opérateur de machine, agent de sécurité, concierge, réceptionniste, assistant de vente, employé de ferme
+Professions manuelles et de services, non-qualifiées Conducteurs de camions, nettoyeurs, emballeurs, ouvrier en général, serveur, barman
+Cadres inférieurs et moyens Chefs de bureau, gérant de restaurant, fondé de pouvoir, directeur de succursale, patron de café-restaurant
+
+Q227 F57 
+{QUESTION}
+Durant les 12 derniers mois, avez - vous suivi des cours ou assisté à des présentations afin d'améliorer vos compétences ou connaissances professionnelles ?
+
+{ANSWERS}
+Oui
+Non
+
+Q228 F58 
+{QUESTION}
+J'aimerais aussi connaître quel est votre état civil ? Laquelle des descriptions de cette carte vous correspond ?
+
+{ANSWERS}
+Marié
+Séparé (mais encore marié)
+Divorcé
+Veuf/veuve
+Célibataire, jamais marié
+
+Q229 F59
+{QUESTION}
+Vivez-vous actuellement avec votre époux ?
+
+{ANSWERS}
+Oui
+Non
+
+Q230 F60
+{QUESTION}
+Vivez-vous actuellement avec un autre partenaire ?
+
+{ANSWERS}
+Oui
+Non
+
+Q231 F61
+{QUESTION}
+Vivez-vous actuellement avec un partenaire ?
+
+{ANSWERS}
+Oui
+Non
+
+Q232 F62
+{QUESTION}
+Avez-vous déjà vécu avec un partenaire sans être marié ?
+
+{ANSWERS}
+Oui
+Non
+
+Q233 F63
+{QUESTION}
+Avez-vous déjà divorcé dans votre vie ?
+
+{ANSWERS}
+Oui
+Non
+
+Q234 F64 
+{QUESTION}
+Le répondant a des enfants vivant dans le ménage
+
+{ANSWERS}
+Le répondant a des enfants vivant dans le ménage
+N'en a pas
+
+Q235 F65 
+{QUESTION}
+Est-ce que de vos enfants ou de vos beaux-enfants ont vécu autrefois dans le ménage ?
+
+{ANSWERS}
+Oui
+Non
+
+

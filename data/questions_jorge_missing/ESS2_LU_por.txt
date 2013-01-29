@@ -1,0 +1,1808 @@
+A1
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ver televisão? Utilize este cartão para responder
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+
+A2
+{QUESTION}
+Ainda num dia de semana norma l, do tempo que passa a ver televisão, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+A3
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ouvir rádio?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+A4
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ouvir rádio, quanto é dedicado a notícias ou programas acerca de política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+A5
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ler jornais?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+A6
+{QUESTION}
+E quanto desse tempo é passado a ler sobre política e assuntos de actualidade?
+
+{ANSWERS}
+Nenhum
+Menos de meia hora
+Entre meia hora e uma hora 
+Entre uma hora e hora e meia 
+Entre hora e meia e duas horas 
+Entre duas horas e duas horas e meia 
+Entre duas horas e meia e três horas 
+Mais de três horas 
+
+A7
+{QUESTION}
+Com que frequência utiliza a internet, ou o e- mail para fins pessoais, em casa ou no trabalho?
+
+{ANSWERS}
+Não tem acesso à internet, nem em casa nem no trabalho 
+Nunca 
+Menos de uma vez por mês
+Uma vez por mês
+Várias vezes por mês
+Uma vez por semana 
+Várias vezes por semana 
+Todos os dias
+
+A8
+{QUESTION}
+De uma forma geral, acha que todo o cuidado é pouco quando se lida com as pessoas ou acha que se pode confiar na maioria das pessoas?
+
+{ANSWERS}
+0 Todo o cuidado é pouco
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A maioria das pessoas é de confiança
+
+A9
+{QUESTION}
+Acha que a maior parte das pessoas tenta aproveitar-se de si sempre que podem, ou pensa que a maioria das pessoas é honesta?
+
+{ANSWERS}
+0 Tentam aproveitarse de si
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A maioria das pessoas é honesta
+
+A10
+{QUESTION}
+Acha que, na maior parte das vezes, as pessoas estão preocupadas com elas próprias ou acha que tentam ajudar os outros?
+
+{ANSWERS}
+0 As pessoas estão preocupadas com elas próprias
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 As pessoas tentam ajudar os outros
+
+{INTRO}
+Vou agora fazer-lhe algumas perguntas sobre política e governo
+
+B1
+{QUESTION}
+De um modo geral, qual o seu interesse pela política? Diria que tem...
+
+{ANSWERS}
+Muito interesse 
+Algum interesse 
+Pouco interesse 
+Nenhum interesse 
+
+B2
+{QUESTION}
+Com que frequência a política lhe parece tão complicada que não percebe verdadeiramente, o que se está a passar?.
+
+{ANSWERS}
+Nunca 
+Raramente
+Algumas vezes
+Bastantes vezes
+Frequentemente 
+
+B3
+{QUESTION}
+De uma forma geral, qual o grau de dificuldade que sente em tomar uma posição acerca de questões políticas?
+
+{ANSWERS}
+É muito difícil
+É difícil 
+Nem é difícil nem é fácil 
+É fácil 
+É muito fácil 
+
+B4 
+{QUESTION}
+Diga- me, por favor, qual a confiança pessoal que tem em cada uma das instituições que lhe vou ler. Situe a sua posição nesta escala em que 0 significa que não tem confiança nenhuma na instituição que referi e uma pontuação de 10 quer dizer que tem muita confiança... … no Parlamento do Luxemburgo?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B5 
+{QUESTION}
+… na Justiça ?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+
+B6 
+{QUESTION}
+…na polícia?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B7 
+{QUESTION}
+… nos políticos?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B8 
+{QUESTION}
+Nos partidos políticos
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B9 
+{QUESTION}
+… no Parlamento Europeu?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B10 
+{QUESTION}
+… nas Nações Unidas?
+
+{ANSWERS}
+0 Nenhuma confiança
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toda a confiança
+
+B11
+{QUESTION}
+Por uma razão ou por outra, actualmente muitas pessoas não votam. O sr votou nas últimas eleições para o Parlamento do Luxemburgo (13/06/2004) ?
+
+{ANSWERS}
+Sim 
+Não
+Não era eleitor/Não estava recenseado
+
+B12
+{QUESTION}
+Nessas eleições em que partido/ coligação votou?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS) 
+Lëtzebuerger SoziaCartão sch Aarbechter Partei (LSAP)/ Parti SociaCartão Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale 
+Outro 
+
+B13
+{INTRO}
+Há várias acções que se podem desenvolver para melhorar as coisas no Luxemburgo ou para evitar
+que corram mal. 
+
+{QUESTION}
+Durante os últimos 12 meses, fez alguma das seguintes coisas? Contactou um político, um representante do governo central ou um representante do poder local ?
+
+{ANSWERS}
+Sim 
+Não
+
+B14 
+{QUESTION}
+Trabalhou para um partido político ou movimiento cívico?
+
+{ANSWERS}
+Sim 
+Não
+
+B15 
+{QUESTION}
+Trabalhou numa organização ou associação de outro tipo ?
+
+{ANSWERS}
+Sim 
+Não
+
+B16 
+{QUESTION}
+Usou um emblema auto-colante de campanha/ movimento ?
+
+{ANSWERS}
+Sim 
+Não
+
+B17 
+{QUESTION}
+Assinou uma petição ?
+
+{ANSWERS}
+Sim 
+Não
+
+B18 
+{QUESTION}
+Participou numa manifestação ? 
+
+{ANSWERS}
+Sim 
+Não
+
+B19 
+{QUESTION}
+Boicotou determinados produtos ? 
+
+{ANSWERS}
+Sim 
+Não
+
+B20a
+{QUESTION}
+Há algum partido pelo qual sinta mais simpatia do que pelos outros?
+
+{ANSWERS}
+Sim 
+Não
+
+B20b
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR) 
+Outro 
+
+B20c
+{QUESTION}
+Qual a proximidade que sente relativamente a esse partido. Diria que se sente?
+
+{ANSWERS}
+Muito próximo
+Bastante próximo
+Pouco próximo 
+Nada próximo 
+
+B21
+{QUESTION}
+Está inscrito em algum partido político?
+
+{ANSWERS}
+Sim 
+Não
+
+B22
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR) 
+Outro 
+
+B23
+{INTRO}
+Em política é costume falar-se de esquerda e direita. 
+
+{QUESTION}
+Como é que se posicionaria nesta escala, em que 0 representa a posição mais à esquerda e 10 a posição mais à direita?
+
+{ANSWERS}
+0 Esquerda 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Direita 
+
+B24
+{QUESTION}
+Tudo somado, qual é o seu grau de satisfação com a sua vida em geral, actualmente? Está…
+
+{ANSWERS}
+0 Extremamente insatisfeito
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente satisfeito
+
+B25
+{QUESTION}
+De um modo geral qual o seu grau de satisfação com o estado actual da economia luxemburguesa ?
+
+{ANSWERS}
+0 Extremamente insatisfeito
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente satisfeito
+
+B26
+{QUESTION}
+Pense agora no Governo luxemburguês. Qual é o seu grau de satisfação com a forma como o Governo está a actuar?
+
+{ANSWERS}
+0 Extremamente insatisfeito
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente satisfeito
+
+B27
+{QUESTION}
+E, no geral, qual o seu grau de satisfação com o funcionamento da democracia no Luxemburgo ?
+
+{ANSWERS}
+0 Extremamente insatisfeito
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente satisfeito
+
+B28
+{QUESTION}
+Utilizando a seguinte escala, diga, por favor, como avalia, no geral, o estado da Educação no Luxemburgo, hoje em dia?
+
+{ANSWERS}
+0 Extremamente mau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente bom
+
+B29
+{QUESTION}
+E relativamente ao Systema de Saúde em geral? Como classificaria o Systema de Saúde no
+Luxemburgo hoje em dia?
+
+{ANSWERS}
+0 Extremamente mau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente bom
+
+B30
+{QUESTION}
+Indique até que ponto concorda ou discorda com as seguintes afirmações. O Governo deveria tomar medidas para reducir as diferenças de rendimentos.
+
+{ANSWERS}
+Concorda totalmente
+Concorda 
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+B31 
+{QUESTION}
+Homossexuais e lésbicas deveriam ser libres de viver a sua vida como muito bem entendessem.
+
+{ANSWERS}
+Concorda totalmente
+Concorda 
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+B32 
+{QUESTION}
+Os partidos políticos que desejam o derrube da democracia deveriam ser banidos.
+
+{ANSWERS}
+Concorda totalmente
+Concorda 
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+B33 
+{QUESTION}
+Pode-se confiar na ciência moderna para resolver os problemas ambientais.
+
+{ANSWERS}
+Concorda totalmente
+Concorda 
+Nem concorda nem discorda
+Discorda 
+Discorda totalmente
+
+B34
+{QUESTION}
+Pensando agora na União Europeia, algumas pessoas dizem que a União Europeia devia ir mais longe e outras consideram, ao contário, que a União Europeia já foi longe demais. Como classificaria a sua opinião nesta escala ?
+
+{ANSWERS}
+0 A unificação já foi longe demais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A unificação deveria ir mais longe
+
+{INTRO}
+Agora algumas perguntas sobre pessoas doutros países que vêm viver para o Luxemburgo.
+
+B35
+{QUESTION}
+Em que medida acha que o Luxemburgo deve deixar que pessoas da mesma raça ou grupo étnico do que a maioria luxemburguesa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas 
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas 
+Não deve deixar vir ninguém 
+
+B36
+{QUESTION}
+E em que medida acha que o Luxemburgo deve deixar que pessoas de raça ou grupo étnico diferente do que a maioria luxemburguesa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas 
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas 
+Não deve deixar vir ninguém 
+
+B37
+{QUESTION}
+E em que medida acha que o Luxemburgo deve deixar que pessoas dos países mais pobres fora da Europa venham e fiquem a viver cá?
+
+{ANSWERS}
+Deve deixar vir muitas pessoas 
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas 
+Não deve deixar vir ninguém 
+
+B38
+{QUESTION}
+Continuando a pensar nas pessoas que vêm viver e trabalhar para o Luxemburgo, acha que isso é mau ou bom para a economia luxemburguesa ?
+
+{ANSWERS}
+0 Mau para a economia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bom para a economia
+
+B39
+{QUESTION}
+E acha que essas pessoas empobrecem ou enriquecem os costumes, as tradições e a vida cultural do Luxemburgo?
+
+{ANSWERS}
+0 Empobrecem a vida cultural
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Enriquecem a vida cultural
+
+B40
+{QUESTION}
+O Luxemburgo tornou-se um lugar pior ou melhor para se viver com a vinda de pessoas de outros países para cá?
+
+{ANSWERS}
+0 Tornou-se um lugar pior para viver
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tornou-se um lugar melhor para viver
+
+{INTRO}
+Vou agora fazer-lhe algumas perguntas sobre si e a sua vida
+
+C1
+{QUESTION}
+Considerando todos os aspectos da sua vida, qual o grau de felicidade que sente? Responda, por favor, utilizando uma escala de 0 a 10.
+
+{ANSWERS}
+0 Extremamente infeliz
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente feliz
+
+C2
+{QUESTION}
+Com que frequência convive com amigos, familiares ou colegas de trabalho?
+
+{ANSWERS}
+Nunca 
+Menos de uma vez por mês
+Uma vez por mês
+Várias vezes por mês 
+Uma vez por semana 
+Várias vezes por semana 
+Todos os dias 
+
+C3
+{QUESTION}
+Tem alguém com quem possa conversar sobre assuntos íntimos e pessoais?
+
+{ANSWERS}
+Sim 
+Não 
+
+C4
+{QUESTION}
+Comparando com outras pessoas da sua idade, com que regularidade é que participa em actividades sociais?
+
+{ANSWERS}
+Muito menos que a maioria 
+Menos que a maioria 
+O mesmo que a maioria
+Mais que a maioria 
+Muito mais que a maioria 
+
+C5
+{QUESTION}
+Nos últimos 5 anos o sr ou alguém do seu agregado familiar foi vítima de furto ou roubo?
+
+{ANSWERS}
+Sim 
+Não 
+
+C6
+{QUESTION}
+Qual o nível de segurança que sente quando anda sozinho no seu bairro depois de escurecer? Sente-se ou sentir-se-ia.
+
+{ANSWERS}
+Muito seguro(a)
+seguro(a)
+inseguro(a)
+ou, muito inseguro(a) 
+
+C7
+{QUESTION}
+Em geral, como é a sua saúde ? Diria que ela é…
+
+{ANSWERS}
+Muito boa 
+boa 
+razoável 
+má
+muito má
+
+C8
+{QUESTION}
+Está de alguma forma limitado nas suas actividades diárias devido a uma doença prolongada, uma deficiência ou um problema de saúde mental/ psicológico? Se sim, muito ou de alguma forma?
+
+{ANSWERS}
+Sim, muito 
+Sim, de alguma forma 
+Não 
+
+C9
+{QUESTION}
+Actualmente sente que pertence a uma religião?
+
+{ANSWERS}
+Sim 
+Não 
+
+C10 
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Cristã 
+Católica Romana 
+Ortodoxa Grega ou Russa 
+Outra Igreja Ortodoxa Oriental 
+Protestante (sem especificação ulterior) 
+Outra Igreja Protestante 
+Outra Igreja Cristã 
+Hindu
+Sikh 
+Budista 
+Outras Religiões Orientais 
+Judia 
+Muçulmana
+Outra Religião Não Cristã 
+
+C11
+{QUESTION}
+E já alguma vez sentiu pertencer a uma religião?
+
+{ANSWERS}
+Sim 
+Não 
+
+C12 
+{QUESTION}
+Qual?
+
+{ANSWERS}
+Cristã, 
+Católica Romana
+Ortodoxa Grega ou Russa 
+Outra Igreja Ortodoxa Oriental 
+Protestante (sem especificação ulterior) 
+Outra Igreja Protestante 
+Outra Igreja Cristã 
+Hindu 
+Sikh
+Budista 
+Outras Religiões Orientais 
+Judia 
+Muçulmana 
+Outra Religião Não Cristã 
+
+C13
+{QUESTION}
+Independentemente de pertencer a uma religião em particular, numa escala de 0 a 10, diria que é uma pessoa...:
+
+{ANSWERS}
+0 Nada religiosa
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muito religiosa
+
+C14
+{QUESTION}
+Sem contar com ocasiões especiais tais como casamentos e funerais, com que frequência é que participa, actualmente, em serviços religiosos?
+
+{ANSWERS}
+Todos os dias 
+Mais de uma vez por semana 
+Uma vez por semana
+Pelo menos uma vez por mês
+Apenas em dias santos 
+Menos vezes ainda 
+Nunca
+
+C15
+{QUESTION}
+Sem contar com os serviços religiosos com que frequência é que reza?
+
+{ANSWERS}
+Todos os dias 
+Mais de uma vez por semana 
+Uma vez por semana 
+Pelo menos uma vez por mês
+Apenas em dias santos 
+Menos vezes ainda 
+Nunca
+
+C16
+{QUESTION}
+Diria que pertence a um grupo que é discriminado no Luxemburgo ?
+
+{ANSWERS}
+Sim
+Não 
+
+C17
+{QUESTION}
+Com base em que aspectos é que o grupo a que pertence é discriminado? E com base em mais algum aspecto?
+
+{ANSWERS}
+Cor ou raça
+Nacionalidade 
+Religião 
+Língua 
+Grupo étnico 
+Idade 
+Sexo 
+Sexualidade 
+Deficiência 
+Outra 
+
+C18
+{QUESTION}
+É cidadão luxemburguês ?
+
+{ANSWERS}
+Sim
+Não 
+
+C19
+{QUESTION}
+Qual é a sua nacionalidade?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Nasceu no Luxemburgo ?
+
+{ANSWERS}
+Sim
+Não 
+
+C21
+{QUESTION}
+Em que país nasceu?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Há quanto tempo veio viver para o Luxemburgo ?
+
+{ANSWERS}
+No último ano
+Há 1-5 anos
+Há 6-10 anos
+Há 11-20 anos
+Há mais de 20 anos
+
+C23
+{QUESTION}
+Em que língua ou línguas fala habitualmente em casa ?
+
+{ANSWERS}
+Indicar o máximo de duas línguas
+
+C24
+{QUESTION}
+Pertence a uma minoria étnica ?
+
+{ANSWERS}
+Sim
+Não 
+
+C25
+{QUESTION}
+O seu pai nasceu no Luxemburgo ?
+
+{ANSWERS}
+Sim
+Não 
+
+C26
+{QUESTION}
+Em que país nasceu o seu pai ?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+A sua mãe nasceu no Luxemburgo?
+
+{ANSWERS}
+Sim
+Não 
+
+C28
+{QUESTION}
+Em que país nasceu a sua mãe?
+
+{ANSWERS}
+
+{INTRO}
+Gostaria agora de lhe perguntar alguns pormenores sobre si e o seu agregado.
+
+F1
+{QUESTION}
+Incluindo-o a si e aos seus filhos – quantas pessoas residem aqui de forma regular como membros do seu agregado ?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Ano de nascimento
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Laço familiar
+
+{ANSWERS}
+Marido/mulher/companheiro(a) 
+Filho/filha (inc luindo enteados/ adoptados, filhos do companheiro(a))
+Pai-Mãe/Sogro-Sogra/Pessoas que o criaram/Pais do companheiro(a)
+Irmão/Irmã de sangue, ou adoptivo, ou com quem foram criados
+Outros familiares 
+Outros não-familiares 
+
+F5
+{QUESTION}
+Qual a frase que melhor descreve o sítio onde vive?
+
+{ANSWERS}
+Cidade do Luxemburgo
+Arredores ou periferia da cidade do Luxemburgo
+Uma outra cidade
+Uma aldeia 
+Uma quinta ou uma casa no campo
+
+F5a
+{QUESTION}
+Alguém deste agregado é propriétário desta casa ?
+
+{ANSWERS}
+Sim 
+Não
+
+F5b
+{QUESTION}
+Quantos quartos dessa casa são usados pela família , excluindo-se a cozinha e casas de banho ?
+
+{ANSWERS}
+
+F6
+{QUESTION}
+Quail é o grau de escolaridade mais elevado que completou ?
+
+{ANSWERS}
+Sem diploma/qualificações 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire 
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique)
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires 
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2 
+Enseignement supérieur - BAC +3 
+Enseignement supérieur - BAC +4 
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat
+Outro
+
+F6a
+{QUESTION}
+Em qual-só um- destes campos está o grau mais elevado de escolaridade que completou ?
+
+{ANSWERS}
+Generalista ou sem domínio específico 
+Belas Artes ou Artes Aplicadas 
+Humanísticas-Línguas clássicas, História, Teologia, etc 
+Superior Técnico, e Engenharia , incluindo Arquitectura e Planeamento Urbano, Indústria, Construção civil, etc
+Agronomia e Ciências Florestais 
+Formação ou Ensino
+Ciências, Matemáticas, Informática, etc 
+Medicina, Técnicas de Saúde, Enfermagem, etc. 
+Economia, Comércio, Gestão, Contabilidade, etc. 
+Ciências Sociais e Comportamentais , Administração Pública, Comunicação Social, Cultura, Estudos do Desporto e do lazer, etc. 
+Justiça e Serviços Legais 
+Serviços ao Público , Catering, Assistência Doméstica, Cabeleireiro, etc. 
+Ordem Pública e Segurança – Polícia, Forças Armadas, Bombeiros, etc
+Transportes e Telecomunicações 
+
+F7
+{QUESTION}
+Quantos anos completos de escolaridade completou ?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Quais das seguintes situações se aplicam melhor ao que fez nos últimos 7 dias? Mais alguma?
+
+{ANSWERS}
+A fazer trabalho remunerado (ou temporariamente ausente), (por conta de outrém, conta própria, no negócio da família)
+A estudar mesmo se de férias (sem ser remunerado) 
+Desempregado à procura de emprego 
+Desempregado, à espera de emprego, mas não à procura de emprego 
+Em situação de doença ou incapacidade/invalidez permanente 
+Na reforma 
+A fazer serviço cívico ou militar 
+A fazer tarefas domésticas, a cuidar de crianças ou de outras pessoas (sem ser remunerado)
+(Outra)
+
+F8c
+{QUESTION}
+E qual das seguintes descrições melhor define a sua situação (nos últimos 7 dias)? assinalar só uma 
+
+{ANSWERS}
+A fazer trabalho remunerado (ou temporariamente ausente), (por conta de outrém, conta própria, no negócio da família)
+A estudar mesmo se de férias (sem ser remunerado) 
+Desempregado à procura de emprego 
+Desempregado, à espera de emprego, mas não à procura de emprego 
+Em situação de doença ou incapacidade/invalidez permanente 
+Na reforma 
+A fazer serviço cívico ou militar 
+A fazer tarefas domésticas, a cuidar de crianças ou de outras pessoas (sem ser remunerado)
+(Outra)
+
+F9
+{QUESTION}
+Só para confirmar, realizou algum trabalho remunerado (de uma hora ou mais) nos últimos 7 dias?
+
+{ANSWERS}
+Sim 
+Não 
+
+F10
+{QUESTION}
+Alguma vez teve um trabalho remunerado?
+
+{ANSWERS}
+Sim 
+Não 
+
+F11
+{QUESTION}
+Em que ano teve o seu último trabalho remunerado?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Na sua profissão principal é …
+
+{ANSWERS}
+Trabalhador por conta de outrém
+trabalhador por conta própria 
+Trabalhador no negócio da família 
+
+F13
+{QUESTION}
+Quantos empregados tem?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+O seu contrato é
+
+{ANSWERS}
+um contrato de duração ilimitada (efectivo) 
+um contrato de duração limitada (temporário) 
+Sem contrato 
+
+F15
+{QUESTION}
+Contando consigo, aproximadamente quantas pessoas trabalham no seu local de trabalho?
+
+{ANSWERS}
+menos de 10
+10 a 24 
+25 a 99 
+100 a 499 
+500 ou mais 
+
+F16
+{QUESTION}
+No seu trabalho principal tem/teve alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim 
+Não
+
+F17
+{QUESTION}
+É responsável pelo trabalho de quantas pessoas?
+
+{ANSWERS}
+
+{INTRO}
+Para cada um dos seguintes aspectos do seu dia-a-dia no trabalho. Diga por favor, numa escala de 0 a 10, em que medida pode ou não influenciar:
+
+F18
+{QUESTION}
+… a organização do seu dia-a-dia de trabalho
+
+{ANSWERS}
+0 Não tem influencia nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tem controlo total
+
+F19 
+{QUESTION}
+… as decisões estratégicas sobre as actividades da organização
+
+{ANSWERS}
+0 Não tem influencia nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tem controlo total
+
+F19a
+{QUESTION}
+… ou mudar o seu ritmo de trabalho
+
+{ANSWERS}
+0 Não tem influencia nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tem controlo total
+
+F20
+{QUESTION}
+Qual é o número base de horas contratadas por semana (no seu trabalho principal), sem contar com horas extraordinárias remuneradas ou não remuneradas?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+E, independentemente das horas contratadas, quantas horas trabalha em média por semana no seu trabalho principal? Inclua horas extraordinárias remuneradas e não remuneradas
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Qual é a designação da sua profissão principal?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Na sua profissão principal o que é que faz na maior parte do tempo?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Que formação ou qualificações são necessárias para o exercício da sua profissão?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Qual é a actividade principal da empresa/ organização em que trabalha?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Nos últimos 10 anos, fez algum trabalho remunerado noutro país por um período de 6 meses ou mais ?
+
+{ANSWERS}
+Sim 
+Não
+
+F27
+{QUESTION}
+Alguma vez esteve desempregado e à procura de trabalho por um período superior a três meses?
+
+{ANSWERS}
+Sim 
+Não
+
+F28
+{QUESTION}
+Algum desses períodos durou 12 meses ou mais?
+
+{ANSWERS}
+Sim 
+Não
+
+F29
+{QUESTION}
+Algum desses períodos ocorreu nos últimos 5 anos?
+
+{ANSWERS}
+Sim 
+Não
+
+F30
+{QUESTION}
+É, ou alguma vez foi, membro de um sindicato ou de uma associação profissional? SE SIM, actualmente ou no passado?
+
+{ANSWERS}
+Sim, actualmente 
+Sim, no passado 
+Não
+
+F31
+{QUESTION}
+Considere o rendimento de todas as pessoas do seu agregado familiar e todo o rendimento que possam receber em conjunto. Qual é a fonte principal de rendimento no seu agregado familiar?
+
+{ANSWERS}
+Salários e vencimentos do trabalho 
+Rendimento de trabalho por conta-própria (excluindo trabalho agrícola) 
+Rendimento de trabalho agrícola 
+Pensões 
+Subsídio de desemprego 
+Outros subsídios ou benefícios sociais/rendimento mínimo 
+Rendimentos de investimentos, poupanças, seguros ou propriedades 
+Rendimentos de outras fontes
+
+F32A
+{QUESTION}
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido total do seu agregado familiar? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por mês ou por ano.
+
+{ANSWERS}
+Mensal (valores aproximados)
+J menos de 149 €
+R entre 150 € e 299 €
+C entre 300 € e 499 €
+M entre 500 € e 999 €
+F entre 1000 € e 1499 €
+S entre 1500 € e 1999 €
+K entre 2000 € e 2499 €
+P entre 2500 € e 2999 €
+D entre 3000 € e 4999 €
+H entre 5000 € e 7499 €
+U entre 7500 € e 9999 €
+N 10000 € e superior
+
+F32B
+{QUESTION}
+Se somar o rendimento de todas as fontes, qual é a letra que melhor descreve o rendimento líquido total do seu agregado familiar? Se não souber o número exacto, por favor, dê um valor aproximado. Refira-se ao período que conhece melhor: por mês ou por ano.
+
+{ANSWERS}
+Anual (valores aproximados)
+J menos de 1799 €
+R entre 1800 € e 3599 €
+C entre 3600 € e 5999 €
+M entre 6000 € e 11999 €
+F Entre 12000 € e 17999 €
+S Entre 18000 € e 23999 €
+K Entre 24000 € e 29999 €
+P Entre 30000 € e 35999 €
+D Entre 36000 € e 59999 €
+H Entre 60000 € e 89999 €
+U entre 90000 € e 119999 €
+N 120000 € e superior
+
+F32a
+{QUESTION}
+qual é a proporção do rendimento com que contribui para o rendimento do seu agregado ?
+
+{ANSWERS}
+Nenhuma 
+Muito pequena 
+Menos de metade
+Cerca de metade 
+Acima de metade
+Muito grande 
+A totalidade 
+
+F33
+{QUESTION}
+Qual das seguintes descrições se aproxima mais do que sente relativamente ao rendimento actual do seu agregado familiar?
+
+{ANSWERS}
+O rendimento actual permite viver confortavelmente 
+O rendimento actual dá para viver 
+É difícil viver com o rendimento actual
+É muito difícil viver com o rendimento actual
+
+F34
+{QUESTION}
+Se, por alguma razão, tivesse dificuldades financeiras graves e tivesse que pedir dinheiro emprestado para conseguir viver, acha que isso seria ?
+
+{ANSWERS}
+Muito difícil
+Difícil 
+Nem fácil nem difícil
+Fácil
+Muito fácil 
+
+
+F36
+{QUESTION}
+Qual o grau de escolaridade mais elevado que o seu cônjuge completou? Se nenhuma das descrições apresentadas no cartão corresponder ao caso do seu cônjuge, por favor, descreva pormenorizadamente o nível  de escolaridade atingido.
+
+{ANSWERS}
+Sem diploma/qualificações
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Outro 
+
+F37a
+{QUESTION}
+Quais das seguintes situações se aplicam ao que o seu cônjuge fez nos últimos 7 dias? Mais alguma? APROFUNDAR até que o entrevistado diga mais nenhuma. 
+
+{ANSWERS}
+A fazer trabalho remunerado (ou temporariamente ausente), (por conta de outrém, conta própria, no negócio da família)
+A estudar mesmo se de férias (sem ser remunerado) 
+desempregado à procura de emprego 
+desempregado, à espera de emprego, mas não à procura de emprego 
+Em situação de doença ou incapacidade/invalidez permanente 
+Na reforma 
+A fazer serviço cívico ou militar 
+A fazer tarefas domésticas, a cuidar de crianças ou de outras pessoas 
+(Outra)
+
+F37c
+{QUESTION}
+E qual das seguintes descrições melhor define a situação do seu cônjuge (nos últimos 7 dias).
+
+{ANSWERS}
+A fazer trabalho remunerado (ou temporariamente ausente), (por conta de outrém, conta própria, no negócio da família)
+a estudar mesmo se de férias (sem ser remunerado) 
+desempregado à procura de emprego 
+desempregado, à espera de emprego, mas não à procura de emprego 
+Em situação de doença ou incapacidade/invalidez permanente 
+Na reforma 
+A fazer serviço cívico ou militar 
+A fazer tarefas domésticas, a cuidar de crianças ou de outras pessoas 
+Outra
+
+F38
+{QUESTION}
+Só para confirmar, o seu cônjuge realizou algum trabalho remunerado (de uma hora ou mais) nos últimos 7 dias?
+
+{ANSWERS}
+Sim
+Não 
+
+F39
+{QUESTION}
+Qual é a designação da profissão principal do seu cônjuge ?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+A sua profissão principal :o que é que o seu cônjuge faz a maior parte do tempo?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Que formação ou qualificações são necessárias para o exercício da profissão do seu cônjuge
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Na sua profissão principal o seu cônjuge é…
+
+{ANSWERS}
+trabalhador por conta de outrém
+trabalhador por conta própria 
+trabalhador no negócio da família 
+
+F43
+{QUESTION}
+Quantos empregados tem?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+No seu trabalho principal, o seu cônjuge tem alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim
+Não
+
+F45
+{QUESTION}
+É responsável pelo trabalho de quantas pessoas?
+
+{INTRO}
+Eu vou ler-lhe alto uma lista de coisas sobre a vida activa de seucompanheiro. Por favor diga-me até que ponto a gestão nesse emprego lhe permite
+
+F46
+{QUESTION}
+… decidir/ organizar o seu dia-a-dia de trabalho .
+
+{ANSWERS}
+0 Não tem nenhuma capacidade de influência
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tem total controlo
+
+F47 
+{QUESTION}
+… influenciar as decisões estratégicas sobre as actividades da organização
+
+{ANSWERS}
+0 Não tem nenhuma capacidade de influência
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tem total controlo
+
+F48
+{QUESTION}
+Quantas horas é que o seu cônjuge trabalha em média por semana no seu trabalho principal? Inclua horas extraordinárias remuneradas e não remuneradas.
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Qual o grau de escolaridade mais elevado que o seu pai completou?
+
+{ANSWERS}
+Sem diploma/qualificações
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Outro
+
+F50
+{QUESTION}
+Quando o sr tinha 14 anos o seu pai tinha um trabalho remunerado, era trabalhador por conta própria ou não se encontrava a trabalhar?
+
+{ANSWERS}
+Trabalhador por conta de outrém
+Trabalhador por conta própria 
+Não estava a trabalhar
+(O pai tinha falecido/estava ausente quando o inquirido tinha 14 anos)
+
+F51
+{QUESTION}
+Quantos empregados tinha ele ?
+
+{ANSWERS}
+Nenhum
+1 a 24
+25 ou mais 
+
+F52
+{QUESTION}
+No seu trabalho principal, o seu pai tinha alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim 
+Não 
+
+F53
+{QUESTION}
+Qual era a designação da profissão principal do seu pai?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Qual das seguintes descrições corresponde melhor ao tipo de trabalho que o seu pai tinha quando o sr tinha 14 anos?
+
+{ANSWERS}
+Ocupações profissionais tradicionais. Tais como: contabilista-advogado-médico-cientista-engenheiro civil/mecânico
+Ocupações profissionais modernas. Tais como: professor-enfermeiro- fisioterapeuta-assistente social-trabalhador da Segurança Social-artista-músico-oficial de polícia (sargento ou superior)-criador de software
+Ocupações administrativas e intermédias. Tais como: secretário-adjunto-trabalhador administrativo-escriturário- técnico de acolhimento telefónico-auxiliar de enfermagem-educador infantil
+Gestão de topo ou administração. (geralmente responsáveis pelo planeamento, organização e coordenação do trabalho e das finanças)Tais como : gestor financeiro/gestor administrativo
+Ocupações técnicas e artesanais. Tais como: mecânico- inspector-canalizador-tipógrafo-serralheiro-electricista-agricultorjardineiro- maquinista
+Ocupações em serviços e trabalhos semi – especializados Tais como: trabalhador dos correios-operador de máquinas –segurança- vigilantetrabalhador agrícola- recepcionista -assistente de vendas
+Ocupações em serviços e trabalhos não especializados. Tais como: camionista TIR-camionista- carregador-empregado de limpeza – embaladoroperário- empregado de mesa-empregado de balcão
+Gestão de base e intermédia. Tais como: gestor de escritório- gestor de loja-gestor bancário- gestor agrícola- gestor de restaurante- gestor de um bar
+
+F55
+{QUESTION}
+Qual o grau de escolaridade mais elevado que a sua mãe completou?
+
+{ANSWERS}
+Sem diploma/qualificações 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire 
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique)
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires 
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2 
+Enseignement supérieur - BAC +3 
+Enseignement supérieur - BAC +4 
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat
+Outro
+
+F56
+{QUESTION}
+Quando o sr tinha 14 anos a sua mãe tinha um trabalho remunerado, era trabalhadora por conta própria ou não estava a trabalhar?
+
+{ANSWERS}
+Trabalhadora por conta de outrém 
+Trabalhadora por conta própria 
+Não estava a trabalhar 
+(Mãe tinha falecido/estava ausente quando o inquirido tinha 14 anos) 
+
+F57
+{QUESTION}
+Quantos empregados tinha?
+
+{ANSWERS}
+Nenhum
+1 a 24
+25 ou mais 
+
+F58
+{QUESTION}
+No seu trabalho principal, a sua mãe tinha alguma responsabilidade de supervisão do trabalho de outras pessoas?
+
+{ANSWERS}
+Sim
+Não
+
+F59
+{QUESTION}
+Qual era a designação da profissão principal da sua mãe?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Qual das seguintes descrições corresponde melhor ao tipo de trabalho que a sua mãe tinha quando o sr tinha 14 anos?
+
+{ANSWERS}
+Ocupações profissionais tradicionais. Tais como: contabilista- advogada -médica –cientista-engenheira civil/mecânica
+Ocupações profissionais modernas. Tais como: professora-enfermeira–fisioterapeuta- assistente social-trabalhadora da Segurança Social- artista–música-oficial de polícia (sargento ou superior) -criadora de software
+Ocupações administrativas e intermédias. Tais como: secretária- adjunta-trabalhadora administrativa-escriturária - técnica de acolhimento telefónico - auxiliar de enfermagem-educadora infantil
+Gestão de topo ou administração. (geralmente responsáveis pelo planeamento, organização e coordenação do trabalho e das finanças) Tais como : gestora financeira/gestora administrativa
+Ocupações técnicas e artesanais. Tais como: mecânica- inspectora-canalizadora-tipógrafa-serralheira-electricistaagricultora- jardineira-maquinista
+Ocupações em serviços e trabalhos semi – especializados Tais como: trabalhadora dos correios -operadora de máquinas- segurança - vigilante – trabalhadora agrícola -recepcionista -assistente de vendas
+Ocupações em serviços e trabalhos não especializados. Tais como: camionista TIR -camionista - carregadora - empregada de limpezaembaladora - operária - empregada de mesa - empregada de balcão
+Gestão de base e intermédia. Tais como: gestora de escritório- gestora de loja-gestora bancária-gestora agrícola-gestora de restaurante- gestora de um bar
+
+F61
+{QUESTION}
+Nos últimos 12 meses frequentou algum curso ou assistiu a alguma conferência para aumentar o seu conhecimento e as suas competências no trabalho?
+
+{ANSWERS}
+Sim
+Não
+
+F62
+{QUESTION}
+Diga-me, por favor, qual das seguintes situações se aplica melhor ao seu estado civil legal?
+
+{ANSWERS}
+Casado(a) 
+Separado (a) (mas ainda casado(a)
+Divorciado(a)
+Viúvo(a)
+Solteiro(a) 
+(Recusa) 
+
+F63
+{QUESTION}
+Vive actualmente com o seu cônjuge?
+
+{ANSWERS}
+Sim
+Não
+
+F64
+{QUESTION}
+Vive actualmente com outro companheiro?
+
+{ANSWERS}
+Sim
+Não
+
+F65
+{QUESTION}
+Vive actualmente com algum companheiro?
+
+{ANSWERS}
+Sim
+Não
+
+F66
+{QUESTION}
+Alguma vez viveu com alguém sem ser casado com ele?
+
+{ANSWERS}
+Sim
+Não
+
+F68
+{QUESTION}
+Alguma vez se divorciou?
+
+{ANSWERS}
+Sim
+Não
+
+F70
+{QUESTION}
+Alguma vez teve filhos seus, enteados, ou crianças criadas por si a viver consigo?
+
+{ANSWERS}
+Sim
+Não
+
+F70a
+{QUESTION}
+A sua mãe ainda é viva ?
+
+{ANSWERS}
+Sim
+Não
+
+F70b
+{QUESTION}
+O seu pai ainda é vivo ?
+
+{ANSWERS}
+Sim
+Não
+
+

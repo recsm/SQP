@@ -1,0 +1,1815 @@
+A1
+{QUESTION}
+Durant un jour ouvrable (du lundi au vendredi), combien de temps au total passez-vous devant la télévision?
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A2
+{QUESTION}
+Toujours durant un jour ouvrable de la semaine, combien de ce temps regardez-vous les
+informations ou des programmes de politique et d’actualités?
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A3
+{QUESTION}
+Durant un jour ouvrable de la semaine, combien de temps au total écoutez-vous la radio?
+
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A4
+{QUESTION}
+Toujours durant un jour ouvrable de la semaine, combien de ce temps indiqué ci-dessus écoutez-vous les informations ou les programmes de politique et d’actualités?
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A5
+{QUESTION}
+Durant un jour ouvrable de la semaine, combien de temps au total passez-vous à lire les journaux?
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A6
+{QUESTION}
+Et combien de ce temps passez-vous à lire des articles concernant la politique et les actualités?
+
+{ANSWERS}
+Pas de temps du tout 
+Moins d'une ½ heure
+Entre une ½ heure et 1 heure
+Entre 1 heure et 1 heure ½ 
+Entre 1 heure ½ et 2 heures
+Entre 2 heures et 2 heures ½
+Entre 2 heures ½ et 3 heures
+Plus de trois heures
+
+A7
+{QUESTION}
+Que ce soit à la maison ou au travail, précisez la régularité avec laquelle vous utilisez l'Internet, le world wide web ou l’email, à des fins personnelles?
+
+{ANSWERS}
+Aucun accès ni à la maison, ni au travail
+Je ne l'utilise jamais
+Moins d'une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Tous les jours
+
+A8
+{QUESTION}
+D’après vous, peut-on faire confiance à la majorité des gens, ou faut-il plutôt s’en méfier? Utilisez une échelle de 0 à 10, pour indiquer votre confiance dans la majorité des gens (10), ou votre méfiance (0).
+
+{ANSWERS}
+0 Il faut se méfier de la majorité des gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On peut avoir confiance dans la majorité des gens
+
+A9
+{QUESTION}
+Pensez-vous que, s'ils en avaient la possibilité, la majorité des gens abuseraient de votre bonne volonté ou bien vous traiteraient correctement?
+
+{ANSWERS}
+0 La majorité des gens abuseraient de ma bonne volonté
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 La majorité des gens essayeraient d'être corrects
+
+A10
+{QUESTION}
+De manière générale, diriez-vous que les gens sont disposés à aider autrui, ou plutôt qu’ils ne sont intéressés qu’à leurs propres affaires ?
+
+{ANSWERS}
+0 Les gens dans leur majorité sont égoïstes
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 La majorité des gens essaye d’aider autrui
+
+{INTRO}
+Maintenant nous voudrions vous poser quelques questions touchant à la politique et au gouvernement.
+
+B1
+{QUESTION}
+Indiquez votre intérêt dans les affaires politiques. Etes-vous…
+
+{ANSWERS}
+Très intéressé
+Assez intéressé
+Peu intéressé
+Pas du tout intéressé
+
+B2
+{QUESTION}
+Vous arrive-t-il de trouver les affaires politiques trop compliquées pour réellement les comprendre:
+
+{ANSWERS}
+Jamais
+Rarement
+Occasionnellement
+Régulièrement
+Souvent
+
+B3
+{QUESTION}
+Trouvez-vous que se former des opinions en matière de politique est:
+
+{ANSWERS}
+Très difficile
+Difficile
+Ni difficile ni facile
+Facile
+Très facile
+
+B4
+{QUESTION}
+Indiquez, sur une échelle de 0 à 10, quelle confiance vous avez personnellement dans les institutions que je vais vous citer. (0 signifie aucune confiance dans l'institution, et 10 équivaut à une confiance complète). La Chambre des Députés
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B5 
+{QUESTION}
+Le justice
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B6 
+{QUESTION}
+La police
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B7 
+{QUESTION}
+Les hommes/femmes politiques
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B8 
+{QUESTION}
+… Les partis politiques
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B9
+{QUESTION}
+Le Parlement Européen
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B10
+{QUESTION}
+L’Organisation des Nations Unies
+
+{ANSWERS}
+0 Aucune confiance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Confiance totale
+
+B11
+{INTRO}
+Pour l’une ou l’autre raison, certaines personnes ne votent plus de nos jours. 
+
+{QUESTION}
+Est-ce que vous avez voté lors des dernières élections nationales au Luxembourg en juin 1999 ?
+
+{ANSWERS}
+Oui
+Non
+Je n’ai pas le droit de vote
+
+B12
+{QUESTION}
+Pour quel parti avez-vous voté lors de cette élection nationale?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS)
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD)
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale
+Autres partis. Lequel?
+
+{INTRO}
+Il y a différents moyens pour essayer d’améliorer l’état de la situation du pays ou pour essayer de faire en sorte que cet état ne s’aggrave. 
+
+B13
+{QUESTION}
+Pendant les 12 mois précédents, avez-vous entrepris une des actions suivantes ? Contacter un homme politique, un représentant des autorités nationales ou locales
+
+{ANSWERS}
+Oui
+Non
+
+B14
+{QUESTION}
+Travailler dans un parti politique ou dans un groupe d’action
+
+{ANSWERS}
+Oui
+Non
+
+B15
+{QUESTION}
+Travailler dans une autre organisation ou association
+
+{ANSWERS}
+Oui
+Non
+
+B16
+{QUESTION}
+Porter ou afficher un badge/ autocollant avec un message politique
+
+{ANSWERS}
+Oui
+Non
+
+B17
+{QUESTION}
+Signer une pétition
+
+{ANSWERS}
+Oui
+Non
+
+B18
+{QUESTION}
+Participer à une manifestation publique légale
+
+{ANSWERS}
+Oui
+Non
+
+B19
+{QUESTION}
+Boycotter certains produits
+
+{ANSWERS}
+Oui
+Non
+
+B20a
+{QUESTION}
+Y a-t-il un parti politique dont vous vous sentez le plus proche?
+
+{ANSWERS}
+Oui
+Non
+
+B20b
+{QUESTION}
+Lequel?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS)
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD)
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale
+Autres partis. Lequel?
+
+B20c
+{QUESTION}
+Comment décririez-vous votre relation avec ce parti, est-elle :
+
+{ANSWERS}
+Très proche
+Assez proche
+Peu proche
+Pas du tout proche
+
+B21
+{QUESTION}
+Etes-vous membre d’un parti politique?
+
+{ANSWERS}
+Oui
+Non
+
+B22
+{QUESTION}
+Duquel?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS)
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD)
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale
+Autres partis. Lequel?
+
+B23
+{INTRO}
+Dans les affaires politiques, on utilise parfois les termes « gauche » et «droite». 
+
+{QUESTION}
+Où vous placeriez-vous sur cette échelle, où 0 représente la gauche et 10 la droite?
+
+{ANSWERS}
+0 Gauche
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Droite
+
+B24
+{QUESTION}
+Globalement, indiquez votre degré de satisfaction en ce qui concerne votre vie d’aujourd’hui? 0 signifie extrêmement mécontent et 10 extrêmement satisfait.
+
+{ANSWERS}
+0 Extrêmement mécontent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement satisfait
+
+B25
+{QUESTION}
+De façon globale, indiquez votre degré de satisfaction en ce qui concerne l’état actuel de l’économie luxembourgeoise ?
+
+{ANSWERS}
+0 Extrêmement mécontent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement satisfait
+
+B26
+{QUESTION}
+En ce qui concerne le travail réalisé par le gouvernement luxembourgeois, indiquez votre degré de satisfaction.
+
+{ANSWERS}
+0 Extrêmement mécontent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement satisfait
+
+B27
+{QUESTION}
+Globalement, indiquez votre degré de satisfaction sur la manière dont fonctionne la démocratie au Luxembourg ?
+
+{ANSWERS}
+0 Extrêmement mécontent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement satisfait
+
+
+B28
+{QUESTION}
+Indiquez ce que vous pensez globalement de l’état actuel de l’enseignement au Luxembourg?
+
+{ANSWERS}
+0 Extrêmement mauvais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement bon
+
+B29
+{QUESTION}
+Indiquez ce que vous pensez globalement de l’état actuel du système de santé luxembourgeois?
+
+{ANSWERS}
+0 Extrêmement mauvais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement bon
+
+
+B30 
+{QUESTION}
+Indiquez à quel point vous êtes en accord ou en désaccord avec les constats suivants. Le gouvernement devrait prendre des mesures visant à réduire les différences de revenus
+
+{ANSWERS}
+Tout à fait d’accord
+D’accord
+Ni d’accord ni en désaccord
+Pas d’accord
+Pas du tout d’accord
+
+B31 
+{QUESTION}
+Les homosexuel(les) devraient avoir le droit de vivre leur vie privée comme ils/elles le désirent
+
+{ANSWERS}
+Tout à fait d’accord
+D’accord
+Ni d’accord ni en désaccord
+Pas d’accord
+Pas du tout d’accord
+
+B32 
+{QUESTION}
+Les partis politiques qui visent à renverser la démocratie devraient être interdits
+
+{ANSWERS}
+Tout à fait d’accord
+D’accord
+Ni d’accord ni en désaccord
+Pas d’accord
+Pas du tout d’accord
+
+B33 
+{QUESTION}
+On peut avoir confiance en la science moderne pour résoudre nos problèmes écologiques
+
+{ANSWERS}
+Tout à fait d’accord
+D’accord
+Ni d’accord ni en désaccord
+Pas d’accord
+Pas du tout d’accord
+
+B34
+{QUESTION}
+A propos de l’Union Européenne, certains disent que l’unification européenne devrait aller plus loin. D’autres disent qu’elle est allée trop loin. Quelle proposition décrit le mieux votre opinion ?
+
+{ANSWERS}
+0 L’unification est allée trop loin
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 L’unification devrait aller plus loin
+
+{INTRO}
+Quelques questions maintenant à propos des personnes d’autres pays qui viennent vivre au Luxembourg.
+
+B35
+{QUESTION}
+Dans quelle mesure pensez-vous que le Luxembourg devrait permettre aux ressortissants de pays étrangers ayant la même origine raciale ou ethnique que la majorité luxembourgeoise, de s’installer ici:
+
+{ANSWERS}
+Permettre à beaucoup de s’installer ici 
+Permettre à certains 
+Permettre à quelques-uns
+Ne permettre à aucun
+
+B36
+{QUESTION}
+Et s’il s’agit de gens d’une race ou d'une ethnie différente de la majorité des Luxembourgeois
+
+{ANSWERS}
+Permettre à beaucoup de s’installer ici 
+Permettre à certains 
+Permettre à quelques-uns
+Ne permettre à aucun
+
+B37
+{QUESTION}
+Et au sujet des ressortissants des pays les plus pauvres, non européens?
+
+{ANSWERS}
+Permettre à beaucoup de s’installer ici 
+Permettre à certains 
+Permettre à quelques-uns
+Ne permettre à aucun
+
+B38
+{QUESTION}
+Dans l’ensemble, diriez-vous qu'il est plutôt bénéfique ou néfaste pour l'économie luxembourgeoise que des gens venant d’autres pays s'installent ici?
+
+{ANSWERS}
+0 Néfaste pour l'économie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bénéfique pour l'économie
+
+B39
+{QUESTION}
+Et, pensez-vous, de manière générale, que la vie culturelle du pays est plutôt enrichie ou plutôt appauvrie par les gens venant vivre ici en provenance d’autres pays?
+
+{ANSWERS}
+0 La vie culturelle est appauvrie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 La vie culturelle est enrichie
+
+B40
+{QUESTION}
+La qualité de vie au Luxembourg est-elle améliorée ou diminuée par l’arrivée de gens en provenance d'autres pays qui s’installent ici?
+
+{ANSWERS}
+0 Qualité de vie diminuée
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Qualité de vie améliorée
+
+{INTRO}
+Et maintenant quelques questions sur vous-même et votre vie
+
+C1
+{QUESTION}
+Globalement, à quel point diriez-vous que vous êtes satisfait de votre vie?
+
+{ANSWERS}
+0 Tout à fait insatisfait
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement satisfait
+
+C2
+{QUESTION}
+Combien de fois, rencontrez-vous de façon spontanée, des amis, des membres de la famille ou des collègues de travail? (en dehors du travail)
+
+{ANSWERS}
+Jamais
+Moins d’une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Tous les jours
+
+C3
+{QUESTION}
+Avez-vous quelqu'un avec qui vous pouvez discuter d’affaires personnelles ou intimes?
+
+{ANSWERS}
+Oui
+Non
+
+C4
+{QUESTION}
+En vous comparant à d’autres personnes de votre âge, diriez-vous que vous participez à des activités sociales.
+
+{ANSWERS}
+Beaucoup moins que la majorité
+Moins que la majorité
+Plus ou moins comme la moyenne
+Plus que la majorité
+Beaucoup plus que la majorité
+
+C5
+{QUESTION}
+Avez-vous vous-même, ou un membre de votre foyer, été la victime d’un cambriolage ou d’une agression dans les cinq dernières années?
+
+{ANSWERS}
+Oui
+Non
+
+C6
+{QUESTION}
+En marchant seul le soir dans votre voisinage, à quel point vous sentez-vous en sécurité ? Est-ce que vous vous sentez – ou vous vous sentiriez…
+
+{ANSWERS}
+Très en sécurité
+En sécurité
+Pas en sécurité
+Pas du tout en sécurité
+
+C7
+{QUESTION}
+En général, comment est votre santé? Diriez-vous qu’elle est…
+
+{ANSWERS}
+Très bonne
+Bonne
+Normale
+Mauvaise
+Très mauvaise
+
+C8
+{QUESTION}
+Etes-vous limité dans vos activités quotidiennes par une maladie de longue durée, un handicap, une infirmité, ou un problème de santé mentale?
+
+{ANSWERS}
+Oui beaucoup
+Oui jusqu'à un certain degré
+Non
+
+C9
+{QUESTION}
+Vous considérez-vous comme appartenant à une religion ou à une communauté religieuse définie?
+
+{ANSWERS}
+Oui
+Non
+
+C10 
+{QUESTION}
+Laquelle?
+
+{ANSWERS}
+Chrétien, sans dénomination
+Catholique Romain
+Orthodoxe Grec ou Russe
+Autre Orthodoxe Oriental 
+Protestant (sans spécification ultérieure)
+Autre Protestant 
+Autre Chrétien 
+Hindou
+Sikh
+Bouddhiste
+Autres religions de l’Est 
+Juif
+Islamique/Musulman
+Autre non Chrétien 
+
+C11
+{QUESTION}
+Vous êtes-vous déjà considéré comme appartenant à une religion ou à une communauté religieuse particulière?
+
+{ANSWERS}
+Oui
+Non
+
+C12 
+{QUESTION}
+Laquelle?
+
+{ANSWERS}
+Chrétien, sans dénomination
+Catholique Romain
+Orthodoxe Grec ou Russe
+Autre Orthodoxe Oriental 
+Protestant (sans spécification ultérieure
+Autre Protestant 
+Autre Chrétien 
+Hindou
+Sikh
+Bouddhiste
+Autres religions de l’Est 
+Juif
+Islamique/Musulman
+Autre non Chrétien 
+
+C13
+{QUESTION}
+Indépendamment de votre appartenance à une religion particulière, à quel point vous estimez-vous religieux ?
+
+{ANSWERS}
+0 Pas du tout religieux
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très religieux
+
+C14
+{QUESTION}
+En dehors des occasions religieuses, telles les mariages et les enterrements, avec quelle régularité assistez-vous, actuellement, à des services religieux?
+
+{ANSWERS}
+Tous les jours
+Plus d’une fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement lors des fêtes religieuses
+Moins souvent
+Jamais
+
+C15
+
+{QUESTION}
+En dehors des services religieux, avec quelle régularité priez-vous ?
+
+{ANSWERS}
+Tous les jours
+Plus d’une fois par semaine
+Une fois par semaine
+Au moins une fois par mois
+Seulement lors des fêtes religieuses
+Moins souvent
+Jamais 
+
+C16
+{QUESTION}
+Vous décririez-vous comme appartenant à un groupe qui souffre de discrimination, au Luxembourg?
+
+{ANSWERS}
+Oui
+Non
+
+C17
+{QUESTION}
+Si oui, pour quelles raisons votre groupe souffre-t-il de discrimination ?
+
+{ANSWERS}
+Couleur de peau ou race
+Nationalité
+Religion
+Langue
+Groupe ethnique
+Age
+Sexe
+Préférence Sexuelle
+Handicap
+Autre 
+
+C18
+{QUESTION}
+Etes-vous citoyen luxembourgeois?
+
+{ANSWERS}
+Oui
+Non
+
+C19
+{QUESTION}
+Quelle nationalité avez-vous?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Etes-vous né au Luxembourg?
+
+{ANSWERS}
+Oui
+Non
+
+C21
+{QUESTION}
+Dans quel pays êtes-vous né?
+
+C22
+{QUESTION}
+Depuis quand êtes-vous arrivé pour la première fois au Luxembourg, pour y vivre ?
+
+{ANSWERS}
+Durant l’année passée
+Cela fait 1 à 5 ans
+Cela fait 6 à 10 ans
+Cela fait 11 à 20 ans
+Il y a plus de 20 ans
+
+C23
+{QUESTION}
+Quelle langue utilisez-vous le plus souvent à la maison?
+
+{ANSWERS}
+Précisez jusqu’à 2 langues
+
+C24
+{QUESTION}
+Est-ce que vous appartenez à un groupe minoritaire au Luxembourg?
+
+{ANSWERS}
+Oui
+Non
+
+C25
+{QUESTION}
+Votre père est-il né au Luxembourg?
+
+{ANSWERS}
+Oui
+Non
+
+C26
+{QUESTION}
+Dans quel pays est né votre père ?
+
+{ANSWERS}
+
+
+C27
+{QUESTION}
+Votre mère est-elle née au Luxembourg?
+
+{ANSWERS}
+Oui
+Non
+
+C28
+{QUESTION}
+Dans quel pays est née votre mère ?
+
+{ANSWERS}
+
+
+{INTRO}
+Les questions suivantes concernent vous-même et d'autres membres de votre ménage.
+
+F1
+{QUESTION}
+Y compris vous-même – et vos enfants – combien de personnes vivent ici de façon régulière comme membres de votre ménage?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Année de naissance
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+Relation avec le répondant
+
+{ANSWERS}
+Mari/femme/partenaire
+Fils/fille (Y compris les enfants adoptés, et les enfants du partenaire)
+Parent, beau-parent, parent du partenaire, parent d'adoption
+Autre relation familiale
+autre relation non familiale
+
+F5
+{QUESTION}
+Quelle phrase, sur cette carte, décrit le mieux le quartier dans lequel vous vivez?
+
+{ANSWERS}
+Luxembourg-Ville 
+Une banlieue ou périphérie de la ville de Luxembourg 
+Une autre ville 
+Un village 
+Une ferme ou une résidence dans la campagne 
+
+F5a
+{QUESTION}
+Vous-même, ou l’un des membres du ménage, est-il propriétaire de ce logement ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F5b
+{QUESTION}
+Combien de pièces compte ce logement hormis la cuisine, la salle de bains les toilettes ?
+
+F6
+{QUESTION}
+Quel est le niveau éducatif le plus élevé que vous avez obtenu?
+
+{ANSWERS}
+Pas de diplôme/qualifications
+Ecole primaire
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique)
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat
+Autre: 
+
+F6a
+{QUESTION}
+Dans lequel de ces domaines avez-vous obtenu la qualification la plus élevée ?
+
+{ANSWERS}
+Qualifications générales ou pas de domaine particulier
+Arts, Arts appliqués 
+Langues et littératures, lettres classiques, histoire, théologie etc
+Technologie et Ingénierie, y inclus Architecture, Urbanisme, Industrie, Artisanat, Bâtiment, etc. 
+Agriculture, Sylviculture
+Enseignement, éducation 
+Sciences, mathématiques, informatique etc 
+Médecine, Sanitaires et sociales, etc
+Economie, Commerce, Management, Comptabilité, etc. 
+Sciences humaines et sociales, administration publique, Media, Culture, Sport et Loisirs, etc
+Droit 
+Services aux particuliers – restauration, travaux ménagers, coiffure, etc
+Sécurité et ordre public – Police, Armée, pompiers, etc
+Transports et Télécommunication
+
+F7
+{QUESTION}
+Combien d'années d'éducation à plein-temps avez-vous suivies?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Laquelle des descriptions suivantes correspond à ce que vous avez fait dans les 7 derniers jours ? Plusieurs réponses possibles
+
+{ANSWERS}
+Exerçant un travail rémunéré (ou interruption temporaire)  (salarié, indépendant, travaillant pour l’entreprise familiale)
+En formation, même si en vacances (pas payé par l’employeur)
+Au chômage et à la recherche active d’un travail
+Au chômage, désirant un travail, mais pas à la recherche active
+Handicapé ou malade permanent
+Retraité
+Dans un service collectif ou militaire
+Faisant du travail ménager, s’occupant des enfants ou autres personnes
+Autre
+
+F8c
+{QUESTION}
+Laquelle des descriptions décrit le mieux votre situation pendant les 7 derniers jours (une seule réponse possible)
+
+{ANSWERS}
+Exerçant un travail rémunéré (ou interruption temporaire) (salarié, indépendant, travaillant pour l’entreprise familiale)
+En formation, même si en vacances (pas payé par l’employeur) 
+Au chômage et à la recherche active d’un travail 
+Au chômage, désirant un travail, mais pas à la recherche active 
+Handicapé ou malade permanent 
+Retraité 
+Dans un service collectif ou militaire 
+Faisant du travail ménager, s’occupant des enfants ou autres personnes 
+(Autre) 
+
+F9
+{QUESTION}
+Avez-vous exercé un quelconque travail rémunéré (d’une heure ou plus) pendant les 7 derniers jours ?
+
+{ANSWERS}
+Oui
+Non
+
+F10
+{QUESTION}
+Avez-vous déjà exercé un travail rémunéré?
+
+{ANSWERS}
+Oui
+Non
+
+F11
+{QUESTION}
+En quelle année avez-vous effectué votre dernier travail rémunéré ?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Dans votre emploi principal êtes-vous ….
+
+{ANSWERS}
+Salarié
+Indépendant
+Actif pour votre entreprise familiale
+
+F13
+{QUESTION}
+Combien de salariés (si vous en avez) avez-vous ?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Avez-vous un contrat de travail à durée…
+
+{ANSWERS}
+Indéterminée
+Déterminée
+
+F15
+{QUESTION}
+Y compris vous-même, environ combien de personnes sont employées là où vous travaillez travaillé ?
+
+{ANSWERS}
+Moins de 10
+10 à 24
+25 à 99
+100 à 499
+ou 500 et plus
+
+F16
+{QUESTION}
+Dans votre travail principal, avez/aviez-vous des responsabilités pour contrôler le travail d’autres salariés ?
+
+{ANSWERS}
+Oui
+Non
+
+F17
+{QUESTION}
+De combien de personnes êtes-vous responsable ?
+
+{ANSWERS}
+
+{INTRO}
+Je vais vous lire une liste de déclarations relatives à votre vie professionnelle. Dites-moi dans quelle mesure votre employeur vous permet, dans votre emploi,
+
+F18
+{QUESTION}
+…de décider de l’organisation de votre travail personnel quotidien
+
+{ANSWERS}
+0 Je n’ai aucune influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 J’ai un contrôle total
+
+F19 
+{QUESTION}
+…d’influencer la politique générale de l’entreprise
+
+{ANSWERS}
+0 Je n’ai aucune influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 J’ai un contrôle total
+
+F19a
+{QUESTION}
+… de choisir ou de changer votre rythme de travail
+
+{ANSWERS}
+0 Je n’ai aucune influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 J’ai un contrôle total
+
+F20
+{QUESTION}
+Combien d’heures comprend votre contrat de travail par semaine, heures supplémentaires payées ou non payées non comprises ?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Hormis les heures de travail officielles (stipulées dans le contrat), combien d’heures travaillez –vous normalement par semaine (dans votre travail principal), y compris toutes heures supplémentaires payées ou non-payées ?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Quel est le nom ou le titre de votre emploi principal ?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Dans votre emploi principal, quel type de travail faites -vous la plupart du temps ?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Quelle formation ou qualifications sont requises pour ce travail ?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Que fait ou fabrique l’entreprise/ l’organisation pour laquelle vous travaillez principalement ?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Au cours des 10 dernières années, avez-vous exercé un emploi salarié dans un autre pays durant une période de 6 mois ou plus ?
+
+{ANSWERS}
+Oui 
+Non 
+
+
+F27
+{QUESTION}
+Avez-vous déjà été au chômage et/ ou à la recherche d’un emploi pour une période de plus de trois mois ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F28
+{QUESTION}
+Une de ces périodes a-t-elle dépassé les 12 mois ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F29
+{QUESTION}
+Une de ces périodes a-t-elle eu lieu au cours des cinq dernières années ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F30
+{QUESTION}
+Etes-vous ou avez-vous déjà été membre d’un syndicat ou d’une organisation comparable? SI OUI, est-ce en ce moment ou par le passé ?
+
+{ANSWERS}
+Oui, en ce moment
+Oui, auparavant
+Non 
+
+F31
+{QUESTION}
+En prenant en compte tous les revenus du ménage ainsi que tout revenu qui est perçu par le ménage dans son ensemble, quelle est la principale source de revenu de votre ménage ?
+
+{ANSWERS}
+Salaires ou revenus 
+Revenus provenant d’un travail indépendant (excluant l’agriculture) 
+Revenus agricoles
+Pensions
+Allocations de chômage 
+Autres allocations sociales ou bourses 
+Revenus provenant des investissements, de l’épargne, d’une assurance ou de la propriété immobilière 
+Revenus d’autres sources 
+
+F32A
+{QUESTION}
+En faisant la somme de tous les revenus de votre ménage, utilisez cette carte pour
+indiquer la lettre qui décrit le revenu net total de votre foyer. Si vous ne connaissez pas le chiffre
+exact veuillez donner un chiffre arrondi. Utilisez la partie de la carte (mensuel ou annuel) que vous
+connaissez le mieux.
+
+{ANSWERS}
+Mensual (approximativement)
+J moins de 149 €
+R entre 150 € et 299 €
+C entre 300 € et 499 €
+M entre 500 € et 999 €
+F entre 1000 € et 1499 €
+S entre 1500 € et 1999 €
+K entre 2000 € et 2499 €
+P entre 2500 € et 2999 €
+D entre 3000 € et 4999 €
+H entre 5000 € et 7499 €
+U entre 7500 € et 9999 €
+N 10000 € ou plus
+
+F32B
+{QUESTION}
+En faisant la somme de tous les revenus de votre ménage, utilisez cette carte pour indiquer la lettre qui décrit le revenu net total de votre foyer. Si vous ne connaissez pas le chiffre exact veuillez donner un chiffre arrondi. Utilisez la partie de la carte (mensuel ou annuel) que vous connaissez le mieux.
+
+{ANSWERS}
+Annuel (approximativement)
+J moins de 1799 €
+R entre 1800 € et 3599 €
+C entre 3600 € et 5999 €
+M entre 6000 € et 11999 €
+F Entre 12000 € et 17999 €
+S Entre 18000 € et 23999 €
+K Entre 24000 € et 29999 €
+P Entre 30000 € et 35999 €
+D Entre 36000 € et 59999 €
+H Entre 60000 € et 89999 €
+U entre 90000 € et 119999 €
+N 120000 € ou plus
+
+F32a
+{QUESTION}
+Dans quelle proportion contribuez-vous vous-même aux revenus du ménage ?
+
+{ANSWERS}
+Aucune
+Très faible 
+Moins de la moitié 
+Environ la moitié 
+Plus de la moitié 
+Une grande part 
+Tout
+
+F33
+{QUESTION}
+Quelle description s’approche le plus de l’opinion que vous avez du revenu actuel de votre ménage ?
+
+{ANSWERS}
+On a une vie confortable avec le revenu actuel 
+On s’en sort avec le revenu actuel 
+On trouve la vie difficile avec le revenu actuel 
+On trouve la vie très difficile avec le revenu actuel 
+
+F34
+{QUESTION}
+Si vous aviez de sérieux problèmes financiers et si vous étiez obligé d’emprunter de l’argent pour pouvoir vous en sortir, à quel point ceci vous serait-il facile ou difficile ?
+
+{ANSWERS}
+Très difficile 
+Assez difficile 
+Ni difficile ni facile
+Assez facile
+Très facile 
+
+F36
+{QUESTION}
+Quel est le niveau d’éducation le plus élevé atteint par votre mari?
+
+{ANSWERS}
+Pas de diplôme/qualifications
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Autre: 
+
+F37a
+{QUESTION}
+Laquelle des descriptions suivantes s’applique à ce qu’il faisait pendant les 7 derniers jours ? (plusieurs réponses possibles)
+
+{ANSWERS}
+Exerçant un travail rémunéré (interruption temporaire) (salarié, indépendant, travaillant pour l’entreprise familiale)
+En formation, même si en vacances (pas payé par l’employeur) 
+Au chômage et à la recherche active d’un travail 
+Au chômage, désirant un travail, mais pas à la recherche active 
+Handicapé ou malade permanent 
+Retraité 
+Dans un service collectif ou militaire 
+Faisant du travail ménager, s’occupant des enfants ou autres personnes 
+(Autre) 
+
+
+F37c
+{QUESTION}
+Et laquelle de ces descriptions décrit le mieux sa situation dans les 7 derniers jours ? (une seule réponse possible)
+
+{ANSWERS}
+Exerçant un travail rémunéré (interruption temporaire) (salarié, indépendant, travaillant pour l’entreprise familiale)
+En formation, même si en vacances (pas payé par l’employeur) 
+Au chômage et à la recherche active d’un travail 
+Au chômage, désirant un travail, mais pas à la recherche active 
+Handicapé ou malade permanent 
+Retraité 
+Dans un service collectif ou militaire 
+Faisant du travail ménager, s’occupant des enfants ou autres personnes 
+(Autre) 
+
+F38
+{QUESTION}
+A-t-il exercé un travail rémunéré (d’une heure ou plus) pendant les sept derniers jours ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F39
+{QUESTION}
+Quel est le nom ou titre de son travail principal ?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Dans son travail principal, quel type d’activité exerce-t-il la plupart du temps?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Quelle formation ou qualification est requise pour ce travail?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+Dans son emploi principal est-il ….
+
+{ANSWERS}
+Salarié 
+Indépendant 
+Ou, actif pour votre entreprise familiale
+
+F43
+{QUESTION}
+Combien d’employés (si il en a) a-t-il?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Dans son travail principal a-t-il des responsabilités de supervision du travail des autres employés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F45
+{QUESTION}
+De combien de personnes est-t-il responsable ?
+
+{ANSWERS}
+
+{INTRO}
+Je vais vous lire une liste de déclarations relatives à la vie professionnelle de votre époux. Dites-moi dans quelle mesure son employeur lui permet, dans son emploi, ...
+
+F46
+{QUESTION}
+…de décider de l’organisation de son travail personnel quotidien
+
+{ANSWERS}
+0 Il/elle n’a aucune influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Il/elle a un contrôle total
+
+F47 
+{QUESTION}
+…d’influencer la politique générale de l’entreprise
+
+{ANSWERS}
+0 Il/elle n’a aucune influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Il/elle a un contrôle total
+
+F48
+{QUESTION}
+Combien d’heures travaille-t-il normalement par semaine (dans son travail principal), y compris des heures supplémentaires payées ou non payées ?
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Quel est le niveau d’éducation le plus élevé atteint par votre père ?
+
+{ANSWERS}
+Pas de diplôme/qualifications
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Autre: 
+
+F50
+{QUESTION}
+Quand vous aviez 14 ans, votre père travaillait-il comme:
+
+{ANSWERS}
+Salarié 
+Indépendant 
+Il ne travaillait pas 
+(Père mort/absent quand l’interlocuteur avait 14 ans)
+
+F51
+{QUESTION}
+Combien de salariés avait-il ?
+
+{ANSWERS}
+Aucun
+1 à 24 
+25 ou plus
+
+F52
+{QUESTION}
+Avait-il une responsabilité de supervision du travail des autres salariés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F53
+{QUESTION}
+Quel était le nom ou titre de son travail principal ?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Laquelle des descriptions sur cette carte correspond le mieux au travail qu’il faisait quand vous aviez 14 ans ?
+
+{ANSWERS}
+Professions libérales traditionnelles et assimilées Comme: comptable – notaire – médecin – scientifique – ingénieur mécanicien/des travaux publics
+Professions de services specializes Comme : enseignant – infirmier –kinésithérapeute – travailleur social – conseiller en matière d’assistance sociale – artiste – musicien – officier de police ou gendarme (grade de sergent ou supérieur) – concepteur/créateur de logiciels
+Professions intermédiaires et employés de bureau Comme: secrétaire - assistant personnel – employé de bureau – agent d’un centre d’appels – aide infirmier – aide soignant - puériculteur
+Cadres supérieurs et administratifs (Normalement responsables pour la planification, l’organisation et le travail de coordination et pour les finances) Comme : directeur de finances - directeur général
+Professions techniques et artisanales Comme: mécanicien d’automobile – monteur – inspecteur - plombier – imprimeur – outilleur – électricien – jardinier – conducteur de train
+Professions manuelles et de services semi-qualifiés Comme: employé de la poste – opérateur de machine – garde de sécurité – conciergetravailleur agricole – employé travaillant dans la restauration – réceptionniste – vendeur
+Professions manuelles et de services non-qualifiés Comme: camionneur – conducteur de fourgonnette/camionnette – porteur – emballeur -messager – ouvrier – serveur – employé de bar
+Cadres inférieurs et moyens Comme: cadre de bureau - manager de commerce – manager de banque – manager de dépôt – patron de bar
+
+F55
+{QUESTION}
+Quel est le niveau d’éducation le plus élevé atteint par votre mère ?
+
+{ANSWERS}
+Pas de diplôme/qualifications
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Autre: 
+
+F56
+{QUESTION}
+Quand vous aviez 14 ans, votre mère travaillait-elle comme:
+
+{ANSWERS}
+Salariée 
+Indépendante
+Elle ne travaillait pas 
+(Mère morte/absente quand l’interlocuteur avait 14 ans)
+
+F57
+{QUESTION}
+Combien de salariés avait-elle ?
+
+{ANSWERS}
+Aucun 
+1 à 24 
+25 ou plus 
+
+F58
+{QUESTION}
+Avait-elle une responsabilité de supervision du travail d’autres salariés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F59
+{QUESTION}
+Quel était le nom ou titre de son travail principal ?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Laquelle des descriptions sur cette carte correspond le mieux au travail qu’elle faisait quand vous aviez 14 ans ?
+
+Professions libérales traditionnelles et assimilées Comme: comptable – notaire – médecin – scientifique – ingénieur mécanicien/des travaux publics
+Professions de services specializes Comme : enseignant – infirmier –kinésithérapeute – travailleur social – conseiller en matière d’assistance sociale – artiste – musicien – officier de police ou gendarme (grade
+de sergent ou supérieur) – concepteur/créateur de logiciels
+Professions intermédiaires et employés de bureau Comme: secrétaire - assistant personnel – employé de bureau – agent d’un centre d’appels – aide infirmier – aide soignant - puériculteur
+Cadres supérieurs et administratifs (Normalement responsables pour la planification, l’organisation et le travail de coordination et pour les finances) Comme : directeur de finances - directeur général
+Professions techniques et artisanales Comme: mécanicien d’automobile – monteur – inspecteur - plombier – imprimeur –outilleur – électricien – jardinier – conducteur de train
+Professions manuelles et de services semi-qualifiés Comme: employé de la poste – opérateur de machine – garde de sécurité – conciergetravailleur agricole – employé travaillant dans la restauration – réceptionniste – vendeur
+Professions manuelles et de services non-qualifiés Comme: camionneur – conducteur de fourgonnette/camionnette – porteur – emballeur - messager – ouvrier – serveur – employé de bar
+Cadres inférieurs et moyens Comme: cadre de bureau - manager de commerce – manager de banque – manager de dépôt – patron de bar
+
+F61
+{QUESTION}
+Pendant les douze derniers mois, avez-vous suivi des cours ou des conférences afin d’améliorer vos connaissances ou votre savoir-faire pour votre travail ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F62
+{QUESTION}
+Concernant votre état civil actuel, laquelle des descriptions sur cette carte s’applique à vous ?
+
+{ANSWERS}
+Marié(e) 
+Séparé(e) (légalement toujours encore marié)
+Divorcé€
+Veuf/ve 
+Jamais marié(e)
+(Refus) 
+(Ne sait pas) 
+
+F63
+{QUESTION}
+En ce moment vivez-vous avec votre mari?
+
+{ANSWERS}
+Oui 
+Non 
+
+F64
+{QUESTION}
+Vivez-vous actuellement avec un autre partenaire ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F65
+{QUESTION}
+Vivez-vous actuellement avec un partenaire ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F66
+{QUESTION}
+Avez-vous déjà vécu avec un partenaire sans être marié ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F68
+{QUESTION}
+Avez-vous déjà divorcé ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F70
+{QUESTION}
+Avez-vous déjà eu des enfants vivant dans votre ménage, y compris les vôtres, ceux de votre partenaire, les beaux-enfants, les enfants adoptifs, les enfants placés ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F70a
+{QUESTION}
+Votre mère est-elle encore en vie ?
+
+{ANSWERS}
+Oui 
+Non 
+
+F70b
+{QUESTION}
+Votre père est-il encore en vie ?
+
+{ANSWERS}
+Oui 
+Non 
+
+

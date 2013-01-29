@@ -1,0 +1,1830 @@
+A1
+{QUESTION}
+Wéi laang kuckt Dir Televisioun an engem gewéinlechen Aarbechtsdag ?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A2
+{QUESTION}
+An wéi laang kuckt Dir dann vun dëser Zäit Noriichten oder Sendungen iwwer Politik an aktuell politesch Evenementer ?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A3
+{QUESTION}
+Wéi laang lauschtert Dir de Radio an engem gewéinlechen Aarbechtsdag?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A4
+{QUESTION}
+An wéi laang lauschtert Dir dann vun dëser Zäit Noorichten oder Sendungen iwwer Politik an aktuell politesch Evenementer?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A5
+{QUESTION}
+Wéi laang liest Dir d’Zeitung an engem gewéinlechen Aarbechtsdag?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A6
+{QUESTION}
+Wéivill vun dëser Zäit verbrengt Dir domat, Artikelen iwwer Politik an aktuell politesch
+Evenementer ze liesen?
+
+{ANSWERS}
+Guer net 
+Manner wéi eng ½ Stonn 
+½ bis eng Stonn
+Méi wéi 1 Stonn, bis 1 ½ Stonn
+Méi wéi 1 ½ Stonn, bis 2 Stonnen 
+Méi wéi 2 Stonnen, bis 2 ½ Stonn 
+Méi wéi 2 ½ Stonn, bis 3 Stonnen 
+Méi wéi 3 Stonnen 
+
+A7
+{QUESTION}
+Wéi oft gebraucht Dir den Internet, den World Wide Web oder E-mail fir privat Zwecker,
+egal op doheem oder op der Aarbecht?
+
+{ANSWERS}
+Keen Uschloss doheem oder op der Aarbecht 
+Ech gebrauchen et ni 
+Manner wéi ee Mol am Mount
+Ee Mol am Mount 
+E puer Mol am Mount 
+Ee Mol an der Woch 
+E puer Mol an der Woch 
+All Dag 
+
+A8
+{QUESTION}
+Mengt Dir dass een deenen meeschte Leit kann vertrauen, oder dass een am Emgang mat Aner, ni
+virsiichteg genuch ka sinn? Sot mir et w.e.g. mat Hëllef vun dëser Skala vun 0 bis 10. 0 bedeit dass
+een ni virsiichteg genuch ka sinn, an 10 bedeit dass een deenen meeschte Leit vertrauen kann.
+
+{ANSWERS}
+0 Ni virsiichteg genuch
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Deenen meeschte Leit kann een vertrauen
+
+A9
+{QUESTION}
+Mengt Dir dass déi meeschte Leit probéieren Iech auszenotzen, wann Si d’Geleeënheet dozou hun,
+oder probéieren déi meeschte Leit fair ze bleiwen?
+
+{ANSWERS}
+0 Déi meeschte Leit probéieren mech auszenotzen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Déi meeschte Leit probéieren fair ze bleiwen.
+
+A10
+{QUESTION}
+An mengt Dir dass déi meeschte Leit probéieren hëllefsbereet ze sin, oder dass déi meeschte Leit un
+hir eegen Virdeeler denken?
+
+{ANSWERS}
+0 Déi meeschte Leit denken un hir eegen Virdeeler.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Déi meeschte Leit probéieren hëllefsbereet ze sin.
+
+{INTRO}
+Elo wëlle mir Iech e puer Froen iwwer Stat a Politik stellen.
+
+B1
+{QUESTION}
+Wéi staark interesséiert Dir Iech fir Politik ? Si Dir:
+
+{ANSWERS}
+Staark interesséiert 
+Zimlech interesséiert 
+Wéineg interesséiert 
+Oder, guer net interesséiert 
+
+B2
+{QUESTION}
+Wéi oft kënnt et Iech fir, dass Politik esou komplizéiert ass, dass Dir guer net verstitt em wat et eigentlech geet?
+
+{ANSWERS}
+Ni
+Seelen 
+Heiansdo
+Zimlech oft 
+Oft 
+
+B3
+{QUESTION}
+Wéi schwéier oder liicht fällt et Iech, fir Iech eng Meenung ze maachen iwwer politesch Themen ?
+
+{ANSWERS}
+Zimlech schwéier 
+Schwéier
+Weder schwéier nach liicht 
+Liicht 
+Zimlech liicht 
+
+B4 
+{QUESTION}
+Sot mir fir all ëffentlech Ariichtung a Persounengruppen, déi ech Iech nennen, wéivill Dir
+perséinlech jidderengem vertraut. Benotzt dofir dës Skala vun 0 bis 10. 0 bedeit dass Dir dëser
+Ariichtung oder Persounegrupp iwwerhaapt net vertraut, an 10 bedeit dass Dir hir voll a ganz
+vertraut. Wéi ass et mat : der “Chambre des Députés”?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B5 
+{QUESTION}
+der Justiz?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B6 
+{QUESTION}
+der Police?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B7 
+{QUESTION}
+de Politiker?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B8 
+{QUESTION}
+de Parteien?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B9 
+{QUESTION}
+dem Europaparlement ?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B10 
+{QUESTION}
+de vereenten Natiounen (UNO)?
+
+{ANSWERS}
+0 Ech vertrauen hinnen iwwerhaapt net
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech vertrauen hinnen voll a ganz
+
+B11
+{INTRO}
+Gewësse Leit ginn hautzedags aus verschidde Grënn net wielen. 
+
+{QUESTION}
+Wéi ass et bei Iech ? Si Dir bei deene leschten nationalen Députéiertenwahlen am Juni 2004 wiele gaangen ?
+
+{ANSWERS}
+Jo 
+Nee 
+Ech sinn net verflicht wielen ze goen
+
+B12
+{QUESTION}
+Wéi enger Partei hu Dir deemools Är Stëmme ginn ?
+
+{ANSWERS}
+CSV - Chrëschtlech Sozial Vollekspartei 
+LSAP - Lëtzebuerger Sozialistesch Aarbechter Partei 
+DP - Demokratesch Partei 
+Déi Gréng 
+Déi Lénk 
+ADR - Aktiounskomitee fir Demokratie an Rentengerechtegkeet
+Aner Parteien - ausfëllen: 
+
+B13
+{INTRO}
+Et gi verschidde Méiglechkeeten, wéi ee gewëss Mëssstänn zu Lëtzebuerg verbessere kéint, oder
+wéi een dofir suerge kéint, dass si guer net entstinn. 
+
+{QUESTION}
+Hu Dir an deene leschten 12 Méint folgend Démarchen gemeet? Kontakt opgeholl mat engem Politiker oder engem Beamten op Landes- oder Kommunalniveau?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B14 
+{QUESTION}
+An enger politescher Partei oder Grupp matgeschafft ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B15 
+{QUESTION}
+An enger anerer Organisatioun oder engem aneren Verein matgeschafft ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B16 
+{QUESTION}
+E Badge oder e Pechbild vun enger politescher Campagne, gedroen oder iergendwou opgepecht?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B17 
+{QUESTION}
+Eng Petitioun ënnerschriwwen
+
+{ANSWERS}
+Jo 
+Nee 
+
+B18 
+{QUESTION}
+Un enger ëffentlecher, erlaabter Manifestatioun deelgeholl?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B19 
+{QUESTION}
+Verschidde Produkter boykotéiert 1
+
+{ANSWERS}
+Jo 
+Nee 
+
+B20a
+{QUESTION}
+Gëtt et eng politesch Partei, déi Dir léiwer hutt wéi eng aner?
+
+{ANSWERS}
+Jo 
+Nee 
+
+B20b
+{QUESTION}
+Wéi eng?
+
+{ANSWERS}
+CSV - Chrëschtlech Sozial Vollekspartei 
+LSAP - Lëtzebuerger Sozialistesch Aarbechter Partei 
+DP - Demokratesch Partei 
+Déi Gréng 
+Déi Lénk 
+ADR - Aktiounskomitee fir Demokratie an Rentengerechtegkeet
+Aner Parteien - ausfëllen: 
+
+B20c
+{QUESTION}
+Wéi no stitt Dir dëser Partei ? Fillt Dir Iech
+
+{ANSWERS}
+Ganz no 
+Zimlech no 
+Net besonnesch no
+Oder iwwerhaapt net no 
+
+B21
+{QUESTION}
+Si Dir Member vun enger politescher Partei
+
+{ANSWERS}
+Jo 
+Nee 
+
+B22
+{QUESTION}
+Vun wéi enger Partei?
+
+{ANSWERS}
+CSV - Chrëschtlech Sozial Vollekspartei 
+LSAP - Lëtzebuerger Sozialistesch Aarbechter Partei 
+DP - Demokratesch Partei 
+Déi Gréng 
+Déi Lénk 
+ADR - Aktiounskomitee fir Demokratie an Rentengerechtegkeet
+Aner Parteien - ausfëllen: 
+
+B23
+{INTRO}
+An der Politik, schwätzt een heiansdo vun “ lénks ” a vun “ riets ”. 
+
+{QUESTION}
+Wou géift Dir Iech astufen, wann 0 fir lénks, an 10 fir riets steet ?
+
+{ANSWERS}
+0 Lénks 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Riets 
+
+B24
+{QUESTION}
+Wéi zefridde si Dir, alles an allem, am Moment mat Ärem Liewen ? 0 bedeit ganz onzefridden an
+10 bedeit ganz zefridden.
+
+{ANSWERS}
+0 Ganz onzefridden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz zefridden
+
+B25
+{QUESTION}
+A wéi zefridde si Dir, alles an allem, mat der aktueller Economie zu Lëtzebuerg ? 0 bedeit ganz
+onzefridden an 10 bedeit ganz zefridden.
+
+{ANSWERS}
+0 Ganz onzefridden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz zefridden
+
+B26
+{QUESTION}
+Wann Dir elo un d’Regierung denkt, wéi zefridde si Dir mat der Manéier, wéi si hir Aarbecht mécht? 0 bedeit ganz onzefridden an 10 bedeit ganz zefridden.
+
+{ANSWERS}
+0 Ganz onzefridden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz zefridden
+
+B27
+{QUESTION}
+A wéi zefridde si Dir, alles an allem, mat der Manéier, wéi Demokratie zu Lëtzebuerg
+fonctionnéiert ? 0 bedeit ganz onzefridden an 10 bedeit ganz zefridden.
+
+{ANSWERS}
+0 Ganz onzefridden
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz zefridden
+
+B28
+{QUESTION}
+Alles an allem, wéi schätzt Dir den aktuellen Zoustand vum Bildungssystem hei zu Lëtzebuerg an.
+0 bedeit ganz onzefridden an 10 bedeit ganz zefridden.
+
+{ANSWERS}
+0 Ganz schlecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz gutt
+
+B29
+{QUESTION}
+Wéi schätzt Dir, alles an allem, den aktuellen Zoustand vum Gesondheetssystem hei zu Lëtzebuerg an ?
+
+{ANSWERS}
+0 Ganz schlecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz gutt
+
+B30
+{QUESTION}
+Wéivill vun dëse folgenden Aussoen stëmmt Dir zou oder och net ? De Stat sollt Moossnamen ergräife fir
+d’Akkommesënnerscheeder ze verklengeren
+
+{ANSWERS}
+Stëmmen 100% zou
+Stëmmen zou
+Weder nach
+Stëmmen net zou
+Stëmmen guer net zou
+
+B31 
+{QUESTION}
+Schwul oder lesbesch Leit sollten hiert Liewen esou féiere kënnen, wéi si et wëllen
+
+{ANSWERS}
+Stëmmen 100% zou
+Stëmmen zou
+Weder nach
+Stëmmen net zou
+Stëmmen guer net zou
+
+B32 
+{QUESTION}
+Politesch Parteien, déi d’Demokratie ofschaafe wëllen, sollte verbuede ginn
+
+{ANSWERS}
+Stëmmen 100% zou
+Stëmmen zou
+Weder nach
+Stëmmen net zou
+Stëmmen guer net zou
+
+B33 
+{QUESTION}
+Et kann een drop vertrauen, dat déi modern Wëssenschaft eis Ëmweltproblemer wäert léisen.
+
+{ANSWERS}
+Stëmmen 100% zou
+Stëmmen zou
+Weder nach
+Stëmmen net zou
+Stëmmen guer net zou
+
+B34
+{QUESTION}
+Mir kommen elo op Thema Europäesch Unioun. Munch Leit soen, dat d’Erweiderung vun der
+Europäescher Unioun weider goe sollt. Aner soen, dat si schon ze wäit gaangen ass. Wei stid dir
+dozou ?
+
+{ANSWERS}
+0 D’Erweiderung ass schon ze wäit gaangen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 D’Erweiderung sollt weider goen
+
+{INTRO}
+Ech stellen Iech elo e puer Froen iwwer Leit, déi aus aneren Länner hei op Lëtzebuerg liewen kommen.
+
+B35
+{QUESTION}
+A wat fir engem Mooss sollt een Leit, vun der selwechter ethnescher Origine wéi d’Majoritéit vun den Lëtzebuerger, erlaben an d’Land ze kommen an hei ze liewen ?
+
+{ANSWERS}
+Villen erlaben heihin ze kommen an hei ze liewen
+Et verschiddenen erlaben
+Et wéinegen erlaben
+Kengem et erlaben
+
+B36
+{QUESTION}
+Wéi ass et dann mat Leit, déi enger anerer ethnescher Origine ugehéieren wéi d’Majoritéit vun den Lëtzebuerger ?
+
+{ANSWERS}
+Villen erlaben heihin ze kommen an hei ze liewen
+Et verschiddenen erlaben
+Et wéinegen erlaben
+Kengem et erlaben
+
+B37
+{QUESTION}
+Wéi ass et mat Leit, déi aus deenen méi aarmen Länner, ausserhalb vun Europa kommen ?
+
+{ANSWERS}
+Villen erlaben heihin ze kommen an hei ze liewen
+Et verschiddenen erlaben
+Et wéinegen erlaben
+Kengem et erlaben
+
+B38
+{QUESTION}
+Géift Dir soen, dat et am allgemengen gutt oder schlecht fir d’lëtzebuergesch Wirtschaft ass, dat Leit aus aneren Länner heihin kommen?
+
+{ANSWERS}
+0 Schlecht fir d’Wirtschaft
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gutt fir d’Wirtschaft
+
+B39
+{QUESTION}
+Gëtt d’kulturellt Liewen zu Lëtzebuerg am allgemengen duerch d’Leit, déi aus aneren Länner
+heihin kommen, ënnergruewen oder beräichert ?
+
+{ANSWERS}
+0 Kulturellt Liewen gëtt ënnergruewen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kulturellt Liewen gëtt beräichert
+
+B40
+{QUESTION}
+Gëtt Lëtzebuerg duerch d’Leit, déi aus aneren Länner heihin kommen, zu enger besserer oder enger
+méi schlechter Plaz fir ze liewen ?
+
+{ANSWERS}
+0 Gëtt zu enger méi schlechter Plaz fir ze liewen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gëtt zu enger besserer Plaz fir ze liewen
+
+{INTRO}
+An elo e puer Froen iwwert Iech an Äert Liewen
+
+C1
+{QUESTION}
+Wann Dir alles a Betruecht huelt, wat géift Dir soe wéi glécklech Dir sidd?
+
+{ANSWERS}
+0 Ganz onglécklech
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz glécklech
+
+C2
+{QUESTION}
+Wéi oft trefft Dir Iech privat mat Frënn?
+
+{ANSWERS}
+Nie 
+Manner wéi eemol am Mount 
+Eemol am Mount
+E puer Mol am Mount 
+Eemol d’Woch 
+E puer Mol d’Woch
+All Dag 
+
+C3
+{QUESTION}
+Hu Dir eng Persoun mat der Dir iwwert Är privat a vertraulech Ugeleeënheete schwätze kënnt ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C4
+{QUESTION}
+Wann Dir Iech mat Leit an Ärem Alter vergläicht, wéi oft géift Dir soen, dat Dir un sozialen Aktivitéiten deelhuelt?
+
+{ANSWERS}
+Vill manner wéi déi meescht
+Manner wéi déi meescht
+Ongeféier d’selwecht 
+Méi wéi déi meescht
+Vill méi wéi déi meescht
+
+C5
+{QUESTION}
+Si Dir oder een anere Member vun Ärer Famill an de leschten 5 Joer Affer vun engem Iwwerfall oder Abroch ginn ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C6
+{QUESTION}
+Wéi sécher fillt – oder géift Dir Iech fillen – wann Dir, no Abroch vun der Däischtert, an Ärer Géigend spazéiere géift goen?
+
+{ANSWERS}
+Ganz sécher 
+Sécher
+Onsécher
+Oder ganz onsécher 
+
+C7
+{QUESTION}
+Wéi ass am Allgemengen Är Gesondheet? Géift Dir soen dat si…ass
+
+{ANSWERS}
+Ganz gutt 
+Gutt
+An der Rei 
+Schlecht 
+Oder ganz schlecht 
+
+C8
+{QUESTION}
+Gitt Dir während Ären alldeeglechen Aktivitéiten op iergend eng Aart a Weis vun enger laangwiereger Krankheet, engem Handicap, engem Gebriechen oder enger psychescher Krankheet behënnert?
+
+{ANSWERS}
+Jo, stark 
+Jo, bis zu engem gewësse Grad
+Nee 
+
+C9
+{QUESTION}
+Fillt Dir Iech enger bestëmmter Relioun oder Konfessioun zougehéiereg?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C10 
+{QUESTION}
+Wat fir eng Relioun oder Konfessioun ass dat?
+
+{ANSWERS}
+Krëschtentum
+Kathoulesch Kiech
+Orthodox Griechesch/russesch Kiech
+Aner orthodoxesch Kiech 
+Protestantesch Kiech 
+Aner Protestantesch Kiech, ausfëllen : 
+Aner Kreschtech Kiech, ausfëllen : 
+Hindou 
+Sikh
+Bouddhismus 
+Aner Relioun aus dem Osten
+Judentum
+Islam 
+Aner net kreschtech relioun, ausfëllen: 
+
+C11
+{QUESTION}
+Hu Dir Iech iergend eng Kéier enger Relioun oder Konfessioun zougehéiereg gefillt?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C12
+{QUESTION}
+Wat fir eng Relioun oder Konfessioun war dat?
+
+{ANSWERS}
+Krëschtentum
+Kathoulesch Kiech
+Orthodox Griechesch/russesch Kiech
+Aner orthodoxesch Kiech 
+Protestantesch Kiech 
+Aner Protestantesch Kiech, ausfëllen : 
+Aner Kreschtech Kiech, ausfëllen : 
+Hindou 
+Sikh
+Bouddhismus 
+Aner Relioun aus dem Osten
+Judentum
+Islam 
+Aner net kreschtech relioun, ausfëllen: 
+
+C13
+{QUESTION}
+Onofhängeg ob Dir enger bestëmmter Relioun ugehéiert, wéi reliéis géif Dir soen dat Dir sidd?
+
+{ANSWERS}
+0 Guer net reliéis
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ganz reliéis
+
+C14
+{QUESTION}
+Eemol vu speziellen Uläss wéi Hochzäiten oder Begriefnesser ofgesinn, wéi oft gitt Dir an e Gottesdéngscht?
+
+{ANSWERS}
+All Dag 
+Méi wéi eng Kéier an der Woch 
+Eemol d’Woch 
+Op mannst eemol am Mount 
+Nëmmen op besonnesche Feierdeeg 
+Net esou oft 
+Nie 
+
+C15
+{QUESTION}
+Wéi oft, wann iwwerhaapt biet Dir, ausserhalb vun de Gottesdéngschter ?
+
+{ANSWERS}
+All Dag 
+Méi wéi eng Kéier an der Woch 
+Eemol d’Woch 
+Op mannst eemol am Mount 
+Nëmmen op besonnesche Feierdeeg 
+Net esou oft 
+Nie 
+
+C16
+{QUESTION}
+Géift Dir Iech als e Member vun enger Grupp bezeechnen, déi hei ze Lëtzebuerg diskriminéiert gëtt?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C17
+{QUESTION}
+Aus wat fir Grënn gëtt Äre Grupp diskriminéiert? 
+
+{ANSWERS}
+Hautfaarf oder Rass 
+Nationalitéit 
+Relioun 
+Sprooch
+Ethnesch Grupp 
+Alter
+Geschlecht 
+Sexualitéit 
+Behënnerung
+Aner:
+
+C18
+{QUESTION}
+Hu Dir déi lëtzebuergesch Nationalitéit ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C19
+{QUESTION}
+Wat fir eng Nationalitéit hu Dir ?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Si Dir zu Lëtzebuerg gebuer ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C21
+{QUESTION}
+A wat fir engem Land si Dir gebuer ?
+
+{ANSWERS}
+
+C22
+{QUESTION}
+Wéini si Dir fir d’éischt op Lëtzebuerg komm, fir hei ze liewen ?
+
+{ANSWERS}
+Während dem leschten Joer
+Virun 1-5 Joer
+Virun 6-10 Joer
+Virun 11-20 Joer
+Virun méi wéi 20 Joer 
+
+C23
+{QUESTION}
+Wat fir eng Sprooch oder Sprooche schwätzt Dir am meeschten doheem?
+
+{ANSWERS}
+Bis zu 2 Sproochen Ausfëllen 
+
+C24
+{QUESTION}
+Gehéiert Dir enger ethnescher Minoritéit ze Lëtzebuerg un ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C25
+{QUESTION}
+Ass Äre Papp zu Lëtzebuerg gebuer?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C26
+{QUESTION}
+A wat fir engem Land ass Äre Papp gebuer?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+Ass Är Mamm zu Lëtzebuerg gebuer?
+
+{ANSWERS}
+Jo 
+Nee 
+
+C28
+{QUESTION}
+A wat fir engem Land ass Är Mamm gebuer?
+
+{ANSWERS}
+
+
+{INTRO}
+Elo stellen ech Iech e puer Froen iwwert Iech, an déi aner Persounen aus Ärem Stot
+
+F1
+{QUESTION}
+Wéivill Leit wunne mat Iech an Ärem Stot ? D’Kanner net vergiessen.
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Gebuertsjoer
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+A wéi enger Bezéiung steet zu Iech ?
+
+{ANSWERS}
+Mann, Fra, Partner, Partnerin 
+Jong, Meedchen (inkl. Stéifkanner, adoptéiert Kanner, Kanner vum Partner/in, Fleegekanner)
+Elteren, Schwéierelteren, Papp/ Mamm vum Partner/in, Stéifpapp, Stéifmamm
+Brudder, Schwëster, (inkl. Stéifgesëschter oder adoptéiert Gesëschter, Fleegegeseschter)
+Aner Persoun, Familljemember 
+Aner Persoun, net Familljenmember 
+
+F5
+{QUESTION}
+Wat fir eng Beschreiwung passt am beschten op Äert Wunngebitt?
+
+{ANSWERS}
+Lëtzebuerg Stat 
+Ronderem Lëtzebuerg Stat 
+Eng kleng Stat 
+En Duerf 
+E Bauerenhaff oder en Haus um Land
+
+F5a
+{QUESTION}
+Si Dir, oder en anere Member vun Ärem Stot, Propriétaire vun dëser Wunneng oder dësem Haus ?
+
+{ANSWERS}
+Jo
+Nee
+
+F5b
+{QUESTION}
+Wéivill Zëmmer huet Är Wunneng, ausser Kichen, Buedzëmmer, an Toilett?
+
+{ANSWERS}
+
+F6
+{QUESTION}
+Wat ass déi héichsten Schoulausbildung, déi Dir hutt?
+
+{ANSWERS}
+Keen Diplom 
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Aner: 
+
+F6a
+{QUESTION}
+Wat ass déi héichsten Qualifikatioun, déi Dir hutt?
+
+{ANSWERS}
+Allgemeng Qualifikatioun oder keen speziellen Beräich 
+Konscht, Konschthandel 
+Sciences humaines- Sproochen, klassesch Philologie, Geschicht, Théologie, etc. 
+Technik, Maschinenbau, Architektur, Topographie, Handwierk, Baubranche, etc
+Landwirtschaft, Forstwirtschaft 
+Enseignement 
+Wëssenschaft, Mathematik, Informatik, etc
+Medizin, Gesondheetswiesen, etc.. 
+Ekonomie, Commerce, Management, Comptabilitéit, etc.. 
+Sozial- an Verhaalenswëssenschaften, administration publique, Medien, Kultur, Sport a Fräizäit, etc 
+Justiz 
+Déngschtleeschtungen- Liewensmëttelhandel, Hauswirtschaft, Coiffeur, etc
+Ëffentlech Uerdnung a Sécherheet- Police, Arméi, Pompjeeën, etc
+Transport an Telekommunikatioun
+
+F7
+{QUESTION}
+Wéivill Joer Vollzäitausbildung hu Dir gemeet?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Wat fir eng Beschreiwung passt op dat wat Dir an deenen leschten 7 Deeg gemaach hutt ? All Äntweren androen, déi genannt ginn. E puer Äntweren méiglech.
+
+{ANSWERS}
+Bezuelten Aarbecht (och,wann hien de Moment net schafft) (ugestallt, selbststänneg, Familljemember deen mathëlleft)
+Schoul/Ausbildung (déi net vum Patron bezuelt get, och am Congé oder an der Vakanz)
+Aarbechtslos an aktiv op der Sich no enger Aarbecht 
+Aarbechtslos, Wonsch op eng Aarbecht, mee net aktiv op der Sich 
+Chronesch krank, oder behënnert 
+An der Préretraite oder Pensioun 
+An der Arméi 
+Hausaarbecht, Betreiung vun Kanner oder aner Persounen 
+(Aner)
+
+F8c
+{QUESTION}
+Wat fir eng Beschreiwung passt am beschten op Är Situatioun (an deenen leschten 7 Deeg) ? Nëmmen eng Äntwert méiglech.
+
+{ANSWERS}
+Bezuelten Aarbecht (och,wann hien de Moment net schafft) (ugestallt, selbststänneg, Familljemember, deen mathëlleft)
+Schoul/Ausbildung (déi net vum Patron bezuelt get, och am Congé oder an der Vakanz)
+Aarbechtslos an aktiv op der Sich no enger Aarbecht 
+Aarbechtslos, Wonsch op eng Aarbecht, mee net aktiv op der Sich 
+Chronesch krank, oder behënnert 
+An der Préretraite oder Pensioun 
+An der Arméi 
+Hausaarbecht, Betreiung vun Kanner oder aner Persounen 
+(Aner)
+
+F9
+{QUESTION}
+Däerf ech nach eng Kéier nofroen: Hu Dir an deenen leschten 7 Deeg, irgend eng bezuelten
+Aarbecht (vun enger Stonn oder méi) gemeet?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F10
+{QUESTION}
+Hat Dir jee eng bezuelten Aarbecht?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F11
+{QUESTION}
+A wéi engem Joer si Dir fir d’lescht enger bezueltener Aarbecht nogaang?
+
+{ANSWERS}
+
+F12
+{QUESTION}
+Bei Ärer Haaptbeschäftegung sidd oder war Dir :
+
+{ANSWERS}
+Ugestallt 
+Onofhängeg 
+Dir schafft mat am Familljebetrib 
+
+F13
+{QUESTION}
+Wéivill Mattaarbechter hu Dir oder hat Dir (wann iwwerhaapt).
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Hu Dir oder hat Dir en Aarbechtskontrakt : Vierliesen
+
+{ANSWERS}
+En onbegrenzten Aarbechtskontrakt
+En begrenzten Aarbechtskontrakt
+Keen Aarbechtskontrakt 
+
+F15
+{QUESTION}
+Iech mat abegraff, wéivill Leit sinn oder waren an Ärem Betrib beschäftegt ?
+
+{ANSWERS}
+Manner wéi 10
+10 bis 24 
+25 bis 99 
+100 bis 499 
+oder 500 a méi 
+
+F16
+{QUESTION}
+Op Ärer Haaptaarbecht, hu Dir Leit ënnert Iech ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F17
+{QUESTION}
+Wéivill Leit hu Dir ënnert Iech?
+
+{ANSWERS}
+
+{INTRO}
+Ech liesen Iech elo eng Lëscht vir mat Aussoen iwwert Äert Aarbechtsliewen. W.e.g., sot mir a wéi engem Moss Äre Patron oder Äre Betrib Iech et erlaabt, op der Aarbecht :
+
+F18 
+{QUESTION}
+… Ären Aarbechtsdag selwer ze plangen?
+
+{ANSWERS}
+0 Ech hun/hat keen Afloss
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech hun/hat d’komplett Kontrol
+
+F19 
+{QUESTION}
+… Entscheedungen iwwert d’Gestioun vun Ärem Betrib ze beaflossen ?
+
+{ANSWERS}
+0 Ech hun/hat keen Afloss
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech hun/hat d’komplett Kontrol
+
+F19a 
+{QUESTION}
+… Ären Aarbechtsrythmus selwer ze bestëmmen oder ze änneren ?
+
+{ANSWERS}
+0 Ech hun/hat keen Afloss
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ech hun/hat d’komplett Kontrol
+
+F20
+{QUESTION}
+Ärem Aarbechtskontrakt no, wéivill Stonnen musst, oder hu Dir misse schaffen (ouni bezuelten oder onbezuelten Iwwerstonnen)
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Wéivill Stonnen schafft Dir oder hu Dir an enger normaler Woch geschafft, bezuelten oder
+onbezuelten Iwwerstonnen mat abegraff ?
+
+{ANSWERS}
+
+F22
+{QUESTION}
+Wat ass war déi genau Bezeechnung vun Ärer Haaptaarbecht ?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+Wat maacht Dir oder wat hu Dir am meeschten op Ärer Aarbecht gemach?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+Wat fir eng Ausbildung oder Qualifikatioune braucht Dir oder hu Dir fir dës Aarbecht gebraucht?
+
+{ANSWERS}
+
+F25
+{QUESTION}
+Wat produzéiert / mécht de Betrib fir deen Dir schafft oder geschafft hutt, haaptsächlich ?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+Hu Dir an deenen leschten 10 Joer, fir 6 Méint oder méi, am Ausland geschafft?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F27
+{QUESTION}
+War Dir jee eng Kéier méi laang wéi 3 Méint ouni Aarbecht oder op der Sich no enger Aarbecht ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F28
+{QUESTION}
+War Dir dann schonn eng Kéier, ouni Ennerbriechung, 12 Méint oder méi, ouni Aarbecht ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F29
+{QUESTION}
+War dat an deene leschten 5 Joer ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F30
+{QUESTION}
+Si Dir, oder war Dir jee eng Kéier Member vun enger Gewerkschaft oder enger ähnlecher Associatioun ? Wa jo, si Dir et elo nach, oder war Dir et fréier ?
+
+{ANSWERS}
+Jo, elo nach
+Jo, fréier
+Nee 
+
+F31
+{QUESTION}
+W.e.g., denkt eemol un d’Akommes vun all deene Persounen, déi bei Iech am Stot liewen an un all Akommes, dat sech op Äre Stot bezitt. Wat ass d’Haaptakommes vun Ärem Stot ?
+
+{ANSWERS}
+Peien oder Gehälter 
+Akommes vun enger onofhängeger oder vun enger selbststänneger Aarbecht, ausser Baurebetrib
+Akommes vun engem Baurebetrib 
+Pensiounen
+Chômage, oder soss Aarbechtslosen Hëllef 
+Sozialhëllef, Zoulagen, RMG, Boursen etc
+Akommes vu Verméigen, Erspuernisser, Versécherungen, oder Grondbesetz
+Aner Zort Akommes
+
+F32A
+{QUESTION}
+Wann Dir all Äert Akommes zesumme rechent, wat fir ee Buschtaf passt am beschten op Ärem Stot säin Nettoakommes ?Wann Dir de genauen Betrag net wësst, gitt eng Schätzung un (monatlechen oder jährlechen Betrag)
+
+{ANSWERS}
+Monatlechen (ongféier)
+J moins de 149 €
+R entre 150 € et 299 €
+C entre 300 € et 499 €
+M entre 500 € et 999 €
+F entre 1000 € et 1499 €
+S entre 1500 € et 1999 €
+K entre 2000 € et 2499 €
+P entre 2500 € et 2999 €
+D entre 3000 € et 4999 €
+H entre 5000 € et 7499 €
+U entre 7500 € et 9999 €
+N 10000 € ou plus
+
+F32B
+{QUESTION}
+Wann Dir all Äert Akommes zesumme rechent, wat fir ee Buschtaf passt am beschten op Ärem Stot säin Nettoakommes ?Wann Dir de genauen Betrag net wësst, gitt eng Schätzung un (monatlechen oder jährlechen Betrag)
+
+{ANSWERS}
+Jährlechen (ongféier)
+J moins de 1799 €
+R entre 1800 € et 3599 €
+C entre 3600 € et 5999 €
+M entre 6000 € et 11999 €
+F Entre 12000 € et 17999 €
+S Entre 18000 € et 23999 €
+K Entre 24000 € et 29999 €
+P Entre 30000 € et 35999 €
+D Entre 36000 € et 59999 €
+H Entre 60000 € et 89999 €
+U entre 90000 € et 119999 €
+N 120000 € ou plus
+
+F32a
+{QUESTION}
+Wéivill drot Dir ongeféier zum Gesammtakommes vum Stot bäi ?
+
+{ANSWERS}
+Näischt
+Zimlech wéineg 
+Manner wéi d’Halschent
+Ongeféier d’Halschent
+Méi wéi d’Halschent
+Zimlech vill 
+Alles
+
+F33
+{QUESTION}
+Wat op der Kaart 48 beschreift am beschten, wéi Dir selwer Äert aktuellt Akommes vum Stot beuerteelt ? Mat dem aktuellen Akommes kann ech:
+
+{ANSWERS}
+Bequem liewen 
+Eens ginn 
+Schwéier eens ginn 
+Ganz schwéier eens ginn 
+
+F34
+{QUESTION}
+Wann Dir aus iergendwellech Grënn, finanziell eescht Problemer hätt, a Geld misst léine goe fir iwwert Ronnen ze kommen, wéi liicht oder wéi schwéier wär dat fir Iech ?
+
+{ANSWERS}
+Ganz schwéier 
+Zimlech schwéier 
+Weder liicht, nach schwéier 
+Zimlech liicht 
+Ganz liicht 
+
+F36
+{QUESTION}
+Wat ass deen héichste Schoulofschloss deen Äre Mann/ Är Fra/ Äre Partner erreecht huet ?
+
+{ANSWERS}
+Keen Diplom 
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Aner, ausfëllen 
+
+F37a
+{QUESTION}
+Wat fir eng Beschreiwung passt am beschten op dat, wat hien an deene leschten 7 Deeg gemat huet ? E puer Äntweren méiglech.
+
+{ANSWERS}
+Bezuelten Aarbecht (och,wann hien de Moment net schafft) (ugestallt, selbststänneg, Familljemember deen mathëlleft)
+Schoul/Ausbildung (déi net vum Patron bezuelt get, och am Congé oder an der Vakanz)
+Aarbechtslos an aktiv op der Sich no enger Aarbecht 
+Aarbechtslos, Wonsch op eng Aarbecht, mee net aktiv op der Sich 
+Chronesch krank, oder behënnert 
+An der Préretraite oder Pensioun 
+An der Arméi 
+Hausaarbecht, Betreiung vun Kanner oder aner Persounen 
+(Aner)
+
+F37c
+{QUESTION}
+Wat fir eng Beschreiwung passt am beschten op seng Situatioun (an deene leschten 7 Deeg)? Nëmmen eng Äntwert méiglech.
+
+{ANSWERS}
+Bezuelten Aarbecht (och,wann hien de Moment net schafft) (ugestallt, selbststänneg,Familljemember, deen mathëlleft)
+Schoul/Ausbildung (déi net vum Patron bezuelt get, och am Congé oder an der Vakanz)
+Aarbechtslos an aktiv op der Sich no enger Aarbecht 
+Aarbechtslos, Wonsch op eng Aarbecht, mee net aktiv op der Sich 
+Chronesch krank, oder behënnert 
+An der Préretraite oder Pensioun 
+An der Arméi 
+Hausaarbecht, Betreiung vun Kanner oder aner Persounen 
+(Aner)
+
+
+F38
+{QUESTION}
+Kann ech nach eng Kéier nofroen, ass hien enger bezueltener Aarbecht (eng Stonn oder méi) an deene leschten 7 Deeg nogaang ?
+
+{ANSWERS}
+Jo 
+Nee .
+
+F39
+{QUESTION}
+Wat ass déi genee Bezeechnung vun senger / hirer Haaptbeschäftegung ?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+Wat mécht hien am meeschten op senger Aarbecht ?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+Wat fir eng Ausbildung oder Qualifikatioune brauch ee fir dës Aarbecht ?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+An sengem Haaptberuf ass hien …
+
+{ANSWERS}
+Ugestallt 
+Onofhängeg 
+Oder schafft am Familljebetrib 
+
+F43
+{QUESTION}
+Wéivill Mataarbechter huet hien (wann iwwerhaapt) ?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+Huet hien bei senger Haaptaarbecht Leit ënnert sech ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F45
+{QUESTION}
+Wéivill Leit huet hien ënnert sech ?
+
+{ANSWERS}
+
+{INTRO}
+Ech liesen Iech elo eng Lëscht mat Saachen iwwert Ärem Partner säin Aarbechtsliewe fir. Sot mir a wat fir engem Moos de Patron oder Direktioun him erlaabt
+
+F46 
+{QUESTION}
+…ze décidéiere wéi hien déi deeglech Aarbecht organiséiert ?
+
+{ANSWERS}
+0 Hien / si huet keen Afloss
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hien / si huet komplette Kontroll
+
+F47 
+{QUESTION}
+… déi strategesch Décisiounen iwwert Aktivitéite vum Betrib ze beaflossen ?
+
+{ANSWERS}
+0 Hien / si huet keen Afloss
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hien / si huet komplette Kontroll
+
+F48
+{QUESTION}
+Wéivill Stonne schafft hien normalerweis an der Woch (den Haaptberuf) ? W. e. g. zielt och déi bezuelten an onbezuelten Iwwerstonnen dobäi.
+
+{ANSWERS}
+
+F49
+{QUESTION}
+Wat ass déi héichste Schoulausbildung, déi Äre Papp erreecht huet ?
+
+{ANSWERS}
+Keen Diplom 
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Aaner : ausfëllen
+
+F50
+{QUESTION}
+Wéi Dir 14 Joer al waart, war Äre Papp dunn ugestallt, onofhängeg, oder huet hien net geschafft ?
+
+{ANSWERS}
+Ugestallt 
+Indépendant, Onofhängeg 
+Huet net geschafft 
+(De Papp war scho gestuerwen / war net do, wéi de Befroten 14 Joer hat)
+
+F51
+{QUESTION}
+Wéivill Mataarbechter hat hien agestallt?
+
+{ANSWERS}
+Keen
+1 bis 24
+25 an méi
+
+F52
+{QUESTION}
+Hat hien Leit ënnert sech?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F53
+{QUESTION}
+Wat war den Numm oder den Titel vun sengem Haaptberuf ?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Wat fir eng vun deene folgende Beschreiwungen op dëser Kaart 54, passt am beschten op déi Aarbecht, déi Äre Papp gemaach huet, wéi Dir 14 Joer hat ?
+
+{ANSWERS}
+Klassesch akademesch a liberal Beruffer wéi Affekot, Dokter, Wëssenschaftler, Ingénieur
+Beruffer mat akademescher Ausbildung oder Fachhéichschoulausbildung wéi Schoulmeeschter, Infirmier, Physiotherapeut, Éducateur, Kënschtler, Museker, Polizeibeamten, Informatiker
+Mëttler Verwaltungs- oder Dëngschtleeschtungsberuffer wéi Sekretär, perséinlechen Assistent, Bureausemployé, Telefonist, Aide soignant 
+Héier Verwaltungs- oder Managementsberufer (normalerweis fir d’Organisatioun, Planung a Koordinatioun vun der Aarbecht a Finanze responsabel) wéi: Finanzmanager/in – Betriebsleeder/in
+Geléiert technesch an handwierklech Beruffer wéi Mécanicien, Ajusteur, Installateur, Drécker, Elektriker, Bauer, Gäertner, Lokführer
+Ugeléiert handwierklech Beruffer an Dëngschtleeschtungsberufer wéi Postugestallten, Maschinnenaarbechter, Hausmeeschter, Landaarbechter, Verkeefer 
+Ongeléiert handwierklech Beruffer an Dëngschtleeschtungsberufer wéi Camionschauffer, Botzkraft, Portier, Hëllefsaarbechter, Garçon, Courrier 
+Mëttler an ënnescht Management Beruffer wéi Gérant an engem Buttek, enger Bank, engem Restaurant, vun engem Supermarché, Wiert
+
+F55
+{QUESTION}
+Wat ass déi héichste Schoulausbildung, déi Är Mamm erreecht huet ?
+
+{ANSWERS}
+Keen Diplom 
+Ecole primaire 
+Primaire supérieur
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage
+Certificat de Capacité Manuelle : CCM
+Certificat d’Initiation Technique et Professionnelle : CITP
+Certificat d’Aptitude Technique et Professionnelle : CATP
+Diplôme de technicien (jusque 13e dans le régime technicien)
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat) 
+Enseignement supérieur - Doctorat 
+Aaner : ausfëllen
+
+F56
+{QUESTION}
+Wéi Dir 14 Joer al waart, war Är Mamm dunn ugestallt, onofhängeg, oder huet si net geschafft ?
+
+{ANSWERS}
+Ugestallt 
+Onofhängeg
+Huet net geschafft 
+(D’Mamm war scho gestuerwen / war net do, wéi de Befroten 14 Joer hat) 
+
+F57
+{QUESTION}
+Wéivill Mataarbechter hat si agestallt ?
+
+{ANSWERS}
+Keen
+1 bis 24
+25 a méi
+
+F58
+{QUESTION}
+Hat si Leit ënnert sech?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F59
+{QUESTION}
+Wat war den Numm oder den Titel vun hirem Haaptberuf ?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Wat fir eng vun de folgende Beschreiwungen op dëser Kaart 56, passt am beschten op déi Aarbecht, déi Är Mamm gemaach huet, wéi Dir 14 Joer hat ?
+
+{ANSWERS}
+Klassesch akademesch a liberal Beruffer wéi Affekot, Dokter, Wëssenschaftler, Ingénieur
+Beruffer mat akademescher Ausbildung oder Fachhéichschoulausbildung wéi Schoulmeeschter, Infirmier, Physiotherapeut, Éducateur, Kënschtler, Museker, Polizeibeamten, Informatiker
+Mëttler Verwaltungs- oder Dëngschtleeschtungsberuffer wéi Sekretär, perséinlechen Assistent, Bureausemployé, Telefonist, Aide soignant 
+Héier Verwaltungs- oder Managementsberufer (normalerweis fir d’Organisatioun, Planung a Koordinatioun vun der Aarbecht a Finanze responsabel) wéi: Finanzmanager/in – Betriebsleeder/in
+Geléiert technesch an handwierklech Beruffer wéi Mécanicien, Ajusteur, Installateur, Drécker, Elektriker, Bauer, Gäertner, Lokführer 
+Ugeléiert handwierklech Beruffer an Dëngschtleeschtungsberufer wéi Postugestallten, Maschinnenaarbechter, Hausmeeschter, Landaarbechter, Verkeefer
+Ongeléiert handwierklech Beruffer an Dëngschtleeschtungsberufer wéi Camionschauffer, Botzkraft, Portier, Hëllefsaarbechter, Garçon, Courrier
+Mëttler an ënnescht Management Beruffer wéi Gérant an engem Buttek, enger Bank, engem Restaurant, vun engem Supermarché, Wiert
+
+F61
+{QUESTION}
+Hu Dir an deene leschten 12 Méint Formatioune gemat, oder Virliesungen oder Konferenze besicht, fir Iech berufflech weiderzebilden
+
+{ANSWERS}
+Jo 
+Nee 
+
+F62
+{QUESTION}
+Wéi ass Ären aktuelle Familljestand ?
+
+{ANSWERS}
+Bestuet
+Getrennt (nach legal bestuet) 
+Gescheet 
+Verwitwet
+Ni bestuet 
+
+F63
+{QUESTION}
+Lieft Dir am Moment mat Ärem Mann?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F64
+{QUESTION}
+Lieft Dir am Moment mat engem anere Partner ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F65
+{QUESTION}
+Lieft Dir am Moment mat engem Partner?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F66
+{QUESTION}
+Hu Dir jee mat engem Partner zesumme gelieft, ouni bestuet ze sinn ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F68
+{QUESTION}
+Si Dir jee gescheet ginn?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F70
+{QUESTION}
+Hunn jee eege Kanner, Stéifkanner, Fleegekanner oder engem Partner seng Kanner an Ärem Stot gelieft ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F70a
+{QUESTION}
+Lieft Är Mamm nach ?
+
+{ANSWERS}
+Jo 
+Nee 
+
+F70b
+{QUESTION}
+Lieft Äre Papp nach?
+
+{ANSWERS}
+Jo 
+Nee 
+
+

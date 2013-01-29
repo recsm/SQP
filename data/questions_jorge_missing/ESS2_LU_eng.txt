@@ -1,0 +1,1804 @@
+
+A1
+{QUESTION}
+On an average weekday, how much time, in total, do you spend watching television?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A2
+{QUESTION}
+And again on an average weekday, how much of your time watching television is spent watching news or programmes about politics and current affairs?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A3
+{QUESTION}
+On an average weekday, how much time, in total, do you spend listening to the radio?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A4
+{QUESTION}
+And again on an average weekday, how much of your time listening to the radio is spent listening to news or programmes about politics and current affairs?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A5
+{QUESTION}
+On an average weekday, how much time, in total, do you spend reading the newspapers?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A6
+{QUESTION}
+And how much of this time is spent reading about politics and current affairs?
+
+{ANSWERS}
+No time at all 
+Less than ½ hour 
+½ hour to 1 hour 
+More than 1 hour, up to1½ hours 
+More than 1½ hours, up to 2 hours 
+More than 2 hours, up to 2½ hours 
+More than 2½ hours, up to 3 hours 
+More than 3 hours 
+
+A7
+{QUESTION}
+Now, using this card, how often do you use the internet, the World Wide Web or e-mail – whether at home or at work – for your personal use?
+
+{ANSWERS}
+No access at home or work 
+Never use 
+Less than once a month
+Once a month
+Several times a month
+Once a week
+Several times a week 
+Every day
+
+A8
+{QUESTION}
+Generally speaking, would you say that most people can be trusted, or that you can’t be too careful in dealing with people? Please tell me on a score of 0 to 10, where 0 means you can’t be too careful and 10 means that most people can be trusted
+
+{ANSWERS}
+0 You can’t be too careful
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Most people can be trusted
+
+A9
+{QUESTION}
+Do you think that most people would try to take advantage of you if they got the chance, or would they try to be fair?
+
+{ANSWERS}
+0 Most people would try to take advantage of me
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Most people would try to be fair
+
+A10
+{QUESTION}
+Would you say that most of the time people try to be helpful or that they are mostly looking out for themselves?
+
+{ANSWERS}
+0 People mostly look out for themselves
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 People mostly try to be helpful
+
+
+{INTRO}
+Now we want to ask a few questions about politics and government
+
+B1
+{QUESTION}
+How interested would you say you are in politics – are you…
+
+{ANSWERS}
+very interested
+quite interested 
+hardly interested
+or, not at all interested 
+
+B2
+{QUESTION}
+How often does politics seem so complicated that you can’t really understand what is going on?
+
+Never
+Seldom 
+Occasionally 
+Regularly
+Frequently 
+
+B3
+{QUESTION}
+How difficult or easy do you find it to make your mind up about political issues?
+
+Very difficult 
+Difficult
+Neither difficult nor easy
+Easy
+Very easy 
+
+B4 
+{QUESTION}
+Please tell me on a score of 0-10 how much you personally trust each of the institutions I read out. 0 means you do not trust an institution at all, and 10 means you have complete trust. Firstly … House of Parliament in Luxembourg?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B5 
+{QUESTION}
+… the legal system?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B6 
+{QUESTION}
+… the police?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B7 
+{QUESTION}
+… politicians?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B8 
+{QUESTION}
+…political parties?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B9 
+{QUESTION}
+… the European Parliament?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B10 
+{QUESTION}
+… the United Nations?
+
+{ANSWERS}
+0 No trust at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complete trust 
+
+B11
+{INTRO}
+Some people don’t vote nowadays for one reason or another. 
+
+{QUESTION}
+Did you vote in the last national election in Luxembourg in June 2004?
+
+{ANSWERS}
+Yes 
+No 
+Not eligible to vote 
+
+B12
+{QUESTION}
+Which party did you vote for in that election?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/ Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL)
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng
+La Gauche / Déi Lenk
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/Comité d’action pour la Démocratie et la Justice sociale 
+Other 
+
+B13
+{INTRO}
+There are different ways of trying to improve things in Luxembourg or help prevent things from going wrong. 
+
+{QUESTION}
+During the last 12 months, have you done any of the following? Have you …contacted a politician, government or local government official?
+
+{ANSWERS}
+Yes 
+No 
+
+B14 
+{QUESTION}
+…worked in a political party or action group? 
+
+{ANSWERS}
+Yes 
+No 
+
+B15 
+{QUESTION}
+…worked in another organisation or association? 
+
+{ANSWERS}
+Yes 
+No 
+
+B16 
+{QUESTION}
+…worn or displayed a campaign badge/sticker? 
+
+{ANSWERS}
+Yes 
+No 
+
+B17 
+{QUESTION}
+…signed a petition? 
+
+{ANSWERS}
+Yes 
+No 
+
+B18 
+{QUESTION}
+…taken part in a lawful public demonstration? 
+
+{ANSWERS}
+Yes 
+No 
+
+B19 
+{QUESTION}
+…boycotted certain products? 
+
+{ANSWERS}
+Yes 
+No 
+
+B20a
+{QUESTION}
+Is there a particular political party you feel closer to than all the other parties?
+
+{ANSWERS}
+Yes 
+No 
+
+B20b
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL) 
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng 
+La Gauche / Déi Lenk 
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale 
+Other 
+
+B20c
+{QUESTION}
+How close do you feel to this party? Do you feel that you are …
+
+{ANSWERS}
+very close 
+quite close 
+not close 
+or, not at all close 
+
+B21
+{QUESTION}
+Are you a member of any political party?
+
+{ANSWERS}
+Yes 
+No 
+
+B22
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Chrëschtlech Sozial Vollekspartei (CSV)/Parti Chrétien Social (PCS) 
+Lëtzebuerger Sozialistesch Aarbechter Partei (LSAP)/ Parti Socialiste Ouvrier Luxembourgeois (PSOL) 
+Demokratesch Partei (DP)/ Parti Démocrate (PD) 
+Les Verts/Déi Gréng 
+La Gauche / Déi Lenk 
+Aktiounskomitee fir Demokratie an Rentengerechtegkeet (ADR)/ Comité d’action pour la Démocratie et la Justice sociale 
+Other 
+
+B23
+{INTRO}
+In politics people sometimes talk of “left” and “right”. 
+
+{QUESTION}
+Where would you place yourself on this scale, where 0 means the left and 10 means the right?
+
+{ANSWERS}
+0 Left 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Right 
+
+B24
+{QUESTION}
+All things considered, how satisfied are you with your life as a whole nowadays? 0 means extremely dissatisfied and 10 means extremely satisfied.
+
+{ANSWERS}
+0 Extremely dissatisfied
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B25
+{QUESTION}
+On the whole how satisfied are you with the present state of the economy in Luxembourg?
+
+{ANSWERS}
+0 Extremely dissatisfied
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B26
+{QUESTION}
+Now thinking about the Luxembourg government, how satisfied are you with the way it is doing its job?
+
+{ANSWERS}
+0 Extremely dissatisfied
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B27
+{QUESTION}
+And on the whole, how satisfied are you with the way democracy works in Luxembourg?
+
+{ANSWERS}
+0 Extremely dissatisfied
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely satisfied
+
+B28
+{QUESTION}
+Please say what you think overall about the state of education in Luxembourg nowadays?
+
+{ANSWERS}
+0 Extremely bad
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely good
+
+B29
+{QUESTION}
+Please say what you think overall about the state of health services in Luxembourg nowadays?
+
+{ANSWERS}
+0 Extremely bad
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely good
+
+B30
+{QUESTION}
+Please say to what extent you agree or disagree with each of the following statements. The government should take measures to reduce differences in income levels
+
+{ANSWERS}
+Agree strongly
+Agree 
+Neither agree nor disagree
+Disagree 
+Disagree strongly
+
+B31 
+{QUESTION}
+Gay men and lesbians should be free to live their own life as they wish
+
+{ANSWERS}
+Agree strongly
+Agree 
+Neither agree nor disagree
+Disagree 
+Disagree strongly
+
+B32 
+{QUESTION}
+Political parties that wish to overthrow democracy should be banned
+
+{ANSWERS}
+Agree strongly
+Agree 
+Neither agree nor disagree
+Disagree 
+Disagree strongly
+
+B33 
+{QUESTION}
+Modern science can be relied on to solve our environmental problems
+
+{ANSWERS}
+Agree strongly
+Agree 
+Neither agree nor disagree
+Disagree 
+Disagree strongly
+
+B34
+{QUESTION}
+Now thinking about the European Union, some say European unification should go further. Others say it has already gone too far.
+
+{ANSWERS}
+0 Unification has already gone too far
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Unification should go further
+
+{INTRO}
+Now some questions about people from other countries coming to live in Luxembourg
+
+B35
+{QUESTION}
+Now, using this card, to what extent do you think Luxembourg should allow people of the same race or ethnic group as most Luxembourg’s people to come and live here?
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some
+Allow a few
+Allow none
+
+B36
+{QUESTION}
+How about people of a different race or ethnic group from most Luxembourg people?
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some
+Allow a few
+Allow none
+
+B37
+{QUESTION}
+How about people from the poorer countries outside Europe?
+
+{ANSWERS}
+Allow many to come and live here 
+Allow some
+Allow a few
+Allow none
+
+B38
+{QUESTION}
+Would you say it is generally bad or good for Luxembourg’s economy that people come to live here from other countries?
+
+{ANSWERS}
+0 Bad for the economy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Good for the economy
+
+B39
+{QUESTION}
+Would you say that Luxembourg’s cultural life is generally undermined or enriched by people coming to live here from other countries?
+
+{ANSWERS}
+0 Cultural life undermined
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cultural life enriched
+
+B40
+{QUESTION}
+Is Luxembourg made a worse or a better place to live by people coming to live here from other countries?
+
+{ANSWERS}
+0 Worse place to live
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Better place to live
+
+{INTRO}
+And now a few questions about you and your life.
+
+C1
+{QUESTION}
+Taking all things together, how happy would you say you are?
+
+{ANSWERS}
+0 Extremely unhappy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely happy
+
+C2
+{QUESTION}
+How often do you meet socially with friends, relatives or work colleagues?
+
+{ANSWERS}
+Never
+Less than once a month
+Once a month
+Several times a month
+Once a week
+Several times a week 
+Every day
+
+C3
+{QUESTION}
+Do you have anyone with whom you can discuss intimate and personal matters?
+
+{ANSWERS}
+Yes 
+No 
+
+C4
+{QUESTION}
+Compared to other people of your age, how often would you say you take part in social activities? .
+
+{ANSWERS}
+Much less than most 
+Less than most 
+About the same 
+More than most 
+Much more than most
+
+C5
+{QUESTION}
+Have you or a member of your household been the victim of a burglary or assault in the last 5 years?
+
+{ANSWERS}
+Yes 
+No 
+
+C6
+{QUESTION}
+How safe do you – or would you - feel walking alone in this area after dark? Do – or would – you feel…
+
+{ANSWERS}
+very safe 
+safe 
+unsafe 
+very unsafe 
+
+C7
+{QUESTION}
+How is your health in general? Would you say it is…
+
+{ANSWERS}
+very good 
+good 
+fair 
+bad
+very bad 
+
+C8
+{QUESTION}
+Are you hampered in your daily activities in any way by any longstanding illness, or disability, infirmity or mental health problem? If yes, is that a lot or to some extent?
+
+{ANSWERS}
+Yes a lot 
+Yes to some extent 
+No 
+
+C9
+{QUESTION}
+Do you consider yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes 
+No 
+
+C10 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Christian – no denomination 
+Roman Catholic 
+Greek or Russian Orthodox
+Other Eastern Orthodox 
+Protestant (no further detail)
+Other Protestant 
+Other Christian 
+Hindu
+Sikh
+Buddhist
+Other Eastern Religions 
+Jewish
+Islam / Muslim
+Other non-Christian 
+
+C11
+{QUESTION}
+Have you ever considered yourself as belonging to any particular religion or denomination?
+
+{ANSWERS}
+Yes 
+No
+
+C12 
+{QUESTION}
+Which one?
+
+{ANSWERS}
+Christian – no denomination 
+Roman Catholic 
+Greek or Russian Orthodox
+Other Eastern Orthodox 
+Protestant (no further detail)
+Other Protestant 
+Other Christian 
+Hindu
+Sikh
+Buddhist
+Other Eastern Religions 
+Jewish
+Islam / Muslim
+Other non-Christian 
+
+C13
+{QUESTION}
+Regardless of whether you belong to a particular religion, how religious would you say you are?
+
+{ANSWERS}
+0 Not at all religious
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Very religious
+
+C14
+{QUESTION}
+Apart from special occasions such as weddings and funerals, about how often do you attend religious services nowadays?
+
+{ANSWERS}
+Every day
+More than once a week 
+Once a week
+At least once a month 
+Only on special holy days 
+Less often
+Never
+
+C15
+{QUESTION}
+Apart from when you are at religious services, how often, if at all, do you pray?
+
+{ANSWERS}
+Every day
+More than once a week 
+Once a week
+At least once a month 
+Only on special holy days 
+Less often
+Never
+
+C16
+{QUESTION}
+Would you describe yourself as being a memb er of a group that is discriminated against in this country?
+
+{ANSWERS}
+Yes 
+No 
+
+C17
+{QUESTION}
+On what grounds is your group discriminated against?
+
+{ANSWERS}
+Colour or race 
+Nationality 
+Religion
+Language
+Ethnic group
+Age
+Gender
+Sexuality 
+Disability
+Other 
+
+C18
+{QUESTION}
+Are you a citizen of Luxembourg?
+
+{ANSWERS}
+Yes 
+No 
+
+C19
+{QUESTION}
+What citizenship do you hold?
+
+{ANSWERS}
+
+C20
+{QUESTION}
+Were you born in Luxembourg?
+
+{ANSWERS}
+Yes 
+No 
+
+C21
+{QUESTION}
+In which country were you born?
+
+C22
+{QUESTION}
+How long ago did you first come to live in Luxembourg?
+
+{ANSWERS}
+Within the last year 
+1-5 years ago 
+6-10 years ago 
+11-20 years ago 
+More than 20 years ago 
+
+C23
+{QUESTION}
+What language or languages do you speak most often at home?
+
+{ANSWERS}
+Write in up to 2 languages 
+
+C24
+{QUESTION}
+Do you belong to a minority ethnic group in Luxembourg?
+
+{ANSWERS}
+Yes 
+No 
+
+C25
+{QUESTION}
+Was your father born in Luxembourg?
+
+{ANSWERS}
+Yes 
+No 
+
+C26
+{QUESTION}
+In which country was your father born?
+
+{ANSWERS}
+
+C27
+{QUESTION}
+Was your mother born in Luxembourg
+
+{ANSWERS}
+Yes 
+No 
+
+C28
+{QUESTION}
+In which country was your mother born?
+
+{ANSWERS}
+
+{INTRO}
+Now, I would like to ask you some details about yourself and others in your household.
+
+F1
+{QUESTION}
+Including yourself, how many people – including children – live here regularly as members of this household?
+
+{ANSWERS}
+
+F3 
+{QUESTION}
+Year born
+
+{ANSWERS}
+
+F4 
+{QUESTION}
+what relationship is he to you?
+
+{ANSWERS}
+Husband/wife/partner 
+Son/daughter (inc. step, adopted, foster, child of partner)
+Parent, parent- in-law, partner’s parent, step parent
+Brother/sister (inc. step, adopted, foster) 
+Other relative 
+Other non-relative 
+
+F5
+{QUESTION}
+Which phrase on this card best describes the area where you live?
+
+{ANSWERS}
+Luxembourg-Town 
+The suburbs or outskirts of Luxembourg
+An other town
+A country village
+A farm or home in the countryside
+
+F5a
+{QUESTION}
+Does any member of this household own this dwelling?
+
+{ANSWERS}
+Yes 
+No 
+
+F5b
+{QUESTION}
+How many rooms does this household have the use of, not counting kitchens, bathrooms and toilets?
+
+{ANSWERS}
+
+F6
+{QUESTION}
+What is the highest level of education you have achieved?
+
+{ANSWERS}
+No qualifications 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Other 
+
+F6a
+{QUESTION}
+In which one of these fields or subjects is your highest qualification?
+
+{ANSWERS}
+General or no specific field 
+Art – fine or applied 
+Humanities – languages, classics, history, theology, etc 
+Technical & engineering, including architecture and planning, industry, craft, building trades, etc. 
+Agriculture & forestry
+Teacher training or education 
+Science, mathematics, computing, etc 
+Medical, health services, nursing, etc. 
+Economics, commerce, business administration, accountancy, etc 
+Social & behavioural studies, public administration, media, culture, sport and leisure studies, etc 
+Law and legal services 
+Personal care services - catering, domestic science, hairdressing, etc
+Public order and safety – police, army, fire services, etc
+Transport and telecommunications 
+
+F7
+{QUESTION}
+How many years of full-time education have you completed?
+
+{ANSWERS}
+
+F8a
+{QUESTION}
+Which of these descriptions applies to what you have been doing for the last 7 days? Select all that apply
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business) 
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+in community or military service 
+doing housework, looking after children or other persons 
+(other)
+
+F8c
+{QUESTION}
+And which of these descriptions best describes your situation (in the last seven days)? Please select only one.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business) 
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+in community or military service 
+doing housework, looking after children or other persons 
+(other)
+
+F9
+{QUESTION}
+Can I just check, did you do any paid work (of an hour or more) in the last seven days?
+
+{ANSWERS}
+Yes 
+No 
+
+F10
+{QUESTION}
+Have you ever had a paid job?
+
+{ANSWERS}
+Yes 
+No 
+
+F11
+{QUESTION}
+In what year were you last in a paid job?
+
+F12
+{QUESTION}
+In your main job are you…
+
+{ANSWERS}
+an employee 
+self-employed 
+working for your own family’s business 
+
+F13
+{QUESTION}
+How many employees (if any) do/did you have?
+
+{ANSWERS}
+
+F14
+{QUESTION}
+Do you have a work contract of …
+
+{ANSWERS}
+unlimited duration
+limited duration
+do/did you have no contract
+
+F15
+{QUESTION}
+Including yourself, about how many people are/were employed at the place where you usually work …
+
+{ANSWERS}
+under 10 
+10 to 24 
+25 to 99 
+100 to 499 
+or, 500 or more 
+
+F16
+{QUESTION}
+In your main job, do you have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F17
+{QUESTION}
+How many people are you responsible for?
+
+{ANSWERS}
+
+{INTRO}
+I am going to read out a list of things about your working life. Please say how much the management at your work allows you…
+
+F18
+{QUESTION}
+…to decide how your own daily work is organised?
+
+{ANSWERS}
+0 I have/ had no influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I have/had complete control
+
+F19 
+{QUESTION}
+…to influence policy decisions about the activities of the organisation?
+
+{ANSWERS}
+0 I have/ had no influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I have/had complete control
+
+F19a
+{QUESTION}
+… to choose or change your pace of work?
+
+{ANSWERS}
+0 I have/ had no influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I have/had complete control
+
+F20
+{QUESTION}
+What are your total ‘basic’ or contracted hours each week (in your main job), excluding any paid and unpaid overtime?
+
+{ANSWERS}
+
+F21
+{QUESTION}
+Regardless of your basic or contracted hours, how many hours do you normally work a week (in your main job), including any paid or unpaid overtime.
+
+{ANSWERS}
+
+F22
+{QUESTION}
+What is the name or title of your main job?
+
+{ANSWERS}
+
+F23
+{QUESTION}
+In your main job, what kind of work do you do most of the time?
+
+{ANSWERS}
+
+F24
+{QUESTION}
+What training or qualifications are needed for the job?
+
+{ANSWERS}
+
+F25
+What does the firm/ organisation you work for mainly make or do?
+
+{ANSWERS}
+
+F26
+{QUESTION}
+In the last 10 years have you done any paid work in another country for a period of 6 months or more?
+
+{ANSWERS}
+Yes 
+No 
+
+F27
+{QUESTION}
+Have you ever been unemployed and seeking work for a period of more than three months?
+
+{ANSWERS}
+Yes 
+No 
+
+F28
+{QUESTION}
+Have any of these periods lasted for 12 months or more?
+
+{ANSWERS}
+Yes 
+No 
+
+F29
+{QUESTION}
+Have any of these periods been within the past 5 years?
+
+{ANSWERS}
+Yes 
+No 
+
+F30
+{QUESTION}
+Are you or have you ever been a member of a trade union or similar organisation? IF YES, is that currently or previously?
+
+{ANSWERS}
+Yes, currently
+Yes, previously 
+No 
+
+F31
+{QUESTION}
+Please consider the income of all household members and any income which may be received by the household as a whole. What is the main source of income in your household?
+
+{ANSWERS}
+Wages or salaries 
+Income from self-employment (excluding farming) 
+Income from farming
+Pensions 
+Unemployment/redundancy benefit 
+Any other social benefits or grants 
+Income from investment, savings, insurance or property
+Income from other sources 
+
+F32A
+{QUESTION}
+If you add up the income from all sources, which letter describes your household's total net income? If you don't know the exact figure, please give an estimate. Use the part of the card that you know best: monthly or annual income
+
+{ANSWERS}
+Approximate MONTHLY
+J Less than €150
+R €150 to under €300
+C €300 to under €500
+M €500 to under €1000
+F €1000 to under €1500
+S €1500 to under €2000
+K €2000 to under €2500
+P €2500 to under €3000
+D €3000 to under €5000
+H €5000 to under €7500
+U €7500 to under €10000
+N €10000 or more
+
+F32B
+{QUESTION}
+If you add up the income from all sources, which letter describes your household's total net income? If you don't know the exact figure, please give an estimate. Use the part of the card that you know best: monthly or annual income
+
+{ANSWERS}
+Approximate ANNUAL
+J Less than €1800
+R €1800 to under €3600
+C €3600 to under €6000€
+M €6000 to under €12000
+F €12000 to under €18000
+S €18000 to under €24000
+K €24000 to under €30000
+P €30000 to under €36000
+D €36000 to under €60000
+H €60000 to under €90000
+U €90000 to under €120000€
+N €120000 or more
+
+F32a
+{QUESTION}
+Around how large a proportion of the household income do you provide yourself?
+
+{ANSWERS}
+None
+Very small
+Under a half 
+About half 
+Over a half 
+Very large 
+All 
+
+F33
+{QUESTION}
+Which of the descriptions on this card comes closest to how you feel about your household’s income nowadays?
+
+{ANSWERS}
+Living comfortably on present income 
+Coping on present income 
+Finding it difficult on present income 
+Finding it very difficult on present income 
+
+F34
+{QUESTION}
+If for some reason you were in serious financial difficulties and had to borrow money to make ends meet, how difficult or easy would that be?
+
+{ANSWERS}
+Very difficult 
+Quite difficult
+Neither easy nor difficult 
+Quite easy 
+Very easy 
+
+F36
+{QUESTION}
+What is the highest level of education your husband/wife/partner has achieved?
+
+{ANSWERS}
+No qualifications 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Other 
+
+F37a
+{QUESTION}
+Which of the descriptions on this card applies to what he/she has been doing for the last 7 days? Select all that apply.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+in community or military service 
+doing housework, looking after children or other persons 
+(other)
+
+F37c
+{QUESTION}
+And which of the descriptions on this card best describes his/her situation (in the last 7 days)? Please select only one.
+
+{ANSWERS}
+in paid work (or away temporarily) (employee, self-employed, working for your family business)
+in education, (not paid for by employer) even if on vacation 
+unemployed and actively looking for a job 
+unemployed, wanting a job but not actively looking for a job 
+permanently sick or disabled 
+retired 
+in community or military service 
+doing housework, looking after children or other persons 
+(other)
+
+F38
+{QUESTION}
+Can I just check, did he/she do any paid work (of an hour or more) in the last 7 days?
+
+{ANSWERS}
+Yes 
+No 
+
+F39
+{QUESTION}
+What is the name or title of his main job?
+
+{ANSWERS}
+
+F40
+{QUESTION}
+In his main job, what kind of work does he do most of the time?
+
+{ANSWERS}
+
+F41
+{QUESTION}
+What training or qualifications are needed for the job?
+
+{ANSWERS}
+
+F42
+{QUESTION}
+In his main job is he/she…
+
+{ANSWERS}
+an employee 
+self-employed 
+or working for your family business
+
+F43
+{QUESTION}
+How many employees (if any) does he have?
+
+{ANSWERS}
+
+F44
+{QUESTION}
+In his main job, does he/she have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F45
+{QUESTION}
+How many people is he responsible for?
+
+{ANSWERS}
+
+{INTRO}
+I am going to read out a list of things about your partner’s working life. Please say how much the management at his work allows him …
+
+F46
+{QUESTION}
+…to decide how his own daily work is organised?
+
+{ANSWERS}
+0 He/she has no influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 He/she has complete control
+
+F47 
+{QUESTION}
+… to influence the policy decisions about the activities of the organisation?
+
+{ANSWERS}
+0 He/she has no influence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 He/she has complete control
+
+F48
+{QUESTION}
+How many hours does he normally work a week (in his main job)? Please include any paid or unpaidovertime
+
+{ANSWERS}
+
+F49
+{QUESTION}
+What is the highest level of education your father achieved?
+
+{ANSWERS}
+No qualifications 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Other 
+
+F50
+{QUESTION}
+When you were 14, did your father work as an employee, was he self-employed, or was he not working then?
+
+{ANSWERS}
+Employee 
+Self-employed 
+Not working 
+(Father died/absent when respondent was 14) 
+
+F51
+{QUESTION}
+How many employees did he have?
+
+{ANSWERS}
+None
+1 to 24 
+25 or more
+
+F52
+{QUESTION}
+Did he have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F53
+{QUESTION}
+What was the name or title of his main job?
+
+{ANSWERS}
+
+F54
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work he did when you were 14?
+
+{ANSWERS}
+Traditional professional occupations such as: accountant – solicitor – medical practitioner –scientist – civil/mechanical engineer
+Modern professional occupations such as: teacher – nurse – physiotherapist – social worker –welfare officer – artist – musician – police officer (sergeant or above) – software designer
+Clerical and intermediate occupations such as: secretary – personal assistant – clerical worker –office clerk – call centre agent – nursing auxiliary – nursery nurse
+Senior manager or administrators (usually responsible for planning, organising and co-ordinating work and for finance) such as: finance manager – chief executive
+Technical and craft occupations such as: motor mechanic – fitter – inspector – plumber – printer –tool maker  – electrician- farmer – gardener – train driver
+Semi-routine manual and service occupations such as: postal worker – machine operative – security guard –caretaker – farm worker – catering assistant –receptionist – sales assistant
+Routine manual and service occupations such as: HGV driver – van driver – cleaner – porter – packer –sewing machinist – messenger – labourer – waiter/waitress –bar staff
+Middle or junior managers
+such as: office manager – retail manager – bank manager – farm manager - restaurant
+manager – warehouse manager – publican
+
+F55
+{QUESTION}
+What is the highest level of education your mother achieved?
+
+{ANSWERS}
+No qualifications 
+Ecole primaire 
+Primaire supérieur 
+Enseignement complémentaire
+Certificat d’enseignement secondaire technique inférieur 
+Certificat d’apprentissage 
+Certificat de Capacité Manuelle : CCM 
+Certificat d’Initiation Technique et Professionnelle : CITP 
+Certificat d’Aptitude Technique et Professionnelle : CATP 
+Diplôme de technicien (jusque 13e dans le régime technicien) 
+Bac technique (jusque 13e ou 14e du régime technique) 
+Enseignement secondaire général inférieur 
+Diplôme de fin d’études secondaires
+Brevet de maîtrise artisanale 
+Enseignement supérieur - BAC +2
+Enseignement supérieur - BAC +3
+Enseignement supérieur - BAC +4
+Enseignement supérieur - BAC +5 ou plus (mais sans l’obtention d’un doctorat)
+Enseignement supérieur - Doctorat 
+Other  
+
+F56
+{QUESTION}
+When you were 14, did your mother work as an employee, was she self-employed, or was she not working then?
+
+{ANSWERS}
+Employee 
+Self-employed 
+Not working 
+(Mother died/absent when respondent was 14) 
+
+F57
+{QUESTION}
+How many employees did she have?
+
+{ANSWERS}
+None 
+1 to 24
+25 or more 
+
+F58
+{QUESTION}
+Did she have any responsibility for supervising the work of other employees?
+
+{ANSWERS}
+Yes 
+No 
+
+F59
+{QUESTION}
+What was the name or title of her main job?
+
+{ANSWERS}
+
+F60
+{QUESTION}
+Which of the descriptions on this card best describes the sort of work she did when you were 14?
+
+{ANSWERS}
+Traditional professional occupations such as: accountant – solicitor – medical practitioner –scientist – civil/mechanical engineer
+Modern professional occupations such as: teacher – nurse – physiotherapist – social worker –welfare officer – artist – musician – police officer (sergeant or above) – software designer
+Clerical and intermediate occupations such as: secretary – personal assistant – clerical worker –office clerk – call centre agent – nursing auxiliary – nursery nurse
+Senior manager or administrators (usually responsible for planning, organising and co-ordinating work and for finance) such as: finance manager – chief executive
+Technical and craft occupations such as: motor mechanic – fitter – inspector – plumber – printer –tool maker – electrician - farmer – gardener – train driver
+Semi-routine manual and service occupations such as: postal worker – machine operative – security guard –caretaker – farm worker – catering assistant –receptionist – sales assistant
+Routine manual and service occupations such as: HGV driver – van driver – cleaner – porter – packer –sewing machinist – messenger – labourer – waiter/waitress –bar staff
+Middle or junior managers such as: office manager – retail manager – bank manager – farm manager – restaurant manager – warehouse manager – publican
+
+F61
+{QUESTION}
+During the last twelve months, have you taken any course or attended any lecture or conference to improve your knowledge or skills for work?
+
+{ANSWERS}
+Yes 
+No 
+
+F62
+{QUESTION}
+Could I ask about your current legal marital status? Which of the descriptions on this card applies to you?
+
+{ANSWERS}
+Married 
+Separated (still legally married)
+Divorced 
+Widowed
+Never married 
+
+F63
+{QUESTION}
+Are you currently living with your husband?
+
+{ANSWERS}
+Yes 
+No 
+
+F64
+{QUESTION}
+Are you currently living with another partner?
+
+{ANSWERS}
+Yes 
+No 
+
+F65
+{QUESTION}
+Are you currently living with a partner?
+
+{ANSWERS}
+Yes 
+No 
+
+F66
+{QUESTION}
+Have you ever lived with a partner without being married to them?
+
+{ANSWERS}
+Yes 
+No 
+
+F68
+{QUESTION}
+Have you ever been divorced?
+
+{ANSWERS}
+Yes 
+No 
+
+F70
+{QUESTION}
+Have you ever had any children of your own, step-children, adopted children, foster children or a partner’s children living in your household?
+
+{ANSWERS}
+Yes 
+No 
+
+F70a
+{QUESTION}
+Is your mother still alive?
+
+{ANSWERS}
+Yes 
+No 
+
+F70b
+{QUESTION}
+Is your father still alive?
+
+{ANSWERS}
+Yes 
+No 
+
+
