@@ -635,6 +635,7 @@ def create_or_update_question(user, obj_request_body, questionId = False):
         try:
             #Try to find an exact match
             item = models.Item.objects.get(study     = study,
+                                           admin     = item_code,
                                            name      = item_name)
             
             question.item = item
