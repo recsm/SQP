@@ -21,7 +21,7 @@
 			<label class="blockLabelFloated">Name in the Dataset:</label> 
 			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>
 			
-			<label class="blockLabelFloated">Brief Description:</label> 
+			<label class="blockLabelFloated">Concept:</label>
 			<span class="qEditQuestionDescription blockValueFloated">{{itemDescription}}</span>
 			{{/canEditDetails}}
 			
@@ -51,10 +51,10 @@
 			<p class="inputErrorMessage qEditQuestionItemCodeError"></p>
 			<p class="inputHelp">This is the number or name of the question in the questionnaire. For example: 1, 2, 3, A1, B3</p>
 			
-			<label class="blockLabelFloated" for="qEditQuestionDescriptionError">Brief Description:</label> 
+			<label class="blockLabelFloated" for="qEditQuestionDescriptionError">Concept:</label>
 			<input id="qEditQuestionDescriptionError" style="width:420px" class="qEditQuestionDescription blockValueFloated" value="{{itemDescription}}" />
 			<p class="inputErrorMessage qEditQuestionDescriptionError" style="width:420px"></p>
-			<p class="inputHelp" style="width:420px" >Optional - Brief description of the question for easy reference, in the questionnaire source language.</p>
+			<p class="inputHelp" style="width:420px" >Optional - Indicate what concept you are trying to measure with this question.</p>
 			
 			{{/canEditDetails}}
 			
