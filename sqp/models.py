@@ -826,20 +826,24 @@ class Question(models.Model):
         codes = []
 
         for branch in self.iter_branches(user=user, charset=charset):
-            if branch:
-                if str(branch.label.name) == 'True':
-                    choice_text     = branch.coding_choice
-                else:
-                    choice_text     = branch.label.name
+            try:
+                if branch:
+                    if str(branch.label.name) == 'True':
+                        choice_text     = branch.coding_choice
+                    else:
+                        choice_text     = branch.label.name
 
-                characteristic      = branch.label.characteristic
-                choice              = branch.coding_choice
+                    characteristic      = branch.label.characteristic
+                    choice              = branch.coding_choice
 
-                codes.append({'characteristic'   : characteristic,
-                              'short_name    '   : characteristic.short_name,
-                              'code'             : choice,
-                              'choice'           : choice_text,
-                                                    })
+                    codes.append({'characteristic'   : characteristic,
+                                  'short_name    '   : characteristic.short_name,
+                                  'code'             : choice,
+                                  'choice'           : choice_text,
+                                                        })
+            except Exception as e:
+                pass
+
 
         return codes
 
