@@ -1,0 +1,489 @@
+﻿HF1
+ [INTRO]
+Son olarak bu bölümde, ileride sorularımızı geliştirmemize yardımcı olmanıza yönelik, daha öncekilere benzeyen çeşitli konularda bazı sorularımız var. Lütfen daha önce verdiğiniz cevapları hatırlamaya çalışmayın ve bu sorulara tamamen yeni sorularmış gibi yaklaşın.
+
+ [QUESTION]
+Tipik bir haftaiçi gününde, toplam olarak ne kadar zamanınızı televizyon izleyerek geçiriyorsunuz? 
+
+[ANSWERS]
+
+HF2
+[QUESTION]
+Tipik bir haftaiçi gününde, toplamda ne kadar zamanınızı radyo dinleyerek geçiriyorsunuz? 
+
+[ANSWERS]
+
+HF3
+[QUESTION]
+Yine tipik bir haftaiçi gününde, toplamda ne kadar zamanınızı gazete okuyarak geçiriyorsunuz? 
+[ANSWERS]
+HF4
+[QUESTION]
+Sizce genelde insanların çoğunluğuna güvenilebilir mi, yoksa insanlara karşı hiçbir zaman dikkati elden bırakmamak mı gerekir? 
+
+[ANSWERS]
+
+1. Dikkati elden bırakmamak gerekir.
+
+2. İnsanların çoğuna güvenilebilir.
+
+HF5
+[QUESTION]
+Sizce insanların çoğu fırsatını bulursa sizi kullanmaya, sizden çıkar sağlamaya mı çalışır; haklı ve adil davranmaya mı çalışır? 
+
+[ANSWERS]
+
+1. Çoğu insan benden çıkar sağlamaya çalışır.
+
+2. Çoğu insan adil olmaya çalışır.
+
+HF6
+[QUESTION]
+Sizce çoğu insan sizin güveninizi hakediyor mu yoksa çok az insan mı hakediyor? 
+[ANSWERS]
+1. Çok az insan güvenimi hakediyor.
+
+2. Çoğu insan güvenimi haketmiyor.
+
+HF7
+ [INTRO]
+Şimdi size siyaset ve hükümetle ilgili birkaç soru sormak istiyoruz.
+ [QUESTION]
+Genel olarak, Türkiye’de ekonominin şu anki durumundan ne kadar memnunsunuz? Memnun ve tatmin olmuş hissediyorsanız 10, hayatınızdan memnun değilseniz 0 olmak üzere bir puanlama yapınız. 
+
+[ANSWERS]
+
+00 Memnun değilim.
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Memnunum.
+HF8
+[QUESTION]
+Peki, Türkiye’de işbaşında olan hükümeti , düşünelim. Hükümetin çalışmasından, görevini yapışından ne kadar memnunsunuz? 
+[ANSWERS]
+00 Memnun değilim.
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Memnunum.
+HF9
+[QUESTION]
+Genel olarak, Türkiye’de demokrasinin işleyişinden ne kadar memnunsunuz? 
+[ANSWERS]
+00 Memnun değilim.
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Memnunum.
+HF10
+[QUESTION]
+Sizce devlet insanların gelir seviyeleri arasındaki farkları azaltacak önlemler almalı mı yoksa almamalı mıdır? 
+
+[ANSWERS]
+
+1. Kesinlikle almalı.
+
+2. Almalı.
+
+3. Ortada.
+
+4. Almamalı.
+
+5. Kesinlikle almamalı.
+
+HF11
+[QUESTION]
+Sizce eşcinseller hayatlarını ve cinselliklerini istedikleri gibi yaşayabilme özgürlüğüne sahip olmalı mıdır yoksa olmamalı mıdır? 
+
+[ANSWERS]
+
+1. Kesinlikle almalı.
+
+2. Almalı.
+
+3. Ortada.
+
+4. Almamalı.
+
+5. Kesinlikle almamalı.
+
+HF12
+[QUESTION]
+Sizce devlet, toplumdaki bütün kesimlerin eşit muamele görmesini garanti altına almalı mı almamalı mı? 
+
+[ANSWERS]
+
+1. Kesinlikle almalı.
+
+2. Almalı.
+
+3. Ortada.
+
+4. Almamalı.
+
+5. Kesinlikle almamalı.
+
+
+
+HF13
+[QUESTION]
+Tipik bir haftaiçi gününde, toplam olarak ne kadar zamanınızı televizyon izleyerek
+Geçiriyorsunuz?
+[ANSWERS]
+0. Hiç.
+
+1. Çok az zaman.
+
+2. Az zaman.
+
+3. Biraz zaman.
+
+4. Çok zaman.
+
+5. Pek çok zaman.
+
+6. Zamanımın çok büyük kısmını.
+
+HF14
+[QUESTION]
+Tipik bir haftaiçi gününde, toplamda ne kadar zamanınızı radyo dinleyerek geçiriyorsunuz?  
+[ANSWERS]
+0. Hiç.
+
+1. Çok az zaman.
+
+2. Az zaman.
+
+3. Biraz zaman.
+
+4. Çok zaman.
+
+5. Pek çok zaman.
+
+6. Zamanımın çok büyük kısmını.
+
+HF15
+[QUESTION]
+Yine tipik bir haftaiçi gününde, toplamda ne kadar zamanınızı gazete okuyarak geçiriyorsunuz? 
+[ANSWERS]
+0. Hiç.
+
+1. Çok az zaman.
+
+2. Az zaman.
+
+3. Biraz zaman.
+
+4. Çok zaman.
+
+5. Pek çok zaman.
+
+6. Zamanımın çok büyük kısmını.
+
+HF16 
+[INTRO]
+Şimdi size siyaset ve hükümetle ilgili birkaç soru soracağız.
+[QUESTION]
+Şimdi size okuyacağım kurumların her birine, kişisel olarak ne kadar güvendiğinizi, bu kart üzerinde 0-5 arası bir puan vererek söyleyiniz. “0” o kuruma hiç güvenmediğinizi, “5” ise tamamen güvendiğinizi göstermektedir. İlk olarak…..
+…Türkiye Büyük Millet Meclisi 
+
+[ANSWERS]
+0. Hiç güvenmiyorum.
+
+1.
+2.
+3.
+4.
+5. Tamamen güveniyorum.
+
+HF17
+[QUESTION]
+…Mahkemeler ve adalet sistemi. 
+
+[ANSWERS]
+
+0. Hiç güvenmiyorum.
+
+1.
+2.
+3.
+4.
+5. Tamamen güveniyorum.
+
+HF18
+[QUESTION]
+…Polis 
+[ANSWERS]
+0. Hiç güvenmiyorum.
+
+1.
+2.
+3.
+4.
+5. Tamamen güveniyorum.
+
+HF19
+[QUESTION]
+Lütfen aşağıdaki ifadelere ne kadar katılıp katılmadığınızı belirtiniz.
+
+Genel olarak, Türkiye’de ekonominin şuandaki durumundan memnunum.
+
+ [ANSWERS]
+
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne Katılırım Ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+
+HF20
+[QUESTION]
+Hükümetin çalışmasından görevini yapışından memnunum.
+
+ [ANSWERS]
+
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne Katılırım Ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+HF21
+[QUESTION]
+Genel olarak, Türkiye’de demokrasinin işleyişinden memnunum. 
+
+[ANSWERS]
+
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne Katılırım Ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+
+HF22
+[QUESTION]
+Siyasi konularda “sol” ve “sağ”dan sık sık bahsedildiğini duyuyoruz. Lütfen bu kartı kullanarak, kendinizi bu cetvelin neresine koyarsınız, söyleyiniz.
+
+[ANSWERS]
+
+00 Aşırı Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Aşırı sağ.
+HF23
+[QUESTION]
+Yine bu kartı kullanarak en çok sevdiğiniz partiyi bu cetvelin neresine yerleştirirsiniz, söyleyiniz. 
+[ANSWERS]
+00 Aşırı Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Aşırı sağ.
+HF24
+[QUESTION]
+Aynı kartı kullanarak, en sevmediğiniz partiyi bu cetvelin neresine yerleştirirsiniz, söyleyiniz? 
+[ANSWERS]
+00 Aşırı Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Aşırı sağ.
+HF25
+[QUESTION]
+Sizce genelde insanların çoğunluğuna güvenilebilir mi, yoksa insanlara karşı hiçbir zaman dikkati elden bırakmamak mı gerekir? Lütfen bu kartı kullanarak 0 ile 5 arasında bir puan veriniz. “0” dikkati hiç elden bırakmamak gerekir ve “5” insanların çoğuna güvenilebilir anlamına geliyor.
+
+[ANSWERS]
+
+0. Hiçbir zaman dikkati elden bırakmamak gerekir.
+
+1. 
+2.
+3.
+4.
+5. İnsanların çoğuna güvenilebilir.
+
+HF26
+[QUESTION]
+Bu kartı kullanarak, sizce insanların çoğu fırsatını bulursa sizi kullanmaya, sizden çıkar sağlamaya mı çalışır; haklı ve adil davranmaya mı çalışır, söyleyiniz.
+
+[ANSWERS]
+
+0. Çoğu insan benden çıkar sağlamaya çalışır.
+
+1.
+2.
+3.
+4.
+5. Çoğu insan adil olmaya Çalışır.
+
+HF27
+[QUESTION]
+Bu kartı kullanarak, sizce çoğu insan güveninizi hakediyor mu yoksa çok az insan mı güveninizi hakediyor, söyleyiniz. 
+
+[ANSWERS]
+
+0. Çok az insan güvenimi hakediyor.
+
+1.
+
+2.
+3.
+4.
+5. Çoğu insan güvenimi hakediyor.
+
+HF28 
+[INTRO]
+Şimdi size siyaset ve hükümetle ilgili birkaç soru sormak istiyoruz.
+[QUESTION]
+Lütfen Türkiye Büyük Millet Meclisi’ne kişisel olarak ne kadar güvendiğinizi, 0-10 arası bir puan vererek söyleyiniz. “0” bu kuruma hiç güvenmediğinizi,”10” ise tamamen güvendiğinizi göstermektedir. Bunlardan hiçbiri değilse ikisinin arası bir puan verin. 
+
+[ANSWERS]
+HF29
+[QUESTION]
+Lütfen Mahkemeler ve Adalet sistemine kişisel olarak ne kadar güvendiğinizi 0-10 arası bir puan vererek söyleyiniz. “0” bu kuruma hiç güvenmediğinizi,”10” ise tamamen güvendiğinizi göstermektedir. Bunlardan hiçbiri değilse ikisinin arası bir puan verin. 
+
+[ANSWERS]
+
+HF30
+[QUESTION]
+Lütfen polise kişisel olarak ne kadar güvendiğinizi 0-10 arası bir puan vererek söyleyiniz. “0” bu kuruma hiç güvenmediğinizi,”10” ise tamamen güvendiğinizi göstermektedir. Bunlardan hiçbiri değilse ikisinin arası bir puan verin. 
+
+[ANSWERS]
+HF31
+[QUESTION]
+Bu kartı kullanarak, lütfen aşağıdaki ifadelere ne kadar katılıp katılmadığınızı belirtiniz.
+
+Devlet insanların gelir seviyeleri arasındaki farkı azaltacak önlemler almalıdır.
+
+[ANSWERS]
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne katılırım ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+
+HF32
+[QUESTION]
+Eşcinseller hayatlarını ve cinselliklerini istedikleri gibi yaşayabilme özgürlüğüne sahip olmalıdır.
+
+[ANSWERS]
+
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne katılırım ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+
+HF33
+[QUESTION]
+Devlet toplumdaki bütün kesimlerin eşit muameleye tabii olmasını garanti altına almalıdır.
+
+[ANSWERS]
+
+1. Kesinlikle katılırım.
+
+2. Katılırım.
+3. Ne katılırım ne katılmam.
+
+4. Katılmam.
+5. Kesinlikle katılmam.
+
+HF34
+[QUESTION]
+Siyasi konularda “sol” ve “sağ”dan sık sık bahsedildiğini duyuyoruz. Bu kartı kullanarak, 0’ın en solu ve 10’un en sağı gösterdiği bu cetvelde siz kendinizi nereye koyarsınız, gösteriniz.
+
+[ANSWERS]
+
+00 Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Sağ.
+HF35
+[QUESTION]
+Aynı kartı kullanarak, en çok sevdiğiniz partiyi, 0’ın en solu ve 10’un en sağı gösterdiği bu cetvelde nereye yerleştirirsiniz söyleyiniz. 
+
+[ANSWERS]
+00 Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Sağ.
+HF36
+[QUESTION]
+Aynı kartı kullanarak, en sevmediğiniz partiyi 0’ın en solu ve 10’un en sağı gösterdiği bu cetvelde nereye yerleştirirsiniz? 
+[ANSWERS]
+00 Sol.
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Sağ.
+

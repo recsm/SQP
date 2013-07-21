@@ -1,0 +1,3122 @@
+﻿A1
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem normalen Wochentag insgesamt mit Fernsehen? Bitte
+verwenden Sie diese Karte zur Beantwortung.
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2. Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5. Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7. 3 Stunden und mehr
+A2
+[QUESTION]
+Wenn Sie wieder an einen normalen Wochentag denken, wie viel von Ihrer Fernsehzeit
+verbringen Sie damit, sich Nachrichten oder Sendungen über Politik und über das aktuelle Geschehen anzusehen?
+
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2.Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5. Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7. 3 Stunden und mehr
+A3
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem normalen Wochentag mit Radiohören?
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2. Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5. Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7.  Stunden und mehr
+A4
+[QUESTION]
+Und wie viel von dieser Zeit verbringen Sie damit, Nachrichten oder Sendungen über
+Politik und über das aktuelle Geschehen zu hören?
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2. Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5. Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7. 3 Stunden und mehr
+A5
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem normalen Wochentag insgesamt mit dem Lesen
+von Zeitungen?
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2. Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5. Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7. 3 Stunden und mehr
+A6
+[QUESTION]
+Und wie viel von dieser Zeit verbringen Sie damit, Artikel über politische Themen und
+über das aktuelle Geschehen zu lesen?
+[ANSWERS]
+0. Gar keine Zeit
+1. Weniger als ½ Stunde
+2. Mehr als ½ Stunde, bis zu 1 Stunde
+3. Mehr als 1 Stunde, bis zu 1 ½ Stunden
+4. Mehr als 1½ Stunden, bis zu 2 Stunden
+5.Mehr als 2 Stunden, bis zu 2½ Stunden
+6. Mehr als 2½ Stunden, bis zu 3 Stunden
+7. 3 Stunden und mehr
+A7
+[QUESTION]
+Verwenden Sie jetzt bitte diese Karte. Wie oft nutzen Sie das Internet, das World Wide Web oder E-Mails – sowohl zu Hause oder am Arbeitsplatz – für Ihren persönlichen Gebrauch?
+
+[ANSWERS]
+0. Kein Zugang zu Hause oder am Arbeitsplatz
+1.Nie
+2. Weniger als einmal im Monat
+3. Einmal im Monat
+4. Mehrmals im Monat
+5. Einmal in der Woche
+6. Mehrmals in der Woche
+7. Täglich
+A8
+[QUESTION]
+Bitte benutzen Sie diese Karte. Würden Sie ganz generell sagen, dass man den meisten
+Menschen vertrauen kann oder dass man im Umgang mit den Menschen nicht vorsichtig genug sein kann?
+[ANSWERS]
+00 Man kann nicht vorsichtig genug sein
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Den meisten Menschen kann man vertrauen
+
+A9
+[QUESTION]
+Benützen Sie diese Karte. Glauben Sie, dass die meisten Menschen versuchen, Sie auszunutzen, wenn sie die Möglichkeit dazu hätten, oder würden sie sich Ihnen gegenüber fair verhalten?
+
+[ANSWERS]
+00 Die meisten Menschen würden versuchen, mich auszunutzen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Die meisten Menschen würden versuchen, sich fair zu verhalten
+
+A10
+[QUESTION]
+Würden Sie sagen, dass die meisten Menschen im Großen und Ganzen versuchen, hilfsbereit
+zu sein, oder sind sie meistens nur auf den eigenen Vorteil bedacht?
+[ANSWERS]
+00 Die meisten Menschen sind nur auf den eigenen Vorteil bedacht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Die meisten Menschen versuchen, hilfsbereit zu sein
+
+B1
+ [INTRO]
+Nun würde ich Ihnen gerne ein paar Fragen zu Staat und Politik stellen.
+ [QUESTION]
+Wie sehr sind Sie persönlich an Politik interessiert? Sind Sie ...?
+[ANSWERS]
+1. Sehr interessiert
+2. Ziemlich interessiert
+3. Kaum interessiert
+4. Oder überhaupt nicht interessiert
+B2
+[QUESTION]
+Wie oft erscheint Ihnen das politische Geschehen so kompliziert, dass Sie nicht wirklich
+verstehen, worum es eigentlich geht?
+[ANSWERS]
+Nie
+Selten
+Manchmal
+Ziemlich häufig
+Häufig
+B3
+[QUESTION]
+Wie schwer oder leicht finden Sie es, sich bei politischen Themen eine eigene Meinung zu
+bilden?
+[ANSWERS]
+1. Sehr schwer
+2. Schwer
+3. Weder schwer noch leicht
+4. Leicht
+5. Sehr leicht
+B4
+[QUESTION]
+Verwenden Sie diese Karte. Sagen Sie mir bitte – auf einer Skala von 0 bis 10 – wie
+sehr Sie persönlich jeder dieser Institutionen vertrauen. 0 heißt, Sie vertrauen dieser Institution überhaupt
+nicht, 10 bedeutet, Sie vertrauen ihr vollkommen. Erstens, ...?
+dem österreichischen
+Parlament
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+
+B5
+[QUESTION]
+der Justiz
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B6
+[QUESTION]
+der Polizei
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B7
+[QUESTION]
+den Politikern
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B8
+[QUESTION]
+den politischen Parteien
+
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B9
+[QUESTION]
+dem Europäischen Parlament
+
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B10
+[QUESTION]
+den Vereinten Nationen
+
+[ANSWERS]
+00 Überhaupt kein Vertrauen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Vollkommenes Vertrauen
+B11
+[QUESTION]
+Manche Menschen wählen heutzutage aus verschiedenen Gründen nicht mehr. Haben Sie bei den letzten Nationalratswahlen im September 2008 gewählt?
+
+[ANSWERS]
+1. Ja
+2.Nein
+3. Nicht wahlberechtigt
+B12
+[QUESTION]
+Für welche Partei haben Sie bei dieser Wahl gestimmt?
+[ANSWERS]
+1. SPÖ
+2. ÖVP
+3. FPÖ
+4. BZÖ
+5.Grüne
+6. LIF
+7. KPÖ
+8. andere (Ausfüllen:) _________________________ 
+B13
+[QUESTION]
+Es gibt verschiedene Wege, die Lage in Österreich zu verbessern oder zu versuchen,
+Fehlentwicklungen zu vermeiden. Haben Sie während der letzten 12 Monate eine der folgenden Handlungen gesetzt?
+
+einen Politiker oder einen Vertreter der Bundesregierung, der
+Landesregierung oder der Gemeindeverwaltung kontaktiert
+
+[ANSWERS]
+1. Ja
+2. Nein
+B14
+[QUESTION]
+in einer politischen Partei oder Gruppierung mitgearbeitet
+[ANSWERS]
+1. Ja
+2. Nein
+B15
+[QUESTION]
+in irgendeiner anderen Organisation oder Vereinigung mitgearbeitet
+[ANSWERS]
+1. Ja
+2. Nein
+B16
+[QUESTION]
+ein Abzeichen oder einen Aufkleber für eine politische Kampagne getragen
+oder irgendwo befestigt
+[ANSWERS]
+1. Ja
+2. Nein
+B17
+[QUESTION]
+sich an einer Unterschriftensammlung beteiligt
+[ANSWERS]
+1. Ja
+2. Nein
+B18
+[QUESTION]
+an einer genehmigten öffentlichen Demonstration teilgenommen
+[ANSWERS]
+1. Ja
+2. Nein
+B19
+[QUESTION]
+bestimmte Produkte boykottiert
+[ANSWERS]
+1. Ja
+2. Nein
+B20a
+[QUESTION]
+Gibt es eine bestimmte politische Partei, der Sie sich mehr verbunden fühlen als allen anderen
+Parteien?
+[ANSWERS]
+1. Ja
+2. Nein
+B20b
+[QUESTION]
+Welcher?
+[ANSWERS]
+1. SPÖ
+2. ÖVP
+3. FPÖ
+4.BZÖ
+5. Grüne
+6. LIF
+7. KPÖ
+8. andere (Ausfüllen:) _________________________
+B20c
+[QUESTION]
+Wie nahe fühlen Sie sich dieser Partei? Fühlen Sie sich ...?
+[ANSWERS]
+1. Sehr nahe
+2. Ziemlich nahe
+3. Nicht nahe
+4. Oder ganz und gar nicht nahe
+B21
+[QUESTION]
+Sind Sie ein Mitglied einer politischen Partei?
+[ANSWERS]
+1. Ja
+2. Nein
+B22
+[QUESTION]
+Bei welcher?
+[ANSWERS]
+1. SPÖ
+2. ÖVP
+3. FPÖ
+4. BZÖ
+5. Grüne
+6. LIF
+7. KPÖ
+8. andere (Ausfüllen:) _________________________
+B23
+[QUESTION]
+In der Politik wird manchmal von „links“ und „rechts“ gesprochen. Wo würden Sie sich selbst auf
+dieser Skala einordnen, wenn 0 für links und 10 für rechts steht.
+[ANSWERS]
+00 Links
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Rechts
+B24
+[QUESTION]
+Alles in allem betrachtet, wie zufrieden sind Sie derzeit mit Ihrem Leben? Bitte antworten Sie
+mit Hilfe dieser Karte, wobei 0 äußerst unzufrieden und 10 äußerst zufrieden bedeutet.
+[ANSWERS]
+00 Links
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Rechts
+B25
+[QUESTION]
+Wie zufrieden sind Sie im Allgemeinen mit der derzeitigen Wirtschaftslage in
+Österreich?
+[ANSWERS]
+00 Äußerst unzufrieden
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst zufrieden
+
+B26
+[QUESTION]
+Wenn Sie nun an die österreichische Bundesregierung denken, wie zufrieden sind Sie
+mit der Art und Weise, wie sie ihre Arbeit verrichtet?
+[ANSWERS]
+00 Äußerst unzufrieden
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst zufrieden
+
+B27
+[QUESTION]
+Und wie zufrieden sind Sie im Großen und Ganzen mit der Art und Weise, wie die
+Demokratie in Österreich funktioniert?
+[ANSWERS]
+00 Äußerst unzufrieden
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst zufrieden
+
+B28
+[QUESTION]
+Verwenden Sie bitte diese Karte. Sagen Sie mir bitte, wie Sie – alles in allem – den
+derzeitigen Zustand des österreichischen Bildungssystems beurteilen?
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+
+B29
+[QUESTION]
+Verwenden Sie weiterhin diese Karte. Sagen Sie mir bitte, wie Sie – alles in allem –
+den derzeitigen Zustand des österreichischen Gesundheitssystems einschätzen?
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+B30
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie sehr Sie den einzelnen
+Aussagen zustimmen bzw. wie sehr Sie diese ablehnen.
+Der Staat sollte Maßnahmen ergreifen, um Einkommensunterschiede zu reduzieren.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+B31
+[QUESTION]
+Schwule und Lesben sollten ihr Leben so führen dürfen, wie sie es wollen.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+B32
+[QUESTION]
+Politische Parteien, welche die Demokratie abschaffen wollen, sollten verboten werden.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+B33
+[QUESTION]
+Man kann darauf vertrauen, dass die moderne Wissenschaft unsere Umweltprobleme lösen wird.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+B34
+[QUESTION]
+Jetzt kommen wir zum Thema Europäische Union: Manche Leute meinen, dass die
+Europäische Einigung weiter gehen sollte. Andere hingegen meinen, sie ist bereits zu weit gegangen.
+Welche Zahl auf der Skala beschreibt am besten Ihre eigene Meinung?
+[ANSWERS]
+00 Einigung ist bereits zu weit gegangen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Einigung sollte weiter gehen
+
+B35
+ [INTRO]
+Nun einige Fragen in Bezug auf Menschen aus anderen Ländern, die nach Österreich kommen, um hier zu leben.
+ [QUESTION]
+Verwenden Sie nun diese Karte. Zunächst geht es um Zuwanderer, die derselben Volksgruppe
+oder ethnischen Gruppe wie die meisten Österreicher angehören. Wie vielen von ihnen sollte es
+Österreich erlauben, sich hier niederzulassen?
+[ANSWERS]
+1. Es vielen erlauben, sich hier niederzulassen
+2. Es einigen erlauben
+3. Es wenigen erlauben
+4. Es keinem erlauben
+B36
+[QUESTION]
+Wie ist das mit Zuwanderern, die einer anderen Volksgruppe oder ethnischen Gruppe
+angehören als die Mehrheit der Österreicher? Sollte Österreich …?
+[ANSWERS]
+1. Es vielen erlauben, sich hier niederzulassen
+2. Es einigen erlauben
+3. Es wenigen erlauben
+4. Es keinem erlauben
+B37
+[QUESTION]
+Wie ist das mit Zuwanderern, die aus ärmeren Ländern außerhalb Europas stammen?
+[ANSWERS]
+1. Es vielen erlauben, sich hier niederzulassen
+2. Es einigen erlauben
+3. Es wenigen erlauben
+4. Es keinem erlauben
+B38
+[QUESTION]
+Würden Sie sagen, dass es generell schlecht oder gut für die österreichische Wirtschaft ist,
+dass Zuwanderer nach Österreich kommen, um hier zu leben?
+[ANSWERS]
+00 Schlecht für die Wirtschaft
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Gut für die Wirtschaft
+
+B39
+[QUESTION]
+Verwenden Sie bitte diese Karte. Würden Sie sagen, dass das kulturelle Leben in Österreich
+im Allgemeinen von Zuwanderern, die nach Österreich kommen, untergraben oder bereichert wird?
+[ANSWERS]
+00 Kulturelles Leben wird untergraben
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Kulturelles Leben wird bereichert
+
+B40
+[QUESTION]
+Wird Österreich durch Zuwanderer zu einem schlechteren oder besseren Ort zum Leben?
+Bitte verwenden Sie diese Karte.
+[ANSWERS]
+00 Wird zu Einem schlechteren Ort zum Leben
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Wird zu einem besseren Ort zum Leben
+
+C1
+ [INTRO]
+Und nun ein paar Fragen zu Ihnen und Ihrem Leben.
+ [QUESTION]
+Alles in allem betrachtet, wie glücklich sind Sie?
+[ANSWERS]
+00 Äußerst unglücklich
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst glücklich
+
+C2
+[QUESTION]
+Verwenden Sie bitte diese Karte. Wie oft treffen Sie sich mit Freunden, Verwandten oder privat
+mit Arbeitskollegen?
+[ANSWERS]
+1. Nie
+2. Weniger als einmal im Monat
+3. Einmal im Monat
+4. Mehrmals im Monat
+5. Einmal in der Woche
+6. Mehrmals in der Woche
+7. Täglich
+C3
+[QUESTION]
+Haben Sie jemanden, mit dem Sie intime und persönliche Angelegenheiten besprechen können?
+[ANSWERS]
+1. Ja
+2. Nein
+C4
+[QUESTION]
+Wenn Sie sich mit anderen Leuten in Ihrem Alter vergleichen, wie oft nehmen Sie an geselligen
+Ereignissen oder Treffen teil?
+[ANSWERS]
+1. Viel weniger als die moisten
+2. Weniger als die moisten
+3. Ungefähr gleich oft
+4. Häufiger als die meisten
+5. Viel häufiger als die meisten
+C5
+[QUESTION]
+Waren Sie oder ein Mitglied Ihres Haushalts in den letzten 5 Jahren Opfer eines Einbruchs oder eines Überfalls?
+
+[ANSWERS]
+1. Ja
+2. Nein
+C6
+[QUESTION]
+Wie sicher fühlen Sie sich – oder würden Sie sich fühlen –, wenn Sie nach Einbruch der Dunkelheit alleine zu Fuß in Ihrer Wohngegend unterwegs sind oder wären? Fühlen Sie sich ...?
+
+[ANSWERS]
+1. sehr sicher
+2. sicher
+3. unsicher
+4. oder sehr unsicher
+C7
+[QUESTION]
+Wie oft, wenn überhaupt, machen Sie sich Sorgen, dass bei Ihnen eingebrochen wird? Bitte
+wählen Sie eine Antwort von dieser Karte.
+[ANSWERS]
+1. Immer oder fast immer
+2. Manchmal
+3. Nur gelegentlich
+4. Nie
+C8
+[QUESTION]
+Hat die Sorge, dass bei Ihnen eingebrochen werden könnte, …?
+[ANSWERS]
+1. Große Auswirkungen auf Ihre Lebensqualität
+2. Eine gewisse Auswirkung
+3. Oder keine nennenswerten Auswirkungen auf Ihre Lebensqualität
+C9
+[QUESTION]
+Wie häufig machen Sie sich Sorgen, dass Sie Opfer einer Gewalttat werden könnten? Bitte wählen Sie eine Antwort von dieser Karte.
+
+[ANSWERS]
+1. Immer oder fast immer
+2. Manchmal
+3. Nur gelegentlich
+4. Nie
+C10
+[QUESTION]
+Hat die Sorge, dass Sie Opfer einer Gewalttat werden könnten, …?
+[ANSWERS]
+1. Große Auswirkungen auf Ihre Lebensqualität
+2. Eine gewisse Auswirkung
+3. Oder keine nennenswerten Auswirkungen auf Ihre Lebensqualität
+C11
+[QUESTION]
+Halten Sie einen terroristischen Anschlag irgendwo in Europa in den nächsten 12 Monaten für …?
+[ANSWERS]
+1. Sehr wahrscheinlich
+2. Wahrscheinlich
+3. Nicht sehr wahrscheinlich
+4. Sehr unwahrscheinlich
+C12
+[QUESTION]
+Halten Sie einen terroristischen Anschlag irgendwo in Österreich in den nächsten 12 Monaten für …?
+[ANSWERS]
+1. Sehr wahrscheinlich
+2. Wahrscheinlich
+3. Nicht sehr wahrscheinlich
+4. Sehr unwahrscheinlich
+C13
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie sehr Sie den folgenden Aussagen zustimmen oder diese ablehnen.
+
+Wenn eine Person verdächtigt wird, in Österreich einen Terroranschlag zu planen, sollte die
+Polizei ermächtigt sein, diese Person so lange zu inhaftieren, bis die Polizei sicher ist, dass diese Person nicht beteiligt ist.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+C14
+[QUESTION]
+Es ist niemals gerechtfertigt, eine Person in einem österreichischen Gefängnis zu foltern, selbst wenn man damit Informationen zur Verhinderung eines Terroranschlags erhalten könnte.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+C15
+ [INTRO]
+In den nächsten Fragen geht es um Sie persönlich.
+ [QUESTION]
+Wie ist Ihr allgemeiner Gesundheitszustand? Würden Sie sagen, er ist ...?
+[ANSWERS]
+1. Sehr gut
+2. Gut
+3. Mittelmäßig
+4. Schlecht
+5. Oder sehr schlecht
+C16
+[QUESTION]
+Werden Sie bei Ihren täglichen Aktivitäten in irgendeiner Form durch eine langwierige Krankheit, eine Behinderung, ein Gebrechen oder durch eine psychische Krankheit beeinträchtigt? Wenn ja: Gilt das stark oder bis zu einem gewissen Grad?
+
+[ANSWERS]
+1. Ja, stark
+2. Ja, bis zu einem gewissen Grad
+3. Nein
+C17
+[QUESTION]
+Unabhängig davon, ob Sie Mitglied oder Angehörige/r einer Kirche oder Religionsgemeinschaft sind, fühlen Sie sich einer bestimmten Religion oder Konfession zugehörig?
+
+[ANSWERS]
+1. Ja
+2. Nein
+C18
+[QUESTION]
+Welcher?
+[ANSWERS]
+1. Römisch-Katholisch
+2. andere Christen (Ausfüllen:) _________________________________
+3.Griechisch oder Russisch Orthodox
+4. andere östliche Orthodoxie (Ausfüllen:)_________________________
+5. Evangelisch AB
+6. Evangelisch HB
+7. andere Protestanten (Ausfüllen:)______________________________
+8. Hindu
+9. Sikh
+10. Buddhist
+11. andere östliche Religionen (Ausfüllen:) ________________________
+12. Jüdisch
+13. Moslem
+14. andere Nicht-christliche Religion (Ausfüllen:) ___________________
+C19
+[QUESTION]
+Haben Sie sich jemals einer bestimmten Religion oder Glaubensrichtung zugehörig gefühlt?
+[ANSWERS]
+1. Ja
+2. Nein
+C20
+[QUESTION]
+Welcher?
+[ANSWERS]
+1. Römisch-Katholisch
+2. andere Christen (Ausfüllen:) _________________________________
+3.Griechisch oder Russisch Orthodox
+4. andere östliche Orthodoxie (Ausfüllen:)_________________________
+5. Evangelisch AB
+6. Evangelisch HB
+7. andere Protestanten (Ausfüllen:)______________________________
+8. Hindu
+9. Sikh
+10. Buddhist
+11. andere östliche Religionen (Ausfüllen:) ________________________
+12. Jüdisch
+13. Moslem
+14. andere Nicht-christliche Religion (Ausfüllen:) ___________________
+C21
+[QUESTION]
+Ungeachtet der Tatsache, ob Sie einer bestimmten Religion angehören, für wie religiös halten
+Sie sich?
+[ANSWERS]
+00 Überhaupt nicht religiös
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Sehr religiös
+
+C22
+[QUESTION]
+Abgesehen von besonderen Anlässen wie Hochzeiten und Begräbnissen, wie oft besuchen
+Sie derzeit einen Gottesdienst?
+[ANSWERS]
+1. Täglich
+2. Häufiger als einmal in der Woche
+3. Einmal in der Woche
+4. Mindestens einmal im Monat
+5. Nur an besonderen Feiertagen
+6. Seltener
+7. Nie
+C23
+[QUESTION]
+Abgesehen von Gottesdiensten, wie oft beten Sie – wenn überhaupt?
+[ANSWERS]
+1. Täglich
+2. Häufiger als einmal in der Woche
+3. Einmal in der Woche
+4. Mindestens einmal im Monat
+5. Nur an besonderen Feiertagen
+6. Seltener
+7. Nie
+C24
+[QUESTION]
+Würden Sie sich als Angehörige/n einer Gruppe bezeichnen, die in diesem Land diskriminiert wird?
+[ANSWERS]
+1. Ja
+2. Nein
+C25
+[QUESTION]
+Aus welchen Gründen wird Ihre Gruppierung diskriminiert? “Gibt es noch andere
+Gründe?”
+[ANSWERS]
+1. Hautfarbe
+2. Nationalität
+3. Religion
+4. Sprache
+5. Volksgruppe oder ethnische Gruppe
+6. Alter
+7. Geschlecht
+8. sexuelle Neigungen
+9. Behinderung
+10. andere (Ausfüllen:) ________________________
+C26
+[QUESTION]
+Sind Sie österreichische/r Staatsbürger/in?
+[ANSWERS]
+1. Ja
+2. Nein
+C27
+[QUESTION]
+Welche Staatsbürgerschaft haben Sie?
+[ANSWERS]
+C28
+[QUESTION]
+Wurden Sie in Österreich geboren?
+[ANSWERS]
+1. Ja
+2. Nein
+C29
+[QUESTION]
+In welchem Land wurden Sie geboren?
+[ANSWERS]
+C30
+[QUESTION]
+Wann sind Sie zum ersten Mal nach Österreich gekommen, um hier zu leben?
+[ANSWERS]
+1. Im letzten Jahr
+2. Vor 1-5 Jahren
+3. Vor 6-10 Jahren
+4. Vor 11-20 Jahren
+5. Vor mehr als 20 Jahren
+C31
+[QUESTION]
+Welche Sprache beziehungsweise Sprachen sprechen Sie zu Hause am häufigsten?
+[ANSWERS]
+C32
+[QUESTION]
+Gehören Sie einer Volksgruppe oder ethnischen Gruppe an, die in Österreich in der Minderheit ist?
+[ANSWERS]
+1. Ja
+2. Nein
+C33
+[QUESTION]
+Wurde Ihr Vater in Österreich geboren?
+[ANSWERS]
+1. Ja
+2. Nein
+C34
+[QUESTION]
+In welchem Land wurde Ihr Vater geboren?
+[ANSWERS]
+C35
+[QUESTION]
+Wurde Ihre Mutter in Österreich geboren?
+[ANSWERS]
+1. Ja
+2. Nein
+C36
+[QUESTION]
+In welchem Land wurde Ihre Mutter geboren?
+[ANSWERS]
+D1
+ [INTRO]
+Und jetzt einige Fragen darüber, wie die Gesellschaft funktioniert.
+ [QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie sehr Sie den folgenden Aussagen zustimmen oder diese ablehnen. Große Unterschiede im Einkommen der Menschen sind gerechtfertigt, um die Unterschiede in der Begabung und im Arbeitseinsatz ordentlich zu belohnen.
+
+[ANSWERS]
+
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D2
+[QUESTION]
+Schulen müssen Kindern Gehorsam beibringen.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D3
+[QUESTION]
+Eine Frau sollte bereit sein, ihre Erwerbstätigkeit zugunsten ihrer Familie zu reduzieren.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D4
+[QUESTION]
+In einer gerechten Gesellschaft sollten die Unterschiede im Lebensstandard der Menschen klein sein.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D5
+[QUESTION]
+Gesetzbrecher sollten viel strenger bestraft werden als es heute der Fall ist.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D6
+[QUESTION]
+Wenn Arbeitsplätze knapp sind, sollten Männer mehr Recht auf einen Arbeitsplatz haben als Frauen.
+
+[ANSWERS]
+1. Stimme stark zu
+
+2.Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D7
+[QUESTION]
+Von 100 Leuten im arbeitsfähigen Alter in Österreich, wie viele davon sind Ihrer Meinung nach
+arbeitslos und auf Arbeitssuche? Wählen Sie eine Antwort von dieser Karte. Wenn Sie nicht sicher sind, geben Sie bitte Ihre bestmögliche Schätzung ab.
+
+[ANSWERS]
+1. 0-4
+2. 5-9
+3. 10-14
+4. 15-19
+5. 20-24
+6. 25-29
+7. 30-34
+8. 35-39
+9. 40-44
+10. 45-49
+11. 50 oder mehr
+D8
+[QUESTION]
+Und wie viele von 100 Leuten im arbeitsfähigen Alter in Österreich sind Ihrer Meinung
+nach langzeiterkrankt oder arbeitsunfähig?
+[ANSWERS]
+1. 0-4
+2. 5-9
+3. 10-14
+4. 15-19
+5. 20-24
+6. 25-29
+7. 30-34
+8. 35-39
+9. 40-44
+10. 45-49
+11. 50 oder mehr
+D9
+[QUESTION]
+Und wie viele von 100 Leuten im arbeitsfähigen Alter in Österreich haben Ihrer Meinung
+nach nicht genug Geld zur Deckung Ihres Grundbedarfs? Falls Sie nicht sicher sind, geben Sie einfach eine Schätzung ab.
+
+[ANSWERS]
+1. 0-4
+2. 5-9
+3. 10-14
+4. 15-19
+5. 20-24
+6. 25-29
+7. 30-34
+8. 35-39
+9. 40-44
+10. 45-49
+11. 50 oder mehr
+D10
+[QUESTION]
+Und ungefähr wie viele von 100 Leuten im arbeitsfähigen Alter in Österreich sind Ihrer
+Meinung nach außerhalb Österreichs geboren?
+[ANSWERS]
+1. 0-4
+2. 5-9
+3. 10-14
+4. 15-19
+5. 20-24
+6. 25-29
+7. 30-34
+8. 35-39
+9. 40-44
+10. 45-49
+11. 50 oder mehr
+D11
+ [INTRO]
+In den nächsten paar Fragen bitten wir Sie, uns zu sagen, wie gut oder wie schlecht heute gewisse Dinge für unterschiedliche Gruppen in Österreich sind.
+
+ [QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie Sie insgesamt den Lebensstandard
+von Pensionisten in Österreich einschätzen. Antworten Sie bitte auf einer Skala von 0 bis 10, wobei 0 äußerst schlecht bedeutet und 10 äußerst gut.
+
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+
+D12
+[QUESTION]
+Wie schätzen Sie insgesamt den Lebensstandard von Arbeitslosen in Österreich ein?
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+
+D13
+[QUESTION]
+Was halten Sie insgesamt von der Bereitstellung leistbarer Kinderbetreuungsdienste
+für berufstätige Eltern in Österreich?
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+
+D14
+[QUESTION]
+Wie schätzen Sie insgesamt die Chancen junger Menschen in Österreich ein, ihre
+erste Vollzeitarbeitsstelle zu finden?
+[ANSWERS]
+00 Äußerst schlecht
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Äußerst gut
+
+D15
+[QUESTION]
+Menschen haben unterschiedliche Ansichten darüber, was die Verantwortung der
+Regierung sein sollte und was nicht. Ich lese Ihnen jetzt einige Aufgaben vor. Sagen Sie mir bitte auf einer Skala von 0 bis 10, inwieweit diese Aufgaben in der Verantwortung der Regierung liegen sollten. 0 bedeutet, die Aufgabe sollte gar nicht in der Verantwortung der Regierung liegen und 10 bedeutet, sie sollte ganz in der Verantwortung der Regierung liegen.
+sicherstellen, dass jeder, der arbeiten will, einen Arbeitsplatz bekommt
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D16
+[QUESTION]
+eine adequate Krankenversorgung sicherstellen
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D17
+[QUESTION]
+einen angemessenen Lebensstandard für Rentner und Pensionisten sicherstellen
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D18
+[QUESTION]
+Und inwieweit glauben Sie, sollte die Regierung für Folgendes verantwortlich sein?
+einen angemessenen Lebensstandard für Arbeitslose sicherstellen 
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D19
+[QUESTION]
+Ausreichend Kinderbetreuungsdienste Für berufstätige Eltern sicherstellen
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D20
+[QUESTION]
+bezahlte Freistellung von der Arbeit für Menschen, die kranke Familienmitglieder pflegen müssen
+
+[ANSWERS]
+00 sollte gar nicht in der Verantwortung der Regierung liegen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sollte ganz in der Verantwortung der Regierung liegen
+
+D21
+ [INTRO]
+Jetzt werde ich Sie über die Auswirkungen von sozialen Leistungen und sozialen Diensten in Österreich auf verschiedene Lebensbereiche befragen. Unter sozialen Leistungen und sozialen Diensten verstehen wir Gesundheitsversorgung, Pensionen oder Sozialleistungen in Form von Geld.
+
+ [QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie sehr Sie zustimmen oder es ablehnen, dass soziale Leistungen und soziale Dienste in Österreich …?
+
+eine zu große Belastung der Wirtschaft darstellen
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D22
+[QUESTION]
+weit verbreitete Armut verhindern
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D23
+[QUESTION]
+zu einer egalitäreren Gesellschaft führen
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D24
+[QUESTION]
+Menschen aus anderen Ländern ermutigen, hier her zu kommen und hier zu leben
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D25
+[QUESTION]
+Unternehmen zu viele Steuern und Abgaben aufbürden
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D26
+[QUESTION]
+es Menschen leichter machen, Arbeit und Familien zu vereinbaren
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D27
+[QUESTION]
+Und wie sehr stimmen Sie zu oder lehnen es ab, dass soziale Leistungen und soziale Dienste in Österreich …?
+
+die Menschen faul machen
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D28
+[QUESTION]
+die Bereitschaft der Menschen verringern, sich umeinander zu kümmern
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D29
+[QUESTION]
+die Bereitschaft der Menschen verringern, sich um sich selbst und die Familie zu kümmern
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D30
+[QUESTION]
+Denken Sie bitte weiter an die Bereitstellung von Sozialleistungen und sozialen Diensten und
+sagen Sie mir, wie effizient Ihrer Meinung nach die Gesundheitsversorgung in Österreich ist? Wählen Sie Ihre Antwort auf dieser Karte, wo 0 für äußerst ineffizient und die 10 für äußerst effizient steht.
+
+[ANSWERS]
+00 äußerst ineffizient
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst effizient
+
+D31
+[QUESTION]
+Und wie effizient sind Ihrer Meinung nach die Steuerbehörden beim rechtzeitigen Beantworten von Anfragen, Vermeiden von Fehlern und beim Verhindern von Betrug? Verwenden Sie bitte diese Karte, wo 0 dafür steht, dass die Behörde äußerst ineffizient bei der Bewältigung ihrer Aufgaben ist und die 10 bedeutet, dass sie äußerst effizient ist.
+
+[ANSWERS]
+00 äußerst ineffizient
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst effizient
+
+D32
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, ob Ihrer Meinung nach Ärzte und Krankenschwestern in Österreich gewisse Leute bevorzugen oder alle Leute gleich behandeln. Wählen Sie Ihre Antwort auf dieser Karte, wo 0 dafür steht, dass Sie meinen, gewisse Leute werden bevorzugt und 10 bedeutet, dass Ihrer Meinung nach alle gleich behandelt werden.
+
+[ANSWERS]
+00 gewisse Leute werden bevorzugt
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 alle werden gleich behandelt
+
+D33
+[QUESTION]
+Und sagen Sie mir bitte unter Verwendung der gleichen Karte, ob Sie der Meinung sind, dass die Steuerbehörden in Österreich gewisse Leute bevorzugen oder alle Leute gleich behandeln.
+
+[ANSWERS]
+00 gewisse Leute werden bevorzugt
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 alle werden gleich behandelt
+
+D34
+[QUESTION]
+Viele Sozialleistungen und soziale Dienste werden aus Steuern finanziert. Wenn die Regierung wählen müsste zwischen Steuern und Sozialleistungen erhöhen oder Steuern und Sozialleistungen senken, was sollte sie Ihrer Meinung nach tun?
+
+[ANSWERS]
+00 die Regierung sollte die Steuern stark kürzen und viel weniger für Sozialleistungen ausgeben
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 die Regierung sollte die Steuern stark erhöhen und viel mehr für Sozialleistungen ausgeben
+	
+D35
+[QUESTION]
+Stellen Sie sich zwei Leute vor, von denen einer das doppelte verdient wie der andere. Welche der drei Aussagen auf dieser Karte entspricht am ehesten Ihrer Vorstellung, wie die beiden besteuert werden sollten?
+
+[ANSWERS]
+1. Sie sollten beide den gleichen Prozentsatz ihres Einkommens an Steuern zahlen, sodass
+die Person, die doppelt so viel verdient, doppelt so viel Steuern zahlt
+2. der Besserverdienende sollte mit einem höheren Prozentsatz besteuert werden, sodass die Person, die zweimal so viel verdient, mehr als das Doppelte an Steuern zahlt
+
+3. sie sollten beide, trotz Ihrer unterschiedlichen Einkommen, den gleichen Betrag an Steuern zahlen
+
+D36
+[QUESTION]
+Mache Leute behaupten, dass Besserverdienende höhere Pensionen bekommen sollten, weil
+sie mehr eingezahlt haben. Andere sagen, dass Geringverdienende höhere Pensionen bekommen sollten, weil Ihre Bedürfnisse größer sind. Welche der drei Aussagen auf dieser Karte entspricht am ehesten Ihrer Meinung? Nur eine Antwort.
+
+[ANSWERS]
+1. Besserverdienende sollten eine höhere Pension bekommen als Geringverdienende
+2. Besserverdienende und Geringverdienende sollten eine gleich Hohe Pension bekommen
+3. Geringverdienende sollten eine höhere Pension bekommen als Besserverdienende
+D37
+[QUESTION]
+Mache Leute behaupten, dass Besserverdienende eine höhere Arbeitslosenunterstützung
+bekommen sollten, wenn Sie vorübergehend arbeitslos sind, weil Sie mehr Steuern bezahlt haben. Andere wiederum meinen, dass Geringverdienende eine höhere Arbeitslosenunterstützung bekommen sollten, weil Ihre Bedürfnisse größer sind. Welche der drei Aussagen auf dieser Karte entspricht am ehesten Ihrer Meinung? Nur eine Antwort.
+
+[ANSWERS]
+1. Besserverdienende, die vorübergehend arbeitslos sind, sollten eine höhere Arbeitslosenunterstützung bekommen
+
+2. Besserverdienende und Geringverdienende sollten eine gleich Hohe Arbeitslosenunterstützung bekommen
+
+3. Geringverdienende, die vorübergehend arbeitslos sind, sollten eine höhere
+Arbeitslosenunterstützung bekommen
+
+D38
+[QUESTION]
+Denken Sie an Menschen, die aus anderen Ländern nach Österreich kommen, um hier zu
+leben. Wann, glauben Sie, sollten diese Menschen die gleichen Ansprüche auf Sozialleistungen und soziale Dienste haben wie die hier lebenden Bürger?
+
+[ANSWERS]
+1. sofort bei Ankunft
+2. nach einem Jahr Aufenthalt in Österreich, egal ob sie gearbeitet haben oder nicht
+3. nur nachdem sie mindestens ein Jahr gearbeitet und Steuern gezahlt haben
+4. nach Ihrer Einbürgerung
+5. sie sollten nie die gleichen Ansprüche bekommen
+D39
+[QUESTION]
+Viele Leute, die aus anderen Ländern nach Österreich kommen, um hier zu leben, zahlen
+Steuern und profitieren von Sozialleistungen und sozialen Diensten. Denken Sie, dass diese Leute unterm Strich mehr erhalten als sie beitragen oder dass sie mehr beitragen als sie erhalten. Bitte verwenden Sie diese Karte bei der 0 bedeutet, dass sie viel mehr erhalten als sie beitragen und 10 bedeutet, dass sie viel mehr beitragen als sie erhalten.
+
+[ANSWERS]
+00 erhalten viel mehr als sie beitragen
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 tragen viel mehr bei als sie erhalten
+
+D40
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie sehr Sie den folgenden Aussagen über Leute in Österreich zustimmen oder wie sehr Sie diese ablehnen.
+
+die meisten Arbeitslosen suchen nicht wirklich nach einer Arbeitsstelle
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D41
+[QUESTION]
+viele Leute mit geringem Einkommen erhalten weniger Sozialleistungen als ihnen gesetzlich zusteht
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D42
+[QUESTION]
+es gelingt vielen Leuten, Sozialleistungen zu erhalten, die keinen Anspruch darauf haben
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D43
+[QUESTION]
+es gibt nicht genügend Angebote an Sozialleistungen in Österreich, um den Leuten zu helfen, die in echter Not sind
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D44
+[QUESTION]
+Arbeitnehmer täuschen oft vor, dass sie krank sind, um zu Hause bleiben zu können
+
+[ANSWERS]
+1. Stimme stark zu
+
+2. Stimme zu
+
+3. Weder noch
+
+4. Lehne ab
+
+5. Lehne stark ab
+
+D45
+[QUESTION]
+Heute wird viel über die Kosten des Gesundheitswesens in Österreich diskutiert. Denken Sie
+bitte darüber nach, wie es in 10 Jahren sein wird. Welche der Aussagen auf dieser Karte entspricht am ehesten Ihrer Meinung?
+
+[ANSWERS]
+1. in 10 Jahren wird sich Österreich das derzeitige Niveau der Gesundheitsversorgung
+nicht mehr leisten können
+2. in 10 Jahren wird Österreich das derzeitige Niveau der Gesundheitsversorgung
+zwar halten, aber nicht erhöhen können
+3. in 10 Jahren wird sich Österreich ein höheres Niveau der Gesundheitsversorgung als heute
+leisten können
+
+D46
+[QUESTION]
+Heute wird auch viel über die Kosten der Pensionen in Österreich diskutiert. Wenn Sie wieder
+daran denken, wie es in 10 Jahren sein wird. Welche der Aussagen auf dieser Karte entspricht am ehesten Ihrer Meinung?
+
+[ANSWERS]
+1. in 10 Jahren wird sich Österreich das derzeitige Niveau der Pensionszahlungen
+nicht mehr leisten können
+2. in 10 Jahren wird Österreich das derzeitige Niveau der Pensionszahlungen
+zwar halten, aber es nicht erhöhen können
+3. in 10 Jahren wird sich Österreich ein höheres Niveau der Pensionszahlungen als heute
+leisten können
+D47
+ [INTRO]
+In den folgenden Fragen möchten wir, dass Sie sich vorstellen, was in den nächsten 12 Monaten geschehen könnte.
+
+ [QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie hoch die Wahrscheinlichkeit ist, dass
+Sie innerhalb der nächsten 12 Monate arbeitslos und mindestens vier Wochen hinter einander auf Arbeitssuche sein werden.
+
+[ANSWERS]
+1. gar nicht wahrscheinlich
+2. wenig wahrscheinlich
+3. eher wahrscheinlich
+4. sehr wahrscheinlich
+D48
+[QUESTION]
+Wie hoch ist die Wahrscheinlichkeit, dass Sie innerhalb der nächsten 12 Monate weniger Zeit in Ihrer bezahlten Berufstätigkeit verbringen werden als Sie möchten, weil Sie Angehörige
+pflegen müssen?
+[ANSWERS]
+1. gar nicht wahrscheinlich
+2. wenig wahrscheinlich
+3. eher wahrscheinlich
+4. sehr wahrscheinlich
+D49
+[QUESTION]
+Wie hoch ist die Wahrscheinlichkeit, dass Sie in den nächsten 12 Monaten vorübergehend nicht genug Geld haben, um den Bedarf Ihres Haushalts abzudecken?
+ 
+[ANSWERS]
+1. gar nicht wahrscheinlich
+2. wenig wahrscheinlich
+3. eher wahrscheinlich
+4. sehr wahrscheinlich
+D50
+[QUESTION]
+Und während der nächsten 12 Monate, wie wahrscheinlich ist es, dass Sie die unbedingt notwendige Pflege erhalten, wenn Sie erkranken?
+
+[ANSWERS]
+1. gar nicht wahrscheinlich
+2. wenig wahrscheinlich
+3. eher wahrscheinlich
+4. sehr wahrscheinlich
+E1
+ [INTRO]
+Und jetzt wollen wir Ihnen einige Fragen zum Thema Alter stellen.
+ [QUESTION]
+Ab welchem Alter bezeichnet man Ihrer Meinung nach Menschen nicht mehr als jung?
+[ANSWERS]
+E2
+[QUESTION]
+Ab welchem Alter fängt man im Allgemeinen an, Menschen als alt zu bezeichnen?
+[ANSWERS]
+E3
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, welcher Buchstabe am besten die
+Altersgruppe beschreibt, der Sie Ihrer Meinung nach angehören. Wenn Sie sich für sehr jung halten, wählen Sie den Buchstaben A; wenn Sie sich für sehr alt halten, wählen Sie den Buchstaben J. Sonst wählen Sie einen der Buchstaben dazwischen.
+
+[ANSWERS]
+1. A
+2. B 
+3. C 
+4. D
+5. E 
+6. F 
+7. G
+8. H 
+9. J
+E4
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, ob Sie zu dieser Altersgruppe ein starkes
+oder schwaches Zugehörigkeitsgefühl haben. Wählen Sie Ihre Antwort auf dieser Karte, wobei 0 ein sehr schwaches Zugehörigkeitsgefühl und 10 ein sehr starkes Zugehörigkeitsgefühl bedeutet.
+
+[ANSWERS]
+00 sehr schwaches Zugehörigkeitsgefühl
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 sehr starkes Zugehörigkeitsgefühl
+
+E5
+ [INTRO]
+Ich werde Ihnen jetzt einige Fragen zum sozialen Status stellen, den Menschen in verschiedenen Altersgruppen in der Gesellschaft haben. Unter sozialem Status verstehe ich das Ansehen, den Rang oder die Position in der Gesellschaft; ich meine nicht die Zugehörigkeit zu sozialen Gruppen oder die Teilnahme an bestimmten Aktivitäten.
+
+ [QUESTION]
+Ich möchte gerne wissen, wie Ihrer Meinung nach die Mehrheit in Österreich den Status von 20- bis 30jährigen, den Status von 40- bis 50jährigen und den Status von Menschen über 70 einschätzen. Verwenden Sie diese Karte und sagen Sie mir bitte, wie die Mehrheit der Bevölkerung den Status der folgenden Gruppen einstuft.
+
+20- bis 30jährige
+
+[ANSWERS]
+00 äußerst niedriger Status
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst hoher Status
+
+E6
+[QUESTION]
+40- bis 50jährige
+[ANSWERS]
+00 äußerst niedriger Status
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst hoher Status
+
+E7
+[QUESTION]
+über 70jährige
+[ANSWERS]
+00 äußerst niedriger Status
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst hoher Status
+
+E8
+
+[INTRO]
+Jetzt einige Fragen über die 20- bis 30jährigen.
+[QUESTION]
+über das Ausmaß der Kriminalität in der Gruppe der 20- bis 30jährigen heutzutage
+
+[ANSWERS]
+00 gar nicht besorgt
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst besorgt
+
+E9
+[QUESTION]
+darüber, dass Arbeitgeber bei der Stellenvergabe den 20- bis 30jährigen den Vorzug gegenüber Menschen über 40 geben könnten
+
+[ANSWERS]
+00 gar nicht besorgt
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst besorgt
+
+E10
+[QUESTION]
+Bitte sagen mir, ob Ihrer Meinung nach die meisten 20- bis 30jährigen einen guten oder
+schlechten Einfluss auf Sitten und Lebensweise in Österreich haben. Wählen Sie Ihre Antwort auf dieser Karte, wobei 0 einen äußerst schlechten Einfluss bedeutet und 10 einen äußerst guten Einfluss.
+
+[ANSWERS]
+00 äußerst schlechter Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst guter Einfluss
+
+E11
+[QUESTION]
+Alles in allem betrachtet, meinen Sie, dass die 20- bis 30jährigen heutzutage sehr viel oder
+sehr wenig zur österreichischen Wirtschaft beitragen? Bitte verwenden Sie diese Karte, auf der 0 bedeutet, dass sie sehr wenig und 10, dass sie sehr viel zur österreichischen Wirtschaft beitragen.
+
+[ANSWERS]
+00 tragen sehr wenig zur Wirtschaft bei
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 tragen sehr viel zur Wirtschaft bei
+
+E12
+ [INTRO]
+Nun einige ähnliche Fragen zu den über 70jährigen.
+ [QUESTION]
+Verwenden Sie diese Karte und sagen Sie mir bitten, ob Ihrer Meinung nach über 70jährige
+das österreichische Gesundheitswesen belasten oder nicht. 0 bedeutet keine Belastung und 10 bedeutet eine schwere Belastung.
+
+[ANSWERS]
+00 keine Belastung
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 schwere Belastung
+
+E13
+[QUESTION]
+Bitte sagen Sie mir, ob Ihrer Meinung die meisten über 70jährigen einen guten oder schlechten
+Einfluss auf Sitten und Lebensweise in Österreich haben. Wählen Sie Ihre Antwort auf dieser Karte, wobei 0 einen äußerst schlechten Einfluss bedeutet und 10 einen äußerst guten Einfluss.
+
+[ANSWERS]
+00 äußerst schlechter Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst guter Einfluss
+
+E14
+[QUESTION]
+Alles in allem betrachtet, meinen Sie, dass die über 70jährigen heutzutage sehr viel oder sehr
+wenig zur österreichischen Wirtschaft beitragen? Bitte verwenden Sie diese Karte, auf der 0 bedeutet, dass sie sehr wenig und 10, dass sie sehr viel zur österreichischen Wirtschaft beitragen.
+
+[ANSWERS]
+00 tragen sehr wenig zur Wirtschaft bei
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 tragen sehr viel zur Wirtschaft bei
+
+E15
+ [INTRO]
+Ich habe Sie soeben über Ihre persönlichen Ansichten befragt. Jetzt werde ich Sie fragen, wie Ihrer Meinung nach die meisten Menschen in Österreich über die verschiedenen Altersgruppen denken.
+
+ [QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie hoch die Wahrscheinlichkeit
+ist, dass die meisten Menschen in Österreich die 20- bis 30jährigen wie folgt sehen:
+als freundlich
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E16
+[QUESTION]
+als effektiv
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E17
+[QUESTION]
+als Menschen mit hohen moralischen Standards
+
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E18
+[QUESTION]
+mit Respekt
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E19
+[QUESTION]
+Denken Sie jetzt bitte an Leute über 70. Verwenden Sie die gleiche Karte und
+sagen Sie mir, wie hoch die Wahrscheinlichkeit ist, dass die meisten Menschen in Österreich die über 70jährigen wie folgt sehen:
+
+als freundlich
+
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E20
+[QUESTION]
+als effektiv
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+E21
+[QUESTION]
+als Menschen mit hohen moralischen Standards
+
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E22
+[QUESTION]
+mit Respekt
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E23
+[QUESTION]
+Sagen Sie mir bitte, wie akzeptabel oder nicht akzeptabel es für die meisten Menschen in
+Österreich wäre, wenn ein passend qualifizierter 30jähriger zu Ihrem Vorgesetzten ernannt würde? Verwenden Sie diese Karte, auf der 0 bedeutet, dass es für die meisten Menschen vollkommen unakzeptabel wäre und 10, dass es vollkommen akzeptabel wäre.
+
+[ANSWERS]
+00 vollkommen unakzeptabel
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 vollkommen akzeptabel
+
+E24
+[QUESTION]
+Und sagen Sie mir bitte, wie akzeptabel oder nicht akzeptabel es für die moisten Menschen in Österreich wäre, wenn ein passend qualifizierter 70jähriger zu Ihrem Vorgesetzten ernannt
+würde? Verwenden Sie diese Karte, auf der 0 bedeutet, dass es für die meisten Menschen vollkommen unakzeptabel wäre und 10, dass es vollkommen akzeptabel wäre.
+
+[ANSWERS]
+00 vollkommen unakzeptabel
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 vollkommen akzeptabel
+
+E25
+[QUESTION]
+Verwenden Sie bitte diese Karte und sagen Sie mir, wie hoch die Wahrscheinlichkeit ist, dass die meisten Menschen in Österreich die 20- bis 30jährigen wie folgt sehen:
+
+mit Neid
+
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E26
+[QUESTION]
+mit Mitleid
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E27
+[QUESTION]
+mit Bewunderung
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E28
+[QUESTION]
+mit Verachtung
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E29
+[QUESTION]
+Und nun sagen Sie mir bitte wie hoch die Wahrscheinlichkeit ist, dass die meisten Menschen in Österreich die über 70jährigen wie folgt sehen:
+
+mit Neid
+
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E30
+[QUESTION]
+mit Mitleid
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E31
+[QUESTION]
+mit Bewunderung
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E32
+[QUESTION]
+mit Verachtung
+[ANSWERS]
+00 es ist gar nicht wahrscheinlich, dass sie so gesehen werden
+01
+02
+03
+04 sie werden sehr wahrscheinlich so gesehen
+
+E33
+
+[INTRO]
+Jetzt einige weitere Fragen über Ihre eigenen Ansichten zu Menschen verschiedenen Alters.
+[QUESTION]
+Verwenden Sie diese Karte und sagen Sie mir, wie negativ oder positiv Ihre Gefühle gegenüber 20- bis 30jährigen insgesamt sind. Wählen Sie Ihre Antwort auf dieser Karte, wobei 0 äußerst
+negativ bedeutet und 10 äußerst positiv.
+[ANSWERS]
+00 äußerst negativ
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst positiv
+
+E34
+[QUESTION]
+Und wie negativ oder positiv sind insgesamt Ihre Gefühle gegenüber Menschen über
+70?
+[ANSWERS]
+00 äußerst negativ
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst positiv
+
+E35
+[QUESTION]
+Verwenden Sie diese Karte und sagen mir bitte, wie oft jemand Ihnen gegenüber im letzten Jahr Vorurteile gezeigt oder Sie ungerecht behandelt hat, und zwar aufgrund …
+
+Ihres Alters
+
+[ANSWERS]
+00 nie
+01
+02
+03
+04 sehr oft
+
+E36
+[QUESTION]
+Ihres Geschlechts
+[ANSWERS]
+00 nie
+01
+02
+03
+04 sehr oft
+
+E37
+[QUESTION]
+Ihrer ethnischen Herkunft oder Ihrer Volksgruppe
+
+[ANSWERS]
+00 nie
+01
+02
+03
+04 sehr oft
+
+E38
+[QUESTION]
+Und wie oft, wenn überhaupt, haben Sie im letzten Jahr das Gefühl gehabt, dass Ihnen jemand wegen Ihres Altes nicht genügend Respekt bezeugt hat, zum Beispiel indem er Sie ignoriert oder gönnerhaft behandelt hat?
+
+[ANSWERS]
+00 nie
+01
+02
+03
+04 sehr oft
+
+E39
+[QUESTION]
+Und im Speziellen, wie oft hat Sie jemand im letzten Jahr wegen Ihres Alters schlecht behandelt, zum Beispiel indem er Sie beleidigt, verbal bzw. körperlich misshandelt oder Ihnen gewisse Dienstleistungen verweigert hat?
+
+[ANSWERS]
+00 nie
+01
+02
+03
+04 sehr oft
+
+E40
+ [INTRO]
+Und nun werde ich Ihnen einige Fragen über Ihre Freunde und über Ihre Familie stellen.
+ [QUESTION]
+Ungefähr wie viele Freunde haben Sie außerhalb der Familie, die unter 30 Jahre alt sind?
+[ANSWERS]
+1. Keine
+2. 1
+3. 2-5
+4. 6-9
+5. 10 oder mehr
+E41
+[QUESTION]
+Welche der Vorgaben auf dieser Karte beschreibt am besten, ob Sie persönliche Themen wie
+Gefühle, Überzeugungen oder Erlebnisse mit einem dieser Freunde besprechen können oder nicht?
+[ANSWERS]
+1. ich kann alle persönlichen Themen besprechen
+2. ich kann fast alle persönlichen Themen besprechen
+3. ich kann viele persönliche Themen besprechen
+4. ich kann einige persönliche Themen besprechen
+5. ich kann wenige persönliche Themen besprechen
+6. ich kann keine persönlichen Themen besprechen
+E42
+[QUESTION]
+Ungefähr wie viele Freunde haben Sie außerhalb der Familie, die älter als 70 sind?
+[ANSWERS]
+1. Keine
+2. 1
+3. 2-5
+4. 6-9
+5. 10 oder mehr
+E43
+[QUESTION]
+Welche der Vorgaben auf dieser Karte beschreibt am besten, ob Sie persönliche Themen wie Gefühle, Überzeugungen oder Erlebnisse mit einem dieser Freunde besprechen können oder nicht?
+
+[ANSWERS]
+1. ich kann alle persönlichen Themen besprechen
+2. ich kann fast alle persönlichen Themen besprechen
+3. ich kann viele persönliche Themen besprechen
+4. ich kann einige persönliche Themen besprechen
+5. ich kann wenige persönliche Themen besprechen
+6. ich kann keine persönlichen Themen besprechen	
+E44
+[QUESTION]
+Sagen Sie mir bitte, ob Sie jünger oder älter als 30 Jahre sind?
+[ANSWERS]
+1. 29 oder darunter
+2. 30 oder darüber
+E45
+[QUESTION]
+Haben Sie Kinder oder Enkelkinder, die zwischen 15 und 30 Jahre alt sind?
+[ANSWERS]
+1. Ja
+2. Nein
+E46
+[QUESTION]
+Welche der Vorgaben auf dieser Karte beschreibt am besten, ob Sie persönliche Themen wie Gefühle, Überzeugungen oder Erlebnisse mit einem dieser Kinder oder Enkelkinder besprechen können oder nicht?
+
+[ANSWERS]
+1. ich kann alle persönlichen Themen besprechen
+2. ich kann fast alle persönlichen Themen besprechen
+3. ich kann viele persönliche Themen besprechen
+4. ich kann einige persönliche Themen besprechen
+5. ich kann wenige persönliche Themen besprechen
+6. ich kann keine persönlichen Themen besprechen
+E47
+[QUESTION]
+Ist jemand in Ihrer Familie älter als 70 Jahre?
+[ANSWERS]
+1. Ja
+2. Nein
+E48
+[QUESTION]
+Welche der Vorgaben auf dieser Karte beschreibt am besten, ob Sie persönliche Themen wie Gefühle, Überzeugungen oder Erlebnisse mit einem dieser über 70jährigen Familienmitglieder besprechen können oder nicht?
+
+[ANSWERS]
+1. ich kann alle persönlichen Themen besprechen
+2. ich kann fast alle persönlichen Themen besprechen
+3. ich kann viele persönliche Themen besprechen
+4. ich kann einige persönliche Themen besprechen
+5. ich kann wenige persönliche Themen besprechen
+6. ich kann keine persönlichen Themen besprechen
+E49
+[QUESTION]
+Haben Sie im letzten Monat bezahlte oder unbezahlte (freiwillige) Arbeit geleistet? Wenn ja, ist das nur bezahlte Arbeit, nur unbezahlte Arbeit oder beides?
+[ANSWERS]
+1. ja, nur bezahlte Arbeit
+2. ja, nur unbezahlte (freiwillige) Arbeit
+3. ja, beides (bezahlte und unbezahlte Arbeit)
+4. nein, weder – noch
+E50
+[QUESTION]
+Wie viel dieser Arbeitszeit wurde mit 20- bis 30jährigen Kollegen verbracht?
+[ANSWERS]
+1. gar keine Zeit
+2. wenig Zeit
+3. die meiste Zeit
+4. die ganze oder fast die ganze Zeit
+E51
+[QUESTION]
+Und wie viel dieser Arbeitszeit wurde mit über 70jährigen Kollegen verbracht?
+[ANSWERS]
+1. gar keine Zeit
+2. wenig Zeit
+3. die meiste Zeit
+4. die ganze oder fast die ganze Zeit
+E52
+[QUESTION]
+Wenn Sie alles in Betracht ziehen, wie sehen Sie die 20- bis 30jährigen und die über 70jährigen in Österreich heute?
+
+Ich sehe die 20- bis 30jährigen und die über 70jährige als …
+
+[ANSWERS]
+1. eine einzige Gruppe
+2. zwei getrennte Gruppen, die Teil der gleichen Gemeinschaft sind
+3. zwei getrennte Gruppen, die nicht Teil der gleichen Gemeinschaft sind
+4. nur als Einzelpersonen und nicht als Gruppen
+E53
+[QUESTION]
+Bitte sagen Sie mir, wie wichtig es für Sie ist, dass man keine Vorurteile gegenüber Menschen anderer Altersgruppen hat. Verwenden Sie diese Karte, wo 0 dafür steht, dass es für Sie gar nicht wichtig ist und 10, dass es für Sie äußerst wichtig ist.
+
+[ANSWERS]
+00 gar nicht wichtig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst wichtig
+
+E54
+[QUESTION]
+Und jetzt sagen Sie mir bitte, wie wichtig es für Sie ist als jemand gesehen zu werden, der gegenüber Altersgruppen keine Vorurteile hat.
+
+[ANSWERS]
+00 gar nicht wichtig
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 äußerst wichtig
+
+E55
+[QUESTION]
+Wie schwerwiegend, wenn überhaupt, ist Ihrer Meinung nach die Altersdiskriminierung in Österreich - egal ob gegenüber älteren oder jüngeren Menschen?
+
+[ANSWERS]
+1. sehr schwerwiegend
+2. ziemlich schwerwiegend
+3. wenig schwerwiegend
+4. gar nicht schwerwiegend
+F1
+ [INTRO]
+Und nun würde ich Ihnen gerne noch ein paar Fragen über Sie und andere Personen in Ihrem Haushalt stellen.
+
+ [QUESTION]
+Wenn Sie sich selbst dazuzählen, wie viele Personen - Kinder eingeschlossen – leben regelmäßig in Ihrem Haushalt?
+
+[ANSWERS]
+F2
+[QUESTION]
+Welches Geschlecht hat diese Person?
+[ANSWERS]
+F3
+[QUESTION]
+Und in welchem Jahr wurden Sie/wurde er/sie geboren?
+[ANSWERS]
+F4
+[QUESTION]
+Wenn Sie auf diese Karte sehen, in welchem Verhältnis steht er/sie zu Ihnen?
+[ANSWERS]
+F5
+[QUESTION]
+Welche dieser Bezeichnungen beschreibt am besten Ihr Wohngebiet?
+[ANSWERS]
+1. Großstadt
+2. Vorort oder Randbezirk einer großen Stadt
+3. Stadt oder Kleinstadt
+4. Dorf
+5. Bauernhof oder Haus auf dem Land
+F6
+[QUESTION]
+Was ist der höchste Bildungsgrad, den Sie erreicht haben?
+[ANSWERS]
+0. Pflichtschule nicht abgeschlossen
+1. Pflichtschule
+2. Abschluss einer weiterbildenden Schule, BMS, Berufslehre, Berufsschule
+
+3. Höhere Schule mit Matura (AHS, BHS)
+
+4. Ausbildung nach Abschluss einer Höheren Schule (Kolleg, andere postsekundäre Einrichtungen)
+
+5. Erste Stufe einer universitären Ausbildung Bakkalaureat, hochschulverwandte Lehranstalt
+(berufsbildende, pädagogische Akademie),
+
+6. Akademischer Grad, (Fach-) Hochschulabschluss oder äquivalent
+
+7. andere (Ausfüllen:) ___________________________
+
+F7
+[QUESTION]
+Sagen Sie mir bitte anhand dieser Liste, in welchem Bereich Sie Ihre höchste Qualifikation
+haben?
+[ANSWERS]
+1. Allgemeine Qualifikation oder kein spezieller Bereich
+2. Kunst, Kunstgewerbe
+3. Geisteswissenschaften - Sprachen, klassische Philologie, Geschichte, Theologie, etc
+4. Technik, Maschinenbau, Architektur, Stadtplanung, Industrie, Handwerk, Gewerbe, Bau
+5. Land- und Forstwirtschaft
+6. Lehramt und Bildungswesen
+7. Naturwissenschaften, Mathematik, Informatik, etc
+8. Medizin, Gesundheitswesen, Krankenpflege, etc.
+9. Wirtschaft, Handel, Management, Rechnungswesen, etc
+10. Sozial- und Verhaltenswissenschaften, öffentliche Verwaltung, Medien, Kultur,
+Sportwissenschaften, Freizeitforschung, etc
+11. Justiz und rechtlicher Bereich
+12. Dienstleistungswesen – Lebensmittelhandel, Hauswirtschaft, Friseurgewerbe, etc
+13. Öffentliche Ordnung und Sicherheit – Polizei, Bundesheer, Feuerwehr, etc
+14. Transportwesen und Telekommunikation
+F7
+[QUESTION]
+Wie viele Jahre haben Sie insgesamt eine Schule besucht, einschließlich Pflichtschule, Berufsschule, schulische Berufsausbildungen oder Hochschule?
+
+[ANSWERS]
+F8a
+[QUESTION]
+Unter Verwendung dieser Karte, welche dieser Beschreibungen passt zu dem, was Sie die
+letzten 7 Tage gemacht haben?
+[ANSWERS]
+1. bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (unselbständig Beschäftigte/r, Selbständige/r mithelfende/r Familienangehörige/r)
+2. in Ausbildung, auch in den Ferien oder im Urlaub (nicht von einem Arbeitgeber bezahlt)
+
+3. arbeitslos und aktiv auf Arbeitssuche
+
+4. arbeitslos, Wunsch nach einem Arbeitsplatz, aber nicht aktiv auf Arbeitssuche
+
+5. chronisch krank oder behindert
+
+6. pensioniert
+
+7. Zivil- oder Militärdienst
+
+8. Hausarbeit, Betreuung von Kindern oder anderen Personen
+
+F8c
+[QUESTION]
+Und welche dieser Beschreibungen trifft am besten auf Ihre Situation in den letzten 7 Tagen zu?
+
+[ANSWERS]
+1. bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (unselbständig Beschäftigte/r, Selbständige/r mithelfende/r Familienangehörige/r)
+
+2. in Ausbildung, auch in den Ferien oder im Urlaub (nicht von einem Arbeitgeber bezahlt)
+
+3. arbeitslos und aktiv auf Arbeitssuche
+4. arbeitslos, Wunsch nach einem Arbeitsplatz, aber nicht aktiv auf Arbeitssuche
+
+5. chronisch krank oder behindert
+
+6. pensioniert
+
+7. Zivil- oder Militärdienst
+
+8. Hausarbeit, Betreuung von Kindern oder anderen Personen
+
+F9
+[QUESTION]
+Darf ich kurz noch einmal nachfragen: Haben Sie in den letzten 7 Tagen eine bezahlte Tätigkeit - für eine Stunde oder länger - ausgeübt?
+
+[ANSWERS]
+1. Ja
+2. Nein
+F10
+[QUESTION]
+Sind Sie jemals einer bezahlten Tätigkeit nachgegangen?
+[ANSWERS]
+1. Ja
+2. Nein
+F11
+[QUESTION]
+In welchem Jahr sind Sie zuletzt einer bezahlten Tätigkeit nachgegangen?
+[ANSWERS]
+F12
+[QUESTION]
+In Ihrer Hauptbeschäftigung sind Sie (waren Sie zuletzt) …?
+[ANSWERS]
+1. unselbständig beschäftigt
+2. selbständig
+3. oder im Familienunternehmen tätig
+F13
+[QUESTION]
+Wie viele Angestellte - wenn überhaupt - haben Sie (hatten Sie)?
+[ANSWERS]
+F14
+[QUESTION]
+Ist (war) Ihr Arbeitsvertrag ...?
+[ANSWERS]
+1. unbefristet,
+2. oder befristet,
+3. oder haben (hatten) Sie keinen Arbeitsvertrag
+F15
+[QUESTION]
+Sie selbst eingeschlossen, ungefähr wie viele Menschen sind (waren) an Ihrem üblichen Arbeitsplatz beschäftigt?
+
+[ANSWERS]
+1. weniger als 10
+2. 10 bis 24
+3. 25 bis 99
+4. 100 bis 499
+5. oder 500 oder mehr
+F16
+[QUESTION]
+Sind (waren) Sie in Ihrer Hauptbeschäftigung für die Beaufsichtigung von anderen Angestellten
+verantwortlich?
+[ANSWERS]
+1. Ja
+2. Nein
+F17
+[QUESTION]
+Für wie viele Leute sind/waren Sie verantwortlich?
+[ANSWERS]
+F18
+[QUESTION]
+Ich lese Ihnen jetzt eine Liste mit Aussagen über Ihr Arbeitsleben vor. Sagen Sie mir bitte, in welchem Maße es Ihr Arbeitgeber oder Ihre Geschäftsleitung erlaubt (erlaubte), ...?
+
+dass Sie an Ihrem Arbeitsplatz entscheiden (entschieden), wie Sie Ihre tägliche Arbeit organisieren (organisierten)
+
+[ANSWERS]
+00 ich habe (hatte) keinen Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 ich habe (hatte) völlige Kontrolle
+
+F19
+[QUESTION]
+dass Sie an Ihrem Arbeitsplatz strategische Entscheidungen über die Tätigkeit Ihres Unternehmens oder Ihrer Dienststelle beeinflussen (beeinflussten)
+
+[ANSWERS]
+00 ich habe (hatte) keinen Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 ich habe (hatte) völlige Kontrolle
+
+F20
+[QUESTION]
+Wie viele Stunden sind (waren) Sie in Ihrer Hauptbeschäftigung jede Woche vertraglich verpflichtet zu arbeiten – ohne bezahlte und unbezahlte Überstunden?
+
+[ANSWERS]
+F21
+[QUESTION]
+Ungeachtet Ihrer Mindest- oder vertraglichen Arbeitszeit, wie viele Stunden arbeiten (arbeiteten) Sie normalerweise tatsächlich in Ihrer Hauptbeschäftigung in der Woche, inklusive bezahlter und unbezahlter Überstunden?
+
+[ANSWERS]
+F22
+[QUESTION]
+Was macht (machte) die Firma bzw. Organisation, für die Sie arbeiten (arbeiteten), hauptsächlich?
+[ANSWERS]
+F23
+[QUESTION]
+Für welche Art von Arbeitgeber arbeiten Sie/haben Sie gearbeitet?
+[ANSWERS]
+1. Bundes- oder Lokalbehörde
+2. andere öffentliche Dienste (wie Unterrichts- oder Gesundheitswesen)
+3. ein verstaatlichtes Unternehmen
+4. ein Privatunternehmen
+5. als Selbständige/r
+6. anderes
+F24
+[QUESTION]
+Was ist (war) die Bezeichnung Ihrer Hauptbeschäftigung?
+[ANSWERS]
+F25
+[QUESTION]
+Welche Tätigkeiten üben (übten) Sie überwiegend in Ihrer Hauptbeschäftigung aus?
+[ANSWERS]
+F25a
+[QUESTION]
+Welche Ausbildung oder Qualifikationen sind (waren) für Ihren Hauptberuf erforderlich?
+[ANSWERS]
+F26
+[QUESTION]
+Haben Sie in den letzten 10 Jahren für 6 Monate oder länger eine bezahlte Tätigkeit im Ausland
+ausgeübt?
+[ANSWERS]
+1. Ja
+2. Nein
+F27
+[QUESTION]
+Waren Sie jemals über einen längeren Zeitraum als 3 Monate arbeitslos und auf Arbeitssuche?
+[ANSWERS]
+1. Ja
+2. Nein
+F28
+[QUESTION]
+Waren Sie einmal ununterbrochen 12 Monate lang oder länger arbeitslos?
+[ANSWERS]
+1. Ja
+2. Nein
+F29
+[QUESTION]
+Waren Sie innerhalb der letzten 5 Jahre einmal 3 Monate oder länger arbeitslos und auf Arbeitssuche?
+[ANSWERS]
+1. Ja
+2. Nein
+F30
+[QUESTION]
+Sind Sie oder waren Sie jemals Mitglied einer Gewerkschaft oder einer ähnlichen Organisation? Sind Sie es zurzeit oder waren Sie es früher einmal?
+
+[ANSWERS]
+1. ja, zurzeit
+2. ja, früher
+3. nein
+F31
+[QUESTION]
+Bitte berücksichtigen Sie nun das Einkommen aller Haushaltsmitglieder und alle Einnahmen,
+die der Haushalt als Ganzes erhält. Was ist die Haupteinkommensquelle des Haushalts?
+[ANSWERS]
+1. Gehälter oder Löhne
+2. Einkommen aus selbständiger Tätigkeit (Landwirtschaft ausgenommen)
+3. Einkommen aus Landwirtschaft
+4. Pensionen oder Renten
+5. Arbeitslosengeld oder Abfertigung
+6. Sonstige Sozialleistungen oder Subventionen
+7. Einkommen aus Vermögensanlagen, Ersparnissen, Versicherungen oder Eigentum
+8. Einkommen aus anderen Quellen
+F32
+[QUESTION]
+Verwenden Sie bitte diese Karte. Wenn Sie das Einkommen aus allen Quellen zusammenzählen, welcher Buchstabe bezeichnet am besten das gesamte Nettoeinkommen Ihres Haushalts? Wenn Sie die genaue Zahl nicht kennen, geben Sie bitte eine Schätzung ab. Nutzen Sie den Teil der Tabelle, der Ihnen am geläufigsten ist, also wöchentliche, monatliche oder jährliche Angaben.
+
+[ANSWERS]
+1. J 
+2. R 
+3. C 
+4. M
+5. F
+6. S
+7. K
+8. P
+9. D 
+10. H 
+F33
+[QUESTION]
+Welche der Beschreibungen auf dieser Karte kommt dem am nächsten, wie Sie die derzeitige
+Einkommenssituation Ihres Haushalts beurteilen? Mit dem gegenwärtigen Einkommen kann ich bzw. Können wir ...?
+
+[ANSWERS]
+1. bequem leben
+2. zurechtkommen
+3. nur schwer zurechtkommen
+4. nur sehr schwer zurechtkommen
+F34
+[QUESTION]
+Wenn Sie aus irgendeinem Grund in ernste finanzielle Probleme kommen würden und Geld
+borgen müssten, um über die Runden zu kommen, wie schwierig oder leicht wäre das?
+[ANSWERS]
+1. sehr schwierig
+2. ziemlich schwierig
+3. weder schwierig noch leicht
+4. ziemlich leicht
+5. sehr leicht
+F36
+[QUESTION]
+Was ist der höchste Bildungsgrad, den Ihr Ehemann/Ihre Ehefrau/Ihr Partner/Ihre Partnerin
+erreicht hat?
+[ANSWERS]
+0. Pflichtschule nicht abgeschlossen
+1. Pflichtschule
+2. Abschluss einer weiterbildenden Schule, BMS, Berufslehre, Berufsschule
+3. Höhere Schule mit Matura (AHS, BHS)
+4. Ausbildung nach Abschluss einer Höheren Schule (Kolleg, andere postsekundäre Einrichtungen)
+
+5. Erste Stufe einer universitären Ausbildung Bakkalaureat, hochschulverwandte Lehranstalt
+(berufsbildende, pädagogische Akademie),
+
+6. Akademischer Grad, (Fach-) Hochschulabschluss oder äquivalent
+
+F37a
+[QUESTION]
+Welche der Beschreibungen auf dieser Karte passt zu dem, was er/sie in den letzten 7 Tagen
+getan hat? „Was noch?“
+[ANSWERS]
+1. bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (unselbständig Beschäftigte/r, Selbständige/r mithelfende/r Familienangehörige/r)
+
+2. in Ausbildung, auch in den Ferien oder im Urlaub (nicht von einem Arbeitgeber bezahlt)
+
+3. arbeitslos und aktiv auf Arbeitssuche
+
+4. arbeitslos, Wunsch nach einem Arbeitsplatz, aber nicht aktiv auf Arbeitssuche
+
+5. chronisch krank oder behindert
+
+6. pensioniert
+
+7. leistet Zivil- oder Militärdienst
+
+F37c
+[QUESTION]
+Und welche dieser Beschreibungen auf der Karte bezeichnet seine/ihre Situation in den letzten 7 Tagen am besten?
+
+[ANSWERS]
+1. bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (unselbständig Beschäftigte/r, Selbständige/r mithelfende/r Familienangehörige/r)
+
+2. in Ausbildung, auch in den Ferien oder im Urlaub (nicht von einem Arbeitgeber bezahlt)
+
+3. arbeitslos und aktiv auf Arbeitssuche
+
+4. arbeitslos, Wunsch nach einem Arbeitsplatz, aber nicht aktiv auf Arbeitssuche
+
+5. chronisch krank oder behindert
+
+6. pensioniert
+
+7. leistet Zivil- oder Militärdienst
+
+F38
+[QUESTION]
+Darf ich kurz noch einmal nachfragen: Hat Ihr Partner/Ihre Partnerin in den letzten 7 Tagen eine
+bezahlte Tätigkeit - für eine Stunde oder länger - ausgeübt?
+[ANSWERS]
+1. Ja
+2. Nein
+F39
+[QUESTION]
+Was ist die Bezeichnung für seine/ihre Hauptbeschäftigung?
+[ANSWERS]
+F40
+[QUESTION]
+Im Rahmen seiner/ihrer Hauptbeschäftigung, welche Art von Arbeit macht er/sie hauptsächlich?
+[ANSWERS]
+F41
+[QUESTION]
+Welche Ausbildung oder Qualifikation ist für diese Arbeit notwendig?
+[ANSWERS]
+F42
+[QUESTION]
+In seiner/ihrer Hauptbeschäftigung ist er/sie …?
+[ANSWERS]
+1. Angestellte/r
+2. Selbständige/r
+3. oder im Familienunternehmen tätig
+F43
+[QUESTION]
+Wie viele Beschäftigte - wenn überhaupt - hat er/sie?
+[ANSWERS]
+F44
+[QUESTION]
+Ist Ihr Partner/Ihre Partnerin in seiner/ihrer Hauptbeschäftigung für die Beaufsichtigung von anderen Beschäftigten verantwortlich?
+
+[ANSWERS]
+1. Ja
+2. Nein
+F45
+[QUESTION]
+Für wie viele Leute ist er/sie verantwortlich?
+[ANSWERS]
+F46
+[QUESTION]
+Ich lese Ihnen jetzt eine Liste mit Aussagen über das Arbeitsleben Ihres Partners/Ihrer Partnerin vor. Verwenden Sie bitte diese Karte und sagen Sie mir, in welchem Ausmaß die Geschäftsleitung Ihres Partners/Ihrer Partnerin es erlaubt, ...?
+
+dass er/sie am Arbeitsplatz entscheidet, wie er/sie die tägliche Arbeit organisiert
+
+[ANSWERS]
+00 er/sie hat keinen Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 er/sie hat völlige Kontrolle
+
+F47
+[QUESTION]
+dass er/sie am Arbeitsplatz strategische Entscheidungen über die Tätigkeit seines/ihres
+Unternehmens oder seiner/ihrer Dienststelle beeinflusst
+
+[ANSWERS]
+00 er/sie hat keinen Einfluss
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 er/sie hat völlige Kontrolle
+
+F48
+[QUESTION]
+Wie viele Stunden arbeitet er/sie normalerweise in der Woche in seiner/ihrer Hauptbeschäftigung einschließlich bezahlter oder unbezahlter Überstunden?
+
+[ANSWERS]
+F49
+[QUESTION]
+Was ist der höchste Bildungsgrad, den Ihr Vater erreicht hat?
+[ANSWERS]
+0. Pflichtschule nicht abgeschlossen
+1. Pflichtschule
+2. Abschluss einer weiterbildenden Schule, BMS, Berufslehre, Berufsschule
+
+3. Höhere Schule mit Matura (AHS, BHS)
+
+4. Ausbildung nach Abschluss einer Höheren Schule (Kolleg, andere postsekundäre Einrichtungen)
+
+5. Erste Stufe einer universitären Ausbildung Bakkalaureat, hochschulverwandte Lehranstalt
+(berufsbildende, pädagogische Akademie),
+
+6. Akademischer Grad, (Fach-) Hochschulabschluss oder äquivalent
+
+F50
+[QUESTION]
+Als Sie 14 Jahre alt waren, war Ihr Vater damals unselbständig beschäftigt, war er selbständig oder war er nicht erwerbstätig?
+
+[ANSWERS]
+1. unselbständig beschäftigt
+2. selbständig
+3. nicht erwerbstätig
+4. Vater starb bzw. lebte nicht im selben Haushalt, als Befragte/r 14 war
+
+F51
+[QUESTION]
+Wie viele Beschäftigte hatte er?
+[ANSWERS]
+1. Keine
+2. 1 bis 24
+3. 25 oder mehr
+F52
+[QUESTION]
+War er für die Beaufsichtigung anderer Mitarbeiter verantwortlich?
+[ANSWERS]
+1. Ja
+2. Nein
+F53
+[QUESTION]
+Was war die Bezeichnung für seine Hauptbeschäftigung?
+[ANSWERS]
+F54
+[QUESTION]
+Welche der Berufsbezeichnungen auf dieser Karte beschreibt die Arbeit Ihres Vaters, die er
+ausübte, als Sie 14 Jahre alt waren, am besten?
+[ANSWERS]
+1. Freie und technische Berufe wie z.B.: Arzt – Lehrer – Ingenieur oder Konstrukteur – Künstler – Buchprüfer
+
+2. Höhere Management- oder Verwaltungsberufe wie z.B.: Banker – Manager in einem Großunternehmen – hoher Regierungsbeamter – Gewerkschaftsfunktionär
+
+3. Büroberufe wie z.B.: Sekretär/-in – Bürokraft – Büroleiter – Buchhalter
+
+4. Verkaufsberufe wie z.B.: Verkaufsleiter – Geschäftsinhaber – Verkäufer – Versicherungsvertreter
+
+5. Dienstleistungsberufe wie z.B.: Restaurantbesitzer – Polizist – Kellner – Pfleger – Friseur – Militär
+
+6. Facharbeiter wie z.B.: Vorarbeiter – KFZ-Mechaniker – Drucker – Werkzeugmacher – Elektriker
+
+7. Angelernte Arbeiter wie z.B.: Maurergehilfe – Bäckergehilfe – Busfahrer – Arbeiter in einer Dosenfabrik – Tischlergehilfe
+
+8. Ungelernte Arbeiter wie z.B.: Hilfsarbeiter – Gepäckträger – ungelernte Fabrikarbeiter
+
+9. Landwirtschaft und Forstwirtschaft wie z.B.: Bauer – landwirtschaftliche Arbeiter – Traktorfahrer – Fischer
+
+F55
+[QUESTION]
+Was ist der höchste Bildungsgrad, den Ihre Mutter erreicht hat?
+[ANSWERS]
+0. Pflichtschule nicht abgeschlossen
+1. Pflichtschule
+2. Abschluss einer weiterbildenden Schule, BMS, Berufslehre, Berufsschule
+
+3. Höhere Schule mit Matura (AHS, BHS)
+
+4. Ausbildung nach Abschluss einer Höheren Schule (Kolleg, andere postsekundäre Einrichtungen)
+
+5. Erste Stufe einer universitären Ausbildung Bakkalaureat, hochschulverwandte Lehranstalt
+(berufsbildende, pädagogische Akademie),
+
+6. Akademischer Grad, (Fach-) Hochschulabschluss oder äquivalent
+F56
+[QUESTION]
+Als Sie 14 Jahre alt waren, war Ihre Mutter unselbständig beschäftigt, war sie damals selbständig oder hat sie überhaupt nicht gearbeitet?
+
+[ANSWERS]
+1. unselbständig beschäftigt
+2. selbständig
+3. nicht erwerbstätig
+4. Mutter starb bzw. lebte nicht im selben Haushalt, als Befragte/r 14 war
+
+F57
+[QUESTION]
+Wie viele Beschäftigte hatte sie?
+[ANSWERS]
+1. Keine
+2. 1 bis 24
+3. 25 oder mehr
+F58
+[QUESTION]
+War sie für die Beaufsichtigung anderer Mitarbeiter verantwortlich?
+[ANSWERS]
+1. Ja
+2. Nein
+F59
+[QUESTION]
+Was war die Bezeichnung für ihre Hauptbeschäftigung?
+[ANSWERS]
+F60
+[QUESTION]
+Welche der Berufsbezeichnungen auf dieser Karte beschreibt die Arbeit Ihrer Mutter, die sie
+ausübte, als Sie 14 Jahre alt waren, am besten?
+[ANSWERS]
+1. Freie und technische Berufe wie z.B.: Arzt – Lehrer – Ingenieur oder Konstrukteur – Künstler – Buchprüfer
+
+2. Höhere Management- oder Verwaltungsberufe wie z.B.: Banker – Manager in einem Großunternehmen – hoher Regierungsbeamter – Gewerkschaftsfunktionär
+
+3. Büroberufe wie z.B.: Sekretär/-in – Bürokraft – Büroleiter – Buchhalter
+
+4. Verkaufsberufe wie z.B.: Verkaufsleiter – Geschäftsinhaber – Verkäufer – Versicherungsvertreter
+
+5. Dienstleistungsberufe wie z.B.: Restaurantbesitzer – Polizist – Kellner – Pfleger – Friseur – Militär
+
+6. Facharbeiter wie z.B.: Vorarbeiter – KFZ-Mechaniker – Drucker – Werkzeugmacher – Elektriker
+
+7. Angelernte Arbeiter wie z.B.: Maurergehilfe – Bäckergehilfe – Busfahrer – Arbeiter in einer Dosenfabrik – Tischlergehilfe
+
+8. Ungelernte Arbeiter wie z.B.: Hilfsarbeiter – Gepäckträger – ungelernte Fabrikarbeiter
+
+9. Landwirtschaft und Forstwirtschaft wie z.B.: Bauer – landwirtschaftliche Arbeiter – Traktorfahrer – Fischer
+
+F61
+[QUESTION]
+Während der letzten 12 Monate, haben Sie irgendwelche Kurse, Seminare oder Konferenzen besucht, die Ihrer beruflichen Fort- und Weiterbildung dienten?1
+
+[ANSWERS]
+1. Ja
+2. Nein
+F62
+[QUESTION]
+Darf ich Sie zu Ihrem derzeitigen Familienstand befragen? Welche der Bezeichnungen auf
+dieser Karte trifft auf Sie zu?
+[ANSWERS]
+1. Verheiratet
+3. getrennt (noch immer verheiratet)
+5. geschieden
+6. verwitwet
+9. ledig, nie verheiratet gewesen
+F63
+[QUESTION]
+Leben Sie derzeit mit Ihrem Ehemann/Ihrer Ehefrau zusammen?
+[ANSWERS]
+1. Ja
+2. Nein
+F64
+[QUESTION]
+Leben Sie zurzeit mit einem/einer anderen Partner/in zusammen?
+[ANSWERS]
+1. Ja
+2. Nein
+F66
+[QUESTION]
+Haben Sie jemals mit einem/einer Partner/in gelebt, mit dem/der Sie nicht verheiratet waren?
+[ANSWERS]
+1. Ja
+2. Nein
+F68
+[QUESTION]
+Sind Sie schon jemals geschieden worden?
+[ANSWERS]
+1. Ja
+2. Nein
+F70
+[QUESTION]
+Haben Sie jemals mit eigenen oder adoptierten Kindern, Stiefkindern, Pflegekindern oder Kindern eines Partners/einer Partnerin in Ihrem Haushalt zusammengelebt?
+
+[ANSWERS]
+1. Ja
+2. Nein
+F71
+[QUESTION]
+Gibt es ein Festnetztelefon in Ihrer Wohnung bzw. in Ihrem Teil der Wohnung oder des Hauses?
+[ANSWERS]
+1. Ja
+2. Nein
+F72
+[QUESTION]
+Haben Sie ein eigenes Mobiltelefon?
+[ANSWERS]
+1. Ja
+2. Nein
+F73
+[QUESTION]
+Telefonieren Sie zu Hause jemals über das Internet?
+[ANSWERS]
+1. Ja
+2. Nein
+
+

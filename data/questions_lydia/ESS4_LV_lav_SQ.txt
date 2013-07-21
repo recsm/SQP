@@ -1,0 +1,404 @@
+﻿HS1
+[QUESTION]
+Vidēji cik stundas ikdienā Jūs skatāties televīziju? Lūdzu, ierakstiet savu atbildi stundās un minūtēs.
+[ANSWERS]
+HS2
+[QUESTION]
+Vidēji cik stundas ikdienā Jūs klausāties radio? Lūdzu, ierakstiet savu atbildi stundās un minūtēs.
+[ANSWERS]
+HS3
+[QUESTION]
+Vidēji cik stundas ikdienā Jūs pavadāt, lasot laikrakstus? Lūdzu, ierakstiet savu atbildi stundās un minūtēs.
+[ANSWERS]
+HS4
+[QUESTION]
+Kopumā ņemot, vai Jūs uzskatāt, ka lielākai daļai cilvēku var uzticēties, vai piesardzības nekad nevar būt par daudz? 
+[ANSWERS]
+1. Piesardzības nekad nevar būt par daudz.
+2. Lielākai daļai cilvēku var uzticēties.
+HS5
+[QUESTION]
+Kā Jums šķiet, vai lielākā daļa cilvēku Jūs mēģinātu izmantot, krāpt, ja viņiem būtu šāda iespēja, vai arī viņi censtos būt godīgi? 
+[ANSWERS]
+1. Lielākā daļa cilvēku censtos mani izmantot, krāpt.
+
+2. Lielākā daļa cilvēku censtos būt godīgi.
+
+HS6
+[QUESTION]
+Kā Jums šķiet, vai lielākā daļa cilvēku vai tikai daži ir pelnījuši Jūsu uzticību? 
+[ANSWERS]
+1. Tikai daži cilvēki ir pelnījuši manu uzticību.
+2. Lielākā daļa cilvēku ir pelnījuši manu uzticību.
+HS7
+ [INTRO]
+Tagad daži jautājumi par politiku un valdību.
+ [QUESTION]
+Kopumā ņemot, cik apmierināts Jūs esat ar pašreizējo ekonomisko situāciju Latvijā? 
+[ANSWERS]
+00 Neapmierināts
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Apmierināts
+HS8
+[QUESTION]
+Runājot par Latvijas valdību, cik apmierināts Jūs esat ar valdības darbu?
+[ANSWERS]
+00 Neapmierināts
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Apmierināts
+HS9
+[QUESTION]
+Un kopumā ņemot, cik apmierināts Jūs esat ar to, kā darbojas demokrātiskā sistēma Latvijā?
+[ANSWERS]
+00 Neapmierināts
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Apmierināts
+HS10
+[QUESTION]
+Vai, jūsuprāt, valdībai būtu vai nebūtu jāveic pasākumi, lai samazinātu ienākumu līmeņu atšķirības? 
+[ANSWERS]
+1. Noteikti būtu jāveic 
+
+2. Iespējams būtu jāveic
+
+3. Nav viedokļa 
+
+4. Iespējams nebūtu jāveic
+
+5. Noteikti nebūtu jāveic
+
+HS11
+[QUESTION]
+Kā Jums šķiet, vai gejiem un lesbietēm būtu jāļauj dzīvot savu dzīvi, kā viņi vēlas?
+[ANSWERS]
+1. Noteikti būtu jāveic
+ 
+2. Iespējams būtu jāveic
+
+3. Nav viedokļa 
+
+4. Iespējams nebūtu jāveic
+
+5. Noteikti nebūtu jāveic
+
+HS12
+[QUESTION]
+Vai, jūsuprāt, valdībai būtu vai nebūtu jānodrošina, lai sabiedrībā pret visām sociālajām grupām izturētos vienlīdzīgi? 
+[ANSWERS]
+1. Noteikti būtu jāveic 
+
+2. Iespējams būtu jāveic
+
+3. Nav viedokļa 
+
+4. Iespējams nebūtu jāveic
+
+5. Noteikti nebūtu jāveic
+
+HS13
+[QUESTION]
+Vidēji cik daudz laika ikdienā Jūs kopumā pavadāt skatoties televīziju?
+[ANSWERS]
+1. Nemaz 
+
+2. Ļoti maz
+
+3. Maz 
+
+4. Nedaudz
+
+5. Diezgan daudz
+
+6. Daudz
+
+7. Lielāko daļu laika/Ļoti daudz
+
+HS14
+[QUESTION]
+Vidēji cik daudz laika ikdienā Jūs kopumā pavadāt klausoties radio?
+[ANSWERS]
+1. Nemaz 
+
+2. Ļoti maz
+
+3. Maz 
+
+4. Nedaudz
+
+5. Diezgan daudz
+
+6. Daudz
+
+7. Lielāko daļu laika/Ļoti daudz
+
+HS15
+[QUESTION]
+Vidēji cik daudz laika ikdienā Jūs kopumā pavadāt lasot laikrakstus?
+[ANSWERS]
+1. Nemaz 
+
+2. Ļoti maz
+
+3. Maz 
+
+4. Nedaudz
+
+5. Diezgan daudz
+
+6. Daudz
+
+7. Lielāko daļu laika/Ļoti daudz
+
+HS16
+[INTRO]
+Un tagad daži jautājumi par politiku un valdību.
+[QUESTION]
+Lūdzu, atzīmējiet katrā rindiņā vienu atbildi, novērtējot cik daudz Jūs personīgi uzticaties katrai no šīm institūcijām. 
+Latvijas Saeimai.
+[ANSWERS]
+0. Nemaz neuzticos
+1.
+2.
+3.
+4.
+5. Pilnībā uzticos
+
+HS17
+[QUESTION]
+Tieslietu sistēmai
+[ANSWERS]
+0. Nemaz neuzticos
+1.
+2.
+3.
+4.
+5. Pilnībā uzticos
+
+HS18
+[QUESTION]
+Policijai
+[ANSWERS]
+0. Nemaz neuzticos
+1.
+2.
+3.
+4.
+5. Pilnībā uzticos
+
+HS19
+[QUESTION]
+Lūdzu, atzīmējiet, cik lielā mērā Jūs piekrītat vai nepiekrītat zemāk minētajiem apgalvojumiem.
+Kopumā ņemot, es esmu apmierināts ar pašreizējo ekonomisko situāciju Latvijā.
+[ANSWERS]
+1. Pilnībā piekrītu
+2. Piekrītu
+3. Ne piekrītu, ne nepiekrītu
+4. Nepiekrītu
+5. Pilnībā nepiekrītu
+
+HS20
+[QUESTION]
+Es esmu apmierināts ar valdības darbu Latvijā.
+[ANSWERS]
+1. Pilnībā piekrītu
+2. Piekrītu
+3. Ne piekrītu, ne nepiekrītu
+4. Nepiekrītu
+5. Pilnībā nepiekrītu
+
+HS21
+[QUESTION]
+Kopumā ņemot, es esmu apmierināts ar to, kā darbojas demokrātiskā sistēma Latvijā.
+[ANSWERS]
+1. Pilnībā piekrītu
+2. Piekrītu
+3. Ne piekrītu, ne nepiekrītu
+4. Nepiekrītu
+5. Pilnībā nepiekrītu
+
+HS22
+[QUESTION]
+Apspriežot politiskus jautājumus, cilvēki mēdz runāt par “kreisajiem” un “labējiem”. Kāda ir Jūsu pozīcija atbilstoši dotajai skalai?
+[ANSWERS]
+00 Galēji kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Galēji labējie
+HS23
+Kur Jūs novietotu partiju, Jums patīk visvairāk?
+[QUESTION]
+00 Galēji kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Galēji labējie
+HS24
+[QUESTION]
+Kur Jūs novietotu partiju, kura Jums visvairāk nepatīk?
+[ANSWERS]
+00 Galēji kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Galēji labējie
+HS25
+[QUESTION]
+Kopumā ņemot, vai Jūs uzskatāt, ka lielākai daļai cilvēku var uzticēties, vai piesardzības nekad nevar būt par daudz?
+[ANSWERS]
+0. Piesardzības nekad nevar būt par daudz.
+1. 
+2.
+3.
+4.
+5. Lielākai daļai cilvēku var uzticēties
+HS26
+[QUESTION]
+Kā Jums šķiet, vai lielākā daļa cilvēku censtos Jūs izmantot, krāpt, ja viņiem būtu šāda iespēja, vai arī viņi censtos būt godīgi?
+[ANSWERS]
+0. Lielākā daļa cilvēku mēģinātu mani izmantot, krāpt
+1.
+2.
+3.
+4.
+5. Lielākā daļa cilvēku censtos būt godīgi
+HS27
+[QUESTION]
+Vai, jūsuprāt, lielākā daļa cilvēku vai tikai daži cilvēki ir pelnījuši Jūsu uzticību?
+[ANSWERS]
+0. Tikai daži cilvēki ir pelnījuši manu uzticību1.
+2.
+3.
+4.
+5. Lielākā daļa cilvēku ir pelnījuši manu uzticību
+
+HS28
+[INTRO]
+Tagad daži jautājumi par politiku un valdību.
+ [QUESTION]
+Lūdzu, novērtējiet skalā no 0 līdz 10, cik lielā mērā Jūs personiski uzticaties Latvijas Saeimai. Ja Jūs neuzticaties nemaz, ierakstiet “0”, ja Jūs uzticaties pilnībā, ierakstiet “10”. Citā gadījumā ierakstiet vērtējumu no šī intervāla.
+[ANSWERS]
+HS29
+[QUESTION]
+Lūdzu, novērtējiet skalā no 0 līdz 10 cik lielā mērā Jūs personiski uzticaties tieslietu sistēmai.
+[ANSWERS]
+HS30
+[QUESTION]
+Lūdzu, novērtējiet skalā no 0 līdz 10 cik lielā mērā Jūs personiski uzticaties policijai. Ja Jūs neuzticaties nemaz, ierakstiet “0”.
+[ANSWERS]
+HS31
+[QUESTION]
+Lūdzu, izlasiet katru apgalvojumu un novērtējiet, cik lielā mērā Jūs piekrītas vai nepiekrītat katram no tiem.
+Valdībai būtu jāveic pasākumi, lai samazinātu ienākumu līmeņu atšķirības.
+[ANSWERS]
+1. Pilnībā piekrītu.
+2. Piekrītu.
+3. Ne piekrītu, ne nepiekrītu.
+4. Nepiekrītu.
+5. Pilnībā nepiekrītu.
+HS32
+[QUESTION]
+Gejiem un lezbietēm būtu jāļauj dzīvot savu dzīvi kā viņi vēlas.
+[ANSWERS]
+1. Pilnībā piekrītu.
+2. Piekrītu.
+3. Ne piekrītu, ne nepiekrītu.
+4. Nepiekrītu.
+5. Pilnībā nepiekrītu.
+HS33
+[QUESTION]
+Valdībai būtu jānodrošina, lai pret visām sociālajām grupām sabiedrībā izturētos vienlīdzīgi.
+[ANSWERS]
+1. Pilnībā piekrītu.
+2. Piekrītu.
+3. Ne piekrītu, ne nepiekrītu.
+4. Nepiekrītu.
+5. Pilnībā nepiekrītu.
+HS34
+[QUESTION]
+Apspriežot politiskus jautājumus, cilvēki mēdz runāt par “kreisajiem” un “labējiem”. Kāda ir Jūsu pozīcija atbilstoši dotajai skalai, kur 0 nozīmē “kreisie” un 10 nozīmē “labējie”?
+[ANSWERS]
+00 Kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Labējie
+HS35
+[QUESTION]
+Kur Jūs novietotu partiju, kura Jums visvairāk patīk, ja 0 ir “kreisa” un 10 ir “labēja”?
+[ANSWERS]
+00 Kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Labējie
+HS36
+[QUESTION]
+Kur Jūs novietotu partiju, kura Jums visvairāk nepatīk, ja 0 ir “kreisa” un 10 ir “labēja”?
+[ANSWERS]
+00 Kreisie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Labējie
+

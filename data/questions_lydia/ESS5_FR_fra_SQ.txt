@@ -1,0 +1,526 @@
+﻿IF1
+[INTRO]
+Pour améliorer notre questionnaire dans le futur, j'aimerais maintenant revenir sur quelques questions que nous avons déjà traitées. N'essayez pas de vous rappeler, s'il vous plaît, ce que vous avez répondu précédemment mais traitez-les comme s'il s'agissait de questions complètement nouvelles. 
+
+Les premières questions portent sur le temps que vous consacrez à regarder la télévision, écouter la radio et lire les journaux. 
+
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne, à regarder la télévision? Veuillez tenir compte aussi du temps passé à regarder la télévision sur Internet. 
+
+[ANSWERS]
+
+01. Pas du tout.
+
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure.
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+07. Plus de 2 heures et demie, jusqu’à trois heures.
+
+08. Plus de 3 heures. 
+
+IF2
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne, à écouter la radio? Veuillez tenir compte aussi du temps passé à écouter la radio sur Internet.
+[ANSWERS]
+
+01. Pas du tout.
+
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure.
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+07. Plus de 2 heures et demie, jusqu’à trois heures.
+
+08. Plus de 3 heures.
+
+IF3
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne à lire les journaux? Veuillez tenir compte aussi du temps passé à lire les journaux sur Internet
+[ANSWERS]
+
+01. Pas du tout.
+
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure.
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+07. Plus de 2 heures et demie, jusqu’à trois heures.
+
+08. Plus de 3 heures.
+
+IF22
+[INTRO]
+Et maintenant quelques questions concernant la politique et le gouvernement
+[QUESTION]
+Dans quelle mesure, selon vous, le système politique en France permet à des gens comme vous d'avoir votre mot à dire sur ce que fait le gouvernement?
+
+[ANSWERS]
+
+1. Pas du tout 
+
+2. Très peu 
+
+3. Un peu
+
+4. Beaucoup 
+
+5. Vraiment beaucoup.
+
+
+
+IF23
+[QUESTION]
+Pensez-vous que vous pourriez prendre un rôle actif dans un groupe qui s'occupe de questions politiques?
+[ANSWERS]
+
+1. Absolument pas. 
+
+2. Probablement pas.
+
+3. Je ne suis pas sûr/e. 
+
+4. Probablement oui. 
+
+5. Tout à fait. 
+
+IF24
+[QUESTION]
+Dans quelle mesure le système politique en France permet à des personnes comme vous d'avoir une influence directe sur la politique?
+
+[ANSWERS]
+
+1. Pas du tout. 
+
+2. Très peu. 
+
+3. Pas beaucoup. 
+
+4. Beaucoup. 
+
+5. Vraiment beaucoup. 
+
+IF25
+[QUESTION]
+Dans quelle mesure vous sentez-vous capable de participer à des activités ou à des discussions politiques?
+[ANSWERS]
+
+1. Pas du tout capable
+
+2. un peu capable
+
+3. assez capable
+
+4. très capable
+
+5. totalement capable
+
+IF26
+[INTRO]
+Pour améliorer notre questionnaire dans le futur, j'aimerais maintenant revenir sur quelques questions que nous avons déjà traitées.
+
+N'essayez pas de vous rappeler, s'il vous plaît, ce que vous avez répondu précédemment mais traitez-les comme s'il s'agissait de questions complètement nouvelles.
+
+Les premières questions portent sur le temps que vous consacrez à regarder la télévision, écouter la radio et lire les journaux.
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne, à regarder la télévision? Veuillez tenir compte aussi du temps passé à regarder la télévision sur Internet.
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF27
+[QUESTION]
+En dehors des week-ends, combien de temps par jour, en moyenne, passez-vous à regarder à la télévision les informations ou les émissions sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF28
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne, à écouter la radio? Veuillez tenir compte aussi du temps passé à écouter la radio sur Internet.
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+
+
+
+IF29
+[QUESTION]
+En dehors des week-ends, combien de temps, en moyenne, passez-vous par jour à écouter à la radio les informations ou les émissions sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF30
+[QUESTION]
+En dehors des week-ends, combien de temps passez-vous par jour, en moyenne, à lire les journaux? Veuillez tenir compte aussi du temps passé à lire les journaux sur Internet.
+
+[ANSWERS]
+
+01. Pas du tout. 
+
+02. Moins de 15 minutes. 
+
+03. De 15 minutes à une demi heure. 
+
+04. Plus d'une demi-heure à 45 minutes. 
+
+05. Plus de 45 minutes, jusqu'à une heure. 
+
+06. Plus d’une heure, jusqu’à une heure et demie. 
+
+07. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+08. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+09. Plus de 2 heures et demie, jusqu’à trois heures. 
+
+10. Plus de 3 heures. 
+
+IF31
+[QUESTION]
+En dehors des week-ends, combien de temps par jour, en moyenne, passez-vous à lire dans les journaux les informations sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout. 
+
+02. Moins de 15 minutes. 
+
+03. De 15 minutes à une demi heure. 
+
+04. Plus d'une demi-heure à 45 minutes. 
+
+05. Plus de 45 minutes, jusqu'à une heure. 
+
+06. Plus d’une heure, jusqu’à une heure et demie. 
+
+07. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+08. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+09. Plus de 2 heures et demie, jusqu’à trois heures. 
+
+10. Plus de 3 heures. 
+
+IF32
+[QUESTION]
+En dehors des week-ends, combien de temps par jour en moyenne passez-vous à regarder la télévision sur Internet?
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF33
+[QUESTION]
+Et combien de temps par jour, en moyenne, passez-vous à regarder des programmes télévisés sur Internet à propos des informations ou des émissions sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF34
+[QUESTION]
+En dehors des week-ends, combien de temps par jour en moyenne passez-vous à écouter la radio sur Internet?
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF35
+[QUESTION]
+Et combien de temps par jour, en moyenne, passez-vous à écouter des programmes radio sur Internet à propos des informations ou des émissions sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF36
+[QUESTION]
+En dehors des week-ends, combien de temps par jour en moyenne passez-vous à lire les journaux sur Internet?
+
+[ANSWERS]
+
+01. Pas du tout. 
+
+02. Moins de 15 minutes. 
+
+03. De 15 minutes à une demi heure. 
+
+04. Plus d'une demi-heure à 45 minutes. 
+
+05. Plus de 45 minutes, jusqu'à une heure. 
+
+06. Plus d’une heure, jusqu’à une heure et demie. 
+
+07. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+08. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+09. Plus de 2 heures et demie, jusqu’à trois heures.
+ 
+10. Plus de 3 heures. 
+
+IF37
+[QUESTION]
+Et combien de temps par jour, en moyenne, passez-vous à lire des articles sur Internet à propos des informations ou des émissions sur la politique et l'actualité?
+
+[ANSWERS]
+
+01. Pas du tout. 
+
+02. Moins de 15 minutes. 
+
+03. De 15 minutes à une demi heure. 
+
+04. Plus d'une demi-heure à 45 minutes. 
+
+05. Plus de 45 minutes, jusqu'à une heure. 
+
+06. Plus d’une heure, jusqu’à une heure et demie. 
+
+07. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+08. Plus de 2 heures, jusqu’à 2 heures et demie. 
+
+09. Plus de 2 heures et demie, jusqu’à trois heures.
+ 
+10. Plus de 3 heures. 
+
+
+
+
+IF38
+[QUESTION]
+Et combien de temps passez-vous en tout sur Internet, un jour de semaine ordinaire, pour d'autres utilisations que regarder la télévision, écouter la radio ou lire les journaux?
+
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures. 
+
+IF39
+[QUESTION]
+Et combien de ce temps passez-vous sur des sujets de politique et d'actualité?
+[ANSWERS]
+
+01. Pas du tout.
+ 
+02. Moins d’une demi-heure. 
+
+03. D’une demi-heure à une heure. 
+
+04. Plus d’une heure, jusqu’à une heure et demie. 
+
+05. Plus d’une heure et demie, jusqu’à 2 heures. 
+
+06. Plus de 2 heures, jusqu’à 2 heures et demie.
+ 
+07. Plus de 2 heures et demie, jusqu’à 3 heures.
+
+08. Plus de 3 heures, jusqu’à 4 heures. 
+
+09. Plus de 4 heures, jusqu’à 5 heures. 
+
+10. Plus de 5 heures, jusqu’à 6 heures. 
+
+11. Plus de 6 heures.

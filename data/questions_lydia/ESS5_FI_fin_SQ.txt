@@ -1,0 +1,509 @@
+﻿I1
+[INTRO]
+Voidaksemme kehittää kysymyksiämme seuraavia tutkimuksia varten, kysymme seuraavaksi muutamia kysymyksiä, jotka ovat melko samanlaisia kuin haastattelussa Teille esitetyt kysymykset. Älkää muistelko, mitä vastasitte edellä, vaan vastatkaa kysymyksiin aivan kuin kuulisitte ne ensimmäistä kertaa.
+
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa television katsomiseen tavallisina arkipäivinä? Laskekaa mukaan myös aika, jonka katsotte televisiota internetistä.
+
+[ANSWERS]
+
+00. En ollenkaan.
+
+01. Alle ½ tuntia.
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia. 
+
+07. Yli 3 tuntia.
+
+I2
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa radion kuunteluun tavallisina arkipäivinä? 
+Laskekaa mukaan myös aika, jonka kuuntelette radiota internetistä.
+
+[ANSWERS]
+
+00. En ollenkaan.
+
+01. Alle ½ tuntia.
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia. 
+
+07. Yli 3 tuntia.
+I3
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa sanomalehtien lukemiseen tavallisena arkipäivänä? Laskekaa mukaan myös aika, jonka luette sanomalehtiä internetistä. 
+ 
+[ANSWERS]
+00. En ollenkaan.
+
+01. Alle ½ tuntia.
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia. 
+
+07. Yli 3 tuntia.
+
+I22
+[INTRO]
+Seuraavat kysymykset koskevat politiikkaa ja yhteiskunnallisia asioita. 
+[QUESTION]
+Kuinka paljon Suomen poliittisessa järjestelmässä Teidän kaltaisenne ihmisellä on  mahdollisuuksia vaikuttaa siihen, mitä hallitus tekee?
+
+[ANSWERS]
+
+1. Ei ollenkaan. 
+
+2. Hyvin vähän.
+
+3. Ei kovin paljon.
+
+4. Melko paljon. 
+
+5. Hyvin paljon.
+
+I23
+[QUESTION]
+Voisitteko ajatella osallistuvanne aktiivisesti jonkin poliittisen ryhmittymän toimintaan? 
+[ANSWERS]
+1. Ehdottomasti en.
+
+2. Todennäköisesti en.
+
+3. En ole varma.
+
+4. Todennäköisesti kyllä.
+
+5. Ehdottomasti kyllä.
+
+I24
+[QUESTION]
+Kuinka paljon Suomen poliittisessa järjestelmässä Teillä on mahdollisuuksia suoraan  vaikuttaa politiikkaan?
+
+[ANSWERS]
+1. Ei ollenkaan. 
+
+2. Hyvin vähän.
+
+3. Ei kovin paljon.
+
+4. Melko paljon. 
+
+5. Hyvin paljon.
+
+I25
+[QUESTION]
+Kuinka paljon luotatte omiin kykyihinne osallistua politiikkaan?
+
+[ANSWERS]
+
+1. En luota ollenkaan.
+
+2. Luotan vähän.
+
+3. En luota vähän enkä paljon.
+
+4. Luotan melko paljon.
+
+5. Luotan erittäin paljon.
+
+6. Luotan täysin.
+
+I26
+[INTRO]
+Voidaksemme kehittää kysymyksiämme seuraavia tutkimuksia varten, kysymme seuraavaksi muutamia kysymyksiä, jotka ovat melko samanlaisia kuin haastattelussa Teille esitetyt kysymykset. Älkää muistelko, mitä vastasitte edellä, vaan vastatkaa kysymyksiin aivan kuin kuulisitte ne ensimmäistä kertaa. 
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa television katsomiseen tavallisina arkipäivinä? Laskekaa mukaan myös aika, jonka katsotte televisiota internetistä. 
+[ANSWERS]
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia.
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia. 
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia. 
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I27
+[QUESTION]
+Kuinka paljon yhteensä katsotte television uutislähetyksiä tai politiikka ja ajankohtaisia tapahtumia käsitteleviä ohjelmia tavallisina arkipäivinä?
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I28
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa radion kuunteluun tavallisina arkipäivinä? Laskekaa mukaan myös aika, jonka kuuntelette radiota internetistä.
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I29
+[QUESTION]
+Entä kuinka paljon kuuntelette radion uutislähetyksiä tai politiikkaa ja ajankohtaisia  tapahtumia käsitteleviä ohjelmia tavallisina arkipäivinä?
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I30
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa sanomalehtien lukemiseen tavallisina 
+arkipäivinä? Laskekaa mukaan myös aika, jonka luette sanomalehtiä internetistä. 
+[ANSWERS]
+00. En ollenkaan. 
+
+01. Alle 15 minuuttia.
+
+02. 15 minuuttia - ½ tuntia.
+
+03. Yli ½ tuntia - 45 minuuttia.
+
+04. Yli 45 minuuttia - 1 tunnin.
+
+05. Yli 1 tunnin, mutta korkeintaan 1 ½ tuntia.
+
+06. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+07. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+08. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+09. Yli 3 tuntia.
+
+I31
+[QUESTION]
+Kuinka paljon tästä lehtien lukemiseen käyttämästänne ajasta luette lehdistä politiikkaa ja ajankohtaisia tapahtumia koskevia juttuja? 
+[ANSWERS]
+00. En ollenkaan. 
+
+01. Alle 15 minuuttia.
+
+02. 15 minuuttia - ½ tuntia.
+
+03. Yli ½ tuntia - 45 minuuttia.
+
+04. Yli 45 minuuttia - 1 tunnin.
+
+05. Yli 1 tunnin, mutta korkeintaan 1 ½ tuntia.
+
+06. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+07. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+08. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+09. Yli 3 tuntia.
+
+I32
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa television katsomiseen internetistä tavallisina  arkipäivinä? 
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I33
+[QUESTION]
+Kuinka paljon katsotte television uutislähetyksiä tai politiikkaa ja ajankohtaisia tapahtumia  käsitteleviä ohjelmia internetistä? 
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I34
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa radion kuunteluun internetistä tavallisina 
+arkipäivinä? 
+[ANSWERS]
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I35
+[QUESTION]
+Kuinka paljon kuuntelette radion uutislähetyksiä tai politiikkaa ja ajankohtaisia tapahtumia  käsitteleviä ohjelmia internetistä? 
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+
+I36
+[QUESTION]
+Kuinka paljon yhteensä käytätte aikaa sanomalehtien lukemiseen internetistä tavallisina  arkipäivinä? 
+
+[ANSWERS]
+
+00. En ollenkaan. 
+
+01. Alle 15 minuuttia.
+
+02. 15 minuuttia - ½ tuntia.
+
+03. Yli ½ tuntia - 45 minuuttia.
+
+04. Yli 45 minuuttia - 1 tunnin.
+
+05. Yli 1 tunnin, mutta korkeintaan 1 ½ tuntia.
+
+06. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+07. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+08. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+09. Yli 3 tuntia.
+
+I37
+[QUESTION]
+Kuinka paljon luette sanomalehdistä politiikkaa ja ajankohtaisia tapahtumia käsitteleviä  juttuja internetistä? 
+
+[ANSWERS]
+
+00. En ollenkaan. 
+
+01. Alle 15 minuuttia.
+
+02. 15 minuuttia - ½ tuntia.
+
+03. Yli ½ tuntia - 45 minuuttia.
+
+04. Yli 45 minuuttia - 1 tunnin.
+
+05. Yli 1 tunnin, mutta korkeintaan 1 ½ tuntia.
+
+06. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+07. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+08. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+09. Yli 3 tuntia.
+
+I38
+[QUESTION]
+Kuinka paljon yhteensä käytätte internetiä muuten kuin television katseluun, radion  kuunteluun tai sanomalehtien lukemiseen tavallisina arkipäivinä? 
+
+[ANSWERS]
+
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.
+I39
+[QUESTION]
+Kuinka paljon internetin käyttö liittyy politiikkan ja ajankohtaisten tapahtumien 
+seuraamiseen? 
+[ANSWERS]
+00. En ollenkaan.
+ 
+01. Alle ½ tuntia. 
+
+02. ½ - 1 tuntia.
+
+03. Yli tunnin, mutta korkeintaan 1 ½ tuntia.
+
+04. Yli 1 ½ tuntia, mutta korkeintaan 2 tuntia.
+
+05. Yli 2 tuntia, mutta korkeintaan 2 ½ tuntia.
+
+06. Yli 2 ½ tuntia, mutta korkeintaan 3 tuntia.
+
+07. Yli 3 tuntia, mutta korkeintaan 4 tuntia.
+
+08. Yli 4 tuntia, mutta korkeintaan 5 tuntia.
+
+09. Yli 5 tuntia, mutta korkeintaan 6 tuntia.
+
+10. Yli 6 tuntia.

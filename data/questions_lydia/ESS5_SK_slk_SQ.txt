@@ -1,0 +1,509 @@
+﻿IF1
+[INTRO]
+Aby sme v budúcnosti mohli vylepšiť naše otázky, je tu niekoľko záverečných otázok o rozličných veciach, ktoré budú podobné tým, čo ste už mali. Prosím, nesnažte sa rozpamätať na to, čo ste odpovedali predtým, ale pristupujte k nim, ako by to boli úplne nové otázky. 
+
+Prvých pár otázok sa týka množstva času, ktorý strávite sledovaním televízie, počúvaním rádia a čítaním novín.
+
+[QUESTION]
+Koľko času strávite celkovo pozeraním televízie v bežný pracovný deň? Prosím, zarátajte
+aj všetok čas keď sledujete TV na internete.
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodinu.
+
+02. Medzi ½ hodinou a 1hodinou.
+
+03. Viac ako 1 hodinu, až po 1 ½ hodiny.
+
+04. Viac ako 1½ hodiny, až po 2 hodiny.
+
+05. Viac ako 2 hodiny, až po 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až po 3 hodiny.
+
+07. Viac ako 3 hodiny.
+
+IF2
+[QUESTION]
+Koľko času celkovo strávite počúvaním rádia v bežný pracovný deň? Prosím, zarátajte aj všetok čas keď počúvate rádio na internete.
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodinu.
+
+02. Medzi ½ hodinou a 1hodinou.
+
+03. Viac ako 1 hodinu, až po 1 ½ hodiny.
+
+04. Viac ako 1½ hodiny, až po 2 hodiny.
+
+05. Viac ako 2 hodiny, až po 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až po 3 hodiny.
+
+07. Viac ako 3 hodiny.
+
+IF3
+[QUESTION]
+Koľko času celkovo strávite čítaním novín v bežný pracovný deň? Prosím, zarátajte aj všetok čas keď čítate noviny na internete. 
+
+[ANSWERS]
+00. Žiaden čas.
+01. Menej ako ½ hodinu.
+
+02. Medzi ½ hodinou a 1hodinou.
+
+03. Viac ako 1 hodinu, až po 1 ½ hodiny.
+
+04. Viac ako 1½ hodiny, až po 2 hodiny.
+
+05. Viac ako 2 hodiny, až po 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až po 3 hodiny.
+
+07. Viac ako 3 hodiny.
+
+IF22
+[INTRO]
+A teraz sa vás opýtam zopár otázok o politike a vláde. 
+[QUESTION]
+Čo by ste povedali, nakoľko politický systém na Slovensku umožňuje ľuďom ako ste vy
+vyjadrovať sa k tomu, čo robí vláda?
+
+[ANSWERS]
+
+1. Vôbec nie.
+
+2. Veľmi málo.
+
+3. Niekedy.
+
+4. Dosť.
+
+5. Značne.
+
+IF23
+[QUESTION]
+Myslíte si, že vy by ste mohli prijať aktívnu rolu v skupine, ktorá sa venuje politickým
+otázkam? 
+[ANSWERS]
+1. Určite nie.
+
+2. Asi nie.
+
+3. Nie som si istý.
+
+4. Asi.
+
+5. Určite.
+
+IF24
+[QUESTION]
+Čo by ste povedali, nakoľko politický systém na Slovensku umožňuje ľuďom ako ste vy
+mať priamy vplyv na politiku?
+
+[ANSWERS]
+1. Vôbec nie.
+
+2. Veľmi málo.
+
+3. Niekedy.
+
+4. Dosť.
+
+5. Značne.
+
+IF25
+[QUESTION]
+Nakoľko kompetentným sa cítite v možnosti angažovania sa v politike?
+
+[ANSWERS]
+
+1. Celkom nekompetentný.
+
+2. Trochu kompetentný.
+
+3. Dosť kompetentný.
+
+4. Veľmi kompetentný.
+
+5. Celkom kompetentný.
+
+IF26
+[INTRO]
+Aby sme v budúcnosti mohli vylepšiť naše otázky, je tu niekoľko záverečných otázok o rozličných veciach, ktoré budú podobné tým, čo ste už mali. Prosím, nesnažte sa rozpamätať na to, čo ste odpovedali predtým, ale pristupujte k nim, ako by to boli úplne nové otázky. 
+
+Prvých pár otázok sa týka množstva času, ktorý strávite sledovaním televízie, počúvaním rádia a čítaním novín. 
+
+[QUESTION]
+Koľko času strávite celkovo pozeraním televízie v bežný pracovný deň? Prosím,
+zarátajte aj všetok čas keď sledujete TV na internete.
+
+[ANSWERS]
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF27
+[QUESTION]
+A znova, v bežný pracovný deň, koľko z času, v ktorom pozeráte televíziu, strávite
+pozeraním správ alebo programov o politike a aktuálnom dianí?
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF28
+[QUESTION]
+Koľko času celkovo strávite počúvaním rádia v bežný pracovný deň? Prosím, zarátajte aj všetok čas keď počúvate rádio na internete.
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF29
+[QUESTION]
+A znova, v bežný pracovný deň, koľko z času, v ktorom počúvate rádio, strávite počúvaním správ alebo programov o politike a aktuálnom dianí?
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF30
+[QUESTION]
+Koľko času celkovo strávite čítaním novín v bežný pracovný deň? Prosím, zarátajte aj všetok čas keď čítate noviny na internete. 
+
+[ANSWERS]
+00. Žiaden čas.
+
+01. Menej ako 15 minút.
+
+02. 15 minút až ½ hodiny.
+
+03. Viac ako ½ hodiny, až 45 minút.
+
+04. Viac ako 45 minút, až 1 hodina.
+
+05. Viac ako 1 hodina, až 1½ hodiny.
+
+06. Viac ako 1½ hodiny, až 2 hodiny.
+
+07. Viac ako 2 hodiny, až 2½ hodiny.
+
+08. Viac ako 2½ hodiny, až 3 hodiny.
+
+09. Viac ako 3 hodiny.
+
+IF31
+[QUESTION]
+A koľko z toho času, v ktorom počúvate rádio, strávite počúvaním správ alebo programov o politike a aktuálnom dianí?
+
+[ANSWERS]
+00. Žiaden čas.
+
+01. Menej ako 15 minút.
+
+02. 15 minút až ½ hodiny.
+
+03. Viac ako ½ hodiny, až 45 minút.
+
+04. Viac ako 45 minút, až 1 hodina.
+
+05. Viac ako 1 hodina, až 1½ hodiny.
+
+06. Viac ako 1½ hodiny, až 2 hodiny.
+
+07. Viac ako 2 hodiny, až 2½ hodiny.
+
+08. Viac ako 2½ hodiny, až 3 hodiny.
+
+09. Viac ako 3 hodiny.
+
+IF32
+[INTRO]
+A teraz vám poprosím, aby ste uvažovali len nad využívaním internetu pri sledovaní TV, počúvaní rádia a čítaní novín.
+
+[QUESTION]
+Koľko času počas bežného pracovného dňa strávite sledovaním televíznych programov prostredníctvom internetu? 
+
+[ANSWERS]
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF33
+[QUESTION]
+A koľko z času, v ktorom pozeráte televízne programy, strávite pozeraním správ alebo programov o politike a aktuálnom dianí? 
+
+[ANSWERS]
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF34
+[QUESTION]
+Koľko času počas bežného pracovného dňa strávite počúvaním rádia prostredníctvom internetu? 
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF35
+[QUESTION]
+A koľko z času, v ktorom počúvate rádio, strávite počúvaním správ alebo programov o politike a aktuálnom dianí?
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF36
+[QUESTION]
+Koľko času počas bežného pracovného dňa čítaním novín prostredníctvom internetu?
+Prosím, použite túto kartu. 
+[ANSWERS]
+00. Žiaden čas.
+
+01. Menej ako 15 minút.
+
+02. 15 minút až ½ hodiny.
+
+03. Viac ako ½ hodiny, až 45 minút.
+
+04. Viac ako 45 minút, až 1 hodina.
+
+05. Viac ako 1 hodina, až 1½ hodiny.
+
+06. Viac ako 1½ hodiny, až 2 hodiny.
+
+07. Viac ako 2 hodiny, až 2½ hodiny.
+
+08. Viac ako 2½ hodiny, až 3 hodiny.
+
+09. Viac ako 3 hodiny.
+
+IF37
+[QUESTION]
+A koľko z času, v ktorom čítate noviny, strávite čítaním o politike a aktuálnom dianí? 
+
+[ANSWERS]
+
+00. Žiaden čas.
+
+01. Menej ako 15 minút.
+
+02. 15 minút až ½ hodiny.
+
+03. Viac ako ½ hodiny, až 45 minút.
+
+04. Viac ako 45 minút, až 1 hodina.
+
+05. Viac ako 1 hodina, až 1½ hodiny.
+
+06. Viac ako 1½ hodiny, až 2 hodiny.
+
+07. Viac ako 2 hodiny, až 2½ hodiny.
+
+08. Viac ako 2½ hodiny, až 3 hodiny.
+
+09. Viac ako 3 hodiny.
+
+IF38
+[QUESTION]
+Koľko času počas bežného pracovného dňa používate internet na iné činnosti ako sledovanie televízie, počúvanie rádia a čítanie novín?
+
+[ANSWERS]
+
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.
+
+IF39
+[QUESTION]
+A koľko z toho času venujete politike a aktuálnemu dianiu? 
+[ANSWERS]
+00. Žiaden čas.
+01. Menej ako ½ hodiny.
+
+02. ½ hodiny až hodina.
+
+03. Viac ako 1 hodina, až 1½ hodiny.
+
+04. Viac ako 1½ hodiny, až 2 hodiny.
+
+05. Viac ako 2 hodiny, až 2½ hodiny.
+
+06. Viac ako 2½ hodiny, až 3 hodiny.
+
+07. Viac ako 3 hodiny, až 4 hodiny.
+
+08. Viac ako 4 hodiny, až 5 hodín.
+
+09. Viac ako 5 hodín, až 6 hodín.
+
+10. Viac ako 6 hodín.

@@ -1,0 +1,475 @@
+﻿IF1
+[INTRO]
+Om toekomstige enquêtes te kunnen verbeteren, willen we u nog enkele laatste vragen stellen over verschillende onderwerpen die vergelijkbaar zijn met eerdere vragen. Probeert u zich de antwoorden die u reeds gaf niet te herinneren, maar behandel de vragen hieronder als ware het volledig nieuwe vragen. 
+
+De eerste vragen gaan over de hoeveelheid tijd die u besteedt aan televisie kijken, luisteren naar de radio en het lezen van kranten.
+
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan televisie kijken? Gelieve ook de tijd mee te tellen die u spendeert aan TV kijken op het internet.
+
+[ANSWERS]
+
+00. Geen tijd aan besteed.
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur.
+
+IF2
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan naar de radio luisteren? Gelieve ook de tijd mee te tellen die u spendeert aan het luisteren naar de radio op het internet.
+
+[ANSWERS]
+
+00. Geen tijd aan besteed.
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur.
+
+IF3
+[QUESTION]
+En hoeveel tijd besteedt u op een gewone weekdag in totaal aan het lezen van kranten? Gelieve ook de tijd mee te tellen die u spendeert aan het lezen van kranten op het internet.  
+
+[ANSWERS]
+00. Geen tijd aan besteed.
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur.
+
+IF22
+[INTRO]
+Nu zou ik enkele vragen willen stellen over politiek en de overheid. 
+[QUESTION]
+In hoeverre zou u zeggen dat het politieke systeem in België mensen zoals u toestaat om inspraak te hebben in wat de overheid doet?
+
+[ANSWERS]
+
+1. Helemaal niet.
+
+2. Heel weinig.
+
+3. Een beetje.
+
+4. Veel.
+
+5. Heel veel.
+
+IF23
+[QUESTION]
+Denkt u dat u een actieve rol zou kunnen opnemen in een groep die zich bezig houdt met politieke kwesties? 
+[ANSWERS]
+1. Zeker niet.
+
+2. Waarschijnlijk niet.
+
+3. Misschien wel, misschien niet.
+
+4. Waarschijnlijk wel.
+
+5. Zeker wel.
+
+IF24
+[QUESTION]
+In hoeverre zou u zeggen dat het politieke systeem in België mensen zoals u toestaat om een directe invloed te hebben op de politiek?
+
+[ANSWERS]
+1. Helemaal niet.
+
+2. Heel weinig.
+
+3. Een beetje.
+
+4. Veel.
+
+5. Heel veel.
+
+IF25
+[QUESTION]
+Hoe zeker bent over uw bekwaamheid om deel te nemen aan de politiek?
+
+[ANSWERS]
+
+1. Helemaal niet zeker.
+
+2. Een beetje zeker.
+
+3. Redelijk zeker.
+
+4. Erg zeker.
+
+5. Helemaal zeker
+
+IF26
+[INTRO]
+Om toekomstige enquêtes te kunnen verbeteren, willen we u nog enkele laatste vragen stellen over verschillende onderwerpen die vergelijkbaar zijn met eerdere vragen. Probeert u zich de antwoorden die u reeds gaf niet te herinneren, maar behandel de vragen hieronder als ware het volledig nieuwe vragen. 
+
+De eerste paar vragen gaan over de hoeveelheid tijd die u besteedt aan televisie kijken, luisteren naar de radio en het lezen van kranten. 
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan televisie kijken? Gelieve ook de tijd mee te tellen die u spendeert aan televisie kijken op het internet.
+
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF27
+[QUESTION]
+Hoeveel van de tijd die u op een gewone weekdag naar de televisie kijkt, kijkt u naar nieuws of programma's over politiek en actualiteit?
+
+[ANSWERS]
+
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF28
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan naar de radio luisteren? Gelieve ook de tijd mee te tellen die u spendeert aan het luisteren naar de radio op het internet.
+
+[ANSWERS]
+
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF29
+[QUESTION]
+En hoeveel van de tijd die u op een gewone weekdag naar de radio luistert, luistert u naar nieuws of programma's over politiek en actualiteit?
+
+[ANSWERS]
+
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF30
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan het lezen van kranten? Gelieve ook de tijd mee te tellen die u spendeert aan het lezen van kranten op het internet. 
+[ANSWERS]
+00. Geen tijd aan besteed.
+
+01. Minder dan 15 minuten.
+
+02. 15 minuten, tot hoogstens een ½ uur.
+
+03. Meer dan een ½ uur, tot hoogstens 45 minuten.
+
+04. Meer dan 45 minuten, tot hoogstens 1 uur.
+
+05. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+06. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+07. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+08. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+09. Meer dan 3 uur.
+
+IF31
+[QUESTION]
+En hoeveel van die tijd leest u over politiek en actualiteit? 
+[ANSWERS]
+00. Geen tijd aan besteed.
+
+01. Minder dan 15 minuten.
+
+02. 15 minuten, tot hoogstens een ½ uur.
+
+03. Meer dan een ½ uur, tot hoogstens 45 minuten.
+
+04. Meer dan 45 minuten, tot hoogstens 1 uur.
+
+05. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+06. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+07. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+08. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+09. Meer dan 3 uur.
+
+IF32
+[INTRO]
+Nu zouden we graag hebben dat u enkel denkt aan het gebruik van internet om televisie te kijken, naar de radio te luisteren of kranten te lezen.
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan het bekijken van televisieprogramma's op het internet?
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF33
+[QUESTION]
+En hoeveel van die tijd bekijkt u televisieprogramma's over politiek en actualiteit? 
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF34
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan het beluisteren van de radio op het internet?  
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF35
+[QUESTION]
+En hoeveel van die tijd luistert u naar radioprogramma's over politiek en actualiteit? 
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF36
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal aan het lezen van de online krant op het internet? 
+[ANSWERS]
+00. Geen tijd aan besteed.
+
+01. Minder dan 15 minuten.
+
+02. 15 minuten, tot hoogstens een ½ uur.
+
+03. Meer dan een ½ uur, tot hoogstens 45 minuten.
+
+04. Meer dan 45 minuten, tot hoogstens 1 uur.
+
+05. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+06. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+07. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+08. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+09. Meer dan 3 uur.
+
+IF37
+[QUESTION]
+En hoeveel van die tijd leest u kranten over politiek en actualiteit? 
+[ANSWERS]
+00. Geen tijd aan besteed.
+
+01. Minder dan 15 minuten.
+
+02. 15 minuten, tot hoogstens een ½ uur.
+
+03. Meer dan een ½ uur, tot hoogstens 45 minuten.
+
+04. Meer dan 45 minuten, tot hoogstens 1 uur.
+
+05. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+06. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+07. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+08. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+09. Meer dan 3 uur.
+
+IF38
+[QUESTION]
+Hoeveel tijd besteedt u op een gewone weekdag in totaal op het internet, voor andere doeleinden dan televisie kijken, luisteren naar de radio en het lezen van kranten? 
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.
+
+IF39
+[QUESTION]
+En hoeveel van die tijd wordt besteed aan politiek en actualiteit? 
+[ANSWERS]
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+
+10. Meer dan 6 uur.

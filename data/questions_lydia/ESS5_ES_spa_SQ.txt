@@ -1,0 +1,483 @@
+﻿IF1
+[INTRO]
+Para ayudarnos a mejorar las preguntas de este cuestionario en futuras ocasiones, le haremos unas últimas preguntas sobre varias cuestiones similares a las que ya han aparecido en el cuestionario que acaba de responder. Por favor, no intente recordar lo que respondió en las preguntas similares que ya le hemos hecho y considere las siguientes como si fuesen preguntas totalmente nuevas.
+
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted normalmente viendo la televisión? Por favor, incluya el tiempo que haya pasado viendo la TV a través de Internet.
+
+[ANSWERS]
+
+00. Nada.
+01. Menos de ½ hora.
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1 hora, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas.
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas
+
+07. Más de 3 horas.
+
+IF2
+[QUESTION]
+En un día laborable ¿cuánto tiempo pasa normalmente escuchando la radio? Por favor, incluya el tiempo que haya pasado escuchando la radio a través de Internet.
+
+[ANSWERS]
+
+00. Nada.
+01. Menos de ½ hora.
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1 hora, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas.
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas
+
+07. Más de 3 horas.
+
+IF3
+[QUESTION]
+En un día laborable, ¿cuánto tiempo dedica normalmente a leer el periódico? Por favor, incluya el tiempo que haya pasado leyendo el periódico a través de Internet. 
+ 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora.
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1 hora, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas.
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas
+
+07. Más de 3 horas.
+
+IF22
+[INTRO]
+Ahora me gustaría hacerle algunas preguntas sobre política y el gobierno. 
+[QUESTION]
+¿En qué medida diría usted que el sistema político español permite que la opinión de personas como usted sea tenida en cuenta por el gobierno? 
+
+[ANSWERS]
+
+1. Nada.
+
+2. Muy poco.
+
+3. Algo.
+
+4. Bastante.
+
+5. Mucho.
+
+IF23
+[QUESTION]
+¿Cree usted que podría participar activamente en un grupo de carácter político? 
+[ANSWERS]
+1. Seguro que no.
+
+2. Probablemente no.
+
+3. No estoy seguro.
+
+4. Probablemente sí.
+
+5. Definitivamente sí.
+
+IF24
+[QUESTION]
+¿En qué medida diría usted que el sistema político español permite a gente como usted influir directamente en la vida política?
+
+[ANSWERS]
+1. Nada.
+
+2. Muy poco.
+
+3. Algo.
+
+4. Bastante.
+
+5. Mucho.
+
+IF25
+[QUESTION]
+¿Qué confianza tiene en su propia capacidad para participar en política?
+
+[ANSWERS]
+
+1. Ninguna confianza
+
+2. Un poco de confianza.
+
+3. Bastante confianza.
+
+4. Mucha confianza.
+
+5. Una confianza total.
+
+IF26
+[INTRO]
+Para ayudarnos a mejorar las preguntas de este cuestionario en futuras ocasiones, le haremos unas últimas preguntas sobre varias cuestiones similares a las que ya han aparecido en el cuestionario que acaba de responder. Por favor, no intente recordar lo que respondió en las preguntas similares que ya le hemos hecho y considere las siguientes como si fuesen preguntas totalmente nuevas. 
+Las primeras preguntas se refieren a la cantidad de tiempo que usted pasa viendo la televisión, escuchando la radio y leyendo periódicos.
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted normalmente viendo la televisión? Por favor, incluya el tiempo que pase viendo la TV a través de Internet.
+
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF27
+[QUESTION]
+De nuevo, en un día laborable, de ese tiempo que dedica a ver la televisión, ¿cuánto tiempo pasa usted normalmente viendo informativos u otros programas sobre política y actualidad?
+
+[ANSWERS]
+
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF28
+[QUESTION]
+En un día laborable ¿cuánto tiempo pasa normalmente escuchando la radio? Por favor, incluya el tiempo que pase escuchando la radio a través de Internet.
+
+[ANSWERS]
+
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF29
+[QUESTION]
+Y, de nuevo, en un día laborable, de ese tiempo que dedica a escuchar la radio, ¿cuánto tiempo pasa normalmente escuchando informativos u otros programas sobre política y actualidad?
+
+[ANSWERS]
+
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF30
+[QUESTION]
+En un día laborable, ¿cuánto tiempo dedica normalmente a leer el periódico? Por favor, incluya el tiempo que pasa leyendo periódicos a través de Internet. 
+[ANSWERS]
+00. Nada.
+
+01. Menos de 15 minutos.
+
+02. Más de 15 minutos, hasta ½ hora.
+
+03. Más de ½ hora, hasta 45 minutos.
+
+04. Más de 45 minutos, hasta 1 hora.
+
+05. Más de una hora, hasta 1 hora y ½.
+
+06. Más de 1 hora y ½, hasta 2 horas.
+
+07. Más de 2 horas, hasta 2 horas y ½.
+
+08. Más de 2 horas y ½, hasta 3 horas.
+
+09. Más de 3 horas.
+
+IF31
+[QUESTION]
+Y de ese tiempo, ¿cuánto dedica a leer noticias sobre política y temas de actualidad? 
+[ANSWERS]
+00. Nada.
+
+01. Menos de 15 minutos.
+
+02. Más de 15 minutos, hasta ½ hora.
+
+03. Más de ½ hora, hasta 45 minutos.
+
+04. Más de 45 minutos, hasta 1 hora.
+
+05. Más de una hora, hasta 1 hora y ½.
+
+06. Más de 1 hora y ½, hasta 2 horas.
+
+07. Más de 2 horas, hasta 2 horas y ½ .
+
+08. Más de 2 horas y ½, hasta 3 horas.
+
+09. Más de 3 horas.
+
+IF32
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted usando Internet para ver programas de televisión? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF33
+[QUESTION]
+¿Y cuánto de ese tiempo pasa usted viendo programas de televisión sobre política y actualidad? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF34
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted normalmente usando Internet para escuchar la radio? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF35
+[QUESTION]
+¿Y cuánto de ese tiempo pasa usted escuchando programas de radio sobre política y actualidad? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF36
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted normalmente usando Internet para leer los periódicos? 
+[ANSWERS]
+00. Nada.
+
+01. Menos de 15 minutos.
+
+02. Más de 15 minutos, hasta ½ hora.
+
+03. Más de ½ hora, hasta 45 minutos.
+
+04. Más de 45 minutos, hasta 1 hora.
+
+05. Más de una hora, hasta 1 hora y ½.
+
+06. Más de 1 hora y ½, hasta 2 horas.
+
+07. Más de 2 horas, hasta 2 horas y ½ .
+
+08. Más de 2 horas y ½, hasta 3 horas.
+
+09. Más de 3 horas.
+
+IF37
+[QUESTION]
+¿Y cuánto de ese tiempo pasa usted leyendo sobre política y actualidad en los periódicos? 
+[ANSWERS]
+00. Nada.
+
+01. Menos de 15 minutos.
+
+02. Más de 15 minutos, hasta ½ hora.
+
+03. Más de ½ hora, hasta 45 minutos.
+
+04. Más de 45 minutos, hasta 1 hora.
+
+05. Más de una hora, hasta 1 hora y ½.
+
+06. Más de 1 hora y ½, hasta 2 horas.
+
+07. Más de 2 horas, hasta 2 horas y ½ .
+
+08. Más de 2 horas y ½, hasta 3 horas.
+
+09. Más de 3 horas.
+
+IF38
+[QUESTION]
+En un día laborable, ¿cuánto tiempo pasa usted, en total, usando Internet para actividades que no sean ver la televisión, escuchar la radio y leer los periódicos? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.
+
+IF39
+[QUESTION]
+¿Y cuánto de este tiempo dedica a actividades relacionadas con la política y temas de actualidad? 
+[ANSWERS]
+00. Nada.
+01. Menos de ½ hora
+
+02. De ½ hora a 1 hora.
+
+03. Más de 1, hasta 1 ½ hora.
+
+04. Más de 1 ½, hasta 2 horas
+
+05. Más de 2, hasta 2 ½ horas.
+
+06. Más de 2 ½, hasta 3 horas.
+
+07. Más de 3 horas, hasta 4 horas.
+
+08. Más de 4 horas, hasta 5 horas.
+
+09. Más de 5 horas, hasta 6 horas.
+
+10. Más de 6 horas.

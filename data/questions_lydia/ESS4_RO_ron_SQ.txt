@@ -1,0 +1,587 @@
+﻿HF1
+[INTRO]
+Pentru a ne ajuta la îmbunãtaţirea întrebãrilor noastre pe viitor, aici sunt câteva întrebãri care acoperã o arie de subiecte diferite, similare cu unele anterioare. Vã rugãm, nu încercaţi sã vã amintiţi ce aţi rãspuns anterior, trataţi întrebãrile ca fiind unele noi.
+
+ [QUESTION]
+Într-o zi lucrătoare a săptămanii, cât timp vã petreceţi în total uitîndu-vă la TV? 
+
+[ANSWERS]
+
+HF2
+[QUESTION]
+Într-o zi lucrătoare a săptămanii, cât timp vã petreceţi în total ascultând radio? 
+
+[ANSWERS]
+
+HF3
+[QUESTION]
+Într-o zi lucrătoare a săptămanii, cât timp vã petreceţi în total citind ziarele? 
+[ANSWERS]
+HF4
+[QUESTION]
+În general vorbind, credeţi că “poţi avea încredere în majoritatea oamenilor” sau că “trebuie să fii prudent în relaţiile cu ceilalţi oameni”? 
+
+[ANSWERS]
+
+1. Trebuie să fii prudent în relaţia cu oamenii.
+
+2. Poţi avea încredere în majoritatea oamenilor.
+
+HF5
+[QUESTION]
+Credeţi ca cei mai mulţi dintre oameni ar încerca să profite de pe urma altora sau că cei mai mulţi oameni ar fi cinstiţi (oneşti)? 
+
+[ANSWERS]
+1. Cei mai mulţi oameni ar încerca să profite de pe urma altora.
+
+2. Majoritatea oamenilor ar fi cinstiţi (oneşti).
+HF6
+[QUESTION]
+Credeţi cã majoritatea oamenilor meritã încrederea dumneavoastrã sau doar puţini oameni meritã încrederea dumneavoastrã ?
+
+[ANSWERS]
+1. Puţini oameni meritã încrederea mea.
+
+2. Majoritatea oamenilor meritã încrederea mea.
+
+HF7
+[INTRO]
+ACUM VÃ VOI ÎNTREBA DESPRE POLITICÃ ŞI GUVERN.
+ [QUESTION]
+Per total, cât de multumit sunteţi de starea economicã din România? Rãspundeţi pe o scalã de la 0 la 10, unde 0 înseamnã cã nu sunteţi multumit, iar 10 înseamnã cã sunteţi multumit. 
+
+[ANSWERS]
+
+01 Nemultumit
+02
+03
+04
+05
+06
+07
+08
+09
+10 Multumit
+HF8
+[QUESTION]
+Pe o scalã de la 0 la 10, cât de cât de mulţumit/ă sunteţi de felul în care guvenul îşi face datoria? 
+[ANSWERS]
+01 Nemultumit.
+02
+03
+04
+05
+06
+07
+08
+09
+10 Multumit.
+HF9
+[QUESTION]
+Pe o scală de la 0 la 10 cât de mulţumit/ă sunteţi de modul în care functionează democraţia în România?
+[ANSWERS]
+01 Nemultumit.
+02
+03
+04
+05
+06
+07
+08
+09
+10 Multumit.
+HF10
+[QUESTION]
+Credeţi cã Guvernul ar trebui să ia sau nu măsuri pentru a reduce diferenţele de venituri ale oamenilor ? 
+
+[ANSWERS]
+
+1. Ar trebui sã ia mãsuri.
+
+2. Probabil cã ar trebui sã ia mãsuri.
+
+3. Nu am nicio opinie.
+
+4. Probabil cã nu ar trebui sã ia mãsuri.
+
+5. Ar trebui sã nu ia mãsuri.
+
+HF11
+[QUESTION]
+Credeţi cã homosexualii şi lesbienele ar trebui să fie sau nu liberi sa-şi trăiască viaţa aşa cum doresc?
+
+[ANSWERS]
+
+1. Ar trebui sã ia mãsuri.
+
+2. Probabil cã ar trebui sã ia mãsuri.
+
+3. Nu am nicio opinie.
+
+4. Probabil cã nu ar trebui sã ia mãsuri.
+
+5. Ar trebui sã nu ia mãsuri.
+
+HF12
+[QUESTION]
+Credeţi cã guvernul ar trebui sau nu ar trebui sã se asigure cã toate grupãrile societãţii sunt tratate fãrã discriminãri? 
+
+[ANSWERS]
+1. Ar trebui sã ia mãsuri.
+
+2. Probabil cã ar trebui sã ia mãsuri.
+
+3. Nu am nicio opinie.
+
+4. Probabil cã nu ar trebui sã ia mãsuri.
+
+5. Ar trebui sã nu ia mãsuri.
+
+HF13
+ [INTRO]
+Pentru a ne ajuta la îmbunãtaţirea întrebãrilor noastre pe viitor, aici sunt câteva întrebãri care acoperã o arie de subiecte diferite, similare cu unele anterioare. Vã rugãm, nu încercaţi sã vã amintiţi ce aţi rãspuns anterior, trataţi întrebãrile ca fiind unele noi.
+
+
+
+ [QUESTION]
+Într-o zi lucrătoare a săptămînii, cât timp vã petreceţi în total uitîndu-vă la TV?
+
+[ANSWERS]
+
+0. Deloc.
+
+1. Extremt de puţin.
+
+2. Foarte puţin.
+
+3. Puţin.
+
+4. Destul de mult.
+
+5. Foarte mult.
+
+6. Enorm de mult.
+
+HF14
+[QUESTION]
+Într-o zi lucrătoare a săptămînii, cât timp vã petreceţi în total ascultând radioul?
+
+[ANSWERS]
+
+0. Deloc.
+
+1. Extremt de puţin.
+
+2. Foarte puţin.
+
+3. Puţin.
+
+4. Destul de mult.
+
+5. Foarte mult.
+
+6. Enorm de mult.
+
+HF15
+[QUESTION]
+Într-o zi lucrătoare a săptămînii, cât timp vã petreceţi în total ascultând radioul? 
+[ANSWERS]
+0. Deloc.
+
+1. Extremt de puţin.
+
+2. Foarte puţin.
+
+3. Puţin.
+
+4. Destul de mult.
+
+5. Foarte mult.
+
+6. Enorm de mult.
+
+HF16
+ [INTRO]
+Acum vã voi întreba despre politicã şi guvern.
+ [QUESTION]
+Vă rog să îmi spuneţi, câtă încredere aveţi în fiecare dintre instituţiile pe care vi le voi citi, pe scală de la 0 la 5, unde 0 înseamnă că nu aveţi deloc încredere în acea instituţie, iar 5 înseamnă că aveţi încredere totală în instituţia respectivă.
+...Parlamentul României?
+
+[ANSWERS]
+
+0. Nu am deloc încredere.
+
+1. 
+
+2. 
+
+3.
+
+4.
+
+5. Incredere totală.
+
+HF17
+[QUESTION]
+....sistemul de justiţie?
+
+[ANSWERS]
+0. Nu am deloc încredere.
+
+1. 
+
+2. 
+
+3.
+
+4.
+
+5. Incredere totală.
+HF18
+[QUESTION]
+… poliţie?
+
+[ANSWERS]
+0. Nu am deloc încredere.
+
+1. 
+
+2. 
+
+3.
+
+4.
+
+5. Incredere totală.
+
+HF19
+[QUESTION]
+Acum, vã rog sã-mi spuneţi în ce mãsurã sunteţi sau nu de acord cu fiecare din urmãtoarele afirmaţii. 
+Per total sunt satisfãcut de starea economicã curentã a României.
+
+[ANSWERS]
+
+01. Acordputernic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF20
+[QUESTION]
+Sunt satisfãcut de felul în care guvernul îşi face datoria. 
+
+[ANSWERS]
+01. Acordputernic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF21
+[QUESTION]
+Per total sunt satisfãcut de modul în care functionează democraţia în România. 
+
+[ANSWERS]
+
+01. Acordputernic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF22
+[QUESTION]
+În politică se vorbeşte despre “dreapta” şi “stînga”. Pe o scală de la 0 la 10, unde 0 înseamnă stînga şi 10 înseamnă dreapta, unde vă situaţi dvs. din punctul de vedere al opiniilor politice?
+
+[ANSWERS]
+
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+
+
+HF23
+[QUESTION]
+Folosind aceeaşi scalã, unde aţi situa partidul care vã place cel mai mult?
+
+[ANSWERS]
+
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+
+HF24
+[QUESTION]
+Folosind aceeaşi scalã, unde aţi situa partidul care vã displace cel mai mult?
+
+[ANSWERS]
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+
+HF25
+ [INTRO]
+Pentru a ne ajuta la îmbunãtaţirea întrebãrilor noastre pe viitor, aici sunt câteva întrebãri care acoperã o arie de subiecte diferite, similare cu unele anterioare. Vã rugãm, nu încercaţi sã vã amintiţi ce aţi rãspuns anterior, trataţi întrebãrile ca fiind unele noi.
+
+ [QUESTION]
+Folosind aceastã scalã, în general vorbind, credeţi că “poţi avea încredere în cei mai mulţi ori majoritatea oamenilor” sau că “trebuie să fi prudent în relaţiile cu ceilalţi oameni”? Vă rog să daţi un scor pe o scală de la 0 la 5, unde 0 înseamnă că “trebuie să fi prudent în relaţiile cu ceilalţi oameni ” şi 5 înseamnă că “poţi avea încredere în cei mai mulţi oameni”.
+
+[ANSWERS]
+
+0. Trebuie să fii prudent în relaţia cu oamenii.
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. Poţi avea încredere în cei mai mulţi dintre oameni.
+
+HF26
+[QUESTION]
+Pe aceeaşi scală de la 0 la 5, credeţi ca cei mai mulţi dintre oameni ar încerca să profite de pe urma dumneavoastrã sau că cei mai mulţi oameni ar fi cinstiţi (oneşti)?
+
+[ANSWERS]
+
+0. Cei mai mulţi oameni ar încerca să profite de pe urma mea.
+
+1. 
+
+2.
+
+3. 
+
+4. 
+
+5. Cei mai mulţi oameni ar fi cinstiţi (oneşti).
+
+HF27
+[QUESTION]
+Pe aceeaşi scală de la 0 la 5, credeţi cã majoritatea oamenilor meritã încrederea dumneavoastrã sau doar câţiva meritã încrederea dumneavoastrã?
+ 
+[ANSWERS]
+0. Puţini oameni meritã încrederea mea.
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. Majoritatea oamenilor meritã încrederea mea.
+
+HF28
+ [INTRO]
+Acum vã voi întreba despre politicã şi guvern.
+ [QUESTION]
+Vă rog să îmi spuneţi, pe scală de la 0 la 10 câtă încredere aveţi în parlamentul României. Dacã nu aveţi deloc încredere acordaţi scor 0, dacã aveţi încredere totalã, acordaţi scor 10. Altfel, acordaţi un scor din acest interval.
+
+[ANSWERS]
+
+HF29
+[QUESTION]
+Vă rog să îmi spuneţi, pe scală de la 0 la 10 câtă încredere aveţi în sistemul de justiţie. Dacã nu aveţi deloc încredere acordaţi scor 0, dacã aveţi încredere totalã, acordaţi scor 10. Altfel, acordaţi un scor din acest interval.
+
+[ANSWERS]
+HF30
+[QUESTION]
+Vă rog să îmi spuneţi, pe scală de la 0 la 10 câtă încredere aveţi în poliţie. Dacã nu aveţi deloc încredere acordaţi scor 0, dacã aveţi încredere totalã, acordaţi scor 10. Altfel, acordaţi un scor din acest interval.
+
+[ANSWERS]
+HF31
+[QUESTION]
+Folosind aceastã scalã, vã rog sã-mi spuneţi în ce mãsurã sunteţi sau nu de accord cu fiecare din urmãtoarele afirmaţii.
+Guvernul ar trebui sã ia mãsuri pentru a reduce diferenţele dintre venituri.
+
+[ANSWERS]
+
+01. Acord puternic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF32
+[QUESTION]
+Homosexualii şi lesbienele ar trebui să fie liberi să-şi trăiască viaţa aşa cum doresc.
+
+[ANSWERS]
+01. Acord puternic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF33
+[QUESTION]
+Guvernul ar trebui sã se asigure cã toate minoritãţile societãţii sunt tratate în mod egal.
+
+[ANSWERS]
+
+01. Acord puternic.
+
+02. Acord.
+
+03. Nici acord, nici dezacord.
+
+04. Dezcord.
+05. Dezacord puternic.
+
+HF34
+[QUESTION]
+În politică se vorbeşte despre “dreapta” şi “stînga”. Pe o scală de la 0 la 10, unde 0 înseamnă stînga şi 10 înseamnă dreapta, unde vă situaţi dvs. din punctul de vedere al opiniilor politice?
+
+[ANSWERS]
+
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+
+HF35
+[QUESTION]
+Folosind aceeaşi scalã, unde aţi situa partidul care vã place cel mai mult unde 0 înseamnă stînga şi 10 înseamnă dreapta?
+
+[ANSWERS]
+
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+
+HF36
+[QUESTION]
+Folosind aceeaşi scalã, unde aţi situa partidul care vã displace cel mai mult?
+
+[ANSWERS]
+00. Stânga.
+
+01. 
+
+02. 
+
+03. 
+
+04. 
+
+05.
+
+06.
+
+07.
+
+08.
+
+09.
+
+10. Dreapta.
+

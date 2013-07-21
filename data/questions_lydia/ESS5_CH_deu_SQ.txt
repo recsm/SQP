@@ -1,0 +1,819 @@
+﻿IF1
+[INTRO]
+Um unseren Fragebogen in Zukunft zu verbessern, möchte ich nun nochmals auf einige Fragen zurückkommen, die wir bereits behandelt haben. Bitte versuchen Sie nicht, sich an ihre Antworten, die Sie vorher gegeben haben, zu erinnern, sondern behandeln Sie diese Fragen, als ob sie vollkommen neu wären. 
+
+Die ersten Fragen sind über die Zeit, die Sie mit Fernsehen, Radiohören und Zeitunglesen verbringen. 
+
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Fernsehen? Zählen Sie dabei auch die Zeit mit, die Sie mit Fernsehen im Internet verbracht haben. 
+
+[ANSWERS]
+
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8. Mehr als 3 Stunden 
+
+IF2
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Radiohören? Zählen Sie dabei auch die Zeit mit, die Sie mit Radiohören im Internet verbracht haben. 
+
+[ANSWERS]
+
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8. Mehr als 3 Stunden 
+IF3
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Zeitunglesen? Zählen Sie dabei auch die Zeit mit, die Sie mit Zeitunglesen im Internet verbracht haben. 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8. Mehr als 3 Stunden 
+
+IF4
+[QUESTION]
+Wenn Sie von dem ausgehen was Sie gehört oder selber erlebt haben: Für wie erfolgreich halten Sie die Polizei, wenn es darum geht, in der Schweiz Straftaten zu verhindern, bei denen Gewalt gebraucht oder angedroht wird. 
+
+[ANSWERS]
+1. Extrem erfolglos 
+
+2. Sehr erfolglos 
+
+3. Eher erfolglos 
+
+4. Weder noch 
+
+5. Eher erfolgreich 
+
+6. Sehr erfolgreich 
+
+7. Extrem erfolgreich 
+
+IF5
+[QUESTION]
+Und wie erfolgreich ist Ihrer Meinung nach die Polizei in der Schweiz beim Fassen von Einbrechern? 
+
+[ANSWERS]
+1. Extrem erfolglos 
+
+2. Sehr erfolglos 
+
+3. Eher erfolglos 
+
+4. Weder noch 
+
+5. Eher erfolgreich 
+
+6. Sehr erfolgreich 
+
+7. Extrem erfolgreich 
+
+IF6
+[QUESTION]
+Angenommen, in der Nähe, wo Sie wohnen, würde eine Gewalttat passieren und man hätte die Polizei angerufen: wie lange oder wie schnell würde es gehen, bis die Polizei am Tatort erscheint? 
+
+[ANSWERS]
+1. Extrem lang 
+
+2. Sehr lang 
+
+3. eher lang
+
+4. weder noch 
+ 
+5. eher schnell 
+
+6. sehr schnell 
+
+7. Extrem schnell 
+
+IF7
+[QUESTION]
+Wenn Sie von dem ausgehen, was Sie gehört oder selber erlebt haben: Wie oft behandelt die Polizei in der Schweiz Ihrer Meinung nach die Leute respektvoll? 
+
+[ANSWERS]
+1. nie 
+
+2. fast nie 
+
+3. selten 
+
+4. gelegentlich 
+
+5. manchmal 
+
+6. in der Hälfte der Fälle 
+
+7. eher schon 
+
+8. oft 
+
+9. sehr oft 
+
+10. fast immer 
+
+11. immer 
+
+IF8
+[QUESTION]
+Und wie oft trifft die Polizei Ihrer Meinung nach faire,  unparteiische Entscheidungen? 
+
+[ANSWERS]
+1. nie 
+
+2. fast nie 
+
+3. selten 
+
+4. gelegentlich 
+
+5. manchmal 
+
+6. in der Hälfte der Fälle 
+
+7. eher schon 
+
+8. oft 
+
+9. sehr oft 
+
+10. fast immer 
+
+11. immer 
+
+IF9
+[QUESTION]
+Und wie oft würden Sie sagen, dass in der Schweiz die Polizei im Umgang mit den Leuten ihre Entscheidungen und Handlungen erklärt, wenn sie gefragt wird? 
+
+[ANSWERS]
+1. nie 
+
+2. fast nie 
+
+3. selten 
+
+4. gelegentlich 
+
+5. manchmal 
+
+6. in der Hälfte der Fälle 
+
+7. eher schon 
+
+8. oft 
+
+9. sehr oft 
+
+10. fast immer 
+
+11. immer 
+
+IF10
+[QUESTION]
+Wie wahrscheinlich es ist, dass Sie erwischt und bestraft werden, wenn Sie ... 
+
+... einer Versicherung überhöhte oder falsche Schadensansprüche melden? 
+
+[ANSWERS]
+1. Überhaupt nicht wahrscheinlich 
+
+2. Nicht sehr wahrscheinlich 
+
+3. Wahrscheinlich 
+
+4. Sehr wahrscheinlich 
+
+IF11
+[QUESTION]
+... etwas kaufen, von dem Sie vermuten, es könnte gestohlen sein? 
+
+[ANSWERS]
+1. Überhaupt nicht wahrscheinlich 
+
+2. Nicht sehr wahrscheinlich 
+
+3. Wahrscheinlich 
+
+4. Sehr wahrscheinlich
+
+IF12
+[QUESTION]
+... ein Verkehrsdelikt begehen wie zu schnelles Fahren oder Überfahren eines Rotlichts? 
+
+[ANSWERS]
+1. Überhaupt nicht wahrscheinlich 
+
+2. Nicht sehr wahrscheinlich 
+
+3. Wahrscheinlich 
+
+4. Sehr wahrscheinlich 
+
+
+IF13
+[INTRO]
+Um unseren Fragebogen in Zukunft zu verbessern, möchte ich nun nochmals auf einige Fragen zurückkommen, die wir bereits behandelt haben. Bitte versuchen Sie nicht, sich an ihre Antworten, die Sie vorher gegeben haben, zu erinnern, sondern behandeln Sie diese Fragen, als ob sie vollkommen neu wären. 
+
+Die ersten paar Fragen beziehen sich auf die Polizei in der Schweiz. 
+
+[QUESTION]
+Wenn Sie von dem ausgehen was Sie gehört oder selber erlebt haben: Für wie erfolgreich halten Sie die Polizei, wenn es darum geht, in der Schweiz Straftaten zu verhindern, bei denen Gewalt gebraucht oder angedroht wird. 
+
+[ANSWERS]
+1. Sehr erfolglos 
+
+2. Eher erfolglos 
+
+3. Weder erfolglos noch erfolgreich
+
+4. Eher erfolgreich 
+
+5. Sehr erfolgreich 
+
+IF14
+[QUESTION]
+Und wie erfolgreich ist Ihrer Meinung nach die Polizei in der Schweiz beim Fassen von Einbrechern? 
+
+[ANSWERS]
+1. Sehr erfolglos 
+
+2. Eher erfolglos 
+
+3. Weder erfolglos noch erfolgreich 
+
+4. Eher erfolgreich 
+
+5. Sehr erfolgreich 
+
+IF15
+[QUESTION]
+Angenommen, in der Nähe, wo Sie wohnen, würde eine Gewalttat passieren und man hätte die Polizei angerufen: wie lange oder wie schnell würde es gehen, bis die Polizei am Tatort erscheint? 
+
+[ANSWERS]
+1. sehr lang 
+
+2. eher lang 
+
+3. weder lang noch schnell 
+
+4. eher schnell 
+
+5. sehr schnell 
+
+IF16
+[QUESTION]
+Wenn Sie von dem ausgehen, was Sie gehört oder selber erlebt haben: Wie oft behandelt die Polizei in der Schweiz Ihrer Meinung nach die Leute respektvoll? 
+
+[ANSWERS]
+00 fast nie 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 fast immer 
+
+IF17
+[QUESTION]
+Und wie oft trifft die Polizei Ihrer Meinung nach faire, unparteiische Entscheidungen? 
+
+[ANSWERS]
+00 fast nie 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 fast immer 
+
+IF18
+[QUESTION]
+Und wie oft würden Sie sagen, dass in der Schweiz die Polizei im Umgang mit den Leuten ihre Entscheidungen und Handlungen erklärt, wenn sie gefragt wird? 
+
+[ANSWERS]
+00 fast nie 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 fast immer 
+
+IF19
+[QUESTION]
+Wie wahrscheinlich es ist, dass Sie in der Schweiz erwischt und bestraft werden, wenn Sie ... 
+
+... einer Versicherung überhöhte oder falsche Schadensansprüche melden? 
+
+[ANSWERS]
+01 Sehr unwahrscheinlich 
+02
+03
+04 Sehr wahrscheinlich 
+
+IF20
+[QUESTION]
+... etwas kaufen, von dem Sie vermuten, es könnte gestohlen sein? 
+
+[ANSWERS]
+01 Sehr unwahrscheinlich 
+02
+03
+04 Sehr wahrscheinlich 
+
+IF21
+[QUESTION]
+... ein Verkehrsdelikt begehen wie zu schnelles Fahren oder Überfahren eines Rotlichts? 
+
+[ANSWERS]
+01 Sehr unwahrscheinlich 
+02
+03
+04 Sehr wahrscheinlich 
+
+IF22
+[QUESTION]
+Was würden Sie sagen: In welchem Ausmass ermöglicht das politische System in der Schweiz Leuten wie ihnen ein Mitspracherecht über was die Regierung macht? 
+
+[ANSWERS]
+1. Überhaupt nicht 
+
+2. In sehr geringem Ausmass 
+
+3. Ein wenig 
+
+4. In hohem Ausmass 
+
+5. In sehr hohem Ausmass 
+
+
+
+
+IF23
+[QUESTION]
+Denken Sie, dass Sie eine aktive Rolle in einer Gruppe übernehmen könnten, die sich mit politischen Fragen beschäftigt? 
+
+[ANSWERS]
+1. Sicher nicht 
+
+2. Wahrscheinlich nicht 
+
+3. Ich bin mir nicht sicher 
+
+4. Wahrscheinlich ja 
+
+5. Sicher ja 
+
+IF24
+[QUESTION]
+Was würden Sie sagen: In welchem Ausmass erlaubt das politische System in der Schweiz Leuten wie ihnen direkten Einfluss auf die Politik zu haben? 
+
+[ANSWERS]
+1. Überhaupt nicht 
+
+2. In sehr geringem Ausmass 
+
+3. Ein wenig
+
+4. In hohem Ausmass 
+
+5. In sehr hohem Ausmass 
+
+IF25
+[QUESTION]
+Wie überzeugt sind Sie von Ihren Fähigkeiten, sich am politischen Geschehen zu beteiligen? 
+
+[ANSWERS]
+1. Überhaupt nicht überzeugt 
+
+2. Ein wenig überzeugt 
+
+3. Recht überzeugt 
+
+4. Sehr überzeugt 
+
+5. Voll und ganz überzeugt 
+
+
+
+IF26
+[INTRO]
+Um unseren Fragebogen in Zukunft zu verbessern, möchte ich nun nochmals auf einige Fragen zurückkommen, die wir bereits behandelt haben. Bitte versuchen Sie nicht, sich an ihre Antworten, die Sie vorher gegeben haben, zu erinnern, sondern behandeln Sie diese Fragen, als ob sie vollkommen neu wären.
+
+Die ersten Fragen beziehen sich auf die Zeit, die Sie mit Fernsehen, Radiohören und Zeitunglesen verbringen. 
+
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Fernsehen? Zählen Sie dabei auch die Zeit mit, die Sie mit Fernsehen über das Internet verbringen. 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF27
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit, die Nachrichten oder Fernsehsendungen zu Politik und Zeitgeschehen zu sehen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF28
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Radiohören? Zählen Sie dabei auch die Zeit mit, die Sie mit Radiohören über das Internet verbringen. 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF29
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit die Nachrichten oder Sendungen zu Politik und Zeitgeschehen zu hören? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF30
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Zeitunglesen? Zählen Sie dabei auch die Zeit mit, die Sie mit Zeitunglesen über das Internet verbringen. 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als 15 Minuten 
+
+3. 15 Minuten, bis zu ½ Stunde 
+
+4. Mehr als ½ Stunde, bis zu 45 Minuten 
+
+5. Mehr als 45 Minuten, bis zu 1 Stunde 
+
+6. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+7. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+8. Mehr als 2 Stunden, bis zu 2 ½ Stunden
+
+9. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+10. Mehr als 3 Stunden 
+
+IF31
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit Artikel zu Politik und Zeitgeschehen zu lesen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8. Mehr als 3 Stunden 
+
+IF32
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Fernsehen über das Internet? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF33
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit, die Nachrichten oder Fernsehsendungen zu Politik und Zeitgeschehen zu sehen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF34
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Radiohören über das Internet? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF35
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit die Nachrichten oder Sendungen zu Politik und Zeitgeschehen zu hören? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF36
+[QUESTION]
+Wie viel Zeit verbringen Sie an einem gewöhnlichen Werktag insgesamt mit Zeitunglesen über das Internet? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als 15 Minuten 
+
+3. 15 Minuten, bis zu ½ Stunde 
+
+4. Mehr als ½ Stunde, bis zu 45 Minuten 
+
+5. Mehr als 45 Minuten, bis zu 1 Stunde 
+
+6. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+7. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+8. Mehr als 2 Stunden, bis zu 2 ½ Stunden
+
+9. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+10. Mehr als 3 Stunden 
+
+IF37
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie damit Artikel zu Politik und Zeitgeschehen zu lesen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als 15 Minuten 
+
+3. 15 Minuten, bis zu ½ Stunde 
+
+4. Mehr als ½ Stunde, bis zu 45 Minuten 
+
+5. Mehr als 45 Minuten, bis zu 1 Stunde 
+
+6. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+7. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+8. Mehr als 2 Stunden, bis zu 2 ½ Stunden
+
+9. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+10. Mehr als 3 Stunden 
+
+IF38
+[QUESTION]
+Und wieviel Zeit verbringen Sie an einem gewöhnlichen Werktag insegsamt im Internet ausser für Fernsehen, Radiohören und Zeitunglesen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+IF39
+[QUESTION]
+Und wieviel von dieser Zeit verbringen Sie mit Themen wie Politik und Zeitgeschehen? 
+
+[ANSWERS]
+1. Überhaupt keine Zeit 
+
+2. Weniger als ½ Stunde 
+
+3. ½ Stunde, bis zu 1 Stunde 
+
+4. Mehr als 1 Stunde, bis zu 1 ½ Stunde 
+
+5. Mehr als 1 ½ Stunde, bis zu 2 Stunden 
+
+6. Mehr als 2 Stunden, bis zu 2 ½ Stunden 
+
+7. Mehr als 2 ½ Stunden, bis zu 3 Stunden 
+
+8, Mehr als 3 Stunden, bis zu 4 Stunden 
+
+9. Mehr als 4 Stunden, bis zu 5 Stunden 
+
+10. Mehr als 5 Stunden, bis zu 6 Stunden 
+
+11. Mehr als 6 Stunden 
+
+

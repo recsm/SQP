@@ -1,0 +1,523 @@
+﻿IF1
+[INTRO]
+Na závěr Vám položím několik otázek týkajících se různých témat, které jsou podobné dřívějším otázkám a které nám pomohou vylepšit naše otázky v budoucnosti. Nesnažte se prosím vzpomínat si na to, co jste odpověděli dříve, ale odpovídejte na ně, jako kdyby to byly úplně nové otázky.
+
+Několik prvních otázek je zaměřeno na množství času, který strávíte sledováním televize, posloucháním rádia a čtením novin.
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne sledováním televize?Zahrňte prosím i čas strávený sledováním televize na internetu. 
+
+[ANSWERS]
+
+0. Vůbec žádný čas 
+
+1. Méně než ½ hodiny 
+
+2. ½ hodiny až 1 hodinu 
+
+3. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+4. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+5. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+6. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+7. Více než 3 hodiny 
+
+IF2
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne posloucháním rádia? Zahrňte prosím i čas strávený posloucháním rádia na internetu. 
+
+[ANSWERS]
+
+0. Vůbec žádný čas 
+
+1. Méně než ½ hodiny 
+
+2. ½ hodiny až 1 hodinu 
+
+3. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+4. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+5. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+6. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+7. Více než 3 hodiny 
+
+IF3
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne čtením novin? Zahrňte prosím i čas strávený čtením novin na internetu. 
+
+[ANSWERS]
+
+0. Vůbec žádný čas 
+
+1. Méně než ½ hodiny 
+
+2. ½ hodiny až 1 hodinu 
+
+3. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+4. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+5. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+6. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+7. Více než 3 hodiny 
+
+IF22
+[INTRO]
+Nyní Vám položím několik otázek týkajících se politiky a vlády.
+[QUESTION]
+Jak moc podle Vás umožňuje politický systém v České republice lidem jako Vy mluvit do toho, co dělá vláda? 
+
+[ANSWERS]
+
+1. Vůbec 
+
+2. Velmi málo 
+
+3. Trochu 
+
+4. Hodně 
+
+5. Velmi hodně 
+
+IF23
+[QUESTION]
+Myslíte si, že byste mohl(a) hrát aktivní roli v nějaké skupině, která přichází do styku s politickými záležitostmi? 
+
+[ANSWERS]
+
+1. Rozhodně ne 
+
+2. Pravděpodobně ne 
+
+3. Nejsem si jistý ani jednou možností 
+
+4. Pravděpodobně ano 
+
+5. Rozhodně ano 
+
+IF24
+[QUESTION]
+Jak moc podle Vás umožňuje politický systém v České republice lidem jako Vy přímo ovlivňovat politiku? 
+
+[ANSWERS]
+
+1. Vůbec 
+
+2. Velmi málo 
+
+3. Trochu 
+
+4. Hodně 
+
+5. Velmi hodně 
+
+IF25
+[QUESTION]
+Jak jste přesvědčený(á) o své schopnosti účastnit se politiky? 
+
+[ANSWERS]
+
+1. Vůbec nejsem přesvědčený(á) 
+
+2. Málo přesvědčený(á) 
+
+3. Docela přesvědčený(á) 
+
+4. Velmi přesvědčený(á) 
+
+5. Zcela přesvědčený(á) 
+
+IF26
+[INTRO]
+Na závěr Vám položím několik otázek týkajících se různých témat, které jsou podobné dřívějším otázkám a které nám pomohou vylepšit naše otázky v budoucnosti. Nesnažte se prosím vzpomínat si na to, co jste odpověděli dříve, ale odpovídejte na ně, jako kdyby to byly úplně nové otázky.
+
+Několik prvních otázek se týká množství času, který strávíte sledováním televize, posloucháním rádia a čtením novin.
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne sledováním televize? Zahrňte prosím i čas strávený sledováním televize na internetu. 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF27
+[QUESTION]
+Ještě jednou k Vašemu průměrnému všednímu dni. Kolik z času, který věnujete sledování televize, strávíte sledováním zpráv nebo programů o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF28
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne posloucháním rádia? Zahrňte prosím i čas strávený posloucháním rádia na internetu. 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF29
+[QUESTION]
+Ještě jednou k Vašemu průměrnému všednímu dni. Kolik z času, který věnujete poslechu rádia, strávíte poslechem zpráv nebo programů o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF30
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne čtením novin? Zahrňte prosím i čas strávený čtením novin na internetu. 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než 15 minut 
+
+02. 15 minut až 0,5 hodiny 
+
+03. Více než 0,5 hodiny, ale ne více než 45 minut 
+
+04. Více než 45 minut, ale ne více než 1 hodinu 
+
+05. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+06. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+07. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+08. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+09. Více než 3 hodiny 
+
+IF31
+[QUESTION]
+A kolik z tohoto času čtete o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+01. Méně než 15 minut 
+
+02. 15 minut až 0,5 hodiny 
+
+03. Více než 0,5 hodiny, ale ne více než 45 minut 
+
+04. Více než 45 minut, ale ne více než 1 hodinu 
+
+05. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+06. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+07. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+08. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+09. Více než 3 hodiny 
+
+IF32
+[INTRO]
+Nyní bychom byli rádi, kdyby jste se zamyslel nad používáním internetu pro sledování televize, poslouchání rádia a čtení novin
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne využíváním internetu pro sledování televizních programů? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+
+IF33
+[QUESTION]
+A kolik z tohoto času strávíte sledováním televizních programů o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF34
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne využíváním internetu pro poslouchání rádia? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF35
+[QUESTION]
+A kolik z tohoto času strávíte poslechem rozhlasových programů o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF36
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne využíváním internetu ke čtení novin? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než 15 minut 
+
+02. 15 minut až 0,5 hodiny 
+
+03. Více než 0,5 hodiny, ale ne více než 45 minut 
+
+04. Více než 45 minut, ale ne více než 1 hodinu 
+
+05. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+06. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+07. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+08. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+09. Více než 3 hodiny 
+
+IF37
+[QUESTION]
+A kolik z tohoto času strávíte čtením novin o politice a současných událostech? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než 15 minut 
+
+02. 15 minut až 0,5 hodiny 
+
+03. Více než 0,5 hodiny, ale ne více než 45 minut 
+
+04. Více než 45 minut, ale ne více než 1 hodinu 
+
+05. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+06. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+07. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+08. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+09. Více než 3 hodiny 
+
+IF38
+[QUESTION]
+Kolik času celkově strávíte během průměrného všedního dne využíváním internetu jinak než pro sledování televize, poslouchání rádia a čtení novin? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin 
+
+IF39
+[QUESTION]
+A kolik z tohoto času věnujete politice a současným událostem? 
+
+[ANSWERS]
+
+00. Vůbec žádný čas 
+
+01. Méně než ½ hodiny 
+
+02. ½ hodiny až 1 hodinu 
+
+03. Více než 1 hodinu, ale ne více než 1,5 hodiny 
+
+04. Více než 1,5 hodiny, ale ne více než 2 hodiny 
+
+05. Více než 2 hodiny, ale ne více než 2,5 hodiny 
+
+06. Více než 2,5 hodiny, ale ne více než 3 hodiny 
+
+07. Více než 3 hodiny, ale ne více než 4 hodiny 
+
+08. Více než 4 hodiny, ale ne více než 5 hodiny 
+
+09. Více než 5 hodiny, ale ne více než 6 hodiny 
+
+10. Více než 6 hodin

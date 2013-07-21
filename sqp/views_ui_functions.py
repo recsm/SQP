@@ -820,13 +820,13 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     base_sql = """
     FROM sqp_question as q
     LEFT JOIN sqp_item as i ON i.id = q.item_id
-    LEFT JOIN sqp_userprofile AS up ON q.created_by_id = up.user_id 
+    LEFT JOIN sqp_userprofile AS up ON q.created_by_id = up.user_id
     LEFT OUTER JOIN sqp_completion as c ON q.id = c.question_id
          AND c.characteristic_set_id = %s
          %s
      %s
-    ORDER BY i.admin_letter, i.admin_number, q.id
-    """ % ( int(characteristicSetId), restrict_complete_by_user,  where)
+    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, q.id
+    """ % (int(characteristicSetId), restrict_complete_by_user,  where)
     
     if returnFormat == 'id_list':
         
@@ -847,7 +847,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
     else:
         
-        sql = "SELECT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
+        sql = "SELECT i.study_id, q.country_id, q.language_id, i.admin, i.name, q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
         
         
         if q != '':

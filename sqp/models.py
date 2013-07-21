@@ -1990,13 +1990,13 @@ class CharacteristicTree():
         code_dict = {}
         for code in codes:
             code_dict[code.characteristic_id] = code
-        
+
         while 1:
             try:
                 code = code_dict[from_char.id]
             except:
                 #Coding is not complete
-                #There is no code for the next char in the tree            
+                #There is no code for the next char in the tree
                 tree.append(None)
                 return tree
             
