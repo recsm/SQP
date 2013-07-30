@@ -790,7 +790,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     page = int(page)
     recordsPerPage = int(recordsPerPage)
     start_record = (page -1) * recordsPerPage
-    
+
     #We only show trusted userprofile questions, created questions, or assigned questions
     """user_assigned_questions = [str(int(uq.question_id)) for uq in models.UserQuestion.objects.filter(user=user)]
     if len(user_assigned_questions) > 0:
@@ -825,7 +825,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
          AND c.characteristic_set_id = %s
          %s
      %s
-    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, q.id
+    ORDER BY i.study_id, q.country_id, q.language_id, i.admin ASC, q.id
     """ % (int(characteristicSetId), restrict_complete_by_user,  where)
     
     if returnFormat == 'id_list':

@@ -182,10 +182,10 @@ class Migration(DataMigration):
             print
             log_text += '\n'.join(file_log_text) + '\n\n\n'
 
-        log_file = codecs.open('/tmp/jorge_import.log', 'w', "utf-8-sig")
+        log_file = codecs.open('/tmp/lydia_import.log', 'w', "utf-8-sig")
         log_file.write(log_text)
         log_file.close()
-        print "LOG STORED AT '/tmp/jorge_import.log'"
+        print "LOG STORED AT '/tmp/lydia_import.log'"
 
 
 
