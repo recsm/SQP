@@ -1,0 +1,1308 @@
+D1
+{INTRO}
+Teraz nasledujú otázky o tom, kedy ste po prvýkrát robili rôzne veci. 
+{QUESTION}
+Mali ste niekedy platené zamestnanie alebo platenú skúšobnú dobu na 20 a viac hodín
+týždenne po dobu najmenej 3 mesiacov?
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+D2
+{QUESTION}
+V ktorom roku ste po prvýkrát začali s takouto prácou? 
+{ANSWERS}
+
+D3
+{QUESTION}
+V ktorom roku, ak vôbec niekedy, ste po prvýkrát opustili vašich rodičov po dobu 2 alebo viac mesiacov a začali žiť oddelene? 
+{ANSWERS}
+
+D4
+{QUESTION}
+Žili ste niekedy doposiaľ s manželom/manželkou alebo partnerom/partnerkou po dobu 3 mesiacov a viac? 
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+D5
+{QUESTION}
+V ktorom roku ste po prvýkrát žili s manželom/manželkou alebo partnerom/partnerkou po dobu 3 mesiacov a viac? 
+{ANSWERS}
+
+D6
+{QUESTION}
+Ste alebo ste niekedy boli vydatá/ženatý? 
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+D7
+{QUESTION}
+V ktorom roku ste sa po prvýkrát vydali/oženili? 
+{ANSWERS}
+
+D8
+{QUESTION}
+Ste/boli ste matkou/otcom? 
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+D9
+{QUESTION}
+Koľkým deťom ste/ste boli matkou/otcom? 
+{ANSWERS}
+
+D10
+{QUESTION}
+V ktorom roku sa narodilo vaše prvé dieťa? 
+{ANSWERS}
+
+D11
+{QUESTION}
+V ktorom roku sa narodilo najmladšie dieťa? 
+{ANSWERS}
+
+D12
+{QUESTION}
+Koľko máte vnúčat? 
+{ANSWERS}
+
+D13
+{QUESTION}
+V ktorom roku sa narodilo vaše prvé vnúča? 
+{ANSWERS}
+
+D14
+{QUESTION}
+Máte nejaké pravnúčatá? 
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+D15
+{QUESTION}
+V ktorom mesiaci ste sa narodili? 
+{ANSWERS}
+
+D17a
+{INTRO}
+Teraz vám položím niekoľko otázok o dievčatách a ženách, zatiaľ čo iní budú odpovedať na otázky o chlapcoch a mužoch.
+{QUESTION}
+Ľudia sa často líšia v predstavách o tom, kedy sa dievča alebo žena stáva dospelou, kedy dosahuje stredný vek a kedy sa stáva starou. V akom veku približne, by ste povedali, že sa dievča alebo žena stane dospelou?
+{ANSWERS}
+
+D18a
+{QUESTION}
+Kedy približne, podľa vás, žena dosahuje stredný vek? 
+{ANSWERS}
+
+D19a
+{QUESTION}
+Kedy približne, podľa vás, sa žena stáva starou? 
+{ANSWERS}
+
+D20a
+{INTRO}
+Teraz niekoľko otázok o tom, kedy ženu považujeme za dospelú.
+{QUESTION}
+Aby bola žena považovaná za dospelú, nakoľko je dôležité, aby opustila
+rodičovský dom?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité
+
+D21a
+{QUESTION}
+Aby bola žena považovaná za dospelú, nakoľko je dôležité, aby mala
+zamestnanie na plný úväzok?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D22a
+{QUESTION}
+Aby bola žena považovaná za dospelú, nakoľko je dôležité, aby žila s manželom alebo partnerom?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D23a
+{QUESTION}
+A aby bola žena považovaná za dospelú, nakoľko je dôležité, aby sa stala matkou?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D24a
+{INTRO}
+A teraz niekoľko otázok o tom, kedy je žena považovaná za starú. 
+{QUESTION}
+Aby bola žena považovaná za starú, nakoľko je dôležité, aby bola fyzicky slabá?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.	 
+
+D25a
+{QUESTION}
+Aby bola žena považovaná za starú, nakoľko je dôležité, aby bola starou mamou?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D26a
+{QUESTION}
+Aby bola žena považovaná za starú, nakoľko je dôležité, aby bola odkázaná na pomoc a starostlivosť iných?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D27a
+{INTRO}
+Teraz sa vás opýtame niekoľko otázok ideálnom veku dievčat a žien pre vykonávanie určitých vecí, a potom o tom kedy sú príliš mladé a napokon príliš staré na vykonávanie určitých vecí. V každej odpovedi uveďte prosím približný vek. 
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre dievča alebo ženu, aby začala žiť s partnerom, za ktorého nie je vydatá?
+{ANSWERS}
+
+D28a
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre dievča alebo ženu, aby sa vydala a žila
+s manželom? 
+{ANSWERS}
+
+D29a
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre dievča alebo ženu, aby sa stala matkou? 
+{ANSWERS}
+
+D30a
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre ženu, aby odišla do trvalého dôchodku? 
+{ANSWERS}
+
+D31a
+{INTRO}
+Niekedy sú ľudia považovaní za príliš mladých na to, aby robili alebo prežívali určité veci… 
+{QUESTION}
+Podľa vášho názoru, do akého veku je dievča alebo žena príliš mladá na to, aby opustila školu?
+{ANSWERS}
+
+D32a
+{QUESTION}
+Podľa vášho názoru, do akého veku je dievča alebo žena príliš mladá na to, aby mala
+sexuálny styk?
+{ANSWERS}
+
+D33a
+{QUESTION}
+Podľa vášho názoru, do akého veku je dievča alebo žena príliš mladá na to, aby začala žiť s partnerom, za ktorého nie je vydatá?
+{ANSWERS}
+
+D34a
+{QUESTION}
+Podľa vášho názoru, do akého veku je dievča alebo žena príliš mladá na to, aby sa vydala a žila s manželom?
+{ANSWERS}
+
+D35a
+{QUESTION}
+Podľa vášho názoru, do akého veku je dievča alebo žena príliš mladá na to, aby sa stala matkou?
+{ANSWERS}
+
+D36a
+{QUESTION}
+Podľa vášho názoru, do akého veku je žena príliš mladá na to, aby šla do trvalého
+dôchodku?
+{ANSWERS}
+
+D37a
+{INTRO}
+V niektorých prípadoch sú ľudia niekedy považovaní za príliš mladých na to, aby robili určité veci, niekedy sú považovaní za príliš starých.
+{QUESTION}
+Podľa vášho názoru, po akom veku je žena všeobecne príliš stará na to, aby žila s rodičmi?
+{ANSWERS}
+
+D38a
+{QUESTION}
+Podľa vášho názoru, po akom veku je žena všeobecne príliš stará na to, aby uvažovala nad tým, že bude mať deti?
+{ANSWERS}
+
+D39a
+{QUESTION}
+Podľa vášho názoru, po akom veku je žena všeobecne príliš stará na to, aby pracovala
+týždenne 20 alebo viac hodín? 
+{ANSWERS}
+
+D40a
+{QUESTION}
+Použitím tejto karty uveďte nakoľko schvaľujete alebo neschvaľujete ak žena…
+…sa rozhodne nikdy nemať deti?
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D41a
+{QUESTION}
+…žije s partnerom bez toho, aby bola za neho vydatá?
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D42a
+{QUESTION}
+…má dieťa s partnerom, s ktorým žije, ale nie je za neho vydatá?
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D43a
+{QUESTION}
+…má prácu na plný úväzok, zatiaľ čo jej deti sú mladšie ako 3 roky?
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D44a
+{QUESTION}
+…rozvedie sa zatiaľ čo jeho deti sú mladšie ako 12 rokov? 
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D45a
+{QUESTION}
+Bez ohľadu na vaše názory; čo myslíte, ako by väčšina ľudí reagovala, ak by žena,
+ktorú poznajú urobila niečo z toho čo vám teraz prečítam? Prosím, vyberte odpoveď z tejto karty. Ako by reagovali ak by sa tá žena……
+…stala matkou skôr ako by mala 18 rokov?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D46a
+{QUESTION}
+…pokračovala v zamestnaní aj po 70-tke?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D47a
+{QUESTION}
+…rozhodla sa nikdy nemať deti? 
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D48a
+{QUESTION}
+…žila s partnerom bez toho aby sa za neho vydala?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D49a
+{QUESTION}
+…mala dieťa s partnerom, s ktorým žije, ale nie je zaňho vydatá?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D50a
+{QUESTION}
+…mala prácu na plný úväzok zatiaľ čo jej deti boli mladšie ako 3 roky?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D51a
+{QUESTION}
+…rozviedla sa zatiaľ čo jej deti boli mladšie ako 12 rokov?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D17b
+{INTRO}
+Teraz vám položím niekoľko otázok o chlapcoch a mužoch, zatiaľ čo iní budú odpovedať na otázky o dievčatách a ženách.
+{QUESTION}
+Ľudia sa často líšia v predstavách o tom, kedy sa chlapec alebo muž stáva dospelým, kedy dosahuje stredný vek a kedy sa stáva starým. V akom veku približne, by ste povedali, že sa chlapec alebo muž stane dospelým? 
+{ANSWERS}
+
+D18b
+{QUESTION}
+Kedy približne, podľa vás, muž dosahuje stredný vek? 
+{ANSWERS}
+
+D19b
+{QUESTION}
+Kedy približne, podľa vás, sa muž stáva starým? 
+{ANSWERS}
+
+D20b
+{INTRO}
+Teraz niekoľko otázok o tom, kedy muža považujeme za dospelého.
+{QUESTION}
+Aby bol muž považovaný za dospelého, nakoľko je dôležité, aby opustil rodičovský dom? 
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité
+
+D21b
+{QUESTION}
+Aby bol muž považovaný za dospelého, nakoľko je dôležité, aby mal zamestnanie na plný úväzok? 
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D22b
+{QUESTION}
+Aby bol muž považovaný za dospelého, nakoľko je dôležité, aby žil s manželkou alebo partnerkou? 
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D23b
+{QUESTION}
+A aby bol muž považovaný za dospelého, nakoľko je dôležité, aby sa stal otcom? 
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D24b
+{INTRO}
+A teraz niekoľko otázok o tom, kedy je muž považovaný za starého.
+{QUESTION}
+Aby bol muž považovaný za starého, nakoľko je dôležité, aby bol fyzicky slabý? 
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.	 
+
+D25b
+{QUESTION}
+Aby bol muž považovaný za starého, nakoľko je dôležité, aby bol starým otcom?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D26b
+{QUESTION}
+Aby bol muž považovaný za starého, nakoľko je dôležité, aby bol odkázaný na pomoc a starostlivosť iných?
+{ANSWERS}
+01. Vôbec to nie je dôležité.
+02. Nie je to dôležité.
+03. Ani dôležité ani nedôležité.
+04. Dôležité.
+05. Veľmi dôležité.
+
+D27b
+{INTRO}
+Teraz sa vás opýtame niekoľko otázok ideálnom veku chlapcov a mužov pre vykonávanie určitých vecí, a potom o tom kedy sú príliš mladí a napokon príliš starí na vykonávanie určitých vecí. V každej odpovedi uveďte prosím približný vek.
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre chlapca alebo muža, aby začal žiť s partnerkou, s ktorou sa neoženil? 
+{ANSWERS}
+
+D28b
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre chlapca alebo muža, aby sa oženil a žil
+s manželkou? 
+{ANSWERS}
+
+D29b
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre chlapca alebo muža na to, aby sa stal otcom? 
+{ANSWERS}
+
+D30b
+{QUESTION}
+Podľa vášho názoru, aký je ideálny vek pre muža na to, aby odišiel do trvalého dôchodku? 
+{ANSWERS}
+
+D31b
+{INTRO}
+Niekedy sú ľudia považovaní za príliš mladých na to, aby robili alebo prežívali určité veci…
+{QUESTION}
+Podľa vášho názoru, do akého veku je chlapec alebo muž príliš mladý na to, aby opustil školu? 
+{ANSWERS}
+
+D32b
+{QUESTION}
+Podľa vášho názoru, do akého veku je chlapec alebo muž príliš mladý na to, aby mal sexuálny styk? 
+{ANSWERS}
+
+D33b
+{QUESTION}
+Podľa vášho názoru, do akého veku je chlapec alebo muž príliš mladý na to, aby začal žiť s partnerkou, s ktorou nie je ženatý? 
+{ANSWERS}
+
+D34b
+{QUESTION}
+Podľa vášho názoru, do akého veku je chlapec alebo muž príliš mladý na to, aby sa oženil a žil s manželkou?
+{ANSWERS}
+
+D35b
+{QUESTION}
+Podľa vášho názoru, do akého veku je chlapec alebo muž príliš mladý na to, aby sa stal otcom? 
+{ANSWERS}
+
+D36b
+{QUESTION}
+Podľa vášho názoru, do akého veku je muž príliš mladý na to, aby šiel do trvalého
+dôchodku? 
+{ANSWERS}
+
+D37b
+{INTRO}
+V niektorých prípadoch sú ľudia niekedy považovaní za príliš mladých na to, aby robili určité veci, inokedy sú považovaní za príliš starých.
+{QUESTION}
+V niektorých prípadoch sú ľudia niekedy považovaní za príliš mladých na to, aby robili určité veci, inokedy sú považovaní za príliš starých. 
+Podľa vášho názoru, po akom veku je muž všeobecne príliš starý na to, aby žil s rodičmi?
+{ANSWERS}
+
+D38b
+{QUESTION}
+Podľa vášho názoru, po akom veku je muž všeobecne príliš starý na to, aby uvažoval nad tým, že bude mať deti? 
+{ANSWERS}
+
+D39b
+{QUESTION}
+Podľa vášho názoru, po akom veku je muž všeobecne príliš starý na to, aby pracoval
+týždenne 20 alebo viac hodín? 
+{ANSWERS}
+
+D40b
+{QUESTION}
+Použitím tejto karty uveďte nakoľko schvaľujete alebo neschvaľujete ak muž…
+…sa rozhodne nikdy nemať deti? 
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D41b
+{QUESTION}
+…žije s partnerkou bez toho, aby boli zosobášení? 
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D42b
+{QUESTION}
+…má dieťa s partnerkou, s ktorou žije, ale nie je s ňou ženatý? 
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D43b
+{QUESTION}
+…má prácu na plný úväzok, zatiaľ čo jeho deti sú mladšie ako 3 roky?
+ {ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D44b
+{QUESTION}
+…rozvedie sa zatiaľ čo jeho deti sú mladšie ako 12 rokov? 
+{ANSWERS}
+1. Rozhodne neschvaľuje m.
+2. Neschvaľujem.
+3. Ani neschvaľujem ani schvaľujem.
+4. Schvaľujem.
+5. Rozhodne Schvaľujem.
+
+D45b
+{QUESTION}
+Bez ohľadu na vaše názory, čo myslíte, ako by väčšina ľudí reagovala, ak by muž,
+ktorého poznajú urobil niečo z toho čo vám teraz prečítam? Prosím, vyberte odpoveď z tejto karty. Ako by reagovali ak by sa ten muž… 
+…stal otcom skôr ako by mal 18 rokov?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D46b
+{QUESTION}
+…pokračoval v zamestnaní aj po 70-tke?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D47b
+{QUESTION}
+…rozhodol sa nikdy nemať deti? 
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D48b
+{QUESTION}
+…žil s partnerkou bez toho aby sa s ňou oženil? 
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D49b
+{QUESTION}
+…mal dieťa s partnerkou, s ktorou žije, ale nie je s ňou ženatý?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D50b
+{QUESTION}
+…mal prácu na plný úväzok, zatiaľ čo jeho deti boli mladšie ako 3 roky? 
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D51b
+{QUESTION}
+…rozviedol sa zatiaľ čo jeho deti boli mladšie ako 12 rokov?
+{ANSWERS}
+1. Väčšina ľudí by to rozhodne neschválila.
+2. Väčšina ľudí by to v duchu neschválila.
+3. Väčšine ľudí by to bolo jedno.
+4. Väčšina ľudí by to schválila.
+
+D52
+{QUESTION}
+Vo všeobecnosti, plánujete si svoju budúcnosť alebo beriete dni tak ako prichádzajú? Prosím vyjadrite váš názor na škále od 0 do 10, pričom 0 znamená “plánujem si svoju budúcnosť ako sa to len dá” a 10 znamená “beriem každý deň tak, ako príde”.
+{ANSWERS}
+00. Plánujem si svoju budúcnosť ako sa to len dá.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Beriem každý deň tak, ako príde.
+
+D53
+{INTRO}
+Teraz sa vás opýtam niekoľko otázok o tom, ako vidíte svoj dôchodok.
+{QUESTION}
+Nakoľko, ak vôbec, sa obávate, že váš príjem v starobe nebude postačovať na
+to, aby vás zabezpečil. Prosím, vyjadrite váš názor na škále od 0 do 10, pričom 0 znamená “vôbec sa neobávam” a 10 znamená “veľmi sa obávam”.
+{ANSWERS}
+00. Vôbec sa neobávam.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Veľmi sa obávam.
+
+D54
+{QUESTION}
+Výberom vašej odpovede z tejto karty, prosím povedzte, o kom si myslíte, že by
+mal byť najviac zodpovedný za zabezpečenie adekvátnych životných podmienok starých ľudí? Prosím, vyjadrite váš názor na škále od 0 do 10, pričom 0 znamená “Predovšetkým by za to mal byť zodpovedný jednotlivec” a 10 znamená “ Predovšetkým by za to mala byť zodpovedná vláda”.
+{ANSWERS}
+00. Predovšetkým by za to mal byť zodpovedný jednotlivec.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Predovšetkým by za to mala byť zodpovedná vláda.
+
+D55
+{QUESTION}
+Prosím, zamyslite sa nad všetkými spôsobmi sporenia ako napr. bankové účty, investície, dôchodkové sporenie alebo aj nehnuteľnosti. Sporíte si alebo ste si v minulosti sporili, aby ste si zabezpečili lepšie podmienky do dôchodku?
+{ANSWERS}
+1. Áno.
+2. Nie.
+
+E1
+{INTRO}
+Teraz niekoľko otázok o veciach, ktoré ste možno vykonali počas uplynulých 12-tich mesiacov.
+{QUESTION}
+Počas posledných 12-tich mesiacov, ako často ste pracovali pre dobrovoľnícku
+alebo charitatívnu organizáciu?
+{ANSWERS}
+01. Najmenej raz za týždeň.
+02. Najmenej raz za mesiac.
+03. Najmenej raz za tri mesiace.
+04. Najmenej raz za šesť mesiacov.
+05. Menej často.
+06. Nikdy.
+
+E2
+{QUESTION}
+Ak neberiete do úvahy nič, čo ste urobili pre vašu rodinu, vo vašom zamestnaní alebo pre dobrovoľnícku organizáciu, ako často počas uplynulých 12-tich mesiacov ste aktívne poskytli pomoc iným ľuďom?
+{ANSWERS}
+01. Najmenej raz za týždeň.
+02. Najmenej raz za mesiac.
+03. Najmenej raz za tri mesiace.
+04. Najmenej raz za šesť mesiacov.
+05. Menej často.
+06. Nikdy.
+
+E3
+{QUESTION}
+Ako často, v uplynulých 12-tich mesiacoch, ste pomáhali alebo sa podieľali na aktivitách organizovaných v mieste vášho bydliska?
+{ANSWERS}
+01. Najmenej raz za týždeň.
+02. Najmenej raz za mesiac.
+03. Najmenej raz za tri mesiace.
+04. Najmenej raz za šesť mesiacov.
+05. Menej často.
+06. Nikdy.
+
+E4
+{INTRO}
+A teraz nasleduje niekoľko otázok o tom, ako vnímate seba a váš život.
+{QUESTION}
+Použitím tejto karty povedzte, prosím, nakoľko súhlasíte alebo nesúhlasíte s každým s
+nasledujúcich výrokov.
+Vždy som optimistický/á, čo sa týka mojej budúcnosti
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E5
+{QUESTION}
+Celkovo sa vnímam veľmi pozitívne
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E6
+{QUESTION}
+Niekedy mám pocit, že som neúspešný
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E7
+{QUESTION}
+Celkovo je môj život taký, ako by som chcel/a
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E8
+{QUESTION}
+Teraz prečítam zoznam možností ako ste sa mohli cítiť alebo správať počas posledného týždňa. Použitím tejto karty povedzte, prosím, do akej miery počas uplynulého týždňa…
+… ste sa cítili depresívne?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E9
+{QUESTION}
+… ste cítili, že na všetko čo ste urobili, ste museli vynaložiť veľa snahy?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E10
+{QUESTION}
+… bol váš spánok nepokojný?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E11
+{QUESTION}
+… ste boli šťastný?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E12
+{QUESTION}
+… ste sa cítili osamelo?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+
+E13
+{QUESTION}
+… ste sa tešili zo života?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E14
+{QUESTION}
+… ste boli smutný?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E15
+{QUESTION}
+… ste neboli schopný dať sa do práce?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E16
+{QUESTION}
+A povedzte mi do akej miery počas uplynulého týždňa…
+… ste mali veľa energie?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E17
+{QUESTION}
+… ste pociťovali úzkosť a obavy?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E18
+{QUESTION}
+… ste boli unavený?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E19
+{QUESTION}
+… ste boli doslova “pohltený” tým čo ste robili?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E20
+{QUESTION}
+… ste sa cítili pokojne a vyrovnane?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E21
+{QUESTION}
+… ste sa nudili?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E22
+{QUESTION}
+… ste sa cítili skutočne odpočinutý keď ste sa ráno prebudili?
+{ANSWERS}
+1. Vôbec alebo takmer vôbec
+2. Niekedy
+3. Často
+4. Vždy alebo takmer vždy
+
+E23
+{QUESTION}
+Použitím tejto karty povedzte, prosím, do akej miery súhlasíte alebo nesúhlasíte s každým z nasledujúcich výrokov.
+Cítim, že sa môžem slobodne rozhodnúť ako žiť svoj život.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E24
+{QUESTION}
+V každodennom živote mám len zriedkakedy čas robiť veci, ktoré ma bavia.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E25
+{QUESTION}
+V každodennom živote dostávam len veľmi málo príležitostí aby som predviedol aký
+som schopný.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E26
+{QUESTION}
+Rád sa učím nové veci.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E27
+{QUESTION}
+Väčšinou sa mi dostáva zadosťučinenia za to čo robím.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E28
+{QUESTION}
+Rád plánujem a pripravujem sa do budúcnosti.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E29
+{QUESTION}
+Ak sa mi v živote nedarí, zvyčajne mi trvá dlho vrátiť do normálu.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E30
+{QUESTION}
+Môj život vyžaduje veľa fyzickej aktivity.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E31
+{QUESTION}
+Ako ste spokojný s doterajším priebehom vášho života?
+{ANSWERS}
+00. Extrémne nespokojný
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Extrémne spokojný
+
+E32
+{QUESTION}
+A ako ste spokojný s vašimi súčasnými životnými podmienkami?
+{ANSWERS}
+00. Extrémne nespokojný
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Extrémne spokojný
+
+E33
+{QUESTION}
+Použitím tejto karty povedzte prosím, koľko času stráveného s vašou najbližšou rodinou považujete za…
+…radostný?
+{ANSWERS}
+00. Žiaden čas
+01.
+02.
+03.
+04.
+05.
+06. Všetok čas
+
+E34
+{QUESTION}
+…stresujúci?
+{ANSWERS}
+00. Žiaden čas
+01.
+02.
+03.
+04.
+05.
+06. Všetok čas
+
+E35
+{QUESTION}
+Použitím tejto karty povedzte do akej miery…
+… mate možnosť učiť sa nové veci?
+{ANSWERS}
+00. Vôbec
+01.
+02.
+03.
+04.
+05.
+06. Vo veľkej miere
+
+E36
+{QUESTION}
+…pociťujete, že ľudia vo vašom okolí pomáhajú jeden druhému?
+{ANSWERS}
+00. Vôbec
+01.
+02.
+03.
+04.
+05.
+06. Vo veľkej miere
+
+E37
+{QUESTION}
+… pociťujete, že ľudia s vami jednajú s rešpektom?
+{ANSWERS}
+00. Vôbec
+01.
+02.
+03.
+04.
+05.
+06. Vo veľkej miere
+
+E38
+{QUESTION}
+… pociťujete, že ľudia s vami zaobchádzajú nespravodlivo?
+{ANSWERS}
+00. Vôbec
+01.
+02.
+03.
+04.
+05.
+06. Vo veľkej miere
+
+E39
+{QUESTION}
+… pociťujete, že sa vám dostáva primerané uznanie za to čo robíte?
+{ANSWERS}
+00. Vôbec
+01.
+02.
+03.
+04.
+05.
+06. Vo veľkej miere
+
+E40
+{QUESTION}
+Použitím tejto karty povedzte prosím, do akej miery súhlasíte alebo nesúhlasíte s každým z nasledujúcich výrokov.
+Vo všeobecnosti cítim, že to, čo v živote robím je hodnotné a cenné
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E41
+{QUESTION}
+Ak niekomu pomôžem, očakávam, že mi to vráti
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E42
+{QUESTION}
+Pri súčasnom stave vecí, je mi ťažko byť plný nádeje o budúcnosti sveta
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E43
+{QUESTION}
+V mojom živote sú ľudia, ktorí sa o mňa skutočne zaujímajú
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E44
+{QUESTION}
+Pre väčšinu ľudí na Slovensku sa život stáva skôr horším ako lepším
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E45
+{QUESTION}
+Cítim sa byť úzko spätý s ľuďmi v mojom okolí
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E46
+{QUESTION}
+Bývate niekedy frustrovaný z častého sledovania televízie?
+{ANSWERS}
+1. Áno, často
+2. Áno, niekedy
+3. Príležitostne
+4. Nie, nikdy
+5. Nikdy nesledujem TV
+
+E47
+{QUESTION}
+Môžem si len ujasniť, máte momentálne platenú prácu?
+{ANSWERS}
+1. Áno
+2. Nie
+
+E48
+{QUESTION}
+Ak vezmete do úvahy všetky okolnosti, nakoľko ste spokojný s vaším terajším zamestnaním?
+{ANSWERS}
+00. Extrémne nespokojný
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Extrémne spokojný
+
+E49
+{QUESTION}
+Nakoľko ste spokojný s rovnováhou medzi časom stráveným v práci a časom stráveným na iné stránky/aktivity vášho života?
+{ANSWERS}
+00. Extrémne nespokojný
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. Extrémne spokojný
+
+E50
+{QUESTION}
+Nakoľko považuje vaše zamestnanie…
+…zaujímavé?
+{ANSWERS}
+00. Vôbec nikdy
+01.
+02.
+03.
+04.
+05.
+06. Úplne vždy
+
+E51
+{QUESTION}
+…stresujúce?
+{ANSWERS}
+00. Vôbec nikdy
+01.
+02.
+03.
+04.
+05.
+06. Úplne vždy
+
+E52
+{QUESTION}
+Čo myslíte, nakoľko je pravdepodobné, že do 12-tich mesiacov sa stanete nezamestnaným?
+Povedali by ste, že je to…
+{ANSWERS}
+1. veľmi pravdepodobné
+2. pravdepodobné
+3. Nie veľmi pravdepodobné
+4. Celkom nepravdepodobné?
+
+E53
+{QUESTION}
+Do akej miery súhlasíte alebo nesúhlasíte s nasledujúcim výrokom?
+Ak zvážim všetku vynaloženú snahu a všetko čo som v práci dosiahol, domnievam sa, že som primerane tomu aj platený
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhla sím
+5. Rozhodne nesúhlasím
+
+E54
+{QUESTION}
+Nakoľko dôležité je pre vás porovnávať svoj príjem s príjmami ostatných ľudí?
+{ANSWERS}
+00. Úplne nedôležité.
+01.
+02.
+03.
+04.
+05.
+06. Veľmi dôležité.
+
+E55
+{QUESTION}
+Koho príjem by ste najskôr prirovnali k tomu vášmu?
+{ANSWERS}
+1. Kolegovia z práce
+2. Členovia rodiny
+3. Priatelia
+4. Iní
+5. Neporovnávam

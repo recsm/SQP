@@ -1,0 +1,304 @@
+I1
+{INTRO}
+De første par spørgsmål handler om hvor meget tid du bruger på at se fjernsyn, høre radio og læse avis.
+{QUESTION}
+Hvor lang tid bruger du i alt på at se fjernsyn på en almindelig hverdag?  Medregn den tid du bruger på at se fjernsyn på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer 
+
+I2
+{QUESTION}
+Hvor lang tid bruger du i alt på at høre radio på en almindelig hverdag?  Medregn den tid du bruger på at høre radio på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer 
+
+I3
+{QUESTION}
+Hvor lang tid bruger du i alt på at læse aviser på en almindelig hverdag?  Medregn den tid du bruger på at læse aviser på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer 
+
+I22
+{QUESTION}
+Nu vil jeg gerne stille dig nogle spørgsmål om politik og regering. I hvor høj grad synes du, at det politiske system i Danmark lader folk som dig få indflydelse på det, regeringen gør?
+{ANSWERS}
+1. Slet ikke 
+2. Meget lav grad 
+3. Nogen grad 
+4. Høj grad 
+5. Meget høj grad 
+
+I23
+{QUESTION}
+Tror du, at du kunne spille en aktiv rolle i en gruppe, der involverer sig i politiske spørgsmål?
+{ANSWERS}
+1. Bestemt ikke 
+2. Sandsynligvis ikke 
+3. Ikke sikker på hverken det ene eller andet 
+4. Sandsynligvis 
+5. Bestemt 
+
+I24
+{QUESTION}
+I hvor høj grad synes du, at det politiske system i Danmark lader folk som dig få direkte indflydelse på politik?
+{ANSWERS}
+1. Slet ikke 
+2. Meget lav grad 
+3. Nogen grad 
+4. Høj grad 
+5. Meget høj grad 
+
+I25
+{QUESTION}
+Hvor stor tillid har du til dine egne evner til at deltage aktivt i politik?
+{ANSWERS}
+1. Slet ingen tillid 
+2. Lidt tillid 
+3. En hel del tillid 
+4. Stor tillid 
+5. Fuld tillid 
+
+I26
+{INTRO}
+De første par spørgsmål drejer sig om hvor meget tid du bruger på at se fjernsyn, høre radio og læse avis.
+{QUESTION}
+Hvor lang tid bruger du i alt på at se fjernsyn på en almindelig hverdag? Medregn den tid du bruger på at se fjernsyn på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I27
+{QUESTION}
+Hvor meget af den tid, du ser fjernsyn på en almindelig hverdag, bruger du på at se nyheder eller programmer om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I28
+{QUESTION}
+Hvor lang tid bruger du i alt på at høre radio på en almindelig hverdag? Medregn den tid du bruger på at høre radio på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I29
+{QUESTION}
+Hvor meget af den tid, du hører radio på en almindelig hverdag, bruger du på at høre nyheder eller programmer om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I30
+{QUESTION}
+Hvor lang tid bruger du i alt på at læse aviser på en almindelig hverdag? Medregn den tid du bruger på at læse aviser på internettet.
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end 15 minutter 
+02. 15 minutter, højst ½ time 
+03. Mere end ½ time, højst 45 minutter 
+04. Mere end 45 minutter, højst 1 time 
+05. Mere end 1 time, højst 1½ time 
+06. Mere end 1½ time, højst 2 timer 
+07. Mere end 2 timer, højst 2½ time 
+08. Mere end 2½ time, højst 3 timer 
+09. Mere end 3 timer 
+
+I31
+{QUESTION}
+Og hvor meget af denne tid bruger du på at læse om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end 15 minutter 
+02. 15 minutter, højst ½ time 
+03. Mere end ½ time, højst 45 minutter 
+04. Mere end 45 minutter, højst 1 time 
+05. Mere end 1 time, højst 1½ time 
+06. Mere end 1½ time, højst 2 timer 
+07. Mere end 2 timer, højst 2½ time 
+08. Mere end 2½ time, højst 3 timer 
+09. Mere end 3 timer
+
+I32
+{INTRO}
+Nu vil vi gerne bede dig om kun at tænke på at bruge internettet til at se fjernsyn, høre radio eller læse aviser.
+{QUESTION}
+Hvor lang tid bruger du i alt på at se fjernsyn på internettet på en almindelig hverdag?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I33
+{QUESTION}
+Og hvor meget af denne tid bruger du på at se programmer om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I34
+{QUESTION}
+Hvor lang tid bruger du i alt på at høre radio på internettet på en almindelig hverdag?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I35
+{QUESTION}
+Og hvor meget af denne tid bruger du på at høre radioprogrammer om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I36
+{QUESTION}
+Hvor lang tid bruger du i alt på at læse avis på internettet på en almindelig hverdag?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end 15 minutter 
+02. 15 minutter, højst ½ time 
+03. Mere end ½ time, højst 45 minutter 
+04. Mere end 45 minutter, højst 1 time 
+05. Mere end 1 time, højst 1½ time 
+06. Mere end 1½ time, højst 2 timer 
+07. Mere end 2 timer, højst 2½ time 
+08. Mere end 2½ time, højst 3 timer 
+09. Mere end 3 timer
+
+I37
+{QUESTION}
+Og hvor meget af denne tid bruger du på at læse om politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end 15 minutter 
+02. 15 minutter, højst ½ time 
+03. Mere end ½ time, højst 45 minutter 
+04. Mere end 45 minutter, højst 1 time 
+05. Mere end 1 time, højst 1½ time 
+06. Mere end 1½ time, højst 2 timer 
+07. Mere end 2 timer, højst 2½ time 
+08. Mere end 2½ time, højst 3 timer 
+09. Mere end 3 timer
+
+I38
+{QUESTION}
+Hvor lang tid bruger du i alt på internettet ud over at bruge det til at se fjernsyn, høre radio og læse aviser på en almindelig hverdag?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer 
+
+I39
+{QUESTION}
+Og hvor meget af denne tid bruger du på politik og aktuelle emner?
+{ANSWERS}
+00. Slet ingen tid 
+01. Mindre end ½ time 
+02. ½ time til 1 time 
+03. Mere end 1 time, højst 1½ time 
+04. Mere end 1½ time, højst 2 timer 
+05. Mere end 2 timer, højst 2½ time 
+06. Mere end 2½ time, højst 3 timer 
+07. Mere end 3 timer, højst 4 timer 
+08. Mere end 4 timer, højst 5 timer 
+09. Mere end 5 timer, højst 6 timer 
+10. Mere en 6 timer

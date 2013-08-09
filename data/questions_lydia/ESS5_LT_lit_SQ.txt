@@ -1,0 +1,306 @@
+I1
+{INTRO}
+Pirmieji keli klausimai skirti iðsiaiðkinti, kiek laiko jûs skiriate televizijos þiûrëjimui, radijo klausymuisi ir laikraðèiø skaitymui.
+{QUESTION}
+Kiek laiko ið viso áprastà darbo dienà jûs skiriate televizijos þiûrëjimui? Praðome áskaièiuoti ir laikà, kurá skiriate televizijos þiûrëjimui internetu.
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val.
+
+I2
+{QUESTION}
+Kiek laiko iš viso įprastą darbo dieną jūs skiriate radijo klausymuisi? Prašome įskaičiuoti ir laiką, kurį skiriate radijo klausymuisi internetu.
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val.
+
+I3
+{QUESTION}
+Kiek laiko iš viso įprastą darbo dieną jūs skiriate laikraščių skaitymui? Prašome įskaičiuoti ir laiką, kurį skiriate laikraščių skaitymui internetu.
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val.
+
+I22
+{INTRO}
+Dabar keli klausimai apie politikà ir valdþià.
+{QUESTION}
+Kaip manote, ar Lietuvos politinë sistema leidþia tokiems þmonëms kaip jûs daryti átakà valdþios veiklai? 
+{ANSWERS}
+1. Visiškai ne.
+2. Labai Masai.
+3. Šiek tiek.
+4. Daug.
+5. Labai daug.
+
+I23
+{QUESTION}
+Kaip manote, ar jûs galëtumëte aktyviai dalyvauti grupëje, kurios veikla susijusi su politiniais klausimais?
+{ANSWERS}
+1. Tikrai ne.
+2. Greičiausiai ne.
+3. Nesu tikras/-a, abejoju.
+4. Greičiausiai taip. 
+5. Tikrai taip. 
+
+I24
+{QUESTION}
+O kaip manote, ar Lietuvos politinë sistema leidþia tokiems þmonëms kaip jûs daryti tiesioginæ átakà politikai? 
+{ANSWERS}
+1. Visiškai ne.
+2. Labai Masai.
+3. Šiek tiek.
+4. Daug.
+5. Labai daug.
+
+I25
+{QUESTION}
+Kiek esate uþtikrintas/-a dël savo sugebëjimø dalyvauti politikoje? 
+{ANSWERS}
+1. Visiškai neužtikrintas/-a.
+2. Nelabai užtikrintas/-a.
+3. Ganėtinai užtikrintas/-a.
+4. Labai užtikrintas/-a.
+5. Visiškai užtikrintas/-a.
+
+I26
+{INTRO}
+Pirmieji keli klausimai skirti iðsiaiðkinti, kiek laiko jûs skiriate televizijos þiûrëjimui, radijo klausymuisi ir laikraðèiø skaitymui. 
+{QUESTION}
+Kiek laiko ið viso áprastà darbo dienà jûs skiriate televizijos þiûrëjimui? Praðome áskaièiuoti ir laikà, kurá skiriate televizijos þiûrëjimui internetu.
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I27
+{QUESTION}
+O kiek ið to laiko, kurá skiriate televizijos þiûrëjimui áprastà darbo dienà, jûs skiriate þiniø arba politiniø televizijos laidø þiûrëjimui? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I28
+{QUESTION}
+Kiek laiko ið viso áprastà darbo dienà jûs skiriate radijo klausymuisi? Praðome áskaièiuoti ir laikà, kurá skiriate radijo klausymuisi internetu. 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I29
+{QUESTION}
+O kiek ið to laiko, kurá skiriate radijo klausymuisi áprastà darbo dienà, jûs skiriate þiniø arba politiniø radijo laidø klausymuisi?
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I30
+{QUESTION}
+Kiek laiko ið viso áprastà darbo dienà jûs skiriate laikraðèiø skaitymui? Praðome áskaièiuoti ir laikà, kurá skiriate laikraðèiø skaitymui internetu.
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 15 min.
+02. Nuo 15 min. iki 0,5 val.
+03. Daugiau negu 0,5 val., iki 45 min.
+04. Daugiau negu 45 min., iki 1 val.
+05. Daugiau negu 1 val., iki 1,5 val.
+06. Daugiau negu 1,5 val., iki 2 val.
+07. Daugiau negu 2 val., iki 2,5 val.
+08. Daugiau negu 2,5 val., iki 3 val.
+09. Daugiau negu 3 val.
+
+I31
+{QUESTION}
+O kiek ið to laiko, kurá skiriate laikraðèiø skaitymui áprastà darbo dienà, jûs skiriate politiniø naujienø ir aktualijø skaitymui? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 15 min.
+02. Nuo 15 min. iki 0,5 val.
+03. Daugiau negu 0,5 val., iki 45 min.
+04. Daugiau negu 45 min., iki 1 val.
+05. Daugiau negu 1 val., iki 1,5 val.
+06. Daugiau negu 1,5 val., iki 2 val.
+07. Daugiau negu 2 val., iki 2,5 val.
+08. Daugiau negu 2,5 val., iki 3 val.
+09. Daugiau negu 3 val.
+
+I32
+{INTRO}
+Dabar norëtume, kad atsakydami á tolesnius klausimus galvotumëte apie televizijos þiûrëjimà, radijo klausymàsi ir laikraðèiø skaitymà tik internetu. 
+{QUESTION}
+Kiek laiko ið viso áprastà darbo dienà jûs skiriate televizijos laidø þiûrëjimui internetu? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I33
+{QUESTION}
+O kiek ið to laiko jûs skiriate televizijos laidø apie politikà ir aktualijas þiûrëjimui? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I34
+{QUESTION}
+Kiek laiko iš viso áprastà darbo dienà jûs skiriate radijo klausymuisi internetu? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I35
+{QUESTION}
+O kiek iš to laiko jûs skiriate radijo laidø apie politikà ir aktualijas klausymuisi? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I36
+{QUESTION}
+Kiek laiko iš viso áprastà darbo dienà jûs skiriate laikrašèiø skaitymui internetu? 
+{ANSWERS}
+00. Visai tam neskiriu laiko
+01. Mažiau negu 15 min.
+02. Nuo 15 min. iki 0,5 val.
+03. Daugiau negu 0,5 val., iki 45 min.
+04. Daugiau negu 45 min., iki 1 val.
+05. Daugiau negu 1 val., iki 1,5 val.
+06. Daugiau negu 1,5 val., iki 2 val.
+07. Daugiau negu 2 val., iki 2,5 val.
+08. Daugiau negu 2,5 val., iki 3 val.
+09. Daugiau negu 3 val.
+
+I37
+{QUESTION}
+O kiek iš to laiko jûs skiriate politiniø naujienø ir aktualijø skaitymui? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 15 min.
+02. Nuo 15 min. iki 0,5 val.
+03. Daugiau negu 0,5 val., iki 45 min.
+04. Daugiau negu 45 min., iki 1 val.
+05. Daugiau negu 1 val., iki 1,5 val.
+06. Daugiau negu 1,5 val., iki 2 val.
+07. Daugiau negu 2 val., iki 2,5 val.
+08. Daugiau negu 2,5 val., iki 3 val.
+09. Daugiau negu 3 val.
+
+I38
+{QUESTION}
+Kiek laiko iš viso áprastà darbo dienà jûs skiriate naršymui internete kitais tikslais nei televizijos žiûrëjimas, radijo klausymasis ir laikrašèiø skaitymas? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.
+
+I39
+{QUESTION}
+O kiek iš to laiko jûs skiriate domëjimuisi politika ir aktualijomis? 
+{ANSWERS}
+00. Visai tam neskiriu laiko.
+01. Mažiau negu 0,5 val.
+02. Nuo 0,5 val. iki 1 val.
+03. Daugiau negu 1 val., iki 1,5 val.
+04. Daugiau negu 1,5 val., iki 2 val.
+05. Daugiau negu 2 val., iki 2,5 val.
+06. Daugiau negu 2,5 val., iki 3 val.
+07. Daugiau negu 3 val., iki 4 val.
+08. Daugiau negu 4 val., iki 5 val.
+09. Daugiau negu 5 val., iki 6 val.
+10. Daugiau negu 6 val.

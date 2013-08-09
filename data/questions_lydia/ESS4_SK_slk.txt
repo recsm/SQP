@@ -1,0 +1,1315 @@
+D1
+{INTRO}
+A teraz niekoľko otázok o tom ako spoločnosť funguje.
+{QUESTION}
+Použitím tejto karty, prosím, povedzte, nakoľko súhlasíte alebo nesúhlasíte s každým z
+nasledujúcich výrokov.
+Veľké rozdiely v zárobkoch ľudí sú prijateľné, lebo sa tak dôkladne odmenia rozdiely v
+talente a úsilí.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D2
+{QUESTION}
+Školy musia nau
+iť detí poslušnosti a disciplíne.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D3
+{QUESTION}
+Žena by mala byť pripravená obmedziť svoju prácu v záujme rodiny.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D4
+{QUESTION}
+Aby bola spolo
+nosť spravodlivá, rozdiely v životných podmienkach ľudí by mali byť malé.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D5
+{QUESTION}
+Ľudia, ktorí porušujú zákon, by mali dostávať oveľa tvrdšie tresty, ako dostávajú teraz.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D6
+{QUESTION}
+Ak je málo pracovných miest, muži by mali mať väčšie právo na prácu ako ženy.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D7
+{QUESTION}
+Zo 100 ľudí produktívneho veku (vek, v ktorom ľudia môžu legálne pracovať) na Slovensku, koľko by ste povedali, že je nezamestnaných alebo hľadajúcich si prácu?
+{ANSWERS}
+01. 0-4 
+02. 5-9 
+03. 10-14 
+04. 15-19 
+05. 20-24 
+06. 25-29 
+07. 30-34 
+08. 35-39 
+09. 40-44 
+10. 45-49 
+11. 50 alebo viac 
+
+D8
+{QUESTION}
+Zo 100 ľudí produktívneho veku (vek, v ktorom ľudia môžu legálne pracovať), na Slovensku, koľko by ste povedali, že je dlhodobo chorých alebo handicapovaných?
+{ANSWERS}
+01. 0-4 
+02. 5-9 
+03. 10-14 
+04. 15-19 
+05. 20-24 
+06. 25-29 
+07. 30-34 
+08. 35-39 
+09. 40-44 
+10. 45-49 
+11. 50 alebo viac 
+
+D9
+{QUESTION}
+Zo 100 ľudí produktívneho veku (vek, v ktorom ľudia môžu legálne pracovať) na
+Slovensku, koľko by ste povedali, že nemá dosť peňazí na základné potreby?
+{ANSWERS}
+01. 0-4 
+02. 5-9 
+03. 10-14 
+04. 15-19 
+05. 20-24 
+06. 25-29 
+07. 30-34 
+08. 35-39 
+09. 40-44 
+10. 45-49 
+11. 50 alebo viac 
+
+D10
+{QUESTION}
+Zo 100 ľudí produktívneho veku (vek, v ktorom ľudia môžu legálne pracovať) na Slovensku, koľko by ste povedali, že sa narodilo mimo Slovenska?
+{ANSWERS}
+01. 0-4 
+02. 5-9 
+03. 10-14 
+04. 15-19 
+05. 20-24 
+06. 25-29 
+07. 30-34 
+08. 35-39 
+09. 40-44 
+10. 45-49 
+11.50 alebo viac 
+
+D11
+{INTRO}
+V nasledujúcich otázkach sa budeme pýtať nakoľko dobré alebo zlé sú isté veci pre rôzne skupiny v dnešnej dobe na Slovensku.
+{QUESTION}
+Použitím tejto karty povedzte, čo si všeobecne myslíte o životnej úrovni dôchodcov?
+Prosím, odpovedzte na škále od 0 do 10, kde 0 znamená extrémne zlá a 10 znamená extrémne dobrá.
+{ANSWERS}
+00 Extrémne zlá
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extrémne dobrá
+
+D12
+{QUESTION}
+Čo si všeobecne myslíte o životnej úrovni nezamestnaných ľudí?
+{ANSWERS}
+00 Extrémne zlá
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extrémne dobrá
+
+D13
+{QUESTION}
+A čo si myslíte o poskytovaní “finančne dostupnej “ starostlivosti o deti pre pracujúcich rodičov?
+{ANSWERS}
+00 Extrémne zlá
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extrémne dobrá
+
+D14
+{QUESTION}
+A čo si vo všeobecnosti myslíte o možnostiach mladých ľudí nájsť si prvé zamestnanie na plný úväzok na Slovensku?
+{ANSWERS}
+00 Extrémne zlá
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Extrémne dobrá
+
+D15
+{QUESTION}
+Ľudia majú rozdielne názory na to, za čo by vláda (všeobecne, nielen terajšia) mala alebo nemala byť zodpovedná. Pre každú z úloh, ktoré vám prečítam, mi na škále od 0 do 10 povedzte, čo si myslíte, koľko zodpovednosti by vláda mala mať. 0 znamená, že by to vonkoncom nemala byť zodpovednosť vlády a 10 znamená, že by to mala byť výlučne zodpovednosť vlády. Po prvé..
+…zabezpečiť prácu pre každého kto ju chce?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D16
+{QUESTION}
+…zabezpečiť primeranú zdravotnú starostlivosť pre chorých?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D17
+{QUESTION}
+…zabezpečiť slušnú životnú úroveň pre starých ľudí?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D18
+{QUESTION}
+A čo myslíte, koľko zodpovednosti by mala mať vláda (všeobecne, nielen terajšia)…..
+…za zabezpečenie slušnej životnej úrovne pre nezamestnaných?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D19
+{QUESTION}
+…za zabezpečenie dostatočnej starostlivosti o deti pracujúcich rodičov?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D20
+{QUESTION}
+…za poskytnutie platenej dovolenky ľuďom, ktorí sa dočasne starajú o chorých členov rodiny?
+{ANSWERS}
+00 Vonkoncom by to nemala byť zodpovednosť vlády
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Mala by to byť výlučne zodpovednosť vlády
+
+D21
+{INTRO}
+Teraz sa vás budem pýtať na vplyv sociálnych príspevkov a služieb na rôzne oblasti života na Slovensku. Sociálnymi príspevkami a službami myslíme zdravotnú starostlivosť, dôchodky a sociálne dávky.
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, do akej miery súhlasíte alebo nesúhlasíte s tým, že sociálne príspevky a služby na Slovensku…
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D22
+{QUESTION}
+…zabraňujú šíreniu chudoby?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D23
+{QUESTION}
+…vedú k rovnocennejšej spoločnosti?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D24
+{QUESTION}
+…vedú ľudí z iných krajín k tomu, aby sem prišli a žili tu?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D25
+{QUESTION}
+…stoja firmy a podniky príliš veľa na daniach a poplatkoch?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D26
+{QUESTION}
+…uľahčujú ľuďom zosúladiť pracovný a rodinný život?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D27
+{QUESTION}
+A do akej miery súhlasíte alebo nesúhlasíte s tým, že sociálne príspevky a služby na
+Slovensku…
+…robia ľudí lenivými?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D28
+{QUESTION}
+…robia ľudí menej ochotných zaujímať sa o iných?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D29
+{QUESTION}
+…robia ľudí menej ochotných starať sa o seba a svoju rodinu?
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D30
+{QUESTION}
+Stále hovoríme o poskytovaní sociálnych dávok a služieb. Povedzte mi, prosím, nakoľko efektívne (účinné) je poskytovanie zdravotnej starostlivosti na Slovensku. Vašu odpoveď si vyberte z karty, kde 0 znamená extrémne neefektívne (neúčinné) a 10 znamená extrémne efektívne (účinné).
+{ANSWERS}
+00  Extrémne neefektívne
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne efektívne
+
+D31
+{QUESTION}
+A nakoľko efektívne sú daňové úrady pri vybavovaní žiadostí na čas, vyhýbaní
+sa chybám a predchádzaní podvodom? Prosím, použite kartu, kde 0 znamená extrémne neefektívne vo vykonávaní svojej práce a 10 znamená, že sú extrémne efektívne.
+{ANSWERS}
+00  Extrémne neefektívne
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne efektívne
+
+D32
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, či si myslíte, že lekári a sestričky na
+Slovensku uprednostňujú (zvýhodňujú) určitých ľudí alebo pristupujú ku všetkým rovnako. Vyberte si vašu odpoveď z tejto karty, kde 0 znamená, že si myslíte, že niektorých ľudí uprednostňujú a 10 znamená, že si myslíte, že pristupujú ku všetkým rovnako.
+{ANSWERS}
+00  Uprednostňujú určitých ľudí
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Pristupujú ku všetkým rovnako
+
+D33
+{QUESTION}
+A použitím tej istej karty mi, prosím, povedzte, či si myslíte, že daňové úrady na
+Slovensku poskytujú špeciálne výhody istým ľuďom alebo pristupujú ku všetkým rovnako?
+{ANSWERS}
+00  Uprednostňujú určitých ľudí
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Pristupujú ku všetkým rovnako
+
+D34
+{QUESTION}
+Mnohé sociálne príspevky a služby sú platené z daní. Ak by sa vláda musela rozhodnúť medzi zvýšením daní a väčším príspevkom na sociálne dávky a služby alebo znížením daní a nižším príspevkom na sociálne dávky a služby, čo by mala urobiť?
+{ANSWERS}
+00  Vláda by mala znížiť dane a menej prispievať na sociálne dávky a služby
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Vláda by mala zvýšiť dane a viac prispievať na sociálne dávky a služby
+
+D35
+{QUESTION}
+Predstavte si dvoch ľudí. Jeden z nich zarába dvakrát toľko ako ten druhý. Ktorý z
+nasledujúcich troch výrokov na tejto karte sa najväčšmi približuje vašej predstave o tom, aké dane by mali platiť?
+{ANSWERS}
+1. Obaja by mali platiť ten istý podiel (rovnaké %) zo svojich zárobkov na daniach, takže osoba s dvojnásobným zárobkom zaplatí aj dvojnásobok na daniach.
+2. Osoba s vyšším zárobkom by mala platiť vyšší podiel (väčšie %) z jej zárobkov na daniach, Takže osoba s dvojnásobným zárobkom zaplatí viac ako dvojnásobok na daniach
+3. Obaja by mali platiť tú istú sumu peňazí na daniach, bez ohľadu na rozdiely v ich zárobkoch.
+
+D36
+{QUESTION}
+Niektorí ľudia hovoria, že tí, čo zarábajú viac by mali dostať aj vyššie starobné dôchodky, pretože platili viac. Iní hovoria, že tí, čo zarábajú menej by mali dostať vyššie starobné dôchodky, pretože potrebujú viac. Ktorý z týchto výrokov na karte sa najväčšmi približuje vášmu názoru?
+{ANSWERS}
+1. Tí, čo zarábajú viac, by mali dostať vyšší starobný dôchodok, ako tí, čo zarábajú menej.
+2. Tí, čo zarábajú viac, a aj tí, čo zarábajú menej, by mali dostať rovnaké starobné
+dôchodky.
+3. Tí, čo zarábajú menej, by mali dostať vyššie starobné dôchodky, ako tí, čo zarábajú
+viac.
+
+D37
+{QUESTION}
+Niektorí ľudia hovoria, že tí, čo zarábajú viac, by mali dostávať vyššie dávky v
+nezamestnanosti, v prípade, že sa dočasne ocitnú bez práce, pretože platia vyššie dane. Iní si však myslia, že tí, čo zarábajú menej, by mali dostať viac, pretože sú vo väčšej tiesni. Použitím tejto karty mi, prosím, povedzte, s ktorým z troch výrokov súhlasíte najviac?
+{ANSWERS}
+1. Tí, čo zarábajú viac a stanú sa dočasne nezamestnanými, by mali dostávať
+vyššie príspevky v nezamestnanosti.
+2. Tí, čo zarábajú viac a aj tí, čo zarábajú menej, by mali dostať rovnaké príspevky v nezamestnanosti.
+3. Tí, čo zarábajú menej a stanú sa dočasne nezamestnanými, by mali dostávať vyššie príspevky v nezamestnanosti.
+
+D38
+{QUESTION}
+Ak sa zamyslíte nad ľuďmi z iných krajín, ktorí prídu žiť na Slovensko, čo si myslíte,
+kedy by mali získať rovnaké práva na získanie sociálnych príspevkov a služieb ako majú občania, ktorí tu už žijú?
+{ANSWERS}
+1. Okamžite po príchode.
+2. Po uplynutí jedného roka života na Slovensku, bez ohľadu na to , či pracujú alebo
+nie.
+3. Len v prípade, že pracovali a platili dane po dobu najmenej jedného roka.
+4. Hneď ako sa stanú slovenskými občanmi.
+5. Nikdy by nemali mať rovnaké práva.
+
+D39
+{QUESTION}
+Veľa ľudí iných krajín, ktorí prídu žiť na Slovensko, platí dane a využíva sociálne dávky a služby. Myslíte si, že títo ľudia dostávajú viac ako prispievajú alebo, že prispievajú viac ako dostávajú? Prosím, Použite túto kartu, kde 0 znamená, že dostávajú viac a 10 znamená, že prispievajú viac.
+{ANSWERS}
+00  Dostávajú oveľa viac ako prispievajú
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Prispievajú oveľa viac ako dostávajú
+
+D40
+{QUESTION}
+Použitím tejto karty povedzte, prosím, nakoľko súhlasíte alebo nesúhlasíte s každým z nasledujúcich výrokov o ľuďoch na Slovensku.
+Mnoho nezamestnaných sa v skutočnosti nepokúša nájsť si prácu.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D41
+{QUESTION}
+Mnoho ľudí s veľmi nízkymi zárobkami dostáva menej príspevkov, ako im podľa práva patrí.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D42
+{QUESTION}
+Mnohí ľudia si to zariadili tak, poberajú príspevky a využívajú služby, na ktoré
+nemajú nárok.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D43
+{QUESTION}
+Na Slovensku sú nedostatočné príspevky na pomoc ľuďom, ktorí sú v skutočnej núdzi.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D44
+{QUESTION}
+Zamestnanci často predstierajú chorobu, aby mohli zostať doma.
+{ANSWERS}
+1. Rozhodne súhlasím
+2. Súhlasím
+3. Ani súhlas ani nesúhlas
+4. Nesúhlasím
+5. Rozhodne nesúhlasím
+
+D45
+{QUESTION}
+V súčasnosti sa diskutuje o nákladoch poskytovania štátnej zdravotnej starostlivosti na
+Slovensku. Ak by ste si predstavili obdobie o 10 rokov odteraz, ktorý z nasledujúcich výrokov je najbližšie k vášmu názoru?
+{ANSWERS}
+1. Slovensko nebude schopné dovoliť si súčasnú úroveň zdravotnej starostlivosti.
+2. Slovensko bude schopné dovoliť si súčasnú úroveň zdravotnej starostlivosti, no
+nebude schopné ju zvýšiť.
+3. Slovensko bude schopné dovoliť si zvýšiť úroveň zdravotnej starostlivosti
+
+D46
+{QUESTION}
+Momentálne sa diskutuje aj o nákladoch na dôchodky na Slovensku. Ak by ste si
+predstavili obdobie o 10 rokov odteraz, ktorý z nasledujúcich výrokov je najbližšie k vášmu názoru?
+{ANSWERS}
+1. Slovensko si nebude môcť dovoliť momentálnu výšku starobného dôchodku.
+2. Slovensko si bude môcť dovoliť momentálnu výšku starobného dôchodku, no nebude môcť ho zvýšiť.
+3. Slovensko si bude môcť dovoliť nárast výšky starobného dôchodku.
+
+D47 
+{INTRO}
+V nasledujúcich otázkach, by sme chceli, aby ste sa zamysleli nad tým, čo sa môže stať vnasledujúcich 12 mesiacoch.
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, nakoľko je pravdepodobné, že v nasledujúcich 12-tich mesiacoch budete nezamestnaný/á a budete si hľadať prácu najmenej 4 za sebou nasledujúce týždne?
+{ANSWERS}
+1. Celkom nepravdepodobné
+2. Nie veľmi pravdepodobné
+3. Pravdepodobné
+4. Veľmi pravdepodobné
+
+D48
+{QUESTION}
+Nakoľko je pravdepodobné, že počas nasledujúcich 12-tich mesiacov budete musieť v práci tráviť menej času, ako by ste chceli, pretože sa budete musieť starať o členov rodiny alebo príbuzných?
+{ANSWERS}
+1. Celkom nepravdepodobné
+2. Nie veľmi pravdepodobné
+3. Pravdepodobné
+4. Veľmi pravdepodobné
+
+D49
+{QUESTION}
+A počas nasledujúcich 12-tich mesiacov, nakoľko pravdepodobné je, že nastanú časy, keď nebudete mať dosť peňazí na to najnutnejšie do domácnosti?
+{ANSWERS}
+1. Celkom nepravdepodobné
+2. Nie veľmi pravdepodobné
+3. Pravdepodobné
+4. Veľmi pravdepodobné
+
+D50
+{QUESTION}
+A počas nasledujúcich 12-tich mesiacov, nakoľko pravdepodobné je, že vám nebude poskytnutá lekárska starostlivosť, ktorú by ste v prípade choroby potrebovali?
+{ANSWERS}
+1. Celkom nepravdepodobné
+2. Nie veľmi pravdepodobné
+3. Pravdepodobné
+4. Veľmi pravdepodobné
+
+E1 
+{INTRO}
+A teraz sa vás opýtame niekoľko otázok týkajúcich sa veku.
+{QUESTION}
+Čo si myslíte, v akom veku ľudia všeobecne prestanú byť opisovaní ako mladí?
+{ANSWERS}
+
+E2
+{QUESTION}
+Čo si myslíte, v akom veku ľudia všeobecne začnú byť opisovaní ako starí?
+{ANSWERS}
+
+E3
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, ktorý štvorček najlepšie popisuje vekovú skupinu, do ktorej si myslíte, že patrite? Ak sa považujete za veľmi mladého, vyberte prvý štvorček. Ak sa považujete za veľmi starého, vyberte posledný štvorček. V ostatných prípadoch vyberte jeden zo štvorčekov medzi nimi.
+{ANSWERS}
+01. A 
+02. B 
+03. C 
+04. D 
+05. E 
+06. F 
+07. G 
+08. H 
+09. J 
+
+E4
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte či máte silný alebo slabý zmysel prespolupatričnosť s touto vekovou skupinou. Vašu odpoveď vyberte z tejto karty, kde 0 znamená veľmi slabý zmysel spolupatričnosti a 10 znamená veľmi silný zmysel spolupatričnosti.
+{ANSWERS}
+00  Veľmi slabý zmysel pre spolupatričnosť
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Veľmi silný zmysel pre spolupatričnosť
+
+E5 
+{INTRO}
+Teraz sa vás opýtam niekoľko otázok o spoločenskom postavení, ktoré ľudia rôzneho veku majú v spoločnosti. Spoločenským postavením rozumieme prestíž, pozíciu v spoločnosti; nemyslí sa tým účasť v spoločenských skupinách alebo aktivitách“.
+{QUESTION}
+Zaujíma ma, čo si myslíte, ako väčšina ľudí na Slovensku vníma postavenie dvadsiatnikov, štyridsiatnikov a ľudí po 70-tke. Použitím tejto karty mi, prosím, povedzte, aké postavenie by väčšina ľudí pridelila...
+...dvadsiatnikom?
+{ANSWERS}
+00  Extrémne nízke postavenie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne vysoké postavenie
+
+E6
+{QUESTION}
+…štyridsiatnikom?
+{ANSWERS}
+00  Extrémne nízke postavenie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne vysoké postavenie
+
+E7
+{QUESTION}
+…ľuďom po 70-tke?
+{ANSWERS}
+00  Extrémne nízke postavenie
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne vysoké postavenie
+
+E8 
+{INTRO}
+A teraz niekoľko otázok o dvadsiatnikoch
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte na škále 0-10, nakoľko vás znepokojujú veci, ktoré vám prečítam. 0 znamená, že vás to vôbec neznepokojuje a 10 znamená, že vás to extrémne znepokojuje. Nakoľko vás znepokojuje…
+…miera zlo
+innosti spáchanej dvadsiatnikmi v dnešnej dobe?
+{ANSWERS}
+00  Vôbec ma neznepokojuje
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne ma znepokojuje
+
+E9
+{QUESTION}
+…že zamestnávatelia môžu uprednostniť pri prijímaní do zamestnania dvadsiatnikov pred štyridsiatnikmi a staršími?
+{ANSWERS}
+00  Vôbec ma neznepokojuje
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne ma znepokojuje
+
+E10
+{QUESTION}
+Povedzte mi, prosím, či si myslíte, že väčšina dvadsiatnikov má dobrý alebo zlý vplyv na slovenské zvyklosti a spôsob života? Vyberte vašu odpoveď z tejto karty, kde 0 znamená extrémne zlý vplyv a 10 znamená extrémne dobrý vplyv.
+{ANSWERS}
+00  Extrémne zlý vplyv
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne dobrý vplyv
+
+E11
+{QUESTION}
+Ak zoberiete do úvahy všetko, myslíte si, že dvadsiatnici momentálne prispievajú
+Slovensku ekonomicky veľmi málo alebo veľmi veľa? Prosím, použite kartu, kde 0 znamená, že ekonomicky prispievajú veľmi málo a 10 znamená, že prispievajú veľkou mierou.
+{ANSWERS}
+00  Prispievajú ekonomicky veľmi málo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Prispievajú ekonomicky veľmi veľa
+
+E12
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, či si myslíte, že ľudia po 70-tke sú
+momentálne veľkou príťažou pre slovenské zdravotníctvo? 0 znamená, že nie sú príťažou a 10 znamená, že sú veľkou príťažou.
+{ANSWERS}
+00  Žiadna príťaž
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Veľká príťaž
+
+E13
+{QUESTION}
+Prosím, povedzte mi, či si myslíte, že väčšina ľudí po 70-tke má dobrý alebo zlý vplyv na slovenské zvyklosti a spôsob života? Vyberte vašu odpoveď z tejto karty, kde 0 znamená extrémne zlý vplyv a 10 znamená extrémne dobrý vplyv.
+{ANSWERS}
+00  Extrémne zlý vplyv
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne dobrý vplyv
+
+E14
+{QUESTION}
+Ak zoberiete do úvahy všetko, myslíte si, že ľudia po 70-tke momentálne prispievajú
+Slovensku ekonomicky veľmi málo alebo veľmi veľa? Prosím, použite kartu, kde 0 znamená, že ekonomicky prispievajú veľmi málo a 10 znamená, že prispievajú veľkou mierou.
+{ANSWERS}
+00  Prispievajú ekonomicky veľmi málo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Prispievajú ekonomicky veľmi veľa
+
+E15
+{INTRO}
+Doteraz som sa vás pýtal/a na vaše názory. Teraz sa vás budem pýtať na to, čo si myslíte ako väčšina ľudí na Slovensku vníma ľudí rôzneho veku.
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte nakoľko je pravdepodobné, že väčšina ľudí na Slovensku vníma dvadsiatnikov...
+…ako priateľských?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E16
+{QUESTION}
+…ako kompetentných (schopných)?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+
+E17
+{QUESTION}
+…ako tých, ktorí majú vysoké morálne normy?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E18
+{QUESTION}
+…s rešpektom?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E19
+{QUESTION}
+Teraz sa zamyslite nad ľuďmi po 70-tke. Použitím tejto karty mi, prosím, povedzte
+nakoľko je pravdepodobné, že väčšina ľudí na Slovensku vníma ľudí po 70-tke...
+… ako priateľských?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E20
+{QUESTION}
+… ako kompetentných (schopných)?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E21
+{QUESTION}
+… ako tých, ktorí majú vysoké morálne normy?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E22
+{QUESTION}
+… s rešpektom?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E23
+{QUESTION}
+Prosím, povedzte mi, za nakoľko prijateľné alebo neprijateľné by väčšina ľudí na
+Slovensku považovala, ak by osoba, ktorá má požadovanú kvalifikáciu a 30 rokov, bola
+vymenovaná za ich šéfa? Použite túto kartu, kde 0 znamená, že väčšina ľudí by to považovala za absolútne neprijateľné a 10 znamená, že by to jednoznačne prijali.
+{ANSWERS}
+00  Absolútne neprijateľné
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Jednoznačne prijateľné 
+
+E24
+{QUESTION}
+Prosím, povedzte mi, za nakoľko prijateľné alebo neprijateľné by väčšina ľudí na
+Slovensku považovala, ak by osoba, ktorá má požadovanú kvalifikáciu a 70 rokov, bola
+vymenovaná za ich šéfa? Použite túto kartu kde 0 znamená, že väčšina ľudí by to považovala za absolútne neprijateľné a 10 znamená, že by to jednoznačne prijala.
+{ANSWERS}
+00  Absolútne neprijateľné
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Jednoznačne prijateľné 
+
+E25
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, nakoľko pravdepodobné je, že väčšina ľudí na Slovensku vníma dvadsiatnikov …
+…so závisťou?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E26
+{QUESTION}
+…s ľútosťou?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E27
+{QUESTION}
+…s obdivom?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E28
+{QUESTION}
+…s pohŕdaním?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E29
+{QUESTION}
+A teraz mi povedzte, prosím, nakoľko pravdepodobné je, že väčšina ľudí na Slovensku
+vníma ľudí po 70-tke…
+…so závisťou?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E30
+{QUESTION}
+…s ľútosťou?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E31
+{QUESTION}
+…s obdivom?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E32
+{QUESTION}
+…s pohŕdaním?
+{ANSWERS}
+00  Celkom nepravdepodobné, že ich vnímajú takto
+01
+02
+03
+04 Veľmi pravdepodobné, že ich vnímajú takto
+
+E33
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte, nakoľko negatívne alebo pozitívne celkovo
+vnímate dvadsiatnikov. Prosím, odpovedzte na škále od 0 do 10, kde 0 znamená extrémne negatívne a 10 extrémne pozitívne.
+{ANSWERS}
+00  Extrémne negatívne
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne pozitívne
+
+E34
+{QUESTION}
+A celkovo, nakoľko negatívne alebo pozitívne vnímate ľudí po 70-tke? Použite tú istú kartu.
+{ANSWERS}
+00  Extrémne negatívne
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne pozitívne
+
+E35
+{QUESTION}
+Použitím tejto karty mi, prosím, povedzte ako často v uplynulom roku voči vám mal niekto predsudky alebo sa voči vám správal neférovo kvôli…
+…vášmu veku?
+{ANSWERS}
+00  Nikdy
+01
+02
+03
+04 Veľmi často
+
+E36
+{QUESTION}
+…vášmu pohlaviu?
+{ANSWERS}
+00  Nikdy
+01
+02
+03
+04 Veľmi často
+
+E37
+{QUESTION}
+…vášmu rasovému alebo etnickému pôvodu?
+{ANSWERS}
+00  Nikdy
+01
+02
+03
+04 Veľmi často
+
+E38
+{QUESTION}
+A ako často, ak vôbec, ste v minulosti pocítili, že niekto preukázal nedostatok
+rešpektu kvôli vášmu veku, napríklad tým, že vás ignoroval alebo sa správal povýšenecky?
+{ANSWERS}
+00  Nikdy
+01
+02
+03
+04 Veľmi často
+
+E39
+{QUESTION}
+Konkrétne, ako často s vami niekto v minulosti zle zaobchádzal kvôli vášmu veku, napríklad, že vás urážal, nadával vám alebo odmietol vás obslúžiť?
+{ANSWERS}
+00  Nikdy
+01
+02
+03
+04 Veľmi často
+
+E40 
+{INTRO}
+Teraz Vám položím niekoľko otázok, najprv o vašich priateľoch a potom o vašej rodine.
+{QUESTION}
+Asi koľko priateľov, ak nerátame členov rodiny, ktorých máte, je mladších ako 30 rokov?
+{ANSWERS}
+1. Ani jedného
+2. 1
+3. 2-5
+4. 6-9
+5. 10 a viac
+
+E41
+{QUESTION}
+Ktorá možnosť z tejto karty najlepšie popisuje, či môžete alebo nemôžete hovoriť o
+osobných záležitostiach, ako napríklad pocitoch, presvedčeniach alebo zážitkoch s ktorýmkoľvek z týchto priateľov?
+{ANSWERS}
+01. Môžem hovoriť o všetkých osobných záležitostiach 
+02. Môžem hovoriť takmer o všetkých osobných záležitostiach 
+03. Môžem hovoriť o väčšine osobných záležitostí 
+04. Môžem hovoriť o niektorých osobných záležitostiach 
+05. Môžem hovoriť len o niekoľkých osobných záležitostiach 
+06. Nemôžem hovoriť o osobných záležitostiach 
+
+E42
+{QUESTION}
+Asi koľko priateľov, ak nerátame členov rodiny, ktorých máte, je starších ako 70 rokov?
+{ANSWERS}
+1. Ani jedného
+2. 1
+3. 2-5
+4. 6-9
+5. 10 a viac
+
+E43
+{QUESTION}
+Ktorá možnosť z tejto karty najlepšie popisuje, či môžete alebo nemôžete hovoriť o
+osobných veciach, ako napríklad pocitoch, presvedčeniach alebo zážitkoch s ktorýmkoľvek z týchto priateľov?
+{ANSWERS}
+01. Môžem hovoriť o všetkých osobných záležitostiach 
+02. Môžem hovoriť takmer o všetkých osobných záležitostiach 
+03. Môžem hovoriť o väčšine osobných záležitostí 
+04. Môžem hovoriť o niektorých osobných záležitostiach 
+05. Môžem hovoriť len o niekoľkých osobných záležitostiach 
+06. Nemôžem hovoriť o osobných záležitostiach 
+
+E44
+{QUESTION}
+Povedzte mi, prosím, koľko máte rokov?
+{ANSWERS}
+1. 29 alebo menej
+2. 30 alebo viac
+
+E45
+{QUESTION}
+Máte nejaké deti alebo vnúčatá vo veku od 15 do 30 rokov?
+{ANSWERS}
+1. Áno
+2. Nie
+
+E46
+{QUESTION}
+Ktorá možnosť na karte najlepšie popisuje, či môžete alebo nemôžete hovoriť
+o osobných záležitostiach, ako napríklad pocitoch, presvedčeniach alebo zážitkoch s ktorýmkoľvek z detí alebo vnúčat?
+{ANSWERS}
+01. Môžem hovoriť o všetkých osobných záležitostiach 
+02. Môžem hovoriť takmer o všetkých osobných záležitostiach 
+03. Môžem hovoriť o väčšine osobných záležitostí 
+04. Môžem hovoriť o niektorých osobných záležitostiach 
+05. Môžem hovoriť len o niekoľkých osobných záležitostiach 
+06. Nemôžem hovoriť o osobných záležitostiach 
+
+E47
+{QUESTION}
+Je niektorý člen vašej rodiny starší ako 70 rokov?
+{ANSWERS}
+1. Áno
+2. Nie
+
+E48
+{QUESTION}
+Ktorá z možností na tejto karte najlepšie popisuje, či môžete alebo nemôžete
+hovoriť o osobných záležitostiach, ako napríklad pocitoch, presvedčeniach alebo zážitkoch s ktorýmkoľvek z týchto členov rodiny?
+{ANSWERS}
+01. Môžem hovoriť o všetkých osobných záležitostiach 
+02. Môžem hovoriť takmer o všetkých osobných záležitostiach 
+03. Môžem hovoriť o väčšine osobných záležitostí 
+04. Môžem hovoriť o niektorých osobných záležitostiach 
+05. Môžem hovoriť len o niekoľkých osobných záležitostiach 
+06. Nemôžem hovoriť o osobných záležitostiach 
+
+E49
+{QUESTION}
+Vykonali ste za posledný mesiac nejakú platenú alebo dobrovoľnícku prácu?
+{ANSWERS}
+1. Áno – len platená práca
+2. Áno – len dobrovoľnícka práca
+3. Áno – platená a dobrovoľnícka práca
+4. Nie – ani jedno
+
+E50
+{QUESTION}
+Koľko z tohto času ste strávili prácou s kolegami alebo dobrovoľníkmi vo veku od 20 do
+30 rokov?
+{ANSWERS}
+1. Žiaden čas
+2. Nejaký čas 
+3. Väčšinu času 
+4. Všetok/takmer všetok čas 
+
+E51
+{QUESTION}
+A koľko z tohto času ste strávili prácou s kolegami alebo inými dobrovoľníkmi vo
+veku nad 70 rokov?
+{ANSWERS}
+1. Žiaden čas
+2. Nejaký čas 
+3. Väčšinu času 
+4. Všetok/takmer všetok čas 
+
+E52
+{QUESTION}
+Ak zoberieme do úvahy všetky okolnosti, Použitím tejto karty povedzte, ako momentálne vnímate ľudí na Slovensku vo veku 20-30 rokov a ľudí nad 70 rokov?
+{ANSWERS}
+1. Jednu skupinu
+2. Dve oddelené skupiny, ktoré sú súčasťou tej istej komunity
+3. Dve oddelené skupiny, ktoré nie sú súčasťou tej istej komunity
+4. Skôr ako jednotlivcov než ako skupiny
+
+E53
+{QUESTION}
+Povedzte mi, prosím, nakoľko je pre vás dôležité nemať predsudky voči iným vekovým
+skupinám. Použite túto kartu, kde 0 znamená vôbec to nie je pre mňa dôležité a 10 znamená je to pre mňa extrémne dôležité.
+{ANSWERS}
+00  Vôbec to nie je dôležité
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne dôležité
+
+E54
+{QUESTION}
+A teraz mi, prosím, povedzte, nakoľko je pre vás dôležité byť vnímaný ako nezaujatý vo
+i ľuďom iných vekových skupín.
+{ANSWERS}
+00  Vôbec to nie je dôležité
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10  Extrémne dôležité
+
+E55
+{QUESTION}
+Čo by ste povedali, nakoľko závažná, ak vôbec, je diskriminácia ľudí na Slovensku v
+súvislosti s ich vekom - či už sú mladí alebo starí. Vašu odpoveď vyberte z karty.
+{ANSWERS}
+1. Veľmi závažná 
+2. Dosť závažná 
+3. Nie veľmi závažná 
+4. Vôbec nie závažná 
+

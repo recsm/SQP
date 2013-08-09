@@ -1,0 +1,306 @@
+I1
+{INTRO}
+The first few questions focus on the amount of time you spend watching television, listening to the radio and reading newspapers.
+{QUESTION}
+On an average weekday, how much time, in total, do you spend watching television? Please include any time spent watching TV using the internet.
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours.
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours.
+
+I2
+{QUESTION}
+On an average weekday, how much time, in total, do you spend listening to the radio? Please include any time spent listening to the radio using the internet.
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours.
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours.
+
+I3
+{QUESTION}
+And on an average weekday, how much time, in total, do you spend reading the newspapers? Please include any time spent reading newspapers using the internet. 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours.
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours.
+
+I22
+{INTRO}
+Now I want to ask you a few questions about politics and government. 
+{QUESTION}
+How much would you say the political system allows people like you to have a say in what the government does?
+{ANSWERS}
+1. Not at all.
+2. Very little.
+3. Some.
+4. A lot.
+5. A great deal.
+
+I23
+{QUESTION}
+Do you think you could take an active role in a group involved with political issues?
+{ANSWERS}
+1. Definitely not.
+2. Probably not.
+3. Not sure either way.
+4. Probably.
+5. Definitely.
+
+I24
+{QUESTION}
+How much would you say that the political system allows people like you to have a direct influence on politics?
+{ANSWERS}
+1. Not at all.
+2. Very little.
+3. Some.
+4. A lot.
+5. A great deal.
+
+I25
+{QUESTION}
+How confident are you in your own ability to participate in politics? 
+{ANSWERS}
+1. Not at all confident.
+2. A little confident.
+3. Quite confident.
+4. Very confident.
+5. Completely confident.
+
+I26
+{INTRO}
+The first few questions concern the amount of time you spend watching television, listening to the radio and reading newspapers. 
+{QUESTION}
+On an average weekday, how much time, in total, do you spend watching television? Please include the time you spend watching television using the internet.
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I27
+{QUESTION}
+And again on an average weekday, how much of your time watching television is spent watching news or programmes about politics and current affairs?
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I28
+{QUESTION}
+On an average weekday, how much time, in total, do you spend listening to the radio? Please include the time you spend listening to the radio using the internet.
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I29
+{QUESTION}
+And again on an average weekday, how much of your time listening to the radio is spent listening to news or programmes about politics and current affairs? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I30
+{QUESTION}
+On an average weekday, how much time, in total, do you spend reading the newspapers? Please include the time you spend reading newspapers using the internet.
+{ANSWERS}
+00. No time at all.
+01. Less than 15 minutes.
+02. 15 minutes up to ½ hour.
+03. More than ½ hour up to 45 minutes.
+04. More than 45 minutes up to 1 hour.
+05. More than 1 hour, up to 1½ hours.
+06. More than 1½ hours, up to 2 hours.
+07. More than 2 hours, up to 2½ hours.
+08. More than 2½ hours, up to 3 hours.
+09. More than 3 hours.
+
+I31
+{QUESTION}
+And how much of this time is spent reading about politics and current affairs?
+{ANSWERS}
+00. No time at all.
+01. Less than 15 minutes.
+02. 15 minutes up to ½ hour.
+03. More than ½ hour up to 45 minutes.
+04. More than 45 minutes up to 1 hour.
+05. More than 1 hour, up to 1½ hours.
+06. More than 1½ hours, up to 2 hours.
+07. More than 2 hours, up to 2½ hours.
+08. More than 2½ hours, up to 3 hours.
+09. More than 3 hours.
+
+I32
+{INTRO}
+Now we would like you to think only of using the internet to watch television, listen to the radio or read newspapers. 
+{QUESTION}
+On an average weekday, how much time, in total, do you spend using the internet to watch television programmes? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I33
+{QUESTION}
+And how much of this time is spent watching television programs about politics and current affairs? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I34
+{QUESTION}
+On an average weekday, how much time, in total, do you spend using the internet to listen to the radio? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I35
+{QUESTION}
+And how much of this time is spent listening to radio programs about politics and current affairs? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I36
+{QUESTION}
+On an average weekday, how much time, in total, do you spend using the internet to read the newspapers online. 
+{ANSWERS}
+00. No time at all.
+01. Less than 15 minutes.
+02. 15 minutes up to ½ hour.
+03. More than ½ hour up to 45 minutes.
+04. More than 45 minutes up to 1 hour.
+05. More than 1 hour, up to 1½ hours.
+06. More than 1½ hours, up to 2 hours.
+07. More than 2 hours, up to 2½ hours.
+08. More than 2½ hours, up to 3 hours.
+09. More than 3 hours.
+
+I37
+{QUESTION}
+And how much of this time is spent reading newspapers about politics and current affairs?
+{ANSWERS}
+00. No time at all.
+01. Less than 15 minutes.
+02. 15 minutes up to ½ hour.
+03. More than ½ hour up to 45 minutes.
+04. More than 45 minutes up to 1 hour.
+05. More than 1 hour, up to 1½ hours.
+06. More than 1½ hours, up to 2 hours.
+07. More than 2 hours, up to 2½ hours.
+08. More than 2½ hours, up to 3 hours.
+09. More than 3 hours.
+
+I38
+{QUESTION}
+On an average weekday, how much time, in total, do you spend using the internet other than for watching television, listening to the radio and reading the newspapers? 
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.
+
+I39
+{QUESTION}
+And how much of this time is spent on politics and current affairs?
+{ANSWERS}
+00. No time at all.
+01. Less than ½ hour.
+02. ½ hour to 1 hour.
+03. More than 1 hour, up to1½ hours
+04. More than 1½ hours, up to 2 hours.
+05. More than 2 hours, up to 2½ hours.
+06. More than 2½ hours, up to 3 hours.
+07. More than 3 hours, up to 4 hours.
+08. More than 4 hours, up to 5 hours.
+09. More than 5 hours, up to 6 hours.
+10. More than 6 hours.

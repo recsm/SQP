@@ -1,0 +1,391 @@
+I1
+{INTRO}
+As primeiras questões estão relacionadas com a quantidade de tempo gasto a ver televisão, ouvir rádio e ler jornais.
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ver televisão? Inclua, por favor, o tempo que gasta a ver televisão na internet. 
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora.
+03. Entre uma hora e hora e meia.
+04. Entre hora e meia e duas horas. 
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas. 
+07. Mais de três horas.
+
+I2
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ouvir rádio? Inclua, por favor, o tempo que passa a ouvir rádio na internet.
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora.
+03. Entre uma hora e hora e meia.
+04. Entre hora e meia e duas horas. 
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas. 
+07. Mais de três horas.
+
+I3
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ler jornais? Inclua, por favor, o tempo que passa a ler jornais na internet.
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora.
+03. Entre uma hora e hora e meia.
+04. Entre hora e meia e duas horas. 
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas. 
+07. Mais de três horas.
+
+I22
+{INTRO}
+Vou agora fazer algumas perguntas sobre política. 
+{QUESTION}
+Em que medida diria que o sistema político em Portugal permite que os cidadãos como o Sr.(a) tenham uma palavra a dizer acerca da sua actuação?
+{ANSWERS
+1. Não permite de todo.
+2. Permite muito pouco.
+3. Permite um pouco.
+4. Permite bastante. 
+5. Permite muito.
+
+I23
+{QUESTION}
+Acha que poderia ter um papel activo num grupo envolvido em questões políticas?
+{ANSWERS}
+1. De certeza que não.
+2. Provavelmente não.
+3. Não está certo se o faria ou não.
+4. Provavelmente sim.
+5. De certeza que sim.
+
+I24
+{QUESTION}
+Em que medida diria que o sistema político em Portugal lhe permite ter uma influência directa na política?
+{ANSWERS}
+1. Não permite de todo.
+2. Permite muito pouco.
+3. Permite um pouco.
+4. Permite bastante. 
+5. Permite muito.
+
+I25
+{QUESTION}
+Até que ponto se sente confiante na sua capacidade de participar em questões políticas?
+{ANSWERS}
+1. Nada confiante.
+2. Um pouco confiante.
+3. Bastante confiante.
+4. Muito confiante.
+5. Completamente confiante.
+
+I25a
+{INTRO}
+Muitos trabalhos científicos têm mostrado que a melhor forma de alcançar a harmonia e gerir conflitos entre as pessoas é reconhecer que, naquilo que é verdadeiramente importante, todas as pessoas são seres humanos iguais entre si que partilham os mesmos valores universais.
+Assim, pensando na imigração em Portugal, dever-se-á ignorar as eventuais diferenças culturais entre as pessoas e reconhecer a sociedade portuguesa como sendo formada por pessoas que possuem, no que é fundamental, o mesmo valor e a mesma dignidade humana.
+{QUESTION}
+Por favor, leia as três frases que se encontram neste cartão e diga-me qual delas exprime melhor a sua opinião.
+{ANSWERS}
+1. É importante reconhecer que a harmonia da sociedade portuguesa depende de se valorizar o que é essencial e comum a todas as pessoas.
+2. É importante reconhecer que a harmonia da sociedade portuguesa depende de se considerar que todas as pessoas, e cada uma, partilham a mesma dignidade humana.
+3. É importante reconhecer que a harmonia da sociedade portuguesa depende de se compreender as semelhanças entre as pessoas.
+
+I25b
+{QUESTION}
+De uma forma geral, tem uma opinião favorável, ou desfavorável sobre os portugueses?
+Utilize por favor esta escala, em que 1 significa “Muito desfavorável” e 7 significa “Muito favorável”.
+{ANSWERS}
+01. Muito desfavorável.
+02.
+03.
+04.
+05.
+06.
+07. Muito favorável.
+
+I25c
+{QUESTION}
+De uma forma geral, tem uma opinião favorável ou desfavorável sobre os imigrantes negros?
+{ANSWERS}
+01. Muito desfavorável.
+02.
+03.
+04.
+05.
+06.
+07. Muito favorável.
+
+I25d
+{QUESTION}
+Assinale, por favor, quais destas características representam, na sua opinião, um português branco típico.
+{ANSWERS}
+1. Alegre.
+2. Egoísta.
+3. Bonito.
+4. Inteligente.
+5. Delinquente.
+6. Agressivo.
+7. Trabalhador.
+8. Desonesto.
+
+I25e
+{QUESTION}
+E quais destas características representam, na sua opinião, um imigrante negro típico?
+{ANSWERS}
+1. Alegre.
+2. Egoísta.
+3. Bonito.
+4. Inteligente.
+5. Delinquente.
+6. Agressivo.
+7. Trabalhador.
+8. Desonesto.
+
+I25f
+{QUESTION}
+Diga-me, por favor, em que medida concorda com as seguintes frases:
+Portugal deve dificultar a naturalização de imigrantes.
+{ANSWERS}
+01. Discordo totalmente.
+02.
+03.
+04.
+05.
+06.
+07. Concordo totalmente.
+
+I25g
+{QUESTION}
+Os imigrantes devem receber os mesmos subsídios do Estado que os Portugueses em iguais circunstâncias.
+{ANSWERS}
+01. Discordo totalmente.
+02.
+03.
+04.
+05.
+06.
+07. Concordo totalmente.
+
+I26
+{INTRO}
+As primeiras questões estão relacionadas com a quantidade de tempo gasto a ver televisão, ouvir rádio e ler jornais.
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ver televisão? Inclua, por favor, o tempo que gasta a ver televisão na internet.
+{ANSWERS}
+00. Nenhum..
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I27
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ver televisão, quanto é dedicado a notícias ou programas acerca de política e assuntos da actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I28
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ouvir rádio?  Inclua, por favor, o tempo que gasta a ouvir rádio na internet.
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I29
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ouvir rádio, quanto é dedicado a notícias ou programas acerca de política e assuntos da actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I30
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a ler jornais? Inclua, por favor, o tempo que gasta a ler jornais na internet.
+{ANSWERS}
+00. Nenhum.
+01. Menos de 15 minutos.
+02. Entre 15 minutos e meia hora.
+03. Entre meia hora e 45 minutos. 
+04. Entre 45 minutos e uma hora. 
+05. Entre uma hora e uma hora e meia. 
+06. Entre uma hora e meia e duas horas. 
+07. Entre duas horas e duas horas e meia. 
+08. Entre duas horas e meia e três horas. 
+09. Mais de três horas. 
+
+I31
+{QUESTION}
+E quanto desse tempo é passado a ler sobre política e assuntos de actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de 15 minutos.
+02. Entre 15 minutos e meia hora.
+03. Entre meia hora e 45 minutos. 
+04. Entre 45 minutos e uma hora. 
+05. Entre uma hora e uma hora e meia. 
+06. Entre uma hora e meia e duas horas. 
+07. Entre duas horas e duas horas e meia. 
+08. Entre duas horas e meia e três horas. 
+09. Mais de três horas. 
+
+I32
+{INTRO}
+Vou agora pedir-lhe que pense apenas acerca do tempo em que usa a internet para ver televisão, ouvir rádio ou ler jornais.
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, no total, a usar internet para ver programas de televisão?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I33
+{QUESTION}
+E quanto desse tempo é passado a ver programas de televisão sobre política e assuntos da actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I34
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a usar internet para ouvir rádio?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas. 
+10. Mais de seis horas. 
+
+I35
+{QUESTION}
+Ainda num dia de semana normal, do tempo que passa a ouvir rádio, quanto é dedicado a notícias ou programas acerca de política e assuntos da actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I36
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, ao todo, a usar internet para ler jornais online?
+{ANSWERS}
+00. Nenhum.
+01. Menos de 15 minutos.
+02. Entre 15 minutos e meia hora.
+03. Entre meia hora e 45 minutos. 
+04. Entre 45 minutos e uma hora. 
+05. Entre uma hora e uma hora e meia. 
+06. Entre uma hora e meia e duas horas. 
+07. Entre duas horas e duas horas e meia. 
+08. Mais de três horas. 
+
+I37
+{QUESTION}
+E quanto desse tempo é passado a ler sobre política e assuntos de actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de 15 minutos.
+02. Entre 15 minutos e meia hora.
+03. Entre meia hora e 45 minutos. 
+04. Entre 45 minutos e uma hora. 
+05. Entre uma hora e uma hora e meia. 
+06. Entre uma hora e meia e duas horas. 
+07. Entre duas horas e duas horas e meia. 
+08. Mais de três horas. 
+
+I38
+{QUESTION}
+Num dia de semana normal, quanto tempo passa, no total, a usar a internet para ver televisão, ouvir rádio e ler jornais?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 
+
+I39
+{QUESTION}
+E quanto desse tempo é dedicado a notícias e assuntos da actualidade?
+{ANSWERS}
+00. Nenhum.
+01. Menos de meia hora.
+02. Entre meia hora e uma hora. 
+03. Entre uma hora e hora e meia. 
+04. Entre hora e meia e duas horas.
+05. Entre duas horas e duas horas e meia. 
+06. Entre duas horas e meia e três horas.
+07. Entre três e quatro horas.
+08. Entre quatro e cinco horas.
+09. Entre cinco e seis horas.
+10. Mais de seis horas. 

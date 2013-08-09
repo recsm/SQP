@@ -1,0 +1,305 @@
+I1
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att titta på TV en vanlig vardag? Inkludera tid som du tittat på TV via Internet.
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme. 
+2. 1/2 timme, upp till 1 timme. 
+3. Mer än 1 timme, upp till 1 och 1/2 timme. 
+4. Mer än 1 och 1/2 timme, upp till 2 timmar. 
+5. Mer än 2 timmar, upp till 2 och 1/2 timme. 
+6. Mer än 2 och 1/2 timme, upp till 3 timmar. 
+7. Mer än 3 timmar.
+
+I2
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att lyssna på radio en vanlig vardag? Inkludera tid som du lyssnat på radio via Internet.
+{ANSWERS}
+0. Ingen tid alls. 
+1. Mindre än 1/2 timme. 
+2. 1/2 timme, upp till 1 timme. 
+3. Mer än 1 timme, upp till 1 och 1/2 timme. 
+4. Mer än 1 och 1/2 timme, upp till 2 timmar. 
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar. 
+7. Mer än 3 timmar.
+
+I3
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att läsa dagstidningar en vanlig vardag? Inkludera tid som du läst dagstidningar via Internet.
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2.1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar.
+
+I22
+{INTRO}
+Nu skulle jag vilja ställa några frågor om politik och staten.
+{QUESTION}
+Hur mycket skulle du säga att det politiska systemet i Sverige tillåter människor som dig att påverka vad staten gör?
+{ANSWERS}
+1. Inte alls.
+2. Väldigt lite.
+3. En del.
+4. Mycket.
+5. Väldigt mycket.
+
+I23
+{QUESTION}
+Tror du att du skulle kunna ta en aktiv roll i en grupp som är involverad i politiska frågor?
+{ANSWERS}
+1. Definitivt inte.
+2. Troligen inte.
+3. Kanske ... Kanske inte ... 
+4. Troligen.
+5. Definitivt.
+
+I24
+{QUESTION}
+Hur mycket skulle du säga att det politiska systemet i Sverige tillåter människor som dig  att ha ett direkt inflytande över politiken?
+{ANSWERS}
+1. Inte alls.
+2. Väldigt lite.
+3. En del.
+4. Mycket.
+5. Väldigt mycket.
+
+I25
+{QUESTION}
+Hur säker är du på din egen förmåga att delta politiskt?
+{ANSWERS}
+1. Inte alls säker.
+2. Delvis säker.
+3. Ganska säker.
+4. Väldigt säker.
+5. Helt säker.
+
+I26
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att titta på TV en vanlig vardag? Inkludera tid som du tittat på TV via Internet.
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I27
+{QUESTION}
+Återigen en vanlig vardag, hur stor del av den tid som du tittar på TV, tittar du på 
+nyheter eller program om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I28
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att lyssna på radio en vanlig vardag? Inkludera tid som du lyssnat på radio via Internet.
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I29
+{QUESTION}
+Och återigen en vanlig vardag, hur stor del av den tid som du lyssnar på radio, 
+lyssnar du på nyheter eller program om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I30
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att läsa dagstidningar en vanlig vardag? Inkludera tid som du läst dagstidningar via Internet.
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 15 minuter.
+2. 15 minuter, upp till 1/2 timme.
+3. Mer än 1/2 timme, upp till 45 minuter.
+4. Mer än 45 minuter, upp till 1 timme.
+5. Mer än 1 timme, upp till 1 och 1/2 timme.
+6. Mer än 1 och 1/2 timme, upp till 2 timmar.
+7. Mer än 2 timmar, upp till 2 och 1/2 timme.
+8. Mer än 2 och 1/2 timme, upp till 3 timmar.
+9. Mer än 3 timmar.
+
+I31
+{QUESTION}
+Och hur stor del av denna tid ägnar du åt att läsa om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 15 minuter.
+2. 15 minuter, upp till 1/2 timme.
+3. Mer än 1/2 timme, upp till 45 minuter.
+4. Mer än 45 minuter, upp till 1 timme.
+5. Mer än 1 timme, upp till 1 och 1/2 timme.
+6. Mer än 1 och 1/2 timme, upp till 2 timmar.
+7. Mer än 2 timmar, upp till 2 och 1/2 timme.
+8. Mer än 2 och 1/2 timme, upp till 3 timmar.
+9. Mer än 3 timmar.
+
+I32
+{INTRO}
+Nu skulle vi vilja att du tänker på att använda Internet endast för att titta på TV, 
+lyssna på radio och läsa dagstidningar.
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att använda Internet för att titta på TV en vanlig vardag?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I33
+{QUESTION}
+Och hur stor del av den tiden tittar du på TV-program om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls. 
+1. Mindre än 1/2 timme. 
+2. 1/2 timme, upp till 1 timme. 
+3. Mer än 1 timme, upp till 1 och 1/2 timme. 
+4. Mer än 1 och 1/2 timme, upp till 2 timmar. 
+5. Mer än 2 timmar, upp till 2 och 1/2 timme. 
+6. Mer än 2 och 1/2 timme, upp till 3 timmar. 
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar. 
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I34
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att använda Internet för att lyssna på radio en vanlig vardag?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9 Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I35
+{QUESTION}
+Och hur stor del av den tiden lyssnar du på radioprogram om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I36
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att använda Internet för att läsa dagstidningar en vanlig vardag?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 15 minuter.
+2. 15 minuter, upp till 1/2 timme.
+3. Mer än 1/2 timme, upp till 45 minuter.
+4. Mer än 45 minuter, upp till 1 timme.
+5. Mer än 1 timme, upp till 1 och 1/2 timme.
+6. Mer än 1 och 1/2 timme, upp till 2 timmar.
+7. Mer än 2 timmar, upp till 2 och 1/2 timme.
+8. Mer än 2 och 1/2 timme, upp till 3 timmar.
+9. Mer än 3 timmar.
+
+I37
+{QUESTION}
+Och hur stor del av den tiden läser du om politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 15 minuter.
+2. 15 minuter, upp till 1/2 timme.
+3. Mer än 1/2 timme, upp till 45 minuter.
+4. Mer än 45 minuter, upp till 1 timme.
+5. Mer än 1 timme, upp till 1 och 1/2 timme.
+6. Mer än 1 och 1/2 timme, upp till 2 timmar.
+7. Mer än 2 timmar, upp till 2 och 1/2 timme.
+8. Mer än 2 och 1/2 timme, upp till 3 timmar.
+9. Mer än 3 timmar.
+
+I38
+{QUESTION}
+Hur mycket tid ägnar du totalt åt att använda Internet för andra saker än att titta på TV, lyssna på radio och att läsa dagstidningar en vanlig vardag?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.
+
+I39
+{QUESTION}
+Och hur stor del av den tiden ägnar du åt politik och aktuella samhällsfrågor?
+{ANSWERS}
+0. Ingen tid alls.
+1. Mindre än 1/2 timme.
+2. 1/2 timme, upp till 1 timme.
+3. Mer än 1 timme, upp till 1 och 1/2 timme.
+4. Mer än 1 och 1/2 timme, upp till 2 timmar.
+5. Mer än 2 timmar, upp till 2 och 1/2 timme.
+6. Mer än 2 och 1/2 timme, upp till 3 timmar.
+7. Mer än 3 timmar, upp till 4 timmar.
+8. Mer än 4 timmar, upp till 5 timmar.
+9. Mer än 5 timmar, upp till 6 timmar.
+10. Mer än 6 timmar.

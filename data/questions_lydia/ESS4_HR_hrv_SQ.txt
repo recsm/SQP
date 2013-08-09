@@ -1,0 +1,391 @@
+H1
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete gledajući televiziju? Molim vas, dajte mi svoj odgovor u satima i minutama.
+{ANSWERS}
+
+H2
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete slušajući radio? Molim vas, dajte mi svoj odgovor u satima i minutama.
+{ANSWERS}
+
+H3
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete čitajući novine? Molim vas, dajte mi svoj odgovor u satima i minutama.
+{ANSWERS}
+
+H4
+{QUESTION}
+Općenito govoreći, smatrate li da se većini ljudi može vjerovati ili da nikada ne možete biti previše oprezni kada se radi o ljudima? 
+{ANSWERS}
+1. Nikada ne možeš biti previše oprezan
+2. Većini ljudi može se vjerovati
+
+H5
+{QUESTION}
+Mislite li da bi vas većina ljudi pokušala iskoristiti kada bi za to imali priliku, ili bi pokušali biti fer i korektni? 
+{ANSWERS}
+1. Većina ljudi pokušala bi me iskoristit
+2. Većina ljudi pokušala bi biti fer
+
+H6
+{QUESTION}
+Smatrate li da vaše povjerenje zaslužuje većina ljudi ili samo rijetki pojedinci? 
+{ANSWERS}
+1. Samo rijetki zaslužuju moje povjerenje
+2. Većina ljudi zaslužuje moje povjerenje
+
+H7
+{INTRO}
+Sada vas želim pitati nekoliko pitanja o politici i vladi.
+{QUESTION}
+U cijelosti, koliko ste zadovoljni sadašnjim stanjem ekonomije u Hrvatskoj? Molim vas koristite ovu karticu gdje 0 označava nezadovoljstvo, a 10 zadovoljstvo.
+{ANSWERS}
+00 Nezadovoljan/na
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zadovoljan/na
+
+H8
+{QUESTION}
+Kada razmišljate o hrvatskoj vladi, koliko ste zadovoljni kako ona obavlja svoje dužnosti?.
+{ANSWERS}
+00 Nezadovoljan/na
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zadovoljan/na
+
+H9
+{QUESTION}
+U cijelosti, koliko ste zadovoljni funkcioniranjem demokracije u Hrvatskoj? 
+{ANSWERS}
+00 Nezadovoljan/na
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Zadovoljan/na
+
+H10
+{QUESTION}
+Smatrate li da bi Vlada trebala ili ne bi trebala poduzeti mjere da smanji razlike u plaćama?
+{ANSWERS}
+1. Svakako bi trebala
+2. Vjerojatno bi trebala
+3. Ne mogu se opredijeliti
+4. Vjerojatno ne bi trebala
+5. Nikako ne bi trebala
+
+H11
+{QUESTION}
+Smatrate li da bi homoseksualci trebali ili ne bi trebali imati slobodu da žive kako im se sviđa?
+{ANSWERS}
+1. Svakako bi trebala
+2. Vjerojatno bi trebala
+3. Ne mogu se opredijeliti
+4. Vjerojatno ne bi trebala
+5. Nikako ne bi trebala
+
+H12
+{QUESTION}
+Smatrate li da bi Vlada trebala ili ne bi trebala osigurati da se prema svim grupama u društvu postupa jednako?
+{ANSWERS}
+1. Svakako bi trebala
+2. Vjerojatno bi trebala
+3. Ne mogu se opredijeliti
+4. Vjerojatno ne bi trebala
+5. Nikako ne bi trebala
+
+H13
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete gledajući televiziju?
+{ANSWERS}
+0. Niti malo vremena
+1. Vrlo malo vremena 
+2. Malo vremena
+3. Nešto vremena
+4. Mnogo vremena
+5. Vrlo mnogo vremena
+
+H14
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete slušajući radio?
+{ANSWERS}
+0. Niti malo vremena
+1. Vrlo malo vremena 
+2. Malo vremena
+3. Nešto vremena
+4. Mnogo vremena
+5. Vrlo mnogo vremena
+
+H15
+{QUESTION}
+Tijekom prosječnog radnog dana u tjednu, koliko ukupno vremena provedete čitajući novine?
+{ANSWERS}
+0. Niti malo vremena
+1. Vrlo malo vremena 
+2. Malo vremena
+3. Nešto vremena
+4. Mnogo vremena
+5. Vrlo mnogo vremena
+
+H16
+{INTRO}
+Sada vas želim pitati nekoliko pitanja o politici i vladi.
+{QUESTION}
+Koristeći ovu karticu, recite mi jedan broj od 0 do 5 koji označava koliko vi osobno vjerujete svakoj od institucija koje ću pročitati. Nula znači da ne vjerujete toj instituciji, a 5 da imate potpuno povjerenje. Za početak, koliko vjerujete Hrvatskom saboru?
+{ANSWERS}
+0. Uopće nemam povjerenja
+1.
+2.
+3.
+4.
+5. Imam potpuno povjerenje
+
+H17
+{QUESTION}
+pravosuđu?
+{ANSWERS}
+0. Uopće nemam povjerenja
+1.
+2.
+3.
+4.
+5. Imam potpuno povjerenje
+
+H18
+{QUESTION}
+policiji?
+{ANSWERS}
+0. Uopće nemam povjerenja
+1.
+2.
+3.
+4.
+5. Imam potpuno povjerenje
+
+H19
+{QUESTION}
+Sada mi molim vas recite koliko se slažete ili ne slažete sa svakom od tvrdnji koje ću vam pročitati.
+Općenito sam zadovoljan/na sadašnjim stanjem ekonomije u Hrvatskoj.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H20
+{QUESTION}
+Zadovoljan/na sam načinom kako Vlada obavlja svoje dužnosti.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H21
+{QUESTION}
+U cijelosti sam zadovoljan funkcioniranjem demokracije u Hrvatskoj.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H22
+{QUESTION}
+U politici ljudi nekada spominju “lijevo” i “desno”. Koristeći ovu karticu, recite gdje biste smjestili sebe na ovoj skali?
+{ANSWERS}
+00 Izrazito lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Izrazito desno
+
+H23
+{QUESTION}
+Na istoj kartici, gdje biste smjestili stranku koja vam se najviše sviđa?
+{ANSWERS}
+00 Izrazito lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Izrazito desno
+
+H24
+{QUESTION}
+Koristeći istu karticu, gdje biste smjestili stranku koja vam se najmanje sviđa?
+{ANSWERS}
+00 Izrazito lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Izrazito desno
+
+H25
+{QUESTION}
+Koristeći ovu karticu, općenito govoreći, smatrate li da se većini ljudi može vjerovati ili da nikada ne možete biti previše oprezni kada se radi o ljudima? Molim vas izrazite to kao rezultat od 0 do 5, gdje 0 označuje da nikada ne možete biti previše oprezni, a 5 da većini ljudi možete vjerovati.
+{ANSWERS}
+0. Nikada ne možeš biti previše oprezan.
+1. 
+2.
+3.
+4.
+5. Većini ljudi može se vjerovati.
+
+H26
+{QUESTION}
+Koristeći ovu karticu, navedite mislite li da bi vas većina ljudi pokušala iskoristiti kada bi za to imali priliku, ili bi pokušali biti fer i korektni?
+{ANSWERS}
+0. Većina ljudi pokušala bi me iskoristiti.
+1.
+2.
+3.
+4.
+5. Većina ljudi pokušala bi biti fer.
+
+H27
+{QUESTION}
+Koristeći ovu karticu recite smatrate li da vaše povjerenje zaslužuje većina ljudi ili samo rijetki pojedinci?
+{ANSWERS}
+0. Samo rijetki zaslužuju moje povjerenje
+2.
+3.
+4.
+5. Većina ljudi zaslužuje moje povjerenje.
+
+H28
+{INTRO}
+Sada vas želim pitati nekoliko pitanja o politici i vladi.
+{QUESTION}
+Molim vas recite mi na skali od 0 do 10 koliko vi osobno vjerujete Hrvatskom saboru. Ako u Sabor uopće nemate povjerenja, dajte rezultat 0. Ako imate potpuno povjerenje, dajte rezultat 10. 
+{ANSWERS}
+
+H29
+{QUESTION}
+Molim vas recite mi na skali od 0 do 10 koliko vi osobno vjerujete pravosuđu. Ako u pravosuđe uopće nemate povjerenja, dajte rezultat 0. Ako imate potpuno povjerenje, dajte rezultat 10. 
+{ANSWERS}
+
+H30
+{QUESTION}
+Molim vas recite mi na skali od 0 do 10 koliko vi osobno vjerujete policiji. Ako u policiju uopće nemate povjerenja, dajte rezultat 0. Ako imate potpuno povjerenje, dajte rezultat 10. 
+{ANSWERS}
+
+H31
+{QUESTION}
+Koristeći ovu karticu, recite koliko se slažete ili ne slažete sa svakom od tvrdnji koje ću vam pročitati.
+Vlada bi trebala poduzeti mjere da smanji razlike u plaćama.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H32
+{QUESTION}
+Homoseksualci bi trebali imati slobodu da žive kako im se sviđa.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H33
+{QUESTION}
+Vlada bi trebala osigurati da se sve društvene grupe tretiraju na jednaki način.
+{ANSWERS}
+1. Izrazito se slažem
+2. Slažem se
+3. Niti se slažem, niti se ne slažem
+4. Ne slažem se
+5. Izrazito se ne slažem
+
+H34
+{QUESTION}
+U politici ljudi nekada spominju “lijevo” i “desno”. Koristeći ovu karticu, recite gdje biste smjestili sebe na ovoj skali, na kojoj 0 označuje lijevo, a 10 desno?
+{ANSWERS}
+00 Lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Desno
+
+H35
+{QUESTION}
+Na istoj kartici, gdje biste smjestili stranku koja vam se najviše sviđa, ako 0 znači lijevo, a 10 znači desno?
+{ANSWERS}
+00 Lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Desno
+
+H36
+{QUESTION}
+Koristeći istu karticu, gdje biste smjestili stranku koja vam se najmanje sviđa, ako 0 znači lijevo, a 10 znači desno?
+{ANSWERS}
+00 Lijevo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Desno
+

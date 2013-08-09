@@ -1,0 +1,322 @@
+I1
+{INTRO}
+Prvih nekoliko pitanja odnosi se na to koliko vremena provodite gledajuci televiziju, slušajuci radio i citajuci novine. 
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete gledajuci
+televiziju? Molimo ukljucite i vrijeme koje ste proveli gledajuci televiziju preko interneta.
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat.
+03. Više od 1 sat, manje od 1½ sat.
+04. Više od 1½ sat, manje od 2 sata. 
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata. 
+07. Više od 3 sata.
+
+I2
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete
+slušajuci radio? Molimo ukljucite i vrijeme koje ste proveli slušajuci radio preko interneta. 
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat.
+03. Više od 1 sat, manje od 1½ sat.
+04. Više od 1½ sat, manje od 2 sata. 
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata. 
+07. Više od 3 sata.
+
+I3
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete
+citajuci novine? Molimo ukljucite i vrijeme koje ste proveli citajuci novine preko interneta.
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat.
+03. Više od 1 sat, manje od 1½ sat.
+04. Više od 1½ sat, manje od 2 sata. 
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata. 
+07. Više od 3 sata.
+
+I22
+{INTRO}
+Sada vas želim pitati nekoliko pitanja o politici i vladi. 
+{QUESTION}
+Što biste rekli, koliko politicki sustav u Hrvatskoj, ljudima kao što ste vi, dopušta da
+utjecu na to što vlada radi?
+{ANSWERS}
+1. Uopce ne.
+2. Vrlo malo.
+3. Ponešto.
+4. Dosta. 
+5. Jako puno.
+
+I23
+{QUESTION}
+Mislite li da biste vi mogli imati aktivnu ulogu u grupi koja se bavi politickim pitanjima?
+{ANSWERS}
+1. Sigurno ne. 
+2. Vjerojatno ne.
+3. Nisam siguran/sigurna. 
+4. Vjerojatno da. 
+5. Sigurno da.
+
+I24
+{QUESTION}
+Što biste rekli, koliko politicki sustav u Hrvatskoj ljudima kao što ste vi dopušta da
+izravno utjecu na politiku?
+{ANSWERS}
+1. Uopce ne.
+2. Vrlo malo.
+3. Ponešto.
+4. Dosta. 
+5. Jako puno.
+
+I25
+{QUESTION}
+Koliko ste sigurni u svoje sposobnosti potrebne za sudjelovanje u politici? 
+{ANSWERS}
+1. Uopce nisam siguran/sigurna.
+2. Malo sam siguran/sigurna.
+3. Prilicno sam siguran/sigurna.
+4. Vrlo sam siguran/sigurna.
+5. Potpuno sam siguran/sigurna
+
+I26
+{INTRO}
+Prvih nekoliko pitanja odnosi se na to koliko vremena provodite gledajuci televiziju, slušajuci radio i citajuci novine.
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete gledajuci
+televiziju? Molimo ukljucite vrijeme koje ste proveli gledajuci televiziju preko interneta. 
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I27
+{QUESTION}
+Od vremena koje provedete gledajuci televiziju tijekom prosjecnog radnog dana, koliko vremena provedete gledajuci vijesti ili emisije o politici i trenutnim zbivanjima?
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I28
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete
+slušajuci radio? Molimo ukljucite vrijeme koje ste proveli slušajuci radio preko interneta.
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I29
+{QUESTION}
+Od vremena koje provedete slušajuci radio tijekom prosjecnog radnog dana,
+koliko vremena provedete slušajuci vijesti ili emisije o politici i trenutnim zbivanjima?
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I30
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete citajuci
+novine? Molimo ukljucite vrijeme koje ste proveli citajuci novine preko interneta.
+{ANSWERS}
+00. Uopce ne
+01. Manje od 15 minuta
+02. 15 minuta do ½sata
+03. Više od ½sata, manje od 45 minuta. 
+04. Više od 45 minuta, manje od 1 sata. 
+05. Više od 1 sata, manje od 1½ sata. 
+06. Više od 1½ sata, manje od 2 sata. 
+07. Više od 2 sata, manje od 2½sata. 
+08. Više od 2½ sata, manje od 3 sata. 
+09. Više od 3 sata. 
+
+I31
+{QUESTION}
+Koliko od toga vremena provedete citajuci o politici i trenutnim zbivanjima?
+{ANSWERS}
+00. Uopce ne
+01. Manje od 15 minuta
+02. 15 minuta do ½sata
+03. Više od ½sata, manje od 45 minuta. 
+04. Više od 45 minuta, manje od 1 sata. 
+05. Više od 1 sata, manje od 1½ sata. 
+06. Više od 1½ sata, manje od 2 sata. 
+07. Više od 2 sata, manje od 2½sata. 
+08. Više od 2½ sata, manje od 3 sata. 
+09. Više od 3 sata. 
+
+I32
+{INTRO}
+Sada bismo željeli da mislite samo na korištenje interneta radi gledanja televizije, slušanja radija ili citanja novina.
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete koristeci
+internet kako biste gledali televizijske programe? 
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I33
+{QUESTION}
+A koliko od toga vremena provedete gledajuci televizijske programe o politici i
+trenutnim zbivanjima?
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I34
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete
+koristeci internet kako biste slušali radio? 
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I35
+{QUESTION}
+A koliko od toga vremena provedete slušajuci radijske programe o politici i
+trenutnim zbivanjima?
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I36
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete koristeci
+internet kako biste citali novine online (preko interneta)?
+{ANSWERS}
+00. Uopce ne
+01. Manje od 15 minuta
+02. 15 minuta do ½sata
+03. Više od ½sata, manje od 45 minuta. 
+04. Više od 45 minuta, manje od 1 sata. 
+05. Više od 1 sata, manje od 1½ sata. 
+06. Više od 1½ sata, manje od 2 sata. 
+07. Više od 2 sata, manje od 2½sata. 
+08. Više od 2½ sata, manje od 3 sata. 
+09. Više od 3 sata. 
+
+I37
+{QUESTION}
+A koliko od toga vremena provedete citajuci novine o politici i trenutnim
+zbivanjima?
+{ANSWERS}
+00. Uopce ne
+01. Manje od 15 minuta
+02. 15 minuta do ½sata
+03. Više od ½sata, manje od 45 minuta. 
+04. Više od 45 minuta, manje od 1 sata. 
+05. Više od 1 sata, manje od 1½ sata. 
+06. Više od 1½ sata, manje od 2 sata. 
+07. Više od 2 sata, manje od 2½sata. 
+08. Više od 2½ sata, manje od 3 sata. 
+09. Više od 3 sata. 
+
+I38
+{QUESTION}
+Tijekom prosjecnog radnog dana u tjednu, koliko ukupno vremena provedete koristeci
+internet za druge stvari, osim gledanja televizije, slušanja radija i citanja novina?
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 
+
+I39
+{QUESTION}
+A koliko od toga vremena provedete na politiku i trenutna zbivanja? 
+{ANSWERS}
+00. Uopce ne.
+01. Manje od ½ sata.
+02. ½ sata do 1 sat. 
+03. Više od 1 sat, manje od 1½ sat. 
+04. Više od 1½ sat, manje od 2 sata.
+05. Više od 2 sata, manje od 2½ sata. 
+06. Više od 2½ sata, manje od 3 sata.
+07. Više od 3 sata, manje od 4 sata.
+08. Više od 4 sata, manje od 5 sati. 
+09. Više od 5 sati, manje od 6 sati. 
+10. Više od 6 sati. 

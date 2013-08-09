@@ -1,0 +1,314 @@
+I1
+{INTRO}
+Esimesed küsimused on selle kohta, kui palju aega kulutate televiisori vaatamisele, raadio kuulamisele ja ajalehtede lugemisele.
+{QUESTION}
+Kui palju aega kokku kulutate televiisori vaatamisele tavalisel nädalapäeval? Palun lisage ka aeg, mida kulutate televiisori vaatamiseks internetis.
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Üle 3 tunni.
+
+I2
+{QUESTION}
+Kui palju aega kokku kulutate raadio kuulamisele tavalisel nädalapäeval? Palun
+lisage ka aeg, mida kulutate raadio kuulamiseks internetis.
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Üle 3 tunni.
+
+I3
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval ajalehtede lugemisele? Palun
+lisage ka aeg, mida kulutate ajalehtede lugemiseks internetis.
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Üle 3 tunni.
+
+I22
+{INTRO}
+Nüüd esitan mõned küsimused poliitika ja valitsuse kohta. 
+{QUESTION}
+Mis Te arvate, millisel määral lubab Eesti poliitiline süsteem inimestel nagu Teie valitsuse tegevuse kohta arvamust avaldada?
+{ANSWERS}
+1. Üldse mitte.
+2. Väga vähe.
+3. Veidi.
+4. Palju.
+5. Suurel määral.
+
+I23
+{QUESTION}
+Kas Te usute, et saaksite omada aktiivset rolli poliitikaga seotud rühma tegevuses? 
+{ANSWERS}
+1. Kindlasti mitte.
+2. Ilmselt mitte.
+3. Pole kindel.
+4. Ilmselt küll.
+5. Kindlasti.
+
+I24
+{QUESTION}
+Mis Te arvate, millisel määral lubab Eesti poliitiline süsteem inimestel nagu Teie otseselt poliitikat mõjutada?
+{ANSWERS}
+1. Üldse mitte.
+2. Väga vähe.
+3. Veidi.
+4. Palju.
+5. Suurel määral.
+
+I25
+{QUESTION}
+Kui kindel Te olete enda võimekuses poliitikas osaleda?
+{ANSWERS}
+1. Mitte üldse kindel.
+2. Veidi kindel.
+3. Üsna kindel.
+4. Väga kindel.
+5. Täiesti kindel.
+
+I26
+{INTRO}
+Esimesed küsimused on selle kohta, kui palju aega kulutate televiisori vaatamisele, raadio kuulamisele ja ajalehtede lugemisele.
+{QUESTION}
+Kui palju aega kokku kulutate televiisori vaatamisele tavalisel nädalapäeval? Palun lisage ka aeg, mida kulutate televiisori vaatamiseks internetis.
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I27
+{QUESTION}
+Kui palju televiisori vaatamise ajast tavalisel nädalapäeval jälgite uudiseid või
+poliitikat ja päevakajalisi sündmusi kajastavaid saateid?
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I28
+{QUESTION}
+Kui palju aega kokku kulutate raadio kuulamisele tavalisel nädalapäeval? Palun
+lisage ka aeg, mida kulutate raadio kuulamiseks internetis.
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I29
+{QUESTION}
+Rääkides ikka tavalisest nädalapäevast, kui palju raadio kuulamise ajast kuulate
+uudiseid või poliitikat ja päevakajalisi sündmusi kajastavaid saateid? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I30
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval ajalehtede lugemisele? Palun lisage ka aeg, mida kulutate ajalehtede lugemiseks internetis. 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui 15 minutit.
+02. 15 minutit kuni ½ tundi.
+03. Rohkem kui ½ tundi, kuni 45 minutit.
+04. Rohkem kui 45 minutit kuni 1 tund.
+05. Rohkem kui 1 tund, kuni 1½ tundi.
+06. Rohkem kui 1½ tundi, kuni 2 tundi.
+07. Rohkem kui 2 tundi, kuni 2½ tundi.
+08. Rohkem kui 2½ tundi kuni3 tundi.
+09. Rohkem kuio 3 tundi.
+
+I31
+{QUESTION}
+Ja kui palju sellest ajast kulub poliitika ja päevakajaliste sündmuste kohta lugemisele? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui 15 minutit.
+02. 15 minutit kuni ½ tundi.
+03. Rohkem kui ½ tundi, kuni 45 minutit.
+04. Rohkem kui 45 minutit kuni 1 tund.
+05. Rohkem kui 1 tund, kuni 1½ tundi.
+06. Rohkem kui 1½ tundi, kuni 2 tundi.
+07. Rohkem kui 2 tundi, kuni 2½ tundi.
+08. Rohkem kui 2½ tundi kuni3 tundi.
+09. Rohkem kuio 3 tundi.
+
+I32
+{INTRO}
+Nüüd me tahaksime, et mõtlete interneti kasutamisele televiisori vaatamiseks, raadio kuulamiseks või ajalehtede lugemiseks?
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval telesaadete vaatamisele internetis? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I33
+{QUESTION}
+Ja kui palju sellest ajast kulub poliitikat ja päevakajalisi sündmusi kajastavate
+saadete vaatamiseks? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I34
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval raadio kuulamisele internetis? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I35
+{QUESTION}
+Ja kui palju sellest ajast kulub poliitikat ja päevakajalisi sündmusi kajastavate
+saadete kuulamiseks? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I36
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval ajalehtede lugemisele internetis? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui 15 minutit.
+02. 15 minutit kuni ½ tundi.
+03. Rohkem kui ½ tundi, kuni 45 minutit.
+04. Rohkem kui 45 minutit kuni 1 tund.
+05. Rohkem kui 1 tund, kuni 1½ tundi.
+06. Rohkem kui 1½ tundi, kuni 2 tundi.
+07. Rohkem kui 2 tundi, kuni 2½ tundi.
+08. Rohkem kui 2½ tundi kuni3 tundi.
+09. Rohkem kuio 3 tundi.
+
+I37
+{QUESTION}
+Ja kui palju sellest ajast kulub poliitika ja päevakajaliste sündmuste lugemisele? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui 15 minutit.
+02. 15 minutit kuni ½ tundi.
+03. Rohkem kui ½ tundi, kuni 45 minutit.
+04. Rohkem kui 45 minutit kuni 1 tund.
+05. Rohkem kui 1 tund, kuni 1½ tundi.
+06. Rohkem kui 1½ tundi, kuni 2 tundi.
+07. Rohkem kui 2 tundi, kuni 2½ tundi.
+08. Rohkem kui 2½ tundi kuni3 tundi.
+09. Rohkem kuio 3 tundi.
+
+I38
+{QUESTION}
+Kui palju aega kokku kulutate tavalisel nädalapäeval internetis muuks kui televiisori
+vaatamiseks, raadio kuulamiseks ja ajalehtede lugemiseks? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.
+
+I39
+{QUESTION}
+Ja kui palju sellest ajast kulub poliitikale ja päevakajalistele sündmustele? 
+{ANSWERS}
+00. Üldse mitte.
+01. Vähem kui ½ tundi.
+02. ½ tundi kuni 1 tund.
+03. Rohkem kui 1 tund kuni 1½ tundi.
+04. Rohkem kui 1½ tundi kuni 2 tundi.
+05. Rohkem kui 2 tundi kuni 2½ tundi.
+06. Rohkem kui 2½ tundi kuni 3 tundi.
+07. Rohkem kui 3 tundi kuni 4 tundi.
+08. Rohkem kui 4 tundi kuni 5 tundi.
+09. Rohkem kui 5 tundi kuni 6 tundi.
+10. Üle 6 tunni.

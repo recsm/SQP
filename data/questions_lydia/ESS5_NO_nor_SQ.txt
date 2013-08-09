@@ -1,0 +1,305 @@
+I1
+{QUESTION}
+Hvor mye tid bruker du, alt i alt, til å se på TV en vanlig ukedag? Regn også med den tiden du ser TV via Internett.
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time.
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer. 
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer. 
+
+I2
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å høre på radio, på en vanlig ukedag? Regn også med den tiden du hører radio via Internett.
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time.
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer. 
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer. 
+
+I3
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å lese aviser, på en vanlig ukedag? Regn også med den tiden du leser aviser på Internett.
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time.
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer. 
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer. 
+
+I22
+{INTRO}
+Helt til slutt vil jeg stille deg noen få spørsmål om politikk. 
+{QUESTION}
+Hvor mye vil du si at det politiske systemet i Norge lar folk som deg få noe å si for hva myndighetene gjør?
+{ANSWERS}
+1. Ikke i det hele tatt.
+2. Veldig lite.
+3. Noe.
+4. Mye.
+5. Veldig mye.
+
+I23
+{QUESTION}
+Tror du at du kunne deltatt aktivt i en gruppe som var engasjert i politiske spørsmål?
+{ANSWERS}
+1. Definitivt ikke.
+2. Sannsynligvis ikke.
+3. Usikker. 
+4. Sannsynligvis ja.
+5. Definitivt ja.
+
+I24
+{QUESTION}
+Hvor mye vil du si at det politiske systemet i Norge gir folk som deg mulighet til å ha direkte innflytelse for politikken? 
+{ANSWERS}
+1. Ikke i det hele tatt.
+2. Veldig lite.
+3. Noe.
+4. Mye.
+5. Veldig mye.
+
+I25
+{QUESTION}
+Hvor trygg er du på din egen evne eller kunnskap til å delta i politikken?
+{ANSWERS}
+1. Ikke trygg i det hele tatt. 
+2. Litt trygg. 
+3. Nokså trygg. 
+4. Veldig trygg. 
+5. Helt trygg.
+
+I26
+{INTRO}
+De første spørsmålene handler om hvor mye tid du bruker på å se på TV, høre på radio og lese aviser. 
+{QUESTION}
+Hvor mye tid bruker du, alt i alt, til å se på TV en vanlig ukedag? Regn også med den tiden du ser TV via Internett.
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I27
+{QUESTION}
+Hvor mye av tv-tiden bruker du til å se nyheter og programmer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag? 
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I28
+{QUESTION}
+Hvor mye tid bruker du, alt i alt, til å høre på radio, på en vanlig ukedag? Regn også med den tiden du hører radio via Internett.
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I29
+{QUESTION}
+Hvor mye av tiden, alt i alt, bruker du til å høre nyheter og radioprogrammer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I30
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å lese aviser, på en vanlig ukedag? Regn også med den tiden du leser aviser på Internett.
+{ANSWERS}
+00. Ikke noe tid. 
+01. Mindre enn 15 minutter. 
+02. Fra 15 minutter til ½ time. 
+03. Mer enn ½ time, opptil 45 minutter. 
+04. Mer enn 45 minutter, opptil 1 time. 
+05. Mer enn 1 time, opptil 1½ time. 
+06. Mer enn 1½, opptil 2 timer. 
+07. Mer enn 2 timer, opptil 2½ timer. 
+08. Mer enn 2½ timer, opptil 3 timer. 
+09. Mer enn 3 timer. 
+
+I31
+{QUESTION}
+Hvor mye av denne tiden bruker du til å lese om politikk og aktuelle samfunnsspørsmål?
+{ANSWERS}
+00. Ikke noe tid. 
+01. Mindre enn 15 minutter. 
+02. Fra 15 minutter til ½ time. 
+03. Mer enn ½ time, opptil 45 minutter. 
+04. Mer enn 45 minutter, opptil 1 time. 
+05. Mer enn 1 time, opptil 1½ time. 
+06. Mer enn 1½, opptil 2 timer. 
+07. Mer enn 2 timer, opptil 2½ timer. 
+08. Mer enn 2½ timer, opptil 3 timer. 
+09. Mer enn 3 timer. 
+
+I32
+{INTRO}
+Nå vil jeg at du kun skal tenke på hvor mye du bruker Internett til å se på TV, høre på radio eller lese aviser.
+{QUESTION}
+Hvor mye tid, alt i alt, bruker Internett til å se TV-programmer en
+vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I33
+{QUESTION}
+Hvor mye av denne tiden bruker du til å se nyheter og programmer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I34
+{QUESTION}
+Hvor mye tid bruker du, alt i alt, til å høre på radio over Internett, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I35
+{QUESTION}
+Hvor mye av tiden, alt i alt, bruker du til å høre nyheter og radioprogrammer om politikk og aktuelle samfunnsspørsmål, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I36
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du til å lese aviser på Internett, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid. 
+01. Mindre enn 15 minutter. 
+02. Fra 15 minutter til ½ time. 
+03. Mer enn ½ time, opptil 45 minutter. 
+04. Mer enn 45 minutter, opptil 1 time. 
+05. Mer enn 1 time, opptil 1½ time. 
+06. Mer enn 1½, opptil 2 timer. 
+07. Mer enn 2 timer, opptil 2½ timer. 
+08. Mer enn 2½ timer, opptil 3 timer. 
+09. Mer enn 3 timer. 
+
+I37
+{QUESTION}
+Hvor mye av denne tiden bruker du til å lese om politikk og aktuelle samfunnsspørsmål?
+{ANSWERS}
+00. Ikke noe tid. 
+01. Mindre enn 15 minutter. 
+02. Fra 15 minutter til ½ time. 
+03. Mer enn ½ time, opptil 45 minutter. 
+04. Mer enn 45 minutter, opptil 1 time. 
+05. Mer enn 1 time, opptil 1½ time.
+06. Mer enn 1½, opptil 2 timer. 
+07. Mer enn 2 timer, opptil 2½ timer. 
+08. Mer enn 2½ timer, opptil 3 timer. 
+09. Mer enn 3 timer. 
+
+I38
+{QUESTION}
+Hvor mye tid, alt i alt, bruker du på Internett til annet enn å se på TV, høre på radio eller lese aviser?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 
+
+I39
+{QUESTION}
+Hvor mye av denne tiden bruker du på nyheter og politikk, på en vanlig ukedag?
+{ANSWERS}
+00. Ikke noe tid.
+01. Mindre enn en ½ time. 
+02. Fra ½ til 1 time. 
+03. Mer enn 1 time, opptil 1½ time. 
+04. Mer enn 1½, opptil 2 timer. 
+05. Mer enn 2 timer, opptil 2½ timer.
+06. Mer enn 2½ timer, opptil 3 timer.
+07. Mer enn 3 timer, opptil 4 timer. 
+08. Mer enn 4 timer, opptil 5 timer. 
+09. Mer enn 5 timer, opptil 6 timer. 
+10. Mer enn 6 timer. 

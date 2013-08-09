@@ -1,0 +1,535 @@
+IF1
+{INTRO}
+Les premières questions portent sur le temps que vous consacrez à regarder la télévision, écouter la radio et lire les journaux.
+{QUESTION}
+Combien de temps passez-vous à regarder la télévision un jour de semaine ordinaire? Veuillez tenir compte aussi du temps passé à regarder la télévision sur Internet.
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à trois heures.
+07. Plus de 3 heures.
+
+IF2
+{QUESTION}
+Combien de temps passez-vous à écouter la radio un jour de semaine ordinaire? Veuillez tenir compte aussi du temps passé à écouter la radio sur Internet.
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à trois heures.
+07. Plus de 3 heures.
+
+IF3
+{QUESTION}
+Combien de temps passez-vous à lire les journaux un jour de semaine ordinaire ? Veuillez tenir compte aussi du temps passé à lire les journaux sur Internet.
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à trois heures.
+07. Plus de 3 heures.
+
+IF4
+{INTRO}
+Quelques questions maintenant sur la police en Belgique.
+{QUESTION}
+En fonction de votre expérience personnelle ou de ce que vous avez pu entendre, veuillez m'indiquer dans quelle mesure vous trouvez efficace l'action menée par la police pour prévenir les crimes ou les délits avec violence ou menace de violence en Belgique.
+{ANSWERS}
+00. Extrêmement inefficace.
+01. Très inefficace.
+02. Plutôt inefficace.
+03. Ni inefficace ni efficace.
+04. Plutôt efficace.
+05. Très efficace.
+06. Extrêmement efficace.
+
+IF5
+{QUESTION}
+Et dans quelle mesure trouvez-vous la police efficace pour arrêter les cambrioleurs ?
+{ANSWERS}
+00. Extrêmement inefficace.
+01. Très inefficace.
+02. Plutôt inefficace.
+03. Ni inefficace ni efficace.
+04. Plutôt efficace.
+05. Très efficace.
+06. Extrêmement efficace.
+
+IF6
+{QUESTION}
+Si un crime ou un délit avec violence se produisait près de chez vous et que quelqu'un appelait la police, pensez-vous que la police arriverait rapidement sur les lieux ? Elle arriverait…
+{ANSWERS}
+00. extrêmement tardivement sur les lieux.
+01. très tardivement.
+02. plutôt tardivement.
+03. ni tardivement ni rapidement.
+04. plutôt rapidement.
+05. très rapidement.
+06. extrêmement rapidement sur les lieux.
+
+IF7
+{INTRO}
+Quelques questions maintenant sur la façon dont la police s'occupe des cambriolages et des agressions.
+{QUESTION}
+En vous basant sur votre propre expérience, ou sur ce que vous avez entendu, diriez-vous que la police traite les gens avec respect en Belgique ?
+{ANSWERS}
+00. jamais
+01. presque jamais.
+02. rarement.
+03. occasionnellement.
+04. parfois.
+05. une fois sur deux.
+06. assez souvent.
+07. souvent.
+08. très souvent.
+09. presque toujours.
+10. toujours.
+
+IF8
+{QUESTION}
+La police prend-elle des décisions justes et impartiales dans ses enquêtes ?
+{ANSWERS}
+00. jamais
+01. presque jamais.
+02. rarement.
+03. occasionnellement.
+04. parfois.
+05. une fois sur deux.
+06. assez souvent.
+07. souvent.
+08. très souvent.
+09. presque toujours.
+10. toujours.
+
+IF9
+{QUESTION}
+Diriez-vous que la police donne des explications à propos de ses décisions et de ses actes lorsqu'on le lui demande ?
+{ANSWERS}
+00. jamais
+01. presque jamais.
+02. rarement.
+03. occasionnellement.
+04. parfois.
+05. une fois sur deux.
+06. assez souvent.
+07. souvent.
+08. très souvent.
+09. presque toujours.
+10. toujours.
+
+IF10
+{INTRO}
+Maintenant une série de questions sur la probabilité que vous soyez pris et condamné si vous faisiez les choses suivantes en Belgique.
+{QUESTION}
+Utilisez cette carte où 1 signifie "pas probable du tout" et 4 "très probable".
+Dites moi s'il serait probable que vous soyez pris/e et condamné/e si vous faisiez une déclaration de sinistre fausse ou exagérée à l'assurance ?
+{ANSWERS}
+01. Pas probable du tout.
+02. Peu probable.
+03. Plutôt probable.
+04. Très probable.
+
+IF11
+{QUESTION}
+Dites moi s'il serait probable que vous soyez pris/e et condamné/e si vous achetiez quelque chose que vous pensez peut-être provenir d'un vol?
+{ANSWERS}
+01. Pas probable du tout.
+02. Peu probable.
+03. Plutôt probable.
+04. Très probable.
+
+IF12
+{QUESTION}
+Dites moi s'il serait probable que vous soyez pris/e et condamné/e si vous commettiez une infraction aux règles de la circulation, comme un excès de vitesse ou brûler un feu rouge ?
+{ANSWERS}
+01. Pas probable du tout.
+02. Peu probable.
+03. Plutôt probable.
+04. Très probable.
+
+IF13
+{INTRO}
+Les premières questions portent sur la police en Belgique.
+{QUESTION}
+En fonction de votre expérience personnelle ou de ce que vous avez pu entendre, veuillez m'indiquer dans quelle mesure vous trouvez efficace l'action menée par la police pour prévenir les crimes ou les délits avec violence ou menace de violence en Belgique. Choississez une réponse sur cette carte, où 0 signifie "très inefficace" et 4 "très efficace".
+{ANSWERS}
+0. Très inefficace.
+1. Plutôt inefficace.
+2. Ni inefficace ni efficace.
+3. Plutôt efficace.
+4. Très efficace.
+
+IF14
+{QUESTION}
+Et dans quelle mesure trouvez-vous la police efficace pour arrêter les cambrioleurs ?
+{ANSWERS}
+0. Très inefficace.
+1. Plutôt inefficace.
+2. Ni inefficace ni efficace.
+3. Plutôt efficace.
+4. Très efficace.
+
+IF15
+{QUESTION}
+Si une agression se produisait près de chez vous et que quelqu'un appelait la police, pensez-vous que la police arriverait rapidement sur les lieux ? Choisissez une réponse sur cette carte, où 0 signifie qu'elle arriverait "très tardivement" sur les lieux et 4 "très rapidement".
+{ANSWERS}
+00. très tardivement.
+01. plutôt tardivement.
+02. ni tardivement ni rapidement.
+03. plutôt rapidement.
+04. très rapidement.
+
+IF16
+{INTRO}
+Quelques questions maintenant sur la façon dont la police s'occupe des cambriolages et des agressions.
+{QUESTION}
+En vous basant sur votre propre expérience, ou sur ce que vous avez entendu, diriez-vous que la police traite les gens avec respect en Belgique ? Vous diriez que c'est le cas… Choisissez une réponse sur cette carte, où 0 signifie "presque jamais" et 10 "presque toujours".
+{ANSWERS}
+00. presque jamais.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. presque toujours.
+
+IF17
+{QUESTION}
+La police prend-elle des décisions justes et impartiales dans ses enquêtes?
+{ANSWERS}
+00. presque jamais.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. presque toujours.
+
+IF18
+{QUESTION}
+Diriez-vous que la police donne des explications à propos de ses décisions et de ses actes lorsqu'on le lui demande ?
+{ANSWERS}
+00. presque jamais.
+01.
+02.
+03.
+04.
+05.
+06.
+07.
+08.
+09.
+10. presque toujours.
+
+IF19
+{INTRO}
+Maintenant une série de questions sur la probabilité que vous soyez pris et condamné si vous faisiez les choses suivantes en Belgique. Utilisez cette carte où 1 signifie "très improbable" et 4 "très probable".
+{QUESTION}
+Dites moi s'il serait probable que vous soyez pris(e) et condamné(e) en Belgique si vous faisiez une déclaration de sinistre fausse ou exagérée à l'assurance?
+{ANSWERS}
+01. très improbable.
+02.
+03.
+04. très probable.
+
+IF20
+{QUESTION}
+Dites moi s'il serait probable que vous soyez pris(e) et condamné(e) en Belgique si vous achetiez quelque chose que vous pensez peut-être provenir d'un vol ?
+{ANSWERS}
+01. très improbable.
+02. 
+03. 
+04. très probable.
+
+IF21
+{QUESTION}
+Dites moi s'il serait probable que vous soyez pris(e) et condamné(e) en Belgique si vous commettiez une infraction aux règles de la circulation comme un excès de vitesse ou brûler un feu rouge?
+{ANSWERS}
+01. très improbable.
+02. 2
+03. 3
+04. très probable.
+
+IF22
+{INTRO}
+Et maintenant quelques questions concernant la politique et le gouvernement. 
+{QUESTION}
+Dans quelle mesure, selon vous, le système politique en Belgique permet à des gens comme vous d'avoir votre mot à dire sur ce que fait le gouvernement?
+{ANSWERS}
+1. Pas du tout.
+2. très peu.
+3. un peu.
+4. beaucoup.
+5. vraiment beaucoup.
+
+IF23
+{QUESTION}
+Pensez-vous que vous pourriez prendre un rôle actif dans un groupe qui s'occupe de questions politiques? 
+{ANSWERS}
+1. Absolument pas.
+2. Probablement pas.
+3. Je ne suis pas sûr(e).
+4. Probablement oui.
+5. Tout à fait.
+
+IF24
+{QUESTION}
+Dans quelle mesure le système politique en Belgique permet à des personnes comme vous d'avoir une influence directe sur la politique?
+{ANSWERS}
+1. Pas du tout.
+2. très peu.
+3. un peu.
+4. beaucoup.
+5. vraiment beaucoup.
+
+IF25
+{QUESTION}
+Dans quelle mesure êtes-vous convaincu(e) d'avoir les capacités à participer à des activités politiques et/ou d'en discuter?
+{ANSWERS}
+1. Pas du tout convaincu 
+2.  un peu convaincu 
+3. assez convaincu.
+4. très convaincu.
+5. totalement convaincu.
+
+IF26
+{INTRO}
+Les premières questions portent sur le temps vous consacrez à regarder la télévision, écouter la radio et lire les journaux. 
+{QUESTION}
+Combien de temps passez-vous à regarder la télévision un jour de semaine ordinaire? Veuillez tenir compte aussi du temps passé à regarder la télévision sur Internet.
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF27
+{QUESTION}
+Et combien de temps passez-vous un jour de semaine ordinaire à regarder les informations ou les programmes sur la politique et l'actualité?
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF28
+{QUESTION}
+Combien de temps passez-vous à écouter la radio un jour de semaine ordinaire? Veuillez tenir compte aussi du temps passé à écouter la radio sur Internet.
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF29
+{QUESTION}
+ET combien de temps, un jour de semaine ordinaire, passez-vous à écouter les informations ou les programmes sur la politique et l'actualité à la radio? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF30
+{QUESTION}
+Combien de temps passez-vous à lire les journaux un jour de semaine ordinaire ? Veuillez tenir compte aussi du temps passé à écouter la radio sur Interne 
+{ANSWERS}
+00. Pas du tout.
+01. Moins de 15 minutes.
+02. De15 minutes à une demi-heure.
+03. Plus d'une demi-heure à 45 minutes
+04. Plus de 45 minutes, jusqu'à une heure.
+05. Plus d’une heure, jusqu’à une heure et demie.
+06. Plus d’une heure et demie, jusqu’à 2 heures.
+07. Plus de 2 heures, jusqu’à 2 heures et demie.
+08. Plus de 2 heures et demie, jusqu’à trois heures.
+09. Plus de 3 heures.
+
+IF31
+{QUESTION}
+Et combien de temps, un jour de semaine ordinaire, passez-vous à lire des articles sur la politique et l'actualité dans les journaux ? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins de 15 minutes.
+02. De15 minutes à une demi-heure.
+03. Plus d'une demi-heure à 45 minutes
+04. Plus de 45 minutes, jusqu'à une heure.
+05. Plus d’une heure, jusqu’à une heure et demie.
+06. Plus d’une heure et demie, jusqu’à 2 heures.
+07. Plus de 2 heures, jusqu’à 2 heures et demie.
+08. Plus de 2 heures et demie, jusqu’à trois heures.
+09. Plus de 3 heures.
+
+IF32
+{INTRO}
+Et maintenant pensez uniquement à Internet comme moyen de regarder la télévision, écouter la radio ou lire les journaux. 
+{QUESTION}
+Combien de temps passez-vous à regarder la télévision sur Internet un jour de semaine ordinaire? 
+{ANSWERS}
+00. Geen tijd aan besteed .
+01. Minder dan een ½ uur.
+02. Van een ½ uur, tot hoogstens 1 uur.
+03. Meer dan 1 uur, tot hoogstens 1½ uur.
+04. Meer dan 1½ uur, tot hoogstens 2 uur.
+05. Meer dan 2 uur, tot hoogstens 2½ uur.
+06. Meer dan 2½ uur, tot hoogstens 3 uur.
+07. Meer dan 3 uur, tot hoogstens 4 uur.
+08. Meer dan 4 uur, tot hoogstens 5 uur.
+09. Meer dan 5 uur, tot hoogstens 6 uur.
+10. Meer dan 6 uur.
+
+IF33
+{QUESTION}
+Et combien de ce temps passez-vous un jour de semaine ordinaire à regarder les informations ou les programmes sur la politique et l'actualité ?  
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF34
+{QUESTION}
+Combien de temps passez-vous à écouter la radio sur Internet un jour de semaine ordinaire ? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF35
+{QUESTION}
+Et combien de ce temps, un jour de semaine ordinaire, passez-vous à écouter les informations ou les programmes sur la politique et l'actualité à la radio? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF36
+{QUESTION}
+Combien de temps passez-vous à lire les journaux sur Internet un jour de semaine ordinaire ? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins de 15 minutes.
+02. De15 minutes à une demi-heure.
+03. Plus d'une demi-heure à 45 minutes
+04. Plus de 45 minutes, jusqu'à une heure.
+05. Plus d’une heure, jusqu’à une heure et demie.
+06. Plus d’une heure et demie, jusqu’à 2 heures.
+07. Plus de 2 heures, jusqu’à 2 heures et demie.
+08. Plus de 2 heures et demie, jusqu’à trois heures.
+09. Plus de 3 heures.
+
+IF37
+{QUESTION}
+Et combien de ce temps, un jour de semaine ordinaire, passez-vous à lire des articles sur la politique et l'actualité dans les journaux en ligne ? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins de 15 minutes.
+02. De15 minutes à une demi-heure.
+03. Plus d'une demi-heure à 45 minutes
+04. Plus de 45 minutes, jusqu'à une heure.
+05. Plus d’une heure, jusqu’à une heure et demie.
+06. Plus d’une heure et demie, jusqu’à 2 heures.
+07. Plus de 2 heures, jusqu’à 2 heures et demie.
+08. Plus de 2 heures et demie, jusqu’à trois heures.
+09. Plus de 3 heures.
+
+IF38
+{QUESTION}
+Et combien de temps passez-vous en tout sur Internet, un jour de semaine ordinaire, pour d'autres utilisations que regarder la télévision, écouter la radio ou lire les journaux? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
+
+IF39
+{QUESTION}
+Et combien de ce temps passez-vous sur des sujets de politique et d'actualité ? 
+{ANSWERS}
+00. Pas du tout.
+01. Moins d’une demi-heure.
+02. D’une demi-heure à une heure.
+03. Plus d’une heure, jusqu’à une heure et demie.
+04. Plus d’une heure et demie, jusqu’à 2 heures.
+05. Plus de 2 heures, jusqu’à 2 heures et demie.
+06. Plus de 2 heures et demie, jusqu’à 3 heures.
+07. Plus de 3 heures, jusqu’à 4 heures.
+08. Plus de 4 heures, jusqu’à 5 heures.
+09. Plus de 5 heures, jusqu’à 6 heures.
+10. Plus de 6 heures.
