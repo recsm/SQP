@@ -847,7 +847,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
     else:
         
-        sql = "SELECT i.study_id, q.country_id, q.language_id, i.admin, i.name, q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
+        sql = "SELECT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
         
         
         if q != '':
