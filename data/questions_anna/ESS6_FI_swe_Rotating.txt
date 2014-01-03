@@ -1,0 +1,1257 @@
+﻿D1
+{QUESTION}
+Hur ofta under de senaste 12 månaderna deltog Ni i arbete för frivillig- eller välgörenhetsorganisationer?
+
+{ANSWERS}
+1 Minst en gång i veckan
+2 Minst en gång i månaden
+3 Minst en gång var tredje månad
+4 Minst en gång var sjätte månad
+5 Mera sällan
+6 Aldrig
+
+D2
+{INTRO}
+Seuraavaksi kysymyksiä tuntemuksistanne ja omasta elämästänne.
+
+{QUESTION}
+Berätta i vilken grad Ni instämmer eller inte instämmer i följande påståenden: Jag är alltid optimistisk när det gäller min framtid?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D3
+{QUESTION}
+Allmänt taget har jag en mycket positiv inställning till mig själv?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D4
+{QUESTION}
+Ibland känner jag mig misslyckad?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D5
+{INTRO}
+Nu läser jag upp en lista över olika sätt Ni kan ha känt Er eller uppfört Er på.
+
+{QUESTION}
+Hur ofta under den senaste veckan: Kände Ni Er deprimerad?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D6
+{QUESTION}
+Tyckte Ni att allt Ni gjorde krävde en ansträngning?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D7
+{QUESTION}
+Sov Ni oroligt?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D8
+{QUESTION}
+Var Ni lycklig?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D9
+{QUESTION}
+Kände Ni Er ensam?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D10
+{QUESTION}
+Njöt Ni av livet?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D11
+{QUESTION}
+Kände Ni Er ledsen?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D12
+{QUESTION}
+Kunde Ni inte komma igång?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D13
+{QUESTION}
+Och hur ofta under sen senaste veckan: Var Ni energisk?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D14
+{QUESTION}
+Kände Ni Er orolig?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D15
+{QUESTION}
+Kände Ni Er lugn och fridfull?
+
+{ANSWERS}
+1 Ingen eller bara en liten del av tiden
+2 En del av tiden
+3 Största delen av tiden 
+4 Hela tiden eller nästan hela tiden
+
+D16
+{QUESTION}
+Är Ni av samma eller av annan åsikt om följande påståenden: Jag känner mig fri att själv besluta hur jag lever mitt liv?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D17
+{QUESTION}
+I mitt dagliga liv har jag mycket små chanser att visa hur kompetent jag är?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D18
+{QUESTION}
+De flesta dagar har jag en känsla av att det jag åstadkommit är viktigt?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D19
+{QUESTION}
+När saker och ting går fel i mitt liv tar det mig i allmänhet lång tid att återgå till det normala?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D20
+{QUESTION}
+Berätta i vilken mån: Har Ni möjlighet att lära Er nya saker?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6 I HÖG GRAD 
+
+
+D21
+{QUESTION}
+Tycker Ni att människorna i Ert bostadsområde hjälper varandra?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6 I HÖG GRAD 
+
+D22
+{QUESTION}
+Tycker Ni att människor behandlar Er med respekt?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6 I HÖG GRAD 
+
+D23
+{QUESTION}
+I vilken mån håller Ni med eller håller Ni inte med om följande påståenden: Jag tycker i allmänhet att det jag gör i livet är värdefullt och meningsfullt?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D24
+{QUESTION}
+Som saker och ting ser ut nu, tycker jag det är svårt att vara hoppfull inför världens framtid?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+5 Täysin eri mieltä
+
+D25
+{QUESTION}
+Det finns mycket som jag tycker att jag är bra på?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D26
+{QUESTION}
+För de flesta finländare blir livet värre snarare än bättre?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D27
+{QUESTION}
+Jag känner samhörighet med människorna i mitt bostadsområde?
+
+{ANSWERS}
+1 Helt av samma åsikt
+2 Av samma åsikt
+3 Varken av samma eller annan åsikt
+4 Av annan åsikt
+5 Av helt annan åsikt
+
+D28
+{QUESTION}
+I vilken utsträckning tar Ni Er tid att göra saker som Ni verkligen vill göra. Ange Ert svar med hjälp av kortet 29, där 0 motsvarar inte alls och 10 helt och hållet?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELT OCH HÅLLET 
+
+D29
+{QUESTION}
+I vilken utsträckning känner Ni att Ni uppskattas av personer som står Er nära?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELT OCH HÅLLET 
+
+D30
+{QUESTION}
+Hur svårt eller lätt tycker Ni det är att hantera stora problem som dyker upp i Ert liv. Ange Ert svar med hjälp av kortet 30, där 0 motsvarar ytterst svårt och 10 ytterst lätt?
+
+{ANSWERS}
+0 YTTERST SVÅRT 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 YTTERST LÄTT 
+
+D31
+{QUESTION}
+Besvara de tre följande frågorna med hjälp av kort 31. Hur stor del av tiden är Ni vanligen. Intresserad av det Ni gör?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELA TIDEN 
+
+D32
+{QUESTION}
+Engagerad av det Ni gör?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELA TIDEN 
+
+D33
+{QUESTION}
+Entusiastisk över det Ni gör?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELA TIDEN 
+
+D34
+{QUESTION}
+Hur ofta fäster Ni uppmärksamhet vid och sätter värde på Er omgivning under en vanlig dag?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 ALLTID 
+
+D35
+{QUESTION}
+I vilken utsträckning känner Ni att Ni har ett mål med Ert liv. Ange Ert svar med hjälp av kortet 33, där 0 motsvarar inte alls och 10 helt och hållet?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 HELT OCH HÅLLET 
+
+D36
+{QUESTION}
+I vilken utsträckning får Ni hjälp och stöd när ni behöver det av personer som står Er nära. Ange Ert svar med hjälp av kortet 34, där 0 motsvarar inte alls och 6 i ytterst stor utsträckning?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6 I YTTERST STOR UTSTRÄCKNING 
+
+D37
+{QUESTION}
+Och i vilken utsträckning erbjuder Ni själv hjälp och stöd till personer som står Er nära när de behöver det?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2 
+3 
+4 
+5 
+6 I YTTERST STOR UTSTRÄCKNING 
+
+D38
+{INTRO}
+Det finns människor som befinner sig närmare samhällets topp och människor som befinner sig närmare dess botten. 
+
+{QUESTION}
+På en skala från toppen till botten på kortet 35, var skulle Ni för tillfället placera Er själv?
+
+{ANSWERS}
+10 Samhällets topp
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Samhällets botten
+
+D39
+{QUESTION}
+Ange med hjälp av kortet 36 under hur många av de senaste sju dagarna Ni har varit fysiskt aktiv i minst 20 sammanhängande minuter?
+
+{ANSWERS}
+0 Inte en enda dag
+1 En dag
+2 Två dagar
+3 Tre dagar
+4 Fyra dagar
+5 Fem dagar 
+6 Sex dagar
+7 Sju dagar
+
+E1
+{INTRO}
+Nu några frågor om demokrati. Senare kommer jag att fråga Er hur demokratin fungerar i Finland. Först vill jag emellertid be Er fundera på hur viktiga Ni anser att olika saker är för demokratin i allmänhet. Det finns inga rätt eller fel svar, så säg bara vad Ni anser om följande påståenden.
+
+{QUESTION}
+Ange med hjälp av det här kortet 37 hur viktigt anser Ni att det är för demokratin 
+i allmänhet: att nationella val är fria och rättvisa?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+
+E2
+{QUESTION}
+att väljarna diskuterar politik med bekanta innan de bestämmer hur de ska rösta?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E3
+{QUESTION}
+att olika politiska partier erbjuder alternativ som klart avviker från varandra?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E4
+{QUESTION}
+att oppositionspartier fritt får kritisera regeringen?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E5
+{QUESTION}
+att media fritt får kritisera regeringen?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E6
+{QUESTION}
+Tänk fortfarande på demokratin i allmänhet - snarare än på demokratin i Finland. Ange hur viktigt anser Ni att det är för demokratin i allmänhet: att media förmedlar tillförlitlig information till medborgarna, så att de kan bedöma  regeringens arbete?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E7
+{QUESTION}
+att minoriteters rättigheter skyddas?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E8
+{QUESTION}
+att medborgarna genom folkomröstningar har den slutgiltiga beslutanderätten i de viktigaste politiska frågorna?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E9
+{QUESTION}
+att invandrare får rösträtt i nationella val först när de fått medborgarskap?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E10
+{QUESTION}
+att domstolar behandlar alla på samma sätt?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E11
+{QUESTION}
+att domstolar har rätt att stoppa regeringen då den överskrider sina befogenheter?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E12
+{QUESTION}
+Tänk fortfarande på demokratin i allmänhet - snarare än på demokratin i Finland. Ange hur viktigt anser Ni att det är för demokratin i allmänhet: att regeringspartier straffas i val om de gjort ett dåligt arbete?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E13
+{QUESTION}
+att regeringen skyddar alla medborgare mot fattigdom?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E14
+{QUESTION}
+att regeringen förklarar sina beslut för väljarna?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E15
+{QUESTION}
+att regeringen vidtar åtgärder för att minska inkomstskillnaderna?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E16
+{QUESTION}
+Och hur viktigt anser Ni att det är för demokratin i allmänhet att politiker tar hänsyn till andra europeiska regeringars synpunkter innan de fattar beslut?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E17
+{INTRO}
+Nu följer några frågor om samma ämnen, men berätta nu hur Ni tycker att demokratin  i Finland fungerar nuförtiden. På dessa frågor finns det inte heller några rätta eller fel svar.  Berätta bara vad Ni tycker.
+
+{QUESTION}
+Ange med hjälp av det här kortet 38 i vilken utsträckning anser Ni att följande påståenden stämmer in på Finland. 0 betyder att påståendet enligt Er uppfattning inte alls stämmer och 10 att det stämmer fullständigt. Riksdagsval i Finland är fria och rättvisa?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E18
+{QUESTION}
+Väljarna i Finland diskuterar politik med bekanta innan de bestämmer hur de ska rösta?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E19
+{QUESTION}
+De olika politiska partierna i Finland erbjuder alternativ som klart avviker från varandra?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E20
+{QUESTION}
+I Finland får oppositionspartierna fritt kritisera regeringen?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E21
+{QUESTION}
+I Finland får media fritt kritisera regeringen?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E22
+{QUESTION}
+Ange med hjälp av samma kort hur väl följande påståenden enligt Er uppfattning stämmer  in på Finland. Media i Finland förmedlar tillförlitlig information till medborgarna, så att de kan bedöma regeringens arbete?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E23
+{QUESTION}
+Minoriteters rättigheter skyddas i Finland?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E24
+{QUESTION}
+Medborgarna i Finland har genom folkomröstningar den slutgiltiga beslutanderätten i de viktigaste politiska frågorna?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E25
+{QUESTION}
+Domstolarna i Finland behandlar alla på samma sätt?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E26
+{QUESTION}
+Ange ännu med hjälp av samma kort hur väl följande påståenden enligt Er uppfattning stämmer in på Finland. I Finland straffas regeringspartierna i val om de gjort ett dåligt arbete?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E27
+{QUESTION}
+Regeringen i Finland skyddar alla medborgare mot fattigdom?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E28
+{QUESTION}
+Regeringen i Finland förklarar sina beslut för väljarna?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E29
+{QUESTION}
+Regeringen i Finland vidtar åtgärder för att minska inkomstskillnaderna?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E30
+{QUESTION}
+Och i vilken utsträckning stämmer följande påstående in på Finland. Politikerna i Finland tar hänsyn till andra europeiska regeringars synpunkter innan de fattar beslut?
+
+{ANSWERS}
+0 STÄMMER INTE ALLS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 STÄMMER FULLSTÄNDIGT 
+
+E31
+{INTRO}
+I följande frågor ber jag Er först välja mellan två alternativ. Därefter frågar jag hur viktigt tycker Ni att Ert svar är för demokratin i allmänhet. Till slut ber jag Er fundera på hur situationen på denna punkt är i dagens Finland. Kom ihåg att det finns inga rätt eller fel svar, så säg bara vad Ni anser om följande påståenden.
+Det råder delade meningar om huruvida alla i en demokrati bör ha rätt att fritt uttrycka sina politiska åsikter även om de är extrema.
+
+{QUESTION}
+Vilket påstående beskriver enligt Er uppfattning vad som är bäst för demokratin i allmänhet?
+
+{ANSWERS}
+1 Alla bör ha rätt att fritt uttrycka sina politiska åsikter även om de är extrema 
+2 Personer med extrema politiska åsikter bör hindras från att fritt uttrycka dem
+
+E32
+{QUESTION}
+Ert svar med hjälp av kortet 40 hur viktigt anser Ni att det är för demokratin i allmänhet att alla har rätt att fritt uttrycka sina politiska åsikter även om de är extrema?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E33
+{QUESTION}
+Enligt Er uppfattning, i vilken utsträckning har alla i dagens Finland rätt att fritt uttrycka sina politiska åsikter även om de är extrema. Ange Ert svar med hjälp av kortet 41?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I YTTERST STOR UTSTRÄCKNING 
+
+E34
+{QUESTION}
+Hur viktigt anser Ni att det är för demokratin i allmänhet att personer som har extrema politiska åsikter hindras från att fritt uttrycka dem. Ange Ert svar med hjälp av kortet 40?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E35
+{QUESTION}
+I vilken utsträckning anser Ni att personer med extrema politiska åsikter (M) hindras från att fritt uttrycka sina åsikter i dagens Finland. Ange Ert svar med hjälp av kortet 41?
+
+{ANSWERS}
+0 INTE ALLS 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I YTTERST STOR UTSTRÄCKNING 
+
+E36
+{INTRO}
+Ibland är regeringen av annan åsikt än största delen av folket om vad som (M) är bäst för landet. 
+
+{QUESTION}
+Vilket påstående på kortet 42 beskriver enligt Er uppfattning vad som är bäst för demokratin i allmänhet?
+
+{ANSWERS}
+1 Regeringen bör ändra sin planerade politik som  en reaktion på vad största delen av folket anser
+2 Regeringen bör hålla fast vid sin planerade politik  oberoende av vad största delen av folket anser
+
+E37
+{QUESTION}
+Hur viktigt anser Ni att det är för demokratin i allmänhet att regeringen ändrar sin planerade politik som en reaktion på vad största delen av folket anser. Ange Ert svar med hjälp av kortet 43?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E38
+{QUESTION}
+Enligt Er uppfattning, hur ofta ändrar regeringen i dagens Finland sin planerade politik som en reaktion på vad största delen av folket anser. Ange Ert svar med hjälp av kortet 44?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID 
+
+E39
+{QUESTION}
+Hur viktigt anser Ni att det är för demokratin i allmänhet att regeringen håller fast vid sin planerade politik oberoende av vad största delen av folket anser. Ange Ert svar med hjälp av kortet 43?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E40
+{QUESTION}
+Enligt Er uppfattning, hur ofta håller regeringen i dagens Finland fast vid sin planerade politik oberoende av vad största delen av folket anser. Ange Ert svar med hjälp av kortet 44?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID 
+
+E41
+{INTRO}
+I en del länder består regeringen av endast ett parti, i andra länder av två (M) eller flera partier i koalition. 
+
+{QUESTION}
+Vilket alternativ på kortet 45 beskriver enligt Er uppfattning vad som är bäst för demokratin i allmänhet?
+
+{ANSWERS}
+1 Regeringen består av endast ett parti
+2 Regeringen består av två eller flera partier i koalition
+ 
+E42
+{QUESTION}
+Hur viktigt anser Ni att det är för demokratin i allmänhet att regeringen består av endast ett parti. Ange Ert svar med hjälp av kortet 46?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E43
+{INTRO}
+Nu följer den sista frågan kring det här ämnet.
+
+{QUESTION}
+Enligt Er uppfattning, hur ofta består regeringen i dagens Finland av endast ett parti. Ange Ert svar med hjälp av kortet 47?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID 
+
+E44
+{QUESTION}
+Hur viktigt anser Ni att det är för demokratin i allmänhet att regeringen består av två eller flera partier?
+
+{ANSWERS}
+0 INTE ALLS VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 EXTREMT VIKTIGT FÖR DEMOKRATIN I ALLMÄNHET
+
+E45
+{INTRO}
+Nu följer den sista frågan kring det här ämnet. 
+
+{QUESTION}
+Enligt Er uppfattning, hur ofta består regeringen i dagens Finland av två eller flera partier. Ange Ert svar med hjälp av kortet 47?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID 

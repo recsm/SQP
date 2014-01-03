@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Në 12 muajt e fundit, sa herë jeni përfshirë në punë vullnetare ose në organizata bamirësie? Përdorni kartelën.
+
+{ANSWERS}
+1 Së paku një herë në javë 
+2 Së paku një herë në muaj 
+3 Së paku një herë në 3 muaj 
+4 Së paku një herë në 6 muaj 
+5 Më rrallë 
+6 Kurrë 
+
+D2
+{INTRO}
+Tani disa pyetje lidhur me atë se si ndiheni për veten dhe jetën tuaj.
+
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem thoni sa dakord jeni ose nuk jeni me këto pohime. Gjithmonë jam optimist për të ardhmen time
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D3
+{QUESTION}
+Në përgjithësi ndihem shumë pozitiv për veten
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D4
+{QUESTION}
+Ndonjëherë ndihem si dështak
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D6
+{QUESTION}
+…keni pasur ndjesinë se çdo gjë kërkonte tepër mund?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D8
+{QUESTION}
+…keni qenë i lumtur?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D10
+{QUESTION}
+…keni shijuar jetën?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D11
+{QUESTION}
+…jeni ndier i mërzitur?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D12
+{QUESTION}
+… keni qenë i plogësht?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D13
+{QUESTION}
+Gjithashtu ju lutem më thoni, sa herë gjatë javës së kaluar... ...keni pasur shumë energji?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D14
+{QUESTION}
+…keni pasur ankth?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D15
+{QUESTION}
+…jeni ndier i qetë dhe në paqe?
+
+{ANSWERS}
+1 Asnjëherë ose gati asnjëherë
+2 Ndonjëherë
+3 Shumicën e kohës
+4 Gjithë kohën/gati gjithë kohën
+
+D16
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni, deri në çfarë mase jeni ose nuk jeni dakord me këto qëndrime. Ndihem i lirë të vendos vetë si ta jetoj jetën time
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D17
+{QUESTION}
+Në jetën time të përditshme kam shumë pak mundësi të tregoj sa i aftë jam
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D18
+{QUESTION}
+Shumicën e ditëve ndiej se kam arritur diçka nga ajo që bëj
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D19
+{QUESTION}
+Kur gjërat më shkojnë keq në jetë, përgjithësisht më duhet shumë kohë për t’u kthyer në normalitet
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D20
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni në çfarë mase… ...mësoni gjëra të reja në jetën tuaj?
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6 Shumë
+
+D21
+{QUESTION}
+…mendoni se njerëzit në lagjen tuaj ndihmojnë njëritjetrin?
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6 Shumë
+
+D22
+{QUESTION}
+...mendoni se njerëzit ju trajtojnë me respekt?
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6 Shumë
+
+D23
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni, deri në çfarë mase jeni ose nuk jeni dakord me këto qëndrime. Në përgjithësi ndiej se çfarë bëj në jetë është e vlefshme dhe e dobishme
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D24
+{QUESTION}
+Kështu si janë gjërat tani, është shumë e vështirë të kesh shpresa për të ardhmen e botës
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D25
+{QUESTION}
+Ka shumë gjëra të cilat mendoj se jam i zoti t’i bëj.
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D26
+{QUESTION}
+Për shumicën e njerëzve në Kosovë jeta po bëhet më e keqe dhe jo më e mire
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D27
+{QUESTION}
+Ndihem i afërt me njerëzit në lagjen time
+
+{ANSWERS}
+1 Jam plotësisht dakord
+2 Jam dakord
+3 As jam dakord as kundër
+4 Nuk jam dakord
+5 Nuk jam aspak dakord
+
+D28
+{QUESTION}
+Deri në çfarë mase i jepni kohë vetes suaj për të bërë gjëra të cilat ju me të vërtetë doni t’i bëni? Ju lutem përdorni këtë kartelë ku 0 do të thotë aspak dhe 10 do të thotë plotësisht.
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Plotësisht
+
+D29
+{QUESTION}
+Deri në çfarë mase ndiheni i vlerësuar nga njerëzit me të cilët jeni të afërt? Ju lutem përdorni të njëjtën kartelë.
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Plotësisht
+
+D30
+{QUESTION}
+Sa e vështirë apo e lehtë ju duket që të merreni me problemet e rëndësishme që dalin në jetën tuaj? Ju lutem përdorni kartelën, ku 0 do të thotë tepër e vështirë dhe 10 do të thotë tepër e lehtë.
+
+{ANSWERS}
+0 Tepër e vështirë
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Tepër e lehtë
+
+D34
+{QUESTION}
+Në një ditë të zakonshme, sa shpesh ju bie në sy dhe e vlerësoni mjedisin përreth jush?
+
+{ANSWERS}
+0 Kurrë
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Gjithmonë
+
+D35
+{QUESTION}
+Deri në çfarë mase ndjeni se keni sensin e drejtimit në jetën tuaj? Ju lutem përdorni këtë kartelë, ku 0 do të thotë aspak dhe 10 do të thotë plotësisht.
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Plotësisht
+
+D36
+{QUESTION}
+Deri në çfarë mase merrni ndihmë dhe përkrahje nga njerëzit me të cilët jeni të afërt kur keni nevojë? Ju lutem përdorni kartelën ku 0 do të thotë aspak dhe 6 do të thotë plotësisht.
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6 Plotësisht
+
+D37
+{QUESTION}
+Deri në çfarë mase ju ofroni ndihmë dhe përkrahje personave me të cilët jeni të afërt kur ata kanë nevojë?
+
+{ANSWERS}
+0 Aspak
+1
+2 
+3 
+4 
+5 
+6 Plotësisht
+
+D38
+{INTRO}
+Ka njerëz që qëndrojnë në majë të shoqërisë sonë dhe njerëz që qëndrojnë në fund të shoqërisë. Në këtë kartelë është një shkallë që fillon prej majës deri në fund.
+
+{QUESTION}
+Në ditët e sotme, ku do ta vendosnit veten në këtë shkallë?
+
+{ANSWERS}
+10 Në majë të shoqërisë sonë
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Në fund të shoqërisë tonë
+
+D39
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni në 7 ditët e fundit sa ditë keni qenë vazhdimisht aktiv fizikisht për 20 minuta ose më shumë se 20 minuta?
+
+{ANSWERS}
+0. Asnjë ditë 
+1. 1 ditë 
+2. 2 ditë 
+3. 3 ditë 
+4. 4 ditë
+5. 5 ditë 
+6. 6 ditë 
+7. 7 ditë 
+
+E1
+{INTRO}
+Tani disa pyetje rreth demokracisë. Më vonë do t’ju pyes se si po funksionon demokracia në Kosovë. Megjithatë, së pari do të doja që të mendoni se sa të rëndësishme janë disa gjëra te ndryshme për demokracinë në përgjithësi. Nuk ka përgjigje të saktë ose të gabuar kështu që thjesht më thoni çfarë mendoni.
+
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni sa e rëndësishme është për demokracinë në përgjithësi... ...që zgjedhjet e përgjithshme të jenë të lira dhe të ndershme?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E2
+{QUESTION}
+...që votuesit të diskutojnë për politikë me njerëzit që njohin para se të vendosin për cilin të votojnë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E3
+{QUESTION}
+…që parti të ndryshme të ofrojnë alternativa të dallueshme nga njëra-tjetra?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E4
+{QUESTION}
+...që partitë në opozitë të jenë të lira të kritikojnë qeverinë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E5
+{QUESTION}
+…që mediat të jenë të lira të kritikojnë qeverinë
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E6
+{QUESTION}
+Përsëri po flasim më shumë për demokracinë në përgjithësi se sa vetëm për demokracinë në Kosovë, sa e rëndësishme është për demokracinë në përgjithësi... ...që mediat t’u ofrojnë qytetarëve informacione të sakta në mënyrë që të vlerësojnë punën e qeverisë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E7
+{QUESTION}
+...që të drejtat e pakicave të mbrohen?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E8
+{QUESTION}
+...që qytetarët të kenë fjalën e fundit për shumicën e çështjeve të rëndësishme politike duke i votuar ato drejtpërdrejt në referendume?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E9
+{QUESTION}
+....që imigrantët të kenë të drejtë vote në zgjedhjet e përgjithshme vetëm kur të marrin shtetësinë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E10
+{QUESTION}
+...që gjykatat t’i trajtojnë të gjithë njëjtë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E11
+{QUESTION}
+...që gjykatat të jenë në gjendje të ndalojnë qeverinë nëse tejkalon autoritetin e saj?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E12
+{QUESTION}
+Përsëri po flasim më shumë për demokracinë në përgjithësi se sa vetëm për demokracinë në Kosovë, sa e rëndësishme është për demokracinë në përgjithësi... ...që partitë në qeverisje të ndëshkohen në zgjedhje duke marrë më pak vota kur bëjnë punë të keqe?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E13
+{QUESTION}
+...që qeveria të mbrojë të gjithë qytetarët kundër varfërisë?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E14
+{QUESTION}
+...që qeveria t’u shpjegojë votuesve vendimet saj?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E15
+{QUESTION}
+...që qeveria të marrë masa për të zvogëluar dallimet në nivelet e të ardhurave?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E16
+{QUESTION}
+Sa e rëndësishme mendoni se është për demokracinë në përgjithësi... ...që politikanët të marrin parasysh pikëpamjet e qeverive tjera Evropiane përpara se të marrin vendime?
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E17
+{INTRO}
+Tani, disa pyetje për të njëjtat tema, por këtë herë lidhur me atë që ju mendoni se si po funksionon demokracia në Kosovë në ditët e sotme. Nuk ka përgjigje të saktë ose të gabuar kështu që thjesht më thoni çfarë mendoni.
+
+{QUESTION}
+Duke përdorur këtë kartelë, ju lutem më thoni deri në çfarë mase qendron secili nga këto pohime për Kosovën. 0 do të thotë se mendoni që pohimi nuk qendron aspak dhe 10 mendoni se pohimi qendron plotësisht. Zgjedhjet e përgjithshme në Kosovë janë të lira dhe të ndershme
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E18
+{QUESTION}
+Votuesit në Kosovë diskutojnë për politikë me njerëzit që njohin para se të vendosin për cilin të votojnë
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E19
+{QUESTION}
+Partitë e ndryshme politike në Kosovë ofrojnë alternativa të dallueshme nga njëra-tjetra
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E23
+{QUESTION}
+Të drejtat e pakicave në Kosovë janë të mbrojtura
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E24
+{QUESTION}
+Qytetarët në Kosovë kanë fjalën e fundit për shumicën e çështjeve të rëndësishme politike duke i votuar ato drejtpërdrejt në referendume
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E25
+{QUESTION}
+Gjykatat në Kosovë i trajtojnë të gjithë njëjtë
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E26
+{QUESTION}
+Duke përdorur të njëjtën kartelë, ju lutem më thoni deri në çfarë masë qendrojnë secili nga këto pohime për Kosovën. Partitë që qeverisin në Kosovë ndëshkohen në zgjedhje kur bëjnë punë të keqe
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E27
+{QUESTION}
+Qeveria në Kosovë i mbron të gjithë qytetarët nga varfëria
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E28
+{QUESTION}
+Qeveria e Kosovësë iu shpjegon votuesve vendimet e saj
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E29
+{QUESTION}
+Qeveria në Kosovë merr masa për të zvogëluar dallimet në nivelet e të ardhurave
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E30
+{QUESTION}
+Dhe deri në çfarë masë qendrojnë secili nga këto pohime për Kosovën? Politikanët në Kosovë marrin parasysh pikëpamjet e qeverive të tjera evropiane përpara se të marrin vendime.
+
+{ANSWERS}
+0 Nuk qendron aspak
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Qendron plotësisht
+
+E31
+{INTRO}
+Në pyetjet në vijim, së pari do t’ju kërkoj të zgjidhni ndërmjet dy mundësive. Pastaj do t’ju pyes se sa e rëndësishme është zgjedhja juaj për demokracinë në përgjithësi. Në fund, do të kërkoj nga ju që të mendoni për këtë çështje në Kosovë në ditët e sotme. Kini parasysh se nuk ka përgjigje të saktë ose të gabuar, kështu që më thoni thjesht çfarë mendoni. 
+Ka mendime të ndryshme nëse duhet apo jo që secili individ të jetë i lirë të shprehë qëndrimet e veta hapur në demokraci, edhe nëse ato janë ekstreme.
+
+{QUESTION}
+Cili nga qëndrimet në këtë kartelë përcakton më mirë mendimin tuaj për demokracinë në përgjithësi?
+
+{ANSWERS}
+1 Secili duhet të jetë i lirë të shprehë hapur pikëpamjet e veta politike, edhe nëse ato janë ekstreme
+2 Ata që kanë pikëpamje politike ekstreme duhet të ndalohen që t’i shprehin ato hapur
+
+E32
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që secili individ të jetë i lirë të shprehë pikëpamjet e veta politike hapur, edhe nëse ato janë ekstreme? Ju lutem përdorni këtë kartelë.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E33
+{QUESTION}
+Duke përdorur këtë kartelë, në ditët e sotme, sa i lirë është gjithsecili në Kosovë që të shprehë pikëpamjet e veta politike hapur, edhe nëse ato janë ekstreme?
+
+{ANSWERS}
+0 Aspak
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Plotësisht
+
+E34
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që ata që kanë pikëpamje politike ekstreme, të mos lejohen t’i shprehin ato hapur? Ju lutem përdorni kartelën.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E35
+{QUESTION}
+Duke përdorur këtë kartelë, më thoni deri në çfarë mase ndalohen ata që kanë pikëpamje politike ekstreme që t’i shprehin ato hapur në ditët e sotme në Kosovë?
+
+{ANSWERS}
+0 Aspak
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Plotësisht
+
+E36
+{INTRO}
+Ndonjëherë qeveria nuk pajtohet me atë që shumica e njerëzve mendon se është më e mira për vendin.
+
+{QUESTION}
+Cili nga qëndrimet në këtë kartelë përcakton më mirë mendimin tuaj për demokracinë në përgjithësi?
+
+{ANSWERS}
+1 Qeveria duhet të ndryshojë politikat e planifikuara për t’iu përgjigjur mendimit të shumicës së njerëzve
+2 Qeveria duhet t’u përmbahet politikave të planifikuara, pavarësisht mendimit të shumicës së njerëzve
+
+E37
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që qeveria t’i ndryshojë politikat e planifikuara për t’iu përgjigjur mendimit të shumicës së njerëzve? Ju lutem përdorni këtë kartelë.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E38
+{QUESTION}
+Duke përdorur këtë kartelë, më thoni sa herë i ndryshon qeveria politikat e planifikuara për t’iu përgjigjur mendimit të shumicës së njerëzve në ditët e sotme në Kosovë?
+
+{ANSWERS}
+0 Kurrë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gjithmonë
+
+E39
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që qeveria t’u përmbahet politikave të planifikuara pavarësisht se çfarë mendon shumica e njerëzve? Ju lutem përdorni këtë kartelë.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E40
+{QUESTION}
+Duke përdorur këtë kartelë, më thoni sa shpesh qeveria u përmbahet politikave të planifikuara pavarësisht mendimit të shumicës së njerëzve në Kosovë në ditët e sotme?
+
+{ANSWERS}
+0 Kurrë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gjithmonë
+
+E41
+{INTRO}
+Në disa shtete qeveria formohet vetëm nga një parti ndërsa në disa shtete të tjera nga dy ose më shumë parti në koalicion.
+
+{QUESTION}
+Cili nga qëndrimet në këtë kartelë përcakton më mirë mendimin tuaj për demokracinë në përgjithësi?
+
+{ANSWERS}
+1 Vetëm një parti formon qeverinë
+2 Dy ose më shumë parti në koalicion formojnë qeverinë
+ 
+E42
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që qeveria të formohet vetëm nga një parti? Ju lutem përdorni kartelën.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E43
+{INTRO}
+Tani pyetja e fundit për këtë temë.
+
+{QUESTION}
+Duke përdorur këtë kartelë, më thoni sa shpesh qeveria në Kosovë është formuar nga një parti e vetme?
+
+{ANSWERS}
+0 Kurrë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gjithmonë
+
+E44
+{QUESTION}
+Sa e rëndësishme është për demokracinë në përgjithësi që qeveria të formohet nga dy ose më shumë parti në koalicion? Ju lutem përdorni kartelën.
+
+{ANSWERS}
+0 Aspak e rëndësishme për demokracinë në përgjithësi
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Tepër e rëndësishme për demokracinë në përgjithësi
+
+E45
+{INTRO}
+Tani pyetja e fundit për këtë temë.
+
+{QUESTION}
+Duke përdorur këtë kartelë, më thoni sa shpesh qeveria në Kosovë është formuar nga dy ose më shumë parti në koalicion? Ju lutem përdorni kartelën.
+
+{ANSWERS}
+0 Kurrë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gjithmonë

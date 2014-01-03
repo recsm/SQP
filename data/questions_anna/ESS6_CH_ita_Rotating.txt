@@ -1,0 +1,1255 @@
+﻿D1
+{QUESTION}
+Negli ultimi 12 mesi, con che frequenza è stato coinvolto in attività di volontariato o con organizzazioni di carità? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+1 Almeno una volta per settimana
+2 Almeno una volta al mese
+3 Almeno una volta ogni 3 mesi
+4 Almeno una volta ogni 6 mesi
+5 Meno spesso
+6 Mai
+
+D2
+{INTRO}
+Adesso vogliamo porle alcune domande su come si sente riguardo a se stesso/a ed alla sua vita.
+
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è d'accordo o in disaccordo con le seguenti affermazioni. Sono sempre ottimista sul mio futuro.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D3
+{QUESTION}
+In generale ho un sentimento positivo nei confronti di me stesso/a.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D4
+{QUESTION}
+A volte ho la sensazione di essere un/a fallito/a.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D5
+{INTRO}
+Le leggerò ora una lista di modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana. 
+
+{QUESTION}
+Usando questa scheda mi dica per cortesia quanto tempo durante la scorsa settimana ... ... si è sentito/a depresso/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D6
+{QUESTION}
+... le è sembrato che tutto ciò che faceva costituisse un grande sforzo?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D7
+{QUESTION}
+... il suo sonno è stato agitato?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D8
+{QUESTION}
+... è stato/a felice?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D9
+{QUESTION}
+... si è sentito/a solo/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D10
+{QUESTION}
+... si è goduto/a la vita?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D11
+{QUESTION}
+... si è sentito/a triste?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D12
+{QUESTION}
+... si è sentito/a esausto/a e demotivato/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D13
+{QUESTION}
+E per favore mi dica per quanto tempo durante la scorsa settimana ... ... si è sentito/a pieno/a di energia?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D14
+{QUESTION}
+... si è sentito/a ansioso/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D15
+{QUESTION}
+... si è sentito/a calmo/a e tranquillo/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D16
+{QUESTION}
+Utilizzando questa scheda, indichi per favore in che misura è in accordo o in disaccordo con ciascuna di queste affermazioni. Mi sento libero/a di decidere come vivere la mia vita.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D17
+{QUESTION}
+Nella mia vita quotidiana ho scarsissime possibilità di mostrare le mie effettive capacità.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D18
+{QUESTION}
+Spesso mi sento realizzato/a in quel che faccio.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D19
+{QUESTION}
+Quando qualcosa va storto nella mia vita, mi occorre molto tempo per ritornare alla normalità.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D20
+{QUESTION}
+Utilizzando questa scheda, indichi per favore in che misura ... … impara cose nuove nella sua vita?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6 Molto
+
+D21
+{QUESTION}
+... ritiene che le persone nella zona in cui vive siano disponibili ad aiutarsi vicendevolmente?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6 Molto
+
+D22
+{QUESTION}
+... ritiene che le persone la trattino con rispetto?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6 Molto
+
+D23
+{QUESTION}
+Utilizzando questa scheda, indichi per favore in che misura è in accordo o in disaccordo con ciascuna di queste affermazioni. In generale ritengo che quello che faccio nella vita sia valido e meritevole.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D24
+{QUESTION}
+Considerato come vanno le cose oggigiorno, trovo difficile avere speranza nel futuro del mondo.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D25
+{QUESTION}
+Ci sono molte cose che credo di poter fare bene.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D26
+{QUESTION}
+Per la maggior parte delle persone in Svizzera la vita peggiora piuttosto che migliorare.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D27
+{QUESTION}
+Sento un certo legame con le persone che vivono nella mia zona.
+
+{ANSWERS}
+1 Totalmente d'accordo
+2 D'accordo
+3 Né d'accordo né in disaccordo
+4 In disaccordo
+5 Totalmente in disaccordo
+
+D28
+{QUESTION}
+In che misura si prende il tempo per fare le cose a cui tiene davvero? Utilizzi questa scheda dove 0 indica per niente e 10 completamente.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D29
+{QUESTION}
+In che misura si sente stimato/a dalle persone che le sono vicine? Utilizzi la stessa scheda.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D30
+{QUESTION}
+Quanto trova difficile o facile affrontare i problemi importanti che si presentano nella sua vita? Utilizzi questa scheda, dove 0 indica estramemente difficile e 10 estremamente facile.
+
+{ANSWERS}
+0 Estremamente difficile
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente facile
+
+D31
+{QUESTION}
+Per le prossime tre domande utilizzi la SCHEDA 31. In genere, con che frequenza ritiene di essere... … interessato/a a ciò che fa?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D32
+{QUESTION}
+… assorto/a da ciò che fa?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D33
+{QUESTION}
+… entusiasta di ciò che fa?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D34
+{QUESTION}
+In una giornata normale, con che frequenza presta attenzione ed apprezza ciò che la circonda?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D35
+{QUESTION}
+'Fino a che punto ha la sensazione di sapere in che direzione andare nella sua vita? Utilizzi questa scheda dove 0 indica per niente e 10 completamente.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D36
+{QUESTION}
+Fino a che punto Lei riceve aiuto e sostegno dalle persone che le sono vicine quando ne ha bisogno? Utilizzi questa scheda dove 0 corrisponde a per niente e 6 a completamente.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6 Completamente
+
+D37
+{QUESTION}
+E fino a che punto Lei dà aiuto e sostegno alle persone che le sono vicine quando sono loro ad averne bisogno?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6 Completamente
+
+D38
+{INTRO}
+Nella nostra società c'è chi sta piuttosto in alto e chi sta piuttosto in basso. La scheda indica una scala che va dall'alto al basso.
+
+{QUESTION}
+Attualmente, dove si situerebbe lei su questa scala?
+
+{ANSWERS}
+10 In alto de la nostra società
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 In basso de la nostra società
+
+D39
+{QUESTION}
+Utilizzando questa scheda, indichi in quanti degli ultimi 7 giorni ha svolto un'attività fisica per almeno 20 minuti senza interruzione?
+
+{ANSWERS}
+0. Neanche un giorno
+1. Un giorno
+2. Due giorni
+3. Tre giorni
+4. Quattro giorni
+5. Cinque giorni
+6. Sei giorni
+7. Sette giorni
+
+E1
+{INTRO}
+Ora le farò alcune domande sulla democrazia. In seguito le chiederò come funziona la democrazia in Svizzera. Prima, però, vorrei che pensasse all'importanza di alcuni elementi per la democrazia in generale. Non ci sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa.
+
+{QUESTION}
+Usando questa scheda la prego di dirmi quanto pensa sia importante per la democrazia in generale ... ... che le elezioni nazionali siano libere ed eque?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E2
+{QUESTION}
+... che prima di decidere come votare gli elettori discutano di politica con i loro conoscenti?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E3
+{QUESTION}
+... che i vari partiti politici rappresentino alternative chiare?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E4
+{QUESTION}
+... che i partiti di opposizione siano liberi di criticare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E5
+{QUESTION}
+... che i media siano liberi di criticare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E6
+{QUESTION}
+Sempre in generale e non a proposito della Svizzera, quanto pensa sia importante per la democrazia in generale ... ... che i media forniscano ai cittadini informazioni attendibili per giudicare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E7
+{QUESTION}
+... che i diritti delle minoranze siano tutelati?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E8
+{QUESTION}
+... che i cittadini abbiano l'ultima parola sui temi politici più importanti esprimendosi direttamente alle urne?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E9
+{QUESTION}
+... che gli immigrati possano votare alle elezioni nazionali solo dopo aver ottenuto la cittadinanza?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E10
+{QUESTION}
+... che i tribunali trattino tutti allo stesso modo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E11
+{QUESTION}
+... che i tribunali possano impedire al governo di andare oltre i suoi poteri?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E12
+{QUESTION}
+Sempre in generale e non a proposito della Svizzera, quanto pensa sia importante per la democrazia in generale ... ... che i partiti al governo che hanno lavorato male perdano dei voti alle seguenti elezioni?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E13
+{QUESTION}
+... che il governo protegga tutti i cittadini dalla povertà?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E14
+{QUESTION}
+... che il governo spieghi le sue decisioni agli elettori?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E15
+{QUESTION}
+... che il governo adotti misure per ridurre le differenze di reddito?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E16
+{QUESTION}
+E quanto pensa sia importante per la democrazia in generale ... ...che prima di prendere decisioni i politici tengano conto della posizione di altri governi in Europa?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E17
+{INTRO}
+Adesso alcune domande sugli stessi argomenti, ma questa volta su come pensa che la democrazia funzioni in Svizzera oggi. Ancora una volta non ci sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa.
+
+{QUESTION}
+Usando questa scheda mi dica quanto pensa che ognuna delle seguenti affermazioni sia pertinente per la Svizzera. 0 significa che secondo Lei l'affermazione non è affatto pertinente e 10 significa che secondo Lei è completamente pertinente. Le elezioni federali in Svizzera sono libere ed eque.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E18
+{QUESTION}
+Prima di decidere come votare, gli elettori in Svizzera discutono di politica con i loro conoscenti.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E19
+{QUESTION}
+I partiti politici in Svizzera rappresentano alternative chiare.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E20
+{QUESTION}
+In Svizzera i partiti di opposizione sono liberi di criticare il governo.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E21
+{QUESTION}
+I media in Svizzera sono liberi di criticare il governo.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E22
+{QUESTION}
+Usando la stessa scheda mi dica quanto pensa che ognuna di queste affermazioni sia pertinente per la Svizzera. In Svizzera i media forniscono ai cittadini informazioni attendibili per giudicare il governo.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E23
+{QUESTION}
+In Svizzera i diritti delle minoranze sono tutelati.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E24
+{QUESTION}
+In Svizzera i cittadini hanno l'ultima parola sui temi politici più importanti e possono esprimersi direttamente alle urne.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E25
+{QUESTION}
+I tribunali in Svizzera trattano tutti allo stesso modo.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E26
+{QUESTION}
+E sempre con la stessa scheda mi dica quanto pensa che ognuna di queste affermazioni sia pertinente per la Svizzera. In Svizzera i partiti al governo che hanno lavorato male perdono dei voti alle seguenti elezioni.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E27
+{QUESTION}
+In Svizzera il governo protegge tutti i cittadini dalla povertà.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E28
+{QUESTION}
+In Svizzera il governo spiega le sue decisioni agli elettori.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E29
+{QUESTION}
+In Svizzera il governo adotta misure per ridurre le differenze di reddito.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E30
+{QUESTION}
+E questa affermazione quanto è pertinente per la Svizzera? In Svizzera prima di prendere decisioni, i politici tengono conto della posizione di altri governi in Europa.
+
+{ANSWERS}
+0 Per niente pertinente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente pertinente
+
+E31
+{INTRO}
+Per le prossime domande le chiederò, per prima cosa, di scegliere tra due opzioni. Poi le chiederò quanto pensa che la sua scelta sia importante per la democrazia in generale. Ed infine, le chiederò di pensare alla situazione attuale in Svizzera. Le ricordo che non vi sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa.
+Alcuni pensano che in democrazia ognuno dovrebbe essere libero di esprimere apertamente le proprie opinioni politiche, anche se sono estreme. Altri non condividono questo parere.
+
+{QUESTION}
+Quale delle affermazioni su questa scheda descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Ognuno dovrebbe essere libero di esprimere apertamente le proprie opinioni politiche, anche se sono estreme
+2 Bisognerebbe impedire a coloro che hanno opinioni politiche estreme di esprimerle apertamente
+
+E32
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che ognuno sia libero di esprimere le sue opinioni politiche apertamente, anche se sono estreme? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E33
+{QUESTION}
+Utilizzando questa scheda, quanto pensa che oggi in Svizzera ognuno sia libero di esprimere apertamente le proprie opinioni politiche, anche se estreme?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E34
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che s'impedisca a coloro che hanno opinioni politiche estreme di esprimerle apertamente? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E35
+{QUESTION}
+Utilizzando questa scheda, in che misura pensa che oggi in Svizzera s'impedisca a chi ha opinioni politiche estreme di esprimerle apertamente?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E36
+{INTRO}
+A volte il governo non è d'accordo con ciò che la maggior parte della gente pensa sia meglio per il Paese.
+
+{QUESTION}
+Quale delle affermazioni su questa scheda descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Il governo dovrebbe cambiare le misure previste in funzione di ciò che pensa la maggior parte della gente
+2 Il governo dovrebbe attenersi alle misure previste senza curarsi di ciò che pensa la maggior parte della gente
+
+E37
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo cambi le misure previste in funzione di ciò che pensa la maggior parte della gente? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E38
+{QUESTION}
+Utilizzando questa scheda, secondo Lei con che frequenza oggi il governo svizzero cambia le misure previste in funzione di ciò che pensa la maggior parte della gente?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E39
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo si attenga alle misure previste senza curarsi di ciò che pensa la maggior parte della gente? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+
+E40
+{QUESTION}
+Utilizzando questa scheda, secondo Lei con che frequenza oggi il governo svizzero si attiene alle misure previste senza curarsi di ciò che pensa la maggior parte della gente?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E41
+{INTRO}
+In alcuni paesi il governo è formato da un unico partito, in altri da due o più partiti. 
+
+{QUESTION}
+Quale delle opzioni su questa scheda descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Il governo è formato da un unico partito
+2 Il governo è formato da due o più partiti
+
+E42
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo sia formato da un unico partito? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E43
+{INTRO}
+Passiamo ora all'ultima domanda su quest'argomento.
+
+{QUESTION}
+Utilizzando questa scheda, secondo Lei con che frequenza il governo in Svizzera è formato da un unico partito?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E44
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo sia formato da due o più partiti? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E45
+{INTRO}
+Passiamo ora all'ultima domanda su quest'argomento.
+
+{QUESTION}
+Utilizzando questa scheda, secondo Lei con quale frequenza il governo in Svizzera è formato da due o più partiti?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre

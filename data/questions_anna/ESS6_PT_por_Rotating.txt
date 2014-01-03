@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Nos últimos 12 meses, com que frequência colaborou em atividades para organizações de caridade e de voluntariado? Utilize por favor este cartão.
+
+{ANSWERS}
+1 Pelo menos uma vez por semana
+2 Pelo menos uma vez por mês
+3 Pelo menos uma vez em cada três meses
+4 Pelo mesmo uma vez em cada seis meses
+5 Ainda menos do que isso
+6 Nunca
+
+D2
+{INTRO}
+Gostava agora de lhe fazer algumas perguntas sobre o modo como se sente consigo próprio(a) e com a sua vida
+
+{QUESTION}
+Utilizando este cartão, diga, por favor, em que medida concorda ou discorda com cada uma das seguintes frases. Sou sempre otimista em relação ao meu futuro.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D3
+{QUESTION}
+De um modo geral, tenho sentimentos muito positivos a meu respeito.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D4
+{QUESTION}
+Por vezes sinto-me um(a) falhado(a).
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D6
+{QUESTION}
+...sentir que tudo o que fez foi com esforço?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D8
+{QUESTION}
+...sentir-se feliz?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D10
+{QUESTION}
+…sentir-se satisfeito(a) com a sua vida?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D11
+{QUESTION}
+...sentir-se triste?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D12
+{QUESTION}
+...sentir-se em baixo?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D13
+{QUESTION}
+E diga-me com que frequência lhe aconteceu durante a última semana... ...sentir-se cheio(a) de energia?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D14
+{QUESTION}
+..sentir-se ansioso(a)?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D15
+{QUESTION}
+...sentir-se calmo(a) e tranquilo(a)?
+
+{ANSWERS}
+1 Nunca ou quase nunca
+2 Algumas vezes
+3 A maior parte das vezes
+4 Sempre ou quase sempre
+
+D16
+{QUESTION}
+Utilizando este cartão, diga por favor em que medida concorda ou discorda de cada uma das seguintes frases. Sinto que sou livre de decidir por mim próprio(a) como viver a minha vida.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D17
+{QUESTION}
+No meu dia-a-dia, tenho muito poucas oportunidades para mostrar do que realmente sou capaz.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D18
+{QUESTION}
+A maior parte dos dias sinto-me realizado(a) com o que faço.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D19
+{QUESTION}
+Quando as coisas me correm mal, normalmente preciso de muito tempo para voltar ao normal
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D20
+{QUESTION}
+Utilizando este cartão, diga, por favor, em que medida …  …aprende coisas novas na sua vida.
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Sempre
+
+D21
+{QUESTION}
+…sente que as pessoas da sua área de residência se ajudam umas às outras?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Sempre
+
+D22
+{QUESTION}
+… sente que as pessoas o(a) tratam com respeito?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Sempre
+
+D23
+{QUESTION}
+Utilizando este cartão, diga por favor em que medida concorda ou discorda de cada uma das seguintes frases. De uma forma geral sinto que o que faço na minha vida tem valor e vale a pena.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D24
+{QUESTION}
+Da forma como as coisas estão agora, sinto que é difícil ter esperança no futuro do mundo.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D25
+{QUESTION}
+Há muitas coisas que eu sinto que sei fazer bem.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D26
+{QUESTION}
+Para a maior parte das pessoas em Portugal a vida está a piorar em vez de melhorar.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D27
+{QUESTION}
+Sinto-me próximo(a) das pessoas da minha área de residência.
+
+{ANSWERS}
+1 Concordo totalmente
+2 Concordo
+3 Nem concordo nem discordo
+4 Discordo
+5 Discordo totalmente
+
+D28
+{QUESTION}
+Em que medida arranja tempo para fazer as coisas que realmente quer fazer? Utilize, por favor, este cartão em que 0 significa nada e 10 significa totalmente.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente
+
+D29
+{QUESTION}
+Em que medida sente que as pessoas que lhe são próximas o (a) valorizam e respeitam? Por favor, utilize o mesmo cartão.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente
+
+D30
+{QUESTION}
+Em que medida acha fácil ou difícil lidar com os problemas importantes que surgem na sua vida? Utilize, por favor, este cartão, em que o 0 significa “extremamente difícil” e o 10 significa “extremamente fácil”
+
+{ANSWERS}
+0 Extremamente difícil
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente fácil
+
+D34
+{QUESTION}
+Num dia normal, com que frequência repara e aprecia aquilo que o(a) rodeia?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D35
+{QUESTION}
+Em que medida sente que tem um rumo para a sua vida? Utilize, por favor, este cartão em que 0 significa nada e 10 significa totalmente.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente
+
+D36
+{QUESTION}
+Em que medida acha que recebe apoio e ajuda das pessoas que lhe são próximas quando precisa? Utilize, por favor, este cartão em que 0 significa nada e 6 significa totalmente.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6 Totalmente
+
+D37
+{QUESTION}
+E em que medida acha que dá apoio e ajuda às pessoas que lhe são próximas quando elas precisam?
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6 Totalmente
+
+D38
+{INTRO}
+De uma forma geral, umas pessoas estão no topo da nossa sociedade e outras estão na base. Este cartão representa uma escala que vai desde o topo até à base.
+
+{QUESTION}
+Em que ponto da escala acha que se encontra atualmente?
+
+{ANSWERS}
+10 Topo da nossa sociedade
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 Base da nossa sociedade
+
+D39
+{QUESTION}
+Utilizando este cartão, indique por favor quantos dias ao longo dos últimos 7 esteve fisicamente ativo, de forma contínua, durante 20 minutos ou mais.
+
+{ANSWERS}
+0. Nenhum dia
+1. Um dia
+2. Dois dias
+3. Três dias
+4. Quatro dias
+5. Cinco dias
+6. Seis dias
+7. Sete dias
+
+E1
+{INTRO}
+Gostaria agora de lhe colocar algumas questões sobre a democracia. E depois gostaria de lhe perguntar sobre como a democracia está a funcionar em Portugal. Mas, primeiro gostaria que pensasse na importância que alguns aspetos têm para a democracia em geral. Para estas questões não há respostas certas ou erradas. Por isso, diga-me apenas aquilo que pensa.
+
+{QUESTION}
+Utilizando este cartão, diga-me, por favor, em que medida acha que é importante para a democracia em geral … ...que as eleições legislativas sejam livres e justas?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E2
+{QUESTION}
+...que os eleitores conversem sobre política com as pessoas que conhecem antes de decidirem em quem votar?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E3
+{QUESTION}
+...que os diferentes partidos politicos apresentem alternativas claras entre si?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E4
+{QUESTION}
+..que os partidos da oposição sejam livres para criticar o governo?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E5
+{QUESTION}
+…que a comunicação social seja livre para criticar o governo?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E6
+{QUESTION}
+Continuando a pensar em termos gerais, e não especificamente no caso de Portugal, diga-me em que medida acha que é importante para a democracia em geral …  ...que a comunicação social dê aos cidadãos informação correta para avaliar o governo?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E7
+{QUESTION}
+...que os direitos das minorias sejam protegidos?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E8
+{QUESTION}
+...que os cidadãos tenham a última palavra nos assuntos politicos mais importantes votando diretamente sobre eles em referendos?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E9
+{QUESTION}
+… que os imigrantes só tenham o direito de votar nas eleições legislativas do país em que vivem depois de se tornarem cidadãos desse país.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E10
+{QUESTION}
+...que os tribunais tratem todas as pessoas da mesma maneira?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E11
+{QUESTION}
+...que os tribunais possam impedir que o governo tome medidas para além dos seus poderes?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E12
+{QUESTION}
+Continuando a pensar em termos gerais, e não especificamente no caso de Portugal, diga-me em que medida acha que é importante para a democracia em geral …  ...que os partidos do governo sejam castigados nas eleições quando fazem um mau trabalho?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E13
+{QUESTION}
+...que o governo proteja todos os cidadãos da pobreza?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E14
+{QUESTION}
+...que o governo explique as suas decisões aos eleitores?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E15
+{QUESTION}
+...que o governo tome medidas para reduzir as diferenças nos níveis de rendimentos?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E16
+{QUESTION}
+E em que medida acha importante para a democracia em geral …  ...que os políticos tenham em conta as opiniões de outros governos Europeus antes de tomarem decisões?
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E17
+{INTRO}
+Gostaria agora de lhe colocar mais algumas questões sobre os mesmos assuntos, mas desta vez o que interessa é a sua opinião como funciona atualmente a democracia em Portugal Também para estas questões não há respostas certas ou erradas. Por isso, diga-me apenas aquilo que pensa.
+
+{QUESTION}
+Usando este cartão, diga por favor em que medida acha que as seguintes afirmações se aplicam a Portugal. 0 significa que acha que a frase não se aplica nada e 10 significa que se aplica totalmente. Em Portugal, as eleições legislativas são livres e justas.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E18
+{QUESTION}
+Em Portugal, os eleitores conversam sobre política com as pessoas que conhecem antes de decidirem em quem votar.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E19
+{QUESTION}
+Em Portugal, os diferentes partidos politicos apresentam alternativas claras entre si.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E23
+{QUESTION}
+Em Portugal, os direitos das minorias são protegidos
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E24
+{QUESTION}
+Em Portugal, os cidadãos têm a última palavra nos assuntos políticos mais importantes votando diretamente sobre eles em referendos
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E25
+{QUESTION}
+Em Portugal,os tribunais tratam todas as pessoas da mesma maneira
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E26
+{QUESTION}
+Usando o mesmo cartão, diga-me, por favor, em que medida acha que cada um das seguintes afirmações se aplica a Portugal. Em Portugal, os partidos do governo que fazem um mau trabalho são castigados nas eleições.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E27
+{QUESTION}
+Em Portugal, o governo proteje todos os cidadãos da pobreza.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E28
+{QUESTION}
+Em Portugal, o governo explica as suas decisões aos eleitores.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E29
+{QUESTION}
+Em Portugal, o governo toma medidas para reduzir as diferenças nos níveis de rendimento.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E30
+{QUESTION}
+E em que medida acha que a seguinte afirmação se aplica a Portugal? Em Portugal,os politicos têm em conta as opiniões de outros governos Europeus antes de tomarem decisões.
+
+{ANSWERS}
+0 Não se aplica nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Aplica-se totalmente
+
+E31
+{INTRO}
+Nas questões seguintes, vou primeiro pedir-lhe para escolher uma de duas opções. Depois vou perguntar-lhe em que medida considera importante a sua opção para a democracia em geral. Por fim, vou perguntar-lhe o que pensa sobre esse assunto em Portugal atualmente. Também para estas questões não há respostas certas ou erradas. Por isso, diga-me apenas aquilo que pensa. 
+Há opiniões diferentes sobre se numa democracia todas as pessoas devem ou não ter liberdade para exprimir abertamente as suas opiniões políticas, mesmo que sejam extremistas.
+
+{QUESTION}
+Qual das afirmações neste cartão descreve aquilo que acha ser melhor para a democracia em geral?
+
+{ANSWERS}
+1  Todas as pessoas devem ser livres para exprimir abertamente as suas opiniões políticas, mesmo que sejam extremistas
+2  As pessoas que têm opiniões políticas extremistas devem ser impedidas de as exprimir abertamente
+
+E32
+{QUESTION}
+Em que medida acha importante para a democracia em geral que todas as pessoas sejam livres para exprimir as suas opiniões políticas, mesmo que estas sejam extremistas. Utilize por favor este cartão.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E33
+{QUESTION}
+Com este cartão, diga em que medida acha que em Portugal atualmente todas as pessoas são livres para exprimir as suas opiniões políticas, mesmo que estas sejam extremistas.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente
+
+E34
+{QUESTION}
+Em que medida considera importante, para a democracia em geral, que as pessoas que têm opiniões políticas extremistas sejam impedidas de as exprimir? Utilize por favor este cartão.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E35
+{QUESTION}
+Com este cartão, diga em que medida acha que em Portugal, atualmente, as pessoas que têm ideias políticas extremistas são impedidas de as exprimir abertamente.
+
+{ANSWERS}
+0 Nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente
+
+E36
+{INTRO}
+Por vezes o governo discorda daquilo que a maioria das pessoas acha que é melhor para o país.
+
+{QUESTION}
+Qual das afirmações neste cartão descreve aquilo que acha ser melhor para a democracia em geral?
+
+{ANSWERS}
+1 O governo deve alterar as políticas que planeou para responder ao que a maioria das pessoas pensa.
+2 O governo deve manter inalteradas as políticas que planeou, independentemente do que a maioria das pessoas pensa.
+
+E37
+{QUESTION}
+Em que medida acha importante, para a democracia em geral, que o governo altere as políticas que planeou para responder ao que a maioria das pessoas pensa. Utilize por favor este cartão.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E38
+{QUESTION}
+E com que frequência acha que em Portugal, actualmente, o governo altera as políticas que planeou para responder ao que a maioria das pessoas pensa?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E39
+{QUESTION}
+Em que medida acha importante, para a democracia em geral, que o governo mantenha inalteradas as políticas que planeou independentemente daquilo que a maioria das pessoas pensa.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E40
+{QUESTION}
+E com que frequência acha que em Portugal, actualmente, o governo mantém inalteradas as políticas que planeou independentemente daquilo que a maioria das pessoas pensa?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E41
+{INTRO}
+Há países em que o governo é formado por um só partido, e há outros em que o governo é formado por dois ou mais partidos em coligação.
+
+{QUESTION}
+Qual das afirmações neste cartão descreve aquilo que acha ser melhor para a democracia em geral?
+
+{ANSWERS}
+1 O governo ser formado por um só partido.
+2 O governo ser formado por dois ou mais partidos em coligação
+
+E42
+{QUESTION}
+Em que medida acha importante, para a democracia em geral, que o governo seja formado por um só partido. Utilize por favor este cartão.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E43
+{INTRO}
+E agora a última pergunta sobre este assunto.
+
+{QUESTION}
+Utilizando este cartão, diga-me, por favor, com que frequência acha que os governos em Portugal são formados por um só partido.
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E44
+{QUESTION}
+Em que medida acha importante, para a democracia em geral, que o governo seja formado por dois ou mais partidos em coligação? Utilize por favor este cartão.
+
+{ANSWERS}
+0 Nada importante para a democracia em geral
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente importante para a democracia em geral
+
+E45
+{INTRO}
+Uma última pergunta sobre este assunto.
+
+{QUESTION}
+E com que frequência acha que, os governos em Portugal são formados por dois ou mais partidos em coligação.
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre

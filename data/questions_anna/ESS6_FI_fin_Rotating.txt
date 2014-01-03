@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Kuinka usein viimeisten kahdentoista kuukauden aikana olette osallistunut vapaaehtoisjärjestön tai hyväntekeväisyysjärjestön toimintaan?
+
+{ANSWERS}
+1 Vähintään kerran viikossa
+2 Vähintään kerran kuussa
+3 Vähintään kerran kolmessa kuukaudessa
+4 Vähintään kerran puolessa vuodessa
+5 Harvemmin
+6 En ollenkaan 
+
+D2
+{INTRO}
+Seuraavaksi kysymyksiä tuntemuksistanne ja omasta elämästänne.
+
+{QUESTION}
+Missä määrin olette samaa tai eri mieltä seuraavien väittämien suhteen. Suhtaudun aina myönteisesti tulevaisuuteeni?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D3
+{QUESTION}
+Yleisesti ottaen olen tyytyväinen itseeni?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D4
+{QUESTION}
+Joskus minusta tuntuu että olen epäonnistunut?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D6
+{QUESTION}
+Teistä tuntui, että kaikki mitä teitte vaati ponnistelua?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D8
+{QUESTION}
+Olitte onnellinen?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D10
+{QUESTION}
+Nautitte elämästänne?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D11
+{QUESTION}
+Olitte surullinen?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D12
+{QUESTION}
+Tunsitte itsenne saamattomaksi?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D13
+{QUESTION}
+Kertokaa, kuinka usein viimeisen viikon aikana: Olitte energinen?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D14
+{QUESTION}
+Tunsitte itsenne levottomaksi?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D15
+{QUESTION}
+Tunsitte olonne levolliseksi ja rauhalliseksi?
+
+{ANSWERS}
+1 En ollenkaan tai vain pienen osan ajasta
+2 Osan ajasta
+3 Suurimman osan ajasta
+4 Kaiken aikaa tai lähes kaiken aikaa
+
+D16
+{QUESTION}
+Oletteko samaa vai eri mieltä seuraavien väittämien kanssa. Tunnen, että olen vapaa päättämään kuinka elän elämääni?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D17
+{QUESTION}
+Jokapäiväisessä elämässäni pääsen harvoin näyttämään todelliset kykyni?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D18
+{QUESTION}
+Useimmiten tunnen saavutuksieni olevan tärkeitä?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D19
+{QUESTION}
+Kun asiat eivät suju toivotulla tavalla, minulta kestää yleensä melko pitkään palata normaaliin tavalliseen rytmiin?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D20
+{QUESTION}
+Kertokaa, missä määrin: Opitte elämässänne uusia asioita?
+
+{ANSWERS}
+0 EI OLLENKAAN
+1
+2 
+3 
+4 
+5 
+6 HYVIN PALJON
+
+D21
+{QUESTION}
+Teistä tuntuu, että asuinalueenne ihmiset auttavat toisiaan?
+
+{ANSWERS}
+0 EI OLLENKAAN
+1
+2 
+3 
+4 
+5 
+6 HYVIN PALJON
+
+D22
+{QUESTION}
+Ihmiset kohtelevat Teitä kunnioittavasti?
+
+{ANSWERS}
+0 EI OLLENKAAN
+1
+2 
+3 
+4 
+5 
+6 HYVIN PALJON
+
+D23
+{QUESTION}
+Missä määrin olette samaa tai eri mieltä seuraavien väittämien kanssa. Yleensä olen sitä mieltä, että se mitä teen elämässäni on arvokasta ja hyödyllistä?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D24
+{QUESTION}
+Kun ajattelee, miten asiat ovat nykyään, on vaikeaa suhtautua maailman tulevaisuuteen toiveikkaasti?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D25
+{QUESTION}
+On paljon asioita, joissa tunnen olevani hyvä?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D26
+{QUESTION}
+Suurimmalla osalla suomalaisista elämä menee huonompaan, ei parempaan suuntaan?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D27
+{QUESTION}
+Tunnen yhteenkuuluvuutta asuinalueeni ihmisiin?
+
+{ANSWERS}
+1 Täysin samaa mieltä
+2 Samaa mieltä
+3 En samaa enkä eri mieltä
+4 Eri mieltä
+5 Täysin eri mieltä
+
+D28
+{QUESTION}
+Missä määrin järjestätte itsellenne aikaa tehdä asioita, joita todella haluatte tehdä. Kertokaa vastauksenne kortin 29 avulla. 0 tarkoittaa ei lainkaan ja 10 äärimmäisen paljon?
+
+{ANSWERS}
+0 EN LAINKAAN
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 ÄÄRIMMÄISEN PALJON
+
+D29
+{QUESTION}
+Missä määrin tunnette saavanne läheisiltänne arvostusta?
+
+{ANSWERS}
+0 EN LAINKAAN
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 ÄÄRIMMÄISEN PALJON
+
+D30
+{QUESTION}
+Kuinka vaikeata tai helppoa Teidän on selvitä elämässänne eteen tulevista merkittävistä ongelmista. Kertokaa vastauksenne kortin 30 avulla. 0 tarkoittaa erittäin vaikeata ja 10 erittäin helppoa?
+
+{ANSWERS}
+0 ERITTÄIN VAIKEATA
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 ERITTÄIN HELPPOA
+
+D34
+{QUESTION}
+Kuinka usein kiinnitätte tavallisena päivänä huomiota ympäristöönne ja annatte sille arvoa?
+
+{ANSWERS}
+0 EN KOSKAAN
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 KOKO AJAN
+
+D35
+{QUESTION}
+Missä määrin teistä tuntuu siltä, että tiedätte, mihin suuntaan elämänne on menossa. Kertokaa vastauksenne kortin 33 avulla. 0 tarkoittaa ei lainkaan ja 10 äärimmäisen paljon?
+
+{ANSWERS}
+0 EN LAINKAAN
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 ÄÄRIMMÄISEN PALJON
+
+D36
+{QUESTION}
+Missä määrin saatte apua ja tukea läheisiltänne silloin, kun sitä tarvitsette. Kertokaa vastauksenne kortin 34 avulla. 0 tarkoittaa ei lainkaan ja 6 äärimmäisen paljon?
+
+{ANSWERS}
+0 EN LAINKAAN
+1
+2 
+3 
+4 
+5 
+6 ÄÄRIMMÄISEN PALJON
+
+D37
+{QUESTION}
+Entä missä määrin tarjoatte itse apua ja tukea läheisillenne silloin, kun he sitä tarvitsevat?
+
+{ANSWERS}
+0 EN LAINKAAN
+1
+2 
+3 
+4 
+5 
+6 ÄÄRIMMÄISEN PALJON
+
+D38
+{INTRO}
+Jotkut ihmiset ovat lähempänä yhteiskuntamme huippua ja toiset lähempänä sen pohjaa. Kortilla 35 esitetään asteikko huipulta pohjalle.
+
+{QUESTION}
+Mihin kohtaan tällä asteikolla sijoittaisitte tällä hetkellä itsenne?
+
+{ANSWERS}
+10 Yhteiskuntamme huippu
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Yhteiskuntamme pohja
+
+D39
+{QUESTION}
+Kun ajatellaan seitsemää viime päivää, kuinka monena päivänä liikuitte yhtäjaksoisesti vähintään 20 minuutin ajan?
+
+{ANSWERS}
+0 En yhtenäkään päivänä
+1 Yhtenä päivänä
+2 Kahtena päivänä
+3 Kolmena päivänä
+4 Neljänä päivänä
+5 Viitenä päivänä
+6 Kuutena päivänä
+7 Seitsemänä päivänä
+
+E1
+{INTRO}
+Seuraavaksi esitän Teille kysymyksiä demokratiasta. Tämän jälkeen kysyn Teiltä, miten demokratia toimii Suomessa. Aluksi pyydän Teitä kuitenkin miettimään, kuinka tärkeinä pidätte eri asioita demokratian kannalta yleisesti. Kysymyksiin ei ole olemassa oikeita tai vääriä vastauksia, kertokaa vain, mitä ajattelette.
+
+{QUESTION}
+Katsokaa korttia 37 ja kertokaa, kuinka tärkeänä demokratian kannalta yleisesti pidätte sitä, että: Valtiolliset vaalit ovat vapaat ja rehelliset?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E2
+{QUESTION}
+Äänestäjät keskustelevat politiikasta tuttaviensa kanssa ennen kuin päättävät, ketä äänestävät?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E3
+{QUESTION}
+Eri poliittiset puolueet tarjoavat toisistaan selvästi eroavia vaihtoehtoja?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E4
+{QUESTION}
+Oppositiopuolueet voivat vapaasti arvostella hallitusta?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E5
+{QUESTION}
+Tiedotusvälineet voivat vapaasti arvostella hallitusta?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E6
+{QUESTION}
+Puhutaan edelleen demokratiasta yleisesti, eikä vain Suomen kannalta. Kuinka tärkeänä pidätte demokratian kannalta yleisesti sitä, että: Tiedotusvälineet tarjoavat kansalaisille luotettavaa tietoa, jonka perusteella arvioida hallituksen toimintaa?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E7
+{QUESTION}
+Vähemmistöryhmien oikeuksia suojellaan?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E8
+{QUESTION}
+Kansalaisilla on lopullinen päätäntävalta tärkeimmissä poliittisissa asioissa siten, että ne ratkaistaan suoralla kansanäänestyksellä?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E9
+{QUESTION}
+Maahanmuuttajat saavat äänioikeuden valtiollisissa vaaleissa vasta, kun heillä on maan kansalaisuus?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E10
+{QUESTION}
+Tuomioistuimet kohtelevat kaikkia yhdenvertaisesti?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E11
+{QUESTION}
+Tuomioistuimet voivat estää hallitusta ylittämästä valtuuksiaan?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E12
+{QUESTION}
+Puhutaan edelleen demokratiasta yleisesti, eikä vain Suomen kannalta. Kuinka tärkeänä pidätte demokratian kannalta yleisesti sitä, että: Hallitsevat puolueet menettävät kannatustaan vaaleissa, jos ne hoitavat työnsä huonosti?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E13
+{QUESTION}
+Hallitus suojelee kaikkia kansalaisia köyhyydeltä?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E14
+{QUESTION}
+Hallitus selittää päätöksiään äänestäjille?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E15
+{QUESTION}
+Hallitus ryhtyy toimiin tuloerojen pienentämiseksi?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E16
+{QUESTION}
+Entä kuinka tärkeänä pidätte demokratian kannalta yleisesti, että poliitikot huomioivat muiden Euroopan maiden hallitusten näkemykset ennen päätöksentekoaan?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E17
+{INTRO}
+Seuraavaksi kysymyksiä samoista aiheista, mutta nyt siitä, kuinka demokratia mielestänne toimii Suomessa nykyään. Näihinkään kysymyksiin ei ole olemassa oikeita tai vääriä vastauksia. Kertokaa vain, mitä ajattelette.
+
+{QUESTION}
+Kertokaa kortin 38 avulla, miten hyvin seuraavat väittämät mielestänne sopivat Suomeen. 0 tarkoittaa, että väittämä ei sovi mielestänne lainkaan ja 10, että sopii mielestänne täydellisesti. Valtiolliset vaalit ovat Suomessa vapaat ja rehelliset?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E18
+{QUESTION}
+Suomessa äänestäjät keskustelevat politiikasta tuttaviensa kanssa ennen kuin päättävät, ketä äänestävät?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E19
+{QUESTION}
+Suomessa eri poliittiset puolueet tarjoavat toisistaan selvästi eroavia vaihtoehtoja?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E23
+{QUESTION}
+Suomessa vähemmistöryhmien oikeuksia suojellaan?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E24
+{QUESTION}
+Suomessa kansalaisilla on lopullinen päätäntävalta tärkeimmissä poliittisissa asioissa siten, että ne ratkaistaan suoralla kansanäänestyksellä?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E25
+{QUESTION}
+Suomessa tuomioistuimet kohtelevat kaikkia yhdenvertaisesti?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E26
+{QUESTION}
+Kertokaa edelleen kortin 38 avulla, kuinka hyvin seuraavat väittämät mielestänne sopivat Suomeen. Suomessa hallitsevat puolueet menettävät kannatustaan vaaleissa, jos ne hoitavat työnsä huonosti?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E27
+{QUESTION}
+Suomessa hallitus suojelee kaikkia kansalaisia köyhyydeltä?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E28
+{QUESTION}
+Suomessa hallitus selittää päätöksiään äänestäjille?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E29
+{QUESTION}
+Suomessa hallitus pyrkii toimimaan tuloerojen pienentämiseksi?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E30
+{QUESTION}
+Entä missä määrin tämä väittämä sopii Suomeen. Suomessa poliitikot huomioivat muiden Euroopan maiden hallitusten näkemyksiä ennen päätöksentekoaan?
+
+{ANSWERS}
+0 EI SOVI LAINKAAN
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 SOPII TÄYDELLISESTI
+
+E31
+{INTRO}
+Seuraavissa kysymyksissä pyydän Teitä ensin valitsemaan jommankumman kahdesta vaihtoehdosta. Sen jälkeen kysyn, kuinka tärkeänä pidätte valitsemaanne vastausta demokratian kannalta yleisesti. Lopuksi pyydän teitä ajattelemaan, millainen tilanne on tämän asian suhteen Suomessa nykyään. Muistakaa, ettei näihin kysymyksiin ole olemassa oikeita tai vääriä vastauksia, joten kertokaa vain, mitä ajattelette. 
+On erilaisia mielipiteitä siitä, pitäisikö demokratiassa jokaisella olla oikeus ilmaista poliittiset mielipiteensä vapaasti, vaikka ne olisivat äärilaidalta.
+
+{QUESTION}
+Kumpi seuraavista väittämistä kuvaa parhaiten sitä, minkä ajattelette olevan parasta demokratian kannalta yleisesti?
+
+{ANSWERS}
+1 Jokaisen tulisi voida ilmaista poliittiset mielipiteensä vapaasti, vaikka ne olisivat äärilaidalta
+2 Ihmisiä, joiden mielipiteet ovat äärilaidalta, tulisi estää ilmaisemasta mielipiteitään vapaasti
+
+E32
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että jokaisella on oikeus ilmaista poliittiset mielipiteensä vapaasti, vaikka ne ovat äärilaidalta?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E33
+{QUESTION}
+Katsokaa korttia 41 ja kertokaa, missä määrin kaikilla on Suomessa nykyisin oikeus ilmaista poliittiset mielipiteensä vapaasti, vaikka ne ovat äärilaidalta?
+
+{ANSWERS}
+0 EI LAINKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TÄYDELLISESTI
+
+E34
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että ihmisiä, joiden mielipiteet ovat äärilaidalta, estetään ilmaisemasta mielipiteitään vapaasti. Kertokaa vastauksenne kortin 40 avulla?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E35
+{QUESTION}
+Estetäänkö Suomessa nykyään ihmisiä, joiden mielipiteet ovat äärilaidalta, mielestänne ilmaisemasta mielipiteitään vapaasti. Kertokaa vastauksenne kortin 41 avulla?
+
+{ANSWERS}
+0 EI LAINKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 TÄYDELLISESTI
+
+E36
+{INTRO}
+Joskus hallitus on eri mieltä kuin suurin osa ihmisistä siitä, mikä on maan kannalta parasta.
+
+{QUESTION}
+Kumpi seuraavista väittämistä kuvaa parhaiten sitä, minkä ajattelette olevan parasta demokratian kannalta yleisesti?
+
+{ANSWERS}
+1 Hallituksen tulisi muuttaa kaavailemaansa política sen mukaan, mitä suurin osa ihmisistä ájatele
+2 Hallituksen tulisi pysyä kaavailemassaan politicaza siitä huolimatta, mitä suurin osa ihmisistä ájatele
+
+E37
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että hallitus muuttaa kaavailemaansa politiikkaa sen mukaan, mitä suurin osa ihmisistä ajattelee. Kertokaa vastauksenne kortin 43 avulla?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E38
+{QUESTION}
+Katsokaa korttia 44 ja kertokaa, kuinka usein mielestänne hallitus Suomessa nykyään muuttaa kaavailemaansa politiikkaa sen mukaan, mitä suurin osa ihmisistä ajattelee?
+
+{ANSWERS}
+0 EI KOSKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 AINA
+
+E39
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että hallitus pysyy kaavailemassaan politiikassa siitä huolimatta, mitä suurin osa ihmisistä ajattelee. Kertokaa vastauksenne kortin 43 avulla?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E40
+{QUESTION}
+Kuinka usein hallitus Suomessa nykyään mielestänne pysyy kaavailemassaan politiikassa huolimatta siitä, mitä suurin osa ihmisistä ajattelee. Kertokaa vastauksenne kortin 44 avulla?
+
+{ANSWERS}
+0 EI KOSKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 AINA
+
+E41
+{INTRO}
+Joissain maissa hallituksen muodostaa yksi ainoa puolue, toisissa maissa kaksi tai useampi puolue yhdessä.
+
+{QUESTION}
+Kumpi kortin 45 vaihtoehdoista kuvaa parhaiten sitä, mikä on mielestänne parasta demokratian kannalta yleisesti?
+
+{ANSWERS}
+1 Vain yksi puolue muodostaa hallituksen
+2 Kaksi tai useampi puolue muodostaa hallituksen
+ 
+E42
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että hallituksen muodostaa vain yksi puolue. Kertokaa vastauksenne kortin 46 avulla?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E43
+{INTRO}
+Nyt viimeinen kysymys tästä aiheesta.
+
+{QUESTION}
+Katsokaa korttia 47 ja kertokaa, kuinka usein hallituksen Suomessa mielestänne muodostaa vain yksi puolue?
+
+{ANSWERS}
+0 EI KOSKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 AINA
+
+E44
+{QUESTION}
+Kuinka tärkeänä pidätte demokratian kannalta yleisesti, että kaksi tai useampi puolue yhdessä muodostavat hallituksen?
+
+{ANSWERS}
+0 EN LAINKAAN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 ÄÄRIMMÄISEN TÄRKEÄNÄ DEMOKRATIAN KANNALTA YLEISESTI
+
+E45
+{INTRO}
+Nyt viimeinen kysymys tästä aiheesta.
+
+{QUESTION}
+Katsokaa korttia 47 ja kertokaa, kuinka usein mielestänne Suomessa hallituksen muodostaa kaksi tai useampi puolue yhdessä?
+
+{ANSWERS}
+0 EI KOSKAAN
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 AINA

@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Ako často ste sa za posledných 12 mesiacov zapojili do práce pre dobrovoľnícke alebo charitatívne organizácie? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+1 Najmenej raz za týţdeň
+2 Najmenej raz za mesiac
+3 Najmenej raz za kaţdé tri mesiace
+4 Najmenej raz za kaţdých 6 mesiacov
+5 Menej často
+6 Nikdy
+
+D2
+{INTRO}
+Teraz by sme sa Vás chceli opýtať niekoľko otázok o tom, aký mate pocit zo seba a zo svojho ţivota.
+
+{QUESTION}
+Pouţitím tejto karty, prosím, povedzte, nakoľko súhlasíte alebo nesúhlasíte s kaţdým z nasledujúcich výrokov. Vţdy som optimistický/á, čo sa týka mojej budúcnosti.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D3
+{QUESTION}
+Celkovo sa vnímam veľmi pozitívne.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D4
+{QUESTION}
+Niekedy mám pocit, ţe som neúspešný/á.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D6
+{QUESTION}
+… ste cítili, ţe na všetko čo ste urobili, ste museli vynaloţiť veľa snahy?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D8
+{QUESTION}
+… ste boli šťastný?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D10
+{QUESTION}
+… ste sa tešili zo ţivota?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D11
+{QUESTION}
+… ste boli smutný?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D12
+{QUESTION}
+…ste sa nevedeli “naštartovať” a boli ste bez motivácie?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D13
+{QUESTION}
+A povedzte mi, prosím, koľkokrát počas uplynulého týţdňa ... … ste mali veľa energie?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D14
+{QUESTION}
+… ste pociťovali úzkosť a obavy?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D15
+{QUESTION}
+… ste sa cítili pokojne a vyrovnane?
+
+{ANSWERS}
+1 Vôbec alebo takmer nikdy
+2 Niekedy
+3 Zväčša
+4 Vţdy alebo takmer vţdy
+
+D16
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte do akej miery súhlasíte alebo nesúhlasíte s kaţdým s nasledujúcich výrokov. Cítim, ţe sa môţem slobodne rozhodnúť ako ţiť svoj ţivot.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D17
+{QUESTION}
+V kaţdodennom ţivote dostávam len veľmi málo príleţitostí aby som predviedol aký som schopný.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D18
+{QUESTION}
+Väčšinou sa mi dostáva zadosťučinenia za to čo robím.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D19
+{QUESTION}
+Ak sa mi v ţivote nedarí, zvyčajne mi trvá dlho vrátiť do normálu.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D20
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte do akej miery… ...sa učíte vo svojom ţivote nové veci?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6 Veľmi veľa
+
+D21
+{QUESTION}
+…pociťujete, ţe ľudia vo vašom okolí pomáhajú jeden druhému?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6 Veľmi veľa
+
+D22
+{QUESTION}
+… pociťujete, ţe ľudia s vami jednajú s rešpektom?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6 Veľmi veľa
+
+D23
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte do akej miery súhlasíte alebo nesúhlasíte s kaţdým s nasledujúcich výrokov. Vo všeobecnosti cítim, ţe to, čo v ţivote robím je hodnotné a cenné.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D24
+{QUESTION}
+Pri súčasnom stave vecí, je mi ťaţko byť plný nádeje o budúcnosti sveta.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D25
+{QUESTION}
+Je mnoho vecí, o ktorých viem, ţe som v nich dobrý/á.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D26
+{QUESTION}
+Pre väčšinu ľudí na Slovensku sa ţivot stáva skôr horším ako lepším.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D27
+{QUESTION}
+Cítim sa byť úzko spätý s ľuďmi v mojom okolí.
+
+{ANSWERS}
+1 Rozhodne súhlasím
+2 Súhlasím
+3 Ani súhlas ani nesúhlas
+4 Nesúhlasím
+5 Rozhodne nesúhlasím
+
+D28
+{QUESTION}
+Do akej miery si viete vyhradiť čas na to, aby ste mohli robiť veci, ktoré skutočne chcete robiť? Prosím, pouţite túto kartu, kde 0 znamená vôbec nie a 10 znamená úplne.
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne
+
+D29
+{QUESTION}
+Do akej miery pociťujete uznanie od ľudí, ktorí sú Vám blízki? Prosím, pouţite tú istú kartu.
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne
+
+D30
+{QUESTION}
+Nakoľko ťaţké alebo ľahké sa Vám zdá byť vyrovnávanie sa s významnými problémami, ktoré sa vyskytnú vo Vašom ţivote? Prosím, pouţite túto kartu, kde 0 znamená mimoriadne ťaţké a 10 znamená mimoriadne ľahké.
+
+{ANSWERS}
+0 Mimoriadne ťaţké
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mimoriadne ľahké
+
+D34
+{QUESTION}
+Ako často počas beţného dňa si všimnete a oceníte to, čo Vás obklopuje?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+D35
+{QUESTION}
+Do akej miery máte pocit, ţe viete, kam Váš ţivot smeruje? Prosím, pouţite túto kartu, kde 0 znamená vôbec nie a 10 znamená úplne.
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne
+
+D36
+{QUESTION}
+Do akej miery dostávate pomoc a oporu, keď ju potrebujete, od ľudí, ktorí sú Vám blízki? Prosím pouţite túto kartu, kde 0 znamená vôbec nie a 6 znamená úplne.
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6 Úplne
+
+D37
+{QUESTION}
+A do akej miery vy poskytujete pomoc a oporu ľuďom, ktorí sú Vám blízki, keď ju potrebujú?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6 Úplne
+
+D38
+{INTRO}
+Sú ľudia, ktorí sú obvykle na vrchole našej spoločnosti a ľudia, ktorí sú na spodku. Na tejto karte je škála, ktorá vedie z vrcholu na spodok. 
+
+{QUESTION}
+Kde by ste momentálne na tejto škále umiestnili seba?
+
+{ANSWERS}
+10 Vrchol našej spoločnosti
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 Spodok našej spoločnosti
+
+D39
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, počas koľkých z uplynulých 7 dní ste boli fyzicky aktívny/aktívna nepretrţite 20 minút alebo dlhšie?
+
+{ANSWERS}
+0. Ani jeden deň
+1. Jeden deň
+2. Dva dni
+3. Tri dni
+4. Štyri dni
+5. Päť dní
+6. Šesť dní
+7. Sedem dní
+
+E1
+{INTRO}
+A teraz niekoľko otázok o demokracii. Neskôr sa Vás budem pýtať na to, ako funguje demokracia na Slovensku. Najskôr však by som chcel/a, aby ste sa zamysleli nad tým, nakoľko sú, podľa Vás, rozličné veci dôleţité pre demokraciu vo všeobecnosti. Neexistujú správne ani nesprávne odpovede, takţe mi len povedzte, čo si myslíte.
+
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo si myslíte, nakoľko je všeobecne pre demokraciu dôleţité…. ...ţe národné voľby sú slobodné a spravodlivé?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E2
+{QUESTION}
+...ţe voliči, pred rozhodnutím ako voliť, diskutujú o politike so svojimi blízkymi a známymi?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E3
+{QUESTION}
+...ţe rôzne politické strany navzájom ponúkajú jasné alternatívy?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E4
+{QUESTION}
+...ţe opozičné strany môţu slobodne kritizovať vládu?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E5
+{QUESTION}
+…ţe médiá sú slobodné pri kritizovaní vlády?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E6
+{QUESTION}
+A stále uvaţujte skôr vo všeobecnosti ako o Slovensku, čo si myslíte, nakoľko je všeobecne pre demokraciu dôleţité... ...ţe médiá poskytujú občanom spoľahlivé informácie, aby mohli posudzovať vládu?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E7
+{QUESTION}
+...ţe práva menšinových skupín sú chránené?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E8
+{QUESTION}
+...ţe občania majú pri najdôleţitejších politických záleţitostiach posledné slovo, a to prostredníctvom priameho hlasovania o nich v referendách?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E9
+{QUESTION}
+....ţe imigranti získajú právo hlasovať v n.rodných voľbách aţ keď sa stanú občanmi?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E10
+{QUESTION}
+...ţe súdy zaobchádzajú s kaţdým rovnako?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E11
+{QUESTION}
+...ţe súdy sú schopné zasiahnuť, ak vláda prekračuje svoju právomoc?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E12
+{QUESTION}
+A stále uvaţujte skôr všeobecne ako o Slovensku, čo si myslíte, nakoľko je všeobecne pre demokraciu dôleţité… ...ţe vládnuce strany získajú menej hlasov vo voľbách, ak bolo ich pôsobenie zlé?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E13
+{QUESTION}
+...ţe vláda chráni všetkých občanov pred chudobou?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E14
+{QUESTION}
+...ţe vláda vysvetľuje svoje rozhodnutia voličom?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E15
+{QUESTION}
+...ţe vláda prijíma opatrenia na zníţenie rozdielov v úrovniach príjmov?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E16
+{QUESTION}
+A čo myslíte, nakoľko je všeobecne pre demokraciu dôleţité… …ţe politici pred vynesením rozhodnutí, berú do úvahy názory iných európskych vlád?
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E17
+{INTRO}
+A teraz niekoľko otázok o tých istých témach, ale teraz o tom, čo si myslíte, ako funguje demokracia v dnešnej dobe na Slovensku. Opäť, nie sú správne a nesprávne odpovede, takţe mi, prosím, povedzte čo si myslíte.
+
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo si myslíte, do akej miery sa kaţdý z výrokov vzťahuje na Slovensko. 0 znamená, ţe si myslíte, ţe výrok sa vôbec nevzťahuje na Slovensko a 10 znamená, ţe výrok sa úplne vzťahuje na Slovensko. Národné voľby na Slovensku sú slobodné a spravodlivé.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E18
+{QUESTION}
+Voliči na Slovensku diskutujú o politikoch s ľuďmi, ktorých poznajú, pred rozhodnutím ako voliť.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E19
+{QUESTION}
+Rôzne politické strany na Slovensku ponúkajú jasné alternatívy jedna voči druhej.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E23
+{QUESTION}
+Práva menšinových skupín na Slovensku sú chránené.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E24
+{QUESTION}
+Občania na Slovensku majú posledné slovo pri väčšine politických záleţitostí pri priamom hlasovaní o nich v referendách.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E25
+{QUESTION}
+Súdy na Slovensku zaobchádzajú s kaţdým rovnako.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E26
+{QUESTION}
+A pouţitím tej istej karty mi, prosím, povedzte, čo si myslíte, do akej miery sa kaţdý z výrokov vzťahuje na Slovensko. Vládnuce strany na Slovensku získajú menej hlasov vo voľbách, ak bolo ich pôsobenie zlé.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E27
+{QUESTION}
+Vláda na Slovensku chráni všetkých občanov pred chudobou.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E28
+{QUESTION}
+Vláda na Slovensku vysvetľuje svoje rozhodnutia voličom.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E29
+{QUESTION}
+Vláda na Slovensku prijíma opatrenia na zníţenie rozdielov v platových triedach.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E30
+{QUESTION}
+A do akej miery sa tento výrok vzťahuje na Slovensko? Politici na Slovensku berú do úvahy názory iných európskych vlád pred vynesením rozhodnutí.
+
+{ANSWERS}
+0 Vôbec sa nevzťahuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne sa vzťahuje
+
+E31
+{INTRO}
+V nasledujúcich otázkach Vás poţiadam, aby ste si vybrali medzi dvoma moţnosťami. Potom sa Vás opýtam na to, čo si myslíte, nakoľko dôleţitá je vaša voľba pre demokraciu vo všeobecnosti. Nakoniec Vás poţiadam, aby ste premýšľali o tejto otázke vo vzťahu ku Slovensku v dnešnej dobe. Pamätajte, neexistujú správne ani nesprávne odpovede, takţe mi len povedzte, čo si myslíte.
+Sú rozdielne názory na to, či by v demokracii malo alebo nemalo byť kaţdému umoţnené otvorene vyjadriť svoje politické názory dokonca aj vtedy, ak sú extrémne.
+
+{QUESTION}
+Ktorý jeden z výrokov na tejto karte popisuje čo je podľa Vás najlepšie pre demokraciu vo všeobecnosti?
+
+{ANSWERS}
+1 Kaţdému by malo byť umoţnené otvorene vyjadriť svoje politické názory, dokonca aj vtedy ak sú extrémne
+2  Tým, ktorí majú extrémne politické názory, by sa malo zabrániť, aby ich verejne vyjadrili
+
+E32
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, ţe kaţdý je slobodný pri verejnom vyjadrovaní svojich politických názorov, dokonca aj vtedy ak sú extrémne? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E33
+{QUESTION}
+Pouţite túto kartu, čo si myslíte, do akej miery je kaţdý na Slovensku v dnešnej dobe slobodný pri verejnom vyjadrovaní svojich politických názorov, dokonca aj vtedy ak sú extrémne?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne
+
+E34
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, aby sa zabránilo tým, ktorí majú extrémne politické názory, aby ich verejne vyjadrili? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E35
+{QUESTION}
+Pouţite túto kartu, čo si myslíte, nakoľko dôleţité zabrániť tým, ktorí majú extrémne politické názory na Slovensku v dnešnej dobe, aby ich verejne vyjadrili?
+
+{ANSWERS}
+0 Vôbec nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Úplne
+
+E36
+{INTRO}
+Niekedy vláda nesúhlasí s tým, o čom si väčšina ľudí myslí, ţe je najlepšie pre krajinu.
+
+{QUESTION}
+Ktorý jeden z výrokov na tejto karte popisuje čo je podľa Vás najlepšie pre demokraciu vo všeobecnosti?
+
+{ANSWERS}
+1 Vláda by mala zmeniť svoje plánované postupy s ohľadom na to, čo si myslí väčšina ľudí
+2 Vláda by mala zotrvať pri svojich pl.novaných postupoch bez ohľadu na to, čo si väčšina ľudí myslí
+
+E37
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, aby vláda zmenila svoje plánované postupy s ohľadom na to, čo si myslí väčšina ľudí? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E38
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo si myslíte, ako často by vláda na Slovensku v dnešnej dobe mení svoje plány s ohľadom na to, čo si väčšina ľudí myslí?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E39
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, ţe vláda zotrvá pri svojich plánovaných postupoch bez ohľadu na to, čo si väčšina ľudí myslí? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E40
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo si myslíte, ako často vláda na Slovensku v dnešnej dobe zotrváva pri svojich plánoch bez ohľadu na to, čo si väčšina ľudí myslí?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E41
+{INTRO}
+Vládu v niektorých krajinách tvorí jedna strana, v iných krajinách dve alebo viaceré strany v koalícii.
+
+{QUESTION}
+Ktorá moţnosť na tejto karte popisuje to, o čom si myslíte, ţe je najlepšie pre demokraciu vo všeobecnosti?
+
+{ANSWERS}
+1 Jedna strana tvorí vládu
+2 Dve alebo viaceré strany v koalícii tvoria vládu
+
+E42
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, ţe vládu tvorí jedna strana? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E43
+{INTRO}
+A teraz posledná otázka na túto tému.
+
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo si myslíte, ako často je vláda na Slovensku tvorená jednou stranou?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E44
+{QUESTION}
+Čo si myslíte, nakoľko dôleţité je pre demokraciu vo všeobecnosti, ţe vláda je tvorená dvoma alebo viacerými stranami v koalícii? Prosím, pouţite túto kartu.
+
+{ANSWERS}
+0 Vôbec to nie je dôleţité pre demokraciu vo všeobecnosti
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to mimoriadne dôleţité pre demokraciu vo všeobecnosti
+
+E45
+{INTRO}
+A teraz posledná otázka na túto tému.
+
+{QUESTION}
+Pouţitím tejto karty mi, prosím, povedzte, čo simyslíte, ako často je vláda na Slovensku tvorená dvoma alebo viacerými stranami v koalícii?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy

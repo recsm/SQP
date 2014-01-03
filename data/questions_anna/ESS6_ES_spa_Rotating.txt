@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Durante los últimos 12 meses, ¿con qué frecuencia ha colaborado con organizaciones de voluntarios o con fines caritativos? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+1 Al menos una vez a la semana
+2 Al menos una vez al mes
+3 Al menos una vez cada tres meses
+4 Al menos una vez cada seis meses
+5 Con menos frecuencia
+6 Nunca
+
+D2
+{INTRO}
+Ahora queremos hacerle unas preguntas sobre cómo se siente usted consigo mismo/a y con su vida.
+
+{QUESTION}
+Por favor, utilice esta tarjeta y dígame si está usted de acuerdo o en desacuerdo con las siguientes afirmaciones. Soy siempre optimista con respecto a mi futuro
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D3
+{QUESTION}
+Por lo general me siento bien conmigo mismo/a
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D4
+{QUESTION}
+Algunas veces me siento como si fuera un fracasado/a
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D6
+{QUESTION}
+… ha tenido la sensación de que le costaba mucho hacer cualquier cosa?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D8
+{QUESTION}
+…se ha sentido feliz?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D10
+{QUESTION}
+…ha tenido la sensación de disfrutar de la vida?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D11
+{QUESTION}
+… se ha sentido triste?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D12
+{QUESTION}
+…se ha sentido sin ánimos?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D13
+{QUESTION}
+Y, dígame, ¿con qué frecuencia durante la última semana …?  …se ha sentido rebosante de energía?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D14
+{QUESTION}
+…ha sentido ansiedad?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D15
+{QUESTION}
+…se ha sentido tranquilo/a y relajado/a?
+
+{ANSWERS}
+1 En ningún momento, o en casi ningún momento
+2 En algún momento
+3 Buena parte del tiempo
+4 Todo o casi todo el tiempo
+
+D16
+{QUESTION}
+Ahora, utilice esta tarjeta y dígame en qué medida está usted de acuerdo o en desacuerdo con cada una de estas afirmaciones. Tengo la sensación de poder decidir con libertad como vivir mi vida.
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D17
+{QUESTION}
+En mi vida diaria, tengo pocas oportunidades de demostrar aquello de lo que soy capaz.
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D18
+{QUESTION}
+La mayor parte de los días siento que he logrado lo que me había propuesto.
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D19
+{QUESTION}
+Cuando las cosas van mal en mi vida, generalmente, me lleva mucho tiempo encauzarla.
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D20
+{QUESTION}
+Utilizando esta tarjeta, dígame por favor, ¿en qué medida…  … aprende cosas nuevas en su vida?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Muy a menudo
+
+D21
+{QUESTION}
+…tiene la sensación de que en su barrio o pueblo la gente se ayuda mutuamente?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Muy a menudo
+
+D22
+{QUESTION}
+… siente que la gente le trata con respeto?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6 Muy a menudo
+
+D23
+{QUESTION}
+Utilizando esta tarjeta, por favor dígame en qué medida esta usted de acuerdo o en descuerdo con las siguientes afirmaciones. Generalmente pienso que lo que hago en la vida es provechoso y útil para los demás
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D24
+{QUESTION}
+Tal y como son las cosas me resulta difícil sentirme esperanzado/a sobre el futuro del mundo
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D25
+{QUESTION}
+Hay muchas cosas que creo que hago bien
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D26
+{QUESTION}
+La vida de la mayoría de los españoles está yendo a peor y no a major
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D27
+{QUESTION}
+Me siento cercano/a a la gente de mi barrio o pueblo.
+
+{ANSWERS}
+1 Muy de acuerdo
+2 De acuerdo
+3 Ni de acuerdo ni en desacuerdo
+4 En desacuerdo
+5 Muy en desacuerdo
+
+D28
+{QUESTION}
+¿Hasta qué punto encuentra usted tiempo para hacer aquellas cosas que realmente quiere hacer? Por favor, utilice esta tarjeta en la que 0 significa en absoluto y 10 significa completamente.
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D29
+{QUESTION}
+¿Hasta qué punto se siente valorado/a por las personas cercanas a usted? Por favor, utilice la misma tarjeta.
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D30
+{QUESTION}
+¿En qué medida cree usted que es difícil o fácil ocuparse de los problemas importantes con los que se encuentra en la vida? Por favor, utilice esta tarjeta, donde 0 es extremadamente difícil y 10 es extremadamente fácil.
+
+{ANSWERS}
+0 Extremadamente difícil
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente fácil
+
+D34
+{QUESTION}
+En un día normal, ¿con qué frecuencia se fija y valora usted las cosas que se encuentran a su alrededor?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Siempre
+
+D35
+{QUESTION}
+¿En qué medida le parece que tiene un rumbo claro en su vida? Por favor, utilice esta tarjeta, donde 0 significa en absoluto y 10 significa completamente.
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D36
+{QUESTION}
+¿En qué media recibe ayuda y apoyo de personas cercanas cuando lo necesita? Por favor, utilice esta tarjeta, donde 0 significa en absoluto y 6 significa completamente.
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6 Completamente
+
+D37
+{QUESTION}
+¿En qué media presta ayuda y apoyo a las personas más cercanas a usted cuando lo necesitan?
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6 Completamente
+
+D38
+{INTRO}
+Hay personas que suelen estar en lo más alto de nuestra sociedad y otras que suelen estar en lo más bajo. En esta tarjeta hay una escala que va de lo más alto a lo más bajo. 
+
+{QUESTION}
+¿Dónde se situaría usted en esta escala actualmente?
+
+{ANSWERS}
+10 En lo más alto de nuestra sociedad
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 En lo más bajo de nuestra sociedad
+
+D39
+{QUESTION}
+Utilizando esta tarjeta, dígame por favor, ¿cuántos de los últimos 7 días ha realizado alguna actividad física durante 20 minutos seguidos o más?
+
+{ANSWERS}
+0. Ningún día
+1. Un día
+2. Dos días
+3. Tres días
+4. Cuatro días
+5. Cinco días
+6. Seis días
+7. Siete días
+
+E1
+{INTRO}
+A continuación, voy a hacerle unas preguntas relacionadas con la democracia. Más adelante le haré unas preguntas sobre cómo funciona la democracia en España. Pero, primero, quiero que piense en qué medida cree que ciertas cosas son importantes para la democracia en general. Déjeme aclararle que no hay respuestas correctas o incorrectas así que, por favor, dígame simplemente lo que usted piensa.
+
+{QUESTION}
+Utilizando esta tarjeta, dígame, por favor, en qué medida es importante para la democracia en general…  … que las elecciones generales sean libres y limpias?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E2
+{QUESTION}
+…que los votantes hablen de política con personas a las que conocen antes de decidir cómo votar?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E3
+{QUESTION}
+…que los diferentes partidos politicos propongan alternativas que se distingan claramente entre sí?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E4
+{QUESTION}
+…que los partidos de la oposición puedan criticar libremente al gobierno?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E5
+{QUESTION}
+…que los medios de comunicación puedan criticar libremente al gobierno?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E6
+{QUESTION}
+Todavía pensando de manera general, y no en España en particular, ¿en qué medida cree usted que es importante para la democracia en general... …que los medios de comunicación ofrezcan a los ciudadanos información real con la que juzgar al gobierno?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E7
+{QUESTION}
+… que los derechos de las minorías estén protegidos?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E8
+{QUESTION}
+… que los ciudadanos tengan la última palabra en los asuntos politicos más importantes mediante el voto directo en referéndum?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E9
+{QUESTION}
+… que los inmigrantes solo puedan votar en las elecciones generales una vez que hayan adquirido la nacionalidad?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E10
+{QUESTION}
+…que los tribunales traten a todo el mundo por igual?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E11
+{QUESTION}
+...que los tribunales puedan poner freno al gobierno cuando éste se exceda en su autoridad?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E12
+{QUESTION}
+Y, todavía pensando de manera general, y no en España en particular, ¿en qué medida cree que es importante para la democracia en general...... … que el partido o los partidos en el gobierno sean castigados en las urnas cuando hacen mal su trabajo?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E13
+{QUESTION}
+… que el gobierno proteja a todos los ciudadanos de la pobreza?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E14
+{QUESTION}
+… que el gobierno explique sus decisiones a los votantes?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E15
+{QUESTION}
+… que el gobierno tome medidas para reducir las diferencias en los ingresos?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E16
+{QUESTION}
+¿Y en qué medida cree usted que es importante para la democracia en general…  … que los políticos tengan en cuenta las opiniones de otros gobiernos europeos antes de tomar decisiones?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E17
+{INTRO}
+Ahora le haré unas preguntas sobre los mismos temas, pero esta vez referidas a cómo cree usted que funciona la democracia en España actualmente. Me gustaría recordarle que no hay respuestas correctas o incorrectas, así que, por favor, dígame simplemente lo que usted piensa.
+
+{QUESTION}
+Utilizando esta tarjeta, por favor, dígame en qué medida cree que cada una de las siguientes afirmaciones es válida para España. 0 significa que usted piensa que la afirmación no es válida en absoluto y 10 que usted piensa que es completamente válida. Las elecciones generales en España son libres y limpias.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E18
+{QUESTION}
+Los votantes en España hablan de política con las personas que conocen antes de decidir cómo votar.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E19
+{QUESTION}
+Los diferentes partidos políticos en España proponen alternativas que se distinguen claramente entre sí.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E23
+{QUESTION}
+Los derechos de las minorías en España están protegidos
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E24
+{QUESTION}
+Los españoles tienen la última palabra en los asuntos políticos más importantes mediante el voto directo en referéndum.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E25
+{QUESTION}
+Los tribunales en España tratan a todo el mundo por igual.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E26
+{QUESTION}
+Y siguiendo con la democracia en España y, utilizando la misma tarjeta, dígame, por favor, en qué medida piensa usted que cada una de las siguientes afirmaciones es válida. En España, el partido en el gobierno es castigado en las urnas cuando ha hecho mal su trabajo.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E27
+{QUESTION}
+El gobierno en España protege a los ciudadanos de la pobreza.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E28
+{QUESTION}
+El gobierno en España explica sus decisiones a los votantes.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E29
+{QUESTION}
+El gobierno en España toma medidas para reducir las diferencias en los ingresos.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E30
+{QUESTION}
+¿Y en qué medida cree usted que esta afirmación es válida para España? En España, los políticos tienen en cuenta las  opiniones de otros gobiernos europeos antes de tomar decisiones.
+
+{ANSWERS}
+0 No es válida en absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Es completamente válida
+
+E31
+{INTRO}
+En las siguientes preguntas le pediré, en primer lugar, que escoja entre dos opciones. Y después le preguntaré en qué medida le parece que la opción que ha escogido es importante para la democracia en general. A continuación, le pediré que piense sobre esta cuestión en España a día de hoy. Le recuerdo, una vez más, que no hay respuestas correctas o incorrectas, así que, por favor, dígame simplemente lo que usted piensa.
+Hay diferentes opiniones sobre si todo el mundo debería tener la libertad de expresar públicamente sus opiniones políticas en una democracia, incluso cuando estas ideas sean radicales.
+
+{QUESTION}
+¿Cuál de las afirmaciones de esta tarjeta describe lo que usted piensa que es mejor para la democracia en general?
+
+{ANSWERS}
+1  Todo el mundo debería tener la libertad de expresar sus opiniones políticas públicamente, incluso si son radicales
+2  Debería impedirse que aquellos que defienden ideas políticas radicales puedan expresarlas públicamente
+
+E32
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que todo el mundo sea libre de expresar sus opiniones políticas públicamente, incluso si son radicales? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E33
+{QUESTION}
+Ahora hablando de España y utilizando esta tarjeta, ¿hasta qué punto la gente en España es hoy libre de expresar públicamente sus opiniones políticas incluso si son radicales?
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E34
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que se impida expresar su opinión política a aquellos que defienden posiciones radicales? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E35
+{QUESTION}
+Y, ahora, utilizando esta tarjeta, ¿en qué medida cree usted que en España a día de hoy se impide expresar públicamente su opinión política a aquellos que defienden posiciones radicales?
+
+{ANSWERS}
+0 En absoluto
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E36
+{INTRO}
+A veces el gobierno no está de acuerdo con lo que la mayoría de la gente cree que es mejor para el país.
+
+{QUESTION}
+¿Qué afirmación de esta tarjeta describe mejor su opinión sobre lo que es mejor para la democracia en general?
+
+{ANSWERS}
+1 El gobierno debería cambiar sus planes de gobierno en respuesta a lo que piensa la mayoría de la gente
+2 El gobierno debería mantener sus planes de gobierno independientemente de lo que piense la mayoría de la gente
+
+E37
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que el gobierno cambie sus planes de gobierno en respuesta a lo que piensa la mayoría de la gente? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E38
+{QUESTION}
+Utilizando esta tarjeta, por favor, dígame, ¿con qué frecuencia cree usted que hoy en día el gobierno en España cambia sus planes de gobierno en respuesta a lo que piensa la mayoría de la gente?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Siempre
+
+E39
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que el gobierno mantenga sus planes de gobierno independientemente de lo que piense la mayoría de la gente?
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E40
+{QUESTION}
+Y, ahora para España, ¿con qué frecuencia cree usted que el actual gobierno en España mantiene sus planes de gobierno con independencia de lo que piensa la mayoría de la gente?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Siempre
+
+E41
+{INTRO}
+El gobierno en algunos países está formado por un solo partido; en otros lo forman dos o más partidos en coalición.
+
+{QUESTION}
+¿Cuál de las opciones de esta tarjeta describe lo que, en su opinión, es mejor para la democracia en general?
+
+{ANSWERS}
+1 Que el gobierno esté formado por un solo partido
+2 Que el gobierno esté formado por dos o más partidos en coalición
+
+E42
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que el gobierno esté formado por un solo partido? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E43
+{INTRO}
+Y ahora, respecto a España, la última pregunta sobre este tema
+
+{QUESTION}
+Utilizando esta tarjeta, dígame, por favor, ¿con qué frecuencia cree usted que el gobierno en España está formado por un solo partido?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Siempre
+
+E44
+{QUESTION}
+¿En qué medida cree usted que es importante para la democracia en general que el gobierno esté formado por dos o más partidos en coalición? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Nada importante para la democracia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente importante para la democracia en general
+
+E45
+{INTRO}
+Y ahora, respecto a España, la última pregunta sobre este tema.
+
+{QUESTION}
+Utilizando esta tarjeta, dígame, por favor, ¿con qué frecuencia cree usted que el gobierno en España está formado por dos o más partidos en coalición?
+
+{ANSWERS}
+0 Nunca
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Siempre

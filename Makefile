@@ -7,7 +7,7 @@ update:
 
 dump:
 	@echo "Dumping sqp to /tmp/latest_sqp_devel_dump.sql"
-	mysqldump -u sqpsu --password=f64b79b4 sqp_prod > /tmp/latest_sqp_prod_dump.sql
+	mysqldump --host=hod.b.upf.edu -u sqpsu --password sqp > /tmp/latest_sqp_prod_dump.sql
 
 migrate: dump
 	@echo "Running south migrations"

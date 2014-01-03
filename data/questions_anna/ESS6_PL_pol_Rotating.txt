@@ -1,0 +1,1122 @@
+﻿D1
+{INTRO}
+A teraz chciałbym/-abym zadać kilka pytań na temat tego, co P. robił/-a w ciągu ostatnich 12 miesięcy.
+
+{QUESTION}
+Jak często w ciągu ostatnich 12 m-cy uczestniczył/-a P. w pracach organizacji charytatywnych, zajmujących się dobroczynnością lub pracował/-a P. jako wolontariusz? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+1 Co najmniej raz w tygodniu
+2 Co najmniej raz w miesiącu
+3 Co najmniej raz na trzy miesiące
+4 Co najmniej raz na pół roku
+5 Rzadziej
+6 Nigdy
+
+D2
+{INTRO}
+A teraz chciałbym/-abym zadać P. kilka pytań dotyczących tego, jak P. widzi siebie i swoje życie.
+
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, na ile zgadza się P., albo nie zgadza z następującymi stwierdzeniami. Jestem zawsze optymistą/-ką, jeśli chodzi o moją przyszłość – uważam, że wszystko będzie układać się dobrze.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D3
+{QUESTION}
+Ogólnie rzecz biorąc mam do siebie bardzo pozytywne nastawienie.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D4
+{QUESTION}
+Czasami myślę, że jestem zupełnie do niczego.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D6
+{QUESTION}
+… czuł/-a P., że wszystko przychodziło P. z trudem?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D8
+{QUESTION}
+… czuł/a się P. szczęśliwy/-a?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D10
+{QUESTION}
+… cieszył/-a się P. życiem?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D11
+{QUESTION}
+… odczuwał/-a P. smutek?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D12
+{QUESTION}
+… na nic nie miał/-a P. ochoty?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D13
+{QUESTION}
+A przez jaką część czasu w ciągu ubiegłego tygodnia … … miał/-a P. mnóstwo energii?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D14
+{QUESTION}
+… odczuwał/-a P. niepokój?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D15
+{QUESTION}
+… czuł/-a się P. spokojny/-a i wyciszony/-a?
+
+{ANSWERS}
+1 W ogóle lub prawie w ogóle
+2 Tylko przez część tego czasu
+3 Przez większość tego czasu
+4 Przez cały czas lub prawie cały ten czas
+
+D16
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, na ile zgadza się P. albo nie zgadza z następującymi stwierdzeniami. Czuję, że mogę swobodnie decydować o swoim życiu.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D17
+{QUESTION}
+W codziennym życiu rzadko mam okazję wykazać się swoimi możliwościami, zdolnościami.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D18
+{QUESTION}
+Przez większość czasu mam poczucie, że spełniam się w tym, co robię.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D19
+{QUESTION}
+Kiedy w moim życiu coś się nie udaje, dojście do siebie zajmuje mi zwykle wiele czasu.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D20
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, w jakim stopniu … …uczy się P. nowych rzeczy w swoim życiu?
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6 W bardzo duż ym stopniu
+
+D21
+{QUESTION}
+… ma P. poczucie, że ludzie w P. miejscu zamieszkania lub okolicy, w której P. mieszka wzajemnie sobie pomagają?
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6 W bardzo duż ym stopniu
+
+D22
+{QUESTION}
+… ma P. poczucie, że ludzie P. szanują?
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6 W bardzo duż ym stopniu
+
+D23
+{QUESTION}
+Posługując się tą kartą proszę powiedzieć, na ile zgadza się P., albo nie zgadza z następującymi stwierdzeniami. Ogólnie mam poczucie, że to, co robię w życiu, jest wartościowe i użyteczne dla innych.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D24
+{QUESTION}
+Tak jak się sprawy mają obecnie, trudno mi myśleć z nadzieją o przyszłości świata.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D25
+{QUESTION}
+Mam poczucie, że jest bardzo wiele rzeczy, w których jestem dobry, sprawdzam się.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D26
+{QUESTION}
+Większości ludzi w Polsce żyje się coraz gorzej, a nie lepiej.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D27
+{QUESTION}
+Czuję się związany/-a z ludźmi z sąsiedztwa i okolicy, w której mieszkam.
+
+{ANSWERS}
+1 Zdecydowanie się zgadzam
+2 Zgadzam się
+3 Ani się zgadzam, ani nie zgadzam
+4 Nie zgadzam się
+5 Zdecydowanie się nie zgadzam
+
+D28
+{QUESTION}
+Na ile znajduje P. czas, aby robić to, co naprawdę chce P. robić? Odpowiadając, proszę posłużyć się tą kartą, gdzie 0 oznacza w ogóle, a 10 oznacza w pełni.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 W peł ni
+
+D29
+{QUESTION}
+Na ile czuje się P. doceniany/-a, szanowany/-a przez bliskie P. osoby? Proszę posłużyć się tą samą kartą.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 W peł ni
+
+D30
+{QUESTION}
+Na ile trudno lub łatwo radzi sobie P. z ważnymi problemami, które pojawiają się w P. życiu? Odpowiadając, proszę posłużyć się tą kartą, gdzie 0 oznacza zdecydowanie trudno, a 10 oznacza zdecydowanie łatwo.
+
+{ANSWERS}
+0 Zdecydowanie trudno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie łatwo
+
+D34
+{QUESTION}
+Jak często, na co dzień, zwraca P. uwagę na to, co się wokół dzieje, na swoje otoczenie i docenia P. jego znacznie?
+
+{ANSWERS}
+0 Nigdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zawsze
+
+D35
+{QUESTION}
+Na ile ma P. poczucie, że wie, dokąd zmierza P. w życiu? Odpowiadając, proszę posłużyć się tą kartą, gdzie 0 oznacza w ogóle, a 10 oznacza w pełni.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 W peł ni
+
+D36
+{QUESTION}
+Na ile otrzymuje P. pomoc i wsparcie ze strony osób bliskich, kiedy P. tego potrzebuje? Odpowiadając, proszę posłużyć się tą kartą, gdzie 0 oznacza w ogóle, a 6 oznacza w pełni.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6 W peł ni
+
+D37
+{QUESTION}
+Na ile zapewnia P. pomoc i wsparcie osobom bliskim, kiedy one tego potrzebują?
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6 W peł ni
+
+D38
+{INTRO}
+Są ludzie, którzy ogólnie zajmują wysokie pozycje w naszym społeczeństwie i tacy, którzy zajmują niskie pozycje w społeczeństwie. Na tej karcie jest skala obrazująca pozycje w społeczeństwie od najwyższych do najniższych. 
+
+{QUESTION}
+Gdzie umieściłby/aby się P. obecnie na tej skali?
+
+{ANSWERS}
+10 Najwyższe pozycje w naszym społeczeństwie
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 Najniższe pozycje w naszym społeczeństwie
+
+D39
+{QUESTION}
+Przez ile dni – w ciągu ostatnich 7 dni – był/-a P. fizycznie aktywny/-a przez przynajmniej 20 minut bez przerwy? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0. Nie było takiego dnia
+1. Jeden dzień
+2. Dwa dni
+3. Trzy dni
+4. Cztery dni
+5. Pięć dni
+6. Sześć dni
+7. Siedem dni
+
+E1
+{INTRO}
+A teraz kilka pytań na temat demokracji. Jak funkcjonuje demokracja w Polsce, będę pytać później. Najpierw jednak proszę zastanowić się, na ile ważne są różne sprawy dla demokracji generalnie. Nie ma tutaj dobrych ani złych odpowiedzi, proszę po prostu powiedzieć, co P. na ten temat myśli.
+
+{QUESTION}
+Posługując się tą kartą, proszę powiedzieć, na ile, P. zdaniem, dla demokracji generalnie ważne jest ... ...żeby wybory parlamentarne były wolne i uczciwe?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E2
+{QUESTION}
+...żeby wyborcy - zanim zdecydują, na kogo głosować - omawiali kwestie polityczne z rodziną i osobami, które znają?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E3
+{QUESTION}
+...żeby poszczególne partie polityczne stanowiły dla siebie rzeczywistą alternatywę, wyraźnie różniły się między sobą?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E4
+{QUESTION}
+...żeby partie opozycyjne, tzn. nie wchodzące w skład rządu, miały możliwość jego krytykowania?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E5
+{QUESTION}
+…żeby media miały możliwość krytykowania rządu?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E6
+{QUESTION}
+Nadal myśląc ogólnie, nie zaś o demokracji w Polsce, na ile – P. zdaniem – dla demokracji generalnie ważne jest ... ...żeby media dostarczały obywatelom rzetelne informacje, pozwalające ocenić rząd?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E7
+{QUESTION}
+...żeby były chronione prawa różnych grup mniejszościowych?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E8
+{QUESTION}
+...żeby obywatele mieli rozstrzygający głos w najważniejszych kwestiach politycznych, głosując nad nimi bezpośrednio w referendach?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E9
+{QUESTION}
+... żeby imigranci uzyskiwali prawo do głosowania w wyborach parlamentarnych dopiero wtedy, gdy otrzymają obywatelstwo kraju, do którego przybyli?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E10
+{QUESTION}
+...żeby sądy traktowały wszystkich jednakowo?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E11
+{QUESTION}
+...żeby sądy konstytucyjne miały możliwość powstrzymania działań rządu, kiedy przekracza on swoje uprawnienia?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E12
+{QUESTION}
+Nadal myśląc ogólnie, nie zaś o demokracji w Polsce, na ile – P. zdaniem – dla demokracji generalnie ważne jest ... ...żeby partie, które źle rządziły, były za to karane przez wyborców gorszym wynikiem, niż w poprzednich wyborach?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E13
+{QUESTION}
+...żeby rząd chronił wszystkich obywateli przed ubóstwem?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E14
+{QUESTION}
+...żeby rząd wyjaśniał swoje decyzje wyborcom?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E15
+{QUESTION}
+...żeby rząd podejmował działania zmierzające do zmniejszania różnic w dochodach?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E16
+{QUESTION}
+A na ile – P. zdaniem – dla demokracji generalnie ważne jest ... ...żeby politycy, przed podejmowaniem decyzji, uwzględniali zdanie rządów innych krajów europejskich?
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E17
+{INTRO}
+Teraz zadam P. kilka pytań na te same tematy, ale tym razem chodzi o P. opinie na temat funkcjonowania demokracji obecnie w Polsce. Tak jak poprzednio, nie ma tutaj dobrych ani złych odpowiedzi – proszę więc po prostu powiedzieć, co P. na ten temat myśli.
+
+{QUESTION}
+Posługując się tą kartą, proszę powiedzieć, na ile, P. zdaniem, następujące stwierdzenia pasują do sytuacji w Polsce. 0 oznacza, że dane stwierdzenie zupełnie nie pasuje do sytuacji w Polsce, a 10 oznacza, że całkowicie pasuje do sytuacji w Polsce. Wybory do Sejmu są wolne i uczciwe.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E18
+{QUESTION}
+Wyborcy w Polsce - zanim zdecydują, na kogo głosować - omawiają kwestie polityczne z rodziną i osobami, które znają.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E19
+{QUESTION}
+Poszczególne partie polityczne w Polsce stanowią dla siebie rzeczywistą alternatywę, wyraźnie różnią się między sobą.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E23
+{QUESTION}
+Prawa różnych grup mniejszościowych w Polsce są chronione.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E24
+{QUESTION}
+Obywatele w Polsce mają rozstrzygający głos w najważniejszych kwestiach politycznych, głosując nad nimi bezpośrednio w referendach.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E25
+{QUESTION}
+Sądy w Polsce traktują wszystkich jednakowo.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E26
+{QUESTION}
+A teraz, posługując się tą samą kartą, proszę powiedzieć, na ile, P. zdaniem, następujące stwierdzenia pasują do sytuacji w Polsce. W Polsce partie, które źle rządziły, są za to karane przez wyborców gorszym wynikiem, niż w poprzednich wyborach.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E27
+{QUESTION}
+Rząd w Polsce chroni wszystkich obywateli przed ubóstwem.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E28
+{QUESTION}
+Rząd w Polsce wyjaśnia swoje decyzje wyborcom.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E29
+{QUESTION}
+Rząd w Polsce podejmuje działania zmierzające do zmniejszania różnic w dochodach.
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E30
+{QUESTION}
+A na ile następujące stwierdzenie pasuje do sytuacji w Polsce? W Polsce politycy, przed podejmowaniem decyzji, uwzględniają zdanie rządów innych krajów europejskich .
+
+{ANSWERS}
+0 Zupeł nie nie pasuje
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cał kowicie pasuje
+
+E31
+{INTRO}
+W kolejnych pytaniach najpierw poproszę P. o wybranie jednej z dwóch możliwości. Następnie zapytam, na ile wybrane przez P. stwierdzenie jest ważne dla demokracji generalnie. Na koniec poproszę P. o opinię w tej sprawie w odniesieniu do Polski obecnie. Proszę pamiętać, że nie ma tutaj dobrych, ani złych odpowiedzi, proszę po prostu powiedzieć, co P. na ten temat myśli.
+Są różne opinie, co do tego, czy w demokracji każdy powinien mieć możliwość, czy też nie powinien mieć możliwości otwartego wyrażania swoich poglądów politycznych - nawet, jeśli są to poglądy skrajne. 
+
+{QUESTION}
+Proszę wybrać jedno stwierdzenie z tej karty, które opisuje to, co P. zdaniem jest najlepsze dla demokracji generalnie.
+
+{ANSWERS}
+1 Każdy powinien mieć możliwość otwartego wyrażania swoich poglądów politycznych - nawet, jeśli są to poglądy skrajne
+2 Tym, którzy mają skrajne poglądy polityczne, powinno się uniemożliwiać ich otwarte wyrażanie
+
+E32
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby każdy miał możliwość otwartego wyrażania swoich poglądów politycznych - nawet, jeśli są to poglądy skrajne? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E33
+{QUESTION}
+Posługując się tą kartą, proszę powiedzieć, na ile, P. zdaniem, obecnie w Polsce każdy ma możliwość otwartego wyrażania swoich poglądów politycznych - nawet, jeśli są to poglądy skrajne? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 W peł ni
+
+E34
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby ludziom mającym skrajne poglądy polityczne, uniemożliwiano ich otwarte wyrażanie? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E35
+{QUESTION}
+Na ile, P. zdaniem, ludziom, którzy obecnie w Polsce mają skrajne poglądy polityczne, uniemożliwia się ich otwarte wyrażanie? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 W peł ni
+
+E36
+{INTRO}
+Czasami rząd nie zgadza się z tym, co większość ludzi uważa za najlepsze dla kraju.
+
+{QUESTION}
+Proszę wybrać jedno stwierdzenie z tej karty, które opisuje to, co - P. zdaniem - jest najlepsze dla demokracji generalnie.
+
+{ANSWERS}
+1 Rząd powinien zmieniać zaplanowaną przez siebie politykę reagując na to, co myśli większość ludzi
+2 Rząd powinien trzymać się zaplanowanej przez siebie polityki bez względu na to, co myśli większość ludzi
+
+E37
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby rząd zmieniał zaplanowaną przez siebie politykę reagując na to, co myśli większość ludzi? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E38
+{QUESTION}
+Jak często, P. zdaniem, obecnie w Polsce rząd zmienia zaplanowaną przez siebie politykę reagując na to, co myśli większość ludzi? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 Nigdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zawsze
+
+E39
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby rząd trzymał się zaplanowanej przez siebie polityki bez względu na to, co myśli większość ludzi? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E40
+{QUESTION}
+Jak często, P. zdaniem, obecnie w Polsce rząd trzyma się zaplanowanej przez siebie polityki bez względu na to, co myśli większość ludzi? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 Nigdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zawsze
+
+E41
+{INTRO}
+W niektórych krajach rząd jest tworzony przez jedną partię, a w innych przez koalicję dwóch lub więcej partii. 
+
+{QUESTION}
+Która z możliwości na tej karcie opisuje to, co - P. zdaniem - jest najlepsze dla demokracji generalnie?
+
+{ANSWERS}
+1 Jedna partia tworzy rząd
+2 Koalicja dwóch lub więcej partii tworzy rząd
+
+E42
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby rząd był tworzony przez jedną partię? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E43
+{INTRO}
+A teraz ostatnie pytanie na ten temat.
+
+{QUESTION}
+Posługując się tą kartą, proszę powiedzieć, jak często, P. zdaniem, rząd w Polsce jest tworzony przez jedną partię?
+
+{ANSWERS}
+0 Nigdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zawsze
+
+E44
+{QUESTION}
+Jak ważne jest, P. zdaniem, dla demokracji generalnie, aby rząd był tworzony przez koalicję dwóch lub więcej partii? Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+0 W ogóle nie jest waż ne dla demokracji generalnie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zdecydowanie jest waż ne dla demokracji generalnie
+
+E45
+{INTRO}
+A teraz ostatnie pytanie na ten temat.
+
+{QUESTION}
+Posługując się tą kartą, proszę powiedzieć, jak często, P. zdaniem, rząd w Polsce jest tworzony przez koalicję dwóch lub więcej partii?
+
+{ANSWERS}
+0 Nigdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zawsze

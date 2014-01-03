@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Hoe vaak bent u in de afgelopen 12 maanden betrokken geweest bij vrijwilligerswerk of werk voor liefdadigheidsinstellingen? Wilt u deze kaart gebruiken voor uw antwoord?
+
+{ANSWERS}
+1 Ten minste 1 keer per week 
+2 Ten minste 1 keer per maand 
+3 Ten minste 1 keer per 3 maanden 
+4 Ten minste 1 keer per 6 maanden 
+5 Minder vaak 
+6 Nooit 
+
+D2
+{INTRO}
+En nu wil ik u enkele vragen stellen over hoe u denkt over uzelf en over uw leven.
+
+{QUESTION}
+Kunt u met deze kaart aangeven in welke mate u het met elk van de volgende uitspraken eens of oneens bent? Ik ben altijd optimistisch over mijn toekomst
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D3
+{QUESTION}
+Over het algemeen denk ik erg positief over mezelf
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D4
+{QUESTION}
+Ik voel mij nu en dan een mislukkeling.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D6
+{QUESTION}
+…u voelde dat alles wat u deed met moeite ging?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D8
+{QUESTION}
+…u gelukkig was?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D10
+{QUESTION}
+…u van het leven genoot?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D11
+{QUESTION}
+…u zich droevig voelde?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D12
+{QUESTION}
+…u niet op gang kon komen?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D13
+{QUESTION}
+En kunt u me zeggen hoe vaak gedurende de afgelopen week... ...u veel energie had?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D14
+{QUESTION}
+…u zich zorgen maakte?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D15
+{QUESTION}
+…u zich kalm en rustig voelde?
+
+{ANSWERS}
+1 Nooit of bijna nooit
+2 Soms
+3 Meestal
+4 Altijd of bijna de hele tijd
+
+D16
+{QUESTION}
+Kunt u met aan de hand van deze kaart zeggen in hoeverre u het eens of oneens bent met elk van de volgende uitspraken? Ik voel me vrij om zelf te beslissen hoe ik mijn leven leid.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D17
+{QUESTION}
+In mijn dagelijks leven krijg ik heel weinig gelegenheid om te laten zien hoe bekwaam ik ben.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D18
+{QUESTION}
+De meeste dagen heb ik het gevoel dat ik iets voor elkaar gekregen heb.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D19
+{QUESTION}
+Als iets verkeerd gaat in mijn leven, kost het mij over het algemeen veel tijd voordat alles weer normaal loopt.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D20
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen in hoeverre… … u nieuwe dingen leert in uw leven?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6 In grote mate
+
+D21
+{QUESTION}
+…u het gevoel heft dat mensen in uw buurt elkaar helpen?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6 In grote mate
+
+D22
+{QUESTION}
+…u het gevoel heeft dat mensen u met respect behandelen?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6 In grote mate
+
+D23
+{QUESTION}
+Kunt u met deze kaart aangeven in welke mate u het met elk van de volgende uitspraken eens of oneens bent? Over algemeen heb ik het gevoel dat wat ik in mijn leven doe nuttig en waardevol is.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D24
+{QUESTION}
+Zoals de zaken er nu voorstaan, vind ik het moeilijk om hoopvol te zijn over de toekomst van de wereld.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D25
+{QUESTION}
+Er zijn veel dingen waarvan ik het gevoel heb dat ik er goed in ben.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D26
+{QUESTION}
+Voor de meeste mensen in Nederland wordt het leven eerder slechter dan beter.
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D27
+{QUESTION}
+Ik voel me nauw verbonden met de mensen in mijn buurt
+
+{ANSWERS}
+1 Helemaal eens
+2 Eens
+3 Niet eens, niet oneens
+4 Oneens
+5 Helemaal oneens
+
+D28
+{QUESTION}
+In hoeverre maakt u tijd vrij om de dingen te doen die u echt wilt doen? Gebruik deze kaart waarbij 0 helemaal niet en 10 volledig betekent.
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Volledig
+
+D29
+{QUESTION}
+In hoeverre voelt u zich gewaardeerd door de mensen die dicht bij u staan? Gebruik dezelfde kaart.
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Volledig
+
+D30
+{QUESTION}
+Hoe moeilijk of makkelijk vindt u het om om te gaan met belangrijke problemen die zich in uw leven voordoen? Gebruik deze kaart waarbij 0 uiterst moeilijk en 10 uiterst makkelijk betekent.
+
+{ANSWERS}
+0 Uiterst moeilijk
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Uiterst makkelijk
+
+D34
+{QUESTION}
+Hoe vaak schenkt u aandacht aan en waardeert u uw omgeving op een doorsnee dag?
+
+{ANSWERS}
+0 Nooit
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Altijd
+
+D35
+{QUESTION}
+In hoeverre heeft u het gevoel dat u een bepaalde richting uitgaat in uw leven? Gebruik deze kaart waarbij 0 helemaal niet en 10 volledig betekent.
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Completely
+
+D36
+{QUESTION}
+In hoeverre ontvangt u hulp en steun van mensen die dichtbij u staan als u dat nodig heeft? Gebruik deze kaart waarbij 0 helemaal niet en 6 volledig betekent.
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6 Volledig
+
+D37
+{QUESTION}
+En in hoeverre geeft u hulp en steun aan mensen die dicht bij u staan wanneer zij dat nodig hebben?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2 
+3 
+4 
+5 
+6 Volledig
+
+D38
+{INTRO}
+Er zijn mensen die eerder tot de bovenlaag van onze maatschappij behoren en mensen die eerder tot de onderlaag behoren. Op deze kaart is er een schaal die van de bovenlaag tot de onderlaag loopt. 
+
+{QUESTION}
+Waar zou u zichzelf plaatsen op deze schaal vandaag de dag?
+
+{ANSWERS}
+10 Bovenlaag van onze maatschappij
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Onderlaag van onze maatschappij
+
+D39
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoeveel van de afgelopen 7 dagen u onafgebroken lichamelijk actief bent geweest gedurende 20 minuten of langer?
+
+{ANSWERS}
+0. Geen dagen 
+1. 1 dag 
+2. 2 dagen 
+3. 3 dagen 
+4. 4 dagen 
+5. 5 dagen
+6. 6 dagen 
+7. 7 dagen 
+
+E1
+{INTRO}
+Nu volgen een aantal vragen over democratie. Straks zal ik u vragen naar hoe democratie werkt in Nederland. Eerst wil ik u echter vragen na te denken over hoe belangrijk u verschillende zaken vindt voor democratie in het algemeen. Er zijn geen juiste of foute antwoorden, u mag dus gewoon zeggen wat u denkt.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe belangrijk u het vindt dat voor de democatie in het algemeen... …dat nationale verkiezingen vrij en eerlijk verlopen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E2
+{QUESTION}
+…dat kiezers met mensen die zij kennen over politiek praten voordat zij beslissen hoe ze zullen stemmen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E3
+{QUESTION}
+…dat verschillende politieke partijen duidelijke alternatieven aanbieden ten opzichte van elkaar?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E4
+{QUESTION}
+…dat oppositiepartijen de vrijheid hebben om de regering te bekritiseren?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E5
+{QUESTION}
+… dat de media de vrijheid hebben om de regering te bekritiseren?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E6
+{QUESTION}
+En nog steeds denkend aan de democratie in het algemeen en niet aan de Nederlandse situatie, hoe belangrijk vindt u het voor de democratie in het algemeen… … dat de media de bevolking betrouwbare informatie geven om de regering te beoordelen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E7
+{QUESTION}
+… dat de rechten van minderheden beschermd worden?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E8
+{QUESTION}
+… dat de bevolking het laatste woord heeft over de belangrijkste politieke kwesties door er rechtstreeks op te stemmen in een referendum?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E9
+{QUESTION}
+… dat immigranten enkel het recht krijgen om te stemmen voor de nationale verkiezingen wanneer zij de nationaliteit hebben?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E10
+{QUESTION}
+…dat de rechtbanken iedereen op een gelijke manier behandelen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E11
+{QUESTION}
+…dat de rechtbanken in staat zijn om de regering een halt toe te reopen wanneer ze buiten haar bevoegdheden handelt?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E12
+{QUESTION}
+En nog steeds denkend aan de democratie in het algemeen en niet aan de Nederlandse situatie, hoe belangrijk vindt u het voor de democratie in het algemeen… …dat de regeringspartijen afgestraft worden bij verkiezingen wanneer ze slecht werk leveren?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E13
+{QUESTION}
+…dat de regering alle burgers beschermt tegen armoede?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E14
+{QUESTION}
+…dat de regering haar beslissingen uitlegt aan de kiezers?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E15
+{QUESTION}
+…dat de regering maatregelen neemt om inkomensverschillen te verminderen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E16
+{QUESTION}
+En hoe belangrijk vindt u het voor de democratie in het algemeen… …dat politici rekening houden met de opvattingen van andere Europese regeringen voordat ze beslissingen nemen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E17
+{INTRO}
+Nu volgen een aantal vragen over dezelfde onderwerpen, maar deze keer over hoe u vindt dat de democratie werkt in Nederland vandaag de dag. Nogmaals, er zijn geen juiste of foute antwoorden, u mag dus gewoon zeggen wat u denkt.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen in hoeverre u vindt dat elk van de volgende uitspraken van toepassing zijn in Nederland. 0 betekent dat de uitspraak helemaal niet van toepassing is en 10 betekent dat de uitspraak volledig van toepassing is. Nationale verkiezingen in Nederland zijn vrij en eerlijk.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E18
+{QUESTION}
+Kiezers in Nederland praten over politiek met mensen die zij kennen voordat zij beslissen hoe ze zullen stemmen
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E19
+{QUESTION}
+Verschillende politieke partijen in Nederland bieden duidelijke alternatieven aan ten opzichte van elkaar.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E23
+{QUESTION}
+De rechten van minderheden in Nederland worden beschermd.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E24
+{QUESTION}
+De bevolking in Nederland heeft het laatste woord over de belangrijkste politieke kwesties door er rechtstreeks op te stemmen in een referendum.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E25
+{QUESTION}
+De rechtbanken in Nederland behandelen iedereen op een gelijke manier.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E26
+{QUESTION}
+En kunt u aan de hand van dezelfde kaart aangeven in hoeverre u vindt dat elk van de volgende uitspraken van toepassing zijn in Nederland? Regeringspartijen in Nederland worden afgestraft bij verkiezingen wanneer ze slecht werk leveren.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E27
+{QUESTION}
+De regering in Nederland beschermt alle burgers tegen armoede.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E28
+{QUESTION}
+De regering in Nederland legt haar beslissingen uit aan de kiezers.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E29
+{QUESTION}
+De regering in Nederland neemt maatregelen om inkomensverschillen te verminderen.
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E30
+{QUESTION}
+En in hoeverre is deze uitspraak van toepassing in Nederland? Politici in Nederland houden rekening met de opvattingen van andere Europese regeringen voordat ze beslissingen nemen?
+
+{ANSWERS}
+0 Helemaal niet van toepassing
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Volledig van toepassing
+
+E31
+{INTRO}
+Bij de volgende vragen, zal ik u eerst vragen om te kiezen tussen twee mogelijkheden. Daarna zal ik u vragen hoe belangrijk deze keuze volgens u is voor de democratie in het algemeen. Tenslotte zal ik u vragen hoe het met deze kwestie gesteld is in Nederland vandaag de dag. Ik herinner u er nog even aan dat er geen juiste of foute antwoorden zijn, u mag dus gewoon zeggen wat u denkt. 
+Er bestaan verschillende standpunten over de vraag of iedereen al dan niet vrij zou moeten zijn om hun politieke opvattingen openlijk te uiten in een democratie, zelfs als deze extreem zijn.
+
+{QUESTION}
+Welke van de uitspraken op deze kaart omschrijft wat u denkt dat het beste is voor de democratie in het algemeen?
+
+{ANSWERS}
+1 Iedereen zou vrij moeten zijn om zijn/haar politieke opvattingen openlijk te uiten, zelfs als deze extreem zijn.
+2 Diegenen met extreme politieke opvattingen moeten verhinderd worden om deze openlijk te uiten.
+
+E32
+{QUESTION}
+Hoe belangrijk vindt u het voor de democratie in het algemeen dat iedereen vrij is om hun politieke opvattingen openlijk te uiten, zelfs als deze extreem zijn? Gebruik deze kaart.
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E33
+{QUESTION}
+Kunt u mij aan de hand van deze kaart zeggen in hoeverre u vindt dat iedereen in Nederland vandaag de dag vrij is om hun politieke opvattingen openlijk te uiten, zelfs als deze extreem zijn?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Volledig
+
+E34
+{QUESTION}
+Hoe belangrijk vindt u dat het is voor de democratie in het algemeen dat diegenen met extreme politieke opvattingen verhinderd worden om deze openlijk te uiten?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E35
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen in hoeverre u vindt dat diegenen met extreme politieke opvattingen in Nederland vandaag de dag verhinderd worden om deze openlijk te uiten?
+
+{ANSWERS}
+0 Helemaal niet
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Volledig
+
+E36
+{INTRO}
+Soms verschilt de regering van mening met wat de meeste mensen denken wat het beste is voor het land.
+
+{QUESTION}
+Welk van de uitspraken op deze kaart omschrijft wat u denkt dat het beste is voor de democratie in het algemeen?
+
+{ANSWERS}
+1 De regering zou haar geplande beleid moeten veranderen als reactie op wat de meeste mensen vinden
+2 De regering zou bij haar geplande beleid moeten blijven ongeacht wat de meeste mensen vinden
+
+E37
+{QUESTION}
+Hoe belangrijk vindt u het voor de democratie in het algemeen dat de regering haar geplande beleid verandert als reactie op wat de meeste mensen vinden? Gebruik deze kaart.
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E38
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe vaak u denkt dat de regering in Nederland vandaag de dag haar geplande beleid verandert als reactie op wat de meeste mensen vinden?
+
+{ANSWERS}
+0 Nooit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altijd
+
+E39
+{QUESTION}
+Hoe belangrijk vindt u het voor de democratie in het algemeen dat de regering bij haar geplande beleid blijft ongeacht wat de meeste mensen vinden? Gebruik deze kaart.
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E40
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe vaak u denkt dat de regering in Nederland vandaag de dag bij haar geplande beleid blijft ongeacht wat de meeste mensen vinden?
+
+{ANSWERS}
+0 Nooit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altijd
+
+E41
+{INTRO}
+De regering wordt in sommige landen gevormd door één enkele partij; in andere landen door twee of meerdere partijen die samen een coalitie vormen. 
+
+{QUESTION}
+Welke optie op deze kaart beschrijft wat u denkt dat het beste is voor de democratie in het algemeen?
+
+{ANSWERS}
+1 Eén enkele partij vormt de regering
+2 De regering bestaat uit twee of meerdere partijen die samen een coalitie vormen. 
+
+E42
+{QUESTION}
+Hoe belangrijk vindt u het voor de democratie in het algemeen dat de regering wordt gevormd door één enkele partij? Gebruik deze kaart.
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E43
+{INTRO}
+Nu een laatste vraag over dit onderwerp.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe vaak u denkt dat de regering in Nederland wordt gevormd door één enkele partij?
+
+{ANSWERS}
+0 Nooit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altijd
+
+E44
+{QUESTION}
+Hoe belangrijk vindt u het voor de democratie in het algemeen dat de regering wordt gevormd door twee of meerdere partijen die samen een coalitie vormen?
+
+{ANSWERS}
+0 Helemaal niet belangrijk voor de democratie in het algemeen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Uiterst belangrijk voor de democratie in het algemeen
+
+E45
+{INTRO}
+Nu een laatste vraag over dit onderwerp.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe vaak u denkt dat de regering in Nederland gevormd wordt door twee of meerdere partijen die samen een coalitie vormen?
+
+{ANSWERS}
+0 Nooit
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altijd

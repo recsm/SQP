@@ -1,0 +1,1170 @@
+﻿D1
+{QUESTION}
+Az elmúlt 12 hónapban milyen gyakran végzett önkéntes munkát vagy vett részt valamilyen segélyszervezet munkájában? Kérem használja a 23. kártyalapot!
+
+{ANSWERS}
+1 legalább hetente egyszer
+2 legalább havonta egyszer
+3 legalább háromhavonta egyszer
+4 legalább félévente egyszer
+5 ritkábban
+6 soha
+
+D2
+{INTRO}
+Most arról szeretném kérdezni, hogyan vélekedik önmagáról és az életéről.
+
+{QUESTION}
+Mennyire ért, illetve nem ért egyet az alábbi állításokkal! Kérem használja a 24. kártyalapot! Optimistán tekintek a jövőre.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D3
+{QUESTION}
+Általában elégedett vagyok magammal.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D4
+{QUESTION}
+Néha úgy érzem, kész csőd vagyok.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D6
+{QUESTION}
+érezte azt, hogy mindenhez nagy erőfeszítésre volt szüksége?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D8
+{QUESTION}
+volt boldog?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D10
+{QUESTION}
+élvezte az életet?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D11
+{QUESTION}
+volt szomorú?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D12
+{QUESTION}
+érezte azt, hogy elfásult, nincs kedve semmihez?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D13
+{QUESTION}
+érezte, hogy sok energiája van?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D14
+{QUESTION}
+volt nyugtalan?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D15
+{QUESTION}
+volt nyugodt és békés?
+
+{ANSWERS}
+1  Soha vagy szinte soha
+2  Néha
+3  Többnyire
+4  Mindig vagy majdnem mindig
+
+D16
+{QUESTION}
+Kérem, mondja meg, mennyire ért egyet az alábbi állításokkal! Kérem használja a 26. kártyalapot! Úgy érzem, szabadon dönthetek az életemről.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D17
+{QUESTION}
+A mindennapokban ritkán adódik lehetőségem arra, hogy megmutassam, mire is vagyok képes.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D18
+{QUESTION}
+Legtöbbször úgy érzem, hogy van értelme annak, amit csinálok.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D19
+{QUESTION}
+Ha valami rosszul sül el, nehezen találok vissza a régi kerékvágásba.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D20
+{QUESTION}
+Mennyire érzi, hogy … Kérem használja a 27. kártyalapot! van lehetősége új dolgokat tanulni?
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 Teljes mértékben
+
+D21
+{QUESTION}
+segítőkészek az emberek a közvetlen környezetében?
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 Teljes mértékben
+
+D22
+{QUESTION}
+tisztelik, elismerik?
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 Teljes mértékben
+
+D23
+{QUESTION}
+Mennyire ért vagy nem ért egyet a következő állításokkal! Kérem használja a 28. kártyalapot! Általában úgy érzem, amivel foglalkozom az életemben az értékes és hasznos mások számára.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D24
+{QUESTION}
+A dolgok jelenlegi állása szerint nehezen tudok bizakodva gondolni a világ jövőjére.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D25
+{QUESTION}
+Sok olyan dolog van, amelyekről úgy érzem, jó vagyok bennük.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D26
+{QUESTION}
+Magyarországon a legtöbb ember élete inkább romlik, mint javul.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D27
+{QUESTION}
+Kötődöm a lakókörnyezetemben élő emberekhez.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet is ért, meg nem is
+4 Nem ért egyet
+5 Egyáltalán nem ért egyet
+
+D28
+{QUESTION}
+Mennyire jellemző Önre, hogy szakít időt azokra a dolgokra, amelyekkel igazán szeretne foglalkozni? Kérem, használja ezt a kártyalapot, ahol a 0 azt jelenti, hogy egyáltalán nem jellemző, a 10 pedig azt jelenti, hogy teljes mértékben jellemző.
+
+{ANSWERS}
+0  egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10  teljes mértékben
+
+D29
+{QUESTION}
+Mennyire érzi úgy, hogy megbecsülik az Önhöz közel álló emberek? Kérem, ugyanezt a kártyalapot használja!
+
+{ANSWERS}
+0  egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10  teljes mértékben
+
+D30
+{QUESTION}
+Mennyire találja könnyűnek vagy nehéznek, hogy az Ön életében felmerülő jelentős problémákkal megbirkózzon? Kérem, használja a kártyalapot, ahol a 0 azt jelenti, hogy nagyon nehéz, a 10 azt jelenti, hogy nagyon könnyű.
+
+{ANSWERS}
+0  nagyon nehéz
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10  nagyon könnyű
+
+D34
+{QUESTION}
+Egy átlagos napon milyen gyakran veszi észre és becsüli meg az Önt körülvevő világot?
+
+{ANSWERS}
+0 soha
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 mindig
+
+D35
+{QUESTION}
+Mennyire érzi úgy, hogy az életének van iránya? Kérem, használja ezt a kártyalapot ahol a 0 azt jelenti, hogy egyáltalán nem érzi a 10 pedig, hogy teljes mértékben így érzi.
+
+{ANSWERS}
+0  egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10  teljes mértékben
+
+D36
+{QUESTION}
+Milyen mértékben kap segítséget és támogatást az Önhöz közelállóktól, amikor szüksége van rá? Kérem, használja a kártyalapot ahol a 0 azt jelenti, hogy egyáltalán nem és a 6 azt jelenti, hogy teljes mértékben támogatják Önt.
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 teljes mértékben
+
+D37
+{QUESTION}
+És Ön milyen mértékben nyújt segítséget és támogatás nyújt másoknak, amikor azoknak szüksége van rá?
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 teljes mértékben
+
+D38
+{INTRO}
+Vannak olyan emberek, akik a társadalmunk felső részén találhatóak és vannak, akik a társadalom alsó részén. Ezen a kártyalapon egy skála található, amely fentről lefelé halad.
+
+{QUESTION}
+Ön jelenleg hol helyezné el magát ezen a skálán?
+
+{ANSWERS}
+10 A társadalmunk felső része
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 A társadalmunk alsó része
+
+D39
+{QUESTION}
+A kártyalap segítségével kérem, mondja meg, hogy hányszor végzett az elmúlt hét napban fizikailag aktív feladatot legalább 20 percig folyamatosan?
+
+{ANSWERS}
+0 Egyetlen napon sem
+1 Egy napon
+2 Két napon
+3 Három napon
+4 Négy napon
+5 Öt napon
+6 Hat napon
+7 Hét napon
+
+E1
+{INTRO}
+Most néhány kérdés következik a demokráciáról. Későbbiek folyamán megkérdezem Öntől, hogy miként működik a demokrácia Magyarországon. Először azonban szeretném, ha inkább arról mondana véleményt, hogy a különböző dolgok mennyire fontosak a demokráciában általában véve. Nincs jó vagy rossz válasz, kérem, hogy azt mondja, amit Ön igazán gondol.
+
+{QUESTION}
+A kártyalap használatával, kérem, mondja meg, hogy , mennyire tartja általában véve fontosnak a demokráciához, hogy ... szabad és tisztességes országos választásokat tartsanak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E2
+{QUESTION}
+...a szavazók megvitassák a politikát az ismerőseikkel, mielőtt eldöntik,hogyan szavaznak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E3
+{QUESTION}
+...a különböző politikai p ártok világos alternatívát nyújtsanak egymáshoz képest?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E4
+{QUESTION}
+...az ellenzéki pártok szabadon bírálhassák a kormányt?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E5
+{QUESTION}
+…a media szabadon  bírálhassa a kormányt?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E6
+{QUESTION}
+És még továbbra is általánosságban véve és nem Magyarországra koncentrálva, mennyire tartja fontosnak a demokráciához általában, hogy  ...a média megbízható információt nyújtson az állampolgárok számára azért, hogy megítéljék a kormányt?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E7
+{QUESTION}
+...védjék a kisebbségek jogait?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E8
+{QUESTION}
+...hogy a legfőbb politikai  ügyekben az állampolgárok akarata érvényesüljön azáltal, hogy közvetlen népszavazáson szavazhatnak róluk?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E9
+{QUESTION}
+…a bevándorlók csak azután szavazhassanak az országos választásokon, ha állampolgárokká váltak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E10
+{QUESTION}
+...a bíróságok mindenkit egyenlően kezeljenek?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E11
+{QUESTION}
+...a bíróságok mindenkit egyenlően kezeljenek?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E12
+{QUESTION}
+És még továbbra is általánosságban véve és nem Magyarországra koncentrálva mennyire tartja fontosnak a demokráciához általában, hogy  ... a kormánypártokat megbüntessék a választásokon, amennyiben rosszul végezték a munkájukat?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E13
+{QUESTION}
+...a kormány minden állampolgárát megvédje a szegénységtől?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E14
+{QUESTION}
+...a kormány megindokolja a döntéseit a szavazóinak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E15
+{QUESTION}
+...a kormány tegyen lépésekét annak érdekében, hogy csökkentse a jövedelmi különbségeket?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E16
+{QUESTION}
+És mennyire tartja fontosnak általában a demokráciában, hogy  ...a politikusok vegyék figyelembe a többi európai ország kormányának véleményét, mielőtt döntést hoznak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E17
+{INTRO}
+Most néhány kérdés következnek ugyanerről a témáról, most azonban arra vagyunk kíváncsiak, hogy Ön mit gondola arról, hogy a mai Magyarországon hogyan működik a demokrácia? Ismételten nincs jó vagy rossz válasz, kérem, hogy mondja azt, amit Ön gondola.
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, milyen mértékben gondolja úgy, hogy a következő állítások jellemzőek Magyarországra]. 0 azt jelenti, hogy egyáltalán nem jellemző, 10 pedig, hogy teljes mértékben jellemző. Az országos választások Magyarországon szabadok és tisztességesek.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E18
+{QUESTION}
+Magyarországon a szavazók megvitatják a politikát ismerőseikkel mielőtt eldöntik, hogy miként szavaznak.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E19
+{QUESTION}
+A különböző politikai partok Magyarországon világos alternatívát nyújtsanak egymáshoz képest?
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E20
+{QUESTION}
+Az ellenzéki partok Magyarországon szabadon bírálhatják a kormányt.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E21
+{QUESTION}
+A média Magyarországon szabadon bírálhatja a kormányt
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E22
+{QUESTION}
+Ugyanennek a kártyalapnak a használatával kérem, mondja meg, hogy mennyire tartja jellemzőnek következő állításokat Magyarországra vonatkozóan? A média Magyarországon megbízható információt nyújt az állampolgárok számára ahhoz, hogy megítéljék a kormányt.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E23
+{QUESTION}
+A kisebbségek jogait védik Magyarországon.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E24
+{QUESTION}
+A legfőbb politikai ügyekben a  magyar állampolgárok akarata érvényesül azáltal, hogy közvetlen népszavazáson szavazhatnak róluk .
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E25
+{QUESTION}
+A bíróságok Magyarországon mindenkit egyenlően kezelnek.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E26
+{QUESTION}
+Ugyanennek a kártyalapnak a használatával kérem, mondja meg, hogy mennyire tartja jellemzőnek a következő állításokat Magyarországra? A kormányzó pártokat Magyarországon a választásokon meg lehet büntetni, ha rosszul végezték a munkájukat.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E27
+{QUESTION}
+Magyarországon a kormány minden állampolgárt megvéd a szegénységtől.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E28
+{QUESTION}
+Magyarországon a kormány megindokolja a döntéseit a szavazóknak.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E29
+{QUESTION}
+Magyarországon a kormány lépéseket tesz annak érdekében, hogy csökkentse a jövedelmi különbségeket.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E30
+{QUESTION}
+És a következő állítás mennyire jellemző Magyarországra? A politikusok Magyarországon figyelembe veszik a többi európai ország kormányának véleményét mielőtt döntéseket hoznak?
+
+{ANSWERS}
+0 Egyáltalán nem jellemző
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E31
+{INTRO}
+A következő kérdések során először arra kérem, hogy válasszon két lehetőség közül. Utána azt kérdezem, hogy a választása mennyire fontos a demokrácia számára általánosságban. Végezetül pedig azt kérem, gondoljon erre a dologra a mai Magyarországon! Emlékeztetném, hogy nincs jó vagy rossz válasz, azt mondja, amit Ön gondol!
+Különböző vélemények vannak arról, hogy vajon mindenkinek hagyni kellene, hogy nyíltan kifejthesse a politikai nézeteit, még akkor is, ha azok szélsőségesek.
+
+{QUESTION}
+A kártyalapon szereplő állítások közül melyik írja le a leginkább azt, amit Ön általában véve gondol a demokráciáról?
+
+{ANSWERS}
+1 Mindenkinek hagyni kellene, hogy nyíltan kifejezhesse a politikai nézeteit, még akkor is, ha azok szélsőségesek.
+2 Meg kell akadályozni, hogy azok, akiknek szélsőséges politikai nézeteik vannak, nyíltan kifejthessék azokat
+
+E32
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy mindenki szabadon kifejthesse a politikai nézeteit nyíltan akkor is, ha azok szélsőségesek? Kérem, használja ezt a kártyalapot.
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E33
+{QUESTION}
+A kártyalap segítségével milyen mértékben gondolja úgy, hogy Magyarországon ma mindenki kifejtheti politikai nézeteit nyíltan, még akkor is, ha azok szélsőségesek?
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 teljesen mértékben
+
+E34
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy megakadályozzák azokat, akik szélsőséges nézeteket vallanak attól, hogy nyíltan kifejthessék a politikai nézeteiket? Kérem, használja ezt a kártyalapot
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E35
+{QUESTION}
+Ennek a kártyalapnak a használatával, kérem, mondja meg, hogy milyen mértékben gondolja úgy, hogy azok, akik szélsőséges politikai nézeteket vallanak ma Magyarországon, azokat megakadályozzák abban, hogy nyíltan kifejezzék azokat?
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 teljesen mértékben
+
+E36
+{INTRO}
+Melyik az az egy állítás, amely a legjobban leírja azt, hogy Ön mit gondol a legjobbnak általában véve a demokráciában?
+
+{QUESTION}
+Néha a kormány nem ért egyet azzal, amiről az emberek többsége úgy vélekedik, hogy az az ország érdeke.
+
+{ANSWERS}
+1 A kormánynak meg kell változtatnia az eltervezett politikáját, hogy eleget tegyen annak, amit az emberek többsége gondol.
+2 A kormánynak ragaszkodnia kell az eltervezett politikájához függetlenül attól, hogy az emberek többsége mit gondol.
+
+E37
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy a kormány megváltoztassa az eltervezett politikáját azért, hogy eleget tegyen annak, amit az emberek többsége gondol? Kérem, használja ezt a kártyalapot!
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E38
+{QUESTION}
+Ezt a kártyalapot használva kérem, mondja meg, hogy milyen gyakran fordul elő ma Magyarországon, hogy a kormány megváltoztatja az eltervezett politikáját azért, hogy eleget tegyen annak, amit az emberek többsége gondol?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E39
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy a kormány ragaszkodjon az eltervezett politikájához függetlenül attól, hogy az emberek többsége miként vélekedik? Kérem, használja ezt a kártyalapot!
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E40
+{QUESTION}
+Ennek a kártyalapnak a használatával kérem, mondja meg, hogy a kormány ma Magyarországon ragaszkodik az eltervezett politikákhoz függetlenül attól, hogy az emberek többsége miként vélekedik?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E41
+{INTRO}
+A kormányt néhány országban egyetlen párt alkotja, míg más országokban két vagy több part alkot koalíciót. 
+
+{QUESTION}
+Melyik az az állítás ezen a kártyalapon, amelyik a legjobban leírja azt, hogy Ön mit gondol a legjobbnak a demokráciában általában véve?
+
+{ANSWERS}
+1 Egyetlen párt alkot kormányt
+2 Két vagy több párt alkot kormányt koalícióban
+ 
+E42
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy egy párt alkosson kormányt? Kérem, használja ezt a kártyalapot!
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E43
+{INTRO}
+Most az utolsó kérdés következik ebben a témában. 
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, hogy milyen gyakran fordul elő, hogy Magyarországon egyetlen párt alkot kormányt?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E44
+{QUESTION}
+Mennyire tartja fontosnak a demokráciában általában véve, hogy a kormányt két vagy több párt koalíciója alkossa? Kérem, használja ezt a kártyalapot!
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához
+
+E45
+{INTRO}
+Most az utolsó kérdés következik ebben a témában. 
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, hogy milyen gyakran fordul elő Magyarországon, hogy a kormányt két vagy több part koalíciója alkotja?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig

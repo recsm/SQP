@@ -1,0 +1,1120 @@
+﻿D1
+{QUESTION}
+Wie oft waren Sie in den letzten 12 Monaten für Vereine, Verbände oder gemeinnützige Organisationen tätig? Bitte sagen Sie es mir anhand von KARTE 23.
+
+{ANSWERS}
+1 Mindestens einmal in der Woche
+2 Mindestens einmal im Monat
+3 Mindestens einmal alle drei Monate  
+4 Mindestens einmal alle sechs Monate  
+5 Seltener
+6 Nie
+
+D2
+{INTRO}
+Und jetzt ein paar Fragen dazu, wie Sie sich selber und Ihr Leben so sehen.
+
+{QUESTION}
+Bitte benutzen Sie diese KARTE und sagen Sie mir, wie sehr Sie den folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Ich bin in Bezug auf meine Zukunft immer optimistisch.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D3
+{QUESTION}
+Im Allgemeinen habe ich ein gutes Selbstwertgefühl.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D4
+{QUESTION}
+Manchmal habe ich das Gefühl, ein Versager oder eine Versagerin zu sein.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D6
+{QUESTION}
+… Sie das Gefühl gehabt haben, dass alles, was Sie gemacht haben, anstrengend gewesen ist?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D8
+{QUESTION}
+… Sie glücklich gewesen sind?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D10
+{QUESTION}
+... Sie das Leben genossen haben?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D11
+{QUESTION}
+... Sie traurig gewesen sind?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D12
+{QUESTION}
+... Sie sich zu nichts haben aufraffen können?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D13
+{QUESTION}
+Bitte sagen Sie mir nun, wie oft Sie in der letzten Woche ... ... viel Energie gehabt haben?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D14
+{QUESTION}
+... sich Sorgen gemacht haben?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D15
+{QUESTION}
+... sich ruhig und gelassen gefühlt haben?
+
+{ANSWERS}
+1 Nie oder fast nie   
+2 Manchmal
+3 Meistens
+4 Immer oder fast immer  
+
+D16
+{QUESTION}
+Bitte verwenden Sie nun diese KARTE, um anzugeben, wie sehr Sie den folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Ich habe das Gefühl, dass ich frei entscheiden kann, wie ich mein Leben lebe.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D17
+{QUESTION}
+Ich habe im Alltag sehr selten die Gelegenheit zu zeigen, was ich kann.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D18
+{QUESTION}
+Meistens finde ich Erfüllung in dem, was ich mache.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D19
+{QUESTION}
+Wenn etwas in meinem Leben schiefläuft, brauche ich in der Regel lange, um wieder zur Normalität zurückzukehren.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D20
+{QUESTION}
+Bitte benutzen Sie jetzt diese KARTE und sagen Sie mir, in welchem Ausmass ... … Sie in Ihrem Leben neue Sachen lernen?
+
+{ANSWERS}
+0 Überhaupt nicht
+1
+2 
+3 
+4 
+5 
+6 In grossem Ausmass  
+
+D21
+{QUESTION}
+... Sie das Gefühl haben, dass sich die Menschen in Ihrer Wohngegend gegenseitig helfen?
+
+{ANSWERS}
+0 Überhaupt nicht
+1
+2 
+3 
+4 
+5 
+6 In grossem Ausmass  
+
+D22
+{QUESTION}
+... Sie das Gefühl haben, dass Sie respektvoll behandelt werden?
+
+{ANSWERS}
+0 Überhaupt nicht
+1
+2 
+3 
+4 
+5 
+6 In grossem Ausmass  
+
+D23
+{QUESTION}
+Bitte verwenden Sie nun diese KARTE um anzugeben, wie sehr Sie den folgenden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Ich habe in der Regel das Gefühl, dass das, was ich in meinem Leben mache, wertvoll und sinnvoll ist.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D24
+{QUESTION}
+So wie es momentan aussieht, finde ich es schwierig, die Zukunft der Welt positiv zu sehen.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D25
+{QUESTION}
+Ich finde, es gibt vieles, was ich gut kann.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D26
+{QUESTION}
+Für die meisten Menschen in der Schweiz wird das Leben schlechter und nicht besser.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D27
+{QUESTION}
+Ich fühle mich den Menschen in meiner Wohngegend nahe.
+
+{ANSWERS}
+1 Stimme stark zu  
+2 Stimme zu
+3 Weder noch  
+4 Lehne ab
+5 Lehne stark ab
+
+D28
+{QUESTION}
+In welchem Umfang nehmen Sie sich Zeit, um das zu machen, was Sie wirklich machen wollen? Bitte benutzen Sie diese KARTE, wobei 0 "überhaupt nicht" und 10 "voll und ganz" bedeutet.
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Voll und ganz 
+
+D29
+{QUESTION}
+Wie sehr fühlen Sie sich von den Menschen geschätzt, die Ihnen nahestehen? Bitte benutzen Sie nochmals die gleiche KARTE.
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Voll und ganz 
+
+D30
+{QUESTION}
+Wie schwer oder leicht fällt es Ihnen, mit grossen Problemen umzugehen, die sich in Ihrem Leben stellen? Bitte benutzen Sie diese KARTE, wobei 0 "extrem schwer" und 10 "extrem leicht" bedeutet.
+
+{ANSWERS}
+0 Extrem schwer
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Extrem leicht  
+
+D34
+{QUESTION}
+Wie oft kommt es an einem normalen Tag vor, dass Sie Ihr Umfeld bewusst wahrnehmen und auch schätzen?
+
+{ANSWERS}
+0 Nie
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Immer
+
+D35
+{QUESTION}
+Inwiefern haben Sie eine Vorstellung davon, wie sich Ihr Leben entwickeln sollte? Bitte benutzen Sie diese KARTE, wobei 0 "überhaupt nicht" und 10 "voll und ganz" bedeutet.
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Voll und ganz  
+
+D36
+{QUESTION}
+Какую помощь и поддержку Вы получаете от близких Вам людей в случаях, когда Вам нужна такая помощь? Для ответа используйте шкалу на этой карточке, где 0 означает "совсем не помогают", а 6 - "очень сильно помогают".
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2 
+3 
+4 
+5 
+6 Voll und ganz
+
+D37
+{QUESTION}
+Und inwiefern geben Sie selber den Menschen, die Ihnen nahestehen, Hilfe und Unterstützung, wenn sie sie brauchen?
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2 
+3 
+4 
+5 
+6 Voll und ganz
+
+D38
+{INTRO}
+Es gibt Menschen, die in unserer Gesellschaft eher oben stehen, und Menschen, die eher unten stehen. Auf dieser KARTE sehen Sie eine Skala von oben nach unten. Wo sehen 
+
+{QUESTION}
+Sie sich momentan auf dieser Skala?
+
+{ANSWERS}
+10 Oben in unserer Gesellschaft  
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Unten in unserer Gesellschaft 
+
+D39
+{QUESTION}
+Wenn Sie einmal an die letzten sieben Tage denken: An wie vielen Tagen sind Sie mindestens 20 Minuten ohne Unterbruch körperlich aktiv gewesen? Antworten Sie bitte mit dieser KARTE.
+
+{ANSWERS}
+0 An keinem Tag  
+1 An einem Tag  
+2 An zwei Tagen   
+3 An drei Tagen   
+4 An vier Tagen  
+5 An fünf Tagen 
+6 An sechs Tagen  
+7 An sieben Tagen   
+
+E1
+{INTRO}
+Jetzt kommen wir zu ein paar Fragen über Demokratie. Nachher werde ich Sie dann fragen, wie die Demokratie in der Schweiz funktioniert. Zuerst aber möchte ich gerne, dass Sie sich überlegen, wie wichtig aus Ihrer Sicht gewisse Sachen für die Demokratie im Allgemeinen sind. Dabei gibt es keine richtigen oder falschen Antworten, sondern sagen Sie mir einfach, was Sie persönlich denken.
+
+{QUESTION}
+Bitte benutzen Sie jetzt diese Karte und sagen Sie mir, wie wichtig es aus Ihrer Sicht für die Demokratie im Allgemeinen ist, ... ... dass nationale Wahlen frei und fair sind?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen 
+
+E2
+{QUESTION}
+... dass die Wählerinnen und Wähler mit Leuten, die sie kennen, über Politik diskutieren, bevor sie sich entscheiden, wie sie wählen?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E3
+{QUESTION}
+... dass sich die verschiedenen politischen Parteien inhaltlich klar voneinander unterscheiden?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E4
+{QUESTION}
+... dass Parteien, die nicht in der Regierung vertreten sind, die Regierung frei kritisieren können?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E5
+{QUESTION}
+... dass die Medien die Regierung frei kritisieren können?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E6
+{QUESTION}
+Denken Sie bitte immer noch an die Demokratie im Allgemeinen und nicht an die Schweiz. Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, ... ... dass die Medien die Bürgerinnen und Bürger mit verlässlichen Informationen versorgen, damit sie sich ein Urteil über die Regierung bilden können?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E7
+{QUESTION}
+... dass die Rechte von Minderheiten geschützt werden?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E8
+{QUESTION}
+... dass Bürgerinnen und Bürger bei den wichtigsten politischen Sachfragen dank Volksabstimmungen das letzte Wort haben?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E9
+{QUESTION}
+... dass Einwanderer sich erst dann an nationalen Wahlen beteiligen dürfen, wenn sie eingebürgert sind?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E10
+{QUESTION}
+... dass die Gerichte alle Menschen gleich behandeln?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E11
+{QUESTION}
+... dass die Gerichte die Regierung daran hindern können, ihre Kompetenzen zu überschreiten?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E12
+{QUESTION}
+Bitte denken Sie immer noch an die Demokratie im Allgemeinen und nicht an die Schweiz: Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, ... ... dass Regierungsparteien bei den nächsten Wahlen Wählerstimmen verlieren, wenn sie schlechte Arbeit geleistet haben?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E13
+{QUESTION}
+... dass die Regierung alle Bürgerinnen und Bürger vor Armut schützt?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E14
+{QUESTION}
+... dass die Regierung den Wählerinnen und Wählern ihre Entscheidungen erklärt?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E15
+{QUESTION}
+... dass die Regierung Massnahmen ergreift, um Einkommensunterschiede zu verringern?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E16
+{QUESTION}
+Und wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen ... ... dass Politiker die Standpunkte anderer europäischer Regierungen in Betracht ziehen, bevor sie Entscheidungen treffen?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E17
+{INTRO}
+Jetzt kommen wir zu ein paar Fragen zu den gleichen Themen, aber diesmal geht es darum, wie die Demokratie Ihrer Meinung nach heutzutage in der Schweiz funktioniert. Auch da gibt es jetzt keine richtigen oder falschen Antworten, sondern sagen Sie mir einfach, was Sie persönlich denken.
+
+{QUESTION}
+Bitte benutzen Sie jetzt diese Karte und sagen Sie mir, wie sehr die folgenden Aussagen Ihrer Meinung nach auf die Schweiz zutreffen. 0 bedeutet, dass die Aussage Ihrer Meinung nach überhaupt nicht zutrifft, und 10 bedeutet, dass sie Ihrer Meinung nach voll und ganz zutrifft. Die eidgenössischen Wahlen sind frei und fair.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E18
+{QUESTION}
+Die Wählerinnen und Wähler in der Schweiz diskutieren mit Leuten, die sie kennen, über Politik, bevor sie sich entscheiden, wie sie wählen werden.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E19
+{QUESTION}
+Die verschiedenen politischen Parteien in der Schweiz unterscheiden sich inhaltlich klar voneinander.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E23
+{QUESTION}
+Die Rechte von Minderheiten werden in der Schweiz geschützt.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E24
+{QUESTION}
+Bürgerinnen und Bürger in der Schweiz haben bei den wichtigsten politischen Sachfragen dank Volksabstimmungen das letzte Wort.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E25
+{QUESTION}
+Die Gerichte in der Schweiz behandeln alle Menschen gleich.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E26
+{QUESTION}
+Wieder mit der gleichen Karte: Wie sehr treffen die folgenden Aussagen Ihrer Meinung nach auf die Schweiz zu? Regierungsparteien in der Schweiz verlieren bei den nächsten Wahlen Wählerstimmen, wenn sie schlechte Arbeit geleistet haben.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E27
+{QUESTION}
+Die Regierung in der Schweiz schützt alle Bürgerinnen und Bürger vor Armut.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E28
+{QUESTION}
+Die Regierung in der Schweiz erklärt den Wählerinnen und Wähler ihre Entscheidungen.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E29
+{QUESTION}
+Die Regierung in der Schweiz ergreift Massnahmen, um Einkommensunterschiede zu verringern.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E30
+{QUESTION}
+Und wie sehr trifft die nächste Aussage auf die Schweiz zu? Politiker in der Schweiz ziehen die Standpunkte anderer europäischer Regierungen in Betracht, bevor sie Entscheidungen treffen.
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Trifft voll und ganz zu
+
+E31
+{INTRO}
+Bei den nächsten Fragen werde ich Sie zuerst bitten, sich für eine von zwei Antwortmöglichkeiten zu entscheiden. Dann werde ich Sie fragen, wie wichtig aus Ihrer Sicht die gewählte Aussage für die Demokratie im Allgemeinen ist. Zum Schluss werde ich Sie bitten, die entsprechende heutige Situation in der Schweiz einzuschätzen. Denken Sie auch hier daran, dass es keine richtigen oder falschen Antworten gibt, und sagen Sie mir einfach, was Sie persönlich denken.
+Es gibt unterschiedliche Auffassungen darüber, ob in einer Demokratie jeder seine politischen Meinungen offen äussern darf oder nicht, auch wenn diese Meinungen extrem sind. 
+
+{QUESTION}
+Welche der beiden Aussagen auf dieser Karte entspricht dem, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist?
+
+{ANSWERS}
+1 Jeder sollte seine politischen Meinungen offen äussern dürfen, auch wenn sie extrem sind 
+2 Wer extreme politische Meinungen hat, sollte daran gehindert werden, diese offen zu äussern
+
+E32
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass jeder seine politischen Meinungen offen äussern darf, auch wenn sie extrem sind? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E33
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, inwieweit sie denken, dass jeder in der Schweiz heutzutage seine politischen Meinungen offen äussern darf, auch wenn sie extrem sind.
+
+{ANSWERS}
+0 Überhaupt nicht  
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+E34
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass Personen mit extremen politischen Meinungen daran gehindert werden, diese offen zu äussern? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E35
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, inwieweit sie denken, dass heutzutage in der Schweiz Personen mit extremen politischen Meinungen daran gehindert werden, diese offen zu äussern?
+
+{ANSWERS}
+0 Überhaupt nicht  
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+E36
+{INTRO}
+Manchmal hat die Regierung eine andere Meinung als die grosse Mehrheit der Bevölkerung, wenn es darum geht, was für das Land am besten ist.
+
+{QUESTION}
+Welche der beiden Aussagen auf dieser Karte entspricht dem, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist?
+
+{ANSWERS}
+1 Die Regierung sollte ihre Pläne anpassen an das, was die grosse Mehrheit der Bevölkerung denkt
+2 Die Regierung sollte an ihren Plänen festhalten, unabhängig davon, was die grosse Mehrheit der Bevölkerung denkt 
+
+E37
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass die Regierung ihre Pläne an das anpasst, was die grosse Mehrheit der Bevölkerung denkt? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E38
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, wie oft Ihrer Meinung nach die Regierung in der Schweiz heutzutage ihre Pläne anpasst an das, was die grosse Mehrheit der Bevölkerung denkt.
+
+{ANSWERS}
+0 Nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer
+
+E39
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass die Regierung an ihren Plänen festhält, unabhängig davon, was die grosse Mehrheit der Bevölkerung denkt?
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E40
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, wie oft ihrer Meinung nach die Regierung in der Schweiz heutzutage an ihren Plänen festhält, unabhängig davon, was die grosse Mehrheit der Bevölkerung denkt.
+
+{ANSWERS}
+0 Nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer
+
+E41
+{INTRO}
+In gewissen Ländern wird die Regierung von einer einzigen Partei gebildet, in andern Ländern wiederum von zwei oder mehr Parteien. 
+
+{QUESTION}
+Welche der beiden Möglichkeiten auf dieser Karte entspricht dem, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist?
+
+{ANSWERS}
+1 Eine einzige Partei bildet die Regierung 
+2 Zwei oder mehr Parteien bilden die Regierung
+ 
+E42
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass die Regierung von einer einzigen Partei gebildet wird? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E43
+{INTRO}
+Und jetzt zur letzten Frage zu diesem Thema.
+
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, wie oft Ihrer Meinung nach in der Schweiz die Regierung von einer einzigen Partei gebildet wird?
+
+{ANSWERS}
+0 Nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer
+
+E44
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass die Regierung von zwei oder mehr Parteien gebildet wird? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrem wichtig für die Demokratie im Allgemeinen
+
+E45
+{INTRO}
+Und jetzt zur letzten Frage zu diesem Thema.
+
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, wie oft ihrer Meinung nach die Regierung in der Schweiz von zwei oder mehr Parteien gebildet wird?
+
+{ANSWERS}
+0 Nie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer
+

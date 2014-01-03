@@ -1,0 +1,1255 @@
+﻿D1
+{QUESTION}
+Au cours des 12 derniers mois, vous est-il arrivé parfois de consacrer du temps à une association bénévole ou une organisation caritative? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+1 Au moins une fois par semaine
+2 Au moins une fois par mois
+3 Au moins une fois tous les 3 mois
+4 Au moins une fois tous les 6 mois
+5 Moins souvent
+6 Jamais
+
+D2
+{INTRO}
+Je vais maintenant vous poser quelques questions sur la manière dont vous vous voyez et percevez votre vie.
+
+{QUESTION}
+En utilisant cette carte, veuillez m'indiquer dans quelle mesure vous êtes d'accord ou non avec les propositions suivantes. Je suis toujours optimiste quand je pense à mon avenir.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D3
+{QUESTION}
+En général, j'ai une image très positive de moi-même.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D4
+{QUESTION}
+Parfois, j'ai l'impression d'être un raté.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D5
+{INTRO}
+Je vais maintenant vous lire une liste de sentiments et sensations que vous avez pu éprouver la semaine dernière.
+
+{QUESTION}
+En utilisant cette carte, veuillez m'indiquer s'il vous est arrivé parfois la semaine dernière ... ... de vous sentir déprimé/e?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D6
+{QUESTION}
+... d'avoir l'impression que tout vous demandait un effort?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D7
+{QUESTION}
+... d'avoir un sommeil agité?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D8
+{QUESTION}
+... d'être heureux/se?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D9
+{QUESTION}
+... de vous sentir seul/e?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D10
+{QUESTION}
+... d'apprécier la vie?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D11
+{QUESTION}
+... de vous sentir triste?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D12
+{QUESTION}
+... d'être incapable de rien faire?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D13
+{QUESTION}
+Veuillez m'indiquer maintenant s'il vous est arrivé parfois, la semaine dernière ... ... d'être plein d'énergie?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D14
+{QUESTION}
+... de vous sentir inquiet/ète?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D15
+... de vous sentir calme et serein/e?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou presque
+
+D16
+{QUESTION}
+En utilisant cette carte, veuillez me dire dans quelle mesure vous êtes d'accord ou non avec les propositions suivantes. Je me sens libre de décider moi-même comment vivre ma vie.
+ 
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D17
+{QUESTION}
+Dans la vie de tous les jours, j'ai très rarement l'occasion de montrer tout ce dont je suis capable.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D18
+{QUESTION}
+La plupart du temps, ce que je fais me donne un sentiment de réussite.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D19
+{QUESTION}
+Quand les choses tournent mal dans ma vie, il me faut beaucoup de temps en général pour retomber sur mes pieds.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+
+D20
+{QUESTION}
+A l'aide de cette carte, veuillez m'indiquer dans quelle mesure il vous arrive ... … d'apprendre de nouvelles choses dans votre vie?
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Enormément
+
+D21
+{QUESTION}
+... d'avoir l'impression que les gens s'entraident à l'endroit où vous habitez?
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Enormément
+
+D22
+{QUESTION}
+... d'avoir le sentiment que les gens vous traitent avec respect?
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Enormément
+
+D23
+{QUESTION}
+En utilisant cette carte, veuillez me dire dans quelle mesure vous êtes d'accord ou non avec les propositions suivantes. En général, j'ai le sentiment que ce que je fais dans ma vie a de la valeur et est utile.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D24
+{QUESTION}
+Dans l'état actuel des choses, j'ai du mal à être confiant/e quant à l'avenir du monde.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D25
+{QUESTION}
+Il y a plein de choses dans lesquelles je me sens à l'aise.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D26
+{QUESTION}
+Pour la plupart des gens en Suisse, la vie a tendance à se dégrader plutôt qu'à s'améliorer.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D27
+{QUESTION}
+Je me sens proche des gens qui vivent près de chez moi.
+
+{ANSWERS}
+1 Tout à fait d’accord
+2 Plutôt d’accord
+3 Ni d’accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout à fait en désaccord
+
+D28
+{QUESTION}
+Dans quelle mesure prenez-vous le temps de faire ce dont vous avez vraiment envie? Veuillez utiliser cette carte où 0 signifie « Pas du tout » et 10 « Complètement ».
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D29
+{QUESTION}
+Dans quelle mesure avez-vous le sentiment que les personnes qui vous sont proches vous estiment? Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D30
+{QUESTION}
+Trouvez-vous plutôt difficile ou plutôt facile de faire face aux problèmes importants qui surviennent dans votre vie? Veuillez utiliser cette carte où 0 signifie "extrêmement difficile" et 10 "extrêmement facile".
+
+{ANSWERS}
+0 Extrêmement difficile
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Extrêmement facile
+
+D31
+{QUESTION}
+Veuillez utiliser la CARTE 31 pour les trois questions suivantes. Dans quelle mesure vous arrive-t-il ... … d'être intéressé/e par ce que vous êtes en train de faire?
+
+{ANSWERS}
+0 A aucun moment 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Tout le temps
+
+D32
+{QUESTION}
+… d'être absorbé/e par ce que vous êtes en train de faire?
+
+{ANSWERS}
+0 A aucun moment 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Tout le temps
+
+D33
+{QUESTION}
+… d'être enthousiasmé/e par ce que vous êtes en train de faire?
+
+{ANSWERS}
+0 A aucun moment 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Tout le temps
+
+
+D34
+{QUESTION}
+Au cours d'une journée ordinaire, vous arrive-t-il de prêter attention et d'apprécier votre environnement et les gens qui vous entourent?
+
+{ANSWERS}
+0 Jamais
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Toujours
+
+D35
+{QUESTION}
+À quel point avez-vous le sentiment de savoir où vous voulez aller dans la vie? Veuillez utiliser cette carte où 0 signifie « Pas du tout » et 10 « Complètement ».
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D36
+{QUESTION}
+Dans quelle mesure recevez-vous le soutien de vos proches en cas de besoin? Veuillez répondre à l'aide de cette carte où 0 signifie "Pas du tout" et 6 "Complètement".
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Complètement
+
+D37
+{QUESTION}
+Et dans quelle mesure apportez-vous du soutien à vos proches en cas de besoin?
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Complètement
+
+D38
+{INTRO}
+Il y a des gens qui sont plutôt en haut de notre société et d'autres plutôt en bas.
+
+{QUESTION}
+Sur cette carte figure une échelle qui va du plus haut au plus bas. Actuellement, où vous placeriez-vous sur cette échelle?
+
+{ANSWERS}
+10 Haut de notre societé
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Bas de notre societé
+
+D39
+{QUESTION}
+Sur cette carte, pouvez-vous m'indiquer combien de jours parmi les 7 derniers, vous avez été actif/ve physiquement pendant au moins 20 minutes d'affilée?
+
+{ANSWERS}
+0 Aucun jour
+1 Un jour
+2 Deux jours
+3 Trois jours
+4 Quatre jours 
+5 Cinq jours
+6 Six jours
+7 Sept jours
+
+E1
+{INTRO}
+Et maintenant quelques questions sur la démocratie. Plus tard, je vous demanderai comment fonctionne la démocratie en Suisse. Mais d'abord, je voudrais que vous pensiez à l'importance de différents éléments pour la démocratie en général. Il n'y a ni bonne ni mauvaise réponse. Veuillez simplement me donner votre point de vue.
+
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte dans quelle mesure vous pensez qu'il est important, pour la démocratie en général, ... ... que les élections nationales soient libres et équitables?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E2
+{QUESTION}
+... que les électeurs parlent de politique avec leur entourage avant de choisir pour qui voter?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E3
+{QUESTION}
+... que les différents partis proposent des alternatives politiques claires?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E4
+{QUESTION}
+... que les partis d'opposition soient libres de critiquer le gouvernement?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E5
+{QUESTION}
+... que les médias soient libres de critiquer le gouvernement?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E6
+{QUESTION}
+Et toujours de façon générale, et non par rapport à la Suisse, diriez-vous qu'il est important, pour la démocratie en général, ... ... que les médias donnent aux citoyens des informations fiables qui leur permettent d'évaluer le gouvernement?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E7
+{QUESTION}
+... que les droits des minorités soient protégés?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E8
+{QUESTION}
+... que les citoyens aient le dernier mot sur les enjeux politiques les plus importants en votant directement sur ces questions?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E9
+{QUESTION}
+... que les immigrés n'aient le droit de vote aux élections nationales que s'ils ont obtenu la nationalité?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E10
+{QUESTION}
+... que les tribunaux traitent tout le monde sur un pied d'égalité?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E11
+{QUESTION}
+... que les tribunaux aient les moyens d'empêcher le gouvernement d'agir au-delà des limites de son pouvoir?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E12
+{QUESTION}
+Et toujours de façon générale, et non par rapport à la Suisse, diriez-vous qu'il est important, pour la démocratie en général, ... ... que les partis au pouvoir perdent des voix aux élections suivantes lorsqu'ils ont fait un mauvais travail?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E13
+{QUESTION}
+... que le gouvernement protège tous les citoyens contre la pauvreté?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E14
+{QUESTION}
+... que le gouvernement explique ses décisions aux électeurs?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E15
+{QUESTION}
+... que le gouvernement prenne des mesures pour réduire les différences de revenu?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E16
+{QUESTION}
+Et diriez-vous qu'il est important, pour la démocratie en général, ... ... que les responsables politiques tiennent compte du point de vue d'autres gouvernements en Europe avant de prendre leurs décisions?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E17
+{INTRO}
+fonctionnement de la démocratie en Suisse aujourd'hui. Là aussi, il n'y a ni bonne ni mauvaise réponse. Donnez-moi simplement votre point de vue..
+
+{QUESTION}
+À l'aide de cette carte, dans quelle mesure diriez-vous que les propositions suivantes s'appliquent à la Suisse? 0 signifie que, pour vous, la proposition ne s'applique pas du tout à la Suisse et 10 que, pour vous, elle s'applique tout à fait à la Suisse.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E18
+{QUESTION}
+En Suisse, les électeurs parlent de politique avec leur entourage avant de choisir pour qui voter.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E19
+{QUESTION}
+En Suisse les différents partis proposent des alternatives politiques claires.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E20
+{QUESTION}
+En Suisse, les partis d'opposition sont libres de critiquer le gouvernement.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E21
+{QUESTION}
+En Suisse, les medias sont libres de critiquer le gouvernement.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E22
+{QUESTION}
+Dites-moi dans quelle mesure les propositions suivantes s'appliquent à la Suisse.  En Suisse, les médias donnent aux citoyens des informations fiables qui leur permettent d'évaluer le gouvernement.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E23
+{QUESTION}
+En Suisse, les droits des minorités sont protégés.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E24
+{QUESTION}
+En Suisse, les citoyens ont le dernier mot sur les enjeux politiques les plus importants en votant directement sur ces questions.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E25
+{QUESTION}
+En Suisse, les tribunaux traitent tout le monde sur un pied d'égalité.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E26
+{QUESTION}
+l'aide de la même carte dites-moi dans quelle mesure les propositions suivantes s'appliquent à la Suisse. En Suisse, les partis au pouvoir perdent des voix aux élections suivantes lorsqu'ils ont fait un mauvais travail.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E27
+{QUESTION}
+En Suisse, le gouvernement protège tous les citoyens contre la pauvreté.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E28
+{QUESTION}
+En Suisse, le gouvernement explique ses décisions aux électeurs.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E29
+{QUESTION}
+En Suisse, le gouvernement prend des mesures pour réduire les différences de revenu.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E30
+{QUESTION}
+Et dans quelle mesure la proposition suivante s'applique-t-elle à la Suisse? En Suisse, les responsables politiques tiennent compte du point de vue d'autres gouvernements en Europe avant de prendre leurs décisions.
+
+{ANSWERS}
+0 Ne s’applique pas du tout
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 S’applique tout à fait
+
+E31
+{INTRO}
+Pour les questions suivantes, je vous demanderai d'abord de choisir entre deux possibilités. Ensuite, je vous demanderai dans quelle mesure vous pensez que l'élément que vous avez choisi est important pour la démocratie en général. Enfin, je vous demanderai ce que vous pensez de cette question en Suisse aujourd'hui. Souvenez-vous qu'il n'y a ni bonne ni mauvaise réponse. Veuillez simplement me donner votre point de vue.
+Certains estiment que dans une démocratie, chacun devrait pouvoir exprimer ses opinions politiques ouvertement, même si elles sont extrêmes. D'autres pensent le contraire.
+
+{QUESTION}
+Laquelle des propositions figurant sur cette carte correspond selon vous à ce qui est le mieux pour la démocratie en général?
+
+{ANSWERS}
+1 Chacun devrait pouvoir exprimer ses opinions politiques ouvertement
+2 Il faudrait empêcher ceux qui soutiennent des opinions politiques
+
+E32
+{QUESTION}
+Dans quelle mesure trouvez-vous important pour la démocratie en général que chacun soit libre d'exprimer ses opinions politiques ouvertement, même si elles sont extrêmes? Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E33
+{QUESTION}
+A l'aide de cette carte, diriez-vous que chacun en Suisse aujourd'hui est libre d'exprimer ses opinions politiques ouvertement, même si elles sont extrêmes?
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+E34
+{QUESTION}
+Dans quelle mesure trouvez-vous important pour la démocratie en général qu'on empêche ceux qui ont des opinions politiques extrêmes de les exprimer ouvertement. Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E35
+{QUESTION}
+A l'aide de cette carte, diriez-vous qu'en Suisse on empêche aujourd'hui ceux qui ont des opinions politiques extrêmes de les exprimer ouvertement?
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+E36
+{INTRO}
+Parfois le gouvernement n'est pas d'accord avec ce que la plupart des gens pensent être le mieux pour le pays.
+
+{QUESTION}
+Laquelle des propositions figurant sur cette carte correspond selon vous à ce qui est le mieux pour la démocratie en général?
+
+{ANSWERS}
+1 Le gouvernement devrait changer ses projets politiques en fonction de ce que la plupart des gens pensent
+2 Le gouvernement devrait maintenir ses projets politiques indépendamment de ce que la plupart des gens pensent
+
+E37
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement change ses projets politiques en fonction de ce que la plupart des gens pense? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E38
+{QUESTION}
+A votre avis, arrive-t-il parfois au gouvernement en Suisse aujourd'hui de changer ses projets politiques en fonction de ce que la plupart des gens pense? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E39
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement maintienne ses projets politiques indépendamment de ce que la plupart des gens pense?
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E40
+{QUESTION}
+A votre avis, arrive-t-il parfois au gouvernement en Suisse aujourd'hui de maintenir ses projets politiques indépendamment de ce que la plupart des gens pense? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E41
+{INTRO}
+Dans certains pays, le gouvernement est formé par un seul parti, dans d'autres par deux partis ou plus.
+
+{QUESTION}
+Laquelle des propositions figurant sur cette carte correspond selon vous à ce qui est le mieux pour la démocratie en général?
+
+{ANSWERS}
+1 Le gouvernement est formé par un seul parti 
+2 Le gouvernement est formé par deux partis ou plus
+ 
+E42
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement soit formé par un seul parti? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E43
+{INTRO}
+Voici maintenant une dernière question sur ce sujet.  
+
+{QUESTION}
+A quelle fréquence, d'après vous, arrive-t-il que le gouvernement en Suisse soit formé par un seul parti? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E44
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement soit formé par deux partis ou plus? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas important du tout pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E45
+{INTRO}
+Voici maintenant une dernière question sur ce sujet.
+
+{QUESTION}
+A quelle fréquence, d'après vous, arrive-t-il que le gouvernement en Suisse soit formé de deux partis ou plus? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours

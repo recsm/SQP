@@ -1,0 +1,1125 @@
+﻿D1
+{QUESTION}
+Hvor ofte har du i de seneste 12 måneder arbejdet for frivillige eller velgørende foreninger?
+
+{ANSWERS}
+1 Mindst én gang om ugen
+2 Mindst én gang om måneden
+3 Mindst én gang i kvartalet
+4 Mindst én gang hvert halvår
+5 Sjældnere
+6 Aldrig
+
+D2
+{INTRO}
+Nu kommer nogle spørgsmål om, hvordan du har det med dig selv og dit liv. Kig på kortet og sig mig, hvor enig eller uenig du er i hvert af følgende udsagn.
+
+{QUESTION}
+Jeg er altid optimistisk med hensyn til min fremtid. Hvor enig eller uenig er du i dette udsagn?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D3
+{QUESTION}
+Jeg er generelt meget positiv med hensyn til mig selv. Hvor enig eller uenig er du i dette udsagn?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D4
+{QUESTION}
+Nogle gang føler jeg, at jeg er en fiasko. Hvor enig eller uenig er du i dette udsagn?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D6
+{QUESTION}
+Du følte, at alt, hvad du gjorde, krævede anstrengelse
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D8
+{QUESTION}
+Du var lykkelig
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D10
+{QUESTION}
+Du nød livet
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D11
+{QUESTION}
+Du var ked af det
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D12
+{QUESTION}
+Du ikke kunne komme i gang
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D13
+{QUESTION}
+Du havde en masse energi
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D14
+{QUESTION}
+Du følte dig ængstelig
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D15
+{QUESTION}
+Du var rolig og havde fred i sindet
+
+{ANSWERS}
+1 På intet eller næsten intet tidspunkt
+2 Nogle gange
+3 For det meste
+4 Hele tiden eller næsten hele tiden
+
+D16
+{INTRO}´
+Kig på kortet og fortæl mig, hvor enig eller uenig du er i hvert af følgende udsagn.
+
+{QUESTION}
+Jeg føler, jeg frit kan bestemme, hvordan jeg vil leve mit liv. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D17
+{QUESTION}
+Jeg har ikke mange muligheder i dagligdagen for at vise, hvor dygtig jeg er. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D18
+{QUESTION}
+Jeg føler, at jeg de fleste dage udretter noget med det, jeg laver. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D19
+{QUESTION}
+Når noget går skævt i mit liv, er jeg generelt længe om at komme tilbage til det normale. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D20
+{QUESTION}
+Kig på kortet, hvor 0 betyder slet ikke og 6 betyder i høj grad. I hvor høj grad… ….. lærer du nye ting i livet?
+
+{ANSWERS}
+0 Slet ikke
+1 
+2 
+3 
+4
+5 
+6 I høj grad
+
+D21
+{QUESTION}
+… føler du, at folk i dit lokalområde eller nabolag hjælper hinanden?
+
+{ANSWERS}
+0 Slet ikke
+1 
+2 
+3 
+4
+5 
+6 I høj grad
+
+D22
+{QUESTION}
+…føler du, at folk behandler dig med respekt.
+
+{ANSWERS}
+0 Slet ikke
+1 
+2 
+3 
+4
+5 
+6 I høj grad
+
+D23
+{INTRO}
+Fortæl mig, hvor enig eller uenig du er i hvert af følgende udsagn.
+
+{QUESTION}
+Jeg mener generelt, at det, jeg laver i mit liv, er værdifuldt og umagen værd. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D24
+{QUESTION}
+Sådan, som det ser ud nu, har jeg svært ved at være fortrøstningsfuld med hensyn til verdens fremtid. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D25
+{QUESTION}
+Der er masser af ting, jeg synes, jeg er god til. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D26
+{QUESTION}
+Livet bliver nærmere dårligere end bedre for de fleste i Danmark. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D27
+{QUESTION}
+Jeg føler mig knyttet til folk i mit lokalområde. Hvor enig eller uenig er du i det?
+
+{ANSWERS}
+1 Meget enig
+2 Enig
+3 Hverken enig eller uenig
+4 Uenig
+5 Meget uenig
+
+D28
+{QUESTION}
+I hvor høj grad tager du dig tid til at gøre de ting, du virkelig gerne vil? Kig på kortet, hvor 0 betyder slet Ikke og 10 betyder fuldt ud.
+
+{ANSWERS}
+0 Slet ikke
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fuldt ud
+
+D29
+{QUESTION}
+I hvor høj grad føler du dig påskønnet af de mennesker, der står dig nær? Brug det samme kort.
+
+{ANSWERS}
+0 Slet ikke
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fuldt ud
+
+D30
+{QUESTION}
+Hvor svært eller let er det for dig at håndtere store problemer, som du støder på i livet? Kig på kortet, hvor 0 betyder særdeles svært, og 10 betyder særdeles let.
+
+{ANSWERS}
+0 Særdeles svært
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Særdeles let
+
+D34
+{QUESTION}
+Hvor ofte på en typisk dag lægger du mærke til og påskønner dine omgivelser?
+
+{ANSWERS}
+0 Aldrig
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Altid
+
+D35
+{QUESTION}
+I hvor høj grad føler du, at du har et mål i livet? Kig på kortet, hvor 0 betyder slet ikke og 10 betyder fuldt ud.
+
+{ANSWERS}
+0 Slet ikke
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fuldt ud
+
+D36
+{QUESTION}
+I hvor høj grad får du hjælp og støtte af mennesker, der står dig nær, når du har brug for det? Kig på kortet, hvor 0 betyder slet ikke, og 6 betyder fuldt ud.
+
+{ANSWERS}
+0 Slet ikke
+1
+2 
+3 
+4 
+5 
+6 Fuldt ud
+
+D37
+{QUESTION}
+I hvor høj grad hjælper og støtter du selv mennesker, der står dig nær, når de har brug for det?
+
+{ANSWERS}
+0 Slet ikke
+1
+2 
+3 
+4 
+5 
+6 Fuldt ud
+
+D38
+{INTRO}
+Nogle mennesker befinder sig tættere på toppen af vores samfund og andre tættere på bunden.
+
+{QUESTION}
+På dette kort er der en skala, der går fra top til bund. Hvor på skalaen vil du placere dig selv i dag?
+
+{ANSWERS}
+10 Toppen af vores samfund
+9 
+8 
+7 
+6 
+5
+4
+3
+2
+1
+0 Bunden af vores samfund
+
+D39
+{QUESTION}
+Kig på kortet og fortæl mig, hvor mange af de sidste 7 dage du har været fysisk aktiv i mindst 20 minutter uafbrudt?
+
+{ANSWERS}
+0. Ingen dage 
+1. En dag 
+2. To dage 
+3. Tre dage 
+4. Fire dage 
+5. Fem dage 
+6. Seks dage 
+7. Syv dage 
+ 
+E1
+{INTRO}
+Nu kommer der nogle spørgsmål om demokrati. Senere vil jeg spørge dig om, hvordan demokratiet fungerer i Danmark. Men til at begynde med vil jeg bede dig tænke over, hvor vigtige du mener, at forskellige ting er for demokratiet generelt. Der er ingen rigtige eller forkerte svar, så du skal bare fortælle mig, hvad du mener.
+
+{QUESTION}
+Kig på kortet, og fortæl mig, hvor vigtigt, du mener, at det er for demokratiet generelt… …at nationale valg er frie og retfærdige.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E2
+{QUESTION}
+…at vælgerne diskuterer politik med folk, de kender, før de beslutter, hvordan de vil stemme
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E3
+{QUESTION}
+…at de forskellige politiske partier adskiller sig klart fra hinanden?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E4
+{QUESTION}
+…at oppositionspartier frit kan kritisere regeringen?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E5
+{QUESTION}
+…at medierne frit kan kritisere regeringen?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E6
+{QUESTION}
+Hvis du stadig tænker generelt og ikke på Danmark, hvor vigtigt mener du så, at det er for demokratiet generelt… …at medierne giver borgerne pålidelig information, så de kan bedømme regeringen?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E7
+{QUESTION}
+…at mindretals rettigheder beskyttes?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E8
+{QUESTION}
+…at borgerne har det sidste ord i de vigtigste politiske spørgsmål ved, at de stemmer om dem direkte i en folkeafstemning?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E9
+{QUESTION}
+…at indvandrere først får stemmeret til parlamentsvalg, når de er blevet statsborgere?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E10
+{QUESTION}
+… at domstolene behandler alle ens?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E11
+{QUESTION}
+…at domstolene kan forhindre regeringen i at overskride dens beføjelser?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E12
+{QUESTION}
+I de følgende spørgsmål skal du stadig tænke generelt og ikke specielt på Danmark. Hvor vigtigt mener du, at det er for demokratiet, generelt… …at regeringspartier bliver straffet ved valget, når de har gjort det dårligt?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E13
+{QUESTION}
+…at regeringspartier bliver straffet ved valget, når de har gjort det dårligt?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E14
+{QUESTION}
+…at regeringen forklarer sine beslutninger til vælgerne?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E15
+{QUESTION}
+…at regeringen gør tiltag til at reducere indkomstforskelle?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E16
+{QUESTION}
+Hvor vigtigt mener du, at det er for demokratiet generelt… …at politikerne tager højde for andre europæiske regeringers mening, før de træffer beslutninger?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E17
+{INTRO}
+Nu kommer der nogle spørgsmål om de samme emner, men denne gang om hvordan du mener, at demokratiet fungerer i dagens Danmark. Der er stadig ingen rigtige eller forkerte svar. Du skal bare fortælle mig, hvad du mener. Kig på kortet og fortæl mig, hvor godt, du synes, hvert af de følgende udsagn passer på Danmark.
+
+{QUESTION}
+0 betyder, at du mener, at udsagnet slet ikke passer og 10 betyder, at du mener, det passer fuldstændigt. Folketingsvalg I Danmark er frie og retfærdige. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E18
+{QUESTION}
+I Danmark diskuterer vælgerne politik med folk, de kender, før de beslutter, hvordan de vil stemme. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E19
+{QUESTION}
+I Danmark adskiller de forskellige politiske partier sig klart fra hinanden. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E23
+{QUESTION}
+I Danmark beskyttes mindretallets rettigheder. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E24
+{QUESTION}
+I Danmark har borgerne det sidste ord i de vigtigste politiske spørgsmål ved, at destemmer om det direkte i en folkeafstemning. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E25
+{QUESTION}
+I Danmark behandler domstolene alle ens. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E26
+{INTRO}
+Brug det samme kort og fortæl mig, hvor godt du synes, hvert af de følgende udsagn passer på Danmark.
+
+{QUESTION}
+I Danmark bliver partier, der er ved magten, straffet ved valget, når de har gjort det dårligt. Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E27
+{QUESTION}
+I Danmark beskytter regeringen alle borgere mod fattigdom? Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E28
+{QUESTION}
+I Danmark forklarer regeringen sine beslutninger til vælgerne? Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E29
+{QUESTION}
+I Danmark tager regeringen skridt til at reducere indkomstforskelle? Hvor godt passer det?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E30
+{QUESTION}
+Og i hvilken grad passer dette udsagn på Danmark? Politikerne i Danmark tager hensyn til andre europæiske regeringers mening, før de træffer beslutninger?
+
+{ANSWERS}
+0 Passer slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Passer fuldstændigt
+
+E31
+{INTRO}
+I de næste spørgsmål vil jeg først bede dig om at vælge imellem to udsagn. Derefter vil jeg spørge dig om, hvor vigtigt du mener, det udsagn, du vælger, er for demokratiet generelt. Til sidst vil jeg bede dig tænke over dette udsagn i forhold til dagens Danmark. Husk, at der hverken er rigtige eller forkerte svar, så du skal bare fortælle mig, hvad du mener. 
+Der er forskellige meninger om, hvorvidt alle frit skal kunne udtrykke deres politiske synspunkter offentligt i et demokrati, selv om synspunkterne er yderliggående.
+
+{QUESTION}
+Hvilket af de to udsagn på kortet beskriver, hvad du mener, er bedst for demokratiet generelt?
+
+{ANSWERS}
+1 Alle skal frit kunne udtrykke deres politiske synspunkter offentligt, selv om synspunkterne er yderliggående
+2 De, der har yderliggående synspunkter, bør forhindres i at udtrykke dem offentligt
+
+E32
+{QUESTION}
+Hvor vigtigt, mener du, det er for demokratiet generelt, at alle frit og åbent kan udtrykke deres politiske synspunkter, selv om synspunkterne er yderliggående? Kig på kortet.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E33
+{QUESTION}
+Kig på kortet. I hvilken grad, mener du, at alle i dagens Danmark frit kan udtrykke deres politiske synspunkter, selv om synspunkterne er yderliggående?
+
+{ANSWERS}
+0 Slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fuldt ud
+
+E34
+{QUESTION}
+Hvor vigtigt, mener du, det er for demokratiet generelt, at de, der har yderliggående politiske synspunkter, bliver forhindret i at udtrykke dem frit? Kig på kortet.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E35
+{QUESTION}
+Kig på kortet. I hvilken grad mener du, at de, der i dagens Danmark har yderliggående politiske synspunkter, bliver forhindret i at udtrykke dem frit?
+
+{ANSWERS}
+0 Slet ikke
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fuldt ud
+
+E36
+{INTRO}
+Nogle gange er regeringen uenig i det, som de fleste mener, er bedst for landet.
+
+{QUESTION}
+Hvilket af udsagnene på dette kort beskriver hvad du mener, er bedst for demokratiet generelt?
+
+{ANSWERS}
+1 Regeringen bør ændre den planlagte politik for at tage hensyn til, hvad de fleste mener
+2 Regeringen bør holde fast på sin planlagte politik uanset, hvad de fleste mener
+
+E37
+{QUESTION}
+Hvor vigtigt, mener du, det er for demokratiet generelt, at regeringen ændrer den planlagte politik for at tage hensyn til, hvad de fleste mener? Kig på kortet.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E38
+{QUESTION}
+Kig på kortet. Hvor ofte, mener du, at regeringen i Danmark i dag ændrer sin planlagte politik for at tage hensyn til, hvad de fleste mener?
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+E39
+{QUESTION}
+Hvor vigtigt, mener du, det er for demokratiet generelt, at regeringen holder fast ved den planlagte politik, uanset hvad de fleste mener?
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E40
+{QUESTION}
+Kig på kortet. Hvor ofte, mener du, at regeringen i Danmark i dag holder fast ved den planlagte politik, uanset hvad de fleste mener?
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+E41
+{INTRO}
+I nogle lande består regeringen af et enkelt parti og i andre lande af to eller flere partier i en koalition.
+
+{QUESTION}
+Hvilket svar på dette kort beskriver det, som du mener, er bedst for demokratiet generelt?
+
+{ANSWERS}
+1 Et enkelt parti danner regering
+2 To eller flere partier danner koalitionsregering
+
+E42
+{QUESTION}
+Hvor vigtigt , mener du, at det er for demokratiet generelt, at regeringen består af et enkelt parti? Kig på kortet.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E43
+{QUESTION}
+Kig på kortet. Hvor ofte, mener du, at regering i Danmark dannes af et enkelt parti?
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+E44
+{QUESTION}
+Hvor vigtigt, mener du, det er for demokratiet generelt, at regeringen dannes af to eller flere partier i koalition? Kig på kortet.
+
+{ANSWERS}
+0 Slet ikke vigtigt for demokratiet generelt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Særdeles vigtigt for demokratiet generelt
+
+E45
+{INTRO}
+Nu til det sidste spørgsmål om dette emne.
+
+{QUESTION}
+Nu til det sidste spørgsmål om dette emne. Kig på kortet. Hvor ofte, mener du, at regeringen i Danmark dannes af to eller flere partier i koalition?
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid

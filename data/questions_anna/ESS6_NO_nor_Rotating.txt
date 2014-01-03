@@ -1,0 +1,1121 @@
+﻿D1
+{INTRO}
+Først et spørsmål om noe du kan ha gjort de siste 12 månedene.
+
+{QUESTION}
+Hvor ofte har du gjort en innsats for frivillige eller veldedige organisasjoner i løpet av de siste 12 månedene?
+
+{ANSWERS}
+1 Minst en gang i uka
+2 Minst en gang i måneden
+3 Minst en gang hver tredje måned
+4 Minst en gang hver sjette måned
+5 Sjeldnere
+6 Aldri
+
+D2
+{INTRO}
+Og nå følger noen spørsmål om hvordan du ser på deg selv og livet ditt.
+
+{QUESTION}
+Bruk dette kortet og si hvor enig eller uenig du er i følgende utsagn Jeg er alltid optimistisk når det gjelder min egen fremtid
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D3
+{QUESTION}
+Jeg ser generelt veldig positivt på meg selv
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D4
+{QUESTION}
+Av og til føler jeg meg som en mislykket person
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D6
+{QUESTION}
+...du følte at alt du gjorde var et ork?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D8
+{QUESTION}
+...du var lykkelig?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D10
+{QUESTION}
+...du satte pris på livet?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D11
+{QUESTION}
+...du følte deg trist?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D12
+{QUESTION}
+...du følte at du ikke klarte å komme deg i gang?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D13
+{QUESTION}
+Og fortell nå hvor mye av tiden den siste uken... ...du hadde mye energi?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D14
+{QUESTION}
+...du følte deg engstelig?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D15
+{QUESTION}
+...du følte deg rolig og avbalansert?
+
+{ANSWERS}
+1 Ikke noe eller nesten ikke noe av tiden
+2 Noe av tiden
+3 Mesteparten av tiden
+4 Hele eller nesten hele tiden
+
+D16
+{QUESTION}
+Bruk dette kortet og si i hvilken grad du er enig eller uenig i følgende utsagn. Jeg føler jeg er fri til selv å bestemme hvordan jeg skal leve livet mitt
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D17
+{QUESTION}
+I dagliglivet har jeg veldig liten mulighet til å vise hva jeg kan
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D18
+{QUESTION}
+De fleste dager føler jeg at jeg har oppnådd noe med det jeg gjør
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D19
+{QUESTION}
+Når ting går galt i livet mitt, tar det meg som regel lang tid å komme tilbake til det normale
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D20
+{QUESTION}
+Bruk dette kortet og si i hvilken grad... ….du lærer nye ting i livet ditt
+
+{ANSWERS}
+0 Ikke i det hele tatt
+1
+2
+3
+4
+5
+6 I stor grad
+
+D21
+{QUESTION}
+...du føler folk i nærmiljøet hjelper hverandre?
+
+{ANSWERS}
+0 Ikke i det hele tatt
+1
+2
+3
+4
+5
+6 I stor grad
+
+D22
+{QUESTION}
+...du føler at folk behandler deg med respekt?
+
+{ANSWERS}
+0 Ikke i det hele tatt
+1
+2
+3
+4
+5
+6 I stor grad
+
+D23
+{QUESTION}
+Bruk dette kortet til å si i hvilken grad du er enig eller uenig i følgende utsagn. Jeg føler stort sett at det jeg gjør i livet mitt er verdifullt og givende.
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D24
+{QUESTION}
+I dagens situasjon synes jeg det er vanskelig å være optimistisk med hensyn til verdens fremtid.
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D25
+{QUESTION}
+…Det er mange ting jeg føler jeg er flink til.
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D26
+{QUESTION}
+For de fleste i Norge blir livet verre snarere enn bedre.
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D27
+{QUESTION}
+Jeg føler meg knyttet til folk i mitt nærmiljø
+
+{ANSWERS}
+1 Svært enig
+2 Enig
+3 Verken enig eller uenig
+4 Uenig
+5 Svært uenig
+
+D28
+{QUESTION}
+I hvilken grad setter du av tid til å gjøre ting du virkelig har lyst til? Svar ved å bruke dette kortet der 0 er ikke i det hele tatt og 10 er i full grad.
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I FULL GRAD
+
+D29
+{QUESTION}
+I hvilken grad føler du deg verdsatt av personer som står deg nær? Bruk det samme kortet til å svare.
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I FULL GRAD
+
+D30
+{QUESTION}
+Hvor vanskelig eller enkelt synes du det er å håndtere viktige problemer som dukker opp i livet ditt? Svar ved å bruke dette kortet der 0 er ekstremt vanskelig og 10 er ekstremt enkelt.
+
+{ANSWERS}
+0 EKSTREMT VANSKELIG
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT ENKELT
+
+D34
+{QUESTION}
+På en vanlig dag, hvor ofte legger du merke til og setter pris på omgivelsene dine?
+
+{ANSWERS}
+0 ALDRI
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+D35
+{QUESTION}
+I hvilken grad føler du at livet ditt går i riktig retning? Bruk dette kortet hvor 0 er ikke i det hele tatt og 10 er i full grad
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I FULL GRAD
+
+D36
+{QUESTION}
+I hvilken grad får du hjelp og støtte når du trenger det fra de som står deg nær? Bruk dette kortet hvor 0 er ikke i det hele tatt og 6 er i svært stor grad
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6 I SVÆRT STOR GRAD
+
+D37
+{QUESTION}
+Og i hvilken grad gir du hjelp og støtte til de som står deg nær når de trenger det?
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6 I SVÆRT STOR GRAD
+
+D38
+{INTRO}
+Det er noen som generelt sett er på toppen av samfunnet vårt og noen som generelt sett er på bunnen. På dette kortet er det en skala som går fra topp til bunn.
+
+{QUESTION}
+Hvor vil du for tiden plassere deg selv på denne skalaen?
+
+{ANSWERS}
+10 TOPPEN AV SAMFUNNET VÅRT
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 BUNNEN AV SAMFUNNET VÅRT
+
+D39
+{QUESTION}
+Bruk dette kortet og si hvor mange av de siste sju dagene du har vært fysisk aktiv sammenhengende i 20 minutter eller mer.
+
+{ANSWERS}
+0. INGEN DAGER
+1. 1 DAG
+2. 2 DAGER
+3. 3 DAGER
+4. 4 DAGER
+5. 5 DAGER
+6. 6 DAGER
+7. 7 DAGER
+
+E1
+{INTRO}
+Så noen spørsmål om demokrati. Senere skal jeg stille noen spørsmål om hvordan demokratiet fungerer i Norge, men først vil jeg at du skal tenke over hvor viktig du mener ulike forhold er for demokratiet generelt sett. Det er ingen riktige eller gale svar, så bare fortell meg hva du mener.
+
+{QUESTION}
+Bruk dette kortet og si hvor viktig du synes det er for et demokrati generelt sett... …at nasjonale valg er frie og rettferdige.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E2
+{QUESTION}
+…at velgerne diskuterer politikk med mennesker de kjenner før de bestemmer for hva de skal stemme.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E3
+{QUESTION}
+…at ulike politiske partier tilbyr klare alternativer.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E4
+{QUESTION}
+At opposisjonspartier står fritt til å kritisere regjeringen.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E5
+{QUESTION}
+At media står fritt til å kritisere regjeringen.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E6
+{QUESTION}
+Tenk fortsatt på demokrati generelt og ikke i Norge spesielt. Hvor viktig synes du det er for demokratiet generelt sett… ..at mediene gir borgerne pålitelig informasjon slik at de kan vurdere regjeringen.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E7
+{QUESTION}
+…at rettighetene til minoritetsgrupper blir beskyttet.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E8
+{QUESTION}
+…..at borgerne ved å stemme i folkeavstemninger har det siste ordet i de viktigste politiske sakene?
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E9
+{QUESTION}
+…at innvandrere ikke får stemmerett i nasjonale valg før de har blitt statsborgere.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E10
+{QUESTION}
+…at domstolene behandler alle likt.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E11
+{QUESTION}
+…at domstolene kan stoppe regjeringen hvis den handler ut over sin myndighet.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E12
+{QUESTION}
+Tenk fortsatt på demokrati generelt og ikke i Norge spesielt. Hvor viktig synes du det er for demokratiet generelt sett… …at regjeringspartiene straffes i valg når de har gjort en dårlig jobb.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E13
+{QUESTION}
+…at regjeringen beskytter alle borgere mot fattigdom.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E14
+{QUESTION}
+…at regjeringen forklarer sine beslutninger til velgerne.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E15
+{QUESTION}
+…at regjeringen setter i verk tiltak for å redusere inntektsforskjellene.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E16
+{QUESTION}
+Og hvor viktig synes du det er for demokratiet generelt sett... ..at politikerne tar hensyn til andre europeiske regjeringers synspunkter før de tar sine beslutninger.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E17
+{INTRO}
+Du får nå noen spørsmål om de samme temaene, men denne gangen om hvordan du synes demokratiet fungerer i Norge i dag. Og husk, det finnes ikke noen riktige eller gale svar, bare si hva du mener.
+
+{QUESTION}
+Bruk dette kortet og si i hvilken grad du synes hver av de følgende påstandene passer for Norge. 0 betyr at påstanden ikke passer i det hele tatt, og 10 betyr at den passer helt. Stortingsvalgene er frie og rettferdige.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E18
+{QUESTION}
+Velgere i Norge diskuterer politikk med venner og kjente før de bestemmer seg for hva de skal stemme.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E19
+{QUESTION}
+De ulike politiske partiene i Norge tilbyr klare alternativer.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E23
+{QUESTION}
+Rettighetene til minoritetsgrupper i Norge blir beskyttet.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E24
+{QUESTION}
+Borgere i Norge har det siste ordet i de viktigste politiske sakene ved å stemme over dem i folkeavstemninger.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E25
+{QUESTION}
+Domstolene i Norge behandler alle likt.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E26
+{QUESTION}
+Regjeringspartiene i Norge straffes i valg når de har gjort en dårlig jobb.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E27
+{QUESTION}
+Regjeringen i Norge beskytter alle borgere mot fattigdom.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E28
+{QUESTION}
+Regjeringen i Norge forklarer sine beslutninger til velgerne.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E29
+{QUESTION}
+Regjeringen i Norge setter i verk tiltak for å redusere inntektsforskjellene.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E30
+{QUESTION}
+Og i hvilken grad passer denne påstanden for Norge? Politikerne i Norge tar hensyn til andre europeiske regjeringers synspunkt før de tar sine beslutninger.
+
+{ANSWERS}
+0 PASSER IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 PASSER HELT
+
+E31
+{INTRO}
+I de neste spørsmålene vil jeg først be deg velge mellom alternativer. Deretter spør jeg hvor viktig du mener ditt valg er for demokratiet generelt sett. Til slutt vil jeg be deg tenke på denne saken for Norge i dag. Husk, det finnes ikke gale eller riktige svar, så bare fortell hva du mener. Det er ulike meninger om alle skal kunne uttrykke sine politiske synspunkter fritt og åpent i et demokrati, selv om de er ekstreme.
+
+{QUESTION}
+Hvilken av påstandene på dette kortet beskriver det du mener er best for demokratiet generelt sett?
+
+{ANSWERS}
+1 Alle bør kunne uttrykke sine politiske synspunkter fritt og åpent, selv om de er ekstreme.
+2 De som har ekstreme politiske synspunkt bør forhindres fra å uttrykke dem åpent.
+
+E32
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at alle fritt og åpent kan uttrykke sine politiske synspunkt, selv om de er ekstreme? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E33
+{QUESTION}
+I hvilken grad mener du alle i Norge i dag fritt og åpent kan uttrykke sine politiske synspunkt, selv om de er ekstreme? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I SVÆRT STOR GRAD
+
+E34
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at de som har ekstreme politiske synspunkt forhindres fra å uttrykke dem åpent? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E35
+{QUESTION}
+I hvilken grad mener du at de som har ekstreme politiske synspunkt I Norge i dag blir hindret fra å uttrykke dem åpent? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE I DET HELE TATT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 I SVÆRT STOR GRAD
+
+E36
+{INTRO}
+Noen ganger er regjeringen uenig i det folk flest mener er best for landet.
+
+{QUESTION}
+Hvilken av påstandene på dette kortet beskriver det du mener er best for demokratiet generelt sett?
+
+{ANSWERS}
+1 Regjeringen bør endre sin planlagte politikk for å ta hensyn til hva folk flest mener.
+2 Regjeringen bør holde fast ved sin planlagte politikk uavhengig av hva folk flest mener.
+
+E37
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at regjeringen endrer sin planlagte politikk for å ta hensyn til hva folk flest mener? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E38
+{QUESTION}
+Hvor ofte mener du regjeringen i Norge i dag endrer sin planlagte politikk for å ta hensyn til hva folk flest mener? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 ALDRI
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+E39
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at regjeringen holder fast ved sin planlagte politikk uavhengig av hva folk flest mener. Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E40
+{QUESTION}
+Hvor ofte mener du at regjeringen i Norge i dag holder fast ved sin planlagte politikk uavhengig av hva folk flest mener? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 ALDRI
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+E41
+{INTRO}
+I noen land består regjeringen av ett parti; i andre land av to eller flere i en koalisjonsregjering.
+
+{QUESTION}
+Hvilket alternativ på dette kortet beskriver det du mener er best for demokratiet generelt sett?
+
+{ANSWERS}
+1 Ett enkelt parti danner regjering.
+2 To eller flere partier danner koalisjonsregjering.
+
+E42
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at regjeringen består av ett parti? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E43
+{INTRO}
+Så til det siste spørsmålet om dette temaet.
+
+{QUESTION}
+Hvor ofte tror du regjeringen i Norge har bestått av ett parti? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 ALDRI
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+E44
+{QUESTION}
+Hvor viktig mener du det er for demokratiet generelt sett at regjeringen består av to eller flere partier? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 IKKE VIKTIG I DET HELE TATT FOR DEMOKRATIET GENERELT SETT
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EKSTREMT VIKTIG FOR DEMOKRATIET GENERELT SETT
+
+E45
+{INTRO}
+Så til det siste spørsmålet om dette temaet.
+
+{QUESTION}
+Hvor ofte tror du at regjeringen i Norge har bestått av to eller flere partier? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 ALDRI
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID

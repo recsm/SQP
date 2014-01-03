@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Wie oft waren Sie in den letzten 12 Monaten für Vereine, Verbände oder gemeinnützige Organisationen tätig? Bitte benutzen Sie Liste 23 für Ihre Antwort. 
+
+{ANSWERS}
+1 Mindestens einmal in der Woche 
+2 Mindestens einmal im Monat 
+3 Mindestens einmal alle drei Monate 
+4 Mindestens einmal alle sechs Monate 
+5 Seltener 
+6 Nie 
+
+D2
+{INTRO}
+Nun möchte ich Ihnen ein paar Fragen darüber stellen, wie Sie sich selbst und Ihr Leben sehen. 
+
+{QUESTION}
+Bitte benutzen Sie Liste 24 und sagen Sie mir, wie sehr Sie jeder der fol-genden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Ich bin in Bezug auf meine Zukunft im-mer optimistisch. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D3
+{QUESTION}
+Im Allgemeinen habe ich ein gutes Selbstwertgefühl. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D4
+{QUESTION}
+Manchmal habe ich das Gefühl, eine Versagerin/ein Ver-sager zu sein. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D6
+{QUESTION}
+…hatten Sie das Ge-fühl, dass alles, was Sie getan haben, anstren-gend war? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D8
+{QUESTION}
+…waren Sie glücklich? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D10
+{QUESTION}
+…haben Sie das Le-ben genossen? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D11
+{QUESTION}
+…haben Sie sich traurig gefühlt? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D12
+{QUESTION}
+…konnten Sie sich zu nichts aufraffen? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D13
+{QUESTION}
+Und wie oft in der letzten Woche... …hatten Sie viel Ener-gie? 
+
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D14
+{QUESTION}
+…waren Sie ängstlich? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D15
+{QUESTION}
+…waren Sie ruhig und gelassen? 
+
+{ANSWERS}
+1 Nie oder fast nie 
+2 Manchmal 
+3 Meistens 
+4 Immer oder fast immer 
+
+D16
+{QUESTION}
+Bitte benutzen Sie Liste 26 und sagen Sie mir, wie sehr Sie jeder der fol-genden Aussagen zustimmen oder wie sehr Sie diese ablehnen. Ich habe das Ge-fühl, frei entschei-den zu können, wie ich mein Leben lebe.
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D17
+{QUESTION}
+In meinem Leben habe ich sehr selten die Gelegenheit zu zeigen, was ich kann. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D18
+{QUESTION}
+Meistens finde ich Erfüllung in dem, was ich tue. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D19
+{QUESTION}
+Wenn etwas in mei-nem Leben schief geht, brauche ich in der Regel lange, um wieder zurück zur Normalität zu fin-den. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D20
+{QUESTION}
+Bitte sagen Sie mir nun anhand von Liste 27, in welchem Ausmaß Sie... ...in Ihrem Le-ben Neues ler-nen? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6 In hohem Ausmaß 
+
+D21
+{QUESTION}
+…das Gefühl haben, dass sich die Men-schen in Ihrer Wohngegend gegenseitig helfen? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6 In hohem Ausmaß 
+
+D22
+{QUESTION}
+… das Gefühl haben, dass Sie respektvoll be-handelt werden? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6 In hohem Ausmaß 
+
+D23
+{QUESTION}
+Bitte verwenden Sie Liste 28, und sagen Sie mir, wie sehr Sie den fol-genden Aussagen zustimmen oder wie sehr Sie diese ablehnen. In der Regel habe ich das Gefühl, dass das, was ich in mei-nem Leben mache, wertvoll und nützlich für Andere ist. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D24
+{QUESTION}
+So wie es momen-tan aussieht, finde ich es schwierig, die Zukunft der Welt positiv zu sehen. 
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D25
+{QUESTION}
+Ich finde, es gibt vieles, was ich gut kann.
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D26
+{QUESTION}
+Für die meisten Menschen in Deutschland wird das Leben eher schlechter als besser
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D27
+{QUESTION}
+Ich fühle mich den Menschen in meiner Wohngegend verbunden
+
+{ANSWERS}
+1 Stimme stark zu 
+2 Stimme zu 
+3 Weder noch 
+4 Lehne ab 
+5 Lehne stark ab 
+
+D28
+{QUESTION}
+Wie sehr nehmen Sie sich Zeit für die Dinge, die Sie wirklich tun wollen? Bitte verwenden Sie Liste 29. 0 bedeutet überhaupt nicht, und 10 bedeu-tet voll und ganz. 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+D29
+{QUESTION}
+Wie sehr fühlen Sie sich von den Menschen geschätzt, die Ihnen nahe-stehen? Bitte benutzen Sie wieder Liste 29. 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+D30
+{QUESTION}
+Wie schwer oder leicht fällt es Ihnen, mit großen Problemen umzuge-hen, die sich in Ihrem Leben stellen? Benutzen Sie bitte Liste 30. 0 be-deutet äußerst schwer, und 10 bedeutet äußerst leicht 
+
+{ANSWERS}
+0 Äußerst schwer 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußert leicht 
+
+D34
+{QUESTION}
+Wie oft kommt es an einem normalen Tag vor, dass Sie die Dinge und Menschen um Sie herum bewusst wahrnehmen und auch schätzen? 
+
+{ANSWERS}
+0 Nie 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer 
+
+D35
+{QUESTION}
+Inwiefern haben Sie eine Vorstellung davon, wie sich Ihr Leben entwickeln sollte? Bitte verwenden Sie Liste 33. 0 bedeutet überhaupt nicht, und 10 bedeutet voll und ganz. 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+D36
+{QUESTION}
+Wenn Sie Hilfe und Unterstützung brauchen: In welchem Ausmaß erhal-ten Sie diese von Menschen, die Ihnen nahestehen? Bitte verwenden Sie Liste 34. 0 bedeutet überhaupt nicht, und 6 bedeutet voll und ganz. 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6 Voll und ganz 
+
+D37
+{QUESTION}
+Und wenn Menschen, die Ihnen nahestehen, selbst Hilfe und Unterstüt-zung brauchen: In welchem Ausmaß leisten Sie diese? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6 Voll und ganz 
+
+D38
+{INTRO}
+Es gibt Menschen, die in unserer Gesellschaft eher oben stehen und sol-che, die eher unten stehen. 
+
+{QUESTION}
+Auf Liste 35 ist eine Skala, die von oben nach unten verläuft. Wo auf die-ser Skala würden Sie sich derzeit einordnen? 
+
+{ANSWERS}
+10 Oben in unserer Gesellschaft 
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 Unten in unserer Gesellschaft 
+
+D39
+{QUESTION}
+Wenn Sie einmal an die letzten sieben Tage denken: An wie vielen Ta-gen waren Sie 20 Minuten oder länger ohne Unterbrechung körperlich aktiv? Antworten Sie bitte mit Liste 36. 
+
+{ANSWERS}
+0. An keinem Tag 
+1. An einem Tag 
+2. An zwei Tagen 
+3. An drei Tagen 
+4. An vier Tagen 
+5. An fünf Tagen 
+6. An sechs Tagen 
+7. An sieben Tagen 
+
+E1
+{INTRO}
+Nachher werde ich Sie fragen, wie die Demokratie in Deutschland funktio-niert. Zunächst bitte ich Sie aber, erst einmal darüber nachzudenken, wie wich-tig aus Ihrer Sicht bestimmte Dinge für die Demokratie im Allgemeinen sind. Es gibt dabei keine richtigen oder falschen Antworten. Bitte sagen Sie mir einfach, was Sie persönlich denken. 
+
+{QUESTION}
+Bitte benutzen Sie jetzt Liste 37 und sagen Sie mir, wie wichtig es aus Ihrer Sicht für die Demokratie im Allgemeinen ist, ... … dass Wahlen zum nationalen Parlament frei und fair sind? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E2
+{QUESTION}
+… dass Wähler mit Leuten, die sie kennen, über Politik diskutieren, bevor sie sich entscheiden, wie sie wählen? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E3
+{QUESTION}
+... dass sich die verschiedenen politischen Parteien inhaltlich klar voneinander unterscheiden? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E4
+{QUESTION}
+… dass Oppositionsparteien das Recht haben, Kritik an der Regierung zu üben? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E5
+{QUESTION}
+… dass die Medien das Recht haben, Kritik an der Regierung zu üben? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E6
+{QUESTION}
+Denken Sie bitte immer noch an die Demokratie im Allgemeinen und nicht an Deutschland. Wie wichtig ist es aus Ihrer Sicht für die Demokra-tie im Allgemeinen, … … dass die Medien verlässliche Informa-tionen für die Bürger bereitstellen, damit sie sich ein Urteil über die Regierung bilden können? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E7
+{QUESTION}
+… dass die Rechte von Minderheiten geschützt werden? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E8
+{QUESTION}
+... dass die Bürger bei den wichtigsten politischen Sachfragen durch direkte Volksabstimmungen das letzte Wort haben? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E9
+{QUESTION}
+… dass Zuwanderer erst dann das Recht zur Teilnahme an Wahlen zum nationalen Parlament erhalten, wenn sie Staatsbürger geworden sind? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E10
+{QUESTION}
+… dass die Gerichte alle Menschen gleich behandeln? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E11
+{QUESTION}
+… dass die Gerichte die Regierung daran hindern können, ihre Befugnisse zu überschreiten? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E12
+{QUESTION}
+Bitte denken Sie immer noch an die Demokratie im Allgemeinen und nicht an Deutschland. Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, … … dass Regierungs-parteien bei Wahlen abgestraft werden, wenn sie schlechte Arbeit geleistet ha-ben? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E13
+{QUESTION}
+… dass die Regierung alle Bürger vor Armut schützt? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E14
+{QUESTION}
+… dass die Regierung den Wählern ihre Entscheidungen er-klärt? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E15
+{QUESTION}
+… dass die Regierung Maßnahmen ergreift, um Einkommens-unterschiede zu ver-ringern? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E16
+{QUESTION}
+Und wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, … … dass Politiker die Standpunkte anderer europäischer Regie-rungen in Betracht ziehen, bevor sie Entscheidungen tref-fen? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E17
+{INTRO}
+Jetzt möchte ich Ihnen einige Fragen zu den gleichen Themen stellen. Nun geht es aber darum, wie die Demokratie Ihrer Meinung nach gegenwärtig in Deutschland funktioniert. Wieder gibt es dabei keine richtigen oder falschen Antworten. Bitte sagen Sie mir einfach, was Sie persönlich denken.
+
+{QUESTION}
+Bitte sagen Sie mir jetzt anhand von Liste 38, wie sehr die folgenden Aussagen Ihrer Meinung nach für Deutschland zutreffen. 0 bedeutet, die Aussage trifft Ihrer Meinung nach überhaupt nicht zu, und 10 be-deutet, die Aussage trifft Ihrer Meinung nach voll und ganz zu. Die Wahlen zum Deut-schen Bundestag sind frei und fair. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E18
+{QUESTION}
+Die Wähler in Deutschland diskutieren mit Leuten, die sie kennen, über Politik, bevor sie sich entschei-den, wie sie wählen. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E19
+{QUESTION}
+Die verschiedenen politi-schen Parteien in Deutsch-land unterscheiden sich inhaltlich klar voneinander. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E23
+{QUESTION}
+Die Rechte von Minderhei-ten werden in Deutschland geschützt. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E24
+{QUESTION}
+Die Bürger in Deutschland haben bei den wichtigsten politischen Sachfragen durch direkte Volksab-stimmungen das letzte Wort. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E25
+{QUESTION}
+Die Gerichte in Deutsch-land behandeln alle Men-schen gleich. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E26
+{QUESTION}
+Bitte sagen Sie mir weiterhin anhand von Liste 38, wie sehr diese Aussagen Ihrer Meinung nach für Deutschland zutreffen. Die Regierungsparteien in Deutschland werden bei Wahlen abgestraft, wenn sie schlechte Arbeit geleis-tet haben. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E27
+{QUESTION}
+Die Regierung in Deutsch-land schützt alle Bürger vor Armut. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E28
+{QUESTION}
+Die Regierung in Deutsch-land erklärt den Wählern ihre Entscheidungen. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E29
+{QUESTION}
+Die Regierung in Deutschland ergreift Maßnahmen, um Einkommensunterschiede zu verringern.
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E30
+{QUESTION}
+Und wie sehr trifft diese Aussage für Deutschland zu? Die Politiker in Deutsch-land ziehen die Stand-punkte anderer europäi-scher Regierungen in Be-tracht, bevor sie Entschei-dungen treffen. 
+
+{ANSWERS}
+0 Trifft überhaupt nicht zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Trifft voll und ganz zu 
+
+E31
+{INTRO}
+Bei den nächsten Fragen werde ich Sie zuerst bitten, sich für eine der zwei Antwortmöglichkeiten zu entscheiden. Danach werde ich Sie fragen, wie wichtig der von Ihnen gewählte Aspekt aus Ihrer Sicht für die Demokratie im Allgemeinen ist. Zum Schluss bitte ich Sie, über diesen Sachverhalt in Deutschland heute nachzudenken. Wieder gibt es dabei keine richtigen oder falschen Antworten. Bitte sagen Sie mir einfach, was Sie persönlich denken. 
+Es gibt unterschiedliche Auffassungen darüber, ob in einer Demokratie jeder seine politischen Meinungen frei äußern darf oder nicht, auch wenn diese Meinungen extrem sind 
+
+{QUESTION}
+Welche der beiden Aussagen auf dieser Liste beschreibt, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist? 
+
+{ANSWERS}
+1 Jeder sollte seine politischen Meinungen frei äußern dürfen, auch wenn diese extrem sind. 
+2 Diejenigen, die extreme politische Meinungen haben, sollten daran gehindert werden, diese frei zu äußern. 
+
+E32
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass jeder seine politischen Meinungen frei äußern kann, auch wenn diese Meinungen extrem sind?  Bitte benutzen Sie Liste 40. 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E33
+{QUESTION}
+Benutzen Sie bitte Liste 41. Was denken Sie: In welchem Ausmaß kann gegenwärtig jeder in Deutschland frei seine politischen Meinungen äu-ßern, auch wenn diese Meinungen extrem sind? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+E34
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass diejenigen, die extreme politische Meinungen haben, daran gehindert werden, diese Meinungen frei zu äußern? Bitte benutzen Sie Liste 40.
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E35
+{QUESTION}
+Benutzen Sie bitte Liste 41. Was denken Sie: In welchem Ausmaß wer-den gegenwärtig in Deutschland diejenigen, die extreme politische An-sichten haben, daran gehindert, diese Meinungen frei zu äußern? 
+
+{ANSWERS}
+0 Überhaupt nicht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Voll und ganz 
+
+E36
+{INTRO}
+Manchmal ist die Regierung anderer Meinung als die große Mehrheit der Bevölkerung, wenn es darum geht, was für das Land am besten ist. 
+
+{QUESTION}
+Welche der beiden Aussagen auf dieser Liste beschreibt, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist? 
+
+{ANSWERS}
+1 Die Regierung sollte ihre Pläne ändern und darauf rea-gieren, was die große Mehrheit der Bevölkerung denkt. 
+2 Die Regierung sollte an ihren Plänen festhalten - unab-hängig davon, was die große Mehrheit der Bevölkerung denkt. 
+
+E37
+{QUESTION}
+Wie wichtig ist es aus Ihrer Sicht für die Demokratie im Allgemeinen, dass die Regierung ihre Pläne ändert und darauf reagiert, was die große Mehr-heit der Bevölkerung denkt? Bitte benutzen Sie Liste 43. 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E38
+{QUESTION}
+Benutzen Sie bitte Liste 44. Was denken Sie: Wie oft ändert die Regie-rung in Deutschland heute ihre Pläne und reagiert darauf, was die große Mehrheit der Bevölkerung denkt? 
+
+{ANSWERS}
+0 Nie 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer 
+
+E39
+{QUESTION}
+Benutzen Sie bitte Liste 43. Wie wichtig ist es aus Ihrer Sicht für die De-mokratie im Allgemeinen, dass die Regierung an ihren Plänen festhält - unabhängig davon, was die große Mehrheit der Bevölkerung denkt? 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E40
+{QUESTION}
+Benutzen Sie bitte Liste 44. Was denken Sie: Wie oft hält die Regierung in Deutschland heute an ihren Plänen fest - unabhängig davon, was die große Mehrheit der Bevölkerung denkt? 
+
+{ANSWERS}
+0 Nie 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer 
+
+E41
+{INTRO}
+Es gibt Länder, in denen die Regierung aus einer einzigen Partei besteht; in anderen Ländern besteht sie aus zwei oder mehr Parteien, die eine Koalition bilden. 
+
+{QUESTION}
+Welche der Aussagen auf Liste 45 beschreibt, was aus Ihrer Sicht für die Demokratie im Allgemeinen am besten ist? 
+
+{ANSWERS}
+1 Die Regierung besteht aus einer einzigen Partei. 
+2 Die Regierung besteht aus zwei oder mehr Parteien, die eine Koalition bilden.
+
+E42
+{QUESTION}
+Was denken Sie: Wie wichtig ist es für die Demokratie im Allgemeinen, dass die Regierung aus einer einzigen Partei besteht? Bitte benutzen Sie Liste 46. 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E43
+{INTRO}
+Nun die letzte Frage zu diesem Thema. 
+
+{QUESTION}
+Bitte benutzen Sie Liste 47. Was denken Sie: Wie oft besteht die Regierung in Deutschland aus einer einzigen Partei? 
+
+{ANSWERS}
+0 Nie 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer 
+
+E44
+{QUESTION}
+Was denken Sie: Wie wichtig ist es für die Demokratie im Allgemeinen, dass die Regierung aus zwei oder mehr Parteien besteht, die eine Koaliti-on bilden? Bitte benutzen Sie Liste 46. 
+
+{ANSWERS}
+0 Überhaupt nicht wichtig für die Demokratie im Allgemeinen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig für die Demokratie im Allgemeinen 
+
+E45
+{INTRO}
+Nun die letzte Frage zu diesem Thema. 
+
+{QUESTION}
+Bitte benutzen Sie Liste 47. Was denken Sie: Wie oft besteht die Regierung in Deutschland aus zwei oder mehr Parteien, die eine Koalition bilden? 
+
+{ANSWERS}
+0 Nie 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Immer 

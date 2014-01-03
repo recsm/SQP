@@ -1,0 +1,1259 @@
+﻿D1
+{QUESTION}
+Az elmúlt 12 hónapban milyen gyakran vett részt önkéntes vagy segélyszervezet munkájában? Kérem használja a 35. kártyalapot! 
+
+{ANSWERS}
+1 Legalább hetente egyszer 
+2 Legalább havonta egyszer 
+3 Legalább háromhavonta egyszer
+4 Legalább félévente egyszer 
+5 Ritkábban 
+6 Soha
+
+D2
+{INTRO}
+Most arról szeretném kérdezni, hogyan vélekedik önmagáról és az életéről. 
+
+{QUESTION}
+Mennyire ért, illetve nem ért egyet az alábbi állításokkal! Kérem használja a 36. kártyalapot! Optimistán tekintek a jövőre
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+
+D3
+{QUESTION}
+Általában elégedett vagyok magammal. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D4
+{QUESTION}
+Néha úgy érzem, kész csőd vagyok.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D5
+{INTRO}
+Most egy listát fogok felolvasni arról, hogy hogyan érezte magát a múlt héten. 
+
+{QUESTION}
+Kérem mondja meg, hogy a múlt héten milyen gyakran… Kérem használja a 25. kártyalapot! érezte magát levertnek?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D6
+{QUESTION}
+érezte azt, hogy mindenhez nagy erőfeszítésre volt szüksége? 
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D7
+{QUESTION}
+érezte, hogy fáradt ,nem tudja magát kipihenni 
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D8
+{QUESTION}
+volt boldog?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig  
+
+D9
+{QUESTION}
+érezte magányosnak magát?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig  
+
+D10
+{QUESTION}
+élvezte az életet?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D11
+{QUESTION}
+volt szomorú?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D12
+{QUESTION}
+érezte azt, hogy elfásult, nincs kedve semmihez? 
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D13
+{QUESTION}
+érezte, hogy sok energiája van? 
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D14
+{QUESTION}
+volt nyugtalan?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D15
+{QUESTION}
+volt nyugodt és békés?
+
+{ANSWERS}
+1 Soha vagy szinte soha
+2 Néha
+3 Többnyire
+4 Mindig vagy majdnem mindig 
+
+D16
+{QUESTION}
+Kérem, mondja meg, mennyire ért egyet az alábbi állításokkal! Kérem használja a 38. kártyalapot! Úgy érzem, szabadon dönthetek az életemről. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D17
+{QUESTION}
+A mindennapokban ritkán adódik lehetőségem arra, hogy megmutassam, mire is vagyok képes. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D18
+{QUESTION}
+Legtöbbször úgy érzem, hogy van értelme annak, amit csinálok.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D19
+{QUESTION}
+Ha valami rosszul sül el, nehezen találok vissza a régi kerékvágásba
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D20
+{QUESTION}
+Mennyire érzi, hogy … Kérem használja a 41. kártyalapot! van lehetősége új dolgokat tanulni? 
+
+{ANSWERS}
+0 Egyáltalán nem 
+1
+2 
+3 
+4 
+5 
+6 Nagyon
+
+D21
+{QUESTION}
+segítőkészek az emberek a közvetlen környezetében?
+
+{ANSWERS}
+0 Egyáltalán nem 
+1
+2 
+3 
+4 
+5 
+6 Nagyon
+
+D22
+{QUESTION}
+tisztelik, elismerik?
+
+{ANSWERS}
+0 Egyáltalán nem 
+1
+2 
+3 
+4 
+5 
+6 Nagyon
+
+D23
+{QUESTION}
+Mennyire ért vagy nem ért egyet a következő állításokkal! Kérem használja a 28. kártyalapot! Úgy érzem, amivel foglalkozom az értékes és megéri a fáradságot. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D24
+{QUESTION}
+A dolgok jelenlegi állása szerint nehezen tudok bizakodva gondolni a világ jövőjére.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D25
+{QUESTION}
+Sok olyan dolog van, amelyekről úgy érzem, jó vagyok bennük.
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D26
+{QUESTION}
+Magyarországon a legtöbb ember élete inkább romlik, mint javul. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D27
+{QUESTION}
+Kötődöm a lakókörnyezetemben élő emberekhez. 
+
+{ANSWERS}
+1 Teljesen egyetért
+2 Egyetért
+3 Egyet  is ért,  meg  nem is
+4 Nem ért  egyet
+5 Egyáltalán nem ért egyet
+
+D28
+{QUESTION}
+Mennyire jellemző Önre, hogy szakít időt azokra a dolgokra, amelyekkel igazán szeretne foglalkozni? Kérem, használja ezt a kártyalapot, ahol a 0 azt jelenti, hogy egyáltalánnem jellemző, a 10 pedig azt jelenti, hogy teljes mértékben jellemző. 
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 teljes mértékben 
+
+D29
+{QUESTION}
+Mennyire érzi azt, hogy megbecsülik az Önhöz közel álló emberek? Kérem, ugyanezt a kártyalapot használja! 
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 teljes mértékben 
+
+D30
+{QUESTION}
+Mennyire találja könnyűnek vagy nehéznek, hogy az Ön életében felmerülő jelentős problémákkal megbirkózzon? Kérem, használja a kártyalapot, ahol a 0 azt jelenti, hogy rendkívülnehéz, a 10 azt jelenti, hogy rendkívül könnyű
+
+{ANSWERS}
+0 Nagyon nehéz 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Nagyon könnyű
+
+D31
+{QUESTION}
+Kérem, hogy használja a 31 KÁRTYALAPOT a következő három kérdéshez. Általában véve Ön milyen gyakran érzi úgy, hogy...OLVASD FEL... ... érdekli  az, amit csinál?
+
+{ANSWERS}
+0 Soha
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Mindig 
+
+D32
+{QUESTION}
+... leköti az, amit csinál? 
+
+{ANSWERS}
+0 Soha
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Mindig 
+
+D33
+{QUESTION}
+…lelkesedik azért, amit csinál?
+
+{ANSWERS}
+0 Soha
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Mindig 
+
+D34
+{QUESTION}
+Egy átlagos napon milyen gyakran fordul elő Önnel, hogy észreveszi és megbecsüli a környezetét?
+
+{ANSWERS}
+0 Soha
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Mindig 
+
+D35
+{QUESTION}
+Mennyire érzi úgy, hogy van egy iránya az életének? Kérem, használja ezt a kártyalapot ahol a 0 azt jelenti, hogy egyáltalán nem érzi a 10 pedig, hogy teljes mértékben így érzi.
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Teljes mértékben 
+
+D36
+{QUESTION}
+Mennyi segítséget és támogatást kap másoktól, amikor Önnek szüksége van rá? Kérem, használja a kártyalapot ahol a 0 azt jelenti, hogy semennyit és a 6 azt jelenti, hogy teljes mértékben támogatják Önt. 
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Teljes mértékben 
+
+D37
+{QUESTION}
+És Ön Mennyi segítséget és támogatás nyújt másoknak, amikor szükségük van rá?
+
+{ANSWERS}
+0 Egyáltalán nem
+1
+2 
+3 
+4 
+5 
+6 Teljes mértékben 
+
+D38
+{INTRO}
+Vannak olyan emberek, akik a társadalom felső részén találhatóak és vannak, akik a társadalom alsó részén. Ezen a kártyalapon egy skála található, amely fentről lefelé halad. 
+
+{QUESTION}
+Ön jelenleg hol helyezné el magát ezen a skálán ?
+
+{ANSWERS}
+10 A társadalom felső része
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 A társadalom alsó része
+
+D39
+{QUESTION}
+A kártyalap segítségével kérem, mondja meg, hogy hányszor végzett az elmúlt hét napban fizikailag aktív feladatot legalább 20 percig folyamatosan? 
+
+{ANSWERS}
+0 Egyetlen napon sem
+1 Egy napon
+2 Két napon
+3 Három napon
+4 Négy napon
+5 Öt napon
+6 Hat napon
+7 Hét napon
+
+E1
+{INTRO}
+Most néhány kérdés következik a demokráciáról. A későbbiek folyamán megkérdezem Öntől, hogy miként működik a demokrácia Szlovákiában. Először azonban szeretném, ha inkább arról mondana véleményt, hogy a különböző dolgok mennyire fontosak a demokráciában általában véve. Nincs jó vagy rossz válasz, kérem, hogy azt mondja, amit Ön igazán gondol. 
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, hogy , mennyire tartja általában véve fontosnak a demokráciához, hogy ... ... szabad és tisztességes országos választásokat tartsanak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E2
+{QUESTION}
+...a szavazók megvitassák a politikát az ismerőseikkel, mielőttt eldöntik,hogyan szavaznak? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E3
+{QUESTION}
+...a különböző politikai pártok világos alternatívát nyújtsanak egymáshoz képest? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E4
+{QUESTION}
+att oppositionspartier fritt får kritisera regeringen? ... ...az ellenzéki pártok szabadon bírálhassák a kormányt?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E5
+{QUESTION}
+…a média szabadon bírálhassa a kormányt? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E6
+{QUESTION}
+És még továbbra is általánosságban véve és nem Szlovákiára koncentrálva mennyire tartja fontosnak a demokráciához, hogy ... ...a média megbízható információt nyújtson az állampolgárok számára azért, hogy megítéljék a kormányt?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E7
+{QUESTION}
+...védjék a kisebbségek jogait?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E8
+{QUESTION}
+…az emberek maguk hozzanak döntéseket a jelentősebb, új törvényekről?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E9
+{QUESTION}
+…a bevándorlók csak azután szavazhassanak az országos választásokon, ha állampolgárokká váltak? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E10
+{QUESTION}
+...a bíróságok mindenkit egyenlően kezeljenek? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E11
+{QUESTION}
+...a bíróságok felülbírálhassák a kormányt, ha az túllépi a hatáskörét?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E12
+{QUESTION}
+És még továbbra is általánosságban véve és nem Szlovákiára koncentrálva mennyire tartja fontosnak a demokráciához, hogy ... ... a kormánypártokat megbüntessék a választásokon, amennyiben rosszul végezték a munkájukat? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E13
+{QUESTION}
+...a kormány minden állampolgárát megvédjen a szegénységtől?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E14
+{QUESTION}
+...a kormány indokolja a döntéseit a szavazóinak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E15
+{QUESTION}
+...a kormány tegyen lépésekét annak érdekében, hogy csökkentse a jövedelmi különbségeket? 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E16
+{QUESTION}
+És mennyire tartja fontosnak általában a demokráciában, hogy …...a politikusok vegyék figyelembe a többi európai ország kormányának nézeteit, mielőtt döntést hoznak?
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E17
+{INTRO}
+Most néhány kérdés következik ugyanerről a témáról, most azonban arra vagyunk kíváncsiak, hogy Ön mit gondol arról, hogy a mai Szlovákiában hogyan működik a demokrácia? Ismételten nincs jó vagy rossz válasz, kérem, hogy mondja azt, amit Ön gondol.
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, milyen mértékben gondolja úgy, hogy a következő állítások jellemzőek Szlovákiára. 0 azt jelenti, hogy egyáltalán nem jellemző, 10 pedig, hogy teljes mértékben jellemző. Az országos választások Szlovákiában szabadok és tisztességesek
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E18
+{QUESTION}
+Szlovákiában a szavazók megvitatják a politikát ismerőseikkel mielőtt eldöntik, hogy miként szavaznak.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E19
+{QUESTION}
+A különböző politikai pártok Szlovákiában világos alternatívát nyújtsanak egymáshoz képest?
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E20
+{QUESTION}
+Az ellenzéki pártok Szlovákiában szabadon bírálhatják a kormányt. 
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E21
+{QUESTION}
+A média Szlovákiában szabadon bírálhatja a kormányt 
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E22
+{QUESTION}
+Ugyanennek a kártyalapnak a használatával kérem, mondja meg, hogy mennyire tartja jellemzőnek következő állításokat Szlovákiára vonatkozóan? A média Szlovákiában megbízható információt nyújt az állampolgárok számára ahhoz, hogy megítéljék a kormányt.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E23
+{QUESTION}
+A kisebbségek jogait védik Szlovákiában
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E24
+{QUESTION}
+Az állampolgárok Szlovákiában közvetlenül maguk hozhatnak döntéseket legfontosabb politikai kérdésekben a népszavazásokon
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E25
+{QUESTION}
+A bíróságok Szlovákiában mindenkit egyenlően kezelnek.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E26
+{QUESTION}
+Ugyanennek a kártyalapnak a használatával kérem, mondja meg, hogy mennyire tartja jellemzőnek a következő állításokat Szlovákiára nézve? A kormányzó pártok a választásokkor kevesebb szavazatot kapnak Szlovákiában, ha rosszul végezték a munkájukat
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E27
+{QUESTION}
+A szlovák kormány minden állampolgárt megvéd a szegénységtől.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E28
+{QUESTION}
+A szlovák kormány megindokolja a döntéseit a szavazóknak. 
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E29
+{QUESTION}
+A szlovák kormány lépéseket tesz annak érdekében, hogy csökkentse a jövedelmi különbségeket.
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E30
+{QUESTION}
+És a következő állítás mennyire jellemző Szlovákiára? A politikusok Szlovákiában figyelembe veszik a többi európai ország kormányának nézeteit mielőtt döntéseket  hoznak?
+
+{ANSWERS}
+0 Egyáltalán nem jellemző 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Teljes mértékben jellemző
+
+E31
+{INTRO}
+A következő kérdések során először arra kérem, hogy válasszon két lehetőség közül. Utána azt kérdezem, hogy mennyire tartja fontosnak azt a dolgot, amit Ön választott a demokráciában általában véve. Utána arról kérdezem, hogy mennyire fontos ez a kérdés a mai Szlovákiában. Emlékeztetném, hogy nincs jó vagy rossz válasz, azt mondja, amit Ön gondol. 
+Különböző vélemények vannak arról, hogy vajon mindenkinek hagyni kellene, hogy kifejthesse a politikai nézeteit, még akkor is, ha azok szélsőségesek. 
+
+{QUESTION}
+A kártyalapon szereplő állítások közül melyik írja le a leginkább azt, amit Ön általában véve gondol a demokráciáról?
+
+{ANSWERS}
+1 Mindenkinek nyíltan kell kifejeznie a politikai nézeteit, még akkor is, ha azok szélsőségesek
+2 Meg kell akadályozni, hogy azok, akiknek szélsőséges politikai nézeteik vannak nyíltan kifejthessék azokat
+
+E32
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy mindenki szabadon kifejthesse a politikai nézeteit nyíltan akkor is, ha azok szélsőségesek? Kérem, használja ezt a kártyalapot. 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E33
+{QUESTION}
+A kártyalap segítségével milyen mértékben gondolja úgy, hogy Szlovákiában ma mindenki kifejtheti politikai nézeteit nyíltan, még akkor is, ha azok szélsőségesek? 
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 teljesen mértékben
+
+E34
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy megakadályozzák azokat, akik szélsőséges nézeteket vallanak attól, hogy nyíltan kifejthessék a politikai nézeteiket? Kérem, használja ezt a kártyalapot 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E35
+{QUESTION}
+Ennek a kártyalapnak a használatával, kérem, mondja meg, hogy milyen mértékben gondolja úgy, hogy azok, akik szélsőséges politikai nézeteket vallanak ma Szlovákiában, azokat megakadályozzák abban, hogy nyíltan kifejezzék azokat? 
+
+{ANSWERS}
+0 egyáltalán nem
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 teljesen mértékben
+
+E36
+{INTRO}
+Néha a kormány nem ért egyet azzal, amiről a legtöbb ember úgy vélekedik, hogy az az ország érdeke
+
+{QUESTION}
+Melyik az az egy állítás, amely a legjobban leírja azt, hogy Ön mit gondol a legjobbnak általában véve a demokráciában? 
+
+{ANSWERS}
+1 A kormánynak meg kell változtatnia az eltervezett politikáját, hogy eleget tegyen annak, amit a többség góndola
+2 A kormánynak ragaszkodnia kell az eltervezett politikájához függetlenül attól, hogy a többség mit gondol.
+
+E37
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy a kormány megváltoztassa az eltervezett politikáját azért, hogy eleget tegyen annak, amit a többség gondol? Kérem, használja ezt a kártyalapot! 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E38
+{QUESTION}
+Ezt a kártyalapot használva kérem, mondja meg, hogy milyen gyakran fordul elő ma Szlovákiában, hogy a kormány megváltoztatja az eltervezett politikáját azért, hogy eleget tegyen annak, amit a többség gondol? 
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E39
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy a kormány ragaszkodjon az eltervezett politikájához függetlenül attól, hogy a legtöbb ember miként vélekedik? Kérem, használja ezt a kártyalapot! 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E40
+{QUESTION}
+Ennek a kártyalapnak a használatával kérem, mondja meg, hogy a kormány ma Szlovákiában ragaszkodik az eltervezett politikákhoz függetlenül attól, hogy az emberek többsége miként vélekedik?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E41
+{INTRO}
+A kormányt néhány országban egyetlen párt alkotja, míg más országokban két vagy több párt alkot koalíciót. 
+
+{QUESTION}
+Melyik az az állítás ezen a kártyalapon, amelyik a legjobban leírja azt, hogy Ön mit gondol a legjobbnak a demokráciában általában véve? 
+
+{ANSWERS}
+1 Egy párt alkot kormányt
+2 Két vagy több part alkot kormányt koalícióban 
+ 
+E42
+{QUESTION}
+Mennyire tartja fontosnak általában véve a demokráciában, hogy egy part alkosson kormányt? Kérem, használja ezt a kártyalapot! 
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E43
+{INTRO}
+Most az utolsó kérdés következik ebben a témában
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, hogy milyen gyakran fordul elő, hogy ma Szlovákiában egy part alkot kormányt?
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig
+
+E44
+{QUESTION}
+Mennyire tartja fontosnak a demokráciában általában véve, hogy a kormány két vagy több párt koalícióján alapuljon? Kérem, használja ezt a kártyalapot!
+
+{ANSWERS}
+0 Általában véve egyáltalán nem fontos a demokráciához 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Általában véve rendkívül fontos a demokráciához 
+
+E45
+{INTRO}
+Most az utolsó kérdés következik ebben a témában.
+
+{QUESTION}
+A kártyalap használatával kérem, mondja meg, hogy milyen gyakran fordul elő ma Szlovákiában, hogy a kormány két vagy több párti koalíción alapul? 
+
+{ANSWERS}
+0 soha
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 mindig

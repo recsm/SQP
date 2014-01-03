@@ -1,0 +1,1120 @@
+﻿D1
+{QUESTION}
+Jak často jste zapojil(a) v uplynulých 12 měsících do práce pro dobrovolnické nebo charitativní organizace? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+1 Alespoň jednou týdně
+2 Alespoň jednou měsíčně 
+3 Alespoň jednou za tři měsíce 
+4 Alespoň jednou za šest měsíců
+5 Méně často
+6 Nikdy
+
+D2
+{INTRO}
+Nyní se vás chceme zeptat, co si myslíte o sobě a o svém ţivotě.
+
+{QUESTION}
+Pouţijte tuto kartu. Řekněte prosím, do jaké míry souhlasíte nebo nesouhlasíte s kaţdým z následujících výroků. Co se týče mé budoucnosti, jsem vţdy optimistický(á)
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D3
+{QUESTION}
+Cítím se obvykle velmi pozitivně, co se týče mě samotné(ho).
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D4
+{QUESTION}
+Občas mám pocit, jako kdybych byl(a) smolař a neúspěšný člověk.
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D6
+{QUESTION}
+jste cítil(a), ţe všechno děláte s vypětím sil
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stale
+
+D8
+{QUESTION}
+jste byl(a) šťastná(ý)
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stale
+
+D10
+{QUESTION}
+jste si uţíval(a) ţivota
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D11
+{QUESTION}
+jste se cítil(a) smutný(á)
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D12
+{QUESTION}
+jste pociťoval(a) nedostatek elánu
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D13
+{QUESTION}
+A řekněte mi prosím, kolik času v uplynulém týdnu… jste měl(a) spoustu energie
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D14
+{QUESTION}
+jste cítil(a) úzkost
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D15
+{QUESTION}
+jste se cítil(a) klidně a pohodově
+
+{ANSWERS}
+1 Vůbec nebo téměř vůbec
+2 Menšinu času
+3 Většinu času
+4 Stále nebo téměř stále
+
+D16
+{QUESTION}
+S pouţitím této karty prosím řekněte, do jaké míry souhlasíte nebo nesouhlasíte s kaţdým z následujících výroků. Mám pocit, ţe si můţu svobodně rozhodnout, jak chci ţít svůj ţivot.
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D17
+{QUESTION}
+Ve svém běţném ţivotě mám velmi málo příleţitostí ukázat, jak jsem schopný(á).
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D18
+{QUESTION}
+Většinou mám pocit naplnění z činnosti, kterou vykonávám
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D19
+{QUESTION}
+Kdyţ se mi v ţivotě nedaří, většinou mi trvá dlouho, neţ se dostanu zpátky do svého normálního stavu.
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D20
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, do jaké míry… se ve svém ţivotě učíte novým věcem?
+
+{ANSWERS}
+0 Vůbec
+1 
+2 
+3 
+4
+5 
+6 Velice
+
+D21
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, do jaké míry… máte pocit, ţe si lidé v okolí vašeho bydliště navzájem pomáhají?
+
+{ANSWERS}
+0 Vůbec
+1 
+2 
+3 
+4
+5 
+6 Velice
+
+D22
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, do jaké míry… máte pocit, ţe lidé s vámi jednají s úctou?
+
+{ANSWERS}
+0 Vůbec
+1 
+2 
+3 
+4
+5 
+6 Velice
+
+
+D23
+{QUESTION}
+S pouţitím této karty prosím řekněte, do jaké míry souhlasíte nebo nesouhlasíte s kaţdým z následujících výroků. Obecně cítím, ţe to, co dělám ve svém ţivotě, je cenné a prospěšné
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D24
+{QUESTION}
+Pokud vezmu v potaz současnou situaci, je pro mě těţké být optimistický, co se týče budoucnosti tohoto světa
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D25
+{QUESTION}
+Je spousta věcí, ve kterých se cítím být dobrý(á)
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D26
+{QUESTION}
+Pro většinu lidí v České republice se ţivot stává horším spíše neţ lepším
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D27
+{QUESTION}
+Mám pocit, ţe k lidem v mém sousedství mám blízko
+
+{ANSWERS}
+1 Rozhodně souhlasím
+2 Souhlasím
+3 Ani souhlas, ani nesouhlas
+4 Nesouhlasím
+5 Rozhodně nesouhlasím
+
+D28
+{QUESTION}
+Do jaké míry si uděláte čas na věci, kterým se opravdu chcete věnovat? Pouţijte prosím tuto kartu, kde 0 znamená "vůbec" a 10 znamená "zcela".
+
+{ANSWERS}
+0 Vůbec
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Zcela
+
+D29
+{QUESTION}
+Do jaké míry cítíte uznání od lidí, kteří jsou vám blízcí? Pouţijte prosím stejnou kartu.
+
+{ANSWERS}
+0 Vůbec
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Zcela
+
+D30
+{QUESTION}
+Jak snadné nebo obtíţné pro vás bývá vypořádat se se závaţnými problémy, které se objevují ve vašem ţivotě? Pouţijte prosím tuto kartu, kde 0 je "nesmírně těţké" a 10 je "nesmírně lehké".
+
+{ANSWERS}
+0 Nesmírně těţké
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Nesmírně lehké
+
+D34
+{QUESTION}
+Jak často si v běţném dni povšimnete svého okolí a uvědomíte si jej?
+
+{ANSWERS}
+0 Nikdy
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Vţdy
+
+D35
+{QUESTION}
+Do jaké míry máte pocit, ţe váš ţivot má určitý směr? Pouţijte prosím tuto kartu, kde 0 znamená vůbec a 10 znamená zcela (úplně).
+
+{ANSWERS}
+0 Vůbec
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Zcela
+
+D36
+{QUESTION}
+Do jaké míry dostáváte pomoc a podporu od bl.zkých lidí, kdyţ ji potřebujete? Vyberte odpověď z této karty, kde 0 znamená "vůbec" a 10 "zcela".
+
+{ANSWERS}
+0 Vůbec
+1
+2 
+3 
+4 
+5 
+6 Zcela
+
+D37
+{QUESTION}
+A do jaké míry poskytujete pomoc a podporu bl.zkým lidem, kdyţ ji potřebují?
+
+{ANSWERS}
+0 Vůbec
+1
+2 
+3 
+4 
+5 
+6 Zcela
+
+D38
+{INTRO}
+Jsou lidé, kteří jsou obecně na vrcholu naší společnosti, a lidé, kteří jsou obecně na jejím dně. Na této kartě je škála, která vede od vrcholu po dno. 
+
+{QUESTION}
+Kde byste se na této škále v současnosti umístil(a) vy?
+
+{ANSWERS}
+10 Vrchol naší společnosti
+9 
+8 
+7 
+6 
+5
+4
+3
+2
+1
+0 Dno naší společnosti
+
+D39
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, v kolika z posledních 7 dnů jste byl(a) nepřetrţitě fyzicky aktivní 20 minut či déle.
+
+{ANSWERS}
+0. Ani jeden den 
+1. Jeden den 
+2. Dva dny 
+3. Tři dny 
+4. Čtyři dny 
+5. Pět dní 
+6. Šest dní 
+7. Sedm dní 
+
+E1
+{INTRO}
+Nyní několik otázek o demokracii. Později se vás zeptám na to, jak funguje demokracie v České republice. Nejprve vás však poţádám, abyste se zamyslel(a) nad tím, jak jsou podle vás pro demokracii důleţité různé věci obecně. Nejsou zde ţádné správné ani špatné odpovědi, řekněte mi proto prosím, co si myslíte vy.
+
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, … Jak je podle vás pro demokracii obecně důleţité, aby parlamentní volby byly svobodné a férové?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E2
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby voliči diskutovali se svými známými o politických otázkách před tím, neţ se rozhodnou, koho volit?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E3
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby jednotlivé politické strany nebo kandidáti nabízeli vůči sobě navzájem jasnou alternativu?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E4
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby opoziční strany mohly svobodně kritizovat vládu?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E5
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby sdělovací prostředky mohly svobodně kritizovat vládu?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E6
+{QUESTION}
+A kdyţ se zamýšlíte obecně a nikoliv konkrétně nad Českou republikou… Jak je podle vás pro demokracii obecně důleţité, aby sdělovací prostředky poskytovaly občanům spolehlivé informace, aby si mohli vytvořit úsudek o vládě?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E7
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby byla ochraňována práva menšin?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E8
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby občané mohli hlasováním v referendech říct poslední slovo k nejdůleţitějším politickým tématům?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E9
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby přistěhovalci měli právo volit v parlamentních volbách pouze tehdy, kdyţ se stanou občany státu?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E10
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby soudy zacházely s kaţdým stejně?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E11
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby soudy mohly zastavit vládu v případě, ţe překračuje svou pravomoc?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E12
+{QUESTION}
+A kdyţ se zamýšlíte obecně a nikoliv konkrétně nad Českou republikou… Jak je podle vás pro demokracii obecně důleţité, aby byly vládní strany potrestány ve volbách, pokud odvedly nekvalitní práci?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E13
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby vláda chránila všechny občany před chudobou?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E14
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby vláda vysvětlovala svá rozhodnutí voličům?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E15
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby vláda přijala opatření ke sníţení rozdílů ve výši příjmů?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E16
+{QUESTION}
+A jak je podle vás pro demokracii obecně důleţité, aby politici, předtím neţ učiní rozhodnutí, vzali v úvahu názory dalších evropských vlád?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E17
+{INTRO}
+Nyní několik otázek na stejné téma, ale tentokrát o tom, co si myslíte o fungování demokracie v České republice v současnosti. Opět zde nejsou ţádné správné nebo špatné odpovědi, proto mi prosím řekněte to, co si myslíte vy.
+
+{QUESTION}
+S pomocí této karty mi prosím řekněte, do jaké míry platí kaţdý z následujících výroků pro Českou republiku. 0 znamená, ţe si myslíte, ţe tento výrok neplatí vůbec a 10 znamená, ţe si myslíte, ţe tento výrok platí zcela. Parlamentní volby v České republice jsou svobodné a férové
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E18
+{QUESTION}
+Voliči v České republice diskutují o politice s blízkými lidmi neţ se rozhodnou, koho volit.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E19
+{QUESTION}
+Jednotlivé politické strany v České republice nabízejí jasné alternativy vůči sobě navzájem.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E23
+{QUESTION}
+Práva menšin jsou v České republice chráněna.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E24
+{QUESTION}
+Občané v České republice mohou říci poslední slovo k nejdůleţitějším politickým tématům přímým hlasováním v referendech.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E25
+{QUESTION}
+Soudy v České republice zacházejí se všemi stejně.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E26
+{QUESTION}
+A s pouţitím stejné karty mi prosím řekněte, do jaké miry podle vás platí kaţdý z těchto výroků v České republice. Vládní strany v České republice jsou potrestány v parlamentních volbách, pokud odvedly nekvalitní práci.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E27
+{QUESTION}
+Vláda v České republice chrání všechny občany proti chudobě.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E28
+{QUESTION}
+Vláda v České republice vysvětluje svá rozhodnutí voličům.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E29
+{QUESTION}
+Vláda v České republice přijímá opatření ke sníţení rozdílů ve výši příjmů.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E30
+{QUESTION}
+A do jaké míry tento výrok platí v České republice? Politici v České republice předtím, neţ učiní rozhodnutí, berou v úvahu názory dalších evropských vlád.
+
+{ANSWERS}
+0 Vůbec neplatí
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela platí
+
+E31
+{INTRO}
+V následujících otázkách vás nejprve poţádám, abyste si vybral(a) mezi dvěma moţnostmi. Poté se vás zeptám, jak je podle vás vaše volba důleţitá pro demokracii obecně. Na závěr vás poţádám, abyste se zamyslel(a) nad tímto tématem v současné České republice. Pamatujte, ţe zde nejsou ţádné správné nebo špatné odpovědi, proto mi prosím řekněte to, co si myslíte vy. Existují různé názory na to, zda kaţdý má či nemá mít v demokracii právo svobodně a otevřeně vyjadřovat své
+politické názory, i kdyţ jsou to názory extrémní. 
+
+{QUESTION}
+Který z výroků na této kartě popisuje, co je podle vás pro demokracii obecně nejlepší? "Zkuste si prosím z této karty vybrat odpověď, která nejlépe odpovídá vašemu názoru".
+
+{ANSWERS}
+1 Kaţdý by měl mít právo svobodně a otevřeně vyjadřovat své politické názory, i kdyţ jsou extrémní
+2 Lidem, kteří zastávají extrémní politické názory, by mělo být zabráněno, aby je otevřeně vyjadřovali
+
+E32
+{QUESTION}
+Jak je podle vás pro demokracii obecně důleţité, aby kaţdý měl moţnost svobodně vyjadřovat své politické názory, i kdyţ jsou extrémní? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E33
+{QUESTION}
+S pouţitím této karty mi řekněte, do jaké míry má podle vás kaţdý v současné České republice moţnost svobodně vyjádřit své politické názory, i kdyţ jsou extrémní?
+
+{ANSWERS}
+0 Vůbec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela
+
+E34
+{QUESTION}
+Jak je důleţité podle vás pro demokracii obecně, aby lidem, kteří zastávají extrémní politické názory, bylo v jejich otevřeném vyjadřování zabráněno? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E35
+{QUESTION}
+S pouţitím této karty mi řekněte, do jaké míry by mělo být lidem, kteří zastávají extrémní politické názory, v současné České republice zabráněno, aby je otevřeně vyjadřovali?
+
+{ANSWERS}
+0 Vůbec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zcela
+
+E36
+{INTRO}
+Někdy se vláda a většina lidí neshodují v tom, co je pro zemi nejlepší.
+
+{QUESTION}
+Který z výroků na této kartě popisuje to, co je podle vás pro demokracii obecně nejlepší? "Zkuste si prosím z této karty vybrat odpověď, která nejlépe odpovídá vašemu názoru".
+
+{ANSWERS}
+1 Vláda by měla měnit svou politickou linii s ohledem na to, co si myslí většina lidí
+2 Vláda by se měla drţet své politické linie bez ohledu na to, co si myslí většina lidí
+
+E37
+{QUESTION}
+Jak důleţité je podle vás pro demokracii obecně, aby vláda měnila svou politickou linii s ohledem na to, co si většina lidí myslí? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E38
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, jak často podle vás vláda v současné České republice mění své politické linie s ohledem na to, co si většina lidí myslí? 
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E39
+{QUESTION}
+Jak důleţité je podle vás pro demokracii obecně, aby se vláda drţela svých politických linií bez ohledu na to, co si většina lidí myslí?
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E40
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, jak často se vláda v současné České republice drţí svých politických linií bez ohledu na to, co si většina lidí myslí?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E41
+{INTRO}
+V některých zemích je vláda tvořena jednou stranou; v jiných zemích je tvořena dvěma nebo více stranami v koalici.
+
+{QUESTION}
+Která z moţností na této kartě popisuje to, co je podle vás nejlepší pro demokracii obecně? "Zkuste si prosím z této karty vybrat odpověď, která nejlépe odpovídá vašemu názoru".
+
+{ANSWERS}
+1 Vládu tvoří jedna politická strana
+2 Vládu tvoří dvě nebo více politických stran v koalici
+
+E42
+{QUESTION}
+Jak je podle vás důleţité pro demokracii obecně, aby vláda byla tvořena jednou politickou stranou? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E43
+{INTRO}
+Nyní k poslední otázce týkaj.c. se tohoto tématu.
+
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, jak často je vláda v České republice tvořena jednou politickou stranou?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy
+
+E44
+{QUESTION}
+Jak je podle vás důleţité pro demokracii obecně, aby vláda byla tvořena dvěma nebo více politickými stranami v koalici? Pouţijte prosím tuto kartu.
+
+{ANSWERS}
+0 Není to pro demokracii obecně vůbec důleţité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je to pro demokracii obecně mimořádně důleţité
+
+E45
+{INTRO}
+Nyní poslední otázka týkaj.c. se tohoto tématu.
+
+{QUESTION}
+S pouţitím této karty mi prosím řekněte, jak často je vláda v České republice tvořena dvěma nebo více politickými stranami v koalici?
+
+{ANSWERS}
+0 Nikdy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vţdy

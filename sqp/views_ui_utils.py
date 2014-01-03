@@ -73,7 +73,7 @@ def get_codes_list(codes):
 def get_predictor():
     """This does a round robin of predictors [predictor_0, predictor_1], or just returns 'predictor' 
        if there is only one as defined in settings.PREDICTOR_COUNT"""
- 
+
     if settings.PREDICTOR_COUNT == 1:
         predictor_name = 'predictor'
     else:

@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Durant els darrers 12 mesos, amb quina freqüència ha col·laborat amb organitzacions de voluntaris o amb fins caritatius? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+1 Almenys una vegada a la setmana
+2 Almenys una vegada al mes
+3 Almenys una vegada cada tres mesos
+4 Almenys una vegada cada sis mesos
+5 Amb menys freqüència
+6 Mai
+
+D2
+{INTRO}
+Ara voldríem fer-li algunes preguntes sobre com se sent amb vostè mateix/a i amb la seva vida.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt està d’acord o en desacord amb cadascuna de les següents afirmacions. Sóc sempre optimista respecte el meu futur
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D3
+{QUESTION}
+En general, em sento bé amb mi mateix/a
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D4
+{QUESTION}
+Algunes vegades em sento com si fos un fracassat/da
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D6
+{QUESTION}
+... ha tingut la sensació de què li costava molt fer qualsevol cosa?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D8
+{QUESTION}
+... s’ha sentit feliç?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D10
+{QUESTION}
+... ha tingut la sensació de gaudir de la vida?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D11
+{QUESTION}
+... s’ha sentit trist/a?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D12
+{QUESTION}
+... s’ha sentit sense ànims?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D13
+{QUESTION}
+I, digui’m, amb quina freqüència durant la darrera setmana... ... s’ha sentit ple/na d’energia?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D14
+{QUESTION}
+... ha sentit ansietat?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D15
+{QUESTION}
+... s’ha sentit tranquil/tranquil·la i relaxat/da?
+
+{ANSWERS}
+1 En cap moment o en gairebé cap moment
+2 En algun moment
+3 Bona part del temps
+4 Tot o gairebé tot el temps
+
+D16
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt està d’acord o en desacord amb cadascuna de les següents afirmacions. Tinc la sensació de poder decidir amb llibertat com viure la meva vida
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D17
+{QUESTION}
+En la meva vida diària, tinc poques oportunitats de demostrar allò del que sóc capaç
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D18
+{QUESTION}
+La major part dels dies sento que he aconseguit el que m'havia proposat
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D19
+{QUESTION}
+Quan les coses van malament en la meva vida, generalment em porta molt de temps encarrilar-la
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D20
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, en quina mesura… ...aprèn coses noves a la seva vida?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6 Molt sovint
+
+D21
+{QUESTION}
+... té la sensació que en el seu barri o poble la gent s’ajuda mútuament?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6 Molt sovint
+
+D22
+{QUESTION}
+.. sent que la gent el tracta amb respecte?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6 Molt sovint
+
+D23
+{QUESTION}
+Utilitzant aquesta targeta, digui’m, si us plau, fins a quin punt està d’acord o en desacord amb cadascuna de les següents afirmacions. Generalment penso que el que faig en la vida és profitós i útil pels altres
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D24
+{QUESTION}
+Tal i com estan les coses em resulta difícil sentir-me esperançat/da sobre el future del món
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D25
+{QUESTION}
+Hi ha moltes coses que crec que faig bé
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D26
+{QUESTION}
+La vida de la majoria dels espanyols està empitjorant enlloc de millorar
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D27
+{QUESTION}
+Em sento proper/a a la gent del meu barri o poble
+
+{ANSWERS}
+1 Molt d’acord
+2 D’acord
+3 Ni d’acord ni en desacord
+4 En desacord
+5 Molt en desacord
+
+D28
+{QUESTION}
+Fins a quin punt troba temps per fer el que realment vol fer? Si us plau, utilitzi aquesta targeta en què 0 significa gens i 10, del tot.
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Del tot
+
+D29
+{QUESTION}
+Fins a quin punt se sent valorat/da per la gent que li és proper/a? Sisplau utilitzi la mateixa targeta.
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Del tot
+
+D30
+{QUESTION}
+En quina mesura troba difícil o fàcil afrontar els problemes importants que es troba a la seva vida? Si us plau, utilitzi aquesta targeta en què 0 significa extremadament difícil i 10, extremadament fàcil.
+
+{ANSWERS}
+0 Extremadament difícil
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament fàcil
+
+D34
+{QUESTION}
+En un dia normal, amb quina freqüència para atenció a les coses que es troba al seu voltant i les valora?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+D35
+{QUESTION}
+En quina mesura li sembla que té un rumb clar a la seva vida? Si us plau, utilitzi aquesta targeta, en què 0 significa gens i 10 del tot.
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Del tot
+
+D36
+{QUESTION}
+En quina mesura rep ajuda i suport de persones properes quan ho necessita? Si us plau, utilitzi aquesta targeta, en què 0 significa gens i 6 del tot.
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6 Del tot
+
+D37
+{QUESTION}
+I en quina mesura ajuda i dóna suport a persones properes quan ho necessiten?
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6 Del tot
+
+D38
+{INTRO}
+Hi ha gent que sol estar en la part alta de la nostra societat i gent que sol estar en la part baixa. En aquesta targeta hi ha una escala que va de dalt a baix.
+
+{QUESTION}
+Actualment, en quin punt d'aquesta escala se situaria vostè?
+
+{ANSWERS}
+10 En la part més alta de la nostra societat
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 En la part més baixa de la nostra societat
+
+D39
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, en quants dels últims 7 dies va fer activitat física continuada durant 20 minuts o més?
+
+{ANSWERS}
+0. Cap dia
+1. Un dia
+2. Dos dies
+3. Tres dies
+4. Quatre dies
+5. Cinc dies
+6. Sis dies
+7. Set dies
+
+E1
+{INTRO}
+Ara li faré unes quantes preguntes sobre la democràcia. Més endavant li preguntaré sobre com funciona la democràcia a Espanya. Però primer voldria que pensés en quina importància creu que tenen una sèrie de coses per la democràcia en general. No hi ha respostes correctes ni incorrectes; simplement digui'm, si us plau, el que vostè pensa.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, quina importància pensa vostè que té per a la democràcia en general… ...que les eleccions generals siguin lliures i netes?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E2
+{QUESTION}
+...que els votants parlin de política amb persones que coneixen abans de decidir el seu vot?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E3
+{QUESTION}
+…que els diferents partits polítics ofereixin alternatives clarament diferenciades?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E4
+{QUESTION}
+…que els partits de l'oposició puguin criticar lliurement el govern?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E5
+{QUESTION}
+…que els mitjans de comunicació puguin criticar lliurement el govern?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E6
+{QUESTION}
+I pensant encara en termes generals, i no en Espanya, quina importància creu que té per a la democràcia en general... ...que els mitjans de comunicació proporcionin informació real als ciutadans per avaluar el govern?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E7
+{QUESTION}
+...que es protegeixin els drets de les minories?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E8
+{QUESTION}
+…que els ciutadans tinguin l'última paraula en els assumptes politics més importants per mitjà del vot directe en referèndums? 
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E9
+{QUESTION}
+...que els immigrants només obtinguin el dret a vot en les eleccions generals després d'haver adquirit la nacionalitat?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E10
+{QUESTION}
+… que els tribunals tractin a tothom de la mateixa manera?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E11
+{QUESTION}
+...que els tribunals puguin impedir que el govern s'excedeixi en l'ús de la seva autoritat?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E12
+{QUESTION}
+I pensant encara en termes generals, i no en Espanya, quina importància creu que té per a la democràcia en general... ...que el partit o partits que governen siguin castigats en les eleccions si han fet malament la seva feina?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E13
+{QUESTION}
+…que el govern protegeixi tots els ciutadans de la pobresa?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E14
+{QUESTION}
+…que el govern expliqui les seves decisions als votants?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E15
+{QUESTION}
+…que el govern prengui mesures per reduir les diferències en el nivell d'ingressos?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E16
+{QUESTION}
+I quina importància creu que té per a la democràcia en general…  …que els polítics tinguin en compte l'opinió d'altres governs europeus abans de prendre decisions?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E17
+{INTRO}
+Ara vénen algunes preguntes sobre els mateixos temes, però aquesta vegada sobre com creu vostè que funciona la democràcia actualment a Espanya. Aquí tampoc no hi ha respostes correctes ni incorrectes; simplement digui'm, si us plau, el que vostè pensa.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, fins a quin punt creu que les afirmacions següents són vàlides per a Espanya. 0 significa que vostè creu que l'afirmació no és gens vàlida per a Espanya i 10 significa que vostè creu que és del tot vàlida per a Espanya. A Espanya, les eleccions generals són lliures i netes.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E18
+{QUESTION}
+A Espanya, els votants parlen de política amb persones que coneixen abans de decidir el seu vot.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E19
+{QUESTION}
+A Espanya, els diferents partits politics ofereixen alternatives clarament diferenciades.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E23
+{QUESTION}
+A Espanya, es protegeixin els drets de les minories.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E24
+{QUESTION}
+A Espanya, els ciutadans tenen l'última paraula en els assumptes politics importants per mitjà del vot directe en referèndums.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E25
+{QUESTION}
+A Espanya, els tribunals tracten a tothom de la mateixa manera.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E26
+{QUESTION}
+Utilitzant la mateixa targeta, digui'm, si us plau, fins a quin punt creu que les afirmacions següents són vàlides per a Espanya. A Espanya, el partit que governa és castigat en les eleccions si ha fet malament la seva feina.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E27
+{QUESTION}
+A Espanya, el govern protegeix tots els ciutadans de la pobresa.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E28
+{QUESTION}
+A Espanya, el govern explica les seves decisions als votants.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E29
+{QUESTION}
+A Espanya, el govern pren mesures per reduir les diferències en el nivell d'ingressos.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E30
+{QUESTION}
+I fins a quin punt creu que l'afirmació següent és vàlida per a Espanya? A Espanya, els polítics tenen en compte l'opinió d'altres governs europeus abans de prendre decisions.
+
+{ANSWERS}
+0 No és gens vàlida
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 És del tot vàlida
+
+E31
+{INTRO}
+En les preguntes següents, primer li demanaré que triï entre dues opcions. A continuació, li preguntaré fins a quin punt creu que l'opció que ha triat és important per a la democràcia en general. Finalment, li demanaré que pensi en aquesta qüesti. pel que fa a Espanya actualment. Recordi, no hi ha respostes correctes ni incorrectes; simplement digui'm, si us plau, el que vostè pensa.
+Hi ha opinions diferents sobre si en una democràcia tothom hauria de ser lliure d'expressar les seves opinions polítiques públicament, fins i tot si són radicals.
+
+{QUESTION}
+Quina de les afirmacions d'aquesta targeta descriu el que creu que és millor per a la democràcia en general?
+
+{ANSWERS}
+1 Tothom hauria de ser lliure d'expressar les seves opinions polítiques públicament, fins i tot si són radicals.
+2 S'hauria d'impedir que els que tenen opinions polítiques radicals les expressin públicament.
+
+E32
+{QUESTION}
+Quina importància creu que té per a la democràcia en general que tothom pugui expressar les seves opinions polítiques públicament, fins i tot si són radicals? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E33
+{QUESTION}
+Utilitzant aquesta targeta, fins a quin punt creu que actualment a Espanya tothom és lliure d'expressar les seves opinions polítiques públicament, fins i tot si són radicals?
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Del tot
+
+E34
+{QUESTION}
+Fins a quin punt creu que és important per a la democràcia en general que s'impedeixi que els que tenen opinions polítiques radicals les expressin públicament. Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E35
+{QUESTION}
+Utilitzant aquesta targeta, fins a quin punt creu que actualment a Espanya, s'impedeix que els que tenen opinions polítiques radicals les expressin públicament?
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Del tot
+
+E36
+{INTRO}
+A vegades, el govern no està d'acord amb allò que la majoria de la gent creu que és el millor pel país.
+
+{QUESTION}
+Quina de les afirmacions d'aquesta targeta descriu el que creu que és millor per a la democràcia en general?
+
+{ANSWERS}
+1 El govern hauria de canviar els seus plans de govern en resposta a allò que pensa la majoria de la gent.
+2 El govern hauria de mantenir els seus plans de govern amb independència del que pensi la majoria de la gent.
+
+E37
+{QUESTION}
+Quina importància creu que té per a la democràcia en general que el govern canviï les polítiques que té planificades en resposta al que pensa la majoria de la gent? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E38
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, amb quina freqüència creu que a Espanya actualment el govern canvia les polítiques que té planificades en resposta al que pensa la majoria de la gent?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E39
+{QUESTION}
+Quina importància creu que té per a la democràcia en general que el govern mantingui les polítiques que té planificades amb independència del que pensi la majoria de la gent?
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E40
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, amb quina freqüència creu que a Espanya actualment el govern manté les polítiques que té planificades amb independència del que pensi la majoria de la gent?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E41
+{INTRO}
+En alguns països el govern està format per un sol partit; en d'altres, per dos partits o més en coalició.
+
+{QUESTION}
+Quina de les afirmacions d'aquesta targeta descriu el que creu que és millor per a la democràcia en general?
+
+{ANSWERS}
+1 Un govern format per un sol partit
+2 Un govern format per dos o més partits en coalició
+
+E42
+{QUESTION}
+Quina importància creu que té per a la democràcia en general que el govern estigui format per un sol partit? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E43
+{INTRO}
+Ara li faré l'última pregunta sobre aquest tema.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, amb quina freqüència creu vostè que a Espanya el govern està format per un sol partit?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E44
+{QUESTION}
+Quina importància creu que té per a la democràcia en general que el govern estigui format per dos partits o més en coalició? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Gens important per a la democràcia en general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament important per a la democràcia en general
+
+E45
+{INTRO}
+Ara li faré l'última pregunta sobre aquest tema.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui'm, si us plau, amb quina freqüència creu vostè que a Espanya el govern està format per dos o més partits en coalició?
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre

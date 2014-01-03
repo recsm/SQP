@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Hversu oft á síðustu 12 mánuðum hefur þú unnið  sjálfboðastörf eða tekið þátt í starfsemi góðgerðasamtaka? Notaðu þetta spjald til að svara.
+
+{ANSWERS}
+1 Að minnsta kosti einu sinni í viku 
+2 Að minnsta kosti einu sinni í mánuði 
+3 Að minnsta kosti einu sinni á þriggja mánaða fresti 
+4 Að minnsta kosti einu sinni á sex mánaða fresti 
+5 Sjaldnar 
+6 Aldrei 
+
+D2
+{INTRO}
+Nú langar mig að spyrja þig nokkurra spurninga um sýn þína á þig og líf þitt.
+
+{QUESTION}
+Notaðu þetta spjald og segðu mér hversu sammála eða ósammála þú ert eftirfarandi fullyrðingum. Ég er alltaf bjartsýn um framtíð mína. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D3
+{QUESTION}
+Almennt séð er ég mjög jákvæð/ur í eigin garð. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D4
+{QUESTION}
+Stundum líður mér eins og ég sé misheppnuð/ misheppnaður. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D6
+{QUESTION}
+…þér fannst allt sem þú gerðir krefjast átaks? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D8
+{QUESTION}
+…þú varst hamingjusöm/hamingjusamur? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D10
+{QUESTION}
+…þú naust lífsins? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D11
+{QUESTION}
+…þú varst leið/leiður? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D12
+{QUESTION}
+… þú gast ekki komið þér til að gera nokkuð. 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D13
+{QUESTION}
+Og segðu mér hversu oft á undanfarinni viku viku… …þér fannst þú full/ur orku? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D14
+{QUESTION}
+…þú varst kvíðin/n? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D15
+{QUESTION}
+…þú varst róleg/ur og yfirveguð/yfirvegaður? 
+
+{ANSWERS}
+1 Aldei eða næstum aldrei 
+2 Stundum 
+3 Oftast 
+4 Alltaf eða næstum alltaf 
+
+D16
+{QUESTION}
+Með því að nota þetta spjald, segðu mér hversu sammála eða ósammála þú ert eftirfarandi fullyrðingum. Mér finnst ég vera frjáls til að ákveða sjálf/ur hvernig ég lifi mínu lífi. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D17
+{QUESTION}
+Dags daglega fæ ég mjög fá tæki-færi til að sýna hvað í mér býr. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D18
+{QUESTION}
+Flesta daga finnst mér ég hafa einhverju áorkað. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D19
+{QUESTION}
+Þegar eitthvað gengur illa í lífi mínu tekur það mig venjulega langan tíma að jafna mig. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D20
+{QUESTION}
+Með því að nota þetta spjald, segðu mér að hve miklu leyti … …þú lærir nýja hluti í lífi þínu? 
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6 Að mjög miklu leyti 
+
+D21
+{QUESTION}
+…þér finnst fólk í þínu umhverfi hjálpa hverju öðru? 
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6 Að mjög miklu leyti 
+
+D22
+{QUESTION}
+…þér finnst fólk sýna þér virðingu? 
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6 Að mjög miklu leyti 
+
+D23
+{QUESTION}
+Með því að nota þetta spjald, segðu mér hversu sammála eða ósammála þú ert eftirfarandi fullyrðingum. Almennt séð finnst mér það sem ég geri í mínu lífi vera mikilvægt og einhvers virði. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D24
+{QUESTION}
+Eins og staðan er nú finnst mér erfitt að vera vongóð(ur) um framtíð heimsins. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D25
+{QUESTION}
+Það er margt sem mér finnst ég góð/ur í. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D26
+{QUESTION}
+Fyrir flesta á Íslandi er lífið að verða verra frekar en betra. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D27
+{QUESTION}
+Mér finnst ég vera náin/n fólki í mínu nánasta umhverfi. 
+
+{ANSWERS}
+1 Mjög sammála 
+2 Sammála 
+3 Hvorki sammála né ósammála 
+4 Ósammála 
+5 Mjög ósammála 
+
+D28
+{QUESTION}
+Að hve miklu leyti gefur þú þér tíma til að gera það sem þig virkilega langar til að gera? Notaðu þetta spjald þar sem 0 þýðir að engu leyti og 10 þýðir að öllu leyti.
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Að öllu leyti 
+
+D29
+{QUESTION}
+Að hve miklu leyti finnst þér þú metin/n að verðleikum af fólki sem er þér náið? Notaðu sama spjald.
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Að öllu leyti 
+
+D30
+{QUESTION}
+Hversu erfitt eða auðvelt er fyrir þig að fást við erfið vandamál sem koma upp í lífi þínu? Notaðu þetta spjald þar sem 0 þýðir gífurlega erfitt og 10 þýðir gífurlega auðvelt.
+
+{ANSWERS}
+0 Gífurlega erfitt 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Gífurlega auðvelt 
+
+D34
+{QUESTION}
+Hversu oft á venjulegum degi, tekur þú eftir og kannt að meta umhverfi þitt?
+
+{ANSWERS}
+0 Aldrei 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Alltaf 
+
+D35
+{QUESTION}
+Að hve miklu leyti finnst þér þú hafa tilfinningu fyrir því hvert líf þitt er að stefna? Notaðu þetta spjald þar sem 0 þýðir að engu leyti og 10 þýðir að öllu leyti.
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Að öllu leyti 
+
+D36
+{QUESTION}
+Að hve miklu leyti færðu aðstoð og stuðning frá fólkinu sem stendur þér næst þegar þú þarft á því að halda? Notaðu þetta spjald þar sem 0 þýðir að engu leyti og 6 þýðir að öllu leyti.
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6 Að öllu leyti 
+
+D37
+{QUESTION}
+Og að hve miklu leyti veitir þú fólkinu sem stendur þér næst aðstoð og stuðning þegar það þarf á að halda?
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2 
+3 
+4 
+5 
+6 Að öllu leyti 
+
+D38
+{INTRO}
+Sumt fólk er alla jafna ofarlega í þjóðfélagsstiganum og sumt fólk er alla jafna neðarlega í þjóðfélagsstiganum. Á þessu spjaldi er kvarði frá efsta hluta þjóðfélgsstigans til neðsta hluta hans.
+
+{QUESTION}
+Hvar myndir þú staðsetja sjálfa/n þig á þessum kvarða um þessar mundir?
+
+{ANSWERS}
+10 Efst í okkar þjóðfélagsstiga 
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Neðst í okkar þjóðfélagsstiga 
+
+D39
+{QUESTION}
+Notaðu þetta spjald og segðu mér hve marga daga af síðustu 7 dögum þú hreyfðir þig í 20 mínútur eða lengur samfleytt?
+
+{ANSWERS}
+0 Engan dag 
+1 Einn dag 
+2 Tvo daga 
+3 Þrjá daga 
+4 Fjóra daga 
+5 Fimm daga 
+6 Sex daga 
+7 Sjö daga 
+
+E1
+{INTRO}
+Nú koma nokkrar spurningar um lýðræði. Á eftir mun ég spyrja þig um hvernig lýðræði virkar á Íslandi. En fyrst vil ég biðja þig að hugsa frekar um hversu mikilvægir þér finnast ákveðnir þættir vera fyrir lýðræði almennt. Það eru engin rétt eða röng svör svo segðu mér bara hvað þér finnst 
+
+{QUESTION}
+Notaðu þetta spjald til að segja mér hversu mikilvægt þér finnst það vera fyrir lýðræði almennt… …að kosningar á landsvísu séu frjálsar og sanngjarnar? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E2
+{QUESTION}
+...að kjósendur ræði stjórnmál við fólk sem þeir þekkja áður en þeir ákveða hvað þeir ætli að kjósa? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E3
+{QUESTION}
+..að stjórnmálaflokkar bjóði upp á skýra valkosti sem eru ólíkir á milli flokka? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E4
+{QUESTION}
+... að stjórnar-andstöðuflokkar hafi frelsi til að gagnrýna ríkisstjórnina? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E5
+{QUESTION}
+…að fjölmiðlar hafi frelsi til að gagnrýna ríkisstjórnina? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E6
+{QUESTION}
+Ef þú hugsar almennt, frekar en um Ísland sérstaklega, hversu mikilvægt telur þú það vera fyrir lýðræði almennt……að fjölmiðlar veiti almenningi áreiðanlegar upplýsingar til að leggja mat á ríkisstjórnina?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E7
+{QUESTION}
+…að standa vörð um réttindi minnihlutahópa?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E8
+{QUESTION}
+…að almenningur hafi síðasta orðið í mikilvægustu pólitísku málunum með því að kjósa um þau beint í þjóðaratkvæðagreiðslu?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E9
+{QUESTION}
+…að innflytjendur fái ekki rétt til að kjósa í kosningum á landsvísu fyrr en þeir hafa hlotið ríkisborgararétt?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E10
+{QUESTION}
+…að fyrir dómstólum séu allir jafnir?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E11
+{QUESTION}
+…að dómstólar geti komið í veg fyrir að ríkisstjórnin fari út fyrir valdsvið sitt?
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E12
+{QUESTION}
+Ef þú hugsar almennt, frekar en um Ísland sérstaklega, hversu mikilvægt telur þú það vera fyrir lýðræði almennt……að ríkisstjórnar-flokkum sé refsað í kosningum þegar þeir hafa staðið sig illa? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E13
+{QUESTION}
+…að ríkisstjórnin verndi alla gegn fátækt? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E14
+{QUESTION}
+…að ríkisstjórnin skýri ákvarðanir sínar fyrir kjósendum? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E15
+{QUESTION}
+…að ríkisstjórnin beiti aðgerðum til að draga úr ójafnri tekjudreifingu? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E16
+{QUESTION}
+Og hve mikilvægt telur þú það vera fyrir lýðræði almennt... …að stjórnmálamenn taki tillit til skoðana ríkisstjórna annarra ríkja í Evrópu áður en þeir taka ákvarðanir? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E17
+{INTRO}
+Nú er komið að nokkrum spurningum um sama efni, en að þessu sinni snúa þær að því hvernig þú telur að lýðræði virki á Íslandi um þessar mundir. Ég vil minna á að það eru engin rétt eða röng svör, svo segðu mér bara hvað þér finnst. 
+
+{QUESTION}
+Notaðu þetta spjald og segðu mér að hve miklu leyti þér finnst eftirfarandi fullyrðingar eiga við um Ísland. 0 þýðir að þér finnist fullyrðingin alls ekki eiga við og 10 þýðir að þér finnist hún að öllu leyti eiga við. Kosningar á landsvísu á Íslandi eru frjálsar og sanngjarnar. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E18
+{QUESTION}
+Kjósendur á Íslandi ræða stjórnmál við fólk sem þeir þekkja, áður en þeir ákveða hvað þeir ætla að kjósa. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E19
+{QUESTION}
+Stjórnmálaflokkar á Íslandi bjóða upp á skýra og ólíka valkosti frá hver öðrum. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E23
+{QUESTION}
+Staðinn er vörður um réttindi minnihlutahópa á Íslandi. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E24
+{QUESTION}
+Almenningur á Íslandi hefur síðasta orðið í mikilvægustu pólitísku málunum með því að kjósa um þau beint í þjóðaratkvæðagreiðslu. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E25
+{QUESTION}
+Á Íslandi eru allir jafnir fyrir dómstólum. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E26
+{QUESTION}
+Notaðu þetta spjald áfram og segðu mér að hve miklu leyti þér finnst eftirfarandi fullyrðingar eiga við um Ísland. Ríkisstjórnarflokkum á Íslandi er refsað í kosningum þegar þeir hafa staðið sig illa.
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E27
+{QUESTION}
+Ríkisstjórnin á Íslandi verndar alla gegn fátækt. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E28
+{QUESTION}
+Ríkisstjórnin á Íslandi skýrir ákvarðanir sínar fyrir kjósendum. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E29
+{QUESTION}
+Ríkisstjórnin á Íslandi beitir aðgerðum til að draga úr ójafnri tekjudreifingu. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E30
+{QUESTION}
+Og að hve miklu leyti á þessi fullyrðing við um Ísland. Stjórnmálamenn á Íslandi taka tillit til skoðana ríkisstjórna annarra ríkja í Evrópu áður en þeir taka ákvarðanir. 
+
+{ANSWERS}
+0 Á ekki við að neinu leyti 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Á að öllu leyti við 
+
+E31
+{INTRO}
+Í næstu spurningum vil ég fyrst biðja þig að velja á milli tveggja valkosta. Síðan spyr ég hversu mikilvægur þér finnist sá kostur sem þú velur vera fyrir lýðræði almennt. Að lokum spyr ég hvernig þú teljir þessum málum vera háttað á Íslandi. Ég vil minna á að það eru engin rétt eða röng svör, svo segðu mér bara hvað þér finnst.
+Það eru skiptar skoðanir um það hvort öllum ætti að vera frjálst að tjá pólitískar skoðanir sínar opinberlega í lýðræðisríki, jafnvel þótt þær séu öfgakenndar. 
+
+{QUESTION}
+Hvor fullyrðinganna á þessu spjaldi lýsir því sem þú telur best fyrir lýðræði almennt? 
+
+{ANSWERS}
+1 Öllum ætti að vera frjálst að tjá pólitískar skoðanir sínar opinberlega, jafnvel þótt þær séu öfgakenndar. 
+2 Koma ætti í veg fyrir að þeir sem hafa öfgakenndar pólitískar skoðanir geti tjáð sig um þær opinberlega. 
+
+E32
+{QUESTION}
+Hve mikilvægt telur þú það vera fyrir lýðræði almennt að öllum sé frjálst að tjá pólitískar skoðnir sínar opinberlega, jafnvel þó þær séu öfgakenndar? Notaðu þetta spjald. 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E33
+{QUESTION}
+Notaðu nú þetta spjald og segðu mér að hve miklu leyti þú telur öllum á Íslandi vera frjálst að tjá pólitískar skoðanir sínar opinberlega, jafnvel þó þær séu öfgakenndar. 
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Að öllu leyti 
+
+E34
+{QUESTION}
+Hve mikilvægt telur þú það vera fyrir lýðræði almennt að komið sé í veg fyrir að þeir sem hafa ögakenndar pólitískar skoðanir geti tjáð sig um þær opinberlega? Notaðu þetta spjald. 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E35
+{QUESTION}
+Notaðu þetta spjald og segðu mér að hve miklu leyti þú telur að komið sé í veg fyrir að þeir sem hafa öfgakenndar pólitískar skoðanir á Íslandi geti tjáð sig um þær opinberlega? 
+
+{ANSWERS}
+0 Að engu leyti 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Að öllu leyti 
+
+E36
+{INTRO}
+Stundum er ríkisstjórnin ósammála því sem flestum finnst best fyrir landið. 
+
+{QUESTION}
+Hvor fullyrðinganna á þessu spjaldi lýsir því hvað þér finnst best fyrir lýðræði almennt?
+
+{ANSWERS}
+1 Ríkisstjórnin ætti að breyta fyrirhugaðri stefnu sinni til að bregðast við því sem flestum finnst 
+2 Ríkisstjórnin ætti að standa við fyrirhugaða stefnu sínu án tillits til þess hvað flestum finnst 
+
+E37
+{QUESTION}
+Hve mikilvægt telur þú það vera fyrir lýðræði almennt að ríkisstjórnin breyti fyrirhugaðri stefnu sinni til að bregðast við því sem flestum finnst? Notaðu þetta spjald. 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E38
+{QUESTION}
+Notaðu þetta spjald og segðu mér hve oft þú telur að núverandi ríkisstjórn Íslands breyti fyrirhugaðri stefnu sinni til að bregðast við því sem flestum finnst? 
+
+{ANSWERS}
+0 Aldrei 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltaf 
+
+E39
+{QUESTION}
+Hversu mikilvægt telur þú það vera fyrir lýðræði almennt að ríkisstjórnin standi við fyrirhugaða stefnu sínu án tillits til þess hvað flestum finnst? 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E40
+{QUESTION}
+Notaðu þetta spjald og segðu mér hversu oft þú telur núverandi ríkisstjórn Íslands standa við fyrirhugaða stefnu sína án tillits til þess hvað flestum finnst? 
+
+{ANSWERS}
+0 Aldrei 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltaf 
+
+E41
+{INTRO}
+Í sumum löndum er eingöngu einn stjórnmálaflokkur í ríkisstjórn, í öðrum löndum mynda tveir eða fleiri flokkar ríkisstjórn saman. 
+
+{QUESTION}
+Hvaða valmöguleiki á þessu spjaldi lýsir því hvað þú telur best fyrir lýðræði almennt? 
+
+{ANSWERS}
+1 Að einn stjórnmálaflokkur myndi ríkisstjórn 
+2 Að tveir eða fleiri stjórnmálaflokkar myndi saman ríkisstjórn 
+ 
+E42
+{QUESTION}
+Hversu mikilvægt telur þú það vera fyrir lýðræði almennt að ríkisstjórnin sé mynduð af einum stjórnmálaflokki? Notaðu þetta spjald. 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E43
+{INTRO}
+Þá er komið að síðustu spurningunni um þetta efni. 
+
+{QUESTION}
+Notaðu þetta spjald til að segja mér hversu oft þú telur að ríkisstjórnin á Íslandi sé mynduð af einum stjórnmálaflokki? 
+
+{ANSWERS}
+0 Aldrei 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltaf 
+
+E44
+{QUESTION}
+Hversu mikilvægt telur þú það vera fyrir lýðræði almennt að tveir eða fleiri flokkar myndi saman ríkisstjórn? Notaðu þetta spjald. 
+
+{ANSWERS}
+0 Alls ekki mikilvægt fyrir lýðræði almennt 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Gífurlega mikilvægt fyrir lýðræði almennt 
+
+E45
+{INTRO}
+Þá er komið að síðustu spurningunni um þetta efni. 
+
+{QUESTION}
+Notaðu nú þetta spjald og segðu mér hve oft þú telur að tveir eða fleiri flokkar myndi saman ríkisstjórn á Íslandi? 
+
+{ANSWERS}
+0 Aldrei 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltaf 

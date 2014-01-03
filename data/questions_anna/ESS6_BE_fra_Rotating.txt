@@ -1,0 +1,1121 @@
+﻿D1
+{QUESTION}
+Au cours des 12 derniers mois, vous est-il arrivé parfois de consacrer du temps à une association ou une organisation caritative? Veuillez choisir votre réponse sur cette carte?
+
+{ANSWERS}
+1 Au moins une fois par semaine
+2 Au moins une fois par mois
+3 Au moins une fois en 3 mois
+4 Au moins une fois en 6 mois
+5 Moins souvent que cela
+6 Jamais
+
+D2
+{INTRO}
+Je vais maintenant vous poser quelques questions sur la manière dont vous vous voyez et percevez votre vie
+
+{QUESTION}
+Veuillez m’indiquer dans quelle mesure vous êtes d’accord ou non avec les propositions suivantes. Je suis toujours optimiste quand je pense à mon avenir
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D3
+{QUESTION}
+En général, j’ai une image très positive de moi-même
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D4
+{QUESTION}
+Parfois, j’ai l’impression d’être un raté.
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D6
+{QUESTION}
+… d’avoir l’impression que tout vous demandait un effort?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D8
+{QUESTION}
+… d’être heureux?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D10
+{QUESTION}
+… d’apprécier la vie?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D11
+{QUESTION}
+… de vous sentir triste?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D12
+{QUESTION}
+… d’être incapable de rien faire?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D13
+{QUESTION}
+Et en utilisant cette carte, pouvez-vous m’indiquer s’il vous est arrivé parfois la semaine dernière … ... De déborder d’énergie?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D14
+{QUESTION}
+… De vous sentir inquiet?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D15
+{QUESTION}
+… de vous sentir calme et serein?
+
+{ANSWERS}
+1 A aucun moment ou presque
+2 De temps en temps
+3 La plupart du temps
+4 Tout le temps ou Presque
+
+D16
+{QUESTION}
+En utilisant cette carte, pouvez-vous me dire dans quelle mesure vous êtes d’accord ou non avec les propositions suivantes? Je me sens libre de décider moi-même comment vivre ma vie
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D17
+{QUESTION}
+Dans la vie de tous les jours, j’ai très rarement l’occasion de montrer tout ce dont je suis capable
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D18
+{QUESTION}
+La plupart du temps, ceque je fais me donne un sentiment de réussite.
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D19
+{QUESTION}
+Quand les choses tournent mal dans ma vie, il me faut beaucoup de temps en general pour retomber sur mes pieds.
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D20
+{QUESTION}
+En utilisant cette carte, veuillez me dire dans quelle mesure il vous arrive… d'apprendre de nouvelles choses dans votre vie
+
+{ANSWERS}
+0 Pas du tout
+1 
+2 
+3 
+4
+5 
+6 Enormément
+
+D21
+{QUESTION}
+d’avoir l’impression que les gens s’entraident là où vous habitez?
+
+{ANSWERS}
+0 Pas du tout
+1 
+2 
+3 
+4
+5 
+6 Enormément
+
+D22
+{QUESTION}
+d’avoir le sentiment que les gens vous traitent avec respect?
+
+{ANSWERS}
+0 Pas du tout
+1 
+2 
+3 
+4
+5 
+6 Enormément
+
+
+D23
+{QUESTION}
+En utilisant cette carte, veuillez me dire dans quelle mesure vous ‘êtes d’accord ou non avec les propositions suivantes? En général, j’ai le sentiment que ce que je fais dans ma vie a de la valeur et est utile
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D24
+{QUESTION}
+Dans l’état actuel des choses, j’ai du mal à êtreconfiant quant à l’avenir dumonde.
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D25
+{QUESTION}
+Il y a plein de choses dans lesquelles je me sens à l'aise
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D26
+{QUESTION}
+Pour la plupart des gens en Belgique, la vie a tendance à se dégrader plutôt qu’à s’améliorer.
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D27
+{QUESTION}
+Je me sens proche des gens qui vivent près de chez moi
+
+{ANSWERS}
+1 Tout à fait d'accord
+2 Plutôt d'accord
+3 Ni d'accord, ni en désaccord
+4 Plutôt en désaccord
+5 Tout en fait en désaccord
+
+D28
+{QUESTION}
+Dans quelle mesure prenez-vous le temps de faire ce dont vous avez vraiment envie ? Veuillez utiliser cette carte où 0 signifie « Pas du tout » et 10 « Complètement ».
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D29
+{QUESTION}
+Dans quelle mesure avez-vous le sentiment que les personnes qui vous sont proches vous estiment ? Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D30
+{QUESTION}
+Trouvez-vous plutôt facile ou plutôt difficile de faire face aux problèmes importants qui surviennent dans votre vie?
+
+{ANSWERS}
+0 Extrêmement difficile
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Extrêmement facile
+
+D34
+{QUESTION}
+Au cours d'une journée ordinaire, vous arrive-t-il de prêter attention et d'apprécier votre environnement et les gens qui vous entourent?
+
+{ANSWERS}
+0 A aucun moment
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Tout le temps
+
+D35
+{QUESTION}
+À quel point avez-vous le sentiment de savoir où vous voulez aller dans la vie? Veuillez utiliser cette carte où 0 signifie « Pas du tout » et 10 « Complètement ».
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Complètement
+
+D36
+{QUESTION}
+Dans quelle mesure recevez-vous le soutien de vos proches en cas de besoin? Veuillez utiliser cette carte où 0 signifie « Pas du tout » et 6 « Complètement ».
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Complètement
+
+D37
+{QUESTION}
+Et dans quelle mesure apportez-vous du soutien à vos proches en cas de besoin?
+
+{ANSWERS}
+0 Pas du tout
+1
+2 
+3 
+4 
+5 
+6 Complètement
+
+D38
+{INTRO}
+Il y a des gens qui sont plutôt en haut de notre société et d'autres plutôt en bas. Sur cette carte figure une échelle qui va du plus haut au plus bas.
+
+{QUESTION}
+Actuellement, où vous placeriez-vous sur cette échelle ?
+
+{ANSWERS}
+10 Haut de notre société
+9 
+8 
+7 
+6 
+5
+4
+3
+2
+1
+0 Bas de notre société
+
+D39
+{QUESTION}
+Sur cette carte, pouvez-vous indiquer combien de jours, parmi les 7 derniers, vous avez été actif(active) physiquement pendant au moins 20 minutes d'affilée ?
+
+{ANSWERS}
+0. Aucun jour 
+1. un jour 
+2. deux jours 
+3. trois jours 
+4. quatre jours 
+5. cinq jours 
+6. six jours 
+7. sept jours 
+ 
+E1
+{INTRO}
+Et maintenant quelques questions sur la démocratie. Plus tard, je vous demanderai comment la démocratie fonctionne en Belgique. Tout d'abord, je voudrais que vous pensiez à l'importance de différents éléments pour la démocratie en général. Il n'y a ni bonne ni mauvaise réponse, donnezmoi simplement votre point de vue.
+
+{QUESTION}
+Veuillez indiquer à l'aide de cette carte, dans quelle mesure vous pensez qu'il est important pour la démocratie en général: que les elections nationales soient libres et équitables?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E2
+{QUESTION}
+que les électeurs discutent de politique avec leur entourage avant de décider pour qui voter?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E3
+{QUESTION}
+que les différents parties proposent des alternatives politiques claires?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E4
+{QUESTION}
+que les parties d'opposition soient libres de critiquer le gouvernement?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E5
+{QUESTION}
+que les medias soient libres de critiquer le gouvernement?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E6
+{QUESTION}
+Et toujours de façon générale et non par rapport à la Belgique, diriez-vous qu'il est important pour la démocratie en général… … que les medias fournissent aux citoyens des informations fiables qui leur permettent d'évaluer le gouvernement?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E7
+{QUESTION}
+… que les droits des minorités soient protégés?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E8
+{QUESTION}
+… que les citoyens aient le dernier mot sur les enjeux politiques les plus importants en votant directement par référendum sur ces questions?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E9
+{QUESTION}
+…que les immigrés n'aient le droit de vote aux elections nationales que s'ils ont
+obtenu la nationalité belge?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E10
+{QUESTION}
+... que les tribunaux traitent tout le monde sur un pied d'égalité?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E11
+{QUESTION}
+...que les tribunaux aient les moyens d'empêcher le gouvernement d'agir au-delà des limites de son pouvoir?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E12
+{QUESTION}
+Et toujours de façon générale et non par rapport à la Belgique, diriez-vous qu'il est important pour la démocratie en général:… ... que les partis au pouvoir perdent des voix aux elections suivantes lorsqu'ils ont fait un mauvais travail?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E13
+{QUESTION}
+... que le gouvernement protège tous les citoyens contre la pauvreté?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E14
+{QUESTION}
+... que le gouvernement explique ses decisions aux électeurs?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E15
+{QUESTION}
+... que le gouvernement prenne des mesures pour réduire les différences de revenus?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E16
+{QUESTION}
+Et diriez-vous qu'il est important pour la démocratie en général:… ... que les responsables politiques tiennent compte du point de vue d'autres gouvernements en Europe avant de prendre leurs décisions?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E17
+{INTRO}
+Je vais maintenant revenir sur les mêmes éléments, en vous demandant cette fois ce que vous pensez du fonctionnement de la démocratie en Belgique aujourd'hui. Là aussi, il n'y ni bonne ni mauvaise réponse, donnez-moi simplement votre point de vue.
+
+{QUESTION}
+A l'aide de cette carte, dans quelle mesure diriez-vous que les propositions suivantes s'appliquent à la Belgique. 0 signifie que pour vous la proposition ne s'applique pas du tout à la Belgique et 10 qu'elle s'applique tout à fait à la Belgique. En Belgique, les élections legislatives sont libres et équitables.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E18
+{QUESTION}
+En Belgique, les électeurs discutent de politique avec leur entourage avant de décider pour qui voter
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E19
+{QUESTION}
+En Belgique, les différents partis proposent des alternatives politiques claires.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E23
+{QUESTION}
+En Belgique, les droits des minorités sont protégés
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E24
+{QUESTION}
+En Belgique, les citoyens ont le dernier mot sur les enjeux politiques les plus importants en votant directement par référendum sur ces questions.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E25
+{QUESTION}
+En Belgique, les tribunaux traitent tout le monde sur un pied d'égalité.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E26
+{QUESTION}
+A l'aide de la même carte, dites-moi dans quelle mesure les propositions suivantes s'appliquent à la Belgique. En Belgique, les parties au pouvoir perdent des voix aux elections suivantes lorsqu'ils ont fait un mauvais travail.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+
+E27
+{QUESTION}
+En Belgique, le gouvernement protège tous les citoyens contre la pauvreté.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E28
+{QUESTION}
+En Belgique, le gouvernement explique ses décisions aux électeurs
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E29
+{QUESTION}
+En Belgique, le gouvernement prend des mesures pour réduire les différences de revenus
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E30
+{QUESTION}
+Et dans quelle mesure la proposition suivante s'applique-t-elle à la Belgique? En Belgique, les responsables politiques tiennent compte du point de vue d'autres gouvernements en Europe avant de prendre leurs décisions.
+
+{ANSWERS}
+0 Ne s'applique pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 S'applique tout à fait
+
+E31
+{INTRO}
+Pour les questions suivantes, je vais d'abord vous demander de choisir entre deux possibilités. Ensuite, je vous demanderai dans quelle mesure vous pensez que l'élément que vous avez choisi est important pour la démocratie en général. Enfin, je vous demanderai ce que vous pensez de cette question en Belgique aujourd'hui. Souvenez-vous qu'il n'y a ni bonne ni mauvaise réponse, veuillez simplement me donner votre point de vue. Certains estiment que dans une démocratie, chacun devrait pouvoir exprimer ses opinions politiques ouvertement, même si elles sont extrêmes.
+
+{QUESTION}
+D'autres pensent le contraire. Laquelle des propositions figurant sur cette carte correspond selon vous à ce qui est le mieux pour la démocratie en général ?
+
+{ANSWERS}
+1 Chacun devrait être libre d'exprimer ses opinions politiques ouvertement, même si elles sont extrêmes.
+2 Il faudrait empêcher ceux qui ont des opinions politiques extrêmes de les exprimer ouvertement.
+
+E32
+{QUESTION}
+Dans quelle mesure trouvez-vous important pour la démocratie en general que chacun soit libre d'exprimer ses opinions politiques librement, même si elles sont extrêmes? Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E33
+{QUESTION}
+A l'aide de cette carte, diriez-vous que chacun en Belgique est libre d'exprimer ses opinions politiques ouvertement, même si elles sont extrêmes?
+
+{ANSWERS}
+0 Pas du tout 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+E34
+{QUESTION}
+Dans quelle mesure trouvez-vous important pour la démocratie en general qu'on empêche ceux qui ont des opinions politiques extrêmes de les exprimer ouvertement?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E35
+{QUESTION}
+A l'aide de cette carte, diriez-vous qu'en Belgique on empêche aujourd'hui ceux qui ont des opinions politiques extrêmes de les exprimer ouvertement?
+
+{ANSWERS}
+0 Pas du tout 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+E36
+{INTRO}
+Parfois le gouvernement n'est pas d'accord avec ce que la plupart des gens pensent être le mieux pour le pays.
+
+{QUESTION}
+Quelle proposition, parmi celles figurant sur cette carte, correspond selon vous à ce qui est le mieux pour la démocratie en général?
+
+{ANSWERS}
+1 Le gouvernement devrait changer ses projets politiques en fonction de ce que la plupart des gens pensent
+2 Le gouvernement devrait maintenir ses projets politiques indépendamment de ce que la plupart des gens pensent
+
+E37
+{QUESTION}
+Dans quelle mesure pensez-vous qu'il est important pour la démocratie en général que le gouvernement change ses projets politiques en fonction de ce que la plupart des gens pensent
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E38
+{QUESTION}
+A votre avis, arrive-t-il parfois au gouvernement en Belgique aujourd'hui de changer ses projets politiques en fonction de ce que la plupart des gens pensent? Veuillez répondre à l'aide de cette carte. 
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E39
+{QUESTION}
+Dans quelle mesure pensez-vous qu'il est important pour la démocratie en général que le gouvernement maintienne ses projets politiques indépendamment de ce que la plupart des gens pensent?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E40
+{QUESTION}
+A votre avis, arrive-t-il parfois au gouvernement en Belgique aujourd'hui de maintenir ses projets politiques indépendamment de ce que la plupart des gens pensent ? Veuillez répondre à l'aide de cette carte
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E41
+{INTRO}
+Dans certains pays, le gouvernement est formé par un seul parti ; dans d'autres par une coalition de deux partis ou plus.
+
+{QUESTION}
+Quelle proposition, parmi celles figurant sur cette carte, correspond selon vous à ce qui est le mieux pour la démocratie en général?
+
+{ANSWERS}
+1 Le gouvernement est formé par un seul parti.
+2 Le gouvernement est formé par une coalition de deux partis ou plus.
+
+E42
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement soit formé par un seul parti. Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E43
+{QUESTION}
+A quelle fréquence, d'après vous, arrive-t-il que le gouvernement en Belgique soit formé par un seul parti? Veuillez répondre à l'aide de cette carte
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+E44
+{INTRO}
+Voici maintenant une dernière question sur ce sujet.
+
+{QUESTION}
+Dans quelle mesure diriez-vous qu'il est important pour la démocratie en général que le gouvernement soit formé par une coalition de deux partis ou plus?
+
+{ANSWERS}
+0 Pas du tout important pour la démocratie en général
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important pour la démocratie en général
+
+E45
+{INTRO}
+maintenant une dernière question sur ce sujet.
+
+{QUESTION}
+A quelle fréquence, d'après vous, arrive-t-il que le gouvernement en Belgique soit formé par une coalition de deux parties ou plus? Veuillez répondre à l'aide de cette carte
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours

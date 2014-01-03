@@ -1,0 +1,1122 @@
+﻿D1
+{QUESTION}
+Hur ofta har du deltagit i arbete för frivilligorganisationer eller välgörenhetsorganisationer under de senaste 12 månaderna? Titta på det här kortet. 
+
+{ANSWERS}
+1 Minst en gång i veckan 
+2 Minst en gång i månaden 
+3 Minst en gång var tredje månad
+4 Minst en gång var sjätte månad 
+5 Mindre ofta
+6 Aldrig
+
+D2
+{INTRO}
+Nu vill vi ställa några frågor om hur du ser på dig själv och ditt livéletéről. 
+
+{QUESTION}
+Jag är alltid optimistisk när det gäller min framtid
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D3
+{QUESTION}
+I allmänhet tycker jag bra om mig själv
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D4
+{QUESTION}
+Ibland känner jag mig som en misslyckad person. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D6
+{QUESTION}
+.......kändes det som om allt du gjorde var en ansträngning? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D8
+{QUESTION}
+....var du lycklig? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D10
+{QUESTION}
+....njöt du av livet? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D11
+{QUESTION}
+....kände du dig ledsen? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D12
+{QUESTION}
+....hade du svårt att komma igång med något alls? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D13
+{QUESTION}
+Och var vänlig och tala om för mig hur ofta under förra veckan.... .... var du full av energi?
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D14
+{QUESTION}
+....kände du dig orolig? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D15
+{QUESTION}
+....kände du dig lugn och tillfreds? 
+
+{ANSWERS}
+1 Aldrig eller nästan aldrig 
+2 Ibland 
+3 Oftast
+4 Alltid eller nästan alltid
+
+D16
+{QUESTION}
+Säg i vilken utsträckning du instämmer i eller tar avstånd från vart och ett av följande påståenden. Titta på svarsalternativen på det här kortet. Jag upplever att jag själv kan bestämma hur jag vill leva mitt liv. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D17
+{QUESTION}
+I mitt dagliga liv har jag få möjligheter att visa hur duglig jag är. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D18
+{QUESTION}
+För det mesta känner jag mig nöjd med mina prestationer. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D19
+{QUESTION}
+När saker blir fel i mitt liv tar det oftast lång tid för mig att återhämta mig.
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D20
+{QUESTION}
+Titta på det här kortet och tala om för mig i vilken utsträckning.... ... du lär dig nya saker i ditt liv? 
+
+{ANSWERS}
+0 Ingen alls 
+1
+2 
+3 
+4 
+5 
+6 Väldigt stor 
+
+D21
+{QUESTION}
+Titta på det här kortet och tala om för mig i vilken utsträckning.... ... upplever du att människor i ditt grannskap hjälper varandra? 
+
+{ANSWERS}
+0 Ingen alls 
+1
+2 
+3 
+4 
+5 
+6 Väldigt stor 
+
+D22
+{QUESTION}
+Titta på det här kortet och tala om för mig i vilken utsträckning.... ... upplever du att människor behandlar dig med respekt? 
+
+{ANSWERS}
+0 Ingen alls 
+1
+2 
+3 
+4 
+5 
+6 Väldigt stor 
+
+D23
+{QUESTION}
+Titta på det här kortet. I hur stor utsträckning instämmer du i eller tar avstånd från vart och ett av följande påståenden? I allmänhet känner jag att vad jag gör i livet är värdefullt och meningsfullt. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D24
+{QUESTION}
+Titta på det här kortet. I hur stor utsträckning instämmer du i eller tar avstånd från vart och ett av följande påståenden? Såsom det ser ut nu, har jag svårt att vara hoppfull om världens framtid.
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D25
+{QUESTION}
+Titta på det här kortet. I hur stor utsträckning instämmer du i eller tar avstånd från vart och ett av följande påståenden? Det finns många saker som jag tycker att jag är bra på.
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D26
+{QUESTION}
+Titta på det här kortet. I hur stor utsträckning instämmer du i eller tar avstånd från vart och ett av följande påståenden? För de flesta människor i Sverige blir livet sämre snarare än bättre 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D27
+{QUESTION}
+Titta på det här kortet. I hur stor utsträckning instämmer du i eller tar avstånd från vart och ett av följande påståenden? Jag känner samhörighet med människorna i mitt grannskap. 
+
+{ANSWERS}
+1 Instämmer starkt 
+2 Instämmer 
+3 Varken instämmer eller tar avstånd
+4 Tar avstånd	
+5 Tar starkt avstånd
+
+D28
+{QUESTION}
+I vilken utsträckning brukar du ta dig tid att göra sådant du verkligen vill göra? Använd det här kortet där 0 betyder inte alls och 10 betyder fullständigt.
+
+{ANSWERS}
+0 Inte alls
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fullständigt 
+
+D29
+{QUESTION}
+I vilken utsträckning känner du dig uppskattad av personer som står dig nära? Använd samma kort. 
+
+{ANSWERS}
+0 Inte alls
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fullständigt 
+
+D30
+{QUESTION}
+Hur svårt eller lätt tycker du det är att hantera viktiga problem som uppstår i ditt liv? Använd det här kortet (KORT 30) där 0 betyder extremt svårt och 10 betyder extremt lätt. 
+
+{ANSWERS}
+0 Extremt svårt 
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Extremt lätt 
+
+D34
+{QUESTION}
+Under en helt vanlig dag, hur ofta lägger du märke till och uppskattar din omgivning?
+
+{ANSWERS}
+0 Aldrig
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Alltid
+
+D35
+{QUESTION}
+I vilken utsträckning känner du att ditt liv har mål och mening? Använd det här kortet där 0 betyder inte alls och 10 betyder fullständigt. 
+
+{ANSWERS}
+0 Inte alls
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Fullständigt 
+
+D36
+{QUESTION}
+I vilken utsträckning får du hjälp och stöd av personer som står dig nära när du behöver det? 
+
+{ANSWERS}
+0 Inte alls
+1
+2 
+3 
+4 
+5 
+6 Fullständigt 
+
+D37
+{QUESTION}
+Och i vilken utsträckning ger du stöd och hjälp till personer som står dig nära, när de behöver det? 
+
+{ANSWERS}
+0 Inte alls
+1
+2 
+3 
+4 
+5 
+6 Fullständigt 
+
+D38
+{INTRO}
+Det finns människor som i allmänhet befinner sig i toppen av vårt samhälle och människor som i allmänhet befinner sig i botten. På det här kortet finns en skala från topp till botten. 
+
+{QUESTION}
+Var på den här skalan skulle du placera dig själv nu för tiden?
+
+{ANSWERS}
+10 Toppen av vårt samhälle
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Botten av vårt samhälle 
+
+D39
+{QUESTION}
+Använd det här kortet och tala om hur många av de senaste sju dagarna du har varit fysiskt aktiv under en sammanhängande tid av minst 20 minuter.
+
+{ANSWERS}
+0 Ingen dag
+1 En dag
+2 Två dagar 
+3 Tre dagar 
+4 Fyra dagar
+5 Fem dagar 
+6 Sex dagar 
+7 Sju dagar 
+
+E1
+{INTRO}
+Nu kommer några frågor om demokrati. Senare kommer jag att fråga dig om hur demokratin fungerar i Sverige. Men först vill jag att du i stället tänker på hur viktiga du tycker att olika saker är för demokrati i allmänhet. Det finns inga svar som är rätt eller fel, så säg bara vad du själv tycker.
+
+{QUESTION}
+Använd det här kortet och tala om hur viktigt du tycker att det är för demokrati i allmänhet… … att nationella val är fria och rättvisa? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E2
+{QUESTION}
+… att väljarna diskuterar politik med människor de känner innan de bestämmer hur de ska rösta?
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E3
+{QUESTION}
+… att olika politiska partier presenterar alternativ som klart och tydligt skiljer dem åt? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E4
+{QUESTION}
+… att oppositionspartier är fria att kritisera regeringen? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E5
+{QUESTION}
+… att media är fria att kritisera regeringen? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E6
+{QUESTION}
+Och om du fortfarande tänker på hur det är i allmänhet och inte just i Sverige, hur viktigt tycker du det är för demokrati i allmänhet… … att media ger medborgarna tillförlitlig information för att de ska kunna bedöma regeringen? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E7
+{QUESTION}
+...védjék a kisebbségek jogait?
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E8
+{QUESTION}
+… att minoritetsgruppers rättigheter skyddas? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E9
+{QUESTION}
+Och om du fortfarande tänker på hur det är i allmänhet och inte just i Sverige, hur viktigt tycker du det är för demokrati i allmänhet… … att invandrare får rätt att rösta i nationella val först när de blivit medborgare i landet? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E10
+{QUESTION}
+… att domstolarna behandlar alla lika? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E11
+{QUESTION}
+… att domstolarna har möjlighet att stoppa regeringen om den agerar utanför sina befogenheter?
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E12
+{QUESTION}
+Och om du fortfarande tänker på hur det är i allmänhet och inte just i Sverige, hur viktigt tycker du det är för demokrati i allmänhet… … att regeringspartier får färre röster i nästa val om de gjort ett dåligt jobb?
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E13
+{QUESTION}
+… att regeringen skyddar alla medborgare från fattigdom? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E14
+{QUESTION}
+… att regeringen förklarar sina beslut för väljarna? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E15
+{QUESTION}
+… att regeringen vidtar åtgärder för att minska inkomstskillnader? 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E16
+{QUESTION}
+Och hur viktigt tycker du att det är för demokrati i allmänhet … … att politiker tar hänsyn till andra europeiska regeringars åsikter innan de fattar beslut?
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E17
+{INTRO}
+Nu kommer några frågor på samma tema, men den här gången handlar det om hur du tycker att demokratin fungerar i Sverige idag. Kom ihåg att det inte finns några svar som är rätt eller fel, så säg bara vad du själv tycker. 
+
+{QUESTION}
+Använd det här kortet och tala om i vilken utsträckning du tycker att följande påståenden stämmer in på Sverige. 0 betyder att påståendet enligt din uppfattning inte alls stämmer och 10 betyder att det stämmer fullständigt. … att nationella val i Sverige är fria och rättvisa? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E18
+{QUESTION}
+… att väljarna i Sverige diskuterar politik med människor de känner innan de bestämmer hur de ska rösta?
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E19
+{QUESTION}
+… att olika politiska partier i Sverige presenterar alternativ som klart och tydligt skiljer dem åt? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E23
+{QUESTION}
+… att minoritetsgruppers rättigheter skyddas i Sverige? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E24
+{QUESTION}
+… att medborgare i Sverige får avgöra de viktigaste politiska frågorna genom att rösta om dem direkt i folkomröstningar?
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E25
+{QUESTION}
+… att domstolarna i Sverige behandlar alla lika?
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E26
+{QUESTION}
+… att regeringspartierna i Sverige får färre röster i nästa val om de gjortett dåligt jobb? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E27
+{QUESTION}
+… att regeringen i Sverige skyddar alla medborgare från fattigdom?
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E28
+{QUESTION}
+… att regeringen i Sverige förklarar sina beslut för väljarna? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E29
+{QUESTION}
+… att regeringen i Sverige vidtar åtgärder för att minska inkomstskillnader? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E30
+{QUESTION}
+Politiker i Sverige tar hänsyn till andra europeiska regeringars åsikter innan 
+de fattar beslut? 
+
+{ANSWERS}
+0 Stämmer inte alls 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Stämmer fullständigt 
+
+E31
+{INTRO}
+Nu följer några frågor där jag först kommer att be dig välja mellan två alternativ. Därefter kommer jag att fråga hur viktigt du tycker att ditt svar är för demokrati i allmänhet. Till sist kommer jag att be dig tänka på hur det är i Sverige idag. Kom ihåg att det inte finns några svar som är rätt eller fel, så säg bara vad du själv tycker. 
+Det finns olika åsikter om ifall alla ska vara fria att öppet uttrycka sina politiska åsikter i en demokrati, även om åsikterna är extrema. 
+
+{QUESTION}
+Vilket av påståendena på det här kortet beskriver vad du tycker är bäst för demokrati i allmänhet? 
+
+{ANSWERS}
+1 Alla ska vara fria att öppet uttrycka sina politiska åsikter, även om åsikterna är extrema.
+2 De som har extrema politiska åsikter ska hindras från att öppet uttrycka dem.
+
+E32
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att alla är fria att öppet uttrycka sina politiska åsikter, även om åsikterna är extrema? Använd det här kortet.
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E33
+{QUESTION}
+Om du använder det här kortet, i vilken utsträckning tycker du att alla i Sverige idag är fria att öppet uttrycka sina politiska åsikter, även om åsikterna är extrema? 
+
+{ANSWERS}
+0 Inte alls
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fullständigt 
+
+E34
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att de som har extrema politiska åsikter förhindras från att öppet uttrycka dem? Svara med hjälp av det här kortet.
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E35
+{QUESTION}
+Om du använder det här kortet, i vilken utsträckning tycker du att de som har extrema politiska åsikter i Sverige idag förhindras från att öppet uttrycka dem? 
+
+{ANSWERS}
+0 Inte alls
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fullständigt 
+
+E36
+{INTRO}
+Ibland har inte regeringen samma uppfattning som de flesta människor om vad som är bäst för landet. 
+
+{QUESTION}
+Vilket av påståendena på det här kortet beskriver vad du tycker är bäst för demokrati i allmänhet?
+
+{ANSWERS}
+1 Regeringen bör ändra sin planerade politik utifrån vad de flesta människor tycker.
+2 Regeringen bör stå fast vid sin planerade politik oavsett vad det flesta människor tycker.
+
+E37
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att regeringen ändrar sin planerade politik utifrån vad de flesta människor tycker? Svara med hjälp av det här kortet.
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E38
+{QUESTION}
+Svara med hjälp av det här kortet hur ofta du tycker att Sveriges nuvarande regering ändrar sin planerade politik utifrån vad de flesta människor tycker.
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltid
+
+E39
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att regeringen står fast vid sin planerade politik oavsett vad det flesta människor tycker. Använd det här kortet. 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E40
+{QUESTION}
+Svara med hjälp av det här kortet hur ofta du tycker att Sveriges nuvarande regering står fast vid sin planerade politik oavsett vad de flesta människor tycker.
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltid
+
+E41
+{INTRO}
+Regeringen i vissa länder bildas av ett enda parti medan den i andra länder bildas av två eller flera partier i koalition. 
+
+{QUESTION}
+Vilket alternativ på det här kortet beskriver vad du tycker är bäst för demokrati i allmänhet? 
+
+{ANSWERS}
+1 Ett enda parti bildar regering 
+2 Två eller flera partier i koalition bildar regering
+ 
+E42
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att ett enda parti bildar regering? Använd det här kortet. 
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E43
+{INTRO}
+Nu kommer sista frågan på det här temat. 
+.
+{QUESTION}
+Använd det här kortet och tala om hur ofta du tror att ett enda parti bildar regering i Sverige
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltid
+
+E44
+{QUESTION}
+Hur viktigt tycker du att det är för demokrati i allmänhet att regeringen bildas av två eller flera partier i koalition? Svara med hjälp av det här kortet.
+
+{ANSWERS}
+0 Inte alls viktigt för demokrati i allmänhet 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremt viktigt för demokrati i allmänhet 
+
+E45
+{INTRO}
+Nu kommer sista frågan på det här temat.
+
+{QUESTION}
+Använd det här kortet och tala om hur ofta du tror att regeringen i Sverige 
+bildas av två eller flera partier i koalition. 
+
+{ANSWERS}
+0 Aldrig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alltid
+

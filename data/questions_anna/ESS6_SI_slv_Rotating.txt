@@ -1,0 +1,1251 @@
+﻿D1
+{QUESTION}
+Kako pogosto ste v zadnjih 12 mesecih opravljali delo za kakšno prostovoljno ali dobrodelno organizacijo?
+
+{ANSWERS}
+1 vsaj enkrat tedensko
+2 vsaj enkrat mesečno
+3 vsaj enkrat na tri mesece
+4 vsaj enkrat na šest mesecev
+5 še manj pogosto
+6 nikoli
+
+D2
+{INTRO}
+Zdaj pa sledijo vprašanja o vaših pogledih nase in vaše življenje.
+
+{QUESTION}
+Prosimo povejte, koliko soglašate ali ne soglašate z naslednjimi trditvami. Kar zadeva mojo prihodnost, sem vedno optimističen(a).
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D3
+{QUESTION}
+Na splošno imam do sebe zelo pozitiven odnos.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D4
+{QUESTION}
+Včasih se počutim, kot da sem zguba.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D5
+{INTRO}
+Zdaj vam bomo našteli različne vrste razpoloženj in vas povprašali ali ste se v preteklem tednu morda tudi vi tako počutili. 
+
+{QUESTION}
+Prosimo povejte, koliko časa prejšnji teden ... … ste se počutili depresivno?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D6
+{QUESTION}
+… ste imeli občutek, da vse stvari delate s težavo?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D7
+{QUESTION}
+… ste imeli nemiren spanec?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D8
+{QUESTION}
+… ste bili srečni?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D9
+{QUESTION}
+… ste se počutili osamljeno?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D10
+{QUESTION}
+… ste uživali v življenju?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D11
+{QUESTION}
+… ste bili žalostni?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D12
+{QUESTION}
+… se nekako niste mogli spraviti v pogon?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D13
+{QUESTION}
+Prosimo povejte še, koliko časa v preteklem tednu ste … … imeli veliko energije?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D14
+{QUESTION}
+… občutili tesnobo?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D15
+{QUESTION}
+… bili mirni in spokojni?
+
+{ANSWERS}
+1 nikoli ali skoraj nikoli
+2 le malo časa
+3 večino časa
+4 ves čas ali skoraj ves čas
+
+D16
+{QUESTION}
+Prosimo povejte, koliko soglašate ali ne soglašate z naslednjimi trditvami. Občutek imam, da lahko svobodno odločam o tem, kako naj živim svoje življenje.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D17
+{QUESTION}
+V svojem vsakodnevnem življenju imam zelo malo možnosti pokazati svoje prave sposobnosti.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D18
+{QUESTION}
+Skoraj vsak dan se počutim izpolnjenega s tem kar počnem.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D19
+{QUESTION}
+Kadar gredo stvari v mojem življenju narobe, ponavadi potrebujem precej časa, da pridem spet k sebi.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D20
+{QUESTION}
+Prosimo povejte, v kolikšni meri... … se v življenju učite novih stvari?
+
+{ANSWERS}
+0 sploh ne
+1
+2
+3
+4
+5
+6 v zelo veliki meri
+
+D21
+{QUESTION}
+…imate občutek, da ljudje v vaši soseski pomagajo drug drugemu?
+
+{ANSWERS}
+0 sploh ne
+1
+2
+3
+4
+5
+6 v zelo veliki meri
+
+D22
+{QUESTION}
+… imate občutek, da imajo ljudje do vas spoštljiv odnos?
+
+{ANSWERS}
+0 sploh ne
+1
+2
+3
+4
+5
+6 v zelo veliki meri
+
+D23
+{QUESTION}
+Prosimo povejte, koliko soglašate ali ne soglašate z naslednjimi trditvami. Na splošno imam občutek, da je to, kar v življenju počnem, pomembno in koristno.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D24
+{QUESTION}
+Glede na to, kako stojijo stvari, je težko biti optimist, kar zadeva prihodnost sveta.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D25
+{QUESTION}
+Veliko stvari je, v katerih menim, da sem dober(a).
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D26
+{QUESTION}
+Za večino ljudi v Sloveniji se življenje spreminja na slabše, ne na boljše.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D27
+{QUESTION}
+Čutim navezanost na ljudi v moji soseščini.
+
+{ANSWERS}
+1 močno soglašam
+2 soglašam
+3 nitiniti
+4 ne soglašam
+5 sploh ne soglašam
+
+D28
+{QUESTION}
+V kolikšni meri si vzamete čas, da počnete stvari, ki jih zares želite početi? Odgovorite s pomočjo lestvice na kartici, kjer 0 pomeni - sploh nič, 10 pa – v celoti.
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 v celoti
+
+D29
+{QUESTION}
+V kolikšni meri čutite, da vas ljudje, ki ste jim blizu, cenijo? Odgovorite z isto lestvico.
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 v celoti
+
+D30
+{QUESTION}
+Kako težko ali lahko se spopadate z večjimi težavami, na katere naletite v vašem življenju? Uporabite lestvico, kjer 0 pomeni - izjemno težko, 10 pa - povsem lahko.
+
+{ANSWERS}
+0 izjemno težko
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno lahko
+
+D31
+{QUESTION}
+Kolikšen del časa na splošno bi dejali, da ... … vas zanima to, kar počnete?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ves čas
+
+D32
+{QUESTION}
+… vas prevzame to, kar počnete?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ves čas
+
+D33
+{QUESTION}
+… ste navdušeni nad tem, kar počnete?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ves čas
+
+D34
+{QUESTION}
+Kako pogosto na običajen dan opazite in cenite svet okrog sebe?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 vselej
+
+D35
+{QUESTION}
+V kolikšni meri imate občutek, da se vaše življenje odvija v željeni smeri? Uporabite lestvico, kjer 0 pomeni - sploh nič in 10 - v celoti.
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 v celoti
+
+D36
+{QUESTION}
+V kolikšni meri dobite pomoč in podporo od ljudi, ki ste jim blizu, če/ko jo potrebujete? Uporabite lestico, kjer 0 pomeni - nikoli, 6 pa - vselej.
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6 vselej
+
+D37
+{QUESTION}
+In v kolikšni meri vi nudite pomoč in podporo ljudem, ki ste jim blizu, če/ko jo ti potrebujejo?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6 vselej
+
+D38
+{INTRO}
+Nekateri ljudje so bolj pri vrhu naše družbe, drugi pa bolj pri dnu.
+
+{QUESTION}
+Spodaj je lestvica, ki sega od vrha do dna. Kam bi na tej lestvici dandanes uvrstili samega sebe?
+
+{ANSWERS}
+10 vrh naše družbe
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 dno naše družbe
+
+D39
+{QUESTION}
+S pomočjo kartice prosimo povejte, kolikokrat v zadnjih 7 dneh ste bili neprekinjeno fizično aktivni vsaj 20 minut ali več?
+
+{ANSWERS}
+0. noben dan
+1. en dan
+2. dva dni
+3. tri dni
+4. štiri dni
+5. pet dni
+6. šest dni
+7. sedem dni
+
+E1
+{INTRO}
+Sedaj pa nekaj vprašanj o demokraciji. Kasneje vas bomo povprašali o tem, kako demokracija deluje v Sloveniji. Najprej pa želimo, da razmislite o tem, kako pomembne so naslednje stvari za demokracijo na splošno. Upoštevajte, da pri tem ni pravilnih in napačnih odgovorov, zanima nas le vaše mnenje.
+
+{QUESTION}
+S pomočjo te kartice povejte, kako pomembno je po vašem mnenju za demokracijo na splošno… ... da so volitve v državi svobodne in poštene?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E2
+{QUESTION}
+... da se volivci pogovorijo o politiki s prijatelji in znanci, preden se odločijo kako bodo glasovali?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E3
+{QUESTION}
+... da različne politične stranke ponujajo jasne alternative druga drugi?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E4
+{QUESTION}
+... da stranke v opoziciji lahko svobodno kritizirajo vlado?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E5
+{QUESTION}
+... da mediji lahko svobodno kritizirajo vlado?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E6
+{QUESTION}
+In če še vedno ocenjujete na splošno, ne glede na Slovenijo, kako pomembne so naslednje stvari za demokracijo na sploh... ... da mediji posredujejo državljanom zanesljive informacije za oceno vlade?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E7
+{QUESTION}
+… da so pravice manjšin zaščitene?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E8
+{QUESTION}
+... da imajo državljani pri najbolj pomembnih vprašanjih odločilno besedo in o njih glasujejo na referendumu?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E9
+{QUESTION}
+... da priseljenci dobijo volilno pravico šele takrat, ko postanejo državljani?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E10
+{QUESTION}
+... da sodišča vsakogar obravnavajo enako?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E11
+{QUESTION}
+... da sodišča vladi lahko preprečijo, da ta deluje preko svojih pooblastil?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E12
+{QUESTION}
+In če še vedno ocenjujete na splošno, ne glede na Slovenijo, kako pomembne so naslednje stvari za demokracijo na sploh... ... da vladajoče stranke, če so delale slabo, na volitvah dobijo manj glasov?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E13
+{QUESTION}
+... da vlada vse državljane ščiti pred revščino?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E14
+{QUESTION}
+... da vlada ljudem pojasnjuje svoje odločitve?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E15
+{QUESTION}
+... da vlada s svojimi ukrepi skrbi za zmanjševanje razlik v dohodkih?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E16
+{QUESTION}
+In kako pomembno je za demokracijo na splošno... ... da politiki pred sprejemanjem odločitev upoštevajo stališča drugih evropskih držav?
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E17
+{INTRO}
+Sedaj pa še nekaj vprašanj o istih temah, vendar se tokrat osredotočite na delovanje demokracije v Sloveniji, danes. Upoštevajte, da pri tem ni pravilnih in napačnih odgovorov, zanima nas le vaše mnenje.
+
+{QUESTION}
+S pomočjo te kartice povejte, v kolikšni meri vsaka od naslednjih trditev drži za Slovenijo. 0 pomeni - da trditev sploh ne drži, 10 pa - da povsem drži. V Sloveniji so parlamentarne volitve svobodne in poštene.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E18
+{QUESTION}
+V Sloveniji se volivci pogovorijo o politiki s prijatelji in znanci, preden se odločijo, kako bodo glasovali.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E19
+{QUESTION}
+V Sloveniji različne politične stranke ponujajo jasno alternativo druga drugi.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E20
+{QUESTION}
+V Sloveniji stranke v opoziciji lahko svobodno kritizirajo vlado.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E21
+{QUESTION}
+V Sloveniji mediji lahko svobodno kritizirajo vlado.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E22
+{QUESTION}
+S pomočjo iste kartice povejte, v kolikšni meri drži vsaka od naslednjih trditev za Slovenijo. V Sloveniji mediji dajejo državljanom zanesljive informacije za ocenjevanje vlade.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E23
+{QUESTION}
+V Sloveniji so pravice manjšin zaščitene.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E24
+{QUESTION}
+V Sloveniji imajo državljani pri najbolj pomembnih političnih vprašanjih odločilno besedo in o njih glasujejo na referendumu.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E25
+{QUESTION}
+V Sloveniji sodišča vsakogar obravnavajo enako.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E26
+{QUESTION}
+S pomočjo iste kartice povejte, v kolikšni meri drži vsaka od naslednjih trditev za Slovenijo. V Sloveniji vladajoče stranke na volitvah, če so delale slabo, dobijo manj glasov.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E27
+{QUESTION}
+V Sloveniji vlada vse državljane ščiti pred revščino.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E28
+{QUESTION}
+V Sloveniji vlada volivcem pojasnjuje svoje odločitve.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E29
+{QUESTION}
+V Sloveniji vlada sprejema ukrepe za zmanjševanje razlik v dohodkih.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E30
+{QUESTION}
+In v kolikšni meri drži naslednja trditev za Slovenijo? V Sloveniji politiki pred sprejemanjem odločitev upoštevajo stališča drugih evropskih držav.
+
+{ANSWERS}
+0 sploh ne drži
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 povsem drži
+
+E31
+{INTRO}
+Pri naslednjih vprašanjih boste najprej izbirali med dvema možnostima. Potem vas bomo vprašali, kako pomembna je vaša izbira za demokracijo na splošno. Na koncu pa boste, glede na to vprašanje, ocenili še situacijo v Sloveniji danes. Upoštevajte, da pri tem ni pravilnih in napačnih odgovorov, zanima nas le vaše mnenje. 
+Obstajajo različna mnenja o tem, ali naj bo v demokraciji vsakomur dovoljeno, da javno izraža svoja politična stališča, tudi če so ta skrajna.
+
+{QUESTION}
+Katera od izjav na tej kartici je bližje vašim pogledom na to, kaj je boljše za demokracijo na splošno?
+
+{ANSWERS}
+1 Vsakemu naj bo dovoljeno, da javno izraža svoja politična stališča, tudi če so ta skrajna.
+2 Tistim, ki imajo skrajna politična stališča, bi morali preprečiti, da jih izražajo javno.
+
+E32
+{QUESTION}
+Kako pomembno je za demokracijo na splošno, da lahko vsakdo javno izraža svoja politična stališča, tudi če so ta skrajna? Izberite odgovor na kartici.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E33
+{QUESTION}
+S pomočjo kartice ocenite, v kolikšni meri ima v Sloveniji danes vsakdo možnost javno izraziti svoja politična stališča, tudi če so ta skrajna.
+
+{ANSWERS}
+0 sploh ne
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 v celoti
+
+E34
+{QUESTION}
+Kako pomembno je po vašem mnenju za demokracijo na splošno, da se tistim, ki imajo skrajna politična stališča, prepreči javno izražanje tovrstnih stališč? Izberite odgovor na kartici.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E35
+{QUESTION}
+S pomočjo kartice ocenite,v kolikšni meri je v Sloveniji danes onemogočeno javno izražanje skrajnih političnih stališč?
+
+{ANSWERS}
+0 sploh ne
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 v celoti
+
+E36
+{INTRO}
+Včasih se vlada ne strinja s tem, kar je po mnenju večine ljudi najboljše za državo.
+
+{QUESTION}
+Katera od izjav na tej kartici je bližje vašim pogledom na to, kaj je boljše za demokracijo na splošno?
+
+{ANSWERS}
+1 Vlada bi morala spremeniti svoj politični program v skladu s tem, kar meni večina ljudi.
+2 Vlada bi morala vztrajati pri svojem političnem programu ne glede na to, kar meni večina ljudi
+
+E37
+{QUESTION}
+Kako pomembno je za demokracijo na splošno, da vlada spremeni svoj politični program v skladu s tem, kar meni večina ljudi? Izberite odgovor s pomočjo lestvice.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E38
+{QUESTION}
+S pomočjo kartice povejte, kako pogosto v Sloveniji danes vlada spremeni svoj politični program v skladu s tem, kar meni večina ljudi?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 vedno
+
+E39
+{QUESTION}
+Kako pomembno je za demokracijo na splošno, da vlada vztraja pri svojem zastavljenem političnem programu ne glede na to, kar meni večina ljudi? Izberite odgovor na lestvici.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E40
+{QUESTION}
+S pomočjo kartice povejte, kako pogosto vlada v Sloveniji danes vztraja pri svojem zastavljenem političnem programu ne glede na to, kar meni večina ljudi?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 vedno
+
+E41
+{INTRO}
+Vlada se v nekaterih državah oblikuje iz ene same stranke; v drugih državah pa iz dveh ali več strank, ki so v koaliciji.
+
+{QUESTION}
+Katera od izjav na tej kartici je bližje vašim pogledom na to, kaj je boljše za demokracijo na splošno?
+
+{ANSWERS}
+1 Da vlado oblikuje ena sama stranka.
+2 Da vlado oblikujeta dve ali več strank v koaliciji.
+
+E42
+{QUESTION}
+Kako pomembno je za demokracijo na splošno, da se vlada oblikuje iz ene same stranke? Izberite odgovor na kartici.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E43
+{QUESTION}
+S pomočjo kartice povejte, kako pogosto se vlada v Sloveniji oblikuje iz ene same stranke?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 vedno
+
+E44
+{QUESTION}
+Kako pomembno je za demokracijo na splošno, da se vlada oblikuje iz dveh ali več strank? Izberite odgovor na kartici.
+
+{ANSWERS}
+0 sploh ni pomembno za demokracijo na splošno
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 izjemno pomembno za demokracijo na splošno
+
+E45
+{INTRO}
+In še zadnje vprašanje iz tega sklopa.
+
+{QUESTION}
+S pomočjo kartice povejte, kako pogosto se vlada v Sloveniji oblikuje iz dveh ali več strank, ki so v koaliciji?
+
+{ANSWERS}
+0 nikoli
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 vedno

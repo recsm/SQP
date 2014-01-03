@@ -1,0 +1,1121 @@
+﻿D1
+{QUESTION}
+In the past 12 months, how often did you get involved in work for voluntary or charitable organisations? Please use this card.
+
+{ANSWERS}
+01 At least once a week
+02 At least once a month
+03 At least once every three months
+04 At least once every six months
+05 Less often
+06 Never
+
+D2
+{INTRO}
+Now we want to ask you some questions about how you feel about yourself and your life.
+
+{QUESTION}
+Using this card, please say how much you agree or disagree with each of the following
+statements. I’m always optimistic about my future.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D3
+{QUESTION}
+In general I feel very positive about myself.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D4
+{QUESTION}
+At times I feel as if I am a failure.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D6
+{QUESTION}
+…you felt that everything you did was an effort?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D8
+{QUESTION}
+…you were happy?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D10
+{QUESTION}
+…you enjoyed life?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D11
+{QUESTION}
+… you felt sad?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D12
+{QUESTION}
+…you could not get going?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D13
+{QUESTION}
+And please tell me how much of the time during the past week... ...you had a lot of energy?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D14
+{QUESTION}
+…you felt anxious?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D15
+…you felt calm and peaceful?
+
+{ANSWERS}
+1 None or almost none of the time
+2 Some of the time
+3 Most of the time
+4 All or almost all of the time
+
+D16
+{QUESTION}
+Using this card, please tell me to what extent you agree or disagree with each of the following statements. I feel I am free to decide for myself how to live my life.
+ 
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D17
+{QUESTION}
+In my daily life I get very little chance to show how capable I am.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D18
+{QUESTION}
+Most days I feel a sense of accomplishment from what I do.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D19
+{QUESTION}
+When things go wrong in my life, it generally takes me a long time to get back to normal.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+
+D20
+{QUESTION}
+Using this card, please tell me to what extent… ...you learn new things in
+your life?
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6 A great deal
+
+D21
+{QUESTION}
+…you feel that people in your local area help one another?
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6 A great deal
+
+D22
+{QUESTION}
+…you feel that people treat you with respect?
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6 A great deal
+
+D23
+{QUESTION}
+Using this card, please say to what extent you agree or disagree with each of the following statements. I generally feel that what I do in my life is valuable and worthwhile.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D24
+{QUESTION}
+The way things are now, I find it hard to be hopeful about the future of the world.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D25
+{QUESTION}
+There are lots of things I feel I am good at.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D26
+{QUESTION}
+For most people in [country] life is getting worse rather than better.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D27
+{QUESTION}
+I feel close to the people in my local area.
+
+{ANSWERS}
+1 Agree strongly
+2 Agree
+3 Neither agree nor disagree
+4 Disagree
+5 Disagree strongly
+
+D28
+{QUESTION}
+To what extent do you make time to do the things you really want to do? Please use this card where 0 is not at all and 10 is completely.
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Completely
+
+D29
+{QUESTION}
+To what extent do you feel appreciated by the people you are close to? Please use the same card.
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Completely
+
+D30
+{QUESTION}
+How difficult or easy do you find it to deal with important problems that come up in your life? Please use this card where 0 is extremely difficult and 10 is extremely easy.
+
+{ANSWERS}
+0 Extremely difficult
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Extremely easy
+
+
+D34
+{QUESTION}
+On a typical day, how often do you take notice of and appreciate your surroundings?
+
+{ANSWERS}
+0 Never
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Always
+
+D35
+{QUESTION}
+To what extent do you feel that you have a sense of direction in your life? Please use this card where 0 is not at all and 10 is completely.
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Completely
+
+D36
+{QUESTION}
+To what extent do you receive help and support from people you are close to when you need it? Please use this card where 0 is not at all and 6 is completely.
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6 Completely
+
+D37
+{QUESTION}
+And to what extent do you provide help and support to people you are close to when they need it?
+
+{ANSWERS}
+0 Not at all
+1
+2 
+3 
+4 
+5 
+6 Completely
+
+D38
+{INTRO}
+There are people who tend to be towards the top of our society and people who tend to be towards the bottom.
+
+{QUESTION}
+On this card there is a scale that runs from top to bottom. Where would you place yourself on this scale nowadays?
+
+{ANSWERS}
+10 Top of our society
+9
+8 
+7 
+6 
+5 
+4
+3
+2
+1
+0 Bottom of our society
+
+D39
+{QUESTION}
+Using this card, please tell me on how many of the last 7 days you were physically active continuously for 20 minutes or longer?
+
+{ANSWERS}
+0 No days
+1 One day
+2 Two days
+3 Three days
+4 Four days
+5 Five days
+6 Six days
+7 Seven days
+
+E1
+{INTRO}
+Now some questions about democracy. Later on I will ask you about how democracy is working in [country]. First, however, I want you to think instead about how important you think different things are for democracy in general. There are no right or wrong answers so please just tell me what you think.
+
+{QUESTION}
+Using this card, please tell me how important you think it is for democracy in general... ...that national elections are free and fair?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E2
+{QUESTION}
+...that voters discuss politics with people they know before deciding how to vote?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E3
+{QUESTION}
+...that different political parties offer clear alternatives to one another?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E4
+{QUESTION}
+...that opposition parties are free to criticise the government?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E5
+{QUESTION}
+…that the media are free to criticise the government?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E6
+{QUESTION}
+And still thinking generally rather than about [country], how important do you think it is for democracy in general... ...that the media provide citizens with reliable information to judge the government?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E7
+{QUESTION}
+...that the rights of minority groups are protected?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E8
+{QUESTION}
+...that citizens have the final say on the most important political issues by voting on them directly in referendums?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E9
+{QUESTION}
+....that immigrants only get the right to vote in national elections once they become citizens?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E10
+{QUESTION}
+...that the courts treat everyone the same?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E11
+{QUESTION}
+...that the courts are able to stop the government acting beyond its authority?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E12
+{QUESTION}
+And still thinking generally rather than about [country], how important do you think it is for democracy in general... ...that governing parties are punished in elections when they have done a bad job?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E13
+{QUESTION}
+...that the government protects all citizens against poverty?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E14
+{QUESTION}
+...that the government explains its decisions to voters?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E15
+{QUESTION}
+...that the government takes measures to reduce differences in income levels?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E16
+{QUESTION}
+And how important do you think it is for democracy in general… ...that politicians take into account the views of other European governments before making decisions?
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Extremely important for democracy in general
+
+E17
+{INTRO}
+Now some questions about the same topics, but this time about how you think democracy is working in [country] today. Again, there are no right or wrong answers, so please just tell me what you think.
+
+{QUESTION}
+Using this card, please tell me to what extent you think each of the following statements applies in [country]. 0 means you think the statement does not apply at all and 10 means you think it applies completely. National elections in [country] are free and fair.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E18
+{QUESTION}
+Voters in [country] discuss politics with people they know before deciding how to vote.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E19
+{QUESTION}
+Different political parties in [country] offer clear alternatives to one another.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E23
+{QUESTION}
+The rights of minority groups in [country] are protected.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E24
+{QUESTION}
+Citizens in [country] have the final say on the most important political issues by voting on them directly in referendums.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E25
+{QUESTION}
+The courts in [country] treat everyone the same.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E26
+{QUESTION}
+And using the same card please tell me to what extent you think each of these
+statements applies in [country]. Governing parties in [country] are punished in elections when they have done a bad job.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E27
+{QUESTION}
+The government in [country] protects all citizens against poverty.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E28
+{QUESTION}
+The government in [country] explains its decisions to voters.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E29
+{QUESTION}
+The government in [country] takes measures to reduce differences in income levels.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E30
+{QUESTION}
+And to what extent does this statement apply in [country]? Politicians in [country] take into account the views of other European governments before making decisions.
+
+{ANSWERS}
+0 Does not apply at all
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8
+9
+10 Applies completely
+
+E31
+{INTRO}
+At the next questions, I’ll first ask you to choose between two options. Then I’ll ask how important you think your choice is for democracy in general. Finally, I’ll ask you to think about this issue in [country] today. Remember, there are no right or wrong answers, so please just tell me what you think.
+There are differing opinions on whether or not everyone should be free to express their political views openly in a democracy, even if they are extreme.
+
+{QUESTION}
+Which one of the statements on this card describes what you think is best for democracy in general?
+
+{ANSWERS}
+1 Everyone should be free to express their political views openly, even if they are extreme
+2 Those who hold extreme political views should be prevented from expressing them openly
+
+E32
+{QUESTION}
+How important do you think it is for democracy in general that everyone is free to express their political views openly, even if they are extreme? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E33
+{QUESTION}
+Using this card, to what extent do you think everyone in [country] today is free to express their political views openly, even if they are extreme?
+
+{ANSWERS}
+0 Not at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completely
+
+E34
+{QUESTION}
+How important do you think it is for democracy in general that those who hold extreme political views are prevented from expressing them openly? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E35
+{QUESTION}
+Using this card, to what extent do you think those who hold extreme political views in [country] today are prevented from expressing them openly?
+
+{ANSWERS}
+0 Not at all
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completely
+
+E36
+{INTRO}
+Sometimes the government disagrees with what most people think is best for the country.
+
+{QUESTION}
+Which one of the statements on this card describes what you think is best for democracy in general?
+
+
+{ANSWERS}
+1 The government should change its planned policies in response to what most people think
+2 The government should stick to its planned policies regardless of what most people think
+
+E37
+{QUESTION}
+How important do you think it is for democracy in general that the government changes its planned policies in response to what most people think? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E38
+{QUESTION}
+Using this card, please tell me how often you think the government in [country] today changes its planned policies in response to what most people think?
+
+{ANSWERS}
+0 Never
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Always
+
+E39
+{QUESTION}
+How important do you think it is for democracy in general that the government sticks to its planned policies regardless of what most people think? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E40
+{QUESTION}
+Using this card, please tell me how often you think the government in [country] today sticks to its planned policies regardless of what most people think?
+
+{ANSWERS}
+0 Never
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Always
+
+E41
+{INTRO}
+The government in some countries is formed by97 a single party; in other countries by two or more parties in coalition.
+
+{QUESTION}
+Which option on this card describes what you think is best for democracy in general?
+
+{ANSWERS}
+1 A single party forms the government
+2 Two or more parties in coalition form the government
+ 
+E42
+{QUESTION}
+How important do you think it is for democracy in general that the government is formed by a single party? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E43
+{QUESTION}
+Now for the last question on this topic. Using this card, please tell me how often you think the government in [country] is formed by a single party?
+
+{ANSWERS}
+0 Never
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Always
+
+E44
+{QUESTION}
+How important do you think it is for democracy in general that the government is formed by two or more parties in coalition? Please use this card.
+
+{ANSWERS}
+0 Not at all important for democracy in general
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremely important for democracy in general
+
+E45
+{INTRO}
+Now for the last question on this topic.
+
+{QUESTION}
+Using this card, please tell me how often you think the government in [country] is formed by two or more parties in coalition?
+
+{ANSWERS}
+0 Never
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Always

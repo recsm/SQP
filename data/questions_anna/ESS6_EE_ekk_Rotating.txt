@@ -1,0 +1,1119 @@
+﻿D1
+{QUESTION}
+Viimase 12 kuu jooksul, kui tihti Te olete olnud seotud tööga vabatahtlike või heategevusorganisatsioonide juures? Vastamiseks kasutage kaarti 23.
+
+{ANSWERS}
+1 Vähemalt kord nädalas 
+2 Vähemalt kord kuus 
+3 Vähemalt kord iga kolme kuu jooksul 
+4 Vähemalt kord iga kuue kuu jooksul 
+5 Veel harvemini 
+6 Mitte kunagi 
+
+D2
+{INTRO}
+Nüüd sooviksime küsida mõned küsimused selle kohta, kuidas Te ennast tunnete ja oma eluga rahul olete. Ma olen alati oma tuleviku suhtes optimistlik.
+
+{QUESTION}
+Ütelge palun, kuivõrd Te nõustute järgnevate väidetega. Vastamiseks kasutage kaarti 24.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D3
+{QUESTION}
+Üldiselt votes suhtun endasse väga hästi.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D4
+{QUESTION}
+Vahetevahel ma tunnen, et olen äpardunud.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D6
+{QUESTION}
+... tundsite, et kõik mis teete, nõuab pingutust?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D8
+{QUESTION}
+…olite õnnelik?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D10
+{QUESTION}
+...tundsite elust rõõmu?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D11
+{QUESTION}
+...olite kurb?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D12
+{QUESTION}
+...tundsite, et Te ei jõua ega taha midagi teha?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D13
+{QUESTION}
+Ja palun öelge mulle, kui suurel osal ajast eelmise nädala jooksul... ...oli Teil palju energiat?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D14
+{QUESTION}
+...olite ärevil ja murelik?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D15
+{QUESTION}
+...olite rahulik?
+
+{ANSWERS}
+1 Üldse mitte või peaaegu üldse mitte
+2 Väikese osa ajast
+3 Enamus osa ajast
+4 Kogu aeg või peaaegu kogu aeg
+
+D16
+{QUESTION}
+Ütelge palun, kuivõrd Te nõustute või ei nõustu järgnevate väidetega. Vastamiseks kasutage kaarti 26. Tunnen, et ma olen vaba ise otsustama selle üle, kuidas ma oma elu elan.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D17
+{QUESTION}
+Oma igapäevaelus on mul väga vähe võimalusi näidata, kui võimekas ma olen.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D18
+{QUESTION}
+Enamikel päevadel ma tunnen, et olen midagi saavutanud.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D19
+{QUESTION}
+Kui minu elus lähevad asjad viltu, siis läheb mul tavaliselt kaua aega, et naasta tavapärasesse olekusse. 
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D20
+{QUESTION}
+Kasutades kaarti 27, palun öelge, mil määral… ...õpite oma elus uusi asju?
+
+{ANSWERS}
+0 Üldse mitte
+1 
+2 
+3 
+4
+5 
+6 Suurel määral
+
+D21
+{QUESTION}
+...Te tunnete, et inimesed Teie kodukohas/naabruses aitavad üksteist?
+
+{ANSWERS}
+0 Üldse mitte
+1 
+2 
+3 
+4
+5 
+6 Suurel määral
+
+D22
+{QUESTION}
+...Te tunnete, et inimesed kohtlevad Teid austusega?
+
+{ANSWERS}
+0 Üldse mitte
+1 
+2 
+3 
+4
+5 
+6 Suurel määral
+
+D23
+{QUESTION}
+Kasutades kaarti 28, öelge palun, kuivõrd Te nõustute või ei nõustu järgnevate väidetega. Üldiselt ma tunnen, et see, mida ma oma elus teen, on väärtuslik ja teistele kasulik.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D24
+{QUESTION}
+Asjade praeguse seisu juures on raske olla lootusrikas maailma tuleviku suhtes.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D25
+{QUESTION}
+Tunnen, et on palju asju, mida ma oskan hästi.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D26
+{QUESTION}
+Enamike inimeste jaoks läheb elu Eestis pigem halvemaks kui paremaks.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D27
+{QUESTION}
+Ma tunnen end lähedasena inimestega, kes elavad minu kohalikus piirkonnas.
+
+{ANSWERS}
+1 Olen täiesti nõus
+2 Olen nõus
+3 Ei nõustu ega ole vastu
+4 Ei ole nõus
+5 Ei ole üldse nõus
+
+D28
+{QUESTION}
+Mil määral võtate aega, et teha seda, mida tõesti teha tahate? Palun kasutage kaarti 29, kus 0 on "üldse mitte" ja 10 on "täiel määral".
+
+{ANSWERS}
+0 Üldse mitte
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Täiel määral
+
+D29
+{QUESTION}
+Mil määral tunnete, et Teile lähedased inimesed Teid väärtustavad? Palun kasutage sama kaarti
+
+{ANSWERS}
+0 Üldse mitte
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Täiel määral
+
+D30
+{QUESTION}
+Kui raske või lihtne on Teil toime tulla suuremate probleemidega, millega elus kokku puutute? Kasutage palun seda kaarti, kus 0 on "äärmiselt raske" ja 10 "äärmiselt lihtne".
+
+{ANSWERS}
+0 Äärmiselt raske
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Äärmiselt lihtne
+
+D34
+{QUESTION}
+Kui sageli märkate tavalise päeva jooksul oma ümbrust ja ümbritsevaid ning tunnetate nende väärtust?
+
+{ANSWERS}
+0 Mitte kunagi
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Alati
+
+D35
+{QUESTION}
+Mil määral tunnete, et Teie elul on siht? Palun kasutage kaarti 33, kus 0 tähendab „üldse mitte“ ja 10 „täiel määral“.
+
+{ANSWERS}
+0 Üldse mitte
+1
+2 
+3 
+4 
+5 
+6
+7
+8
+9
+10 Täiel määral
+
+D36
+{QUESTION}
+Kui palju lähedased inimesed Teid emotsionaalselt või majanduslikult toetavad, kui seda vajate? Palun kasutage kaarti 34, kus 0 tähendab „üldse mitte“ ja 6 „täiel määral.“
+
+{ANSWERS}
+0 Üldse mitte
+1
+2 
+3 
+4 
+5 
+6 Täiel määral
+
+D37
+{QUESTION}
+Ja kui palju Teie oma lähedasi abistate ja toetate, kui nad seda vajavad?
+
+{ANSWERS}
+0 Üldse mitte
+1
+2 
+3 
+4 
+5 
+6 Täiel määral
+
+D38
+{INTRO}
+On inimesi, kes kuuluvad meie ühiskonnas pigem ülemistesse kihtidesse, ja inimesi, kes kuuluvad pigem alumistesse. 
+
+{QUESTION}
+Sellel kaardil on skaala, mis jookseb ülevalt alla. Kuhu Teie ennast praegu sellel skaalal paigutaksite?
+
+{ANSWERS}
+10 Meie ühiskonna tipp
+9 
+8 
+7 
+6 
+5
+4
+3
+2
+1
+0 Meie ühiskonna alumine kiht
+
+D39
+{QUESTION}
+Öelge palun kaardi 36 abil, mitmel päeval viimasest seitsmest olite füüsiliselt aktiivne
+järjest vähemalt 20 minutit või kauem?
+
+{ANSWERS}
+0. Mitte ühelgi päeval 
+1. Ühel päeval 
+2. Kahel päeval 
+3. Kolmel päeval 
+4. Neljal päeval 
+5. Viiel päeval 
+6. Kuuel päeval 
+7. Seitsmel päeval 
+ 
+E1
+{INTRO}
+Järgnevalt mõned küsimused, mis puudutavad demokraatiat. Pisut hiljem uurin Teilt demokraatia toimimise kohta Eestis. Kuid esmalt sooviksin, et mõtleksite pigem sellele, kuivõrd olulised on erinevad aspektid demokraatiale üldiselt. Ei eksisteeri õigeid ega valesid vastuseid, seega palun öelge mulle lihtsalt oma arvamus.
+
+{QUESTION}
+Kasutades vastamiseks kaarti 37, palun öelge mulle, kui oluline on Teie arvates demokraatia jaoks üldiselt.... ...et riiklikud valimised on vabad ja ausad?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E2
+{QUESTION}
+...et valijad arutavad oma tuttavatega poliitika üle, enne kui otsustavad, kuidas valida?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E3
+{QUESTION}
+...et erinevad poliitilised erakonnad pakuvad üksteisele selgeid alternatiive?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E4
+{QUESTION}
+...et opositsioonierakondadel on vabadus valitsust kritiseerida?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E5
+{QUESTION}
+…et meedial on vabadus valitsust kritiseerida?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E6
+{QUESTION}
+Mõeldes endiselt pigem üldisemalt, mitte Eestile, kui oluline on Teie arvates demokraatia jaoks üldiselt... ...et meedia annab kodanikele usaldusväärset informatsiooni valitsuse töö hindamiseks?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E7
+{QUESTION}
+...et vähemusgruppide õigused on kaitstud?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E8
+{QUESTION}
+...et kodanikel on lõplik sõna kõige olulisemate poliitiliste teemade suhtes, hääletades nende üle otse referendumitel?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E9
+{QUESTION}
+....et immigrandid saavad riiklikel valimistel valimisõiguse vaid siis, kui omandavad kodakondsuse?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E10
+{QUESTION}
+...et kohtud kohtlevad kõiki ühtemoodi?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E11
+{QUESTION}
+...et kohtud suudavad takistada valitsust oma võimupiire ületamast?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E12
+{QUESTION}
+Ja veel mõeldes pigem üldisemalt, mitte Eestist lähtuvalt, kui oluline on Teie arvates demokraatia jaoks üldiselt... ...et valitsuserakondi karistatakse valimistel, kui nad on halba tööd teinud?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E13
+{QUESTION}
+...et valitsus kaitseb kõiki kodanikke vaesuse eest?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E14
+{QUESTION}
+...et valitsus selgitab oma otsuseid valijatele?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E15
+{QUESTION}
+...et valitsus võtab kasutusele meetmeid sissetulekute erinevuste vähendamiseks?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E16
+{QUESTION}
+Ja kui oluliseks peate Te demokraatia jaoks üldiselt... ...et poliitikud võtavad enne otsuste tegemist arvesse teiste Euroopa riikide valitsuste arvamusi?
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E17
+{INTRO}
+Järgnevalt mõned küsimused samadel teemadel, kuid nüüd sellest, kuidas demokraatia tänases Eestis toimib. Jällegi ei ole õigeid ega valesid vastuseid, seega lihtsalt palun öelge mulle oma arvamus.
+
+{QUESTION}
+Kasutades kaarti 38, öelge mulle palun, mil määral iga järgnev väide Teie meelest Eestis kehtib. 0 tähendab, et see väide “ei kehti üldse” ja 10 tähendab, et see Teie arvates “kehtib täielikult”. Riiklikud valimised Eestis on vabad ja ausad.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E18
+{QUESTION}
+Valijad arutavad Eestis enne hääle andmist poliitikat oma tuttavatega.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E19
+{QUESTION}
+Erinevad poliitilised erakonnad pakuvad Eestis üksteisele selgeid alternatiive.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E23
+{QUESTION}
+Vähemusgruppide õigused Eestis on kaitstud.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E24
+{QUESTION}
+Eesti kodanikel on lõplik sõna kõige olulisemate poliitika teemade suhtes referendumitel otseselt nende üle hääletades.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E25
+{QUESTION}
+Kohtud kohtlevad Eestis kõiki ühtemoodi.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E26
+{QUESTION}
+Ja kasutades sama kaarti, palun öelge mulle, mis ulatuses kehtivad järgnevad väited Teie arvates Eestis. Eestis karistatakse valimistel valitsuserakondi, kui nad on halba tööd teinud.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E27
+{QUESTION}
+Valitsus kaitseb Eestis kõiki kodanikke vaesuse eest.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E28
+{QUESTION}
+Valitsus seletab Eestis oma otsuseid valijatele.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E29
+{QUESTION}
+Valitsus võtab Eestis kasutusele meetmeid sissetulekute erinevuste vähendamiseks.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E30
+{QUESTION}
+Ja mis ulatuses kehtib antud väide Eestis? Poliitikud võtavad Eestis arvesse teiste Euroopa riikide valitsuste arvamusi enne otsuste tegemist.
+
+{ANSWERS}
+0 Ei kehti üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kehtib täielikult
+
+E31
+{INTRO}
+Järgmise küsimuse puhul palun Teil esmalt valida kahe võimaluse vahel. Seejärel küsin, kui oluline on Teie valik demokraatia jaoks üldiselt. Ning lõpuks palun Teil mõelda selle küsimuse üle tänases Eestis. Pidage meeles, et ei ole õigeid ega valesid vastuseid, seega palun öelge mulle lihtsalt oma arvamus. On erinevaid arvamusi selle kohta, kas demokraatias peaks igaühel olema lubatud väljendada avalikult oma poliitilisi vaateid, isegi kui need on äärmuslikud.
+
+{QUESTION}
+Kumb neist kaardil olevatest väidetest kirjeldab Teie arvates seda, mida peate demokraatia jaoks üldiselt parimaks?
+
+{ANSWERS}
+1 Igaühel peaks olema lubatud väljendada avalikult oma poliitilisi vaateid, isegi kui need on äärmuslikud.
+2 Inimesi, kelle poliitilised vaated on äärmuslikud, tuleks takistada oma vaateid vabalt väljendamast.
+
+E32
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et kõik võiksid oma vaateid avalikult väljendada, isegi kui need on äärmuslikud? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E33
+{QUESTION}
+Kasutades seda kaarti, mis Te arvate, kuivõrd võib igaüks Eestis täna oma poliitilisi vaateid vabalt väljendada, isegi kui need on äärmuslikud?
+
+{ANSWERS}
+0 Mitte üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Täielikult
+
+E34
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et äärmuslike poliitiliste vaadetega isikutel takistatakse nende väljendamist avalikult? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E35
+{QUESTION}
+Kasutades seda kaarti, öelge palun, kuivõrd takistatakse neil, kel on äärmuslikud poliitilised vaated, tänases Eestis oma vaateid avalikult väljendada?
+
+{ANSWERS}
+0 Mitte üldse
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Täielikult
+
+E36
+{INTRO}
+Mõnikord ei nõustu valitsus sellega, mida enamik inimesi riigile kõige paremaks peab.
+
+{QUESTION}
+Kumb selle kaardi väidetest kirjeldab Teie arvates seda, mida peate demokraatia jaoks üldiselt parimaks?
+
+{ANSWERS}
+1 Valitsus peaks muutma oma plaanitud poliitikaid vastavalt sellele, mida enamik inimesi arvab. 
+2 Valitsus peaks jääma oma plaanitud poliitikate juurde sõltumata sellest, mida enamik inimesi arvab.
+
+E37
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et valitsus muudab oma plaanitud poliitikaid vastavalt sellele, mida enamik inimestest arvab? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E38
+{QUESTION}
+Kasutades kaarti 44, palun öelge mulle, kui tihti muudab Teie meelest valitsus tänases Eestis plaanitud poliitikaid vastavalt enamike inimeste arvamusele?
+
+{ANSWERS}
+0 Mitte kunagi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alati
+
+E39
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et valitsus jääb oma plaanitud poliitikate juurde, hoolimata sellest, mida enamik inimestest arvab? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E40
+{QUESTION}
+Kasutades seda kaarti, palun öelge, kui tihti jääb Teie arvates tänases Eestis valitsus oma poliitikate juurde, hoolimata sellest, mida enamik inimestest arvab?
+
+{ANSWERS}
+0 Mitte kunagi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alati
+
+E41
+{INTRO}
+Mõningates riikides moodustab valitsuse üks erakond; teistes riikides on aga kaks või enam erakonda koalitsioonis. 
+
+{QUESTION}
+Milline valik sellel kaardil kirjeldab Teie arvates demokraatiat üldiselt kõige paremini?
+
+{ANSWERS}
+1 Valitsuse moodustab üks erakond.
+2 Valitsuse moodustavad kaks või enam erakonda.
+
+E42
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et valitsuse moodustab üks erakond? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E43
+{INTRO}
+Nüüd veel viimane küsimus antud teemal.
+
+{QUESTION}
+Kasutades seda kaarti, palun öelge mulle, kui sageli moodustab Teie arvates Eestis valitsuse üks erakond?
+
+{ANSWERS}
+0 Mitte kunagi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alati
+
+E44
+{QUESTION}
+Kui oluline on Teie arvates demokraatia jaoks üldiselt, et valitsuse moodustab kaks või enam erakonda? Palun kasutage seda kaarti.
+
+{ANSWERS}
+0 Ei ole demokraatia jaoks üldiselt üldse oluline
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 On demokraatia jaoks üldiselt äärmiselt oluline
+
+E45
+{INTRO}
+Nüüd veel viimane küsimus antud teemal.
+
+{QUESTION}
+Kasutades seda kaarti, palun öelge mulle, kui sageli moodustab Teie arvates Eestis valitsuse kaks või enam erakonda?
+
+{ANSWERS}
+0 Mitte kunagi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Alati
