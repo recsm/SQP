@@ -1,8 +1,5 @@
 import os
 
-DEBUG = False
-TEMPLATE_DEBUG = False
-
 from local_settings import ADMINS
 
 MANAGERS = ADMINS
@@ -76,6 +73,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
 #    'django.middleware.http.SetRemoteAddrFromForwardedFor',
     'django.middleware.doc.XViewMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 
 AUTH_PROFILE_MODULE = 'sqp.UserProfile'
@@ -93,12 +91,15 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.markup',
     'django.contrib.humanize',
+    'debug_toolbar',
     'sqp_project.sqp',
     'south'
 )
 
+from local_settings import *
+
 #Make a file called local_settings.py, but DON'T COMMIT IT TO THE SERVER
 #This will let you override all settings with your own local settings
 
-from local_settings import *
+
 

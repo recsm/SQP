@@ -4,6 +4,7 @@ Pyro4==4.8
 South==0.7.3
 django-extensions==0.8
 textile==2.1.5
-tornado==2.0
+tornado==2.3
 wsgiref==0.1.2
 django-grappelli==2.3.2
+django-debug-toolbar-django13==0.8.4

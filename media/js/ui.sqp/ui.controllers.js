@@ -72,6 +72,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		"questionCoding/:query":							 "questionCoding",  // #question/1
 		"question/new":									     "newQuestion",  // #question/new
 		"help":												 "help",		// #help
+		"about": 											 "about", // #about
+        "faq":                                               "faq", // #faq
 		"settings":											 "settings",	
 		"studies":											 "studies",
 		"search":											 "search",
@@ -629,6 +631,18 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	help: function(){
 		alert("show help");
 	},
+	about: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'about';
+		$("#pageAbout").fadeIn();
+		$('#aboutTab').removeClass('unselectedtab').addClass( 'selectedtab');
+	},
+    faq: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'about';
+		$("#pageFAQ").fadeIn();
+		$('#faqTab').removeClass('unselectedtab').addClass( 'selectedtab');
+	},
 	settings: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'settings';
@@ -764,9 +778,10 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				$('#homeTab').removeClass('unselectedtab').addClass('selectedtab');
 		
 			},
-			error : function() {
+			error: function() {
 				alert('There was an error contacting the server.');
 			}
          });
 	}
 });
+

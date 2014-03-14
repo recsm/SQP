@@ -59,7 +59,8 @@ Coders View: {{title}}
 					<li><a href="#home" id="homeTab" class="selectedtab toptabs" >Home</a></li>
 					<li><a href="#questionList" id="questionTab" class="unselectedtab toptabs openQuestionList" >Questions</a></li>
 					<li><a href="#studies" class="unselectedtab toptabs" id="studiesTab">Studies</a></li>
-					<li><a href="mailto:sqp@upf.edu" id="homeTab" class="contact unselectedtab toptabs" >Contact</a></li>
+                    <li><a href="#faq" id="faqTab" class="faq unselectedtab toptabs" >FAQ</a></li>
+                    <li><a href="#about" id="aboutTab" class="about unselectedtab toptabs" >About</a></li>
 				</ul>
 			</div>
 		</div>
@@ -463,7 +464,7 @@ Coders View: {{title}}
 				    	<div style="clear:both"></div>
 				    </div>
 				</div>
-	
+
 			</div>
 			<div class="leftColumn">
 				<div class="leftColumnContent">
@@ -502,7 +503,157 @@ Coders View: {{title}}
 			</div>
 		</div>
 	</div>
-	
+
+		<!-- FAQ View -->
+	<div id="pageFAQ"  class="uiPage">
+            <p class="title0">Frequent Asked Questions while Coding</p>
+
+            <p><a href="#1" class="index">1. Which texts are present in SQP?</a></p>
+            <p><a href="#2" class="index">2. How to code Domain and Concept characteristics?</a></p>
+            <p><a href="#3" class="index">3. How to code Social desirability? And Centrality?</a></p>
+            <p><a href="#4" class="index">4. How is SQP treating batteries of questions?</a></p>
+            <p><a href="#5" class="index">5. How do I code the Don’t know option?</a></p>
+            <p><a href="#6" class="index">6. How do I code the Interviewer instructions?</a></p>
+            <p><a href="#7" class="index">7. How do I code the Show Cards characteristics?</a></p>
+            <p><a href="#8" class="index">8. Balance of the request, the Theoretical range of the scale and Range of scale.</a></p>
+            <p><a href="#9" class="index">9. Correspondence between the labels and the numbers of the scale.</a></p>
+
+        <div id="textContainerFaq">
+            <p id="1" class="textTitle">1. Which texts are present in SQP?</p>
+            <p class="textBody">It is very important to bear in mind that in SQP only the text that is read to or by the respondent will be present. Thus, such texts are the Introduction (if used), the Request for an answer and the Answer options. This means that all instructions to the interviewer or everything, which is not read, to or by the respondent should not be present in the SQP text. However, there will be characteristics that will identify this extra information during the coding process. This is why we suggest having the real questionnaire in hand to detect this missing information in SQP.</p>
+
+            <p id="2" class="textTitle">2. How to code Domain and Concept characteristics?</p>
+            <p class="textBody">The Domain and Concept characteristics are usual to present uncertain decisions. There are many different domains and concepts among which to chose, and the coder can be confused. In order to get the complete definition of each we suggest using the SQP Help screens or the SQP Coding Guideline. The coding is done in two steps and sometimes a better code can be found by choosing another first category. For further explanation we refer to Chapter 2 from Saris and Gallhofer 2007. </p>
+
+            <p id="3" class="textTitle">3. How to code Social desirability? And Centrality?</p>
+            <p class="textBody">The coder must be aware that the Social Desirability characteristic will be specific for the population under study, so cultural and time references must be taken into account. For example, if a coder decides to code a question from ESS Round 1 in Spain he or she must take into account that the survey took place in 2002 and that the respondents where the Spanish population. The sensitivity over questions about political interest may change across time. The same happens with the Centrality characteristic; the coder must place on the mind of the respondents and think if the topic can be central or not in the mind of the survey respondents (e.g. in the mind of the Spanish population in 2002).</p>
+
+            <p id="4" class="textTitle">4. How is SQP treating batteries of questions?</p>
+            <p class="textBody">SQP has a special form to treat the batteries of questions. The request and if applicable the introduction is placed just before the first statement. One has to think of it as the sequence of how it is read to the respondent.
+            <p class="textBody">Example: Battery format in questionnaire ESS Round 6. In ESS Round 6 questions E17 to E21 ask about democracy in the country. </p>
+            <img class="imgFaq4" id="img41" src="/media/img/sqp/faq/4-1.png" />
+            <p class="textBody">The presentation text in SQP for the questions presented in the battery will be as follows:</p>
+            <img class="imgFaq4" id="img42" src="/media/img/sqp/faq/4-2.png" />
+            <img class="imgFaq4" id="img43" src="/media/img/sqp/faq/4-3.png" />
+            <img class="imgFaq4" id="img44" src="/media/img/sqp/faq/4-4.png" />
+            <img class="imgFaq4" id="img45" src="/media/img/sqp/faq/4-5.png" />
+            <img class="imgFaq4" id="img46" src="/media/img/sqp/faq/4-6.png" />
+            <p class="textBody">The understanding of this procedure will matter for the coding of the characteristics: Formulation on the request for an answer and Use of stimulus or statement in the request.</p>
+            <p class="textBody">Following the example, we will say that question E17 is formulated as an indirect request (“Using this card, please tell me to what extent you think each of the following statements applies in [country]…”) with a stimulus or statement present (“National elections in [country] are free and fair”). However, questions E18 to E21 will be coded in the characteristic Formulation of the request for an answer as ‘No request present’ and with a stimulus or statement present (i.e. for E18 the statement is “Voters in [country] discuss politics with people they know before deciding how to vote”, for E19 it is “Different political parties in [country] offer clear alternatives in one another”, and so on). </p>
+
+            <p id="5" class="textTitle">5. How do I code the Don’t know option?</p>
+            <p class="textBody">There are three options to deal with the Don’t know option in a question. The first is to explicitly provide it to the respondent, in this way the don’t know option will be treated as another answer option and will be present in SQP text. However, many studies apply the implicit don’t know option, which is not mentioned to the respondent as an answer option but can be chosen by the interviewer if the respondent does not know how to answer. In this case, it will not appear in the SQP text, however, the coder must code this characteristic as “Don’t know option only registered”. The third case in when the answer options are provided with no don’t know option.</p>
+
+            <p id="6" class="textTitle">6. How do I code the Interviewer instructions?</p>
+            <p class="textBody">The characteristic Interviewer instruction is only present if an interviewer is reading the questionnaire to the respondent. These instructions are not present in SQP because they are not read to the respondent. However, if an interviewer administrated the survey the coder must check the presence of this kind of instructions in the questionnaire.</p>
+
+            <p id="7" class="textTitle">7. How do I code the Show Cards characteristics?</p>
+            <p class="textBody">The Showcard characteristics will imply an interviewer instruction regarding the use of a show card for a question. It will not appear in the SQP text but if a Show card was used the coder will need to code its characteristics (i.e. horizontal or vertical scale, picture provided, numbers or letters before answer options, etc…).</p>
+
+            <p id="8" class="textTitle">8. Balance of the request, the Theoretical range of the scale and Range of scale.</p>
+            <p class="textBody bold">8.1 Poles</p>
+            <p class="textBody">Concepts can have one or two poles (a negative and a positive). It usually depends on the linguistics of each language to have one or two poles of a concept.</p>
+            <ul id="faqList">
+                <li>In <b>Bipolar</b> concepts one would be theoretically able to formulate both poles of the concept in a specific language.  </li>
+                <li><b>Unipolar</b> concepts are those where two poles are not possible to be formulated in a specific language. It that case, it is often used the zero point “pole” as the negative (but it can not be considered as an opposite pole). </li>
+            </ul>
+            <img class="imgFaq8" id="img81" src="/media/img/sqp/faq/8-1.png" />
+            <p class="textBody bold">8.2 Balance of the request</p>
+            <p class="textBody">Sometimes the use of a theoretically bipolar concept does not mean that the request is actually formulated using both poles. These types of requests are leading the responses towards the pole used, omitting the other. The characteristic Balance of the request will capture this effect of the question design in SQP. </p>
+            <img class="imgFaq8" id="img82" src="/media/img/sqp/faq/8-2.png" />
+            <p class="textBody">Example of Balanced request:</p>
+            <p class="textBody tabuled">“Do you like or dislike foreigners?”</p>
+            <p class="textBody tabuled">“Are you satisfied or dissatisfied with the way democracy works in your country?”</p>
+            <p class="textBody">Example of Unbalanced request (leading requests):</p>
+            <p class="textBody tabuled">“Do you dislike foreigners?”</p>
+            <p class="textBody tabuled">“Are you satisfied with the way democracy works in your country?”</p>
+            <p class="textBody">Example of Not applicable balance:</p>
+            <p class="textBody tabuled">“How much time do you spend listening to the radio?”</p>
+            <p class="textBody tabuled">“How often do you go to the cinema?”</p>
+            <p class="textBody bold">8.3 Theoretical range of the scale</p>
+            <p class="textBody">This characteristic identifies if the concept measured in the request is theoretically Bipolar or Unipolar, independently from the formulation used by the researcher in the question.</p>
+            <img class="imgFaq8" id="img83" src="/media/img/sqp/faq/8-3.png" />
+            <p class="textBody">Example of a request Theoretically Bipolar and Balanced:</p>
+            <p class="textBody tabuled">“How satisfied or dissatisfied are you with your life as a whole nowadays?”</p>
+            <p class="textBody">Example of a request Theoretically Bipolar and Unbalanced:</p>
+            <p class="textBody tabuled">“How satisfied are you with your life as a whole nowadays?”</p>
+            <p class="textBody">Example of a request Theoretically Unipolar and Not applicable:</p>
+            <p class="textBody tabuled">“How often do you meet socially with friends, relatives or work colleagues?”</p>
+            <p class="textBody bold">8.4 Range of the scale</p>
+            <ul id="faqList">
+                <li>If the <b>theoretical range</b> of the concept is <b>Bipolar</b>, the range of the scale can be either Bipolar or Unipolar.</li>
+                <li>If the <b>theoretical range</b> of the concept is <b>Unipolar</b>, the range of the scale can only be Unipolar.</li>
+            </ul>
+            <img class="imgFaq8" id="img84" src="/media/img/sqp/faq/8-4.png" />
+            <p class="textBody">Example of a Bipolar scale from a request Theoretically Bipolar and Balanced:</p>
+            <p class="textBody tabuled">“How satisfied or dissatisfied are you with your life as a whole nowadays?</p>
+            <p class="textBody tabuled">0. Completely dissatisfied</p>
+            <p class="textBody tabuled">…</p>
+            <p class="textBody tabuled">10. Completely satisfied”</p>
+            <p class="textBody">Example of a Unipolar scale from a request Theoretically Bipolar and Unbalanced:</p>
+            <p class="textBody tabuled">“How satisfied or not are you with your life as a whole nowadays?</p>
+            <p class="textBody tabuled">0. Not at all satisfied</p>
+            <p class="textBody tabuled">…</p>
+            <p class="textBody tabuled">10. Completely satisfied”</p>
+            <p class="textBody">Example of a Unipolar scale from a request Theoretically Unipolar and Not applicable:</p>
+            <p class="textBody tabuled">“How often do you meet socially with friends, relatives or work colleagues?</p>
+            <p class="textBody tabuled">0. 0. Never</p>
+            <p class="textBody tabuled">1. Less than once a month</p>
+            <p class="textBody tabuled">2. Once a month</p>
+            <p class="textBody tabuled">3. Several times a month</p>
+            <p class="textBody tabuled">4. Once a week</p>
+            <p class="textBody tabuled">5. Several times a week</p>
+            <p class="textBody tabuled">6. Every day”</p>
+
+            <p id="9" class="textTitle">9. Correspondence between the labels and the numbers of the scale.</p>
+            <p class="textBody">The Correspondence characteristic measures the level of relation between the numbers and the labels in a category scale. The numbers ordering the scale should be related to the labels of the categories. Thus, the more negative labels in the categories should be related to the lowest numbers in the scale while the most positive labels should be related to the highest numbers. The better the relationship between numbers and labels, the highest the correspondence. </p>
+            <p class="textBody">The Correspondence of a scale varies depending of its formulation:</p>
+            <ul id="faqList">
+                <li>A scale is <b>Bipolar</b> when the two opposite poles are mentioned in the scale. In bipolar scale there is always a positive and a negative pole.</li>
+                <li>A scale is <b>Unipolar</b> when just one pole is used to form the scale.</li>
+            </ul>
+            <img class="imgFaq9" id="img91" src="/media/img/sqp/faq/9-1.png" />
+            <p class="textBody bold">9.1 Correspondence in Bipolar scales</p>
+            <img class="imgFaq9" id="img92" src="/media/img/sqp/faq/9-2.png" />
+            <p class="textBody bold">9.2 Correspondence in Unipolar scales</p>
+            <img class="imgFaq9" id="img93" src="/media/img/sqp/faq/9-3.png" />
+        </div>
+    </div>
+
+    	<!-- About View -->
+	<div id="pageAbout"  class="uiPage">
+        <div id ="aboutLogo"> <img src="/media/img/logo/RECSM.png" id="imgLogo"/> </div>
+        <div id ="textContainerAbout">
+            <p class="title1">The program SQP 2.0 has been developed by the Research and Expertise Centre for
+Survey Methodology (RECSM) of the Universitat Pompeu Fabra, Barcelona, Spain.</p>
+            <p class="title2">SQP development documentation </p>
+            <p class="quote">Saris, W. E. and Gallhofer, I. N. (2007). Design, evaluation and analysis of questionnaires for
+survey research. Hoboken, Wiley.</p>
+            <p class="quote">Saris, W. E., Oberski, D., Revilla, M., Zavala-Rojas, D., Lilleoja, L., Gallhofer, I., and Gruner,
+T. (2011). The development of the program SQP 2.0 for the prediction of the quality of survey
+questions. RECSM Working Paper 24.<a href="http://www.upf.edu/survey/_pdf/RECSM_wp024.pdf"> [PDF]</a></p>
+            <p class="quote">Saris, W. E. and Gallhofer, I. N. (2014). Design, evaluation and analysis of questionnaires for
+survey research. Second Edition, Hoboken, Wiley.</p>
+            <p class="title2">SQP applicability papers</p>
+            <p class="quote">Saris, W. E. and Castellarnau, A. (forthcoming). Correction for measurement errors in survey
+research. European Social Survey Education Net (ESS EduNet). Available in: <a href="http://essedunet.nsd.uib.no/">ESS Edu Net</a></p>
+            <p class="quote">Thomassen, J. Chapter 5 Opinions about Political Issues. ESS Core Questionnaire
+Development, 117-232. <a href="http://www.europeansocialsurvey.org/docs/methodology/core_ess_questionnaire/ESS_core_questionnaire_political_issues.pdf">[PDF]</a></p>
+            <p class="title2">SQP guidelines repository</p>
+            <ul class="quote">
+                <li class="list">A brief introduction to SQP. <a href="">[PDF]</a></li>
+                <li class="list">SQP Coding Guideline [Add document for downloading]. <a href="">[PDF]</a></li>
+            </ul>
+            <div class="contact">
+                <p class="title2">Contact details</p>
+                <p class="quote">Survey Quality Prediction (SQP 2.0)</p>
+                <p class="quote">Research and Expertise Centre for Survey Methodology</p>
+                <p class="quote">Universitat Pompeu Fabra - Edifici ESCI-Born - Despatxos 19.517-19.527</p>
+                <p class="quote">Passeig Pujades, 1 - 08003 Barcelona</p>
+                <p class="quote">e-mail: sqp@upf.edu</p>
+                <iframe id="maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.3420206939095!2d2.182391255845307!3d41.388378164430094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2fd01dfde15%3A0x82b98040e59d9d1d!2sUPF+-+Born+Bldg%2C+Universitat+Pompeu+Fabra!5e0!3m2!1ses!2s!4v1394712747476" width="600" height="450" frameborder="0" style="border:0"></iframe>
+            </div>
+        </div>
 	<div id='sqpfooter'></div>
 </div>
 {% endblock %}
