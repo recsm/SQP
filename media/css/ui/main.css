@@ -340,9 +340,9 @@ label {
 #sqpheaderinner{
 	
 	background-image: url("/media/img/ui/ui-banner.png");
-    background-position: 0 -16px;
+    background-position: right 0px;
     background-repeat: no-repeat;
-	padding-top: 58px;
+	padding-top: 52px;
 	height: 26px;
 	
 }
