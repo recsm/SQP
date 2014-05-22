@@ -66,7 +66,13 @@ calls = ( {'name'            : 'getAssignedQuestions',
             'method'         : 'GET',
             'user_required'  : True,
             'function'       : views_ui_functions.get_study_list}, 
-            
+
+           {'name'           : 'studyListFitted',
+           'return_type'     : 'payload_meta_success',
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_study_list_fitted},
+
            {'name'           : 'countryList',
             'return_type'     : 'payload_meta_success', 
             'method'         : 'GET',

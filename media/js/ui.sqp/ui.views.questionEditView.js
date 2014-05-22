@@ -345,13 +345,13 @@
 			this.nodes.qEditStudy.append('<option value=""> -- select -- </option>');
 			
 			//Add in options
-			sqpBackbone.shared.studies.each(function(study) {
+			sqpBackbone.shared.studiesfitted.each(function(study) {
 				 if(study.get('id') == view.model.get('studyId')) {
 				 	var selected = 'selected="selected"'
 				 } else {
 				 	var selected = '';
 				 }
-				 view.nodes.qEditStudy.append('<option value="' + study.get('id') + '" ' + selected +'>' + study.get('name') + '</option>');	
+				 view.nodes.qEditStudy.append('<option value="' + study.get('id') + '" ' + selected +'>' + study.get('name') + '</option>');
 			});
 		},
 		renderCountrySelect : function renderCountrySelect() {

@@ -359,7 +359,7 @@ def get_study_list(user):
     #Show studies created by the user (created_by=user)
     #Show sutdies created in the admin (created_by=None)
     #Show studies created by other trusted users (created_by__profile__is_trusted=True)
-    query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True)
+    query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=211)
     
     for study in models.Study.objects.filter(query):
         
@@ -370,6 +370,26 @@ def get_study_list(user):
                                   
     return obj_response_body, {}, SUCCESS
 
+def get_study_list_fitted(user):
+    """
+    Return a list of studies that a user has been assigned to. This should be both global studies, and
+    the users own studies"""
+
+    obj_response_body = []
+
+    #Show studies created by the user (created_by=user)
+    #Show sutdies created in the admin (created_by=None)
+    #Show studies created by other trusted users (created_by__profile__is_trusted=True)
+    query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True)
+
+    for study in models.Study.objects.filter(query):
+
+        obj_response_body.append({'id'      : study.id,
+                                  'name'    : study.name,
+                                  'canEdit' : study.created_by == user,
+                                  'url'     : URL.study(study.id)})
+
+    return obj_response_body, {}, SUCCESS
 
 def get_country_list(user):
     """

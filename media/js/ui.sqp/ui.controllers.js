@@ -5,7 +5,13 @@
 sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	
 	initialize: function(option){
-		
+
+        // Load fitted studies. Doesn't allow insertions of questions in ESS and OldStudies
+        sqpBackbone.shared.studiesfitted = new sqpBackbone.collections.studyListFitted;
+		sqpBackbone.shared.studiesfitted.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));}
+			});
+
 		// Load our studies
 		sqpBackbone.shared.studies = new sqpBackbone.collections.studyList;
 		sqpBackbone.shared.studies.fetch({
