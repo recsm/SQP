@@ -73,7 +73,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
 #    'django.middleware.http.SetRemoteAddrFromForwardedFor',
     'django.middleware.doc.XViewMiddleware',
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
+#    'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 
 AUTH_PROFILE_MODULE = 'sqp.UserProfile'
@@ -91,7 +91,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.markup',
     'django.contrib.humanize',
-    'debug_toolbar',
+#    'debug_toolbar',
     'sqp_project.sqp',
     'south'
 )

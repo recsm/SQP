@@ -1887,7 +1887,7 @@ class UserProfile(models.Model):
 
     user = models.OneToOneField(User, related_name='profile')
     default_characteristic_set = models.ForeignKey(CharacteristicSet)
-    is_trusted = models.BooleanField(help_text="When a user is trusted, their questions will be visible in the question database.")
+    is_trusted = models.BooleanField(help_text="When a user is trusted, their questions will be visible in the question database.", default = True)
 
     def __str__(self):
         return "%s's profile" % self.user

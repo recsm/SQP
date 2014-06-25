@@ -463,11 +463,11 @@ label {
 	z-index:10;
 	width:680px;
 	padding:10px;
-	overflow:hidden;
+	overflow-x:hidden;
+	overflow-y:auto;
 	-moz-box-shadow: 2px 2px 8px #444;
 	-webkit-box-shadow: 2px 2px 8px#444;
 	box-shadow: 2px 2px 8px #444;
-
 }
 
 .questionPreviewQuality {
