@@ -685,7 +685,6 @@ class Question(models.Model):
         #There is no can delete many to many
         return False
 
-
     def can_access(self, user):
 
         """If a user can read or code this question

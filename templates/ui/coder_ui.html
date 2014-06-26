@@ -40,6 +40,8 @@ Coders View: {{title}}
 <!-- Assigned Question List -->
 {% straight_include "icanhaz.assignedQuestionRow.html" %}
 
+<script script type="text/javascript" charset="utf-8"> window.demouser = {%ifequal user.username "demouser" %} true {% else %} false {% endifequal %}</script>
+<script> console.log("{{ user.username }}");</script>
 
 <div id='sqpcontainer'>
 
@@ -47,7 +49,6 @@ Coders View: {{title}}
 	<div id='sqpheader'>
 		<div id="sqpheadertoprow">
 		<div id="userdisplay"> <span id="screenname">You are logged in as:  {%if user.get_full_name %} {{user.get_full_name}} {% else %} {{user.username}} {% endif %} </span></div>
-		
 		<div id="toprowmenu"> 
 		<!--  <a href="#help" id="helplink">Help</a> 
 		  l <a href="#settings" id="settingslink">Settings</a> l -->
@@ -399,7 +400,7 @@ Coders View: {{title}}
 	    	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Study" />
 	    </a>
     	<div class="breadCrumb">
-		    <a href="#">Home</a> 
+		    <a href="#">Home</a>
 	        <span class="breadCrumbSep">&gt;</span>
 			<span class="breadCrumbCurrent">Studies</span>
 	    </div>
@@ -423,6 +424,8 @@ Coders View: {{title}}
     <div id="editStudy" style="display:none;">
     	<label class="blockLabelFloated" for="studyName">Study Name:</label>
 	    <input id="studyName" class="studyName blockValueFloated"></intput>
+        <p style="position: relative;top: 13px;height: 37px;width: 381px;left: 21px;">
+            This should be a real study containing several questions. If you only want to check a single question please logout and use the SQP Demo</p>
 	    <p id="studyNameError" class="inputErrorMessage"></p>
     </div>
     

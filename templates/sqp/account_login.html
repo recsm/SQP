@@ -8,7 +8,9 @@
 	{% if form.has_errors %}
 	<p>Your username and password didn't match. Please try again.</p>
 	{% endif %}
-	
+	<div>
+    {% include "sqp/_inc.login_options_demo.html" %}
+    </div>
 	<div style="float:left;width:48%">
 	<h2>Login</h2>
 	<p>Please login to access the SQP coding system.</p>
@@ -20,9 +22,9 @@
 	<input type="hidden" name="next" value="/loadui/" />
 	</form>
 	<p><a href="/accounts/password-reset/">Lost your password?</a></p>
-	</div>
+
+    </div>
 	{% include "sqp/_inc.login_options.html" %}
 	</div>
 
-	
 {% endblock %}

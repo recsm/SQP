@@ -393,7 +393,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		var qNew = new sqpBackbone.views.questionEditView({
 			el: $('#questionNewContainer'),
 			model: new sqpBackbone.models.questionItem({'canEditDetails' : true,
-			                                            'canEditText' : true})
+			                                            'canEditText' : true,
+                                                        'demoUser' : window.demouser})
 		});
 	},
 	editCharacteristic: function(characteristicId, questionId){
