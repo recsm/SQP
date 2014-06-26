@@ -1,0 +1,16 @@
+<div style="float:left;width:94%;margin-bottom: 30px;">
+	<h2>SQP Demo</h2>
+	<p>Demo environment for non users and testing.</p>
+   	<p>If you are just interested in testing the system or learning how SQP works, please click on the <i>Demo login
+        button</i>. This demo has full functional possibilities of SQP.</p>
+	<form method="post" >
+	{% csrf_token %}
+	    <div class="submit_block">
+            <input type="hidden" id="id_username" name="username" value="demouser">
+            <input type="hidden" id="id_password" name="password" value="demouser">
+	    </div>
+        <input type="submit" value="Demo Login" style="float:right;position: relative;bottom: 15px;" />
+	    <input type="hidden" name="next" value="/loadui/" />
+	</form></p>
+</div>
+
