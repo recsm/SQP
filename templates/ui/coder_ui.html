@@ -41,7 +41,6 @@ Coders View: {{title}}
 {% straight_include "icanhaz.assignedQuestionRow.html" %}
 
 <script script type="text/javascript" charset="utf-8"> window.demouser = {%ifequal user.username "demouser" %} true {% else %} false {% endifequal %}</script>
-<script> console.log("{{ user.username }}");</script>
 
 <div id='sqpcontainer'>
 
@@ -395,10 +394,12 @@ Coders View: {{title}}
 	
 	<!-- Study List View -->
 	<div id="pageStudies"  class="uiPage">
+        {% if demoUser %}
 	 	<a class="studyListAddNew hlinkclass">
 	    	Add New Study
 	    	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Study" />
 	    </a>
+        {% endif %}
     	<div class="breadCrumb">
 		    <a href="#">Home</a>
 	        <span class="breadCrumbSep">&gt;</span>
@@ -422,10 +423,11 @@ Coders View: {{title}}
     
     <!-- Add / Edit Study Dialog View -->
     <div id="editStudy" style="display:none;">
-    	<label class="blockLabelFloated" for="studyName">Study Name:</label>
-	    <input id="studyName" class="studyName blockValueFloated"></intput>
-        <p style="position: relative;top: 13px;height: 37px;width: 381px;left: 21px;">
-            This should be a real study containing several questions. If you only want to check a single question please logout and use the SQP Demo</p>
+    	<label class="blockLabelFloated" for="studyName" style="position: relative;top: 35px;left: 60px;">Study Name:</label>
+	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 35px;">
+        <p style="position: relative;top: -36px;height: 37px;width: 381px;left: 21px;">
+            This should be a real study containing several questions. If you only want to check a single question please
+            <a style="color: red;font-weight: bold;">logout</a> and use the SQP Demo</p>
 	    <p id="studyNameError" class="inputErrorMessage"></p>
     </div>
     
