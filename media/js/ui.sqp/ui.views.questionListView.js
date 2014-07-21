@@ -108,7 +108,7 @@
 	  	events: {
 			
 			//Search selects
-			"change .qListStudy"         : "updateSearch",
+			"change .qListStudy"        : "updateSearch",
 			"change .qListCountry"		: "updateSearch",
 			"change .qListLanguage"		: "updateSearch",
 			
@@ -393,7 +393,9 @@
 		renderStudySelect : function renderStudySelect() {
 			var view = this;
 			this.nodes.qListStudy.children().remove();
-			this.nodes.qListStudy.append('<option value="all">All Studies</option>');
+            if(!window.demouser) {
+                this.nodes.qListStudy.append('<option value="all">All Studies</option>');
+            }
 			//Add in options
 			sqpBackbone.shared.studies.each(function(study) {
 				 view.nodes.qListStudy.append('<option value="' + study.get('id') + '">' + study.get('name') + '</option>');	

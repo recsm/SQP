@@ -360,7 +360,10 @@ def get_study_list(user):
     #Show sutdies created in the admin (created_by=None)
     #Show studies created by other trusted users (created_by__profile__is_trusted=True)
     # User 211 is RECSM and 1121 is the demouser, both must be seen in studies list beside be not trusted
-    query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=211) | Q(created_by=1121)
+    if user.username == 'demouser':
+        query = Q(created_by=user)
+    else:
+        query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=211)
     
     for study in models.Study.objects.filter(query):
         
@@ -386,7 +389,7 @@ def get_study_list_fitted(user):
     if user.username == 'demouser':
         query = Q(created_by=user)
     else:
-        query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=1121)
+        query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True)
 
     for study in models.Study.objects.filter(query):
 

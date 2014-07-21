@@ -394,12 +394,10 @@ Coders View: {{title}}
 	
 	<!-- Study List View -->
 	<div id="pageStudies"  class="uiPage">
-        {% if demoUser %}
-	 	<a class="studyListAddNew hlinkclass">
+            <a class="studyListAddNew hlinkclass">
 	    	Add New Study
 	    	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Study" />
-	    </a>
-        {% endif %}
+	        </a>
     	<div class="breadCrumb">
 		    <a href="#">Home</a>
 	        <span class="breadCrumbSep">&gt;</span>
@@ -423,12 +421,18 @@ Coders View: {{title}}
     
     <!-- Add / Edit Study Dialog View -->
     <div id="editStudy" style="display:none;">
+        {% ifnotequal user.username "demouser" %}
     	<label class="blockLabelFloated" for="studyName" style="position: relative;top: 35px;left: 60px;">Study Name:</label>
 	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 35px;">
         <p style="position: relative;top: -36px;height: 37px;width: 381px;left: 21px;">
             This should be a real study containing several questions. If you only want to check a single question please
-            <a style="color: red;font-weight: bold;">logout</a> and use the SQP Demo</p>
-	    <p id="studyNameError" class="inputErrorMessage"></p>
+            <a href="../accounts/login/?next=/loadui/" style="color: red;font-weight: bold;">logout</a> and use the SQP Demo</p>
+
+        {% else %}
+        <label class="blockLabelFloated" for="studyName" style="position: relative;top: 20px;left: 60px;">Study Name:</label>
+	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 20px;">
+        {% endifnotequal %}
+        <p id="studyNameError" class="inputErrorMessage"></p>
     </div>
     
     
@@ -477,7 +481,7 @@ Coders View: {{title}}
 					    <h4 class="blockHeader">My Questions and Studies Overview</h4>
 					    <div class="blockContent">
 					    	<h3>Create your own Questions and get a Quality Prediction</h3>
-					    	<p>SQP - The Survey Quality Predictor program gives you the possibility to create your own questions and get quality, reliability, and validity predictions for your questions. 
+					    	<p>SQP - The Survey Quality Predictor program gives you the possibility to create your own questions and get quality, reliability, and validity predictions for your questions.
 					    	The SQP program is also able to recommend potential improvements to your questions after they are fully coded.</p>
 					    	<p>
 					    	  <a href="#question/new" class="qlistAddNew" style="float:none;,margin:0px;">
