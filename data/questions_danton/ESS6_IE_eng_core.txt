@@ -1,0 +1,50 @@
+B32 
+{QUESTION}
+Would you say it is generally bad or good for Ireland's economy that people come to live here from other countries? Please use this card. 
+
+{ANSWERS}
+00 Bad for the economy 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Good for the economy 
+
+B33
+{QUESTION}
+And, using this card, would you say that Ireland's cultural life is generally undermined or enriched by people coming to live here from other countries? 
+
+{ANSWERS}
+00 Cultural life undermined 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Cultural life enriched
+
+B34 
+{QUESTION}
+Is Ireland made a worse or a better place to live by people coming to live here from other countries? Please use this card.
+
+{ANSWERS}
+00 Worse place to live 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Better place to live

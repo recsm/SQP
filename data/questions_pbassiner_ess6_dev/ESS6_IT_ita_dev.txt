@@ -1,0 +1,95 @@
+F15
+{QUESTION}
+Qual è il titolo di studio più elevato che Lei ha conseguito? Usi questo cartellino.
+
+{ANSWERS}
+1. Senza titolo
+2. Licenza elementare
+3. Avviamento professionale
+4. Licenza media
+5. Qualifica professionale regionale post-obbligo
+6. Diploma di qualifica di istituto professionale (2 o 3 anni), compreso diploma di maestro d'arte, diploma di Scuola magistrale e qualifica di infermiere (vecchio ordinamento)
+7. Diploma di scuola media superiore (5 anni), istituto tecnico o professionale, compreso il diploma quinquennale dell'Istituto d’arte.
+8. Diploma di scuola media superiore (4 o 5 anni), liceo classico, scientifico, linguistico o psico-pedagogico, musicale, compresi i diplomi di maturità magistrale e artística
+9. Specializzazione post-diploma, qualifica professionale regionale post-diploma, certificato di specializzazione tecnica superior
+10. Diploma universitario vecchio ordinamento (2 o 3 anni), compresi diplomi ISEF, di servizio sociale e di statistica
+11. Diploma di istruzione terziaria non universitaria: conservatorio di musica, Accademia di Belle Arti e simili
+12. Laurea triennale o di primo livello
+13. Master di 1° livello
+14. Laurea vecchio ordinamento, laurea specialistica o magistrale, laurea a ciclo único
+15. Master di 2° livello
+16. Specializzazioni post laurea magistrale (1 o 2 anni)
+17. Specializzazioni post laurea magistrale (3 o 4 anni), comprese le specializzazioni mediche
+18. Dottorato di ricerca
+
+F44
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto dal Suo coniuge/partner? Usi questo cartellino.
+
+{ANSWERS}
+1. Senza titolo
+2. Licenza elementare
+3. Avviamento professionale
+4. Licenza media
+5. Qualifica professionale regionale post-obbligo
+6. Diploma di qualifica di istituto professionale (2 o 3 anni), compreso diploma di maestro d'arte, diploma di Scuola magistrale e qualifica di infermiere (vecchio ordinamento)
+7. Diploma di scuola media superiore (5 anni), istituto tecnico o professionale, compreso il diploma quinquennale dell'Istituto d’arte.
+8. Diploma di scuola media superiore (4 o 5 anni), liceo classico, scientifico, linguistico o psico-pedagogico, musicale, compresi i diplomi di maturità magistrale e artística
+9. Specializzazione post-diploma, qualifica professionale regionale post-diploma, certificato di specializzazione tecnica superior
+10. Diploma universitario vecchio ordinamento (2 o 3 anni), compresi diplomi ISEF, di servizio sociale e di statistica
+11. Diploma di istruzione terziaria non universitaria: conservatorio di musica, Accademia di Belle Arti e simili
+12. Laurea triennale o di primo livello
+13. Master di 1° livello
+14. Laurea vecchio ordinamento, laurea specialistica o magistrale, laurea a ciclo único
+15. Master di 2° livello
+16. Specializzazioni post laurea magistrale (1 o 2 anni)
+17. Specializzazioni post laurea magistrale (3 o 4 anni), comprese le specializzazioni mediche
+18. Dottorato di ricerca
+
+F52
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto da suo padre? Usi questo cartellino.
+
+{ANSWERS}
+1 Senza titolo
+2 Licenza elementare 
+3 Avviamento professionale
+4 Licenza media
+5 Qualifica professionale regionale post-obbligo
+6 Diploma di qualifica di istituto professionale (2 o 3 anni), compreso diploma di maestro d'arte,  diploma di Scuola magistrale e qualifica di infermiere (vecchio ordinamento).
+7 Diploma di scuola media superiore (5 anni), istituto tecnico o professionale, compreso il diploma quinquennale dell'Istituto d’arte. 
+8 Diploma di scuola media superiore (4 o 5 anni), liceo classico, scientifico, linguistico o psicopedagogico, musicale, compresi i diplomi di maturità magistrale e artistica 
+9 Specializzazione post-diploma, qualifica professionale regionale post-diploma, certificato di specializzazione tecnica superiore 
+10 Diploma universitario vecchio ordinamento (2 o 3 anni), compresi diplomi ISEF, di servizio sociale e di statistica
+11 Diploma di istruzione terziaria non universitaria: conservatorio di musica, Accademia di Belle Arti e simili
+12 Laurea triennale o di primo livello
+13 Master di 1° livello
+14 Laurea vecchio ordinamento, laurea specialistica o magistrale, laurea a ciclo único
+15 Master di 2° livello
+16 Specializzazioni post laurea magistrale (1 o 2 anni)
+17 Specializzazioni post laurea magistrale (3 o 4 anni), comprese le specializzazioni mediche
+18 Dottorato di ricerca
+
+F56
+{QUESTION}
+Qual è il livello di istruzione più elevato raggiunto da sua madre? Usi questo cartellino.
+
+{ANSWERS}
+1 Senza titolo
+2 Licenza elementare 
+3 Avviamento professionale
+4 Licenza media
+5 Qualifica professionale regionale post-obbligo
+6 Diploma di qualifica di istituto professionale (2 o 3 anni), compreso diploma di maestro d'arte, diploma di Scuola magistrale e qualifica di infermiere (vecchio ordinamento).
+7 Diploma di scuola media superiore (5 anni), istituto tecnico o professionale, compreso il diploma quinquennale dell'Istituto d’arte. 
+8 Diploma di scuola media superiore (4 o 5 anni), liceo classico, scientifico, linguistico o psicopedagogico, musicale, compresi i diplomi di maturità magistrale e artistica 
+9 Specializzazione post-diploma, qualifica professionale regionale post-diploma, certificato di specializzazione tecnica superiore 
+10 Diploma universitario vecchio ordinamento (2 o 3 anni), compresi diplomi ISEF, di servizio sociale e di statistica
+11 Diploma di istruzione terziaria non universitaria: conservatorio di musica, Accademia di Belle Arti e simili
+12 Laurea triennale o di primo livello
+13 Master di 1° livello
+14 Laurea vecchio ordinamento, laurea specialistica o magistrale, laurea a ciclo único
+15 Master di 2° livello
+16 Specializzazioni post laurea magistrale (1 o 2 anni)
+17 Specializzazioni post laurea magistrale (3 o 4 anni), comprese le specializzazioni mediche
+18 Dottorato di ricerca

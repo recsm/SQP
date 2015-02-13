@@ -1,0 +1,87 @@
+﻿F15
+{QUESTION}
+Hvert er hæsta stig menntunar sem þú hefur lokið? 
+
+{ANSWERS}
+1 Barnaskólastigi ekki lokið
+2 Barnaskólapróf (til u.þ.b. 12 ára)
+3 Unglingapróf (til u.þ.b. 14 ára)
+4 Grunnskólapróf, gagnfræðapróf, landspróf
+5 Stutt starfsnám á framhaldsskólastigi (t.d.húsmæðranám, styttra skipstjórnarnám, grunndeildir í iðngreinum, styttra tónlistarnám)
+6 Stúdentspróf, próf frá Háskólabrú, próf úr frumgreinadeild
+7 Iðnnám
+8 Lengra starfsnám á framhaldsskólastigi (t.d. sjúkraliðanám, nuddaranám, verslunarpróf) 
+9 Starfsnám eftir lok framhaldsskólastigs (t.d. 4. stigs skipstjórn eða vélstjórn, læknaritari)
+10 Iðnmeistarar
+11 Stutt hagnýtt nám á háskólastigi, diplóma
+12 Stutt starfsnám á háskólastigi, grunndiplóma, 2-3 ár (t.d. kerfisfræði, rekstrarfræði, tónmennta- og hljóðfærakennarar, tónlistarnám á háskólastigi, listnám á háskólastigi)
+13 Grunnnám í háskóla BA/BS/Bed eða viðbótardiplóma 
+14 Nám í háskóla sem er lengra en 4 ár en þó til 1. háskólagráðu, s.s. læknisfræði, lögfræði, lyfjafræði, guðfræði, tannlæknisfræði.
+15 Meistaranám MA/MS
+16 Doktorspróf PhD
+
+F44
+{QUESTION}
+Hvert er hæsta stig menntunar sem maki þinn hefur lokið? 
+
+{ANSWERS}
+1 Barnaskólastigi ekki lokið
+2 Barnaskólapróf (til u.þ.b. 12 ára)
+3 Unglingapróf (til u.þ.b. 14 ára)
+4 Grunnskólapróf, gagnfræðapróf, landspróf
+5 Stutt starfsnám á framhaldsskólastigi (t.d.húsmæðranám, styttra skipstjórnarnám, grunndeildir í iðngreinum, styttra tónlistarnám)
+6 Stúdentspróf, próf frá Háskólabrú, próf úr frumgreinadeild
+7 Iðnnám
+8 Lengra starfsnám á framhaldsskólastigi (t.d. sjúkraliðanám, nuddaranám, verslunarpróf) 
+9 Starfsnám eftir lok framhaldsskólastigs (t.d. 4. stigs skipstjórn eða vélstjórn, læknaritari)
+10 Iðnmeistarar
+11 Stutt hagnýtt nám á háskólastigi, diplóma
+12 Stutt starfsnám á háskólastigi, grunndiplóma, 2-3 ár (t.d. kerfisfræði, rekstrarfræði, tónmennta- og hljóðfærakennarar, tónlistarnám á háskólastigi, listnám á háskólastigi)
+13 Grunnnám í háskóla BA/BS/Bed eða viðbótardiplóma 
+14 Nám í háskóla sem er lengra en 4 ár en þó til 1. háskólagráðu, s.s. læknisfræði, lögfræði, lyfjafræði, guðfræði, tannlæknisfræði.
+15 Meistaranám MA/MS
+16 Doktorspróf PhD
+
+F52
+{QUESTION}
+Hvert er hæsta stig menntunar sem faðir þinn hefur lokið? 
+
+{ANSWERS}
+1 Barnaskólastigi ekki lokið
+2 Barnaskólapróf (til u.þ.b. 12 ára)
+3 Unglingapróf (til u.þ.b. 14 ára)
+4 Grunnskólapróf, gagnfræðapróf, landspróf
+5 Stutt starfsnám á framhaldsskólastigi (t.d.húsmæðranám, styttra skipstjórnarnám, grunndeildir í iðngreinum, styttra tónlistarnám)
+6 Stúdentspróf, próf frá Háskólabrú, próf úr frumgreinadeild
+7 Iðnnám
+8 Lengra starfsnám á framhaldsskólastigi (t.d. sjúkraliðanám, nuddaranám, verslunarpróf) 
+9 Starfsnám eftir lok framhaldsskólastigs (t.d. 4. stigs skipstjórn eða vélstjórn, læknaritari)
+10 Iðnmeistarar
+11 Stutt hagnýtt nám á háskólastigi, diplóma
+12 Stutt starfsnám á háskólastigi, grunndiplóma, 2-3 ár (t.d. kerfisfræði, rekstrarfræði, tónmennta- og hljóðfærakennarar, tónlistarnám á háskólastigi, listnám á háskólastigi)
+13 Grunnnám í háskóla BA/BS/Bed eða viðbótardiplóma 
+14 Nám í háskóla sem er lengra en 4 ár en þó til 1. háskólagráðu, s.s. læknisfræði, lögfræði, lyfjafræði, guðfræði, tannlæknisfræði.
+15 Meistaranám MA/MS
+16 Doktorspróf PhD
+
+F56
+{QUESTION}
+Hvert er hæsta stig menntunar sem móðir þín hefur lokið? 
+
+{ANSWERS}
+1 Barnaskólastigi ekki lokið
+2 Barnaskólapróf (til u.þ.b. 12 ára)
+3 Unglingapróf (til u.þ.b. 14 ára)
+4 Grunnskólapróf, gagnfræðapróf, landspróf
+5 Stutt starfsnám á framhaldsskólastigi (t.d.húsmæðranám, styttra skipstjórnarnám, grunndeildir í iðngreinum, styttra tónlistarnám)
+6 Stúdentspróf, próf frá Háskólabrú, próf úr frumgreinadeild
+7 Iðnnám
+8 Lengra starfsnám á framhaldsskólastigi (t.d. sjúkraliðanám, nuddaranám, verslunarpróf) 
+9 Starfsnám eftir lok framhaldsskólastigs (t.d. 4. stigs skipstjórn eða vélstjórn, læknaritari)
+10 Iðnmeistarar
+11 Stutt hagnýtt nám á háskólastigi, diplóma
+12 Stutt starfsnám á háskólastigi, grunndiplóma, 2-3 ár (t.d. kerfisfræði, rekstrarfræði, tónmennta- og hljóðfærakennarar, tónlistarnám á háskólastigi, listnám á háskólastigi)
+13 Grunnnám í háskóla BA/BS/Bed eða viðbótardiplóma 
+14 Nám í háskóla sem er lengra en 4 ár en þó til 1. háskólagráðu, s.s. læknisfræði, lögfræði, lyfjafræði, guðfræði, tannlæknisfræði.
+15 Meistaranám MA/MS
+16 Doktorspróf PhD

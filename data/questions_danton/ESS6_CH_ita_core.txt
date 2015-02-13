@@ -1,0 +1,50 @@
+B32
+{QUESTION}
+Secondo lei, per l'economia svizzera è in generale un bene o un male che gente di altri paesi venga a vivere qui? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Un male per l'economia
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Un bene per l'economia
+
+B33
+{QUESTION}
+E utilizzando questa scheda, direbbe che la cultura svizzera viene in generale impoverita opiuttosto arricchita dalla gente proveniente da altri paesi che viene a stabilirsi qui?
+
+{ANSWERS}
+0 La vita culturale si impoverisce
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 La vita culturale si arricchisce
+
+B34
+{QUESTION}
+Secondo lei, la gente che viene dall'estero a stabilirsi qui rende la vita in Svizzera migliore o peggiore? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Peggiore
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Migliore

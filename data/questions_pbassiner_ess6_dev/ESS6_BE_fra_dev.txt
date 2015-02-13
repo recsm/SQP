@@ -1,0 +1,74 @@
+﻿F15
+{QUESTION}
+Quel est le plus haut niveau de formation que vous avez terminé ? Veuillez utiliser cette carte 
+{ANSWERS}
+000 Aucun diplôme - N'a pas achevé l'enseignement primaire.
+113 Ecole primaire uniquement, certificat d'études de base (CEB) ou primaire 
+222 Diplômé de l'enseignement secondaire inférieur technique et professionnel. 
+313 Certificat d'enseignement secondaire supérieur général ou technique de transition.
+321 Certificat de qualification de l'enseignement professionnel 
+323 Certificat de qualification de l'enseignement technique ou artistique. 413 Année préparatoire à l'enseignement supérieur 
+421 7ème année de l'enseignement secondaire professionnel et technique de qualification; Diplôme de formation des chefs d'entreprise.
+423 7ème année de l'enseignement secondaire professionnel permettant d'obtenir le certificat d'enseignement secondaire supérieur 
+610 Baccalauréat professionnalisant, diplôme de l'enseignement supérieur de type court (gradués, régents, instituteurs). Diplômes complémentaires de l'enseignement supérieur de type court; Enseignement artistique supérieur de type court. 
+620 Diplôme de candidature universitaire ou bachelier universitaire 
+710a Diplôme de l'enseignement supérieur de type long (non universitaire); Diplôme d'ingénieur industriel (niveau universitaire) 710b Master complémentaire et diplôme complémentaire après une formation d'ingénieur industriel (niveau universitaire)
+720a Licence universitaire, master universitaire, ingénieur civil, docteur en médecine, docteur en médecine vétérinaire, pharmacien ; 720b Maîtrise après une licence, DEA, DES, Master complémentaire; Agrégation
+800 Doctorat avec thèse
+
+F44
+{QUESTION}
+Quel est le plus haut niveau de formation que votre époux(se) ou partenaire ait achevé? Veuillez utiliser cette carte. 
+
+{ANSWERS}
+000 Aucun diplôme - N'a pas achevé l'enseignement primaire.
+113 Ecole primaire uniquement, certificat d'études de base (CEB) ou primaire 
+222 Diplômé de l'enseignement secondaire inférieur technique et professionnel. 
+313 Certificat d'enseignement secondaire supérieur général ou technique de transition.
+321 Certificat de qualification de l'enseignement professionnel 
+323 Certificat de qualification de l'enseignement technique ou artistique. 413 Année préparatoire à l'enseignement supérieur 
+421 7ème année de l'enseignement secondaire professionnel et technique de qualification; Diplôme de formation des chefs d'entreprise.
+423 7ème année de l'enseignement secondaire professionnel permettant d'obtenir le certificat d'enseignement secondaire supérieur 
+610 Baccalauréat professionnalisant, diplôme de l'enseignement supérieur de type court (gradués, régents, instituteurs). Diplômes complémentaires de l'enseignement supérieur de type court; Enseignement artistique supérieur de type court. 
+620 Diplôme de candidature universitaire ou bachelier universitaire 
+710a Diplôme de l'enseignement supérieur de type long (non universitaire); Diplôme d'ingénieur industriel (niveau universitaire) 710b Master complémentaire et diplôme complémentaire après une formation d'ingénieur industriel (niveau universitaire)
+720a Licence universitaire, master universitaire, ingénieur civil, docteur en médecine, docteur en médecine vétérinaire, pharmacien ; 720b Maîtrise après une licence, DEA, DES, Master complémentaire; Agrégation
+800 Doctorat avec thèse
+
+F52
+{QUESTION}
+Quel est le plus haut niveau de formation que votre père ait achevé? Veuillez utiliser cette carte. 
+
+
+{ANSWERS}
+000 Aucun diplôme - N'a pas achevé l'enseignement primaire.
+113 Ecole primaire uniquement, certificat d'études de base (CEB) ou primaire 
+222 Diplômé de l'enseignement secondaire inférieur technique et professionnel. 
+313 Certificat d'enseignement secondaire supérieur général ou technique de transition.
+321 Certificat de qualification de l'enseignement professionnel 
+323 Certificat de qualification de l'enseignement technique ou artistique. 
+413 Année préparatoire à l'enseignement supérieur 
+421 7ème année de l'enseignement secondaire professionnel et technique de qualification; Diplôme de formation des chefs d'entreprise.
+423 7ème année de l'enseignement secondaire professionnel permettant d'obtenir le certificat d'enseignement secondaire supérieur 
+610 Baccalauréat professionnalisant, diplôme de l'enseignement supérieur de type court (gradués, régents, instituteurs). Diplômes complémentaires de l'enseignement supérieur de type court; Enseignement artistique supérieur de type court. 
+620 Diplôme de candidature universitaire ou bachelier universitaire 
+710a Diplôme de l'enseignement supérieur de type long (non universitaire); Diplôme d'ingénieur industriel (niveau universitaire) 710b Master complémentaire et diplôme complémentaire après une formation d'ingénieur industriel (niveau universitaire)
+720a Licence universitaire, master universitaire, ingénieur civil, docteur en médecine, docteur en médecine vétérinaire, pharmacien ; 720b Maîtrise après une licence, DEA, DES, Master complémentaire; Agrégation
+800 Doctorat avec thèse
+
+F56
+{QUESTION}
+Quel est le plus haut niveau de formation que votre mère a terminé ? Veuillez utiliser cette carte. {ANSWERS}
+000 Aucun diplôme - N'a pas achevé l'enseignement primaire.
+113 Ecole primaire uniquement, certificat d'études de base (CEB) ou primaire 
+222 Diplômé de l'enseignement secondaire inférieur technique et professionnel. 
+313 Certificat d'enseignement secondaire supérieur général ou technique de transition.
+321 Certificat de qualification de l'enseignement professionnel 
+323 Certificat de qualification de l'enseignement technique ou artistique. 413 Année préparatoire à l'enseignement supérieur 
+421 7ème année de l'enseignement secondaire professionnel et technique de qualification; Diplôme de formation des chefs d'entreprise.
+423 7ème année de l'enseignement secondaire professionnel permettant d'obtenir le certificat d'enseignement secondaire supérieur 
+610 Baccalauréat professionnalisant, diplôme de l'enseignement supérieur de type court (gradués, régents, instituteurs). Diplômes complémentaires de l'enseignement supérieur de type court; Enseignement artistique supérieur de type court. 
+620 Diplôme de candidature universitaire ou bachelier universitaire 
+710a Diplôme de l'enseignement supérieur de type long (non universitaire); Diplôme d'ingénieur industriel (niveau universitaire) 710b Master complémentaire et diplôme complémentaire après une formation d'ingénieur industriel (niveau universitaire)
+720a Licence universitaire, master universitaire, ingénieur civil, docteur en médecine, docteur en médecine vétérinaire, pharmacien ; 720b Maîtrise après une licence, DEA, DES, Master complémentaire; Agrégation
+800 Doctorat avec thèse

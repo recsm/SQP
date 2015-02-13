@@ -1,0 +1,503 @@
+IF1
+{INTRO}
+De första frågorna gäller hur Ni känner det om Er själv och Ert liv.
+
+{QUESTION}
+Hur intresserad Ni tycker att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS INTRESSERAD 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 EXTREMT INTRESSERAD
+
+IF2
+{QUESTION}
+Hur uppslukad Ni tycker att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS UPPSLUKAD 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 HELT UPPSLUKAD
+
+IF3
+{QUESTION}
+Hur entusiastisk Ni tycker att Ni vanligen är över det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS ENTUSIASTISK 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 HELT ENTUSIASTISK
+
+IF4
+{INTRO}
+Nu läser jag upp en lista över olika sätt Ni kan ha känt Er eller uppfört Er på under den senaste veckan.
+
+{QUESTION}
+Hur stor del av tiden under den senaste veckan: Ni kände Er deprimerad?
+
+{ANSWERS}
+0 ALDRIG ELLER NÄSTAN ALDRIG
+1
+2
+3 ALLTID ELLER NÄSTAN ALLTID
+
+IF5
+{QUESTION}
+Ni sov oroligt?
+
+{ANSWERS}
+0 ALDRIG ELLER NÄSTAN ALDRIG
+1
+2
+3 ALLTID ELLER NÄSTAN ALLTID
+
+IF6
+{QUESTION}
+Ni kände Er ensam?
+
+{ANSWERS}
+0 ALDRIG ELLER NÄSTAN ALDRIG
+1
+2
+3 ALLTID ELLER NÄSTAN ALLTID
+
+IF7
+{INTRO}
+Nu ställer jag ett antal frågor om hur Ni tycker demokrati fungerar i Finland idag
+
+{QUESTION}
+Hur ofta Ni tycker att oppositionspartierna i Finland fritt får kritisera regeringen?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF8
+{QUESTION}
+Tala om hur ofta Ni tycker att medierna i Finland fritt får kritisera regeringen?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF9
+{QUESTION}
+Tala om hur ofta Ni tycker att medierna i Finland förser medborgarna med tillförlitlig information för att bedöma regeringen?
+
+{ANSWERS}
+0 ALDRIG 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF10
+{INTRO}
+De nästa frågorna gäller hur Ni känner det om Er själv och Ert liv.
+
+{QUESTION}
+Hur intresserad Ni tycker att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS INTRESSERAD
+1
+2
+3
+4
+5
+6 EXTREMT INTRESSERAD
+
+IF11
+{QUESTION}
+Hur uppslukad Ni tycker att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS UPPSLUKAD
+1
+2
+3
+4
+5
+6 HELT UPPSLUKAD
+
+IF12
+{QUESTION}
+Hur entusiastisk Ni tycker att Ni vanligen är över det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS ENTUSIASTISK
+1
+2
+3
+4
+5
+6 HELT ENTUSIASTISK
+
+IF13 
+{INTRO}
+Nu följer ett antal frågor om hur Ni kan ha känt Er eller uppfört Er under den senaste veckan:
+
+{QUESTION}
+I vilken utsträckning kände Ni Er deprimerad under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS DEPRIMERAD
+1
+2
+3 EXTREMT DEPRIMERAD
+
+IF14
+{QUESTION}
+I vilken utsträckning sov Ni oroligt under den senaste veckan?
+
+{ANSWERS}
+0 SOV INTE ALLS OROLIGt 
+1
+2
+3 SOV EXTREMT OROLIGT
+
+IF15 
+{QUESTION}
+I vilken utsträckning kände Ni Er ensam under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS ENSAM 
+1
+2
+3 EXTREMT ENSAM
+
+IF16
+{INTRO}
+Till sist ställer jag ett antal frågor om hur Ni tycker demokrati fungerar i Finland idag:
+
+{QUESTION}
+I vilken utsträckning tycker Ni att oppositionspartierna i Finland fritt får kritisera regeringen?
+
+{ANSWERS}
+0 INTE ALLS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF17
+{QUESTION}
+I vilken utsträckning tycker Ni att medierna i Finland fritt får kritisera regeringen?
+
+{ANSWERS}
+0 INTE ALLS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF18
+{QUESTION}
+I vilken utsträckning tycker Ni att medierna i Finland förser medborgarna med tillförlitlig information för att bedöma regeringen?
+
+{ANSWERS}
+0 INTE ALLS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ALLTID
+
+IF19 
+{INTRO}
+De första frågorna gäller människor från andra länder som kommer för att bo i Finland
+
+{QUESTION}
+Skulle Ni säga att det i allmänhet är bra eller dåligt för Finlands ekonomi att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 DÅLIGT FÖR EKONOMIN 
+1
+2
+3
+4
+5
+6 BRA FÖR EKONOMIN
+
+IF20 
+{QUESTION}
+Skulle Ni säga att kulturlivet i Finland i allmänhet undergrävs eller berikas av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 DET KULTURELLA LIVET UNDERGRÄVS
+1
+2
+3
+4
+5
+6 DET KULTURELLA LIVET BERIKAS
+
+IF21
+{QUESTION}
+Blir Finland ett bättre eller sämre land att leva i av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 ETT SÄMRE LAND ATT LEVA I 
+1
+2
+3
+4
+5
+6 ETT BÄTTRE LAND ATT LEVA I
+
+IF22
+{INTRO}
+De följande frågorna gäller hur Ni känner det om Er själv och Ert liv
+
+{QUESTION}
+Hur intresserad tycker Ni att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS INTRESSERAD
+1
+2
+3
+4 EXTREMT INTRESSERAD
+
+IF23
+{QUESTION}
+Hur uppslukad tycker Ni att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS UPPSLUKAD
+1
+2
+3
+4 HELT UPPSLUKAD
+
+IF24 
+{QUESTION}
+Hur entusiastisk tycker Ni att Ni vanligen är över det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS ENTUSIASTISK
+1
+2
+3
+4 HELT ENTUSIASTISK
+
+IF25
+{INTRO}
+De sista frågorna handlar om hur Ni kan ha känt Er eller uppfört Er under den senaste veckan.
+
+{QUESTION}
+I vilken utsträckning kände Ni Er deprimerad under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS DEPRIMERAD
+1
+2
+3
+4
+5
+6
+7
+8
+9 EXTREMT DEPRIMERAD
+
+IF26
+{QUESTION}
+I vilken utsträckning sov Ni oroligt under den senaste veckan?
+
+{ANSWERS}
+0 SOV INTE ALLS OROLIGT 
+1
+2
+3
+4
+5
+6
+7
+8
+9 SOV EXTREMT OROLIGT
+
+IF27
+{QUESTION}
+I vilken utsträckning kände Ni Er ensam under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS ENSAM
+1
+2
+3
+4
+5
+6
+7
+8
+9 EXTREMT ENSAM
+
+IF28
+{INTRO}
+De första frågorna gäller människor från andra länder som kommer för att bo i Finland
+
+{QUESTION}
+Skulle Ni säga att det i allmänhet är bra eller dåligt för Finlands ekonomi att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 DÅLIGT FÖR EKONOMIN
+1
+2
+3
+4 BRA FÖR EKONOMIN
+
+IF29
+{QUESTION}
+Och skulle Ni säga att kulturlivet i Finland i allmänhet undergrävs eller  berikas av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 DET KULTURELLA LIVET UNDERGRÄVS
+1
+2
+3
+4 DET KULTURELLA LIVET BERIKAS
+
+IF30
+{QUESTION}
+Blir Finland ett bättre eller sämre land att leva i av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 ETT SÄMRE LAND ATT LEVA I 
+1
+2
+3
+4 ETT BÄTTRE LAND ATT LEVA I
+
+IF31
+{INTRO}
+De följande frågorna gäller hur Ni känner det om Er själv och Ert liv.
+
+{QUESTION}
+Hur intresserad tycker Ni att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS INTRESSERAD
+1
+2 EXTREMT INTRESSERAD
+
+IF32
+{QUESTION}
+Hur uppslukad tycker Ni att Ni vanligen är av det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS UPPSLUKAD
+1
+2 HELT UPPSLUKAD
+
+IF33
+{QUESTION}
+Hur entusiastisk tycker Ni att Ni vanligen är över det Ni gör?
+
+{ANSWERS}
+0 INTE ALLS ENTUSIASTISK 
+1
+2 HELT ENTUSIASTISK
+
+IF34
+{INTRO}
+De sista frågorna handlar om hur Ni kan ha känt Er eller uppfört Er under den senaste veckan.
+
+{QUESTION}
+I vilken utsträckning kände Ni Er deprimerad under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS DEPRIMERAD 
+1
+2
+3
+4
+5 INTE ALLS DEPRIMERAD 
+
+IF35
+{QUESTION}
+I vilken utsträckning sov Ni oroligt under den senaste veckan?
+
+{ANSWERS}
+0 SOV INTE ALLS OROLIGT
+1
+2
+3
+4
+5 SOV EXTREMT OROLIGT
+
+IF36
+{QUESTION}
+I vilken utsträckning kände Ni Er ensam under den senaste veckan?
+
+{ANSWERS}
+0 INTE ALLS ENSAM
+1
+2
+3
+4
+5 EXTREMT ENSAM

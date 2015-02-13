@@ -1,0 +1,50 @@
+B32
+{QUESTION}
+Diriez-vous que c'est généralement bon ou mauvais pour l'économie suisse que des gens d'autres pays viennent vivre ici? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Mauvais pour l'économie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bon pour l'économie
+
+B33
+{QUESTION}
+Et, à l'aide de cette carte, diriez-vous que la vie culturelle en Suisse est généralement appauvrie ou enrichie par les gens d'autres pays qui viennent vivre ici? 
+
+{ANSWERS}
+0 La vie culturelle est appauvrie
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 La vie culturelle est enrichie
+
+B34
+{QUESTION}
+Est-ce que les gens d'autres pays qui viennent vivre ici rendent la vie en Suisse meilleure ou moins bonne? Je vous prie d'utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Moins bonne
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Meilleure

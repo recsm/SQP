@@ -1,0 +1,72 @@
+F11
+{INTRO}
+This question is about your legal marital status not about who you may or may not be living with. 
+
+{QUESTION}
+Which one of the descriptions on this card describes your legal marital status now? 
+
+{ANSWERS}
+1. Legally married
+2. In a legal civil partnership
+3. Legally separated
+4. Legally divorced / Civil partnership dissolved
+5. Widowed / Civil partner died
+6. None of these (NEVER married or in a legal civil partnership) 
+
+F15a
+{INTRO}
+I am now going to show you two cards showing some different examinations or qualifications. 
+
+{QUESTION}
+Firstly, have you passed any of the examinations on this card? Please choose the section into which your HIGHEST level of education falls.
+
+{ANSWERS}
+1. 2 or more A-levels, S-levels, A2-level, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate.
+2. GNVQ Intermediate 
+3. Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate 
+4. 5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6 
+5. 1-4 GCSEs A*-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate.
+6. Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates). 
+
+F44
+{INTRO}
+I am now going to show you two cards showing some different examinations or qualifications. 
+
+{QUESTION}
+Firstly, has your (insert: wife/husband/partner) passed any of the examinations on this card? Please choose the section into which their HIGHEST level of education falls. 
+
+{ANSWERS}
+1. 2 or more A-levels, S-levels, A2-level, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate.
+2. GNVQ Intermediate 
+3. Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate 4. 5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6 
+5. 1-4 GCSEs A*-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate.
+6. Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates). 
+
+F52a
+{INTRO}
+I am now going to show you two cards showing some different examinations or qualifications. 
+
+{QUESTION}
+Firstly, has your father passed any of the examinations on this card? Please choose the section into which his HIGHEST level of education falls. 
+
+{ANSWERS}
+1. 2 or more A-levels, S-levels, A2-level, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate.
+2. GNVQ Intermediate 
+3 Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate  
+4. 5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6 
+5. 1-4 GCSEs A*-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate.
+6. Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates). 
+
+F56a
+{INTRO}
+I am now going to show you two cards showing some different examinations or qualifications. 
+
+{QUESTION}
+Firstly, has your mother passed any of the examinations on this card? Please choose the Section into which her HIGHEST level of education falls. 
+
+{ANSWERS}
+1. 2 or more A-levels, S-levels, A2-level, Scottish Highers, Scottish SCE/SLC/SUPE at Higher Grade, Scottish Higher School Certificate, Certificate of Sixth Year Studies/Advanced Higher Grade, Welsh Advanced Baccalaureate, Northern Ireland Senior Certificate, International Baccalaureate.
+2. GNVQ Intermediate 
+3. Vocational GCSE, SCOTVEC/SQA National certificate modules/National Courses, BTEC First Certificate 4. 5 or more GCSEs A*-C, CSE Grade 1, GCE O-level Grades A-C or 1-6 
+5 1-4 GCSEs A*-C, GCSE Grades D-G, Short course GCSE, CSE Grades 2-5, GCS O-level Grades D-E or 7-9, Scottish (SCE) Ordinary Bands D-E, Scottish Standard Grades 4-7, Scottish School Leaving Certificate - no grade, Scottish Access 1-3, Scottish Intermediate 1 (below A grade), GNVQ or GSVG Foundation level, Foundation Welsh Baccalaureate.
+6. Skills for Life (including Basic Skills, Key Skills, Entry Level Certificates). 

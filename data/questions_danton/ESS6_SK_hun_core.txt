@@ -1,0 +1,53 @@
+B32
+{QUESTION}
+Mit gondol: rossz vagy jó Szlovákia gazdaságára nézve, ha más országokból származó emberek telepednek le az országban? Használja ezt a válaszlapot.
+
+{ANSWERS}
+0 A gazdaságranézve rossz.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A gazdaságra nézve jó. 
+
+B33
+{QUESTION}
+Mit gondol: általánosságban véve Szlovákia kulturális életét veszélyezteti vagygazdagítja-e, ha más országok lakosi telepednek le itt? Használja a skálát ezen a válaszlapon. 
+
+{ANSWERS}
+0 A kulturális életet   veszélyezteti. 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A kulturális életet gazdagítja. 
+
+B34 
+{QUESTION}
+Ha Szlovákiában más országokból származó emberek telepednek le, rosszabb vagy jobb itt az élet? Használja a skálát ezen a válaszlapon.
+
+
+{ANSWERS}
+0 Rosszabb az élet. 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jobb az élet. 
+
+ 

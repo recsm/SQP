@@ -1,0 +1,50 @@
+B32
+{QUESTION}
+Skulle Ni säga att det i allmänhet är bra eller dåligt för Finlands ekonomi att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 DÅLIGT FÖR EKONOMIN 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 BRA FÖR EKONOMIN
+
+B33
+{QUESTION}
+Tror Ni att kulturlivet i Finland i allmänhet undergrävs eller berikas av att människor från andra länder flyttar till Finland?
+
+{ANSWERS}
+0 DET KULTURELLA LIVET UNDERGRÄVS
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 DET KULTURELLA LIVET BERIKAS
+
+B34
+{QUESTION}
+Blir Finland ett bättre eller sämre land att leva i av att människor från andra länder flyttar hit?
+
+{ANSWERS}
+0 ETT SÄMRE LAND ATT LEVA I
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 ETT BÄTTRE LAND ATT LEVA I

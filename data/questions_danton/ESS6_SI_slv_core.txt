@@ -1,0 +1,51 @@
+﻿B32
+{QUESTION}
+Ali menite, da je na splošno dobro ali slabo za slovensko gospodarstvo, da prihajajo živet k nam priseljenci iz drugih držav? 
+
+{ANSWERS}
+00 slabo za gospodarstvo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 dobro za gospodarstvo 
+
+B33  
+{QUESTION}
+Ali menite, da je kulturno življenje v Sloveniji zaradi priseljencev na splošno ogroženo ali obogateno? 
+
+{ANSWERS}
+00 kulturno življenje je ogroženo 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 kulturno življenje je obogateno
+
+B34
+{QUESTION}
+Ali menite, da je Slovenija zaradi priseljencev iz drugih držav postala slabša ali boljša dežela za bivanje? 
+
+{ANSWERS}
+00 slabša dežela za bivanje 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 boljša dežela za bivanje 
+

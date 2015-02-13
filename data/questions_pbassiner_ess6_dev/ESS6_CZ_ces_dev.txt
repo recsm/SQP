@@ -1,0 +1,28 @@
+F6
+{INTRO}
+Právě jste mi řekl(a), ţe ţijete s manţelem/manţelkou/partnerem/partnerkou.
+
+{QUESTION}
+Který z popisů na kartě charakterizuje váš vztah k němu/ k ní?
+
+{ANSWERS}
+1. Ţenatý/vdaná
+2. V registrovaném partnerství 	
+3. Ţiji v nesezdaném souţití s partnerem opačného pohlaví
+4. Rozvedený/rozvedená
+5. Registrované partnerství bylo zrušeno
+
+F11
+{INTRO}
+Tato otázka se týká vašeho právního rodinného statusu a nikoliv toho, s kým aktuálně ţijete nebo neţijete.
+
+{QUESTION}
+Který z popisů na kartě charakterizuje váš právní rodinný stav v současnosti?
+
+{ANSWERS}
+1. Ţenatý/vdaná
+2. V registrovaném partnerství
+3. Rozvedený/rozvedená
+4. Registrované partnerství bylo zrušeno
+5. Vdovec/vdova, partner(ka) se kterým (kterou) jsem byl(a) registrován(a), zemřel(a)
+6. Svobodný - nikdy ţenatý či vdaná, nikdy v registrovaném partnerství.

@@ -1,0 +1,91 @@
+﻿F15
+{QUESTION}
+Jakie ma P. wykształcenie? Chodzi o ukończoną przez P. szkołę najwyższego szczebla. Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+1 Nieukończona szkoła podstawowa
+2 Świadectwo ukończenia szkoły podstawowej (6-klasowej lub 4-klasowej przed wojną) 
+3 Świadectwo ukończenia szkoły podstawowej 7 lub 8-klasowej
+4 Świadectwo ukończenia gimnazjum
+5 Świadectwo ukończenia szkoły zawodowej lub szkoły przysposobienia rolniczego (bez ukończenia szkoły podstawowej)
+6 Świadectwo ukończenia szkoły zasadniczej zawodowej lub szkoły przysposobienia rolniczego (po wcześniejszym ukończeniu szkoły podstawowej)
+7 Świadectwo ukończenia szkoły zasadniczej zawodowej (po wcześniejszym ukończeniu gimnazjum)  
+8 Świadectwo ukończenia liceum ogólnokształcącego bez matury 
+9 Matura uzyskana w liceum ogólnokształcącym 
+10 Świadectwo ukończenia średniej szkoły zawodowej (technikum, liceum zawodowe, liceum profilowane) lub dyplom technika bez matury
+11 Matura uzyskana w średniej szkole zawodowej (technikum, liceum zawodowe, liceum profilowane)
+12 Dyplom technika lub świadectwo ukończenia szkoły pomaturalnej lub policealnej
+13 Dyplom ukończenia kolegium lub studium nauczycielskiego
+14 Dyplom licencjacki lub dyplom inżynierski 
+15 Dyplom magistra lub dyplom lekarza 
+16 Stopień naukowy doktora, doktora habilitowanego lub tytuł profesora
+17 Inne
+
+F44
+{QUESTION}
+Jakie jest wykształcenie P. męża/ żony/ partnera/ partnerki? Chodzi o ukończoną szkołę najwyższego szczebla. Odpowiadając, proszę posłużyć się tą kartą.
+
+{ANSWERS}
+1 Nieukończona szkoła podstawowa
+2 Świadectwo ukończenia szkoły podstawowej (6-klasowej lub 4-klasowej przed wojną) 
+3 Świadectwo ukończenia szkoły podstawowej 7 lub 8-klasowej
+4 Świadectwo ukończenia gimnazjum
+5 Świadectwo ukończenia szkoły zawodowej lub szkoły przysposobienia rolniczego (bez ukończenia szkoły podstawowej)
+6 Świadectwo ukończenia szkoły zasadniczej zawodowej lub szkoły przysposobienia rolniczego (po wcześniejszym ukończeniu szkoły podstawowej)
+7 Świadectwo ukończenia szkoły zasadniczej zawodowej (po wcześniejszym ukończeniu gimnazjum)  
+8 Świadectwo ukończenia liceum ogólnokształcącego bez matury 
+9 Matura uzyskana w liceum ogólnokształcącym 
+10 Świadectwo ukończenia średniej szkoły zawodowej (technikum, liceum zawodowe, liceum profilowane) lub dyplom technika bez matury
+11 Matura uzyskana w średniej szkole zawodowej (technikum, liceum zawodowe, liceum profilowane)
+12 Dyplom technika lub świadectwo ukończenia szkoły pomaturalnej lub policealnej
+13 Dyplom ukończenia kolegium lub studium nauczycielskiego
+14 Dyplom licencjacki lub dyplom inżynierski 
+15 Dyplom magistra lub dyplom lekarza 
+16 Stopień naukowy doktora, doktora habilitowanego lub tytuł profesora
+17 Inne
+
+F52
+{QUESTION}
+Jakie jest/było wykształcenie P. ojca? Chodzi o ukończoną przez P. ojca szkołę najwyższego szczebla. Odpowiadając, proszę posłużyć się tą kartą. 
+
+{ANSWERS}
+1 Nieukończona szkoła podstawowa
+2 Świadectwo ukończenia szkoły podstawowej (6-klasowej lub 4-klasowej przed wojną) 
+3 Świadectwo ukończenia szkoły podstawowej 7 lub 8-klasowej
+4 Świadectwo ukończenia gimnazjum
+5 Świadectwo ukończenia szkoły zawodowej lub szkoły przysposobienia rolniczego (bez ukończenia szkoły podstawowej)
+6 Świadectwo ukończenia szkoły zasadniczej zawodowej lub szkoły przysposobienia rolniczego (po wcześniejszym ukończeniu szkoły podstawowej)
+7 Świadectwo ukończenia szkoły zasadniczej zawodowej (po wcześniejszym ukończeniu gimnazjum)  
+8 Świadectwo ukończenia liceum ogólnokształcącego bez matury 
+9 Matura uzyskana w liceum ogólnokształcącym 
+10 Świadectwo ukończenia średniej szkoły zawodowej (technikum, liceum zawodowe, liceum profilowane) lub dyplom technika bez matury
+11 Matura uzyskana w średniej szkole zawodowej (technikum, liceum zawodowe, liceum profilowane)
+12 Dyplom technika lub świadectwo ukończenia szkoły pomaturalnej lub policealnej
+13 Dyplom ukończenia kolegium lub studium nauczycielskiego
+14 Dyplom licencjacki lub dyplom inżynierski 
+15 Dyplom magistra lub dyplom lekarza 
+16 Stopień naukowy doktora, doktora habilitowanego lub tytuł profesora
+17 Inne
+
+F56
+{QUESTION}
+akie jest/było wykształcenie P. matki? Chodzi o ukończoną przez P. matkę szkołę najwyższego szczebla. Odpowiadając, proszę posłużyć się tą kartą. 
+
+{ANSWERS}
+1 Nieukończona szkoła podstawowa
+2 Świadectwo ukończenia szkoły podstawowej (6-klasowej lub 4-klasowej przed wojną) 
+3 Świadectwo ukończenia szkoły podstawowej 7 lub 8-klasowej
+4 Świadectwo ukończenia gimnazjum
+5 Świadectwo ukończenia szkoły zawodowej lub szkoły przysposobienia rolniczego (bez ukończenia szkoły podstawowej)
+6 Świadectwo ukończenia szkoły zasadniczej zawodowej lub szkoły przysposobienia rolniczego (po wcześniejszym ukończeniu szkoły podstawowej)
+7 Świadectwo ukończenia szkoły zasadniczej zawodowej (po wcześniejszym ukończeniu gimnazjum)  
+8 Świadectwo ukończenia liceum ogólnokształcącego bez matury 
+9 Matura uzyskana w liceum ogólnokształcącym 
+10 Świadectwo ukończenia średniej szkoły zawodowej (technikum, liceum zawodowe, liceum profilowane) lub dyplom technika bez matury
+11 Matura uzyskana w średniej szkole zawodowej (technikum, liceum zawodowe, liceum profilowane)
+12 Dyplom technika lub świadectwo ukończenia szkoły pomaturalnej lub policealnej
+13 Dyplom ukończenia kolegium lub studium nauczycielskiego
+14 Dyplom licencjacki lub dyplom inżynierski 
+15 Dyplom magistra lub dyplom lekarza 
+16 Stopień naukowy doktora, doktora habilitowanego lub tytuł profesora
+17 Inne

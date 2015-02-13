@@ -1,0 +1,96 @@
+F15
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat u succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+1. Niet voltooid lager onderwijs
+2. Getuigschrift Basisonderwijs
+3. Diploma van het lager beroepsonderwijs; Diploma van het lager technisch onderwijs
+4. Getuigschrift van de eerste graad secundair onderwijs; Diploma van het lager algemeen secundair onderwijs
+5. Studiegetuigschrift van het (hoger) secundair beroepsonderwijs (BSO) na 6e jaar
+6. Studiegetuigschrift van het 7e jaar TSO, KSO of BSO; 4de graad BSO; Diploma 'Ondernemersopleiding'
+7. Diploma van het 7e jaar secundair beroepsonderwijs (BSO)
+8. Diploma van het (hoger) secundair technisch of kunst onderwijs (TSO of KSO)
+9. Diploma van het (hoger) algemeen secundair onderwijs (ASO)
+10. Secundair onderwijs voorbereidend jaar op het hoger onderwijs
+11. Certificaat van schakelprogramma of voorbereidingsprogramma
+12. Diploma hogescholenonderwijs van 1 cyclus: graduaat of professionele bachelor; Voortgezette opleiding volgend op hogescholenonderwijs van 1 cyclus: postgraduaat of bachelor-na-bachelor
+13. Universitair diploma van kandidaat of academische bachelor
+14. Diploma hogescholenonderwijs van 2 cycli: licentiaat of master; Diploma van industrieel ingenieur
+15. Voortgezette opleiding volgend op hogescholenonderwijs van 2 cycli: postgraduaat of master-na-master
+16. Universitair diploma van licentiaat of master; Diploma van doctor, ingenieur (universitair), apotheker, arts
+17. Master-na-master (universiteit); Postgraduaat; Gediplomeerde in de aanvullende studies; Gediplomeerde in de gespecialiseerde studies; Geaggregeerde voor het secundair onderwijs - groep 2
+18. Doctoraat; post-doctoraat
+
+F44
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw echtgeno(o)t(e)/partner succesvol heeft
+beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+1. Niet voltooid lager onderwijs
+2. Getuigschrift Basisonderwijs
+3. Diploma van het lager beroepsonderwijs; Diploma van het lager technisch onderwijs
+4. Getuigschrift van de eerste graad secundair onderwijs; Diploma van het lager algemeen secundair onderwijs
+5. Studiegetuigschrift van het (hoger) secundair beroepsonderwijs (BSO) na 6e  jaar
+6. Studiegetuigschrift van het 7e jaar TSO, KSO of BSO; 4de graad BSO; Diploma 'Ondernemersopleiding'
+7. Diploma van het 7e jaar secundair beroepsonderwijs (BSO)
+8. Diploma van het (hoger) secundair technisch of kunst onderwijs (TSO of KSO)
+9. Diploma van het (hoger) algemeen secundair onderwijs (ASO) 9
+10. Secundair onderwijs voorbereidend jaar op het hoger onderwijs
+11. Certificaat van schakelprogramma of voorbereidingsprogramma
+12. Diploma hogescholenonderwijs van 1 cyclus: graduaat of professionele bachelor; Voortgezette opleiding volgend op hogescholenonderwijs van 1 cyclus: postgraduaat of bachelor-na-bachelor
+13. Universitair diploma van kandidaat of academische bachelor
+14. Diploma hogescholenonderwijs van 2 cycli: licentiaat of master; Diploma van industrieel ingenieur
+15. Voortgezette opleiding volgend op hogescholenonderwijs van 2 cycli: postgraduaat of master-na-master
+16. Universitair diploma van licentiaat of master; Diploma van doctor, ingenieur (universitair), apotheker, arts
+17.  Master-na-master (universiteit); Postgraduaat; Gediplomeerde in de aanvullende studies; Gediplomeerde in de gespecialiseerde studies; Geaggregeerde voor het secundair onderwijs - groep 2
+18. Doctoraat; post-doctoraat
+
+F52
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw vader succesvol heeft beëindigd?  Gebruik deze kaart.
+
+{ANSWERS}
+1. Niet voltooid lager onderwijs
+2. Getuigschrift Basisonderwijs
+3. Diploma van het lager beroepsonderwijs; Diploma van het lager technisch onderwijs
+4. Getuigschrift van de eerste graad secundair onderwijs; Diploma van het lager algemeen secundair onderwijs
+5. Studiegetuigschrift van het (hoger) secundair beroepsonderwijs (BSO) na 6e  jaar
+6. Studiegetuigschrift van het 7e jaar TSO, KSO of BSO; 4de graad BSO; Diploma 'Ondernemersopleiding'
+7. Diploma van het 7e jaar secundair beroepsonderwijs (BSO)
+8. Diploma van het (hoger) secundair technisch of kunst onderwijs (TSO of KSO)
+9. Diploma van het (hoger) algemeen secundair onderwijs (ASO) 9
+10. Secundair onderwijs voorbereidend jaar op het hoger onderwijs
+11. Certificaat van schakelprogramma of voorbereidingsprogramma
+12. Diploma hogescholenonderwijs van 1 cyclus: graduaat of professionele bachelor; Voortgezette opleiding volgend op hogescholenonderwijs van 1 cyclus: postgraduaat of bachelor-na-bachelor
+13. Universitair diploma van kandidaat of academische bachelor
+14. Diploma hogescholenonderwijs van 2 cycli: licentiaat of master; Diploma van industrieel ingenieur
+15. Voortgezette opleiding volgend op hogescholenonderwijs van 2 cycli: postgraduaat of master-na-master
+16. Universitair diploma van licentiaat of master; Diploma van doctor, ingenieur (universitair), apotheker, arts
+17.  Master-na-master (universiteit); Postgraduaat; Gediplomeerde in de aanvullende studies; Gediplomeerde in de gespecialiseerde studies; Geaggregeerde voor het secundair onderwijs - groep 2
+18. Doctoraat; post-doctoraat
+
+F56
+{QUESTION}
+Wat is het hoogste opleidingsniveau dat uw moeder succesvol heeft beëindigd? Gebruik deze kaart.
+
+{ANSWERS}
+1. Niet voltooid lager onderwijs
+2. Getuigschrift Basisonderwijs
+3. Diploma van het lager beroepsonderwijs; Diploma van het lager technisch onderwijs
+4. Getuigschrift van de eerste graad secundair onderwijs; Diploma van het lager algemeen secundair onderwijs
+5. Studiegetuigschrift van het (hoger) secundair beroepsonderwijs (BSO) na 6e  jaar
+6. Studiegetuigschrift van het 7e jaar TSO, KSO of BSO; 4de graad BSO; Diploma 'Ondernemersopleiding'
+7. Diploma van het 7e jaar secundair beroepsonderwijs (BSO)
+8. Diploma van het (hoger) secundair technisch of kunst onderwijs (TSO of KSO)
+9. Diploma van het (hoger) algemeen secundair onderwijs (ASO) 9
+10. Secundair onderwijs voorbereidend jaar op het hoger onderwijs
+11. Certificaat van schakelprogramma of voorbereidingsprogramma
+12. Diploma hogescholenonderwijs van 1 cyclus: graduaat of professionele bachelor; Voortgezette opleiding volgend op hogescholenonderwijs van 1 cyclus: postgraduaat of bachelor-na-bachelor
+13. Universitair diploma van kandidaat of academische bachelor
+14. Diploma hogescholenonderwijs van 2 cycli: licentiaat of master; Diploma van industrieel ingenieur
+15. Voortgezette opleiding volgend op hogescholenonderwijs van 2 cycli: postgraduaat of master-na-master
+16. Universitair diploma van licentiaat of master; Diploma van doctor, ingenieur (universitair), apotheker, arts
+17.  Master-na-master (universiteit); Postgraduaat; Gediplomeerde in de aanvullende studies; Gediplomeerde in de gespecialiseerde studies; Geaggregeerde voor het secundair onderwijs - groep 2
+18. Doctoraat; post-doctoraat

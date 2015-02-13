@@ -1,0 +1,111 @@
+﻿F15
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit? 
+
+{ANSWERS}
+0 Sense estudis 
+1 Estudis primaris sense completar
+2 Certificat d’estudis primaris 
+3 Fins a 5è d’EGB 
+4 Educació primària (LOGSE), Grau elemental de música i dansa 
+5 F.P. d’iniciació 
+6 Batxillerat elemental 
+7 EGB 
+8 ESO 
+9 F.P. d’oficialia
+10 F.P. de 1er grau 
+11 Batxillerat superior, BUP
+12 PREU, COU 
+13 Batxillerat (LOGSE) 
+14 C.F. de grau mitjà (Tècnic mitjà), C.F. de grau mitjà en arts plàstiques i disseny, Grau mitjà de música i dansa 
+15 F.P. mestratge 
+16 F.P. de 2n grau
+17 C.F. de grau superior (Tècnic superior), C.F. de grau superior en escoles d’art 
+18 Peritatge, infermeria, magisteri, assistent social 
+19 Diplomat, enginyer o arquitecte tècnic, 3 anys de llicenciatura, grau (Bolonya), títol superior en disseny 
+20 Llicenciat, enginyer superior, arquitecte, màster (Bolonya), títol superior en música, dansa o art dramàtic 
+21 Doctorat 
+
+F44
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit el seu marit/muller/parella?
+
+{ANSWERS}
+0 Sense estudis 
+1 Estudis primaris sense completar
+2 Certificat d’estudis primaris 
+3 Fins a 5è d’EGB 
+4 Educació primària (LOGSE), Grau elemental de música i dansa 
+5 F.P. d’iniciació 
+6 Batxillerat elemental 
+7 EGB 
+8 ESO 
+9 F.P. d’oficialia
+10 F.P. de 1er grau 
+11 Batxillerat superior, BUP
+12 PREU, COU 
+13 Batxillerat (LOGSE) 
+14 C.F. de grau mitjà (Tècnic mitjà), C.F. de grau mitjà en arts plàstiques i disseny, Grau mitjà de música i dansa 
+15 F.P. mestratge 
+16 F.P. de 2n grau
+17 C.F. de grau superior (Tècnic superior), C.F. de grau superior en escoles d’art 
+18 Peritatge, infermeria, magisteri, assistent social 
+19 Diplomat, enginyer o arquitecte tècnic, 3 anys de llicenciatura, grau (Bolonya), títol superior en disseny 
+20 Llicenciat, enginyer superior, arquitecte, màster (Bolonya), títol superior en música, dansa o art dramàtic 
+21 Doctorat 
+
+F52
+{QUESTION}
+Quin és el nivell d'estudis més alt assolit pel seu pare? 
+
+{ANSWERS}
+0 Sense estudis 
+1 Estudis primaris sense completar
+2 Certificat d’estudis primaris 
+3 Fins a 5è d’EGB 
+4 Educació primària (LOGSE), Grau elemental de música i dansa 
+5 F.P. d’iniciació 
+6 Batxillerat elemental 
+7 EGB 
+8 ESO 
+9 F.P. d’oficialia
+10 F.P. de 1er grau 
+11 Batxillerat superior, BUP
+12 PREU, COU 
+13 Batxillerat (LOGSE) 
+14 C.F. de grau mitjà (Tècnic mitjà), C.F. de grau mitjà en arts plàstiques i disseny, Grau mitjà de música i dansa 
+15 F.P. mestratge 
+16 F.P. de 2n grau
+17 C.F. de grau superior (Tècnic superior), C.F. de grau superior en escoles d’art 
+18 Peritatge, infermeria, magisteri, assistent social 
+19 Diplomat, enginyer o arquitecte tècnic, 3 anys de llicenciatura, grau (Bolonya), títol superior en disseny 
+20 Llicenciat, enginyer superior, arquitecte, màster (Bolonya), títol superior en música, dansa o art dramàtic 
+21 Doctorat 
+
+F56
+{QUESTION}
+Quin és el nivell d'estudis més alt assolit per la seva mare? 
+
+{ANSWERS}
+0 Sense estudis 
+1 Estudis primaris sense completar
+2 Certificat d’estudis primaris 
+3 Fins a 5è d’EGB 
+4 Educació primària (LOGSE), Grau elemental de música i dansa 
+5 F.P. d’iniciació 
+6 Batxillerat elemental 
+7 EGB 
+8 ESO 
+9 F.P. d’oficialia
+10 F.P. de 1er grau 
+11 Batxillerat superior, BUP
+12 PREU, COU 
+13 Batxillerat (LOGSE) 
+14 C.F. de grau mitjà (Tècnic mitjà), C.F. de grau mitjà en arts plàstiques i disseny, Grau mitjà de música i dansa 
+15 F.P. mestratge 
+16 F.P. de 2n grau
+17 C.F. de grau superior (Tècnic superior), C.F. de grau superior en escoles d’art 
+18 Peritatge, infermeria, magisteri, assistent social 
+19 Diplomat, enginyer o arquitecte tècnic, 3 anys de llicenciatura, grau (Bolonya), títol superior en disseny 
+20 Llicenciat, enginyer superior, arquitecte, màster (Bolonya), títol superior en música, dansa o art dramàtic 
+21 Doctorat 

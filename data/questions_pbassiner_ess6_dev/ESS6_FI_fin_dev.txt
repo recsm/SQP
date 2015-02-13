@@ -1,0 +1,28 @@
+F6
+{INTRO}
+Kerroitte, että asutte puolisonne / avopuolisonne kanssa.
+
+{QUESTION}
+Mikä kortin 49 vaihtoehdoista vastaa suhdettanne häneen?
+
+{ANSWERS}
+1. Avioliitto
+2. Rekisteröity parisuhde
+3. Avoliitto
+4. Asumuserossa (yhä virallisesti naimisissa)
+5. Eronnut / Rekisteröity parisuhde purettu
+
+F11
+{INTRO}
+Seuraava kysymys koskee laillista siviilisäätyänne, ei sitä, kenen kanssa asutte.
+
+{QUESTION}
+Mikä kortilla 50 vastaa laillista siviilisäätyänne tällä hetkellä?
+
+{ANSWERS}
+1. Avioliitto
+2. Rekisteröity parisuhde
+3. Asumusero (yhä virallisesti naimisissa)
+4. Eronnut / rekisteröity parisuhde purettu
+5. Leski / rekisteröidyn parisuhteen toinen osapuoli kuollut
+6. Ei mikään edellä mainituista (ei koskaan ollut naimisissa tai rekisteröidyssä parisuhteessa)

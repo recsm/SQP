@@ -1,0 +1,85 @@
+﻿C10
+{QUESTION}
+Und welche Religion oder Konfession war das?
+
+{ANSWERS}
+1 Römisch-Katholisch
+2 Evangelisch/Protestantisch (EKD, ohne Freikirchen)
+21 Eine evangelische Freikirche
+22 Andere protestantische Konfession
+3 Östlich-orthodox
+4 Andere christliche Konfession
+5 Jüdisch
+6 Moslemisch/Islam
+7 Östliche Religionsgemeinschaft (Buddhismus, Hinduismus, Sikh, Shinto, Tao etc.)
+8 Andere, nicht-christliche Religionsgemeinschaft 
+9 Christlich, aber fühlt sich keiner spezifischen Religionsgemeinschaft zugehörig 
+
+C12
+{QUESTION}
+Und welche Religion oder Konfession war das? 
+
+{ANSWERS}
+1 Römisch-Katholisch
+2 Evangelisch/Protestantisch (EKD, ohne Freikirchen)
+21 Eine evangelische Freikirche
+22 Andere protestantische Konfession
+3 Östlich-orthodox
+4 Andere christliche Konfession
+5 Jüdisch
+6 Moslemisch/Islam
+7 Östliche Religionsgemeinschaft (Buddhismus, Hinduismus, Sikh, Shinto, Tao etc.)
+8 Andere, nicht-christliche Religionsgemeinschaft 
+9 Christlich, aber fühlt sich keiner spezifischen Religionsgemeinschaft zugehörig 
+
+F15
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Sie erreicht haben? Bitte sagen Sie es mir anhand von Liste 52.
+
+{ANSWERS}
+0 Grundschule nicht beendet
+1 Grundschule beendet, aber (noch) kein Abschluss einer weiterführenden Schule
+2 Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+3 Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse
+4 Fachhochschulreife (Abschluss einer Fachoberschule etc.)
+5 Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)
+6 Anderer Schulabschluss, und zwar:
+
+F44
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr(e) Ehemann/ Ehefrau/ Partner/ Partnerin erreicht haben? Bitte sagen Sie es mir anhand von Liste 60
+
+{ANSWERS}
+0 Grundschule nicht beendet
+1 Grundschule beendet, aber (noch) kein Abschluss einer weiterführenden Schule
+2 Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+3 Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse
+4 Fachhochschulreife (Abschluss einer Fachoberschule etc.)
+5 Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)
+6 Anderer Schulabschluss, und zwar:
+
+F52
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr Vater erreicht hat? Bitte sagen Sie es mir anhand von Liste 62.
+
+{ANSWERS}
+0 Grundschule nicht beendet
+1 Grundschule beendet, aber (noch) kein Abschluss einer weiterführenden Schule
+2 Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+3 Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse
+4 Fachhochschulreife (Abschluss einer Fachoberschule etc.)
+5 Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)
+6 Anderer Schulabschluss, und zwar:
+
+F56
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihre Mutter erreicht hat? Bitte sagen Sie es mir anhand von Liste 64. 
+
+{ANSWERS}
+ Grundschule nicht beendet
+1 Grundschule beendet, aber (noch) kein Abschluss einer weiterführenden Schule
+2 Volks-/Hauptschulabschluss bzw. Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+3 Mittlere Reife/Realschulabschluss bzw. Polytechnische Oberschule mit Abschluss 10. Klasse
+4 Fachhochschulreife (Abschluss einer Fachoberschule etc.)
+5 Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)
+6 Anderer Schulabschluss, und zwar:

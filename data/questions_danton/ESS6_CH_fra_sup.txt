@@ -1,0 +1,503 @@
+IF1
+{INTRO}
+Les premières questions concernent la manière dont vous vous voyez et percevez votre vie
+
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général intéressé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout interessé/e
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalement interessé/e
+
+IF2
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général absorbé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout absorbé/e
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalement absorbé/e
+
+IF3
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général enthousiasmé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout enthousiasmé/e
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalement enthousiasmé/e
+
+IF4
+{INTRO}
+Je vais maintenant vous lire une liste de sentiments et sensations que vous avez pu éprouver la semaine dernière. 
+
+{QUESTION}
+En utilisant cette carte, veuillez m'indiquer s'il vous est arrivé parfois la semaine dernière ... de vous sentir déprimé/e?
+
+{ANSWERS}
+0 A aucun moment ou presque
+1
+2
+3 Tout le temps ou presque
+
+IF5
+{QUESTION}
+... d'avoir un sommeil agité?
+
+{ANSWERS}
+0 A aucun moment ou presque
+1
+2
+3 Tout le temps ou presque
+
+IF6
+{QUESTION}
+ ... de vous sentir seul/e?
+
+{ANSWERS}
+0 A aucun moment ou presque
+1
+2
+3 Tout le temps ou presque
+
+IF7
+{INTRO}
+Je vais maintenant vous poser quelques questions sur ce que vous pensez du fonctionnement de la démocratie en Suisse aujourd'hui.
+
+{QUESTION}
+A quelle fréquence, d'après vous, arrive-t-il que les partis d'opposition en Suisse soient libres de critiquer le gouvernement? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+IF8
+{QUESTION}
+Veuillez m'indiquer, à quelle fréquence il arrive, d'après vous, que les médias en Suisse soient libres de critiquer le gouvernement. Utilisez la même carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+IF9
+{QUESTION}
+Veuillez m'indiquer, à quelle fréquence il arrive, d'après vous, que les médias en Suisse donnent aux citoyens des informations fiables qui leur permettent d'évaluer le gouvernement. Utilisez la même carte.
+
+{ANSWERS}
+0 Jamais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Toujours
+
+IF10
+{INTRO}
+Les premières questions concernent la manière dont vous vous voyez et percevez votre vie.
+
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général intéressé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout interessé/e
+1
+2
+3
+4
+5
+6 Totalement interessé/e 
+
+IF11
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général absorbé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout absorbé/e
+1
+2
+3
+4
+5
+6 Totalement absorbé/e 
+
+IF12
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général enthousiasmé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout enthousiasmé/e
+1
+2
+3
+4
+5
+6 Totalement enthousiasmé/e 
+
+IF13
+{INTRO}
+Maintenant quelques questions sur des sentiments et sensations que vous avez pu éprouver la semaine dernière. 
+
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e déprimé/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout deprimé/e
+1
+2
+3 Extrêmement déprimé/e
+
+IF14
+{QUESTION}
+Dans quelle mesure votre sommeil a-t-il été agité la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout agité
+1
+2
+3 Extrêmement agité
+
+IF15
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e seul/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout seul/e
+1
+2
+3 Extrêmement seul/e
+
+IF16
+{INTRO}
+Finalement, je vais vous demander ce que vous pensez du fonctionnement de la démocratie en Suisse aujourd'hui
+
+{QUESTION}
+Dans quelle mesure pensez-vous que les partis d'opposition en Suisse sont libres de critiquer le gouvernement? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+IF17
+{QUESTION}
+Dans quelle mesure pensez-vous que les médias en Suisse sont libres de critiquer le gouvernement? Utilisez la même carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+IF18
+{QUESTION}
+Dans quelle mesure pensez-vous que les medias en Suisse donnent aux citoyens des informations fiables qui leur permettent d'évaluer le gouvernement? Utilisez la même carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Complètement
+
+IF19
+{INTRO}
+D'abord, quelques questions concernant les gens d'autres pays qui viennent vivre en Suisse.
+
+{QUESTION}
+Diriez-vous que c'est généralement bon ou mauvais pour l'économie suisse que des gens d'autres pays viennent vivre ici? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Mauvais pour l'économie
+1
+2
+3
+4
+5
+6 Bon pour l'économie
+
+IF20
+{QUESTION}
+Et, à l'aide de cette carte, diriez-vous que la vie culturelle en Suisse est généralement appauvrie ou enrichie par les gens d'autres pays qui viennent vivre ici?
+
+{ANSWERS}
+0 La vie culturelle est appauvrie
+1
+2
+3
+4
+5
+6 La vie culturelle est enrichie
+
+IF21
+{QUESTION}
+Est-ce que les gens d'autres pays qui viennent vivre ici rendent la vie en Suisse meilleure ou moins bonne? Je vous prie d'utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Moins bonne
+1
+2
+3
+4
+5
+6 Meilleure
+
+IF22
+{INTRO}
+Les prochaines questions concernent la manière dont vous vous voyez et percevez votre vie
+
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général intéressé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout interessé/e
+1
+2
+3
+4 Totalement interessé/e
+
+IF23
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général absorbé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout absorbé/e
+1
+2
+3
+4 Totalement absorbé/e
+
+IF24
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général enthousiasmé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout enthousiasmé/e
+1
+2
+3
+4 Totalement enthousiasmé/e
+
+IF25
+{INTRO}
+Les dernières questions concernent des sentiments et sensations que vous avez pu éprouver la semaine dernière.
+
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e déprimé/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout deprimé/e
+1
+2
+3
+4
+5
+6
+7
+8
+9 Extrêmement déprimé/e
+
+IF26
+{QUESTION}
+Dans quelle mesure votre sommeil a-t-il été agité la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout agité
+1
+2
+3
+4
+5
+6
+7
+8
+9 Extrêmement agité
+
+IF27
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e seul/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout seul/e
+1
+2
+3
+4
+5
+6
+7
+8
+9 Extrêmement seul/e
+
+IF28
+{INTRO}
+D'abord, quelques questions concernant les gens d'autres pays qui viennent vivre en Suisse.
+
+{QUESTION}
+Diriez-vous que c'est généralement bon ou mauvais pour l'économie suisse que des gens d'autres pays viennent vivre ici? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Mauvais pour l'économie
+1
+2
+3
+4 Bon pour l'économie
+
+IF29
+{QUESTION}
+Et, à l'aide de cette carte, diriez-vous que la vie culturelle en Suisse est généralement appauvrie ou enrichie par les gens d'autres pays qui viennent vivre ici?
+
+{ANSWERS}
+0 La vie culturelle est appauvrie
+1
+2
+3
+4 La vie culturelle est enrichie
+
+IF30
+{QUESTION}
+Est-ce que les gens d'autres pays qui viennent vivre ici rendent la vie en Suisse meilleure ou moins bonne? Je vous prie d'utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Moins bonne
+1
+2
+3
+4 Meilleure
+
+IF31
+{INTRO}
+Les prochaines questions concernent la manière dont vous vous voyez et percevez votre vie.
+
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général intéressé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout interessé/e
+1
+2 Totalement interessé/e
+
+IF32
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général absorbé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout absorbé/e
+1
+2 Totalement absorbé/e
+
+IF33
+{QUESTION}
+À l'aide de cette carte, veuillez m'indiquer dans quelle mesure vous êtes en général enthousiasmé/e par ce que vous êtes en train de faire.
+
+{ANSWERS}
+0 Pas du tout enthousiasmé/e
+1
+2 Totalement enthousiasmé/e
+
+IF34
+{INTRO}
+Les dernier questions concernent des sentiments et sensations que vous avez pu éprouver la semaine dernière.
+
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e déprimé/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout deprimé/e
+1
+2
+3
+4
+5 Extrêmement déprimé/e
+
+IF35
+{QUESTION}
+Dans quelle mesure votre sommeil a-t-il été agité la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout agité
+1
+2
+3
+4
+5 Extrêmement agité
+
+IF36
+{QUESTION}
+Dans quelle mesure vous êtes-vous senti/e seul/e la semaine dernière?
+
+{ANSWERS}
+0 Pas du tout seul/e
+1
+2
+3 
+4
+5 Extrêmement seul/e

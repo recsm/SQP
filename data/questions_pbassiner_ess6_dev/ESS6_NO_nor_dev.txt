@@ -1,0 +1,29 @@
+﻿F17a
+{QUESTION}
+Se på dette kortet. Hvilke av beskrivelsene passer på det du har gjort de siste 7 dagene? 
+
+{ANSWERS}
+1 I lønnet arbeid (eller midlertidig fraværende), (ansatt, selvstendig næringsdrivende eller har arbeid i familiebedrift)
+2 Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning pga ferie)
+3 Arbeidsledig og aktivt arbeidssøkende 
+4 Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende 
+5 Varig syk eller funksjonshemmet 
+6 Pensjonert  
+7 I siviltjeneste eller militærtjeneste
+8 Husarbeid, passer barn eller andre personer 
+9 Annet 
+
+F17c
+{QUESTION}
+Og hvilke av disse beskrivelsene passer best på din situasjon (de siste 7 dagene)?
+
+{ANSWERS}
+1 I lønnet arbeid (eller midlertidig fraværende), (ansatt, selvstendig næringsdrivende eller har arbeid i familiebedrift) 
+2 Under utdanning (som ikke er betalt av arbeidsgiver, medregnet fravær fra utdanning pga ferie)  
+3 Arbeidsledig og aktivt arbeidssøkende 
+4 Arbeidsledig, ønsker en jobb men er ikke aktivt arbeidssøkende 
+5 Varig syk eller funksjonshemmet 
+6 Pensjonert
+7 I siviltjeneste eller militærtjeneste 8 Husarbeid, passer barn eller andre personer
+9 Annet
+

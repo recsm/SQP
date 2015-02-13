@@ -1,0 +1,1257 @@
+﻿D1
+{QUESTION}
+Ar dažnai per pastaruosius 12 mėnesių įsitraukdavote į savanoriškų ar labdaros organizacijų veiklą? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+1 Bent kartą per savaitę 
+2 Bent kartą per mėnesį 
+3 Bent kartą per tris mėnesius 
+4 Bent kartą per šešis mėnesius 
+5 Rečiau 
+6 Niekada 
+
+D2 
+{INTRO}
+DABAR NORĖČIAU UŽDUOTI KELETĄ KLAUSIMŲ APIE TAI, KĄ JŪS MANOTE APIE SAVE IR SAVO GYVENIMĄ.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kiek jūs pritariate, ar nepritariate kiekvienam iš teiginių, kuriuos jums perskaitysiu. Į savo ateitį aš visuomet žvelgiu optimistiškai.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D3 
+{QUESTION}
+Apskritai, aš save vertinu labia teigiamai.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D4
+{QUESTION}
+Kartais man atrodo, kad esu niekam tikęs/-usi.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D5
+{INTRO}
+Dabar perskaitysiu kelis teiginius apie tai, kaip jūs galbūt jausdavotės ar elgdavotės pastarąją savaitę. 
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kokią laiko dalį per pastarąją savaitę ... jausdavotės prislėgtas/-a?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D6 
+{QUESTION}
+… jums atrodydavo, kad viską tenka daryti per vargus?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D7 
+{QUESTION}
+… jūsų miegas būdavo neramus?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D8 
+{QUESTION}
+… būdavote laimingas/-a? 
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D9
+{QUESTION}
+… jausdavotės vienišas/-a?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D10 
+{QUESTION}
+… džiaugdavotės gyvenimu? 
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D11
+{QUESTION}
+… būdavote liūdnas/-a?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D12 
+{QUESTION}
+… jums nekildavo rankos ką nors daryti?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D13
+{QUESTION}
+O kokią laiko dalį per pastarąją savaitę ... jausdavotės kupinas/-a energijos?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D14
+{QUESTION}
+… jausdavote nerimą?
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D15 
+{QUESTION}
+… jausdavotės ramus/-i ir taikingas/-a? 
+
+{ANSWERS}
+1 Niekada arba beveik niekada 
+2 Kartais
+3 Didžiąją laiko dalį
+4 Visą laiką arba beveik visą laiką 
+
+D16
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar jūs pritariate, ar nepritariate kiekvienam iš teiginių, kuriuos jums perskaitysiu. Man atrodo, kad aš pats/-i galiu laisvai spręsti, kaip gyventi savo gyvenimą.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D17
+{QUESTION}
+Kasdieniame gyvenime man labia retai pasitaiko galimybių parodyti, ką iš tiesų sugebu.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D18
+{QUESTION} 
+Dažniausiai jaučiu pasitenkinimą tuo, ką darau. 
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D19
+{QUESTION}
+Kai kas nors gyvenime nepasiseka, man paprastai prireikia daug laiko, kad atgaučiau pusiausvyrą.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu 
+
+D20 
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar... gyvenime išmokstate naujų dalykų?
+
+{ANSWERS}
+0 Visiškai ne
+1
+2
+3
+4
+5
+6 Labai dažnai taip 
+
+D21
+{QUESTION}
+… jums atrodo, kad jūsų kaimynystėje gyvenantys žmonės padeda vieni kitiems?
+
+{ANSWERS}
+0 Visiškai ne
+1
+2
+3
+4
+5
+6 Labai dažnai taip 
+
+D22
+{QUESTION}
+… jums atrodo, kad žmonės su jumis elgiasi pagarbiai? 
+
+{ANSWERS}
+0 Visiškai ne
+1
+2
+3
+4
+5
+6 Labai dažnai taip 
+
+D23
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar jūs pritariate, ar nepritariate kiekvienam iš teiginių, kuriuos jums perskaitysiu. Aš apskritai manau, kad tai, ką veikiu savo gyvenime, yra vertinga ir naudinga.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu
+
+D24
+{QUESTION}
+Atsižvelgiant į tai, kas dabar vyksta pasaulyje, man sunku puoselėti viltis dėl jo ateities.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu
+
+D25
+{QUESTION}
+Yra daug dalykų, kuriuos, mano manymu, gerai išmanau. 
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu
+
+D26
+{QUESTION}
+Daugumai Lietuvos žmonių gyvenimas blogėja, o ne gerėja.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu
+
+D27
+{QUESTION}
+Jaučiuosi artimas/-a kaimynystėje gyvenantiems žmonėms.
+
+{ANSWERS}
+1 Labai pritariu 
+2 Pritariu
+3 Nei pritariu, nei nepritariu 
+4 Nepritariu
+5 Labai nepritariu
+
+D28
+{QUESTION}
+Ar jums pavyksta skirti laiko tiems dalykams, kuriuos iš tikrųjų norite daryti? Atsakydami naudokitės šia kortele, kur 0 reiškia visiškai ne, o 10 – visiškai taip.
+
+{ANSWERS}
+0 Visiškai ne 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai taip 
+
+D29 
+{QUESTION}
+Ar jūs jaučiatės vertinamas jums artimų žmonių? Atsakykite naudodamiesi ta pačia kortele.
+
+{ANSWERS}
+0 Visiškai ne 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai taip
+
+D30
+{QUESTION}
+Jums sunku ar lengva spręsti svarbias problemas, kurios iškyla jūsų gyvenime? Atsakydami naudokitės šia kortele, kur 0 reiškia, kad ypatingai sunku, o 10 – kad ypatingai lengva.
+
+{ANSWERS}
+0 Ypatingai sunku 
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai lengva
+
+D31
+{INTRO}
+ATSAKYDAMI Į TOLESNIUS TRIS KLAUSIMUS NAUDOKITĖS 31 KORTELE.
+
+{QUESTION}
+Kaip jums atrodo, kokią laiko dalį apskritai... jums būna įdomu tai, ką darote?
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visą laiką 
+
+D32
+{QUESTION}
+… būnate pasinėręs/-usi į tai, ką darote? 
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visą laiką
+
+D33
+{QUESTION}
+… darote ką nors su užsidegimu? 
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visą laiką
+
+D34 
+{QUESTION}
+Ar dažnai įprastą dieną atkreipiate dėmesį ir įvertinate tai, kas jus supa?
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visada 
+
+D35 
+{QUESTION}
+Ar jums atrodo, kad žinote savo gyvenimo kryptį? Atsakydami naudokitės šia kortele, kur 0 reiškia visiškai ne, o 10 – visiškai taip.
+
+{ANSWERS}
+0 Visiškai ne 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai taip
+
+D36
+{QUESTION}
+Ar sulaukiate pagalbos ir paramos iš artimų žmonių, kai jums to reikia? Atsakydami naudokitės šia kortele, kur 0 reiškia ne, niekada, o 6 – taip, visada.
+
+{ANSWERS}
+0 Ne, niekada
+1
+2
+3
+4
+5
+6 Taip, visada 
+
+D37 
+{QUESTION}
+O ar teikiate pagalbą ir paramą savo artimiems žmonėms, kai jiems to reikia?
+
+{ANSWERS}
+0 Ne, niekada
+1
+2
+3
+4
+5
+6 Taip, visada 
+
+D38 
+{INTRO}
+Vieni žmonės mūsų visuomenėje paprastai užima aukštesnę padėtį, o kiti – žemesnę padėtį. Kortelėje pateikta skalė su laipteliais nuo aukščiausio iki žemiausio. 
+
+{QUESTION}
+Kur šioje skalėje jūs šiuo metu matytumėte save?
+
+{ANSWERS}
+10 Aukščiausia padėtis mūsų visuomenėje
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 Žemiausia padėtis mūsų visuomenėje
+
+D39
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kelias iš pastarųjų 7 dienų jūs užsiėmėte kokia nors fizine veikla nepertraukiamai bent 20 minučių?
+
+{ANSWERS}
+0 Nė vienos dienos 
+1 Vieną dieną 
+2 Dvi dienas 
+3 Tris dienas 
+4 Keturias dienas 
+5 Penkias dienas 
+6 Šešias dienas 
+7 Septynias dienas 
+
+E1
+{INTRO}
+DABAR KELETAS KLAUSIMŲ APIE DEMOKRATIJĄ. VĖLIAU JŪSŲ PAKLAUSIU, KAIP DEMOKRATIJA VEIKIA LIETUVOJE. TAČIAU PIRMIAUSIA NORĖČIAU PAPRAŠYTI, KAD ĮVERTINTUMĖTE, KIEK ĮVAIRŪS DALYKAI, JŪSŲ NUOMONE, YRA SVARBŪS DEMOKRATIJAI APSKRITAI. ČIA NĖRA TEISINGŲ AR KLAIDINGŲ ATSAKYMŲ, TIESIOG PRAŠAU PASAKYKITE, KĄ JŪS MANOTE. 
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kiek, jūsų manymu, demokratijai apskritai yra svarbu ... kad šalies parlamento rinkimai būtų laisvi ir sąžiningi?                                                                                                 
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E2
+{QUESTION}
+… kad rinkėjai aptartų politiką su savo pažįstamais pries nuspręsdami, kaip balsuoti?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E3
+{QUESTION}
+… kad skirtingos politinės partijos ir kandidatai siūlytų aiškiai vieną nuo kito besiskiriančius dalykus?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E4
+{QUESTION}
+… kad opozicinės partijos galėtų laisvai kritikuoti valdžią? 
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E5
+{QUESTION}
+… kad žiniasklaida galėtų laisvai kritikuoti valdžią? 
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E6
+{QUESTION}
+Vis dar vertindami demokratiją apskritai, o ne Lietuvoje, atsakykite, kiek, jūsų manymu, demokratijai apskritai yra svarbu... kad žiniasklaida pateiktų piliečiams patikimos informacijos, pagal kurią jie galėtų vertinti valdžią?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E7
+{QUESTION}
+… kad būtų ginamos mažumų grupių teisės?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E8
+{QUESTION}
+… kad piliečiai tartų lemiamą žodį svarbiausiais politiniais klausimais tiesiogiai dėl jų balsuodami referendumuose?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E9
+{QUESTION}
+… kad imigrantai įgytų teisę balsuoti šalies parlamento rinkimuose tik tapę piliečiais?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E10
+{QUESTION}
+… kad teismai su visais elgtųsi vienodai? 
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E11
+{QUESTION}
+… kad teismai galėtų sustabdyti valdžios veiksmus, kuriais viršijami įgaliojimai?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E12
+{QUESTION}
+Vis dar vertindami demokratiją apskritai, o ne Lietuvoje, atsakykite, kiek, jūsų manymu, demokratijai apskritai yra svarbu… kad blogai dirbusios valdančiosios partijos būtų nubaudžiamos per rinkimus už jas nebalsuojant?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E13
+{QUESTION}
+… kad valdžia saugotų visus piliečius nuo skurdo?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E14
+{QUESTION}
+… kad valdžia paaiškintų savo sprendimus rinkėjams?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E15
+{QUESTION}
+… kad valdžia imtųsi priemonių mažinti pajamų lygio skirtumus?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E16
+{QUESTION}
+O kiek, jūsų manymu, demokratijai apskritai yra svarbu… kad politikai, pries priimdami sprendimus, atsi- žvelgtų į kitų Europos šalių vyriausybių nuomonę?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai 
+
+E17
+{INTRO}
+TOLIAU PATEIKSIU KELETĄ KLAUSIMŲ TOMIS PAČIOMIS TEMOMIS, BET DABAR PRAŠYSIU JŪSŲ ĮVERTINTI, KAIP, JŪSŲ MANYMU, DEMOKRATIJA ŠIANDIEN VEIKIA LIETUVOJE. VĖLGI, NĖRA TEISINGŲ AR KLAIDINGŲ ATSAKYMŲ, TIESIOG PRAŠAU PASAKYKITE, KĄ JŪS MANOTE.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar, jūsų manymu, kiekvienas iš teiginių, kuriuos jums perskaitysiu, tinka Lietuvai. 0 reiškia, kad, jūsų manymu, teiginys visiškai netinka, o 10 reiškia, kad teiginys, jūsų nuomone, visiškai tinka. Lietuvos Seimo rinkimai yra laisvi ir sąžiningi.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E18
+{QUESTION}
+Lietuvos rinkėjai aptaria politiką su savo pažįstamais pries nuspręsdami, už ką balsuoti.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E19
+{QUESTION}
+Skirtingos Lietuvos politinės partijos ir kandidatai siūlo aiškiai vieną nuo kito besiskiriančius dalykus.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E20
+{QUESTION}
+Opozicinės Lietuvos partijos gali laisvai kritikuoti valdžią. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka
+
+E21
+{QUESTION}
+Lietuvos žiniasklaida gali laisvai kritikuoti valdžią.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka
+
+E22
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų manymu, kiekvienas iš šių teiginių tinka Lietuvai. Lietuvos žiniasklaida pateikia piliečiams patikimos informacijos, pagal kurią jie gali vertinti valdžią.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E23
+{QUESTION}
+Lietuvoje yra ginamos mažumų teisės. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka
+
+E24
+{QUESTION}
+Lietuvos piliečiai taria lemiamą žodį svarbiausiais politiniais klausimais tiesiogiai dėl jų balsuodami referendumuose.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E25
+{QUESTION}
+Lietuvos teismai su visais elgiasi vienodai. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E26
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų manymu, kiekvienas iš šių teiginių tinka Lietuvai. Blogai dirbusios Lietuvos valdančiosios partijos per rinkimus yra nubaudžiamos už jas nebalsuojant.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E27 
+{QUESTION}
+Lietuvos valdžia visus piliečius saugo nuo skurdo. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka
+
+E28
+{QUESTION}
+Lietuvos valdžia paaiškina savo sprendimus rinkėjams. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E29
+{QUESTION}
+Lietuvos valdžia imasi priemonių mažinti pajamų lygio skirtumus. 
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka
+
+E30
+{QUESTION}
+O ar šis teiginys tinka Lietuvai? Lietuvos politikai, pries priimdami sprendimus,
+atsižvelgia į kitų Europos šalių vyriausybių nuomonę.
+
+{ANSWERS}
+0 Visiškai netinka
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai tinka 
+
+E31
+{INTRO}
+TOLIAU UŽDUODAMAS/-A KLAUSIMUS, PIRMIAUSIA PAPRAŠYSIU PASIRINKTI IŠ DVIEJŲ ATSAKYMO VARIANTŲ. PO TO PAKLAUSIU, KIEK, JŪSŲ MANYMU, TAI, KĄ JŪS PASIRINKOTE, YRA SVARBU DEMOKRATIJAI APSKRITAI. IR GALIAUSIAI PAPRAŠYSIU, KAD ĮVERTINTUMĖTE TĄ KLAUSIMĄ GALVODAMI APIE ŠIANDIENOS LIETUVĄ. PRIMENU, KAD ČIA NĖRA TEISINGŲ AR KLAIDINGŲ ATSAKYMŲ, TIESIOG PRAŠAU PASAKYTI, KĄ JŪS MANOTE.
+
+{QUESTION}
+Yra skirtingų nuomonių, ar demokratijoje kiekvienam turėtų būti leidžiama atvirai reikšti savo politines pažiūras, net jei jos yra kraštutinės. Kuris vienas iš kortelėje pateiktų teiginių apibūdina tai, kas, jūsų manymu, yra geriausia demokratijai apskritai.
+
+{ANSWERS}
+1 Kiekvienam turėtų būti leidžiama atvirai reikšti savo politines pažiūras, net jei jos yra kraštutinės
+2 Tiems, kurių politinės pažiūros yra kraštutinės, turėtų būti užkertamas kelias jas reikšti atvirai
+
+E32
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad kiekvienam būtų leidžiama atvirai reikšti savo politines pažiūras, net jei jos yra kraštutinės? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E33
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar šiandien Lietuvoje kiekvienam yra leidžiama atvirai reikšti savo politines pažiūras, net jei jos yra kraštutinės?
+
+{ANSWERS}
+0 Visiškai ne 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai taip
+
+E34
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad tiems, kurių politinės pažiūros yra kraštutinės, būtų užkertamas kelias jas reikšti atvirai? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E35
+{QUESTION} 
+Naudodamiesi šia kortele atsakykite, ar šiandien Lietuvoje tiems, kurių politinės pažiūros yra kraštutinės, yra užkertamas kelias jas reikšti atvirai?
+
+{ANSWERS}
+0 Visiškai ne
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visiškai taip 
+
+E36
+{INTRO}
+Kartais valdžia nesutinka su tuo, kas daugumai žmonių atrodo esant geriausia šaliai. 
+
+{QUESTION}
+Kuris vienas iš kortelėje pateiktų teiginių apibūdina tai, kas, jūsų manymu, yra geriausia demokratijai apskritai.
+
+{ANSWERS}
+1 Valdžia turėtų keisti savo numatytą politiką atsižvelgdama į daugumos žmonių nuomonę 
+2 Valdžia turėtų laikytis savo numatytos politikos nepaisydama daugumos žmonių nuomonės 
+
+E37
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad valdžia keistų savo numatytą politiką atsižvelgdama į daugumos žmonių nuomonę? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E38
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai valdžia šiandienos Lietuvoje keičia savo numatytą politiką atsižvelgdama į daugumos žmonių nuomonę?
+
+{ANSWERS}
+0 Niekada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visada 
+
+E39 
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad valdžia laikytųsi savo numatytos politikos nepaisydama daugumos žmonių nuomonės?
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E40 
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai valdžia šiandienos Lietuvoje laikosi savo numatytos politikos nepaisydama daugumos žmonių nuomonės?
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visada 
+
+E41
+{INTRO}
+Kai kuriose šalyse vyriausybę sudaro viena partija, o kitose šalyse – dviejų ar daugiau partijų koalicija. 
+
+{QUESTION}
+Kuris iš kortelėje pateiktų variantų apibūdina tai, kas, jūsų manymu, yra geriausia demokratijai apskritai.
+
+{ANSWERS}
+1 Vyriausybę sudaro tik viena partija 
+2 Vyriausybę sudaro dviejų ar daugiau partijų koalicija 
+
+E42
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad vyriausybę sudarytų tik viena partija? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E43
+{INTRO}
+O DABAR PASKUTINIS KLAUSIMAS ŠIA TEMA.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai, jūsų nuomone, Lietuvoje vyriausybę sudaro tik viena partija?
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visada
+
+E44
+{QUESTION}
+Kiek, jūsų manymu, demokratijai apskritai yra svarbu, kad vyriausybę sudarytų dviejų ar daugiau partijų koalicija? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Visiškai nėra svarbu demokratijai apskritai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu demokratijai apskritai
+
+E45
+{INTRO}
+O DABAR PASKUTINIS KLAUSIMAS ŠIA TEMA.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai, jūsų nuomone, Lietuvoje vyriausybę sudaro dviejų ar daugiau partijų koalicija?
+
+{ANSWERS}
+0 Niekada 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Visada

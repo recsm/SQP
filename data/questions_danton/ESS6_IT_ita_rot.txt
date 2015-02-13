@@ -1,0 +1,1257 @@
+﻿D1
+{QUESTION}
+Negli ultimi 12 mesi, con che frequenza ha partecipato all'attività di organizzazioni di volontariato o di beneficienza? Per favore utilizzi questo cartellino.
+
+{ANSWERS}
+1 Almeno una volta alla settimana 
+2 Almeno una volta al mese 
+3 Almeno una volta ogni 3 mesi 
+4 Almeno una volta ogni 6 mesi 
+5 Più raramente 
+6 Mai 
+
+D2
+{INTRO}
+Adesso vogliamo porle alcune domande su come si sente riguardo a se stesso/a ed alla Sua vita.
+
+{QUESTION}
+Usando questo cartellino, indichi per favore quanto è d'accordo o in disaccordo con le seguenti affermazioni. Sono sempre ottimista sul mio futuro.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D3
+{QUESTION}
+In generale ho una sensazione positiva di me stessa/o.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D4
+{QUESTION}
+A volte ho la sensazione di essere un/a fallito/a.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D5 
+{INTRO}
+Le leggerò ora una lista di modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana. 
+
+{QUESTION}
+Usando questo cartellino mi dica per cortesia quanto tempo durante la scorsa settimana… si è sentito/a depresso/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D6
+{QUESTION}
+le è sembrato che tutto ciò che faceva costituisse un grande sforzo?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D7 
+{QUESTION}
+ha avuto un sonno agitato? 
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D8 
+{QUESTION}
+è stato/a felice?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D9 
+{QUESTION}
+si è sentito/a solo/a? 
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D10 
+{QUESTION}
+si è goduto/a la vita?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D11
+{QUESTION}
+si è sentito/a triste? 
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D12
+{QUESTION}
+si è sentito/a svogliato/a, demotivato/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D13 
+{QUESTION}
+E per favore mi dica per quanto tempo durante la scorsa settimana… si è sentito/a pieno/a di energia? 
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D14 
+{QUESTION}
+si è sentito/a ansioso/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D15 
+{QUESTION}
+si è sentito/a calmo/a e tranquillo/a?
+
+{ANSWERS}
+1 Mai o quasi mai
+2 Qualche volta
+3 Il più delle volte
+4 Sempre o quasi sempre
+
+D16
+{QUESTION}
+Usando questo cartellino, indichi per favore quanto è d'accordo o in disaccordo con le seguenti affermazioni. Mi sento libero/a di decidere come vivere la mia vita.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D17
+{QUESTION}
+Nella mia vita quotidiana ho scarsissime possibilità di mostrare le mie effettive capacità.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D18
+{QUESTION}
+Spesso mi sento realizzato/a in quel che faccio. 
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D19
+{QUESTION}
+Quando qualcosa va storto nella mia vita, mi occorre molto tempo per ritornare alla normalità. 
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo 
+
+D20
+{QUESTION}
+Utilizzando questo cartellino, indichi per favore in che misura… impara cose nuove nella sua vita?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6 Molto 
+
+D21
+{QUESTION}
+ritiene che le persone nella zona in cui vive siano disponibili ad aiutarsi a vicenda?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6 Molto 
+
+D22
+{QUESTION}
+ritiene che le persone la trattino con rispetto?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6 Molto
+
+D23
+{QUESTION}
+Usando questo cartellino, indichi per favore quanto è d'accordo o in disaccordo con le seguenti affermazioni. In generale ritengo che quello che faccio nella vita sia apprezzabile e meritevole. 
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo
+
+D24
+{QUESTION}
+Considerato come vanno le cose oggi, è difficile nutrire speranze sul futuro del mondo.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo
+
+D25
+{QUESTION}
+Ci sono molte cose che credo di poter fare bene. 
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo
+
+D26
+{QUESTION}
+In Italia, per la maggior parte delle persone, la vita sta peggiorando invece che migliorare.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo
+
+D27
+{QUESTION}
+Mi sento vicino alle persone che vivono nella mia zona.
+
+{ANSWERS}
+1 Molto d’accordo 
+2 D’accordo
+3 Né d’accordo né in disaccordo
+4 In disaccordo
+5 Molto in disaccordo
+
+D28 
+{QUESTION}
+In che misura si prende il tempo per fare le cose a cui tiene davvero? Utilizzi questo cartellino dove 0 indica per niente e 10 completamente. 
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente 
+
+D29
+{QUESTION}
+In che misura si sente stimato/a dalle persone che le sono vicine? Utilizzi lo stesso cartellino.
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+ 
+D30 
+{QUESTION}
+Quanto trova difficile o facile affrontare i problemi che si presentano nella vita? Usi questo cartellino, dove 0 significa estremamente difficile e 10 estremamente facile.
+
+{ANSWERS}
+0 Estremamente difficile 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente facile
+
+D31
+{INTRO}
+Per le prossime tre domande utilizzi il CARTELLINO 31. 
+
+{QUESTION}
+In genere, con che frequenza ritiene di essere… …interessato/a a ciò che fa?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre 
+
+D32
+{QUESTION}
+…assorbito/a da ciò che fa?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre 
+
+D33
+{QUESTION}
+…entusiasta di ciò che fa?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre 
+
+D34
+{QUESTION}
+In una giornata normale, con che frequenza presta attenzione ed apprezza ciò che la circonda?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre 
+
+D35
+{QUESTION}
+Fino a che punto ha la sensazione di sapere in che direzione sta andando la sua vita? Usi questo cartellino, dove 0 significa per niente e 10 completamente.
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente 
+
+D36
+{QUESTION}
+In che misura Lei riceve aiuto e sostegno dalle persone che le sono vicine quando ne ha bisogno? Usi questo cartellino, dove 0 significa per niente e 6 completamente.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+D37 
+{QUESTION}
+In che misura Lei dà aiuto e sostegno alle persone che le sono vicine quando sono loro ad averne bisogno?
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente 
+
+D38
+{INTRO}
+Nella nostra società c'è chi sta più in alto e chi sta più in basso. Il cartellino riporta una scala che va dall'alto al basso. 
+{QUESTION}
+Attualmente, dove si situerebbe lei su questa scala?
+
+{ANSWERS}
+10 Livello più alto della società 
+9 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+0 Livello più basso della società 
+
+D39
+{QUESTION}
+Utilizzando questo cartellino, indichi in quanti degli ultimi 7 giorni ha svolto un'attività che implicasse movimento fisico per almeno 20 minuti senza interruzione.
+
+{ANSWERS}
+0 Neanche un giorno 
+1 Un giorno 
+2 Due giorni
+3 Tre giorni 
+4 Quattro giorni 
+5 Cinque giorni
+6 Sei giorni 
+7 Sette giorni 
+
+E1 
+{INTRO}
+Ora le farò alcune domande sulla democrazia. In seguito le chiederò come funziona la democrazia in Italia. Prima, però, vorrei che pensasse a quanto sono importanti alcuni elementi per la democrazia in generale. Non ci sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa.
+
+{QUESTION}
+Usando questo cartellino, può dirmi quanto pensa che sia importante per la democrazia in generale… …che le elezioni politiche siano libere ed imparziali?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E2
+{QUESTION}
+…che prima di decidere come votare gli elettori discutano di politica con i loro conoscenti?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E3
+{QUESTION}
+…che i vari partiti politici rappresentino alternative chiare?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E4
+{QUESTION}
+…che i partiti di opposizione siano liberi di criticare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E5
+{QUESTION}
+…che i media siano liberi di criticare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E6
+{QUESTION}
+Sempre in generale e non a proposito dell'Italia, quanto pensa sia importante per la democrazia in generale… che i media forniscano ai cittadini informazioni attendibili per giudicare il governo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E7
+{QUESTION}
+…che i diritti delle minoranze siano tutelati?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E8
+{QUESTION}
+…che i cittadini abbiano l'ultima parola sui temi politici più importanti votando direttamente nei referendum?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E9
+{QUESTION}
+…che gli immigrati possano votare alle elezioni nazionali dopo aver ottenuto la cittadinanza?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E10
+{QUESTION}
+…che i tribunali trattino tutti allo stesso modo?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E11
+{QUESTION}
+…che i tribunali possano impedire al governo di andare oltre i suoi poteri?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E12
+{QUESTION}
+Sempre in generale e non a proposito dell'Italia, quanto pensa sia importante per la democrazia in generale… …che i partiti al governo che hanno lavorato male vengano puniti alle elezioni successive?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E13
+{QUESTION}
+…che il governo protegga tutti i cittadini dal rischio della povertà?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E14
+{QUESTION}
+…che il governo spieghi le sue decisioni agli elettori?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E15
+{QUESTION}
+…che il governo adotti misure per ridurre le differenze di reddito?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale 
+
+E16 
+{QUESTION}
+E quanto pensa sia importante per la democrazia in generale... …che prima di prendere decisioni i politici tengano conto della posizione di altri governi in Europa?
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E17
+{INTRO}
+Adesso alcune domande sugli stessi argomenti, ma questa volta su come pensa che la democrazia funzioni in Italia oggi. Ancora una volta non ci sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa.
+
+{QUESTION}
+Usando questo cartellino mi dica in che misura ognuna delle seguenti affermazioni si applica all'Italia. 0 significa che secondo Lei l’affermazione non è affatto pertinente e 10 significa che secondo Lei è completamente pertinente. Le elezioni politiche in Italia sono libere ed imparziali
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E18
+{QUESTION}
+Prima di decidere come votare, gli elettori in Italia discutono di politica con i loro conoscenti.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E19
+{QUESTION}
+I partiti politici in Italia rappresentano alternative chiare.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E20
+{QUESTION}
+In Italia i partiti di opposizione sono liberi di criticare il governo.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E21
+{QUESTION}
+I media in Italia sono liberi di criticare il governo.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E22 
+{QUESTION}
+Usando lo stesso cartellino mi dica quanto pensa che ognuna di queste affermazioni sia pertinente per l’Italia. In Italia i media forniscono ai cittadini informazioni attendibili per giudicare il governo.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E23
+{QUESTION}
+In Italia i diritti delle minoranze sono tutelati.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente
+
+E24
+{QUESTION}
+In Italia i cittadini hanno l'ultima parola sui temi politici più importanti grazie allo strumento del referendum.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E25
+{QUESTION}
+I tribunali in Italia trattano tutti allo stesso modo. 
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente
+
+E26
+{QUESTION}
+E sempre con lo stesso cartellino mi dica quanto pensa che ognuna di queste affermazioni sia pertinente per l'Italia. In Italia i partiti che hanno lavorato male al governo vengono puniti alle successive elezioni.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E27
+{QUESTION}
+In Italia il governo protegge tutti i cittadini dalla povertà.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E28
+{QUESTION}
+In Italia il governo spiega le sue decisioni agli elettori.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E29
+{QUESTION}
+In Italia il governo adotta misure per ridurre le differenze di reddito
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente 
+
+E30 
+{QUESTION}
+E questa affermazione quanto è pertinente per l'Italia? In Italia prima di prendere decisioni, i politici tengono conto della posizione di altri governi in Europa.
+
+{ANSWERS}
+0 Non si applica per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Si applica completamente
+
+E31
+{INTRO}
+Per le prossime domande le chiederò, per prima cosa, di scegliere tra due opzioni. Poi le chiederò quanto pensa che la sua scelta sia importante per la democrazia in generale. Ed infine, le chiederò di pensare alla situazione attuale in Italia. Le ricordo che non vi sono risposte giuste o sbagliate, mi dica semplicemente ciò che pensa. Alcuni pensano che in democrazia ognuno dovrebbe essere libero di esprimere apertamente le proprie opinioni politiche, anche se sono estreme. Altri non condividono questo parere. 
+
+{QUESTION}
+Quale delle affermazioni su questo cartellino descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Ognuno dovrebbe essere libero di esprimere apertamente le proprie opinioni politiche, anche se sono estreme.
+2 Bisognerebbe impedire a coloro che hanno opinioni politiche estreme di esprimerle apertamente.
+
+E32
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che ognuno sia libero di esprimere le sue opinioni politiche apertamente, anche se sono estreme? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E33 
+{QUESTION}
+Utilizzando questo cartellino, quanto pensa che oggi in Italia ognuno sia libero di esprimere apertamente le proprie opinioni politiche, anche se estreme?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E34
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che s’impedisca a coloro che hanno opinioni politiche estreme di esprimerle apertamente? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E35
+{QUESTION}
+Utilizzando questo cartellino, in che misura pensa che oggi in Italia si impedisca a chi ha opinioni politiche estreme di esprimerle apertamente?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+E36
+{INTRO}
+A volte il governo non è d’accordo con ciò che la maggior parte della gente pensa sia meglio per il Paese. 
+
+{QUESTION}
+Quale delle affermazioni su questo cartellino descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Il governo dovrebbe cambiare le decisioni politiche già prese in funzione di ciò che pensa la maggior parte della gente.
+2 Il governo dovrebbe attenersi alle decisioni politiche già prese senza curarsi di ciò che pensa la maggior parte della gente.
+
+E37 
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo cambi le decisioni politiche già prese in funzione di ciò che pensa la maggior parte della gente? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E38
+{QUESTION}
+Utilizzando questo cartellino, secondo Lei con che frequenza oggi il governo italiano cambia le decisioni politiche già prese in funzione di ciò che pensa la maggior parte della gente?
+
+{ANSWERS}
+0 Per niente 
+1
+2
+3
+4
+5
+6
+7
+8
+9 
+10 Completamente 
+
+E39 
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo si attenga alle decisioni politiche già prese senza curarsi di ciò che pensa la maggior parte della gente? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale 
+1 
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E40 
+{QUESTION}
+Utilizzando questo cartellino, secondo Lei con che frequenza oggi il governo italiano si attiene alle decisioni politiche prese senza curarsi di ciò che pensa la maggior parte della gente?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+E41 
+{INTRO}
+In alcuni paesi il governo è formato da un unico partito, in altri da una coalizione di due o più partiti. 
+
+{QUESTION}
+Quale delle opzioni su questo cartellino descrive ciò che Lei pensa sia meglio per la democrazia in generale?
+
+{ANSWERS}
+1 Un governo formato da un solo partito
+2 Un governo formato da una coalizione di due o più partiti
+
+E42 
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo sia formato da un unico partito? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E43
+{QUESTION}
+Passiamo ora all'ultima domanda su quest'argomento. Utilizzando questo cartellino, secondo Lei con che frequenza il governo in Italia è formato da un unico partito?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre 
+
+E44
+{QUESTION}
+Quanto pensa sia importante per la democrazia in generale che il governo sia formato da due o più partiti? Utilizzi questo cartellino.
+
+{ANSWERS}
+0 Per niente importante per la democrazia in generale
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Estremamente importante per la democrazia in generale
+
+E45
+{QUESTION}
+Passiamo ora all'ultima domanda su quest'argomento. Utilizzando questo cartellino, secondo Lei con quale frequenza il governo in Italia è formato da due o più partiti?
+
+{ANSWERS}
+0 Mai 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre

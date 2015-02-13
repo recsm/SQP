@@ -1,0 +1,424 @@
+IF1
+{INTRO}
+The first few questions focus on how you feel about yourself and your life. 
+
+{QUESTION} 
+Using this card, please tell me how interested you would generally say you are in what you are doing. 
+
+{ANSWERS}
+00 Not interested at all
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fully interested
+
+IF2
+{QUESTION}
+Using this card, please tell me how absorbed you would generally say you are in what you are doing. 
+
+{ANSWERS}
+00 Not absorbed at all
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fully absorbed
+
+IF3
+{QUESTION}
+Using this card, please tell me how enthusiastic you would generally say you are about what you are doing. 
+
+{ANSWERS}
+00 Not at all enthusiastic
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Fully enthusiastic
+
+IF4
+{INTRO}
+I will now read out a list of the ways you might have felt or behaved during the past week.
+
+{QUESTION}
+Using this card, please tell me how much of the time during the past week...you felt depressed?
+
+{ANSWERS}
+0 None or almost none of the time 
+1
+2
+3 All or almost all of the time
+
+IF5 
+{QUESTION}
+...your sleep  was restless?
+
+{ANSWERS}
+0 None or almost none of the time 
+1
+2
+3 All or almost all of the time
+
+IF6
+{QUESTION}
+…you felt lonely? 
+
+{ANSWERS}
+0 None or almost none of the time 
+1
+2
+3 All or almost all of the time
+
+IF7
+{INTRO}
+Now I’m going to ask you some questions about how you think democracy is working in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] today. 
+
+{QUESTION}
+Using this card, please tell me how often you think opposition parties in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] are free to criticise the government.
+
+{ANSWERS}
+00 Never
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Always
+
+IF8
+{QUESTION}
+Please tell me how often you think the media in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] are free to criticise the government. Use the same card. 
+
+{ANSWERS}
+00 Never
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Always
+
+IF9
+{QUESTION}
+Please tell me how often you think the media in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] provide citizens with reliable information to judge the government. Use the same card. 
+
+{ANSWERS}
+00 Never
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Always
+
+
+IF10
+{INTRO} 
+The first few questions focus on how you feel about yourself and your life. 
+
+{QUESTION}
+Using this card, please tell me how interested you would generally say you are in what you are doing. 
+
+{ANSWERS}
+00 Not at all interested
+01 
+02
+03
+04
+05
+06 Fully interested
+
+IF11
+{QUESTION}
+Using this card, please tell me how absorbed you would generally say you are in what you are doing. 
+
+{ANSWERS}
+00 Not at all obsorbed 
+01
+02
+03
+05
+06 Fully absorbed
+
+IF12 
+{QUESTION}
+Using this card, please tell me how enthusiastic you would generally say you are about what you are doing. 
+
+{ANSWERS}
+00 Not at all enthusiastic  
+01
+02
+03
+05
+06 Fully enthusiastic 
+
+IF13
+{INTRO}
+Now some questions on how you might have felt or behaved during the past week. 
+
+{QUESTION}
+To what extent did you feel depressed during the past week?
+
+{ANSWERS}
+0 Not at all depressed
+1
+2
+3 Extremely depressed
+
+IF14 
+{QUESTION}
+To what extent was your sleep restless during the past week?
+
+{ANSWERS}
+0 Not at all restless
+1
+2
+3 Extremely restless
+
+IF15
+{QUESTION}
+To what extent did you feel lonely during the past week?
+
+{ANSWERS}
+0 Not at all lonely 
+1
+2
+3 Extremely lonely 
+
+IF16 
+{INTRO}
+Finally, I’m going to ask you some questions about how you think democracy is working in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] today. 
+
+{QUESTION}
+To what extent do you think opposition parties in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] are free to criticise the government? Please use this card
+
+{ANSWERS}
+00 Not at all
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completely 
+
+IF17 
+{QUESTION}
+To what extent do you think the media in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] are free to criticise the government? Use the same card.
+
+{ANSWERS}
+0 Not at all
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completely 
+
+IF18
+{QUESTION}
+To what extent do you think the media in [ENGLAND/WALES/SCOTLAND: Britain; NORTHERN IRELAND: the UK] provide citizens with reliable information to judge the government? Use the same card.
+
+{ANSWERS}
+0 Not at all
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 Completely 
+
+IF22
+{INTRO}
+The next few questions focus on how you feel about yourself and your life 
+
+{QUESTION}
+Using this card, please tell me how interested you would generally say you are in what you are doing. 
+
+{ANSWERS}
+0 Not al all interested
+1
+2
+3
+4 Fully interested
+
+IF23 
+{QUESTION}
+Using this card, please tell me how absorbed you would generally say you are in what you are doing. 
+
+{ANSWERS}
+0 Not al all absorbed
+1
+2
+3
+4 Fully absorbed
+
+IF24 
+{QUESTION}
+Using this card, please tell me how enthusiastic you would generally say you are about what you are doing. 
+
+{ANSWERS}
+0 Not al all enthusiastic 
+1
+2
+3
+4 Fully enthusiastic 
+
+IF25
+{INTRO}
+The last few questions are about how you might have felt or behaved during the past week. 
+
+{QUESTION}
+To what extent did you feel depressed during the past week?
+
+{ANSWERS}
+00 Not at all depressed
+01
+02
+03
+04
+05
+06
+07
+08
+09 Extremely depressed  
+
+IF26
+{QUESTION}
+To what extent was your sleep restless during the past week?
+
+{ANSWERS}
+00 Not at all restless
+01
+02
+03
+04
+05
+06
+07
+08
+09 Emtremely restless
+
+IF27
+{QUESTION}
+To what extent did you feel lonely during the past week?
+
+{ANSWERS}
+00 Not at all lonely 
+01
+02
+03
+04
+05
+06
+07
+08
+09 Emtremely lonely 
+
+IF31 
+{INTRO}
+The next few questions focus on how you feel about yourself and your life 
+
+{QUESTION}
+Using this card, please tell me how interested you would generally say you are in what you are doing.
+
+{ANSWERS}
+0 Not al all interested
+1 
+2 Fully interested
+
+IF32 
+{QUESTION}
+Using this card, please tell me how absorbed you would generally say you are in what you are doing. 
+
+{ANSWERS}
+0 no at all obsorbed
+1
+2 Fully absorbed 
+
+IF33 
+{QUESTION}
+Using this card, please tell me how enthusiastic you would generally say you are about what you are doing. 
+
+{ANSWERS}
+0 Not at all enthusiastic 
+1 
+2 Fully enthusiastic 
+
+IF34
+{INTRO}
+The last few questions are about how you might have felt or behaved during the past week. 
+ 
+{QUESTION}
+To what extent did you feel depressed during the past week?
+
+{ANSWERS}
+0 Not at all depressed 
+1 
+2
+3
+4
+5 Extremely depressed 
+
+IF35 
+{QUESTION}
+To what extent was your sleep restless during the past week?
+
+{ANSWERS}
+0 Not at all restless
+1
+2
+3
+4
+5 Exrtemely restless
+
+IF36
+{QUESTION}
+To what extent did you feel lonely during the past week?
+
+{ANSWERS}
+0 Not at all lonely
+1
+2
+3
+4
+5 Extremely lonely  

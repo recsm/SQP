@@ -1,0 +1,502 @@
+IF1
+{INTRO}
+Dapprima, alcune domande su come si sente riguardo a se stesso/a ed alla sua vita.
+
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere interessato/a a ciò che fa.
+
+{ANSWERS}
+0 Per niente interessato/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente interessato/a
+
+IF2
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere assorto/a in ciò che fa.
+{ANSWERS}
+0 Per niente assorto/a
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente assorto/a
+
+IF3
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere entusiasta di ciò che fa.
+
+{ANSWERS}
+0 Per niente entusiasta
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Totalmente entusiasta
+
+IF4
+{INTRO}
+Le leggerò ora una lista di modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana.
+
+{QUESTION}
+Usando questa scheda mi dica per cortesia quanto tempo durante la scorsa settimana ...si è sentito/a depresso/a?
+
+{ANSWERS}
+0 Mai o quasi mai
+1
+2
+3 Sempre o quasi sempre
+
+IF5
+{QUESTION}
+... il suo sonno è stato agitato?
+
+{ANSWERS}
+0 Mai o quasi mai
+1
+2
+3 Sempre o quasi sempre
+
+IF6
+{QUESTION}
+... si è sentito/a solo/a?
+
+{ANSWERS}
+0 Mai o quasi mai
+1
+2
+3 Sempre o quasi sempre
+
+IF7
+{INTRO}
+Ora alcune domande su come pensa che la democrazia funzioni in Svizzera oggi.
+
+{QUESTION}
+Secondo Lei con che frequenza i partiti di opposizione in Svizzera sono liberi di criticare il governo? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+IF8
+{QUESTION}
+Mi dica per cortesia, con che frequenza secondo Lei i media in Svizzera sono liberi di criticare il governo. Utilizzi la stessa scheda.
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+IF9
+{QUESTION}
+Mi dica per cortesia, con che frequenza secondo Lei i media in Svizzera forniscono ai cittadini informazioni attendibili per giudicare il governo. Utilizzi la stessa scheda.
+
+{ANSWERS}
+0 Mai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Sempre
+
+IF10
+{INTRO}
+Dapprima, alcune domande su come si sente riguardo a se stesso/a ed alla sua vita.
+
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere interessato/a a ciò che fa.
+
+{ANSWERS}
+0 Per niente interessato/a
+1
+2
+3
+4
+5
+6 Totalmente interessato/a
+
+IF11
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere assorto/a in ciò che fa.
+
+{ANSWERS}
+0 Per niente assorto/a
+1
+2
+3
+4
+5
+6 Totalmente assorto/a
+
+IF12
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere entusiasta di ciò che fa.
+
+{ANSWERS}
+0 Per niente entusiasta
+1
+2
+3
+4
+5
+6 Totalmente entusiasta
+
+IF13
+{INTRO}
+Ora alcune domande sui modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana.
+
+{QUESTION}
+In che misura si è sentito depresso/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente depresso/a
+1
+2
+3 Estremamente depresso/a
+
+IF14
+{QUESTION}
+In che misura il suo sonno è stato agitato nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente agitato
+1
+2
+3 Estremamente agitato
+
+IF15
+{QUESTION}
+In che misura si è sentito/a solo/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente solo/a
+1
+2
+3 Estremamente solo/a
+
+IF16
+{INTRO}
+Finalmente alcune domande su come pensa che la democrazia funzioni in Svizzera oggi
+
+{QUESTION}
+Secondo Lei in che misura i partiti di opposizione in Svizzera sono liberi di criticare il governo? Utilizzi questa scheda.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+IF17
+{QUESTION}
+Secondo Lei in che misura i media in Svizzera sono liberi di criticare il governo? Utilizzi la stessa scheda.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+IF18
+{QUESTION}
+Secondo Lei in che misura i media forniscono ai cittadini informazioni attendibili per giudicare il governo? Utilizzi la stessa scheda.
+
+{ANSWERS}
+0 Per niente
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completamente
+
+IF19
+{INTRO}
+Dapprima, le farò qualche domanda su persone, provenienti da altri paesi, che vengono a vivere in Svizzera.
+
+{QUESTION}
+Secondo lei, per l'economia svizzera è in generale un bene o un male che gente di altri paesi venga a vivere qui? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Un male per l'economia
+1
+2
+3
+4
+5
+6 Un bene per l'economia
+
+IF20
+{QUESTION}
+E utilizzando questa scheda, direbbe che la cultura svizzera viene in generale impoverita o piuttosto arricchita dalla gente proveniente da altri paesi che viene a stabilirsi qui?
+
+{ANSWERS}
+0 La vita culturale si impoverisce
+1
+2
+3
+4
+5
+6 La vita culturale si arricchisce
+
+IF21
+{QUESTION}
+Secondo lei, la gente che viene dall'estero a stabilirsi qui rende la vita in Svizzera migliore o peggiore? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Peggiore
+1
+2
+3
+4
+5
+6 Migliore
+
+IF22
+{INTRO}
+Ora alcune domande su come si sente riguardo a se stesso/a ed alla sua vita.
+
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere interessato/a a ciò che fa.
+
+{ANSWERS}
+0 Per niente interessato/a
+1
+2
+3
+4 Totalmente interessato/a
+
+IF23
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere assorto/a in ciò che fa.
+
+{ANSWERS}
+0 Per niente assorto/a
+1
+2
+3
+4 Totalmente assorto/a
+
+IF24
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere entusiasta di ciò che fa.
+
+{ANSWERS}
+0 Per niente entusiasta
+1
+2
+3
+4 Totalmente entusiasta
+
+IF25
+{INTRO}
+Infine, le farò alcune domande sui modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana.
+
+{QUESTION}
+In che misura si è sentito depresso/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 In che misura si è sentito depresso/a nel corso dell'ultima settimana?
+1
+2
+3
+4
+5
+6
+7
+8
+9 Estremamente depresso/a
+
+IF26
+{QUESTION}
+In che misura il suo sonno è stato agitato nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente agitato
+1
+2
+3
+4
+5
+6
+7
+8
+9 Estremamente agitato
+
+IF27
+{QUESTION}
+In che misura si è sentito/a solo/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente solo/a
+1
+2
+3 
+4
+5
+6
+7
+8
+9 Estremamente solo/a
+
+IF28
+{INTRO}
+Dapprima, le farò qualche domanda su persone, provenienti da altri paesi, che vengono a vivere in Svizzera.
+
+{QUESTION}
+Secondo lei, per l'economia svizzera è in generale un bene o un male che gente di altri paesi venga a vivere qui? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Un male per l'economia
+1
+2
+3
+4 Un bene per l'economia
+
+IF29
+{QUESTION}
+E utilizzando questa scheda, direbbe che la cultura svizzera viene in generale impoverita o piuttosto arricchita dalla gente proveniente da altri paesi che viene a stabilirsi qui?
+
+{ANSWERS}
+0 La vita culturale si impoverisce
+1
+2
+3
+4 La vita culturale si arricchisce
+
+IF30
+{QUESTION}
+Secondo lei, la gente che viene dall'estero a stabilirsi qui rende la vita in Svizzera migliore o peggiore? Per favore utilizzi questa scheda.
+
+{ANSWERS}
+0 Peggiore
+1
+2
+3
+4 Migliore
+
+IF31
+{INTRO}
+Ora alcune domande su come si sente riguardo a se stesso/a ed alla sua vita
+
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere interessato/a a ciò che fa.
+
+{ANSWERS}
+0 Per niente interessato/a
+1
+2 Totalmente interessato/a
+
+IF32
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere assorto/a in ciò che fa.
+
+{ANSWERS}
+0 Per niente assorto/a
+1
+2 Totalmente assorto/a
+
+IF33
+{QUESTION}
+Usando questa scheda, indichi per favore in che misura è in genere entusiasta diciò che fa.
+
+{ANSWERS}
+0 Per niente entusiasta
+1
+2 Totalmente entusiasta
+
+IF34
+{INTRO}
+Infine, le farò alcune domande sui modi in cui si può esser sentito/a o si può esser comportato/a nel corso dell'ultima settimana.
+
+{QUESTION}
+In che misura si è sentito depresso/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente depresso/a
+1
+2
+3
+4
+5 Estremamente depresso/a
+
+IF35
+{QUESTION}
+In che misura il suo sonno è stato agitato nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente agitato
+1
+2
+3
+4
+5 Estremamente agitato
+
+IF36
+{QUESTION}
+In che misura si è sentito/a solo/a nel corso dell'ultima settimana?
+
+{ANSWERS}
+0 Per niente solo/a
+1
+2
+3
+4
+5 Estremamente solo/a

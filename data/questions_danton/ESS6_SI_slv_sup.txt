@@ -1,0 +1,502 @@
+﻿IF1 
+{INTRO}
+Najprej nekaj vprašanj o vaših pogledih nase in vaše življenje.
+
+{QUESTION}
+S pomočjo kartice prosimo povejte, koliko vas na sploh zanima To, kar počnete.
+
+{ANSWERS}
+00 me sploh ne zanima 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 me zelo zanima 
+
+IF2 
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako vas prevzame to, kar počnete. 
+
+{ANSWERS}
+00 me sploh ne prevzame 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 me povsem prevzame
+
+IF3
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako navdušeni ste nad tem, kar počnete. 
+
+{ANSWERS}
+00 sploh nisem navdušen 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 zelo sem navdušen 
+
+IF4
+{INTRO}
+Zdaj vam bom naštel različne vrste razpoloženj in vas povprašal ali ste se v preteklem tednu morda tudi vi tako počutili. 	
+
+{QUESTION}
+Prosimo povejte, koliko časa ste se prejšnji teden …počutili depresivno?
+
+{ANSWERS}
+0 nikoli ali skoraj nikoli 
+1
+2
+3 ves čas ali skoraj ves čas 
+
+IF5 
+{QUESTION}
+…ste imeli nemiren spanec? 
+
+{ANSWERS}
+0 nikoli ali skoraj nikoli 
+1
+2
+3 ves čas ali skoraj ves čas 
+
+IF6
+{QUESTION}
+…ste se počutili osamljeno? 
+
+{ANSWERS}
+0 nikoli ali skoraj nikoli 
+1
+2
+3 ves čas ali skoraj ves čas 
+
+IF7
+{INTRO}
+Za konec vas bomo vprašali nekaj vprašanj o delovanju demokracije v Sloveniji. 
+
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako pogosto lahko opozicijske stranke v Sloveniji svobodno kritizirajo vlado.
+
+{ANSWERS}
+00 nikoli 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 vedno 
+
+IF8
+{QUESTION}
+Povejte prosim kaj menite, kako pogosto lahko mediji v Slovenijisvobodno kritizirajo vlado. Uporabite isto kartico.
+
+{ANSWERS}
+00 nikoli 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 vedno 
+
+IF9 
+{QUESTION}
+Kaj menite, kako pogosto mediji v Sloveniji dajejo državljanom zanesljive informacije za oceno vlade. Uporabite isto kartico.
+
+{ANSWERS}
+00 nikoli 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 vedno 
+
+IF10 
+{INTRO}
+Prvih nekaj vprašanj se nanaša na vaše poglede nase in na vaše življenje. 
+
+{QUESTION}
+S pomočjo kartice prosimo povejte, koliko vas na sploh zanima to, kar počnete.
+
+{ANSWERS}
+0 me sploh ne zanima 
+1
+2
+3
+4
+5
+6 me zelo zanima
+
+IF11
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako vas prevzame to, kar počnete.
+
+{ANSWERS}
+0 me sploh ne prevzame 
+1
+2
+3
+4
+5
+6 me povsem prevzame
+
+IF12 
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako navdušeni ste nad tem, kar počnete. 
+
+{ANSWERS}
+0 sploh nisem navdušen  
+1
+2
+3
+4
+5
+6 zelo sem navdušen 
+
+IF13 
+{INTRO}
+Sledi nekaj vprašanj, ki se nanašajo na vaše počutje/razpoloženje v preteklem tedn
+
+{QUESTION}
+Kako depresivno ste se počutili v preteklem tednu? 
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3 zelo nemiren
+
+IF14 
+{QUESTION}
+Kako nemiren spanec ste imeli v preteklem tednu? 
+
+{ANSWERS}
+0 sploh nič 
+1
+2
+3 zelo nemiren
+
+IF15
+{QUESTION}
+Kako osamljene ste se počutili v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič 
+1
+2
+3 zelo osamljeno
+
+IF16 
+{INTRO}
+Za konec pa še nekaj vprašanj o delovanju demokracije v Sloveniji. 
+
+{QUESTION}
+Kaj menite, v kakšni meri lahko opozicijske stranke v Sloveniji svobodno kritizirajo vlado? Odgovorite s pomočjo kartice. 
+
+{ANSWERS}
+00 sploh ne 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 popolnoma
+
+IF17 
+{QUESTION}
+V kakšni meri lahko mediji v Sloveniji svobodno kritizirajo vlado? Uporabite isto kartico.
+
+{ANSWERS}
+00 sploh ne 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 popolnoma
+
+IF18 
+{QUESTION}
+V kakšni meri mediji v Sloveniji dajejo državljanom zanesljive informacije za oceno vlade. Uporabite isto kartico. 
+
+{ANSWERS}
+00 sploh ne 
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10 popolnoma
+
+IF19 
+{INTRO}
+Najprej nekaj vprašanj o ljudeh iz drugih držav, ki prihajajo živet v Slovenijo…. 
+
+{QUESTION}
+Ali menite, da je na splošno dobro ali slabo za slovensko gospodarstvo, da prihajajo živet k nam priseljenci iz drugih držav? Odgovorite s pomočjo kartice.
+
+{ANSWERS}
+0 slabo za gospodarstvo  
+1
+2
+3
+4
+5
+6 dobro za gospodarstvo
+
+IF20 
+{QUESTION}
+Ali menite, da je kulturno življenje v Sloveniji zaradi priseljencev na splošno ogroženo ali obogateno?
+
+{ANSWERS}
+0 kulturno življenje je ogroženo 
+1
+2
+3
+4
+5
+6 kulturno življenje je obogateno
+
+IF21 
+{QUESTION}
+Ali menite, da je Slovenija zaradi priseljencev iz drugih držav postala slabša ali boljša dežela za bivanje? Odgovorite s pomočjo kartice. 
+
+{ANSWERS}
+0 slabša deželaza bivanje
+1
+2
+3
+4
+5
+6 boljša dežela za bivanje
+
+IF22 
+{QUESTION}
+S pomočjo kartice prosimo povejte, koliko vas na sploh zanima to, kar počnete. 
+
+{ANSWERS	}
+0 me sploh ne zanima 
+1
+2
+3
+4
+5
+6 me zelo zanima
+
+IF23 
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako vas prevzame to, kar počnete. 
+
+{ANSWERS}
+0 me sploh ne prevzame  
+1
+2
+3
+4 me povsem prevzame
+
+IF24 
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako navdušeni ste nad tem, kar počnete. 
+
+{ANSWERS}
+0 sploh nisem navdušen
+1
+2
+3
+4 zelo sem navdušen
+
+IF25
+{INTRO}
+Za konec pa še nekaj vprašanj, ki se nanašajo na vaše počutje / razpoloženje v preteklem tednu. 
+
+{QUESTION}
+Kako depresivno ste se počutili v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9 zelo depresivno 
+
+IF26
+{QUESTION}
+Kako nemiren spanec ste imeli v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9 zelo nemiren 
+
+IF27
+{QUESTION}
+Kako osamljene ste se počutili v preteklem tednu? 
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5
+6
+7
+8
+9 zelo osamljeno 
+
+IF28
+{INTRO}
+Najprej nekaj vprašanj o ljudeh iz drugih držav, ki prihajajo živet v Slovenijo…. 
+
+{QUESTION}
+Ali menite, da je na splošno dobro ali slabo za slovensko gospodarstvo, da prihajajo živet k nam priseljenci iz drugih držav?
+
+{ANSWERS}
+0 slabo za gospodarstvo
+1
+2
+3
+4 dobro za gospodarstvo 
+
+IF29
+{QUESTION}
+Ali menite, da je kulturno življenje v Sloveniji zaradi priseljencev na splošno ogroženo ali obogateno? 
+
+{ANSWERS}
+0 slabša dežela za bivanje 
+1
+2
+3
+4 boljša dežela za bivanje 
+
+IF30
+{QUESTION}
+Ali menite, da je Slovenija zaradi priseljencev iz drugih držav postala slabša ali boljša dežela za bivanje? 
+
+{ANSWERS}
+0 slabša dežela za bivanje 
+1
+2
+3
+4 boljša dežela za bivanje 
+
+IF31
+{INTRO}
+Zdaj pa sledijo vprašanja o vaših pogledih nase in na vaše življenje. 
+
+{QUESTION}
+S pomočjo kartice prosimo povejte, koliko vas na sploh zanima to, kar počnete. 
+
+{ANSWERS}
+0 me sploh ne zanima 
+1
+2 me zelo zanima 
+
+IF32
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako vas prevzame to, kar počnete. 
+
+{ANSWERS}
+0 me sploh ne prevzame 
+1
+2 me povsem prevzame 
+
+IF33
+{QUESTION}
+S pomočjo kartice prosimo povejte, kako navdušeni ste nad tem, kar počnete. 
+
+{ANSWERS}
+0 sploh nisem navdušen 
+1
+2 zelo sem navdušen 
+
+IF34
+{INTRO}
+Zadnjih par vprašanj se nanaša na vaše počutje / razpoloženje v preteklem tednu. 
+
+{QUESTION}
+Kako depresivno ste se počutili v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5 zelo depresivno
+
+IF35
+{QUESTION}
+Kako nemiren spanec ste imeli v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič 
+1
+2
+3
+4
+5 zelo nemiren 
+
+IF36
+{QUESTION}
+Kako osamljene ste se počutili v preteklem tednu?
+
+{ANSWERS}
+0 sploh nič
+1
+2
+3
+4
+5 zelo osamljeno 

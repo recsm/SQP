@@ -1,0 +1,111 @@
+﻿F15
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha completado? Por favor, use esta tarjeta.
+
+{ANSWERS}
+0 Sin estudios
+1 Estudios primarios sin completar 
+2 Certificado de Estudios Primarios 
+3 Hasta 5º de EGB
+4 Educación Primaria (LOGSE), Grado Elemental en Música y Danza
+5 F.P. de Iniciación 
+6 Bachillerato Elemental
+7 EGB 
+8 ESO
+9 F.P. Oficialía 
+10 F.P. de 1er Grado 
+11 Bachillerato Superior, BUP 
+12 PREU, COU 
+13 Bachillerato (LOGSE) 
+14 C.F. de Grado Medio (Técnico Medio), C.F. de Grado Medio en Artes Plásticas y Diseño, Grado Medio en Música y Danza 
+15 F.P. Maestría 
+16 F.P. de 2º Grado 
+17 C.F. de Grado Superior (Técnico Superior), C.F. de Grado Superior en Escuelas de Arte 
+18 Peritaje, Enfermería, Magisterio, Asistente Social 
+19 Diplomado, Ingeniero o Arquitecto Técnico, 3 años de licenciatura, Grado (Bolonia), Título Superior en Diseño 
+20 Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+21 Doctorado
+
+F44 
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha completado su marido/ esposa/ pareja?  
+
+{ANSWERS}
+0 Sin estudios
+1 Estudios primarios sin completar 
+2 Certificado de Estudios Primarios 
+3 Hasta 5º de EGB
+4 Educación Primaria (LOGSE), Grado Elemental en Música y Danza
+5 F.P. de Iniciación 
+6 Bachillerato Elemental
+7 EGB 
+8 ESO
+9 F.P. Oficialía 
+10 F.P. de 1er Grado 
+11 Bachillerato Superior, BUP 
+12 PREU, COU 
+13 Bachillerato (LOGSE) 
+14 C.F. de Grado Medio (Técnico Medio), C.F. de Grado Medio en Artes Plásticas y Diseño, Grado Medio en Música y Danza 
+15 F.P. Maestría 
+16 F.P. de 2º Grado 
+17 C.F. de Grado Superior (Técnico Superior), C.F. de Grado Superior en Escuelas de Arte 
+18 Peritaje, Enfermería, Magisterio, Asistente Social 
+19 Diplomado, Ingeniero o Arquitecto Técnico, 3 años de licenciatura, Grado (Bolonia), Título Superior en Diseño 
+20 Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+21 Doctorado
+
+F52
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su padre? Por favor, use esta tarjeta. 
+
+{ANSWERS}
+0 Sin estudios
+1 Estudios primarios sin completar 
+2 Certificado de Estudios Primarios 
+3 Hasta 5º de EGB
+4 Educación Primaria (LOGSE), Grado Elemental en Música y Danza
+5 F.P. de Iniciación 
+6 Bachillerato Elemental
+7 EGB 
+8 ESO
+9 F.P. Oficialía 
+10 F.P. de 1er Grado 
+11 Bachillerato Superior, BUP 
+12 PREU, COU 
+13 Bachillerato (LOGSE) 
+14 C.F. de Grado Medio (Técnico Medio), C.F. de Grado Medio en Artes Plásticas y Diseño, Grado Medio en Música y Danza 
+15 F.P. Maestría 
+16 F.P. de 2º Grado 
+17 C.F. de Grado Superior (Técnico Superior), C.F. de Grado Superior en Escuelas de Arte 
+18 Peritaje, Enfermería, Magisterio, Asistente Social 
+19 Diplomado, Ingeniero o Arquitecto Técnico, 3 años de licenciatura, Grado (Bolonia), Título Superior en Diseño 
+20 Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+21 Doctorado
+
+F56
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su madre? Por favor, use esta tarjeta. 
+
+{ANSWERS}
+0 Sin estudios
+1 Estudios primarios sin completar 
+2 Certificado de Estudios Primarios 
+3 Hasta 5º de EGB
+4 Educación Primaria (LOGSE), Grado Elemental en Música y Danza
+5 F.P. de Iniciación 
+6 Bachillerato Elemental
+7 EGB 
+8 ESO
+9 F.P. Oficialía 
+10 F.P. de 1er Grado 
+11 Bachillerato Superior, BUP 
+12 PREU, COU 
+13 Bachillerato (LOGSE) 
+14 C.F. de Grado Medio (Técnico Medio), C.F. de Grado Medio en Artes Plásticas y Diseño, Grado Medio en Música y Danza 
+15 F.P. Maestría 
+16 F.P. de 2º Grado 
+17 C.F. de Grado Superior (Técnico Superior), C.F. de Grado Superior en Escuelas de Arte 
+18 Peritaje, Enfermería, Magisterio, Asistente Social 
+19 Diplomado, Ingeniero o Arquitecto Técnico, 3 años de licenciatura, Grado (Bolonia), Título Superior en Diseño 
+20 Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+21 Doctorado

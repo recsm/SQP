@@ -1,0 +1,551 @@
+IF1
+{INTRO}
+Az első néhány kérdés arra vonatkozik, hogy milyen érzései vannak önmagával és az életével kapcsolatban. 
+
+{QUESTION}
+A kártya segítségével kérem mondja el, mennyire érdekli Önt általában véve az, amit csinál?
+
+{ANSWERS}
+0 Egyáltalán nem érdekel
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon érdekel  
+
+IF2
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire mélyed el abban, amit csinál?
+
+{ANSWERS}
+0 Egyáltalán nem mélyedek el 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Teljesen elmélyedek
+
+
+IF3
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire lelkesedik azért, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem vagyok lelkes
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon lelkes vagyok
+
+IF4 
+{INTRO}
+Most felolvasok Önnek néhány lehetőséget, hogyan érezhette magát vagy hogyan viselkedett az elmúlt hét folyamán.
+
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy az elmúlt hét folyamán milyen mértékben…érezte magát depressziósnak? 
+
+{ANSWERS}
+0 Egyáltalán nem vagy szinte soha
+
+1
+2
+3 Mindig vagy szinte mindig 
+
+IF5
+{QUESTION}
+… volt nyugtalan az alvása?
+
+
+{ANSWERS}
+0 Egyáltalán nem vagy szinte soha
+
+1
+2
+3 Mindig vagy szinte mindig 
+
+IF6
+{QUESTION}
+… volt magányos? 
+
+{ANSWERS}
+0 Egyáltalán nem vagy szinte soha
+
+1
+2
+3 Mindig vagy szinte mindig 
+
+IF7
+{INTRO}
+Most felteszek Önnek néhány kérdést azzal kapcsolatban, mit gondol, hogyan működik a demokrácia Szlovákiában manapság. 
+
+{QUESTION}
+A kártya segítségével kérem mondja el, mit gondol arról, hogy az ellenzéki pártoknak milyen gyakran van lehetőségük bírálni a kormányt Szlovákiában.
+
+{ANSWERS}
+0 Soha 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mindig 
+
+IF8
+{QUESTION}
+A kártya segítségével kérem mondja el, mit gondol arról, hogy a médiumoknak milyen gyakran van lehetőségük bírálni a kormányt Szlovákiában. Használja ugyanazt a kártyát. 
+
+{ANSWERS}
+0 Soha 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mindig 
+
+IF9
+{QUESTION}
+Kérem mondja el, mit gondol arról, hogy Szlovákiában a médiumok milyen gyakran közvetítenek az állampolgároknak megbízható információkat, hogy azok megítélehessék a kormányt. Használja ugyanazt a kártyát. 
+
+{ANSWERS}
+0 Soha 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mindig 
+
+IF10
+{INTRO}
+Az első néhány kérdés arra vonatkozik, hogy milyen érzései vannak önmagával és az életével kapcsolatban. 
+
+{QUESTION}
+A kártya segítségével kérem mondja el, mennyire érdekli Önt általában véve az, amit csinál?
+
+{ANSWERS}
+0 Egyáltalán  nem érdekel 
+
+1
+2
+3
+4
+5
+6 Nagyon érdekel
+
+IF11
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire mélyed el abban, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem mélyedek el
+
+1
+2
+3
+4
+5
+6 Teljesen elmélyedek
+
+
+IF12
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire lelkesedik azért, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem vagyok lelkes
+
+1
+2
+3
+4
+5
+6 Nagyon lelkes vagyok
+
+IF13
+{INTRO}
+És most néhány kérdés arról, hogyan érezhette magát vagy hogyan viselkedett az elmúlt hét folyamán. 
+
+{QUESTION}
+Milyen mértékben érezte magát depressziósnak az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem éreztem magam depressziósnak
+1
+2
+3 Rendkívül depressziósan
+
+IF14
+{QUESTION}
+Milyen mértékben volt az alvása nyugtalan az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem volt nyugtalan
+
+1
+2
+3 Rendkívül nyugtalan
+
+IF15
+{QUESTION}
+Milyen mértékben érezte magát magányosnak az elmúlt hét folyamán?
+
+{ANSWERS}
+0 Egyáltalán nem voltam magányos
+
+1
+2
+3 Rendkívül magányos voltam
+
+
+IF16
+{INTRO}
+Végül felteszek Önnek néhány kérdést azzal kapcsolatban, mit gondol, hogyan működik a demokrácia Szlovákiában manapság.
+
+{QUESTION}
+Mit gondol arról, hogy az ellenzéki pártoknak milyen mértékben van lehetőségük bírálni a kormányt Szlovákiában? Kérem használja ugyanazt a kártyát.
+
+{ANSWERS}
+0 Egyáltalán nem
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Teljes mértékben
+
+IF17
+{QUESTION}
+Mit gondol arról, hogy a médiumoknak milyen mértékben van lehetőségük bírálni a kormányt Szlovákiában. Használja ugyanazt a kártyát. 
+
+{ANSWERS}
+0 Egyáltalán nem
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Teljes mértékben
+
+
+IF18
+{QUESTION}
+Mit gondol arról, hogy Szlovákiában a médiumok milyen mértékben közvetítenek az állampolgároknak megbízható információkat, hogy azok megítélehessék a kormányt. Használja ugyanazt a kártyát.
+
+
+{ANSWERS}
+0 Egyáltalán nem
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Teljes mértékben
+
+
+IF19
+{INTRO}
+Az első néhány kérdés azokra vonatkozik, akik élni jönnek Szlovákiába más országokból.
+
+
+{QUESTION}
+Mit mondana, általában véve rossz vagy jó a szlovák gazdaságnak, ha más országokból jönnek ide élni emberek? Kérem használja ugyanazt a kártyát.
+
+{ANSWERS}
+0 Rossz a gazdaság számára
+
+1
+2
+3
+4
+5
+6 Jó a gazdaság számára
+
+
+IF20
+{QUESTION}
+És ezt a kártyát használva, megmondaná, hogy azok az emberek, akik Szlovákiába jönnek élni más országokból, általában véve veszélyeztetik vagy gazdagítják a kulturális életet?
+
+{ANSWERS}
+0 Veszélyeztetik a a kulturális életet 
+1
+2
+3
+4
+5
+6 Gazdagítják a kulturális életet
+
+
+IF21
+{QUESTION}
+Jobb vagy rosszabb az élet Szlovákiában amiatt, mert más országokból jönnek ide emberek? Kérem használja ezt a kártyát.
+
+
+{ANSWERS}
+0 Rosszabbul élünk 
+1
+2
+3
+4
+5
+6 Jobban élünk 
+
+IF22
+{INTRO}
+Az első néhány kérdés arra vonatkozik, hogy milyen érzései vannak önmagával és az életével kapcsolatban.
+
+{QUESTION}
+A kártya segítségével kérem mondja el, mennyire érdekli Önt általában véve az, amit csinál?
+
+{ANSWERS}
+0 Egyáltalán nem érdekel
+1
+2
+3
+4 Nagyon érdekel
+
+
+IF23
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire mélyed el abban, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem mélyedek el
+
+1
+2
+3
+4 Teljesen elmélyedek
+
+IF24
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire lelkesedik azért, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem vagyok lelkes
+
+1
+2
+3
+4 Nagyon lelkes vagyok
+
+
+IF25
+{INTRO}
+Végül néhány kérdés arról, hogyan érezhette magát vagy hogyan viselkedett az elmúlt hét folyamán. 
+
+{QUESTION}
+Milyen mértékben érezte magát depressziósnak az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem éreztem magam depressziósnak
+1
+2
+3
+4
+5
+6
+7
+8
+9 Rendkívül depressziósnak
+
+IF26
+{QUESTION}
+Milyen mértékben volt az alvása nyugtalan az elmúlt hét folyamán?
+
+
+{ANSWERS}
+0 Egyáltalán nem volt nyugtalan
+
+1
+2
+3
+4
+5
+6
+7
+8
+9 Rendkívül nyugtalan
+
+
+IF27
+{QUESTION}
+Milyen mértékben érezte magát magányosnak az elmúlt hét folyamán?
+
+{ANSWERS}
+0 Egyáltalán nem voltam magányos
+
+1
+2
+3
+4
+5
+6
+7
+8
+9 Rendkívül magányos voltam
+
+
+IF28
+{INTRO}
+Prvých pár otázok sa týka ľudí z iných krajín, ktorí prichádzajú žiť na Slovensko.
+
+
+{QUESTION}
+Mit mondana, általában véve rossz vagy jó a szlovák gazdaságnak, ha más országokból jönnek ide élni emberek? Kérem használja ezt a kártyát.
+
+
+{ANSWERS}
+0 Rossz a gazdaság számára
+1
+2
+3
+4 Jó a gazdaság számára
+
+
+IF29
+{QUESTION}
+És ezt a kártyát használva, megmondaná, hogy azok az emberek, akik Szlovákiába jönnek élni más országokból, általában véve veszélyeztetik vagy gazdagítják a kulturális életet?
+
+{ANSWERS}
+0 Veszélyeztetik a a kulturális életet 
+1
+2
+3
+4 Gazdagítják a kulturális életet
+
+
+IF30
+{QUESTION}
+Jobb vagy rosszabb az élet Szlovákiában amiatt, mert más országokból jönnek ide emberek? Kérem használja ezt a kártyát.
+
+
+{ANSWERS}
+0 Rosszabbul élünk
+1
+2
+3
+4 Jobban élünk 
+
+IF31
+{INTRO}
+A következő néhány kérdés arra vonatkozik, hogy milyen érzései vannak önmagával és az életével kapcsolatban.
+
+{QUESTION}
+A kártya segítségével kérem mondja el, mennyire érdekli Önt általában véve az, amit csinál?
+
+
+{ANSWERS}
+0 Egyáltalán nem érdekel
+
+1
+2 Nagyon érdekel
+
+IF32
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire mélyed el abban, amit csinál? 
+
+{ANSWERS}
+0 Egyáltalán nem mélyedek el
+1
+2 Teljesen elmélyedek
+
+
+IF33
+{QUESTION}
+A kártya segítségével kérem mondja el, hogy általában véve mennyire lelkesedik azért, amit csinál?
+
+{ANSWERS}
+0 Egyáltalán nem vagyok lelkes
+
+1 
+2 Nagyon lelkes vagyok
+
+
+IF34
+{INTRO}
+Az utolsó néhány kérdés arról szól, hogyan érezhette magát vagy hogyan viselkedett az elmúlt hét folyamán. 
+
+{QUESTION}
+Milyen mértékben érezte magát depressziósnak az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem éreztem magam depressziósnak
+1
+2
+3
+4
+5 Rendkívül depressziósnak
+
+
+IF35
+{QUESTION}
+Milyen mértékben volt az alvása nyugtalan az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem volt nyugtalan
+
+1
+2
+3
+4
+5 Rendkívül nyugtalan
+
+
+IF36
+{QUESTION}
+Milyen mértékben érezte magát magányosnak az elmúlt hét folyamán? 
+
+{ANSWERS}
+0 Egyáltalán nem voltam magányos
+
+1
+2
+3
+4
+5 Rendkívül magányos voltam
