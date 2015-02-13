@@ -1063,13 +1063,13 @@ border:0px;
 /* FAQ */
 
 .index{
-    margin-left: 50px;
+    margin-left: 20px;
     font-weight: bold;
     color: #3D404D;
 }
 
 .textTitle {
-    margin-left: 54px;
+    margin-left: 20px;
     margin-top: 30px;
     margin-bottom: 7px;
     border: 1px solid;
@@ -1077,10 +1077,10 @@ border:0px;
 }
 
 #textContainerFaq {
-    width:  800px;
+    width:  100%;
 }
 .textBody {
-    margin-left: 54px;
+    margin-left: 20px;
 }
 .tabuled {
     margin-left: 70px;
@@ -1150,12 +1150,19 @@ border:0px;
 
 .title2 {
     position: relative;
-    left: 54px;
+    left: 20px;
     font-weight: bold;
     margin: 28px 0px 3px 0px;
 }
 
 .quote {
+    position: relative;
+    left: 20px;
+    margin: 6px 0px 0px 0px;
+    width: 645px;
+}
+
+.quoteabout {
     position: relative;
     left: 54px;
     margin: 6px 0px 0px 0px;
