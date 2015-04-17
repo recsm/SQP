@@ -345,7 +345,7 @@
 			this.nodes.qEditStudy.append('<option value=""> -- select -- </option>');
 			
 			//Add in options
-			sqpBackbone.shared.studiesfitted.each(function(study) {
+			sqpBackbone.shared.studies.each(function(study) {
 				 if(study.get('id') == view.model.get('studyId')) {
 				 	var selected = 'selected="selected"'
 				 } else {
