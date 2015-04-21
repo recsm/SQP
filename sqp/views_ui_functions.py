@@ -618,11 +618,26 @@ def delete_question(user, questionId):
     else:
         raise views_ui_exceptions.ServiceError(views_ui_exceptions.no_permission, \
                                                     'Operation not permitted');
+
+
+def check_question_code(obj_request_body):
+    """Checks whether another study with the same name in the questionnaire (itemCode) exists or not"""
+    item_code = obj_request_body.get('itemCode')
+    study_id  = int(obj_request_body.get('studyId'))
+    study = models.Study.objects.get(pk=study_id)
+    exists = models.Item.objects.filter(study     = study,
+                                        admin     = item_code).count()>0
+    return exists
     
+
 def create_or_update_question(user, obj_request_body, questionId = False):
-  
     """Create or update a question. If there is no question id, a new record will be created. """
     if not questionId:
+        repeated_code=check_question_code(obj_request_body)
+        if repeated_code:
+            obj_response_body = {"repeated_code":True}
+            return obj_response_body, {}, SUCCESS, 'error_key', 'error_message'
+        
         #If there is no question id, we create a new question
         question = models.Question()
         previous_item_code = None
@@ -710,8 +725,9 @@ def create_or_update_question(user, obj_request_body, questionId = False):
         
     
     question.save()
-    
-    return get_question(user, questionId=question.id)
+    obj_response_body, meta, state = get_question(user, questionId=question.id)
+    obj_response_body["repeated_code"]=False 
+    return obj_response_body, meta, state
     
 
 def get_next_question(user, fromQuestionId, countryIso=False, languageIso=False, 
