@@ -606,26 +606,34 @@ class Item(models.Model):
 
         return False
 
-
+class Country(models.Model):
+    iso       = models.CharField(max_length=2, primary_key=True)
+    name      = models.CharField(max_length=80)
+    iso_three = models.CharField(max_length=3, blank=True, null=True)
+    available = models.BooleanField(default=False, verbose_name="The user can select the country")
+    
+    def __unicode__(self):
+        return self.name
+    
+    def get_languages(self):
+        return self.language_set.all()
+            
+    class Meta:
+        ordering = ['name',]
+        
 class Language(models.Model):
     name = models.CharField(max_length=100)
     iso =  models.CharField(max_length=3)
     iso2 =  models.CharField(max_length=2, null=True, blank=True)
     coders = models.ManyToManyField(User)
+    countries = models.ManyToManyField(Country, help_text = "Countries where the language is spoken")
+    available = models.BooleanField(default=False, verbose_name="The user can select the language")
+    
     def __unicode__(self):
         return self.name
+    
     class Meta:
         ordering = ('name',)
-
-
-class Country(models.Model):
-    iso       = models.CharField(max_length=2, primary_key=True)
-    name      = models.CharField(max_length=80)
-    iso_three = models.CharField(max_length=3, blank=True, null=True)
-    def __unicode__(self):
-        return self.name
-    class Meta:
-        ordering = ['name',]
 
 
 characteristic_trees = {}
@@ -1119,7 +1127,7 @@ class ItemGroup(models.Model):
     @staticmethod
     def m2m_changed(**kwargs):
         """If the item group changes for the bulk question creation or bulk 
-	assignment then we mark those items as not run"""
+    assignment then we mark those items as not run"""
 
         if isinstance(kwargs['instance'], ItemGroup)\
           and kwargs['action'] in ['post_add',  'post_remove', 'post_clear']:
@@ -2019,4 +2027,3 @@ class CharacteristicTree():
             if self.characteristics[key].short_name == short_name:
                 return self.characteristics[key]
         return None
-        

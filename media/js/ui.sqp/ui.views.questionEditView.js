@@ -53,7 +53,8 @@
 			"click .qEditAddNewStudy"           			: "addNewStudy",
 			"change .qEditStudy"     	       			    : "updateItemAutocomplete",
 			"change .qEditStudy, .qEditQuestionItemName"    : "updateItemInputs",
-			"change .qEditLanguage"     	       			: "updateLanguage"
+			"change .qEditLanguage"     	       			: "updateLanguage",
+			"change .qEditCountry"							: "updateCountry",
 		},
 		showInputError : function showInputError(inputNode, errorNode, message) {
 			inputNode.addClass('invalid');
@@ -258,17 +259,30 @@
 			this.updateItemAutocomplete();
 			
 			return this;	
+		},
+		updateLanguage : function () {
+			//When the language input gets changed, we have to set the right-to-left direction 
+			//for the inputs and model for languages like hebrew and arabic to work correctly
+			var val = this.$('.qEditLanguage').val();
+			if (val == 'arb' || val == 'heb') {
+				this.model.set({'rtl': true});
+			  	this.setInputDir('rtl');
+			} else {
+			  	this.model.set({'rtl': false});
+				this.setInputDir('ltr');
+			}
+			var valCountry= this.$('.qEditCountry').val();
+		    if(valCountry==''){ 
+		    	//When the country isn't already selected update selectable countries
+		    	this.renderCountrySelect();
+		    }
 	  	},
-	  	updateLanguage : function () {
-	  		//When the language input gets changed, we have to set the right-to-left direction 
-	  		//for the inputs and model for languages like hebrew and arabic to work correctly
-		    var val = this.$('.qEditLanguage').val();
-		    if (val == 'arb' || val == 'heb') {
-		    	this.model.set({'rtl': true});
-		    	this.setInputDir('rtl');
-		    } else {
-		    	this.model.set({'rtl': false});
-		    	this.setInputDir('ltr');
+	  	updateCountry : function () {
+			//When the country gets changed update languages
+		    var valLanguage= this.$('.qEditLanguage').val();
+		    if(valLanguage==''){ 
+		    	//When the Language isn't already selected update selectable languages
+		    	this.renderLanguageSelect();
 		    }
 	  	},
 	  	setInputDir : function (dir) {
@@ -360,28 +374,61 @@
 			//Add in options
 			
 			this.nodes.qEditCountry.append('<option value=""> -- select -- </option>');
-			sqpBackbone.shared.countries.each(function(country) {
-				 if(country.get('iso') == view.model.get('countryIso')) {
-				 	var selected = 'selected="selected"'
-				 } else {
-				 	var selected = '';
-				 }
-				 view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
-			});
+			
+			var valLanguage= this.$('.qEditLanguage').val();
+			if(!valLanguage){ 
+			    
+				//Render every country
+				sqpBackbone.shared.countries.each(function(country) {
+					 if(country.get('iso') == view.model.get('countryIso')) {
+					 	var selected = 'selected="selected"'
+					 } else {
+					 	var selected = '';
+					 }
+					 view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
+				});
+			}else{
+				//Render countries given a language
+				sqpBackbone.shared.languages.each(function(language){
+					if(language.get('iso')==valLanguage){
+							var countries=language.get('countries');
+							for(var i=0;i<countries.length;i++){
+								view.nodes.qEditCountry.append('<option value="' + countries[i]['iso'] + '" >' + countries[i]['name'] + '</option>');
+							}
+							
+					}
+				});
+				
+			}
+			 
 		},
 		renderLanguageSelect : function renderLanguageSelect() {
 			var view = this;
 			this.nodes.qEditLanguage.children().remove();
 			//Add in options
 			this.nodes.qEditLanguage.append('<option value=""> -- select -- </option>');
-			sqpBackbone.shared.languages.each(function(language) {
-				 if(language.get('iso') == view.model.get('languageIso')) {
-				 	var selected = 'selected="selected"'
-				 } else {
-				 	var selected = '';
-				 }
-				 view.nodes.qEditLanguage.append('<option value="' + language.get('iso') + '" ' + selected +'>' + language.get('name') + '</option>');	
-			});
+			var valCountry= this.$('.qEditCountry').val();
+		    if(!valCountry){
+				sqpBackbone.shared.languages.each(function(language) {
+					 if(language.get('iso') == view.model.get('languageIso')) {
+					 	var selected = 'selected="selected"'
+					 } else {
+					 	var selected = '';
+					 }
+					 view.nodes.qEditLanguage.append('<option value="' + language.get('iso') + '" ' + selected +'>' + language.get('name') + '</option>');	
+				});
+			}else{
+				//Render languages given a country
+				sqpBackbone.shared.countries.each(function(country){
+					if(country.get('iso')==valCountry){
+							var languages=country.get('languages');
+							for(var i=0;i<languages.length;i++){
+								view.nodes.qEditLanguage.append('<option value="' + languages[i]['iso'] + '" >' + languages[i]['name'] + '</option>');
+							}
+					}
+				});
+				
+			}
 		}
 		
   	});

@@ -408,9 +408,15 @@ def get_country_list(user):
     obj_response_body = []
     
            
-    for country in models.Country.objects.all():
+    for country in models.Country.objects.all().filter(available=True):
+        languages=country.get_languages()
+        available_lang=[]
+        for language in languages:
+            available_lang.append({'iso'  : language.iso,
+                                   'name' : language.name})
         obj_response_body.append({'iso'   : country.iso,
-                                  'name' : country.name})
+                                  'name' : country.name,
+                                  'languages': available_lang})
     
     return obj_response_body, {}, SUCCESS
 
@@ -422,9 +428,15 @@ def get_language_list(user):
 
     obj_response_body = []
    
-    for language in models.Language.objects.all():
+    for language in models.Language.objects.all().filter(available=True):
+        countries=language.countries.all()
+        available_countries=[]
+        for country in countries:
+            available_countries.append({'iso'   : country.iso,
+                                        'name' : country.name})
         obj_response_body.append({'iso'  : language.iso,
-                                  'name' : language.name,})
+                                  'name' : language.name,
+                                  'countries' : available_countries})
     
     return obj_response_body, {}, SUCCESS
 
