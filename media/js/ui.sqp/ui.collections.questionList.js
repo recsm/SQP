@@ -197,6 +197,7 @@ sqpBackbone.collections.questionList = Backbone.Collection.extend({
 		text = $.trim(text);
 		
 		if(this.searchText != text) {
+			this.page = 1;
 			this.searchText = text;
 			this.updateUrl();
 		}
