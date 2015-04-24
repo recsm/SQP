@@ -860,7 +860,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     if returnFormat == 'id_list':
         
         "for the get next question query we return a complete list of ids"
-        sql = "SELECT q.id" + base_sql
+        sql = "SELECT DISTINCT q.id" + base_sql
         
         cursor = connection.cursor()
         if q != '':
@@ -876,7 +876,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
     else:
         
-        sql = "SELECT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
+        sql = "SELECT DISTINCT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
         
         
         if q != '':
