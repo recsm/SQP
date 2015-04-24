@@ -14,13 +14,13 @@
 		
 			<label class="blockLabelFloated">Country:</label> 
 			<span class="qEditCountry blockValueFloated">{{country}}</span>
-			
+
+			<label class="blockLabelFloated">Short name (Name in the Dataset):</label> 
+			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>			
+
 			<label class="blockLabelFloated">Name in the Questionnaire:</label> 
 			<span class="qEditQuestionItemCode blockValueFloated">{{itemCode}}</span>
-			
-			<label class="blockLabelFloated">Name in the Dataset:</label> 
-			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>
-			
+		
 			<label class="blockLabelFloated">Concept:</label>
 			<span class="qEditQuestionDescription blockValueFloated">{{itemDescription}}</span>
 			{{/canEditDetails}}
@@ -41,15 +41,15 @@
 			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
 			<p class="inputErrorMessage qEditCountryError"></p>
 			
-			<label class="blockLabelFloated" for="qEditQuestionItemName">Name in the Dataset:</label> 
-			<input id="qEditQuestionItemName" class="qEditQuestionItemName blockValueFloated" value="{{itemName}}" />
-			<p class="inputErrorMessage qEditQuestionItemNameError"></p>
-			<p class="inputHelp">Optional - The name of the variable measured in the dataset. For example: TVTOT, STFGOV, POLCMPL</p>
-			
 			<label class="blockLabelFloated" for="qEditQuestionItemCode" >Name in the Questionnaire:</label> 
 			<input id="qEditQuestionItemCode" class="qEditQuestionItemCode blockValueFloated" value="{{itemCode}}" />
 			<p class="inputErrorMessage qEditQuestionItemCodeError"></p>
 			<p class="inputHelp">This is the number or name of the question in the questionnaire. For example: 1, 2, 3, A1, B3</p>
+						
+			<label class="blockLabelFloated" for="qEditQuestionItemName">Short name (Name in the Dataset):</label> 
+			<input id="qEditQuestionItemName" class="qEditQuestionItemName blockValueFloated" value="{{itemName}}" />
+			<p class="inputErrorMessage qEditQuestionItemNameError"></p>
+			<p class="inputHelp">For example: TVTOT, STFGOV, POLCMPL</p>
 			
 			<label class="blockLabelFloated" for="qEditQuestionDescriptionError">Concept:</label>
 			<input id="qEditQuestionDescriptionError" style="width:420px" class="qEditQuestionDescription blockValueFloated" value="{{itemDescription}}" />

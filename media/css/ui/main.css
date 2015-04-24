@@ -151,7 +151,7 @@ input:focus, textarea:focus, select:focus  {
 	font-weight:bold;
 	display:block;
 	float:left;
-	width:160px;
+	width:205px;
 	margin:20px 0px 0px;
 }
 
@@ -180,7 +180,7 @@ input:focus, textarea:focus, select:focus  {
 }
 
 .inputHelp {
-	margin:0px 0px 0px 160px;
+	margin:0px 0px 0px 205px;
 	width:250px;
 }
 
@@ -196,7 +196,7 @@ input:focus, textarea:focus, select:focus  {
 }
 
 .inputErrorMessage{
-	margin:0px 0px 0px 160px;
+	margin:0px 0px 0px 205px;
 	width:225px;
 }
 
