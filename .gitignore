@@ -10,3 +10,6 @@ SQP.suo
 local/sqp_log.txt
 develop/*
 fresh/*
+.project
+.settings
+.pydevproject
