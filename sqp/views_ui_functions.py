@@ -854,7 +854,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
          AND c.characteristic_set_id = %s
          %s
      %s
-    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, q.id
+    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, i.admin_subletter, q.id
     """ % (int(characteristicSetId), restrict_complete_by_user,  where)
     
     if returnFormat == 'id_list':

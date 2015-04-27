@@ -531,7 +531,7 @@ class Item(models.Model):
     study        = models.ForeignKey(Study)
     admin_letter = models.CharField(max_length=1, blank=True, null=True)
     admin_number = models.IntegerField(blank=True, null=True)
-
+    admin_subletter= models.CharField(max_length=1, blank=True, null=True)
     created_by   = models.ForeignKey(User, blank=True, null=True, related_name="created_item_set")
 
     #choices made of characteristics for this item
@@ -556,7 +556,7 @@ class Item(models.Model):
     unique_name = property(_unique_name)
 
     def code (self):
-        return("%s%s" % (self.admin_letter, self.admin_number))
+        return("%s%s" % (self.admin_letter, self.admin_number, self.admin_subletter))
 
     #Called before saving
     #Don't call save here, you will cause an infinite loop
@@ -567,8 +567,13 @@ class Item(models.Model):
             self.admin = self.code();
 
         ###Check to see if the admin is in the format A1212 B43 C4 etc...
+        #One letter followed by multiple numbers ending with a letter
+        if re.match(r'^[A-Za-z][0-9]+[A-Za-z]$', self.admin):
+            self.admin_letter = str(self.admin)[0:1]
+            self.admin_number = str(self.admin)[1:len(self.admin)-1]
+            self.admin_subletter = str(self.admin)[len(self.admin)-1:]
         #One letter followed by multiple numbers
-        if re.match(r'^[A-Za-z][0-9]+$', self.admin):
+        elif re.match(r'^[A-Za-z][0-9]+$', self.admin):
             self.admin_letter = str(self.admin)[0:1]
             self.admin_number = str(self.admin)[1:]
         #Match one letter
