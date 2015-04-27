@@ -165,7 +165,7 @@ function edit_item(id) {
         {% with q|completeness as completeness %}
 <a href="/sqp/code/{{q.id}}/?language={{request.GET.language}}&country={{request.GET.cnt}}&amp;study={{request.GET.study}}" target="coding_frame" onclick="select_item('item_{{q.id}}');" title="Code this question ({{completeness}})">
 <div class="{{completeness}}">{{q}}</div>
-			  <div class="long_name">{{q.item.long_name}}</div></a></li>
+			  <div class="concept">{{q.item.concept}}</div></a></li>
         {% endwith %}
 		{% endfor %}
 		</ul>
