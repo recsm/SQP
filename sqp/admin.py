@@ -155,6 +155,7 @@ class BranchAdmin(ModelAdmin):
 
 
 class StudyAdmin(ModelAdmin):
+    list_filter = ('created_by',)
     filter_horizontal = ('coders',)
 admin.site.register(Study, StudyAdmin)
 
