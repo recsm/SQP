@@ -31,7 +31,6 @@ def http_json_service(request, function_name):
     obj_return = None
      
     try:
-        
         #First find which function to call from the calls tuple
         call = False
         for call in calls:

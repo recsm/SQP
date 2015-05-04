@@ -48,6 +48,13 @@ def get_assigned_questions(user):
     
     return obj_response_body, meta, SUCCESS
 
+def delete_assigned_question(user,assignedQuestionId):
+    assigment=models.UserQuestion.objects.get(user=user, question=assignedQuestionId)
+    assigment.delete()
+    obj_response_body=[]
+    meta={}
+    return obj_response_body, meta, SUCCESS
+
 def render_predictions(user, questionId, \
                       predictionKeyList, completionId=0, characteristicSetId = False):
     """Loads a list of prediction objects and returns the html from the 

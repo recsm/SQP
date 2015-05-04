@@ -1051,6 +1051,10 @@ border:0px;
 	color:#882200;
 } 
 
+#assignmentNotice h3, #assignmentNotice button {
+	color:#882200;
+} 
+
 #assignmentNotice .block {
 	border-color:#FE9231;
 }

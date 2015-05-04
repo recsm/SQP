@@ -7,6 +7,12 @@ calls = ( {'name'            : 'getAssignedQuestions',
            'user_required'   : True,
            'function'        : views_ui_functions.get_assigned_questions},
          
+          {'name'            : 'assignedQuestion',
+           'return_type'     : 'payload_meta_success', 
+           'method'          : 'DELETE',
+           'user_required'   : True,
+           'function'        : views_ui_functions.delete_assigned_question},
+         
           {'name'             : 'predictionList',
            'return_type'     : 'payload_meta_success', 
            'method'          : 'GET',

@@ -61,6 +61,28 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		$('body, html').click(function() {
 			$('.characteristicDescFull, .characteristicDescFullShadow').css('visibility', 'hidden');
 		});
+		$('#removeAssigment').click(function() {
+			$('#assignmentNotice').hide();
+			var assignedQuestions = new sqpBackbone.collections.assignedQuestionsList();
+			assignedQuestions.fetch({
+				success: function() {
+					assignedQuestions.each(function(question){
+						$.ajax({
+							url: '/sqp/api/assignedQuestion/?assignedQuestionId='+ question.get("id") ,
+							type:'delete',
+							success: function(){
+								// change hash directly to trigger the route
+								window.location.hash = "#home";
+							},
+						})
+					})
+				},
+				error : function() {
+					alert('There was an error contacting the server.');
+				}
+	         });
+			
+		});
 	},
 	routes: {
 		"": 												 "home", //default
@@ -777,6 +799,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					sqpBackbone.helpers.updateAssignedCount(assignedQuestions);
 					
 					
+					$('#removeAssigment').button();
 					$('#assignedQuestionListButton').button();
 					
 				}
