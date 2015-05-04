@@ -7,6 +7,7 @@ from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list, get_p
 from django.db import connection, transaction
 import math
 import textile
+import string
 from subprocess import Popen
 from django.conf import settings
 if settings.DEBUG: import time
@@ -832,10 +833,19 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
      
     query_params.append('(q.created_by_id = %s %s %s)' % (user.id, user_assigned_query, trusted_user_query))
     """
-
     if q != '':
-        q =  '%' + q + '%'
-        query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
+        exclude = set(string.punctuation)
+        q = ''.join(c for c in q if c not in exclude) #remove punctuation symbols
+        q=q.split()
+        words=[]
+        query_word_search=[]
+        #search containing any of the words
+        for w in q: 
+            w='%' + w + '%'
+            query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
+            query_word_search.append(query)
+            words.extend([w, w, w, w, w, w])
+        query= ' OR '.join(query_word_search) 
         query_params.append(query)
     
     
@@ -864,7 +874,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
         cursor = connection.cursor()
         if q != '':
-            cursor.execute(sql, [q,q,q,q,q,q])
+            cursor.execute(sql, words)
         else:
             cursor.execute(sql)
         
@@ -880,7 +890,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
         
         if q != '':
-            qs = models.Question.objects.raw(sql, [q,q,q,q,q,q])
+            qs = models.Question.objects.raw(sql, words)
         else:
             qs = models.Question.objects.raw(sql)
             
@@ -935,7 +945,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         # Data retrieval operation - no commit required
         sql = "SELECT COUNT(q.id) " + base_sql
         if q != '':
-            cursor.execute(sql, [q,q,q,q,q,q])
+            cursor.execute(sql, words)
         else:
             cursor.execute(sql)
 
