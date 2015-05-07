@@ -845,7 +845,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
             query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
             query_word_search.append(query)
             words.extend([w, w, w, w, w, w])
-        query= ' OR '.join(query_word_search) 
+        query= ' AND '.join(query_word_search) 
         query_params.append(query)
     
     
