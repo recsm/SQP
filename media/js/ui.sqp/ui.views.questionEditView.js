@@ -227,7 +227,7 @@
 				this.renderLanguageSelect(); 
 				
 				//Bind our study select
-				sqpBackbone.shared.studies.bind('refresh', function() {
+				sqpBackbone.shared.studiesfitted.bind('refresh', function() {
 					view.renderStudySelect();
 				});
 				
@@ -345,7 +345,7 @@
 			this.nodes.qEditStudy.append('<option value=""> -- select -- </option>');
 			
 			//Add in options
-			sqpBackbone.shared.studies.each(function(study) {
+			sqpBackbone.shared.studiesfitted.each(function(study) {
 				 if(study.get('id') == view.model.get('studyId')) {
 				 	var selected = 'selected="selected"'
 				 } else {
