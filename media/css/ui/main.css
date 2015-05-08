@@ -1184,3 +1184,11 @@ border:0px;
     left: 36%;
     margin: 80px 0px 40px 0px;
 }
+
+.mail {
+	color: blue;	
+}
+
+.subparagraph{
+	font: normal 10px/1.5em  sans-serif;
+}

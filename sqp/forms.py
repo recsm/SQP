@@ -51,5 +51,6 @@ class RegistrationForm(forms.ModelForm):
         user.last_name = self.cleaned_data["last_name"]
         
         if commit:
+            user.is_active = False # not active until he opens activation link
             user.save()
         return user
