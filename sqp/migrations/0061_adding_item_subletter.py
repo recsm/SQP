@@ -9,8 +9,8 @@ class Migration(SchemaMigration):
     def forwards(self, orm):
         
         # Adding field 'Item.admin_subletter'
-        db.add_column('sqp_item', 'admin_subletter', self.gf('django.db.models.fields.CharField')(max_length=1, null=True, blank=True), keep_default=False)
-
+        db.add_column('sqp_item', 'admin_subletter', self.gf('django.db.models.fields.CharField')(max_length=8, null=True, blank=True), keep_default=False)
+        db.alter_column('sqp_item','admin_letter', models.CharField(max_length=8))
 
     def backwards(self, orm):
         

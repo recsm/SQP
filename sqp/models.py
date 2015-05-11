@@ -529,9 +529,9 @@ class Item(models.Model):
     admin        = models.CharField(max_length=8, default='')
     long_name    = models.CharField(max_length=300, default='')
     study        = models.ForeignKey(Study)
-    admin_letter = models.CharField(max_length=1, blank=True, null=True)
+    admin_letter = models.CharField(max_length=8, blank=True, null=True)
     admin_number = models.IntegerField(blank=True, null=True)
-    admin_subletter= models.CharField(max_length=1, blank=True, null=True)
+    admin_subletter= models.CharField(max_length=8, blank=True, null=True)
     created_by   = models.ForeignKey(User, blank=True, null=True, related_name="created_item_set")
 
     #choices made of characteristics for this item
@@ -565,32 +565,23 @@ class Item(models.Model):
         #Set the admin if none exists
         if not self.admin and (self.admin_letter and self.admin_number):
             self.admin = self.code();
-
-        ###Check to see if the admin is in the format A1212 B43 C4 etc...
-        #One letter followed by multiple numbers ending with a letter
-        if re.match(r'^[A-Za-z][0-9]+[A-Za-z]$', self.admin):
-            self.admin_letter = str(self.admin)[0:1]
-            self.admin_number = str(self.admin)[1:len(self.admin)-1]
-            self.admin_subletter = str(self.admin)[len(self.admin)-1:]
-        #One letter followed by multiple numbers
-        elif re.match(r'^[A-Za-z][0-9]+$', self.admin):
-            self.admin_letter = str(self.admin)[0:1]
-            self.admin_number = str(self.admin)[1:]
-        #Match one letter
-        elif re.match(r'^[A-Za-z]$', self.admin):
-            self.admin_letter = self.admin
-            self.admin_number = None
-        #Match a few numbers
-        elif re.match(r'^[0-9]+$', self.admin):
-            self.admin_letter = None
-            self.admin_number = self.admin
-        else:
-            self.admin_letter = None
-            self.admin_number = None
+        if re.match(r'^[A-Za-z]*[0-9]+[A-Za-z]*$', self.admin):
+            letters=re.split('\d+', self.admin)
+            self.admin_letter=letters[0]
+            self.admin_number=filter(None,re.split('[A-Za-z]+',self.admin))[0]
+            self.admin_subletter=letters[1]
+        elif re.match(r'^[A-Za-z]*$',self.admin): #just letters
+            self.admin_letter=self.admin
+            self.admin_number=None
+            self.admin_subletter=None
+        else: # numbers letters numbers or whatever
+            self.admin_letter=self.admin
+            self.admin_number=None
+            self.admin_subletter=None
 
 
     class Meta:
-        ordering = ('study', 'admin_letter', 'admin_number', 'id')
+        ordering = ('study', 'admin_letter', 'admin_number', 'admin_subletter', 'id')
 
 
     def can_edit(self, user):
