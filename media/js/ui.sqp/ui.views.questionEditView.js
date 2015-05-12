@@ -33,7 +33,7 @@
 		                    required 	: false,
 							maxLength	: 8},
 						   {input 		: 'qEditQuestionDescription',
-		                    required 	: false,
+		                    required 	: true,
 							is_detail   : false,
 							maxLength	: 300},
 						   {input 		: 'qEditRequestForAnswerText',
@@ -51,8 +51,6 @@
 	  	events: {
 			"click .buttonSaveQuestion"          			: "saveQuestion",
 			"click .qEditAddNewStudy"           			: "addNewStudy",
-			"change .qEditStudy"     	       			    : "updateItemAutocomplete",
-			"change .qEditStudy, .qEditQuestionItemName"    : "updateItemInputs",
 			"change .qEditLanguage"     	       			: "updateLanguage"
 		},
 		showInputError : function showInputError(inputNode, errorNode, message) {
@@ -214,6 +212,7 @@
 									this.nodes.qEditCountry,
 									this.nodes.qEditLanguage,
 									this.nodes.qEditQuestionItemName,
+									this.nodes.qEditQuestionDescription,
 									this.nodes.qEditRequestForAnswerText,
 									this.nodes.qEditAnswerOptionsTexts]
 			
@@ -254,9 +253,6 @@
 				});
 			}
 			
-			this.updateItemInputs();
-			this.updateItemAutocomplete();
-			
 			return this;	
 	  	},
 	  	updateLanguage : function () {
@@ -279,46 +275,6 @@
 	  			this.$(inputName).attr('dir', dir);
 	  		}
 	  	},
-		updateItemAutocomplete : function () {
-			//When the study is changed, we update the list of items in the autocomplete
-			//to be the items from that study
-			var view = this;
-			
-			this.nodes.qEditQuestionItemName.autocomplete('destroy');
-			
-			if(this.nodes.qEditStudy.val()) {
-				//Add in the autocomplete to the item input
-				this.nodes.qEditQuestionItemName.autocomplete({
-					source: "/sqp/api/itemAutocomplete/?studyId=" + this.nodes.qEditStudy.val(),
-					minLength: 1,
-					select: function(event, ui) {
-						view.updateItemInputs();
-						/* set the related inputs to the selected item name */
-						view.nodes.qEditQuestionDescription.val(ui.item.description);
-						view.nodes.qEditQuestionItemCode.val(ui.item.code);
-					}
-				});
-			}
-			
-		},
-		updateItemInputs : function () {
-			
-			var view = this;
-			
-			if(!this.nodes.qEditStudy.val() || !this.nodes.qEditQuestionItemName.val()) {
-				this.setItemEditable(true);
-				return;
-			}
-			
-			$.ajax({
-					url: '/sqp/api/itemCanEdit/',
-					data: {studyId: this.nodes.qEditStudy.val(), itemName : this.nodes.qEditQuestionItemName.val()},
-					success: function(data){
-						view.setItemEditable(data.canEdit);
-					},
-					dataType : 'json'
-				});
-		},
 		setItemEditable : function (canEdit) {
 			 if(canEdit) {
 			 	this.nodes.qEditQuestionItemCode.removeAttr('disabled');
