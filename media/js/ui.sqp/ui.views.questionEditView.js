@@ -168,7 +168,7 @@
 						if(model.get("repeated_code")){
 							inputNode=self.nodes.qEditQuestionItemCode;
 							errorNode=self.$( '.' +'qEditQuestionItemCodeError');
-							self.showInputError(inputNode, errorNode, 'Name in the questionnaire already exits for the selected study.');    
+							self.showInputError(inputNode, errorNode, 'This question name is already in use in the study selected, please choose a different one.');    
 						}else{
 						    //Clear the question if it was previously cached
 						    sqpBackbone.app.clearCachedQuestion();
