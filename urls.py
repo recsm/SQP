@@ -20,6 +20,7 @@ urlpatterns += patterns('',
 urlpatterns += patterns('sqp_project.sqp.views_site',
      (r'^admin/', include(admin.site.urls)),
      (r'^accounts/register/$', 'register'),
+     (r'^accounts/switch/$', 'switch_to_demo'),
 )
 
 #Using the default django views for resetting and changing passwords

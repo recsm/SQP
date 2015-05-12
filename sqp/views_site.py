@@ -50,3 +50,14 @@ def logout(request):
     logout(request)
     
     return HttpResponseRedirect('/')
+
+@login_required
+def switch_to_demo(request):
+    
+    "Logs out the user and logs in demo user."
+    from django.contrib.auth import logout
+    logout(request)
+    login_user = authenticate(username='demouser', password='demouser')
+    login(request, login_user)
+    return HttpResponseRedirect('/loadui/')
+    

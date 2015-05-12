@@ -677,7 +677,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			nodeError.fadeIn();
 			node.addClass('invalid');
 		}
-		
+		//Assign focus in and out handlers to discourage ESS like names
 		for (i=0; i< warningNodes.length; i++) {
 			node= $( '#' + warningNodes[i]);
 			nodeError  = $( '#' + warningNodes[i] + 'Error');
@@ -832,6 +832,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 
 		//New	
 		} else {
+			
+			onClose() //Cleans everything
 			
 			$("#editStudy").dialog({
 				autoOpen: true,

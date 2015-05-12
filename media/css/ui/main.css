@@ -162,6 +162,22 @@ input:focus, textarea:focus, select:focus  {
 	width:200px;
 }
 
+.blockLabelFloatedStudy {
+	clear:left;
+	font-weight:bold;
+	display:block;
+	width:240px;
+	margin:25px 10px -10px;
+}
+
+.blockValueFloatedStudy {
+	display:block;
+	float:left;
+	margin:18px 0px 1px;
+	width:395px;
+}
+
+
 .floatedLabel, .floatedValue {
 	float:left;
 	margin: 2px 6px 8px 2px;	
@@ -184,6 +200,12 @@ input:focus, textarea:focus, select:focus  {
 	width:250px;
 }
 
+.inputHelpStudy{
+	color:#888;
+	font-size:90%;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+}
 
 .inputErrorMessage, .inputErrorMessageForTextArea {
 	color:#DD4200;
@@ -198,6 +220,11 @@ input:focus, textarea:focus, select:focus  {
 .inputErrorMessage{
 	margin:0px 0px 0px 205px;
 	width:225px;
+}
+
+.inputErrorMessageStudy{
+	color:#DD4200;
+	font-size:90%;
 }
 
 
