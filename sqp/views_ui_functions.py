@@ -370,7 +370,10 @@ def get_study_list(user):
         obj_response_body.append({'id'      : study.id,
                                   'name'    : study.name,
                                   'canEdit' : study.created_by == user,
-                                  'url'     : URL.study(study.id)})
+                                  'url'     : URL.study(study.id),
+                                  'company'  : study.company,
+                                  'year'     : study.year,
+                                  'country'  : study.country})
                                   
     return obj_response_body, {}, SUCCESS
 
@@ -396,8 +399,10 @@ def get_study_list_fitted(user):
         obj_response_body.append({'id'      : study.id,
                                   'name'    : study.name,
                                   'canEdit' : study.created_by == user,
-                                  'url'     : URL.study(study.id)})
-
+                                  'url'     : URL.study(study.id),
+                                  'company'  : study.company,
+                                  'year'     : study.year,
+                                  'country'  : study.country})
     return obj_response_body, {}, SUCCESS
 
 def get_country_list(user):
@@ -1271,9 +1276,12 @@ def get_study(user, studyId):
                                                     'Operation not permitted');
     
     
-    obj_response_body = {'id'   : study.id,
-                         'name' : study.name,
-                         'url'  : URL.study(study.id)}
+    obj_response_body = {'id'       : study.id,
+                         'name'     : study.name,
+                         'url'      : URL.study(study.id),
+                         'company'  : study.company,
+                         'year'     : study.year,
+                         'country'  : study.country}
     
     return obj_response_body, {}, SUCCESS
 
@@ -1291,6 +1299,9 @@ def create_or_update_study(user, obj_request_body, studyId = False):
         
         
     study.name= obj_request_body['name']
+    study.company= obj_request_body['company']
+    study.year= obj_request_body['year']
+    study.country= obj_request_body['country']
     study.save()
     
     return get_study(user, study.id )

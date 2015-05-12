@@ -730,6 +730,11 @@ label {
 	border-width:2px;
 }
 
+.warning{
+	border-color: orange;
+	color: orange;
+}
+
 .errorInfo {
 	color:#DD4200;
 	clear:left;

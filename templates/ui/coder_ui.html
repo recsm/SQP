@@ -422,17 +422,35 @@ Coders View: {{title}}
     <!-- Add / Edit Study Dialog View -->
     <div id="editStudy" style="display:none;">
         {% ifnotequal user.username "demouser" %}
-    	<label class="blockLabelFloated" for="studyName" style="position: relative;top: 35px;left: 60px;">Study Name:</label>
+    	<label class="blockLabelFloated" for="studyName" style="position: relative;top: 35px;left: 30px;">Study Name:</label>
 	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 35px;">
         <p style="position: relative;top: -36px;height: 37px;width: 381px;left: 21px;">
-            This should be a real study containing several questions. If you only want to check a single question please
-            <a href="../accounts/login/?next=/loadui/" style="color: red;font-weight: bold;">logout</a> and use the SQP Demo</p>
-
+            This should be a real study containing several questions. If you only want to check a single question or test the program, please, logout and use the SQP
+            <a href="../accounts/login/?next=/loadui/" style="color: red;font-weight: bold;">Demo</a></p>
         {% else %}
-        <label class="blockLabelFloated" for="studyName" style="position: relative;top: 20px;left: 60px;">Study Name:</label>
+        <label class="blockLabelFloated" for="studyName" style="position: relative;top: 20px;left: 30px;">Study Name:</label>
+        <br>
 	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 20px;">
         {% endifnotequal %}
+        <p style="position: relative;top: -36px;height: 37px;width: 381px;left: 21px;">Please indicate the following details of the study you want to create:</p>
         <p id="studyNameError" class="inputErrorMessage"></p>
+        <p id="studyNameHelp" class="inputHelp">Please indicate the study name that will be used to find your questions you add to this study in SQP. 
+        Examples: ESS Round 6, ISSP 2000 Environment II, Barómetro CIS 2/2015, etc.</p>
+        <label class="blockLabelFloated" for="studyCompany" style="position: relative;top: 20px;left: 30px;">Company/Organization/Survey agency:</label>
+	    <input id="studyCompany" class="studyCompany blockValueFloated" style="position: relative;top: 20px;">
+	    <p id="studyCompanyHelp" class="inputHelp">Please indicate were do the question in this study come from. 
+	    Examples: European Social Survey, International Social Survey Programme, Centro de Investigaciones Sociológicas, etc.</p>
+        <p id="studyCompanyError" class="inputErrorMessage"></p>
+        <label class="blockLabelFloated" for="studyYear" style="position: relative;top: 20px;left: 30px;">Year/Round/Wave of study:</label>
+	    <input id="studyYear" class="studyYear blockValueFloated" style="position: relative;top: 20px;">
+	    <p id="studyYearHelp" class="inputHelp">Please indicate the time when the study took or will take place by entering the year, the questionnaire 
+	    round or wave. Examples: Round 6-2012, 2000, 2015, etc.</p>
+        <p id="studyYearError" class="inputErrorMessage"></p>
+        <label class="blockLabelFloated" for="studyCountry" style="position: relative;top: 20px;left: 30px;">Country/Region/Population under study:</label>
+	    <input id="studyCountry" class="studyCountry blockValueFloated" style="position: relative;top: 20px;">
+	    <p id="studyCountryHelp" class="inputHelp">Please indicate what is the population under study for in this study. Examples: Great Britain, Catalunya, 
+	    Dutch schools, Worldwide, etc.</p>
+        <p id="studyCountryError" class="inputErrorMessage"></p>
     </div>
     
     
