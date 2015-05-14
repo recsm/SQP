@@ -130,13 +130,13 @@
 		},
 		saveQuestion : function saveQuestion() {
 			var model = this.model;
-			
+			var self =this;
 			//Prevent double saving from clicks
-			if (this.lockSubmitButton) return;
-			this.lockSubmitButton = true;
+			if (self.lockSubmitButton) return;
+			self.lockSubmitButton = true;
 			
 			if(!this.validate()) {
-				this.lockSubmitButton = false;
+				self.lockSubmitButton = false;
 				return;
 			}
 			
@@ -156,16 +156,22 @@
 			}
 			model.save(null, {
 				error: function(model, response){ 
-					this.lockSubmitButton = false;
+					self.lockSubmitButton = false;
 					alert('There was an error contacting the server and the question could not be saved. Please check your connection and try again.');
 				},
 				success: function(model, response){
-					this.lockSubmitButton = false;
+					self.lockSubmitButton = false;
 					if (response.success == "1"){
-						
-						//Clear the question if it was previously cached
-						sqpBackbone.app.clearCachedQuestion();
-						window.location.hash = "#questionCoding/" + model.get('id');
+						//Do not pass as a "not success" unless we want a popover with the server error message 
+						if(model.get("repeated_code")){
+							inputNode=self.nodes.qEditQuestionItemCode;
+							errorNode=self.$( '.' +'qEditQuestionItemCodeError');
+							self.showInputError(inputNode, errorNode, 'This question name is already in use in the study selected, please choose a different one.');    
+						}else{
+						    //Clear the question if it was previously cached
+						    sqpBackbone.app.clearCachedQuestion();
+						    window.location.hash = "#questionCoding/" + model.get('id');
+						}
 					} else {
 						//Send the error off to the error handler
 						sqpBackbone.helpers.handleServerError(response);
