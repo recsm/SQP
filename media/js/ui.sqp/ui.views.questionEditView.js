@@ -232,7 +232,7 @@
 				this.renderLanguageSelect(); 
 				
 				//Bind our study select
-				sqpBackbone.shared.studies.bind('refresh', function() {
+				sqpBackbone.shared.studiesfitted.bind('refresh', function() {
 					view.renderStudySelect();
 				});
 				

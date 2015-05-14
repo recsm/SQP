@@ -809,7 +809,10 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 								success: function(model, response){
 									model.set({'id' : response.payload.id})
 									if (response.success == "1"){
-										/* We refresh the study list */ 
+										/* We refresh the study lists */ 
+										sqpBackbone.shared.studiesfitted.fetch({
+											error: function(err){ alert("error: " + JSON.stringify(err));}
+										});
 										sqpBackbone.shared.studies.fetch({
 											error: function(err){ alert("error: " + JSON.stringify(err));},
 											success: function(){ 
