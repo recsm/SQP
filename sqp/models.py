@@ -20,8 +20,6 @@ from sqp_project.sqp.log import logging
 from django.utils.safestring import mark_safe
 
 from django.db.models.query import QuerySet
-
-from django.contrib.auth.models import User
 from django.db.models.signals import post_save, pre_save, pre_delete, post_delete, m2m_changed
 
 from django.db.models import Q
@@ -1880,22 +1878,26 @@ bq. _Are you white black, Hispanic American, Alaskan native, Asian or Pacific Is
      (click the question mark again to close this text)
     """,
 }
-
+    
 class UserProfile(models.Model):
 
     user = models.OneToOneField(User, related_name='profile')
     default_characteristic_set = models.ForeignKey(CharacteristicSet)
     is_trusted = models.BooleanField(help_text="When a user is trusted, their questions will be visible in the question database.", default = True)
-
+    activation_key = models.CharField(max_length=40, blank=True)
+    key_expires = models.DateTimeField(default=datetime.now)
+    
     def __str__(self):
         return "%s's profile" % self.user
-
+    
     @staticmethod
-    def create_profile_for_user(user):
+    def create_profile_for_user(user, key, expires):
         charset = CharacteristicSet.objects.get(pk=settings.AUTH_PROFILE_DEFAULT_CHARACTERISTIC_SET_ID)
         profile, created = UserProfile.objects.get_or_create( \
                 user=user,
-                default_characteristic_set = charset)
+                default_characteristic_set = charset,
+                activation_key=key,
+                key_expires=expires)
         if created:
             profile.save()
 
@@ -1913,7 +1915,7 @@ class UserProfile(models.Model):
 
 
 
-post_save.connect(UserProfile.on_user_created, sender=User)
+#post_save.connect(UserProfile.on_user_created, sender=User)
 
 #Just add a on_before_save method to your instance
 def pre_save_easy_handler(sender, instance, **kwargs):
