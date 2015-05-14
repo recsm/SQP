@@ -483,6 +483,9 @@ class Study(models.Model):
     name              = models.CharField(max_length=70)
     coders            = models.ManyToManyField(User, blank=True, help_text="Deprecated")
     created_by        = models.ForeignKey(User, blank=True, null=True, related_name="created_study_set")
+    company           = models.CharField(max_length=70, null=True)
+    year              = models.CharField(max_length=70, null=True)
+    country           = models.CharField(max_length=70, null=True)
 
     def can_delete(self, user):
 
