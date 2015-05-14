@@ -330,7 +330,7 @@ def item_autocomplete(user, studyId, term):
                 results.append({'id'          : item.id, 
                                 'label'       : item.name, 
                                 'value'       : item.name,
-                                'description' : item.long_name,
+                                'description' : item.concept,
                                 'code'        : item.admin,
                                 })
     
@@ -510,7 +510,7 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
             "itemId  " :            question.item.id,   
             "country":              question.country.name,
             "language":             question.language.name,
-            "itemDescription":      question.item.long_name,
+            "itemDescription":      question.item.concept,
             "introText":            question.introduction_text,
             "requestForAnswerText": question.rfa_text,
             "answerOptionsTexts":   answer_options_text,
@@ -657,7 +657,7 @@ def create_or_update_question(user, obj_request_body, questionId = False):
         study_id  = int(obj_request_body.get('studyId'))
         study = models.Study.objects.get(pk=study_id)
         
-        def get_long_name():
+        def get_concept():
             if item_description :
                 q_text = item_description
             else:
@@ -677,10 +677,10 @@ def create_or_update_question(user, obj_request_body, questionId = False):
             question.item = item
            
             if item.can_edit(user):
-                item.long_name = get_long_name()
+                item.concept = get_concept()
                 item.admin     = item_code
                 item.save()
-            elif item.long_name != item_description or item.admin != item_code:
+            elif item.concept != item_description or item.admin != item_code:
                 raise views_ui_exceptions.ServiceError(views_ui_exceptions.no_permission, \
                                                     'Since this item is shared, you may not edit the description or the code.');
             
@@ -688,7 +688,7 @@ def create_or_update_question(user, obj_request_body, questionId = False):
             #But if there is no matching existing item by name and study, we create one
             new_item = models.Item(admin        = item_code,
                                study        = study,
-                               long_name    = get_long_name(),
+                               concept    = get_concept(),
                                name         = item_name,
                                created_by   = user)
             new_item.save()
@@ -842,7 +842,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
 
     if q != '':
         q =  '%' + q + '%'
-        query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
+        query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.concept LIKE %s OR i.admin LIKE %s)" 
         query_params.append(query)
     
     

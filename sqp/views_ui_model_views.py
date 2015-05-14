@@ -20,7 +20,7 @@ def question_base(question):
             "country":              question.country.name,
             "countryIso":           question.country.iso,
             "language":             question.language.name,
-            "itemDescription":      question.item.long_name,
+            "itemDescription":      question.item.concept,
             "hasMTMM":              question.rel
             
             }
