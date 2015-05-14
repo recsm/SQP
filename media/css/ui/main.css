@@ -606,7 +606,7 @@ label {
 }
 
 .predictionTable .columnVarName {
-	width:220px;
+	width:280px;
 }
 
 .predictionTable .columnVar, .predictionTable .columnVarName  {
@@ -620,13 +620,13 @@ label {
 }
 
 .predictionTable .columnPredictStdError {
-	width:115px;
+	width:187px;
 }
 
 
 
 .predictionTable .columnPredictInterquartile {
-	width:140px;
+	width:159px;
 }
 
 
