@@ -115,6 +115,9 @@
 		
 			// render output with ICanHaz.js template for the lists
 			this.$('.qPredictionList').html(ich.predictionList(this.model.toJSON()));
+			if(this.model.get('studyId')==88){ //special case ESS round 6
+				this.$('.showCI').hide();
+			}
 			this.$('.qPredictionCodingList').html(ich.predictionCodingList());
 			this.$('.loadingPredictionsError').hide();
 			
