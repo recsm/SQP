@@ -18,6 +18,9 @@
 			
 			// render output with ICanHaz.js template
 			$(this.el).html(ich.questionDetail(this.model.toJSON()));
+			if(this.model.get('studyId')==88){ //special case ESS round 6
+				this.$('.showCI').hide();
+			}			
 			
 			this.$('.btn').button();
 			
