@@ -417,11 +417,11 @@ admin.site.register(Parameter, ParameterAdmin)
 #admin.site.register(ParameterName)
 
 
-class CodingAdmin(ModelAdmin):
-    list_display = ('characteristic', 'question', 'choice')
-    list_filter = ('characteristic', 'question')
+#class CodingAdmin(ModelAdmin):
+#    list_display = ('characteristic', 'question', 'choice')
+#    list_filter = ('characteristic', 'question')
 
-admin.site.register(Coding, CodingAdmin)
+#admin.site.register(Coding, CodingAdmin)
 
 class HistoryAdmin(ModelAdmin):
     list_display = ('action_description', 'actor', 'user_name', 'object_model', 'object_id', 'object_name', 'action_type', 'time', )
