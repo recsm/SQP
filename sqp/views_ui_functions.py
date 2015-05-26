@@ -96,7 +96,7 @@ def render_predictions(user, questionId, \
             #find the predictor object.
             predictor = get_predictor() 
             
-            predictions = predictor.get_predictions(question.country.iso, question.language.iso, get_codes_list(codes))        
+            predictions = predictor.get_predictions(question.country_prediction.iso, question.language.iso, get_codes_list(codes))        
             
             if settings.DEBUG: 
                 elapsed = time.time() - start
@@ -408,15 +408,21 @@ def get_country_list(user):
     obj_response_body = []
     
            
-    for country in models.Country.objects.all().filter(available=True):
-        languages=country.get_languages()
-        available_lang=[]
-        for language in languages:
-            available_lang.append({'iso'  : language.iso,
-                                   'name' : language.name})
+    for country in models.Country.objects.all():
         obj_response_body.append({'iso'   : country.iso,
-                                  'name' : country.name,
-                                  'languages': available_lang})
+                                  'name' : country.name})
+    
+    return obj_response_body, {}, SUCCESS
+
+def get_country_prediction_list(user):
+    """
+    Return a list of countries that a user has been assigned to.
+    """
+    obj_response_body = []
+           
+    for country in models.Country.objects.all().filter(available=True):
+        obj_response_body.append({'iso'   : country.iso,
+                                  'name' : country.name})
     
     return obj_response_body, {}, SUCCESS
 
@@ -428,15 +434,9 @@ def get_language_list(user):
 
     obj_response_body = []
    
-    for language in models.Language.objects.all().filter(available=True):
-        countries=language.countries.all()
-        available_countries=[]
-        for country in countries:
-            available_countries.append({'iso'   : country.iso,
-                                        'name' : country.name})
+    for language in models.Language.objects.all():
         obj_response_body.append({'iso'  : language.iso,
-                                  'name' : language.name,
-                                  'countries' : available_countries})
+                                  'name' : language.name})
     
     return obj_response_body, {}, SUCCESS
 
@@ -508,12 +508,14 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
             "studyId":              question.item.study.id,
             "languageIso"  :        question.language.iso,
             "countryIso"  :         question.country.iso,
+            "countryPredictionIso": question.country_prediction.iso,
             "studyName":            question.item.study.name,
             "itemPart":             question.item.main_or_supplementary(),
             "itemCode":             question.item.admin,
             "itemName" :            question.item.name, 
             "itemId  " :            question.item.id,   
             "country":              question.country.name,
+            "countryPrediction":    question.country_prediction.name,
             "language":             question.language.name,
             "itemDescription":      question.item.long_name,
             "introText":            question.introduction_text,
@@ -615,6 +617,7 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
     obj_response_body['hasAuthorizedPrediction'] = has_authorized_prediction
     obj_response_body['hasOtherPredictions'] = len(other_predictions) > 0
     obj_response_body['ownPredictionIsAuthorized'] = user_prediction_is_authorized
+    obj_response_body['otherCountryPrediction']= (question.country != question.country_prediction)
 
     return obj_response_body, {}, SUCCESS
 
@@ -715,9 +718,11 @@ def create_or_update_question(user, obj_request_body, questionId = False):
                 
         
         country = models.Country.objects.get(iso=obj_request_body['countryIso'])
+        country_prediction = models.Country.objects.get(iso=obj_request_body['countryPredictionIso'])
         language = models.Language.objects.get(iso=obj_request_body['languageIso'])
         
         question.country = country
+        question.country_prediction = country_prediction
         question.language = language
         
     
@@ -925,7 +930,6 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
                 
                 if completion.user == user:
                     has_own_prediction = True
-            
             
             question_model_view = views_ui_model_views.question_base(question)
             

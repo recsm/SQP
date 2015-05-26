@@ -27,10 +27,6 @@ class Migration(DataMigration):
             country = sqp_models.Country.objects.get(iso=codes[0])
             country.available=True;            
             country.save();
-            language = sqp_models.Language.objects.get(iso=codes[1])
-            language.available=True;
-            language.countries.add(country)
-            language.save();
         
 
     def backwards(self, orm):

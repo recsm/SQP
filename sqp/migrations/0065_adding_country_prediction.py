@@ -7,20 +7,15 @@ from django.db import models
 class Migration(SchemaMigration):
 
     def forwards(self, orm):
-        # Adding M2M table for field countries on 'Language'
-        db.create_table('sqp_language_countries', (
-            ('id', models.AutoField(verbose_name='ID', primary_key=True, auto_created=True)),
-            ('language', models.ForeignKey(orm['sqp.language'], null=False)),
-            ('country', models.ForeignKey(orm['sqp.country'], null=False))
-        ))
-        db.create_unique('sqp_language_countries', ['language_id', 'country_id'])
-       
+        
+        # Adding field 'Question.country_prediction'
+        db.add_column('sqp_question', 'country_prediction', self.gf('django.db.models.fields.related.ForeignKey')(blank=True, related_name='prediction', null=True, to=orm['sqp.Country']), keep_default=False)
 
 
     def backwards(self, orm):
         
-        db.delete_table('sqp_language_countries')
-
+        # Deleting field 'Question.country_prediction'
+        db.delete_column('sqp_question', 'country_prediction_id')
 
 
     models = {
@@ -191,9 +186,7 @@ class Migration(SchemaMigration):
         },
         'sqp.language': {
             'Meta': {'ordering': "('name',)", 'object_name': 'Language'},
-            'available': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'coders': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['auth.User']", 'symmetrical': 'False'}),
-            'countries': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['sqp.Country']", 'symmetrical': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'iso': ('django.db.models.fields.CharField', [], {'max_length': '3'}),
             'iso2': ('django.db.models.fields.CharField', [], {'max_length': '2', 'null': 'True', 'blank': 'True'}),
@@ -219,6 +212,7 @@ class Migration(SchemaMigration):
             'Meta': {'ordering': "('item__study', 'country', 'language', 'item__admin_letter', 'item__admin_number', 'item__id')", 'object_name': 'Question'},
             'answer_text': ('django.db.models.fields.TextField', [], {'null': 'True', 'blank': 'True'}),
             'country': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Country']"}),
+            'country_prediction': ('django.db.models.fields.related.ForeignKey', [], {'blank': 'True', 'related_name': "'prediction'", 'null': 'True', 'to': "orm['sqp.Country']"}),
             'created_by': ('django.db.models.fields.related.ForeignKey', [], {'blank': 'True', 'related_name': "'created_question_set'", 'null': 'True', 'to': "orm['auth.User']"}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'imported_from': ('django.db.models.fields.CharField', [], {'max_length': '120', 'null': 'True', 'blank': 'True'}),

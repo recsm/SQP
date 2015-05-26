@@ -614,10 +614,7 @@ class Country(models.Model):
     
     def __unicode__(self):
         return self.name
-    
-    def get_languages(self):
-        return self.language_set.all()
-            
+                
     class Meta:
         ordering = ['name',]
         
@@ -626,8 +623,6 @@ class Language(models.Model):
     iso =  models.CharField(max_length=3)
     iso2 =  models.CharField(max_length=2, null=True, blank=True)
     coders = models.ManyToManyField(User)
-    countries = models.ManyToManyField(Country, help_text = "Countries where the language is spoken")
-    available = models.BooleanField(default=False, verbose_name="The user can select the language")
     
     def __unicode__(self):
         return self.name
@@ -644,6 +639,7 @@ class Question(models.Model):
     item     = models.ForeignKey(Item)
     language = models.ForeignKey(Language)
     country  = models.ForeignKey(Country)
+    country_prediction  = models.ForeignKey(Country, related_name='prediction', blank=True, null=True)
     introduction_text = models.TextField(blank=True, null=True)
     rfa_text = models.TextField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
@@ -933,7 +929,9 @@ class Question(models.Model):
         #On save we update the suggestions for the question
         if create_suggestions == True:
             self.update_suggestions()
-
+    
+    def save_through(self, *args, **kwargs):
+        super(Question,self).save(*args, **kwargs)
 
     class Meta:
         permissions = (('can_compare', 'Can create comparison report'),

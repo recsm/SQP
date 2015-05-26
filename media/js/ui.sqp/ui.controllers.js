@@ -24,6 +24,12 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		sqpBackbone.shared.countries.fetch({
 				error: function(err){ alert("error: " + JSON.stringify(err));}
 			});
+		
+		// Load prediction available countries 
+		sqpBackbone.shared.predictionCountries = new sqpBackbone.collections.countryPredictionList;
+		sqpBackbone.shared.predictionCountries.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));}
+			});
 			
 		// Load our languages
 		sqpBackbone.shared.languages = new sqpBackbone.collections.languageList;

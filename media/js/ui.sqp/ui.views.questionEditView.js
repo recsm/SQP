@@ -6,6 +6,7 @@
 		nodes : {
 			qEditStudy		 			: null,
 			qEditCountry		 		: null,
+			qEditCountryPrediction 		: null,
 			qEditLanguage	 			: null,
 			qEditRequestForAnswerText   : null,
 			qEditIntroText			    : null,
@@ -19,6 +20,9 @@
 		                    required 	: true,
 							is_detail   : true},
 						   {input 		: 'qEditCountry',
+						    is_detail   : true,
+		                    required 	: true},
+		                   {input 		: 'qEditCountryPrediction',
 						    is_detail   : true,
 		                    required 	: true},
 						   {input 		: 'qEditLanguage',
@@ -53,8 +57,8 @@
 			"click .qEditAddNewStudy"           			: "addNewStudy",
 			"change .qEditStudy"     	       			    : "updateItemAutocomplete",
 			"change .qEditStudy, .qEditQuestionItemName"    : "updateItemInputs",
-			"change .qEditLanguage"     	       			: "updateLanguage",
-			"change .qEditCountry"							: "updateCountry",
+			"change .qEditLanguage"							: "updateLanguage",
+			"change .qEditCountry"							: "checkCountry",
 		},
 		showInputError : function showInputError(inputNode, errorNode, message) {
 			inputNode.addClass('invalid');
@@ -149,12 +153,13 @@
 		
 			
 			if (model.get("canEditDetails")) {
-				model.set( {'countryIso' 		: this.nodes.qEditCountry.val(),
-					   		'languageIso' 		: this.nodes.qEditLanguage.val(),
-					   		'studyId' 			: this.nodes.qEditStudy.val(),
-							'itemCode' 			: this.nodes.qEditQuestionItemCode.val(),
-							'itemName' 			: this.nodes.qEditQuestionItemName.val(),
-							'itemDescription' 	: this.nodes.qEditQuestionDescription.val()
+				model.set( {'countryIso' 			: this.nodes.qEditCountry.val(),
+							'countryPredictionIso' 	: this.nodes.qEditCountryPrediction.val(),
+					   		'languageIso' 			: this.nodes.qEditLanguage.val(),
+					   		'studyId' 				: this.nodes.qEditStudy.val(),
+							'itemCode' 				: this.nodes.qEditQuestionItemCode.val(),
+							'itemName' 				: this.nodes.qEditQuestionItemName.val(),
+							'itemDescription' 		: this.nodes.qEditQuestionDescription.val()
 							})
 			}
 			model.save(null, {
@@ -213,18 +218,20 @@
 			//Map our required inputs
 			this.requiredInputs = [ this.nodes.qEditStudy,
 									this.nodes.qEditCountry,
+									this.nodes.qEditPredictionCountry,
 									this.nodes.qEditLanguage,
 									this.nodes.qEditQuestionItemName,
 									this.nodes.qEditRequestForAnswerText,
 									this.nodes.qEditAnswerOptionsTexts]
 			
 			this.$('.btn').button();
-			
+			this.$('.countryPrediction').hide();
 			
 			
 			if(this.model.get("canEditDetails")) {
 				this.renderStudySelect();
 				this.renderCountrySelect();
+				this.renderCountryPredictionSelect();
 				this.renderLanguageSelect(); 
 				
 				//Bind our study select
@@ -235,6 +242,11 @@
 				//Bind our country select
 				sqpBackbone.shared.countries.bind('refresh', function() {
 					view.renderCountrySelect();
+				});
+				
+				//Bind our country predicted select
+				sqpBackbone.shared.predictionCountries.bind('refresh', function() {
+					view.renderCountryPredictionSelect();
 				});
 				
 				//Bind our language select
@@ -260,29 +272,24 @@
 			
 			return this;	
 		},
-		updateLanguage : function () {
-			//When the language input gets changed, we have to set the right-to-left direction 
-			//for the inputs and model for languages like hebrew and arabic to work correctly
-			var val = this.$('.qEditLanguage').val();
-			if (val == 'arb' || val == 'heb') {
-				this.model.set({'rtl': true});
-			  	this.setInputDir('rtl');
-			} else {
-			  	this.model.set({'rtl': false});
-				this.setInputDir('ltr');
-			}
-			var valCountry= this.$('.qEditCountry').val();
-		    if(valCountry==''){ 
-		    	//When the country isn't already selected update selectable countries
-		    	this.renderCountrySelect();
+	    checkCountry : function () {
+			//When the country gets changed check if it is an allowed country for prediction
+		    var valCountry= this.$('.qEditCountry').val();
+		    var predictionCountry='';
+		    var view=this;
+		    if(valCountry!=''){ 
+		    	//return if selected country is one supported for prediction
+		    	predictionCountry=sqpBackbone.shared.predictionCountries.filter(function(country) {
+		    		return (country.get('iso')==valCountry);
+		    	});
 		    }
-	  	},
-	  	updateCountry : function () {
-			//When the country gets changed update languages
-		    var valLanguage= this.$('.qEditLanguage').val();
-		    if(valLanguage==''){ 
-		    	//When the Language isn't already selected update selectable languages
-		    	this.renderLanguageSelect();
+		    if(predictionCountry==''){ //the user needs to select a prediction country
+		    	this.$('.countryPrediction').val("");
+		    	this.$('.countryPrediction').show();
+		    }else{
+		    	this.$('.countryPrediction').hide();
+		    	this.$('.countryPrediction').val(valCountry);
+		    	
 		    }
 	  	},
 	  	setInputDir : function (dir) {
@@ -314,6 +321,18 @@
 				});
 			}
 			
+		},
+		updateLanguage : function () {
+	  		//When the language input gets changed, we have to set the right-to-left direction 
+	  		//for the inputs and model for languages like hebrew and arabic to work correctly
+		    var val = this.$('.qEditLanguage').val();
+		    if (val == 'arb' || val == 'heb') {
+		    	this.model.set({'rtl': true});
+		    	this.setInputDir('rtl');
+		    } else {
+		    	this.model.set({'rtl': false});
+		    	this.setInputDir('ltr');
+			}
 		},
 		updateItemInputs : function () {
 			
@@ -375,60 +394,53 @@
 			
 			this.nodes.qEditCountry.append('<option value=""> -- select -- </option>');
 			
-			var valLanguage= this.$('.qEditLanguage').val();
-			if(!valLanguage){ 
-			    
-				//Render every country
-				sqpBackbone.shared.countries.each(function(country) {
-					 if(country.get('iso') == view.model.get('countryIso')) {
-					 	var selected = 'selected="selected"'
-					 } else {
-					 	var selected = '';
-					 }
-					 view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
-				});
+			//Render every country
+			sqpBackbone.shared.countries.each(function(country) {
+				if(country.get('iso') == view.model.get('countryIso')) {
+					var selected = 'selected="selected"'
+				} else {
+			 		var selected = '';
+				}
+				view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
+			});
+		},
+		renderCountryPredictionSelect : function renderCountryPredictionSelect() {
+			var view = this;
+			this.nodes.qEditCountryPrediction.children().remove();
+			//Add in options
+			
+			this.nodes.qEditCountryPrediction.append('<option value=""> -- select -- </option>');
+			
+			//Render every country
+			sqpBackbone.shared.predictionCountries.each(function(country) {
+				if(country.get('iso') == view.model.get('countryPredictionIso')) {
+					var selected = 'selected="selected"'
+				} else {
+			 		var selected = '';
+				}
+				view.nodes.qEditCountryPrediction.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
+			});
+			
+			if(view.model.get('countryPredictionIso')==view.model.get('countryIso')){
+				this.$('.countryPrediction').hide();
 			}else{
-				//Render countries given a language
-				sqpBackbone.shared.languages.each(function(language){
-					if(language.get('iso')==valLanguage){
-							var countries=language.get('countries');
-							for(var i=0;i<countries.length;i++){
-								view.nodes.qEditCountry.append('<option value="' + countries[i]['iso'] + '" >' + countries[i]['name'] + '</option>');
-							}
-							
-					}
-				});
-				
+				this.$('.countryPrediction').show();
 			}
-			 
+			
 		},
 		renderLanguageSelect : function renderLanguageSelect() {
 			var view = this;
 			this.nodes.qEditLanguage.children().remove();
 			//Add in options
 			this.nodes.qEditLanguage.append('<option value=""> -- select -- </option>');
-			var valCountry= this.$('.qEditCountry').val();
-		    if(!valCountry){
-				sqpBackbone.shared.languages.each(function(language) {
-					 if(language.get('iso') == view.model.get('languageIso')) {
-					 	var selected = 'selected="selected"'
-					 } else {
-					 	var selected = '';
-					 }
-					 view.nodes.qEditLanguage.append('<option value="' + language.get('iso') + '" ' + selected +'>' + language.get('name') + '</option>');	
-				});
-			}else{
-				//Render languages given a country
-				sqpBackbone.shared.countries.each(function(country){
-					if(country.get('iso')==valCountry){
-							var languages=country.get('languages');
-							for(var i=0;i<languages.length;i++){
-								view.nodes.qEditLanguage.append('<option value="' + languages[i]['iso'] + '" >' + languages[i]['name'] + '</option>');
-							}
-					}
-				});
-				
-			}
+			sqpBackbone.shared.languages.each(function(language) {
+				if(language.get('iso') == view.model.get('languageIso')) {
+					var selected = 'selected="selected"'
+				} else {
+					var selected = '';
+				}
+					view.nodes.qEditLanguage.append('<option value="' + language.get('iso') + '" ' + selected +'>' + language.get('name') + '</option>');	
+			});
 		}
 		
   	});
