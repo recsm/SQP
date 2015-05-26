@@ -84,6 +84,12 @@ calls = ( {'name'            : 'getAssignedQuestions',
             'method'         : 'GET',
             'user_required'  : True,
             'function'       : views_ui_functions.get_country_list},
+         
+           {'name'           : 'countryPredictionList',
+            'return_type'     : 'payload_meta_success', 
+            'method'         : 'GET',
+            'user_required'  : True,
+            'function'       : views_ui_functions.get_country_prediction_list},
             
            {'name'           : 'languageList',
             'return_type'     : 'payload_meta_success', 

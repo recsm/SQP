@@ -21,7 +21,11 @@
 	<td>{{studyName}}</td>
 	<td>{{language}}</td>
 	<td>{{country}}</td>
-	<td> {{#hasMTMM}}
+	<td>
+		{{#otherPredictionCountry}}
+			<img title="Other Prediction Country"  style="padding:3px;vertical-align:middle" src="/media/img/ui/c.png" />
+		{{/otherPredictionCountry}} 
+		{{#hasMTMM}}
 		    <img title="MTMM Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" />
 		 {{/hasMTMM}}
 		 {{#hasAuthorizedPrediction}} 
@@ -33,6 +37,7 @@
 		 {{#totalOtherPredictions}} 
 				<img title="{{totalOtherPredictions}} User Prediction(s) Available"  style="padding:3px;vertical-align:middle" src="/media/img/ui/u{{totalOtherPredictions}}.png" />
 		 {{/totalOtherPredictions}}
+
 		 
 	</td>
 </script>

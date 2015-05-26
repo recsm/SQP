@@ -8,7 +8,13 @@
 		    <!-- User cannot edit details -->
 		    <label class="blockLabelFloated">Study:</label>
 		    <span class="qEditStudy blockValueFloated">{{studyName}}</span>
-		
+	
+			<label class="blockLabelFloated">Question Country:</label> 
+			<span class="qEditCountry blockValueFloated">{{country}}</span>
+			
+			<label class="blockLabelFloated countryPrediction">Prediction Country:</label> 
+			<span class="qEditCountryPrediction blockValueFloated countryPrediction">{{countryPrediction}}</span>
+
 			<label class="blockLabelFloated">Language:</label>
 			<span class="qEditLanguage blockValueFloated">{{language}}</span>
 		
@@ -18,6 +24,7 @@
 			<label class="blockLabelFloated">Short name (Name in the Dataset):</label> 
 			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>			
 
+			
 			<label class="blockLabelFloated">Name in the Questionnaire:</label> 
 			<span class="qEditQuestionItemCode blockValueFloated">{{itemCode}}</span>
 		
@@ -32,14 +39,20 @@
 		    <select id="qEditStudy" class="qEditStudy blockValueFloated"></select>
             <a class="qEditAddNewStudy" title="Add New Study">Add New Study</a>
 		    <p class="inputErrorMessage qEditStudyError"></p>
+
+			<label class="blockLabelFloated" for="qEditCountry">Question Country:</label> 
+			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
+			<p class="inputErrorMessage qEditCountryError"></p>
+			
+			<label class="blockLabelFloated countryPrediction">Prediction Country:</label> 
+			<select id="qEditCountryPrediction" class="qEditCountryPrediction countryPrediction blockValueFloated">{{countryPrediction}}</select>
+			<p class="inputErrorMessage qEditCountryPredictionError"></p>
+			<p class="inputHelp countryPrediction">In the current version, SQP 2.0 is not able to provide a quality prediction for the country selected. To get a quality prediction, please, 
+			choose a country from the list above that is more similar in terms of cultural characteristics.</p>
 		    
 			<label class="blockLabelFloated" for="qEditLanguage">Language:</label>
 			<select id="qEditLanguage" class="qEditLanguage blockValueFloated">{{language}}</select>
 			<p class="inputErrorMessage qEditLanguageError"></p>
-		
-			<label class="blockLabelFloated" for="qEditCountry">Country:</label> 
-			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
-			<p class="inputErrorMessage qEditCountryError"></p>
 			
 			<label class="blockLabelFloated" for="qEditQuestionItemCode" >Name in the Questionnaire:</label> 
 			<input id="qEditQuestionItemCode" class="qEditQuestionItemCode blockValueFloated" value="{{itemCode}}" />

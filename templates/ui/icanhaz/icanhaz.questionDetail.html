@@ -19,6 +19,9 @@
 		      <span class='qListQuestionItemDescription'>{{itemDescription}}</span><br>
 		    {{/itemDescription}}
 		    <span style="font-weight:normal;font-size:.8em;">{{studyName}}  {{country}} - {{language}}</span>
+			{{#otherCountryPrediction}}
+				<br><span style="font-weight:normal;font-size:.8em;">Prediction Country: {{countryPrediction}}</span>
+			{{/otherCountryPrediction}}
 		    </h2>
 		    
 			<div class="questionText">
@@ -140,6 +143,12 @@
 						<th>Options</th>
 					</tr>
 				
+					{{#otherCountryPrediction}}
+							<tr>
+								<td><img title="Other Country Prediction"  style="padding:3px;vertical-align:middle" src="/media/img/ui/c.png" />
+								Other Country Prediction: <font color=orange> {{countryPrediction}}</font></td>
+							</tr>
+					{{/otherCountryPrediction}}
 					{{#hasMTMM}}
 						<tr>
 							<td><img title="MTMM Estimate"  style="padding:3px;vertical-align:middle" src="/media/img/ui/m.png" />
@@ -192,6 +201,9 @@
 							{{/predictionQuality}}
 						</tr>
 					{{/ownPredictionIsAuthorized}}
+					
+
+
 					
 				</table>
 			</div>

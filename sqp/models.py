@@ -6,9 +6,9 @@ import copy
 from datetime import datetime
 
 from sqp.views_ui_utils import get_branch, get_label
-
 from django.db import models
 from django.contrib.auth.models import User
+
 from django.contrib import admin
 from django.core import serializers
 from django.core.cache import cache
@@ -20,6 +20,7 @@ from sqp_project.sqp.log import logging
 from django.utils.safestring import mark_safe
 
 from django.db.models.query import QuerySet
+from django.contrib.auth.models import User
 from django.db.models.signals import post_save, pre_save, pre_delete, post_delete, m2m_changed
 
 from django.db.models import Q
@@ -603,7 +604,18 @@ class Item(models.Model):
 
         return False
 
-
+class Country(models.Model):
+    iso       = models.CharField(max_length=2, primary_key=True)
+    name      = models.CharField(max_length=80)
+    iso_three = models.CharField(max_length=3, blank=True, null=True)
+    available = models.BooleanField(default=False, verbose_name="The user can select the country")
+    
+    def __unicode__(self):
+        return self.name
+                
+    class Meta:
+        ordering = ['name',]
+        
 class Language(models.Model):
     name = models.CharField(max_length=100)
     iso =  models.CharField(max_length=3)
@@ -611,18 +623,9 @@ class Language(models.Model):
     coders = models.ManyToManyField(User)
     def __unicode__(self):
         return self.name
+
     class Meta:
         ordering = ('name',)
-
-
-class Country(models.Model):
-    iso       = models.CharField(max_length=2, primary_key=True)
-    name      = models.CharField(max_length=80)
-    iso_three = models.CharField(max_length=3, blank=True, null=True)
-    def __unicode__(self):
-        return self.name
-    class Meta:
-        ordering = ['name',]
 
 
 characteristic_trees = {}
@@ -633,6 +636,7 @@ class Question(models.Model):
     item     = models.ForeignKey(Item)
     language = models.ForeignKey(Language)
     country  = models.ForeignKey(Country)
+    country_prediction  = models.ForeignKey(Country, related_name='prediction', blank=True, null=True)
     introduction_text = models.TextField(blank=True, null=True)
     rfa_text = models.TextField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
@@ -923,6 +927,8 @@ class Question(models.Model):
         if create_suggestions == True:
             self.update_suggestions()
 
+    def save_through(self, *args, **kwargs):
+        super(Question,self).save(*args, **kwargs)
 
     class Meta:
         permissions = (('can_compare', 'Can create comparison report'),
@@ -2021,3 +2027,4 @@ class CharacteristicTree():
                 return self.characteristics[key]
         return None
         
+
