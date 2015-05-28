@@ -10,8 +10,8 @@ class Migration(SchemaMigration):
     def forwards(self, orm):
         
         # Adding field 'Question.country_prediction'
-        db.add_column('sqp_question', 'country_prediction', self.gf('django.db.models.fields.related.ForeignKey')(blank=True, related_name='prediction',charset='latin1', null=True, to=orm['sqp.Country']), keep_default=False)
-
+        db.execute('alter table sqp_question add country_prediction_id varchar(2) character set latin1 null')
+        db.execute('alter table sqp_question add constraint fk_prediction_country foreign key (country_prediction_id) references sqp_country(iso)')
 
     def backwards(self, orm):
         

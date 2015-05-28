@@ -636,7 +636,7 @@ class Question(models.Model):
     item     = models.ForeignKey(Item)
     language = models.ForeignKey(Language)
     country  = models.ForeignKey(Country)
-    country_prediction  = models.ForeignKey(Country, related_name='prediction', blank=True, null=True)
+    country_prediction  = models.ForeignKey(Country, related_name='prediction_country', blank=True, null=True)
     introduction_text = models.TextField(blank=True, null=True)
     rfa_text = models.TextField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
