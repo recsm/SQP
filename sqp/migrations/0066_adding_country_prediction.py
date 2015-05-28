@@ -1,36 +1,22 @@
 # encoding: utf-8
 import datetime
 from south.db import db
-from south.v2 import DataMigration
+from south.v2 import SchemaMigration
 from django.db import models
-import codecs
+from xml.dom.pulldom import CHARACTERS
 
-from django.conf import settings
-from sqp import models as sqp_models
-
-class Migration(DataMigration):
+class Migration(SchemaMigration):
 
     def forwards(self, orm):
-        """Sets as available to select by the user those languages and countries in the file.
-         Besides, creates the allowed combinations of languages and countries"""
-
-        Q_BASE_DIR  = settings.PROJECT_DIR + '/data/available_lang_countries/'
-        file_name ='available_lang_countries.txt'
-
-         #utf-8-sig to get rid of the utf-8 BOM /ufeff
-         #http://stackoverflow.com/questions/9228202/tokenizing-unicode-using-nltk
-        input_file = codecs.open(Q_BASE_DIR + file_name, "r", "utf-8-sig")
-
-        for line in input_file:
-            line=line.replace('\n','') 
-            codes=line.split('\t') #codes[0] country codes[1] language
-            country = sqp_models.Country.objects.get(iso=codes[0])
-            country.available=True;            
-            country.save();
         
+        # Adding field 'Question.country_prediction'
+        db.add_column('sqp_question', 'country_prediction', self.gf('django.db.models.fields.related.ForeignKey')(blank=True, related_name='prediction',charset='latin1', null=True, to=orm['sqp.Country']), keep_default=False)
+
 
     def backwards(self, orm):
-        "Write your backwards methods here."
+        
+        # Deleting field 'Question.country_prediction'
+        db.delete_column('sqp_question', 'country_prediction_id')
 
 
     models = {
@@ -201,9 +187,7 @@ class Migration(DataMigration):
         },
         'sqp.language': {
             'Meta': {'ordering': "('name',)", 'object_name': 'Language'},
-            'available': ('django.db.models.fields.BooleanField', [], {'default': 'False'}),
             'coders': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['auth.User']", 'symmetrical': 'False'}),
-            'countries': ('django.db.models.fields.related.ManyToManyField', [], {'to': "orm['sqp.Country']", 'symmetrical': 'False'}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'iso': ('django.db.models.fields.CharField', [], {'max_length': '3'}),
             'iso2': ('django.db.models.fields.CharField', [], {'max_length': '2', 'null': 'True', 'blank': 'True'}),
@@ -229,6 +213,7 @@ class Migration(DataMigration):
             'Meta': {'ordering': "('item__study', 'country', 'language', 'item__admin_letter', 'item__admin_number', 'item__id')", 'object_name': 'Question'},
             'answer_text': ('django.db.models.fields.TextField', [], {'null': 'True', 'blank': 'True'}),
             'country': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['sqp.Country']"}),
+            'country_prediction': ('django.db.models.fields.related.ForeignKey', [], {'blank': 'True', 'related_name': "'prediction'", 'null': 'True', 'to': "orm['sqp.Country']"}),
             'created_by': ('django.db.models.fields.related.ForeignKey', [], {'blank': 'True', 'related_name': "'created_question_set'", 'null': 'True', 'to': "orm['auth.User']"}),
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
             'imported_from': ('django.db.models.fields.CharField', [], {'max_length': '120', 'null': 'True', 'blank': 'True'}),
