@@ -55,7 +55,7 @@
 	  	events: {
 			"click .buttonSaveQuestion"          			: "saveQuestion",
 			"click .qEditAddNewStudy"           			: "addNewStudy",
-			"change .qEditLanguage"     	       			: "updateLanguage"
+			"change .qEditLanguage"     	       			: "updateLanguage",
 			"change .qEditStudy"     	       			    : "updateItemAutocomplete",
 			"change .qEditStudy, .qEditQuestionItemName"    : "updateItemInputs",
 			"change .qEditLanguage"							: "updateLanguage",
