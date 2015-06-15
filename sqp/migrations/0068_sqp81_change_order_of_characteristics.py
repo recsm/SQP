@@ -30,13 +30,26 @@ class Migration(SchemaMigration):
         """)
         
         #5
+            #1->52 if 1=1
+        db.execute_many("""
+        UPDATE sqp_branch SET to_characteristic_id = 52 WHERE label_id in (SELECT id FROM sqp_label WHERE characteristic_id = 1 and code=1);
+        """)
+            #52->4
+        db.execute_many("""
+        UPDATE sqp_branch SET to_characteristic_id = 4 WHERE label_id in (SELECT id FROM sqp_label WHERE characteristic_id = 52);
+        """)
+            #6->8
+        db.execute_many("""
+        UPDATE sqp_branch SET to_characteristic_id = 8 WHERE label_id in (SELECT id FROM sqp_label WHERE characteristic_id = 6);
+        """)
+        
         
         
         #6
         db.execute_many("""
         UPDATE sqp_characteristic SET name = 'Maximum possible value' WHERE id = 75;
         """)
-        #7
+        
         
         #8
         db.execute_many("""
