@@ -215,7 +215,7 @@ Swaziland	SZ	SWZ
 Sweden	SE	SWE
 Switzerland	CH	CHE
 Syrian Arab Republic	SY	SYR
-Taiwan, Province of China	TW	TWN
+Taiwan	TW	TWN
 Tajikistan	TJ	TJK
 Tanzania, United Republic of	TZ	TZA
 Thailand	TH	THA

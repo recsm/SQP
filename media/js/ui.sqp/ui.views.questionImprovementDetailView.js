@@ -37,7 +37,7 @@
 					$(tr).append('<td>' + label + '</td>');
 					$(tr).append('<td style="width:10%;">' + qual2[i][1] + '</td>');
 					
-					var difference = Math.round((qual2[i][1] - questionQuality) * 1000) / 1000;
+					var difference = Math.round((qual2[i][1] - questionQuality) * 100) / 100;
 					if(difference < 0) {
 						width = difference * -1 * 500;
 						$(tr).append('<td style="width:15%;border-right:1px solid #ccc;padding-right:0px;"><div style="float:right;margin-top:2px;background-color:#D0735F;width:'

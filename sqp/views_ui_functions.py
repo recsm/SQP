@@ -221,7 +221,6 @@ def get_potential_improvements(user, questionId, xname, params, completionId=0, 
     else:
         loadChoiceOptions = False
     
-
     for what in params:
         selected_improvements = predictor.get_conditional_effects(question.country.iso, question.language.iso, \
                                      get_codes_list(codes), what, xname)
@@ -881,17 +880,18 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
     if q != '':
         exclude = set(string.punctuation)
         q = ''.join(c for c in q if c not in exclude) #remove punctuation symbols
-        q=q.split()
-        words=[]
-        query_word_search=[]
-        #search containing any of the words
-        for w in q: 
-            w='%' + w + '%'
-            query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.concept LIKE %s OR i.admin LIKE %s)" 
-            query_word_search.append(query)
-            words.extend([w, w, w, w, w, w])
-        query= ' AND '.join(query_word_search) 
-        query_params.append(query)
+        if q!='':
+            q=q.split()
+            words=[]
+            query_word_search=[]
+            #search containing any of the words
+            for w in q: 
+                w='%' + w + '%'
+                query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.concept LIKE %s OR i.admin LIKE %s)" 
+                query_word_search.append(query)
+                words.extend([w, w, w, w, w, w])
+            query= ' AND '.join(query_word_search) 
+            query_params.append(query)
     
     
     where = 'WHERE (' + '\n AND '.join(query_params) + ')'

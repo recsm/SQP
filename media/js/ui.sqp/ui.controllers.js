@@ -760,7 +760,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 						var studyCompany = jQuery.trim($('#studyCompany').val());
 						var studyYear = jQuery.trim($('#studyYear').val());
 						var studyCountry = jQuery.trim($('#studyCountry').val());
-						var forbiddenNames = ['fake', 'test', 'proba', 'prova', 'prueba', 'demo', 'new', 'nova', 'own', 'mine', 'try', 'versuch', 'probe'];
+						var forbiddenNames = ['fake', 'test', 'proba', 'prova', 'prueba', 'demo', 'new', 'nova', 'own', 'mine', 'try', 'versuch', 'probe', 'sqp', 'survey quality predictor', 'question'];
 						var pattern = new RegExp("[A-Za-z0-9]");
 												
 						clearErrors();
@@ -777,7 +777,10 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 							nodeError=$('#studyNameError');
 							message ='Please use a meaningful study name. For testing the program you can use the SQP Demo.';
 							invalidate();
-						}
+						}else if(studyName == studyCompany && studyCompany == studyYear && studyYear==studyCountry){
+							//all boxes have the same value and is not empty
+							
+						} 
 						if(studyCompany == '') {
 							node= $('#studyCompany');
 							nodeError=$('#studyCompanyError');
@@ -796,6 +799,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 							message ='This value is required';
 							invalidate();
 						}
+						
 						
 						if(valid) { 
 							if(study) {

@@ -41,7 +41,7 @@ class CompletionAdmin(ModelAdmin):
     raw_id_fields = ("question",)
     list_display = ('question', 'user', 'characteristic_set','complete', 'authorized')
     exclude = ('predictions', 'potential_improvements', 'out_of_date' )
-    list_filter = ('complete', 'authorized', 'user', 'characteristic_set', 'question__item__study', 'question__item', 'question__country', 'question__language')
+    list_filter = ('complete', 'authorized', 'user', 'characteristic_set', 'question__item__study', 'question__item', 'question__country','question__country_prediction', 'question__language')
     readonly_fields = ('complete', 'coding_list_tree', 'coding_list_all')
     actions = ['mark_as_authorized', 'mark_as_not_authorized', 'assign_codings_to_other_user']
 
@@ -179,8 +179,8 @@ admin.site.register(Country, CountryAdmin)
 
 
 class QuestionAdmin(ModelAdmin):
-    list_display = ('item', 'language', 'country', 'created_by')
-    list_filter = ('item__study', 'item', 'language', 'country')
+    list_display = ('item', 'language', 'country', 'country_prediction', 'created_by')
+    list_filter = ('item__study', 'item', 'language', 'country', 'country_prediction')
     search = ('introduction_text', 'rfa_text', 'answer_text', 'created_by__name')
 
 admin.site.register(Question, QuestionAdmin)

@@ -21,7 +21,7 @@ sqpBackbone.models.potentialImprovement = Backbone.Model.extend({
 		var qualMax = this.getQualMax();
 		this.set({
 		 	'qualMax' : qualMax ,
-			'potentialImprovement' : Math.round((qualMax  - this.get('questionQuality')) * 1000) / 1000,
+			'potentialImprovement' : Math.round((qualMax  - this.get('questionQuality')) * 100) / 100,
 			'potentialImprovementVisual' : Math.ceil(((qualMax) - this.get('questionQuality')) * 500)
 		});
 		
