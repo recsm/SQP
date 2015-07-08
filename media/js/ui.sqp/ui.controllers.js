@@ -778,8 +778,19 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 							message ='Please use a meaningful study name. For testing the program you can use the SQP Demo.';
 							invalidate();
 						}else if(studyName == studyCompany && studyCompany == studyYear && studyYear==studyCountry){
-							//all boxes have the same value and is not empty
-							
+							message ='Text in all boxes can not be the same. Please use meaningful information.';
+							node= $('#studyName');
+							nodeError=$('#studyNameError');
+							invalidate();
+							node= $('#studyCompany');
+							nodeError=$('#studyCompanyError');
+							invalidate();
+							node= $('#studyYear');
+							nodeError=$('#studyYearError');
+							invalidate();
+							node= $('#studyCountry');
+							nodeError=$('#studyCountryError');
+							invalidate();			
 						} 
 						if(studyCompany == '') {
 							node= $('#studyCompany');
@@ -850,7 +861,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			$("#editStudy").dialog({
 				autoOpen: true,
 				height: 500,
-				width: 450,
+				width: 500,
 				modal: true,
 				resizable : false,
 				title : 'Edit Study',
@@ -873,7 +884,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			$("#editStudy").dialog({
 				autoOpen: true,
 				height: 500,
-				width: 450,
+				width: 500,
 				modal: true,
 				resizable : false,
 				title : 'Add New Study',

@@ -167,14 +167,14 @@ input:focus, textarea:focus, select:focus  {
 	font-weight:bold;
 	display:block;
 	width:240px;
-	margin:25px 10px -10px;
+	margin:17px 10px -10px;
 }
 
 .blockValueFloatedStudy {
 	display:block;
 	float:left;
 	margin:18px 0px 1px;
-	width:395px;
+	width:455px;
 }
 
 
