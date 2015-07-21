@@ -11,6 +11,8 @@ from email.MIMEImage import MIMEImage
 import os
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.decorators import login_required
+from django.conf import settings
+from django.contrib.sites.models import Site
 
 
 def introduction(request):
@@ -30,7 +32,6 @@ def register(request):
     
     if request.method == 'POST':
         form = forms.RegistrationForm(request.POST)
-        
         if form.is_valid():
             form.save()
             #login user
@@ -45,18 +46,21 @@ def register(request):
                 login(request, login_user)
                 return HttpResponseRedirect('/loadui/')
             else:
+                domain = Site.objects.get_current().domain
                 # Send email with activation key
                 data= Context({'username': login_user.username,
                                'activation_key': activation_key,
                                'first_name' : login_user.first_name,
-                               'last_name' : login_user.last_name,})
+                               'last_name' : login_user.last_name,
+                               'domain': domain})
                 html_template = get_template('sqp/confirmation_email.html')
                 
-                from_email="sqp@upf.edu"
+                from_email=settings.DEFAULT_FROM_EMAIL;
                 email_subject = 'SQP account confirmation'
-                text_content = "Congratulations %s %s, thanks for signing up. To activate your account, click this link http://local-sqp.upf.edu/accounts/confirm/%s/" % (login_user.first_name,login_user.last_name, activation_key)
+                text_content = "Congratulations %s %s, thanks for signing up. To activate your account, click this link http://%s/accounts/confirm/%s/" % (login_user.first_name,login_user.last_name, domain, activation_key)
                 html_render = html_template.render(data)
                 html_content= html_render.replace("activation_key_string", activation_key)
+                html_content= html_render.replace("domain_string", domain)
 
                 msg = EmailMultiAlternatives(email_subject, text_content, from_email, [login_user.email])
                 msg.attach_alternative(html_content, "text/html")
