@@ -18,7 +18,7 @@ class Migration(DataMigration):
             q.country_prediction=q.country
             q.save_through()
         
-        default_country=sqp_models.Country.objects.get(iso='US')
+        default_country=sqp_models.Country.objects.get(iso='XX')
         questions=sqp_models.Question.objects.filter(country__available=False).update(country_prediction=default_country)
         
 

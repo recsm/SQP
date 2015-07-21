@@ -247,3 +247,4 @@ Western Sahara	EH	ESH
 Yemen	YE	YEM
 Zambia	ZM	ZMB
 Zimbabwe	ZW	ZWE
+No country XX XXX

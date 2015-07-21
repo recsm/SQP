@@ -60,10 +60,10 @@ def register(request):
                 text_content = "Congratulations %s %s, thanks for signing up. To activate your account, click this link http://%s/accounts/confirm/%s/" % (login_user.first_name,login_user.last_name, domain, activation_key)
                 html_render = html_template.render(data)
                 html_content= html_render.replace("activation_key_string", activation_key)
-                html_content= html_render.replace("domain_string", domain)
+                html_content2= html_content.replace("domain_string", domain)
 
                 msg = EmailMultiAlternatives(email_subject, text_content, from_email, [login_user.email])
-                msg.attach_alternative(html_content, "text/html")
+                msg.attach_alternative(html_content2, "text/html")
 
                 msg.mixed_subtype = 'related'
 
