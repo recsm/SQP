@@ -940,7 +940,7 @@ class Question(models.Model):
                 ('can_export', 'Can export codings') )
 
     def __unicode__(self):
-        return u'%s - %s %s' % (self.item, self.country, self.language)
+        return u'%s - %s %s, %s' % (self.item, self.language, self.country, self.country_prediction)
 
 #    def copy_codes(to_question, request):
 #        """Handles copying of codes for question specified in request.POST
