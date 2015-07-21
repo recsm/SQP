@@ -2,6 +2,6 @@ ALL THE FILES IN THE ROOT OF THE DIRECTORY /MEDIA/JS ARE LEGACY
 
 They are only used for /spq/items/compare to compare codings
 
-The folders ui.libs, ui.sqp, and admin are not legacy, they are used in the sqp 2.0 interface or django admin
+The folders ui.libs, ui.sqp, and admin are not legacy, they are used in the sqp 2.1 interface or django admin
 
 
