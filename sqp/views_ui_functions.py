@@ -222,7 +222,7 @@ def get_potential_improvements(user, questionId, xname, params, completionId=0, 
         loadChoiceOptions = False
     
     for what in params:
-        selected_improvements = predictor.get_conditional_effects(question.country.iso, question.language.iso, \
+        selected_improvements = predictor.get_conditional_effects(question.country_prediction.iso, question.language.iso, \
                                      get_codes_list(codes), what, xname)
         
         # for i in range(0, len(selected_improvements)):

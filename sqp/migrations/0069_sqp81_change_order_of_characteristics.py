@@ -21,7 +21,7 @@ class Migration(SchemaMigration):
         db.execute_many("""
         UPDATE sqp_label SET name = 'More than 3 category scales' WHERE id = 107;
         UPDATE sqp_label SET name = 'Two-category scales' WHERE id = 108;
-        UPDATE sqp_label SET name = 'Numerical open-ended answers' id = 109;
+        UPDATE sqp_label SET name = 'Numerical open-ended answers' WHERE id = 109;
         """)
 
         #4
@@ -64,12 +64,11 @@ class Migration(SchemaMigration):
         UPDATE sqp_characteristic SET name = 'Request on the show card' WHERE id = 56;
         """) 
 
+    def backwards(self, orm):
+        "Write your backwards methods here."
        
         
            
-
-    def backwards(self, orm):
-    
         
 
     complete_apps = ['sqp']
