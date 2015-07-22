@@ -12,7 +12,7 @@ class Migration(DataMigration):
 
     def forwards(self, orm):
         """Updates the list of countries and languages"""
-        noCountry=sqp_models.Country(iso="XX", iso_three="XXX",name="No country selected")
+        noCountry=sqp_models.Country(iso="XX", iso_three="XXX",name="No country selected", available=True)
         noCountry.save()
         #Updating country source SC, repeated iso
         countryNew=sqp_models.Country(iso="SX", iso_three="",name="SOURCE SC")

@@ -310,6 +310,13 @@ input:focus, textarea:focus, select:focus  {
 	color:#999;
 }
 
+.searchWarning{
+	color:#888;
+	font-size: 10px;
+	font-style: italic;
+	
+}
+
 label {
 	cursor:pointer;
 }
