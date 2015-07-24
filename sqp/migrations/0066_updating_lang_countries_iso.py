@@ -43,7 +43,12 @@ class Migration(DataMigration):
             except sqp_models.Country.DoesNotExist:
                 country=sqp_models.Country(iso=codes[1], iso_three=codes[2],name=codes[0])
                 country.save()
-
+        
+        #Change label of Taiwan
+        country = sqp_models.Country.objects.get(iso="TW")
+        country.name="Taiwan"
+        country.save()
+        
         file_name ='languages_iso.txt'
 
         input_file = codecs.open(Q_BASE_DIR + file_name, "r", "utf-8-sig")
