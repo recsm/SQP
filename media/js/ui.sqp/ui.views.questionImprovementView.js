@@ -247,7 +247,7 @@
 			var view=this;
 			if(this.showImprovementList != 'all') {
 			
-				var intro = "<p>The top variables by effect in general have been evaluated. However for this specific question, other variables may also be important.</p>"
+				var intro = "<p>The top variables that have, in general, the most impact, over all questions, have been evaluated. However for this specific question, other variables may also be important.</p>"
 				var link  = $(intro + '<div class="buttonHolder" style="padding-bottom:10px;"><button class="btn qImprovementAllLink">Evaluate all remaining variables &gt;</button></div>');
 				$('.qImprovementListLoadAllHolder').append(link);
 				$('.qImprovementAllLink').click(function() {view.loadList('all');$('.qImprovementListLoadAllHolder').html('');view.renderListTitle();});
