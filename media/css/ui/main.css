@@ -1124,7 +1124,21 @@ border:0px;
 }
 .textBody {
     margin-left: 20px;
+
 }
+
+.idented{
+	margin-left:80px;
+}
+
+.caption {
+    margin-left: 80px;
+    font-weight: bold;
+    
+}
+
+
+
 .tabuled {
     margin-left: 70px;
 }

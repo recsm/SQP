@@ -108,6 +108,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		"help":												 "help",		// #help
 		"about": 											 "about", // #about
         "faq":                                               "faq", // #faq
+        "limits":                                            "limits", // #limits
 		"settings":											 "settings",	
 		"studies":											 "studies",
 		"search":											 "search",
@@ -677,6 +678,12 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		this.currentView = 'about';
 		$("#pageFAQ").fadeIn();
 		$('#faqTab').removeClass('unselectedtab').addClass( 'selectedtab');
+	},
+    limits: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'limits';
+		$("#pageLimits").fadeIn();
+		$('#limitsTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
 	settings: function(){
 		sqpBackbone.helpers.hideAllPages();
