@@ -78,7 +78,7 @@
 									 'title' : "All Variables"}
 							},
 		removeVars : [   // A list of vars never to show in potential improvements since they are not useful
-			'concept', 'domain', 'socdesir', 'country', 'language', 'avgabs_intro', 'study', 'past', 'avgsy_total', 'avgwrd_total', 'avgabs_total', 'avgwrd_intro', 'nsyll_total','future', 'position'
+			'concept', 'domain', 'socdesir', 'country', 'language', 'avgabs_intro', 'study', 'past', 'avgsy_total', 'avgwrd_total', 'avgabs_total', 'avgwrd_intro', 'nsyll_total','future', 'repetition', 'from'
 		],
 		onImprovementsLoaded : false, /* This can be overridden by the options passed to the view */
 		xNames : [],
