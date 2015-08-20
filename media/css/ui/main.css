@@ -1005,6 +1005,10 @@ a, .linkActive {
 	color:#2452f5;
 }
 
+.linkTab a{
+	text-decoration:underline;
+}
+
 .linkDisabled {
 	color:#777;
 	text-decoration:none;
