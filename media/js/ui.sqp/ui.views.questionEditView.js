@@ -406,7 +406,9 @@
 				} else {
 			 		var selected = '';
 				}
-				view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');	
+				if(country.get('iso')!='XX'){//if country is not "no country selected
+					view.nodes.qEditCountry.append('<option value="' + country.get('iso') + '" ' + selected +'>' + country.get('name') + '</option>');
+				}	
 			});
 		},
 		renderCountryPredictionSelect : function renderCountryPredictionSelect() {
