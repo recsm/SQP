@@ -173,9 +173,9 @@
 					if (response.success == "1"){
 						//Do not pass as a "not success" unless we want a popover with the server error message 
 						if(model.get("repeated_code")){
-							inputNode=self.nodes.qEditQuestionItemCode;
-							errorNode=self.$( '.' +'qEditQuestionItemCodeError');
-							self.showInputError(inputNode, errorNode, 'This question name is already in use in the study selected, please choose a different one.');    
+							inputNode=self.nodes.qEditQuestionDescription;
+							errorNode=self.$( '.' +'qEditQuestionDescriptionError');
+							self.showInputError(inputNode, errorNode, 'For the study selected, the question you created already exists. Go to the SQP database to find your question of interest.');    
 						}else{
 						    //Clear the question if it was previously cached
 						    sqpBackbone.app.clearCachedQuestion();

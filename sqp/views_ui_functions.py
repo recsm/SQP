@@ -647,20 +647,36 @@ def delete_question(user, questionId):
                                                     'Operation not permitted');
 
 
-def check_question_code(obj_request_body):
-    """Checks whether another study with the same name in the questionnaire (itemCode) exists or not"""
+def check_question_for_repetition(obj_request_body):
+    """Check if the question already exists"""
+    exists = False
     item_code = obj_request_body.get('itemCode')
+    item_name = obj_request_body['itemName']
+    item_description = obj_request_body['itemDescription']
     study_id  = int(obj_request_body.get('studyId'))
+    country = models.Country.objects.get(iso=obj_request_body['countryIso'])
+    country_prediction = models.Country.objects.get(iso=obj_request_body['countryPredictionIso'])
+    language = models.Language.objects.get(iso=obj_request_body['languageIso'])
+    
     study = models.Study.objects.get(pk=study_id)
-    exists = models.Item.objects.filter(study     = study,
-                                        admin     = item_code).count()>0
+    item = models.Item.objects.filter(study = study,
+                                        admin = item_code,
+                                        concept  = item_description,
+                                        name = item_name)
+                                       
+                            
+    if item:
+        exists = models.Question.objects.filter(item = item,
+                                                country = country,
+                                                country_prediction = country_prediction,
+                                                language = language).count()>0
     return exists
     
 
 def create_or_update_question(user, obj_request_body, questionId = False):
     """Create or update a question. If there is no question id, a new record will be created. """
     if not questionId:
-        repeated_code=check_question_code(obj_request_body)
+        repeated_code=check_question_for_repetition(obj_request_body)
         if repeated_code:
             obj_response_body = {"repeated_code":True}
             return obj_response_body, {}, SUCCESS, 'error_key', 'error_message'
@@ -707,7 +723,8 @@ def create_or_update_question(user, obj_request_body, questionId = False):
             #Try to find an exact match
             item = models.Item.objects.get(study     = study,
                                            admin     = item_code,
-                                           name      = item_name)
+                                           name      = item_name,
+                                           concept  = item_description,)
             
             question.item = item
            
