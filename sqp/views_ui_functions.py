@@ -324,14 +324,14 @@ def item_autocomplete(user, studyId, term):
     results = []
     
     if studyId != 'undefined':
-        query_set = models.Item.objects.filter(name__icontains=term, study = models.Study.objects.get(pk=int(studyId)))
+        query_set = models.Item.objects.filter(admin__icontains=term, study = models.Study.objects.get(pk=int(studyId)))
       
-        for item in query_set.order_by('name')[0:10]:
+        for item in query_set.order_by('admin')[0:10]:
                 results.append({'id'          : item.id, 
-                                'label'       : item.name, 
-                                'value'       : item.name,
+                                'label'       : item.admin, 
+                                'value'       : item.admin,
                                 'description' : item.concept,
-                                'code'        : item.admin,
+                                'name'        : item.name,
                                 })
     
     #In views_ui_calls.py item_autocomplete is defined with the return type direct

@@ -275,6 +275,9 @@
 				});
 			}
 			
+			this.updateItemInputs();
+			this.updateItemAutocomplete();
+						
 			return this;	
 		},
 	    checkCountry : function () {
@@ -310,22 +313,40 @@
 			//to be the items from that study
 			var view = this;
 			
-			this.nodes.qEditQuestionItemName.autocomplete('destroy');
+			this.nodes.qEditQuestionItemCode.autocomplete('destroy');
 			
 			if(this.nodes.qEditStudy.val()) {
 				//Add in the autocomplete to the item input
-				this.nodes.qEditQuestionItemName.autocomplete({
+				this.nodes.qEditQuestionItemCode.autocomplete({
 					source: "/sqp/api/itemAutocomplete/?studyId=" + this.nodes.qEditStudy.val(),
 					minLength: 1,
 					select: function(event, ui) {
 						view.updateItemInputs();
 						/* set the related inputs to the selected item name */
 						view.nodes.qEditQuestionDescription.val(ui.item.description);
-						view.nodes.qEditQuestionItemCode.val(ui.item.code);
+						view.nodes.qEditQuestionItemName.val(ui.item.name);
 					}
 				});
 			}
 			
+		},
+		updateItemInputs : function () {
+			
+			var view = this;
+			
+			if(!this.nodes.qEditStudy.val() || !this.nodes.qEditQuestionItemCode.val()) {
+				this.setItemEditable(true);
+				return;
+			}
+			
+			$.ajax({
+					url: '/sqp/api/itemCanEdit/',
+					data: {studyId: this.nodes.qEditStudy.val(), itemCode : this.nodes.qEditQuestionItemCode.val()},
+					success: function(data){
+						view.setItemEditable(data.canEdit);
+					},
+					dataType : 'json'
+				});
 		},
 		updateLanguage : function () {
 	  		//When the language input gets changed, we have to set the right-to-left direction 
@@ -359,10 +380,10 @@
 		},
 		setItemEditable : function (canEdit) {
 			 if(canEdit) {
-			 	this.nodes.qEditQuestionItemCode.removeAttr('disabled');
+			 	this.nodes.qEditQuestionItemName.removeAttr('disabled');
 				this.nodes.qEditQuestionDescription.removeAttr('disabled');
 			 } else {
-			 	this.nodes.qEditQuestionItemCode.attr('disabled', 'disabled');
+			 	this.nodes.qEditQuestionItemName.attr('disabled', 'disabled');
 				this.nodes.qEditQuestionDescription.attr('disabled', 'disabled');
 			 }
 		},
