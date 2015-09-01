@@ -175,7 +175,7 @@
 						if(model.get("repeated_code")){
 							inputNode=self.nodes.qEditQuestionDescription;
 							errorNode=self.$( '.' +'qEditQuestionDescriptionError');
-							self.showInputError(inputNode, errorNode, 'For the study selected, the question you created already exists. Go to the  <a href="#questionList/">SQP database</a> to find your question of interest.');   
+							self.showInputError(inputNode, errorNode, 'The name of this question is already in use in the study selected, please choose a different one.');   
 						}else{
 						    //Clear the question if it was previously cached
 						    sqpBackbone.app.clearCachedQuestion();
