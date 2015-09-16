@@ -54,9 +54,9 @@ Coders View: {{title}}
 		   <a href="/accounts/logout/" id="logoutlink" >Logout</a></div>
 		</div>
 		<div id="sqpheaderinner">
-			<!-- {%ifequal user.username "demouser" %}
-				<img  src="/media/img/ui/Warning.png" height="60" width="200" style="position:absolute;left:50%;margin-top:-45px;">
-			{% endifequal %}-->
+			{%ifequal user.username "demouser" %}
+				<img  src="/media/img/ui/Warning.png" height="60" width="200" style="position:absolute;left:40%;margin-top:-45px;">
+			{% endifequal %}
 			<div id="tabsdiv">
 				<ul id="menu">
 					<li><a href="#home" id="homeTab" class="selectedtab toptabs" >Home</a></li>

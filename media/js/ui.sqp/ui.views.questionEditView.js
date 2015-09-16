@@ -173,8 +173,8 @@
 					if (response.success == "1"){
 						//Do not pass as a "not success" unless we want a popover with the server error message 
 						if(model.get("repeated_code")){
-							inputNode=self.nodes.qEditQuestionDescription;
-							errorNode=self.$( '.' +'qEditQuestionDescriptionError');
+							inputNode=self.nodes.qEditQuestionItemCode;
+							errorNode=self.$( '.' +'qEditQuestionItemCodeError');
 							self.showInputError(inputNode, errorNode, 'The name of this question is already in use in the study selected, please choose a different one.');   
 						}else{
 						    //Clear the question if it was previously cached
