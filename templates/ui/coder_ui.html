@@ -53,10 +53,12 @@ Coders View: {{title}}
 		  l <a href="#settings" id="settingslink">Settings</a> l -->
 		   <a href="/accounts/logout/" id="logoutlink" >Logout</a></div>
 		</div>
-		<div id="sqpheaderinner">
-			{%ifequal user.username "demouser" %}
-				<img  src="/media/img/ui/Warning.png" height="60" width="200" style="position:absolute;left:40%;margin-top:-45px;">
-			{% endifequal %}
+		{%ifequal user.username "demouser" %}
+			<div id="sqpheaderinner" style='background-image: url("/media/img/ui/ui-no-banner.png");'>
+					<img  src="/media/img/ui/Warning.png" height="60" width="200" style="position:absolute;left:40%;margin-top:-45px;">
+		{%else%}
+				<div id="sqpheaderinner" style='background-image: url("/media/img/ui/ui-banner-logo.png");'>
+		{% endifequal %}
 			<div id="tabsdiv">
 				<ul id="menu">
 					<li><a href="#home" id="homeTab" class="selectedtab toptabs" >Home</a></li>
