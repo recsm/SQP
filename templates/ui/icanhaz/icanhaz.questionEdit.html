@@ -8,19 +8,26 @@
 		    <!-- User cannot edit details -->
 		    <label class="blockLabelFloated">Study:</label>
 		    <span class="qEditStudy blockValueFloated">{{studyName}}</span>
-		
+	
+			<label class="blockLabelFloated">Question Country:</label> 
+			<span class="qEditCountry blockValueFloated">{{country}}</span>
+			
+			<label class="blockLabelFloated countryPrediction">Prediction Country:</label> 
+			<span class="qEditCountryPrediction blockValueFloated countryPrediction">{{countryPrediction}}</span>
+
 			<label class="blockLabelFloated">Language:</label>
 			<span class="qEditLanguage blockValueFloated">{{language}}</span>
 		
 			<label class="blockLabelFloated">Country:</label> 
 			<span class="qEditCountry blockValueFloated">{{country}}</span>
+
+			<label class="blockLabelFloated">Short name (Name in the Dataset):</label> 
+			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>			
+
 			
 			<label class="blockLabelFloated">Name in the Questionnaire:</label> 
 			<span class="qEditQuestionItemCode blockValueFloated">{{itemCode}}</span>
-			
-			<label class="blockLabelFloated">Name in the Dataset:</label> 
-			<span class="qEditQuestionItemName blockValueFloated">{{itemName}}</span>
-			
+		
 			<label class="blockLabelFloated">Concept:</label>
 			<span class="qEditQuestionDescription blockValueFloated">{{itemDescription}}</span>
 			{{/canEditDetails}}
@@ -32,29 +39,34 @@
 		    <select id="qEditStudy" class="qEditStudy blockValueFloated"></select>
             <a class="qEditAddNewStudy" title="Add New Study">Add New Study</a>
 		    <p class="inputErrorMessage qEditStudyError"></p>
+
+			<label class="blockLabelFloated" for="qEditCountry">Question Country:</label> 
+			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
+			<p class="inputErrorMessage qEditCountryError"></p>
+			
+			<label class="blockLabelFloated countryPrediction">Prediction Country:</label> 
+			<select id="qEditCountryPrediction" class="qEditCountryPrediction countryPrediction blockValueFloated">{{countryPrediction}}</select>
+			<p class="inputErrorMessage qEditCountryPredictionError"></p>
+			<p class="inputHelp countryPrediction">In the current version, SQP is not able to provide a quality prediction for the country selected. To obtain a quality prediction, please choose a country from the list above that is most similar in terms of cultural characteristics.</p>
 		    
 			<label class="blockLabelFloated" for="qEditLanguage">Language:</label>
 			<select id="qEditLanguage" class="qEditLanguage blockValueFloated">{{language}}</select>
 			<p class="inputErrorMessage qEditLanguageError"></p>
-		
-			<label class="blockLabelFloated" for="qEditCountry">Country:</label> 
-			<select id="qEditCountry" class="qEditCountry blockValueFloated">{{country}}</select>
-			<p class="inputErrorMessage qEditCountryError"></p>
-			
-			<label class="blockLabelFloated" for="qEditQuestionItemName">Name in the Dataset:</label> 
-			<input id="qEditQuestionItemName" class="qEditQuestionItemName blockValueFloated" value="{{itemName}}" />
-			<p class="inputErrorMessage qEditQuestionItemNameError"></p>
-			<p class="inputHelp">Optional - The name of the variable measured in the dataset. For example: TVTOT, STFGOV, POLCMPL</p>
 			
 			<label class="blockLabelFloated" for="qEditQuestionItemCode" >Name in the Questionnaire:</label> 
 			<input id="qEditQuestionItemCode" class="qEditQuestionItemCode blockValueFloated" value="{{itemCode}}" />
 			<p class="inputErrorMessage qEditQuestionItemCodeError"></p>
 			<p class="inputHelp">This is the number or name of the question in the questionnaire. For example: 1, 2, 3, A1, B3</p>
+						
+			<label class="blockLabelFloated" for="qEditQuestionItemName">Short name (Name in the Dataset):</label> 
+			<input id="qEditQuestionItemName" class="qEditQuestionItemName blockValueFloated" value="{{itemName}}" />
+			<p class="inputErrorMessage qEditQuestionItemNameError"></p>
+			<p class="inputHelp">For example: TVTOT, STFGOV, POLCMPL</p>
 			
 			<label class="blockLabelFloated" for="qEditQuestionDescriptionError">Concept:</label>
 			<input id="qEditQuestionDescriptionError" style="width:420px" class="qEditQuestionDescription blockValueFloated" value="{{itemDescription}}" />
 			<p class="inputErrorMessage qEditQuestionDescriptionError" style="width:420px"></p>
-			<p class="inputHelp" style="width:420px" >Optional - Indicate what concept you are trying to measure with this question.</p>
+			<p class="inputHelp" style="width:420px" >Indicate what concept you are trying to measure with this question.</p>
 			
 			{{/canEditDetails}}
 			

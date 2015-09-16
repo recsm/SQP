@@ -19,8 +19,10 @@ def question_base(question):
             "itemName" :            question.item.name,  
             "country":              question.country.name,
             "countryIso":           question.country.iso,
+            "countryPrediction":    question.country_prediction.name,
+            "countryPredictionIso": question.country_prediction.iso,
             "language":             question.language.name,
-            "itemDescription":      question.item.long_name,
+            "itemDescription":      question.item.concept,
             "hasMTMM":              question.rel
             
             }

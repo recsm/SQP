@@ -34,7 +34,8 @@
 		tagName: 'tr',
 		render: function(){ 
 			// render output with ICanHaz.js template
-			
+			var otherCountryPrediction=this.model.get('countryIso')!=this.model.get('countryPredictionIso');
+			this.model.set({'otherPredictionCountry' : otherCountryPrediction});
 			$(this.el).html(ich.singleQuestionListItem(this.model.toJSON()));
 			
 			return this;

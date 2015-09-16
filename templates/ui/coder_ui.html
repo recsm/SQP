@@ -53,14 +53,20 @@ Coders View: {{title}}
 		  l <a href="#settings" id="settingslink">Settings</a> l -->
 		   <a href="/accounts/logout/" id="logoutlink" >Logout</a></div>
 		</div>
-		<div id="sqpheaderinner">
+		{%ifequal user.username "demouser" %}
+			<div id="sqpheaderinner" style='background-image: url("/media/img/ui/ui-no-banner.png");'>
+					<img  src="/media/img/ui/Warning.png" height="60" width="200" style="position:absolute;left:40%;margin-top:-45px;">
+		{%else%}
+				<div id="sqpheaderinner" style='background-image: url("/media/img/ui/ui-banner-logo.png");'>
+		{% endifequal %}
 			<div id="tabsdiv">
 				<ul id="menu">
 					<li><a href="#home" id="homeTab" class="selectedtab toptabs" >Home</a></li>
 					<li><a href="#questionList" id="questionTab" class="unselectedtab toptabs openQuestionList" >Questions</a></li>
 					<li><a href="#studies" class="unselectedtab toptabs" id="studiesTab">Studies</a></li>
                     <li><a href="#faq" id="faqTab" class="faq unselectedtab toptabs" >FAQ</a></li>
-                    <li><a href="#about" id="aboutTab" class="about unselectedtab toptabs" >About</a></li>
+                    <li><a href="#limits" id="limitsTab" class="limits unselectedtab toptabs" >Limits</a></li>
+                    <li><a href="#about" id="aboutTab" class="about unselectedtab toptabs" >About us</a></li>
 				</ul>
 			</div>
 		</div>
@@ -101,6 +107,8 @@ Coders View: {{title}}
 					<input class="qListSearchText ui-widget-content ui-corner-left">
 					<button title="Search" class="qListSearch ui-button-icon-only" >Search</button>
 				</div>
+				<label class="searchWarning">Symbols, punctuation and diacritical marks and capital letters are not considered.</label>
+				<br>
 				<br>
 				
 				<h4 class="searchHeader">Selection Criteria:</h4>
@@ -120,10 +128,11 @@ Coders View: {{title}}
 	   			 <br />
 	   			 <h4 class="searchHeader">Key</h4>
 	   			 <p style="color:#888;">
+	   			 <img src="/media/img/ui/c.png" style="padding: 3px; vertical-align: middle;" title="MTMM"> Other Country Predictions <br>
 	   			 <img src="/media/img/ui/mine.png" style="padding: 3px; vertical-align: middle;" title="My Questions">  My Questions and Codings <br>
 	   			 <img src="/media/img/ui/a.png" style="padding: 3px; vertical-align: middle;" title="Authorized Predictions">  Authorized Predictions <br>
 	   			 <img src="/media/img/ui/u1.png" style="padding: 3px; vertical-align: middle;" title="Other User Predictions"> Other User Predictions <br>
-	   			  <img src="/media/img/ui/m.png" style="padding: 3px; vertical-align: middle;" title="MTMM"> MTMM Data Available <br>
+	   			 <img src="/media/img/ui/m.png" style="padding: 3px; vertical-align: middle;" title="MTMM"> MTMM Data Available <br>
 	   			 </p>
 	   			 
 			</div>
@@ -382,7 +391,7 @@ Coders View: {{title}}
 				<div id="codingListWelcome" class="block"  style="margin-left:10px;" >
 					<h4 class="blockHeader">Question Coding</h4>
 					<div style="padding:10px;">
-						<p>There are no codings yet for this question. <br><br>							
+						<p>There are no codings of the formal and linguistic characteristics for this question available yet.<br><br>							
 							<a class="nextCharacteristicButton btn" >Begin Coding</a>
 						</p>
 					</div>
@@ -422,17 +431,39 @@ Coders View: {{title}}
     <!-- Add / Edit Study Dialog View -->
     <div id="editStudy" style="display:none;">
         {% ifnotequal user.username "demouser" %}
-    	<label class="blockLabelFloated" for="studyName" style="position: relative;top: 35px;left: 60px;">Study Name:</label>
-	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 35px;">
-        <p style="position: relative;top: -36px;height: 37px;width: 381px;left: 21px;">
-            This should be a real study containing several questions. If you only want to check a single question please
-            <a href="../accounts/login/?next=/loadui/" style="color: red;font-weight: bold;">logout</a> and use the SQP Demo</p>
-
-        {% else %}
-        <label class="blockLabelFloated" for="studyName" style="position: relative;top: 20px;left: 60px;">Study Name:</label>
-	    <input id="studyName" class="studyName blockValueFloated" style="position: relative;top: 20px;">
+    		<p>
+            This should be a real study containing several questions. If you only want to check a single question or test the program, please, logout and use the SQP
+            <!-- form method="post" > 
+            
+			    <input type="hidden" id="id_username" name="username" value="demouser">
+           		<input type="hidden" id="id_password" name="password" value="demouser">
+        		<input type="submit" value="Demo Login" />
+	    		<input type="hidden" name="next" value="/loadui/" />
+			</form-->
+            <a href="../accounts/switch/" style="color: red;font-weight: bold;">Demo</a></p>
         {% endifnotequal %}
-        <p id="studyNameError" class="inputErrorMessage"></p>
+        <p>Please indicate the following details of the study you want to create:</p>
+        <label class="blockLabelFloatedStudy" for="studyName">Study Name:</label>
+        <input id="studyName" class="studyNameStudy blockValueFloatedStudy">
+        <p id="studyNameError" class="inputErrorMessageStudy"></p>
+        <p id="studyNameHelp" class="inputHelpStudy">Please indicate the study name that will be used to find the questions you add to this study in SQP. Examples: ESS Round 6, ISSP 2000 Environment II, Barómetro CIS 2/2015, etc.</p>
+        
+        <label class="blockLabelFloatedStudy" for="studyCompany">Company/Organization/Survey agency:</label>
+	    <input id="studyCompany" class="studyCompanyStudy blockValueFloatedStudy">
+	    <p id="studyCompanyError" class="inputErrorMessageStudy"></p>
+	    <p id="studyCompanyHelp" class="inputHelpStudy">Please indicate the origin of the question in this study. Examples: European Social Survey, International Social Survey Programme, Centro de Investigaciones Sociológicas, etc.</p>
+        
+        
+        <label class="blockLabelFloatedStudy" for="studyYear">Year/Round/Wave of study:</label>
+	    <input id="studyYear" class="studyYearStudy blockValueFloatedStudy" ">
+	    <p id="studyYearError" class="inputErrorMessageStudy"></p>
+	    <p id="studyYearHelp" class="inputHelpStudy">Please indicate the time when the study took or will take place by entering the year, the questionnaire round or wave. Examples: Round 6-2012, 2000, 2015, etc.</p>
+        
+        <label class="blockLabelFloatedStudy" for="studyCountry">Country/Region/Population under study:</label>
+	    <input id="studyCountry" class="studyCountryStudy blockValueFloatedStudy">
+        <p id="studyCountryError" class="inputErrorMessageStudy"></p>
+	    <p id="studyCountryHelp" class="inputHelpStudy">Please indicate the population under study. Examples: Great Britain, Catalonia, Dutch schools, Worldwide, etc.</p>
+
     </div>
     
     
@@ -453,12 +484,7 @@ Coders View: {{title}}
 				    	<div style="width:500px;float:left;">
 				    		<h3>You have been assigned questions to code.</h3>
 
-				    	   <p>You have been assigned questions to code. Each question has a list of about 50 characteristics that need to be coded.
-				    	   For each characteristic there is either a list of choices or an entry field for a numeric value. In addition there is a text
-				    	   that explains the details about each characteristic that may be used to clarify what the characteristic is asking about.
-				    	    You will need to complete
-				    	   each characteristic and decide the correct values. You will be informed when the coding for each question is complete and then 
-				    	   you may move on to the next question in the assignment. </p>
+				    	   <p>You have been assigned to code 29 to 60 formal and linguistic characteristics of each question. For each characteristic there is either a list of choices or an entry field for a numeric value. In addition, there are help screens explaining each characteristic that may apply.  </p>
 				    	</div>
 				    	<div style="float:right;width:300px">
 				    		<h3>Questions Completed</h3>
@@ -469,6 +495,7 @@ Coders View: {{title}}
 					    		<span class="assignedQuestionsCountTotal"> </span>
 							</div>
 							<p><a href="#assignedQuestionsList" id="assignedQuestionListButton">Work on my assigned questions &gt;&gt;</a>
+							<p><button id="removeAssigment" style="display:none;">Done! Remove this notification</button>
 				    	</div>
 				    	<div style="clear:both"></div>
 				    </div>
@@ -480,9 +507,8 @@ Coders View: {{title}}
 					<div class="block">
 					    <h4 class="blockHeader">My Questions and Studies Overview</h4>
 					    <div class="blockContent">
-					    	<h3>Create your own Questions and get a Quality Prediction</h3>
-					    	<p>SQP - The Survey Quality Predictor program gives you the possibility to create your own questions and get quality, reliability, and validity predictions for your questions.
-					    	The SQP program is also able to recommend potential improvements to your questions after they are fully coded.</p>
+					    	<h3>Predict the quality of your own questions</h3>
+					    	<p>The Survey Quality Predictor software allows you to introduce your own questions in order to code their formal and linguistic characteristics and obtain predictions of their quality, reliability and validity.</p>
 					    	<p>
 					    	  <a href="#question/new" class="qlistAddNew" style="float:none;,margin:0px;">
 					    	  	<img style="vertical-align:middle" src="/media/img/ui/add_new.png" height="24" width="24" title="Add New Question" />
@@ -496,14 +522,14 @@ Coders View: {{title}}
 			<div class="rightColumn">
 				<div class="rightColumnContent">
 					<div class="block">
-					    <h4 class="blockHeader">SQP Question Overview</h4>
+					    <h4 class="blockHeader">SQP Question Database Overview</h4>
 					    <div class="blockContent">
-					    	<h3>Questions with MTMM Data</h3>
-					    	<p>All MTMM data collected so far is available by using this program. </p>
+					    	<h3>Questions with quality estimates from MTMM experiments</h3>
+					    	<p>All available quality estimates collected so far from MTMM experiments are included in the SQP database.</p>
 					    	<p><a href="#questionList/MTMM:1">View All Questions with MTMM data &gt;&gt;</a></p>
 					    	<br>
 					    	<h3>All Available Questions</h3>
-					    	<p>For questions that don't have MTMM data or a prediction, you may code the question to obtain a quality prediction. If the question is not available, you may also add the question to our database using the create new question link.</p>
+					    	<p>SQP also provides a large database of questions added by users regarding a wide range of topics, surveys, countries and languages.</p>
 					    	<p><a href="#questionList">View all questions that are currently available &gt;&gt;</a></p>
 					    </div>
 					</div>
@@ -514,50 +540,190 @@ Coders View: {{title}}
 
 		<!-- FAQ View -->
 	<div id="pageFAQ"  class="uiPage">
-            <p class="title0">Frequent Asked Questions while Coding</p>
+            <p class="title0">Frequently Asked Questions</p>
 
-            <p><a href="#1" class="index">1. Which texts are present in SQP?</a></p>
-            <p><a href="#2" class="index">2. How to code Domain and Concept characteristics?</a></p>
-            <p><a href="#3" class="index">3. How to code Social desirability? And Centrality?</a></p>
-            <p><a href="#4" class="index">4. How is SQP treating batteries of questions?</a></p>
-            <p><a href="#5" class="index">5. How do I code the Don’t know option?</a></p>
-            <p><a href="#6" class="index">6. How do I code the Interviewer instructions?</a></p>
-            <p><a href="#7" class="index">7. How do I code the Show Cards characteristics?</a></p>
-            <!--
-            <p><a href="#8" class="index">8. Balance of the request, the Theoretical range of the scale and Range of scale.</a></p>
-            <p><a href="#9" class="index">9. Correspondence between the labels and the numbers of the scale.</a></p>
-            -->
+            <p><a href="#1" class="index">1. What are ‘Reliability’, ‘Validity’ and ‘Quality’?</a></p>
+            <p><a href="#2" class="index">2. What is the distinction between MTMM quality estimates and SQP quality predictions?</a></p>
+            <p><a href="#3" class="index">3. What is the distinction between ‘Authorized predictions’ and ‘Other user predictions’?</a></p>
+            <p><a href="#4" class="index">4. For which countries is SQP able to give a quality prediction?</a></p>
+            <p><a href="#5" class="index">5. What is a ‘Prediction country’?</a></p>
+            <p><a href="#6" class="index">6. Which texts are present in SQP?</a></p>
+            <p><a href="#7" class="index">7. How does SQP treat batteries of questions?</a></p>
+            <p><a href="#8" class="index">8. Should the ‘Don’t know’ option be counted as a category?</a></p>
+            <p><a href="#9" class="index">9. What does Bipolarity and Unipolarity mean?</a></p>
+            <p style="margin-left:40px"><a href="#9_1" class="index">9.1 What are theoretically Bipolar and Unipolar concepts?</a></p>
+            <p style="margin-left:40px"><a href="#9_2" class="index">9.2 What are Bipolar and Unipolar requests?</a></p>
+            <p style="margin-left:40px"><a href="#9_3" class="index">9.3 What are Bipolar and Unipolar scales?</a></p>
+            <p><a href="#10" class="index">10. How should a question with several steps be coded?</a></p>
+            
         <div id="textContainerFaq">
-            <p id="1" class="textTitle">1. Which texts are present in SQP?</p>
-            <p class="textBody">It is very important to bear in mind that in SQP only the text that is read to or by the respondent will be present. Thus, such texts are the Introduction (if used), the Request for an answer and the Answer options. This means that all instructions to the interviewer or everything, which is not read, to or by the respondent should not be present in the SQP text. However, there will be characteristics that will identify this extra information during the coding process. This is why we suggest having the real questionnaire in hand to detect this missing information in SQP.</p>
+            <p id="1" class="textTitle">1. What are ‘Reliability’, ‘Validity’ and ‘Quality’?</p>
+            <p class="textBody">The purpose of SQP is to provide information regarding the quality of survey questions. The quality of a survey question is defined as the strength between the latent concept of interest and the observed response to the measure or survey question. In order to determine the quality of survey questions, the sources of measurement errors have to first be determined. A first source of measurement error is ‘Random error’. Random measurement errors are due to unintended and unpredictable mistakes by either the respondents when choosing the right answer, the interviewers when reporting the answer given by the respondent or the data coders when coding the responses into the database. Thus, if one were able to ask the same question several times, people would not give the same answer and the coders would not code the answers in the same way. So the responses of respondents contain random measurement errors.</p>
+			<p class="textBody">A second source of measurement error is the way people react to the different ways of formulating a survey question, for example the response may be different for a question depending on whether a categorical scale with 5 points or an 11-point scale is used, because people may react differently to the different formulations. Some respondents usually give extreme answers to an 11-point scale while others do not use the most extreme responses. On the other hand, both groups of respondents may use the 5-point scale in the same way (Saris and Gallhofer, <a href="#2014wg">2014</a>). This source of measurement errors is named ‘Method effect’ or ‘Systematic error’.</p>
+			<p class="textBody">Finally, the third source of measurement error appears when a question does not perfectly cover the concept of interest that is intended to be measured. Imagine the situation in which we want the complex concept “Job satisfaction” to be measured and for that the following survey question: “Would you choose the same job if you could choose again?” is used. Although the question used is probably a good reflection of the complex concept that it intends to evaluate, namely the satisfaction with the respondent's current job, he could for instance, consider in his response not only the satisfaction with his current job but also the satisfaction he may have had with other possible jobs. This suggests that there is a difference, which is called a ‘Unique component’, between the complex concept to be measured and the simple concept measured by the question. Figure 1 indicates where these different errors can play a role.</p>
+			<img src="/media/img/sqp/faq/FAQ1_Figure.png" class="imgFaq4">
+			<p class="textBody  caption" style="margin-left:190px;">Figure 1: The true score model with measurement errors</p>
+			<p class="textBody">The observed variable (Y) contains the responses to a specific survey question. As illustrated in Figure 1, this observed variable also contains random errors (e). Therefore, the latent true score for this observed variable (TS) can be defined as the observed variables minus the random errors. The strength between the true score and the observed variable is the reliability (r<sup>2</sup>) of the question. The larger the contribution of the true score to the observed score, the higher the reliability of the question. ‘Reliability’ can thus be formulated as:</p>
+			<p class="textBody idented" style="font-style: italic;">Reliability (r<sup>2</sup>) = 1 – proportion random error in the observed variance</p>
+			<p class="textBody">Because all survey questions are formulated in a specific way, the true score is partially affected by the variable the question is supposed to measure (i.e. the simple concept of interest) and partially by the reaction of the respondents to the method used (i.e. the method effect). In other words, the latent simple concept of interest can be defined as the latent true score minus the method effect, simply called ‘Method error variance’. The strength between the simple concept of interest and the true score is the validity (v<sup>2</sup>) of the question. ‘Validity’ can be formulated as:</p>
+			<p class="textBody idented" style="font-style: italic;">Validity (v<sup>2</sup>) = 1 – proportion method error variance in the true score variance</p>
+			<p class="textBody">Up to this point it could be said that by removing the method effects from the true scores, the scores obtained would represent the concept that the question was supposed to measure. However, as said before, this simple concept may not perfectly represent the complex concept the researcher intends to measure. It may be that these two differ due to unique components. This last part of the measurement process is not taken into account by the SQP quality prediction. The quality prediction given by SQP only refers to simple concepts. The evaluation of the quality of complex concepts requires more research and analysis (Saris and Gallhofer, <a href="#2014wg">2014</a> and DeCastellarnau and Saris, <a href="#2014wd">2014</a>).</p>
 
-            <p id="2" class="textTitle">2. How to code Domain and Concept characteristics?</p>
-            <p class="textBody">The Domain and Concept characteristics are usual to present uncertain decisions. There are many different domains and concepts among which to chose, and the coder can be confused. In order to get the complete definition of each we suggest using the SQP Help screens or the SQP Coding Guideline. The coding is done in two steps and sometimes a better code can be found by choosing another first category. For further explanation we refer to Chapter 2 from Saris and Gallhofer 2007. </p>
+			<p class="textBody">The above definition of ‘Reliability’ is the same as in the literature in general, but the definition of the validity is different because some authors call ‘Construct validity’ the product of the SQP definitions of validity and the reliability (Andrews, <a href="#1984">1984</a>). Others define the ‘Validity’ as the relationship between the complex concept of interest and the observed variable. SQP prefers using the concepts “Reliability” and “Validity” as defined above and call the product of these two the ‘Quality’ of a survey question. </p>
+			<p class="textBody idented" style="font-style: italic;">Quality (q<sup>2</sup>) = reliability (r<sup>2</sup>) x validity (v<sup>2</sup>)</p>
+			<p class="textBody">The quality indicators of survey questions, reliability and validity, are estimated by the so-called Multitrait-Multimethod (MTMM) experiments, where different traits (i.e. simple concepts) are measured with different methods (i.e. different formulations of survey questions). The basic model used for the estimation of the relationships between the simple concept of interest, the true score and the observed variable is presented in Figure 1, where the effects between these variables are represented by the ‘Reliability coefficient’ (r) and the ‘Validity coefficient’ (v), which squared provide respectively the estimates of the ‘Reliability’ and the ‘Validity’. For details of the procedures, go to Saris and Gallhofer (<a href="#2014wg">2014</a>).</p>
+			<p class="textBody">In the quality output of SQP, two different values are given for each measure. The squared values (r<sup>2</sup>, v<sup>2</sup> and q<sup>2</sup>) represent the predictions of the ‘Reliability’, ‘Validity’ and ‘Quality’; while r, v and q represent the ‘Reliability coefficient’, the ‘Validity coefficient’ and the ‘Quality coefficient’. </p>
+			<p class="textBody">In this general definition, it is assumed that the variables of interest are continuous, while often the observed variables are measured in a limited number of categories. If that is the case, the ‘Reliability’ is also affected by the so-called ‘Categorization errors’ (Saris, Van Wijk and Scherpenzeel, <a href="#1998">1998</a>). In such a case, the ‘Reliability’ will be not only affected by ‘Random error’ but also by ‘Categorization error’.</p>
+			<p class="textBody idented" style="font-style: italic;">Reliability (r<sup>2</sup>) = 1 – variance of random and categorization errors</p>
+			<p class="textBody">Besides being measures of the strength of a survey question, reliability and validity can also be used to correct for measurement errors (Saris and Gallhofer, <a href="#2014wg">2014</a> and DeCastellarnau and Saris, <a href="#2014wd">2014</a>). </p>
+			
 
-            <p id="3" class="textTitle">3. How to code Social desirability? And Centrality?</p>
-            <p class="textBody">The coder must be aware that the Social Desirability characteristic will be specific for the population under study, so cultural and time references must be taken into account. For example, if a coder decides to code a question from ESS Round 1 in Spain he or she must take into account that the survey took place in 2002 and that the respondents where the Spanish population. The sensitivity over questions about political interest may change across time. The same happens with the Centrality characteristic; the coder must place on the mind of the respondents and think if the topic can be central or not in the mind of the survey respondents (e.g. in the mind of the Spanish population in 2002).</p>
+            <p id="2" class="textTitle">2. What is the distinction between MTMM quality estimates and SQP quality predictions?</p>
+            <p class="textBody">In the current SQP database of questions, it can easily be detected whether this information is available or not because of the following icons:</p>
+            <p class="textBody idented"><img src="/media/img/ui/m.png"> Indicates that MTMM quality estimate is available</p>
+			<p class="textBody idented"><img src="/media/img/ui/u1.png"> and <img src="/media/img/ui/a.png"> Indicate that a SQP quality prediction is available </p>
+            <p class="textBody">The Multitrait-Multimethod (MTMM) quality estimates are the result of factor analysis of MTMM experiments and are provided in SQP for those questions in the database which were involved in an MTMM experiment.  </p>
+            <p class="textBody">SQP was developed using a meta-analysis of the results (i.e. quality estimates) of multiple MTMM experiments and the information regarding the characteristics of the questions involved in those experiments (Oberski et al., <a href="#2011">2011</a>). Thus, the SQP quality predictions are the result of this meta-analysis and are provided in SQP for the questions in the database for which the characteristics have been coded using the SQP coding system. Moreover, the SQP quality predictions can be provided for any new survey question in the database after coding its characteristics.  </p>
+            <p class="textBody">In general, the MTMM estimates and SQP quality predictions are quite close (R<sup>2</sup> is rather high). However, occasionally the two can differ from each other. Taking into account that the quality estimates obtained through MTMM experiments are the result of a one point in time analysis, and given that the SQP predictions are based on the results of many of these analyses, in general, the SQP quality prediction is a more reliable result than the MTMM estimates. There are only two cases in which reliance on the MTMM estimates over the SQP predictions would be suggested: </p>
+            <p class="textBody idented">1) Because ‘Agree – Disagree’ (AD) scales cannot be identified yet in the SQP characteristics (see <a href="#limits">Limit 4</a>). Thus, although it has been demonstrated that the quality of ‘Item-Specific’ (IS) scales is much higher than AD scales (Saris et al., <a href="#2010">2010</a>), SQP would not be able to distinguish both. </p>
+            <p class="textBody idented">2) The SQP predictions are based on the general trends of the relationships between the different characteristics of the MTMM questions and the MTMM quality estimates of these questions in all countries. Thus, if a question in a country deviates considerably from these general trends the MTMM estimates should be preferred.  </p>
+           
 
-            <p id="4" class="textTitle">4. How is SQP treating batteries of questions?</p>
-            <p class="textBody">SQP has a special form to treat the batteries of questions. The request and if applicable the introduction is placed just before the first statement. One has to think of it as the sequence of how it is read to the respondent.
-            <p class="textBody">Example: Battery format in questionnaire ESS Round 6. In ESS Round 6 questions E17 to E21 ask about democracy in the country. </p>
-            <img class="imgFaq4" id="img41" src="/media/img/sqp/faq/4-1.png" />
-            <p class="textBody">The presentation text in SQP for the questions presented in the battery will be as follows:</p>
-            <img class="imgFaq4" id="img42" src="/media/img/sqp/faq/4-2.png" />
-            <img class="imgFaq4" id="img43" src="/media/img/sqp/faq/4-3.png" />
-            <img class="imgFaq4" id="img44" src="/media/img/sqp/faq/4-4.png" />
-            <img class="imgFaq4" id="img45" src="/media/img/sqp/faq/4-5.png" />
-            <img class="imgFaq4" id="img46" src="/media/img/sqp/faq/4-6.png" />
-            <p class="textBody">The understanding of this procedure will matter for the coding of the characteristics: Formulation on the request for an answer and Use of stimulus or statement in the request.</p>
-            <p class="textBody">Following the example, we will say that question E17 is formulated as an indirect request (“Using this card, please tell me to what extent you think each of the following statements applies in [country]…”) with a stimulus or statement present (“National elections in [country] are free and fair”). However, questions E18 to E21 will be coded in the characteristic Formulation of the request for an answer as ‘No request present’ and with a stimulus or statement present (i.e. for E18 the statement is “Voters in [country] discuss politics with people they know before deciding how to vote”, for E19 it is “Different political parties in [country] offer clear alternatives in one another”, and so on). </p>
+            <p id="3" class="textTitle">3. What is the distinction between ‘Authorized predictions’ and ‘Other user predictions’?</p>
 
-            <p id="5" class="textTitle">5. How do I code the Don’t know option?</p>
-            <p class="textBody">There are three options to deal with the Don’t know option in a question. The first is to explicitly provide it to the respondent, in this way the don’t know option will be treated as another answer option and will be present in SQP text. However, many studies apply the implicit don’t know option, which is not mentioned to the respondent as an answer option but can be chosen by the interviewer if the respondent does not know how to answer. In this case, it will not appear in the SQP text, however, the coder must code this characteristic as “Don’t know option only registered”. The third case in when the answer options are provided with no don’t know option.</p>
+            <p class="textBody">SQP provides ‘Authorized predictions’, which can be identified by the icon <img src="/media/img/ui/a.png"> and the other user predictions, which can be identified by the icon  <img src="/media/img/ui/u1.png">. This distinction is made to indicate the difference between the results obtained by a controlled and supervised coding procedure and an uncontrolled and unsupervised coding procedure of the characteristics. The ‘Authorized predictions’ can be trusted because they have been coded in the different languages by native coders under the training and supervision of the SQP team. If the question of interest is coded but not authorized, it is recommended that the coding be checked before using the predictions.</p>
+            
+            <p id="4" class="textTitle">4. For which countries is SQP able to provide a quality prediction?</p>
+            <p class="textBody">SQP is able to provide quality predictions for the countries involved in the MTMM experiments, since these experiments are the ones used in the meta-analysis. The countries for which the current version of SQP can give a prediction are the following:</p>
+            <p class="textBody" style="font-weight: bold">Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Great Britain, Greece, Ireland, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine and United States.</p>
+            <p class="textBody">The basic idea behind SQP is that the quality of a question can be predicted on the basis of the topic of the question, the formulation of the question, the response scale, the mode of data collection, etc. In the formulation of the question, many linguistic characteristics have been included to cope with the language differences. However, these characteristics are not sufficient to cover all differences in qualities across all countries, as estimated in the MTMM experiments. Therefore, a country variable was introduced to cover other effects related to the reaction patterns in the different countries. As a consequence, SQP cannot predict the quality of questions for countries that are not included in the above list.</p>
+            <p class="textBody">In other words, from the MTMM estimates included in SQP, only the effect of the country can be identified directly with the selection of the country. The SQP quality predictions include the effect of the language through the effects of the linguistic characteristics. Thus, the SQP quality predictions are available for the above-listed countries in combination with any language (see <a href="#2">FAQ 2</a> for the distinction between MTMM estimates and SQP predictions). For example, supposing users want to study immigration in the Netherlands. For the Spanish immigrants, the Spanish language could be used in combination with the Dutch country. This combination will cover the cultural effect of living in the Netherlands and the linguistic characteristics will capture the effect of the question’s language. </p>
+            <p class="textBody">It is important to note that the effect of the country variable is in general very small. Therefore, if one wished to obtain a prediction of a question in a country which is not on the list, it would be advisable to choose a ‘Prediction country’ (see <a href="#5">FAQ 5</a> for the description of ‘Prediction country’) that is culturally similar to the country of interest.</p>
+            <!-- -------------------------------- -->
+            <p id="5" class="textTitle">5. What is a ‘Prediction country’?</p>
+            <p class="textBody">Because SQP is only able to give a quality prediction for those countries which were included in the meta-analysis (see <a href="#4">FAQ 4</a> for the list of countries), the current version of SQP provides the possibility, for those countries for which a prediction will not be available, to select a second country that will be used to compute the quality prediction. This is called the ‘Prediction country’. This feature allows an approximate prediction of the quality of the survey question to be obtained, even though it is formulated for a country for which a prediction is not available.</p>
+            <p class="textBody">This is possible because the effect of the country variable is marginal. Thus, if the country users would like to analyse is not on the list of <a href="#4">FAQ 4</a>, it is suggested that a ‘Prediction country’ be selected which is the most similar in terms of cultural characteristics. In that case, one should also take into account the fact that the amount of uncertainty regarding the correctness of the predictions increases. Thus, if possible, it is recommended trying out different countries. For example, for a country like Canada, there are several countries for the list in <a href="#4">FAQ 4</a> that could be used; United States, Ireland and United Kingdom could be used for those English-speaking questions, while France, Belgium and Switzerland could be used for those French-speaking questions. The decision will depend on whether the ‘Prediction country’ is most similar in terms of cultural characteristics to the Canadian sample population. Users would have to introduce the question for each country, because by only changing the name of the country of the survey question, users would not obtain a different prediction (see <a href="#limits">Limit 2</a>).</p>
+            <p class="textBody">In the SQP database of questions, it can easily be detected whether a ‘Prediction country’ has been used to obtain a prediction by the following icon:</p>
+            <p class="textBody idented"><img src="/media/img/ui/c.png"> Indicates that a ‘Prediction country’ has been used</p>
 
-            <p id="6" class="textTitle">6. How do I code the Interviewer instructions?</p>
-            <p class="textBody">The characteristic Interviewer instruction is only present if an interviewer is reading the questionnaire to the respondent. These instructions are not present in SQP because they are not read to the respondent. However, if an interviewer administrated the survey the coder must check the presence of this kind of instructions in the questionnaire.</p>
+            <p id="6" class="textTitle">6. Which texts should be present in SQP?</p>
+            <p class="textBody">In the current version of SQP, only the texts that are read to or by the respondent should be presented. Thus, such texts include the ‘Introduction’ (if used), the ‘Request for an answer’ and the ‘Answer options’. This implies that all instructions to the interviewer, or everything which is not read to or by the respondent, should not be introduced in the SQP text. Whenever a respondent instruction is used, this text should be introduced in the box ‘Request for an answer’.</p>
+            <p class="textBody">However, some characteristics will require identifying the extra information during the coding process (e.g. interviewer instructions, use of showcards, showcard layout, don’t know option, etc…). Therefore, the coding should be done having the real questionnaire at hand to detect the characteristics that cannot be identified by the SQP text.</p>
 
-            <p id="7" class="textTitle">7. How do I code the Show Cards characteristics?</p>
-            <p class="textBody">The Showcard characteristics will imply an interviewer instruction regarding the use of a show card for a question. It will not appear in the SQP text but if a Show card was used the coder will need to code its characteristics (i.e. horizontal or vertical scale, picture provided, numbers or letters before answer options, etc…).</p>
+            <p id="7" class="textTitle">7. How does SQP treat batteries of questions?</p>
+            <p class="textBody">SQP has a special way of treating batteries of questions. A battery of questions consists of a set of stimulus or statements with a common request for an answer and answer options that have to be evaluated by the respondents. In batteries, the request for an answer, and if applicable, the introduction, will be placed just before the first stimulus or statement. SQP refers to a stimulus or statement as each sentence in the battery that has to be evaluated by the respondent. A stimulus in a question can be a noun or a combination of nouns, e.g. a party name, a name of an institution or a brand, while a statement consists of a complete sentence. The coder must reflect on how the text in a battery of questions is read to the respondent, and code the item in that form.</p>
+            <p class="textBody">Below is an example of a battery from the <a href="http://www.europeansocialsurvey.org/data/download.html?r=6">ESS Round 6</a>. In this questionnaire, items E17 to E19 asked about the democracy in the country using the following battery of questions:</p>
+            <p class="textBody idented">“Now some questions on the same topics, but this time about how you think democracy is working in [country] today. Again, there are no right or wrong answers, so please just tell me what you think.</p>
+            <p class="textBody idented">Using this card, please tell me to what extent you think each of the following statements applies in [country]. 0 means you think the statement does not apply at all and 10 means you think it applies completely.</p>
+            <p class="textBody idented"><img src="/media/img/ui/FAQ_7_Table_battery.png"></p>
+            <p class="textBody">This battery will be introduced in SQP in the way the interviewer will read the battery to the respondent i.e. first of all, the introduction, secondly the request for an answer, thirdly the first statement will be read. These texts together form the first question and an answer will be given by the respondent. Next, the second statement will be read, the respondent will have to give an answer for this second statement and so on. For the next questions, the introduction and the request for an answer will not be repeated so these questions only consist of the stimulus or statement.</p>
+            <p class="textBody">The batteries should be added in SQP as indicated, even when it is self-completed (i.e. an interviewer is not reading the questions).</p>
+            <p class="textBody">Thus, the text in SQP for the questions presented in the battery above will be as follows:</p>
+            <p class="textBody idented"><img src="/media/img/ui/FAQ7_question_E17.png"></p>
+            <p class="textBody idented"><img src="/media/img/ui/FAQ7_question_E18.png"></p>
+            <p class="textBody idented"><img src="/media/img/ui/FAQ7_question_E19.png"></p>
+            <p class="textBody">This layout will matter for the coding of the characteristics ‘Formulation of the request for an answer’ and ‘Use of stimulus or statement in the request’.</p>
+            <p class="textBody">Following the example, it should be indicated that question E17 is formulated as an indirect request (“Using this card, please tell me to what extent you think each of the following statements applies in [country]…”) with a stimulus or statement present (“National elections in [country] are free and fair”) preceded by an introduction. However, questions E18 and E19 will be coded as having ‘No request present’ (in the characteristic ‘Formulation of the request for an answer’) and with a stimulus or statement present (i.e. for E18 the statement is “Voters in [country] discuss politics with people they know before deciding how to vote” and for E19 it is “Different political parties in [country] offer clear alternatives in one another”).</p>
+
+            <p id="8" class="textTitle">8. Should the ‘Don’t know’ option be counted as a category?</p>
+            <p class="textBody">No, the ‘Don’t know’ option should not be treated as a category in the answer options. Thus, it does not have to be counted in the characteristic ‘Number of categories’ and should never appear in the SQP answer text box. However, this does not mean it is not coded in SQP.</p>
+
+            <p id="9" class="textTitle">9. What does Bipolarity and Unipolarity mean?</p>
+            <br/>
+            <p id="9_1" class="textBody"><b>9.1 What are theoretically Bipolar and Unipolar concepts?</b></p>
+            <p class="textBody">The concept (i.e. the variable of interest) to be measured can be either bipolar or unipolar. Bipolar concepts have two theoretical opposite poles (e.g. positive/negative or active/passive), while unipolar concepts have only one theoretical pole. Below are examples of bipolar and unipolar concepts in English.</p>
+            <p class="textBody idented"><img src="/media/img/ui/FAQ9_Bipolar_Unipolar_table.png"></p>
+            <p class="textBody">The bipolarity or unipolarity of a concept is language specific. The same concepts can be expressed in the different languages either as bipolar or unipolar concepts. Thus, bipolar concepts in one language may not be translatable as such in other languages.</p>
+            <p class="textBody">The polarity of a concept has to be coded in SQP using the characteristic ‘Theoretical range of the scale bipolar/ unipolar’.</p>
+            <p class="textBody">In order to transform theoretically bipolar or unipolar concepts into survey questions, a request for an answer and a response scale has to be developed. In theory, bipolar concepts can be measured by both bipolar and unipolar requests and scales, while theoretically unipolar concepts can only be measured by unipolar requests and scales. </p>
+            <p class="textBody">Often survey questions are measured using complex concepts which combine two basic concepts. Examples of these are:</p>
+            <p class="textBody idented">1. “To what extent do you <b>agree or disagree</b> with the statement: <b>The government should</b> take measures to reduce differences in income levels”. </p>
+            <p class="textBody idented">2. “How far do you <b>agree or disagree</b> with the statement: I generally <b>feel</b> that what I do in my life is valuable and worthwhile”. </p>
+            <p class="textBody idented">3. “How <b>likely</b> is it that you become <b>unemployed</b> in the next 12 months?” </p>
+            <p class="textBody idented">The words in bold in the examples highlight the complex concept, respectively: an agreement regarding a policy, an agreement regarding a feeling and the likelihood regarding a future expectation.</p>
+            <p class="textBody">The first example is composed of the concepts ‘Agreement’ and ‘Policy’. While agreements are theoretically bipolar concepts, the norm regarding what the government should or should not do is theoretically unipolar. Similarly, in the second example the request is composed of an agreement with regard to a feeling. In such cases where the concept ‘Agreement’ has the main role in the request, users should indicate in SQP that the concept is theoretically bipolar.</p>
+            <p class="textBody">Complex concepts can also be composed as in the third example. In that case, both concepts of ‘Likelihood’ and the ‘Future expectation’ of employment status are theoretically unipolar. Similarly, because the main role in the question comes from the concept ‘Likelihood’, users should identify in SQP that the concept is theoretically unipolar. </p>
+            <br/>
+            <p id="9_2" class="textBody"><b>9.2 What are Bipolar and Unipolar requests?</b></p>
+            <p class="textBody">The differentiation between bipolar and unipolar requests will matter for the SQP coding of the characteristic ‘Balance of the request’. A theoretically bipolar concept is characterized by the existence of two opposite poles. Thus, if a bipolar concept is formulated in a request for an answer using the two opposite poles of the concept, the range used in the request for an answer is also considered bipolar. For example:
+            <ui>
+                <li><p class="textBody idented">Bipolar concept: satisfaction</p>
+                <li><p class="textBody idented">Bipolar request: “How <b>satisfied</b> or <b>dissatisfied</b> are you with the present state of the economy in your country?”</p>
+            </ui>
+            <p class="textBody">Because the concept “satisfaction” is bipolar and the request also used both possible poles, this request will be considered ‘Balanced’. </p>
+            <p class="textBody">However, theoretically bipolar concepts can also be formulated as unipolar requests, if only one of the poles is used in the request for an answer. </p>
+            <ui>
+                <li><p class="textBody idented">Unipolar request: “How <b>satisfied</b> are you with the present state of the economy in your country?”</p>
+            </ui>
+            <p class="textBody">In this case, because the request will lead the answer to one of the poles when both are available, it should be considered as ‘Unbalanced’.</p>
+            <p class="textBody">A theoretically unipolar concept is characterized by the existence of only one pole. Thus, as a unipolar concept can only be formulated in a request for an answer using the unique theoretical pole of the concept, the range used in the request for an answer (i.e. the balance of the request) is also considered unipolar. For example:</p>
+            <ui>
+                <li><p class="textBody idented">Unipolar concept: importance</p>
+                <li><p class="textBody idented">Unipolar request: “How <b>important</b> do you think being able to speak English should be in deciding whether someone born, brought up and living outside Great Britain should be able to come and live here? </p>
+            </ui>
+            <p class="textBody">When the concept measured is unipolar, the balance of the request does not apply, and thus it should be considered as ‘Not applicable’.</p>
+            <br/>
+            <p id="9_3" class="textBody"><b>9.3 What are Bipolar and Unipolar scales?</b></p>
+            <p class="textBody">Scales in agreement with bipolar requests and bipolar concepts should measure two poles: positive to negative or active to passive. For example:</p>
+            <ui>
+                <li><p class="textBody idented">Bipolar concept: satisfaction</p>
+                <li><p class="textBody idented">Bipolar request: “How <b>satisfied</b> or <b>dissatisfied</b> are you with the present state of the economy in your country?”</p>
+                <li><p class="textBody idented">Bipolar scale: </p>
+            </ui>
+            <p class="textBody identeda">1. Extremely dissatisfied</p>
+            <p class="textBody identeda">2. Dissatisfied</p>
+            <p class="textBody identeda">3. Neither satisfied nor dissatisfied</p>
+            <p class="textBody identeda">4. Satisfied</p>
+            <p class="textBody identeda">5. Extremely satisfied</p>
+            <p class="textBody">However, theoretically bipolar concepts and requests can also be formulated using unipolar scales, if only one of the poles is used in the response scale. </p>
+            <ui>
+                <li><p class="textBody idented">Unipolar request: “How <b>satisfied</b> are you with the present state of the economy in your country?”</p>
+                <li><p class="textBody idented">Unipolar scale: </p>
+            </ui>
+            <p class="textBody identeda">1. Not at all satisfied</p>
+            <p class="textBody identeda">2. Fairly satisfied</p>
+            <p class="textBody identeda">3. Very satisfied</p>
+            <p class="textBody identeda">4. Extremely satisfied</p>
+            <p class="textBody">Besides, theoretically unipolar concepts have just one pole and the scales go from zero to positive or from zero to negative.</p>
+            <ui>
+                <li><p class="textBody idented">Unipolar concept: importance</p>
+                <li><p class="textBody idented">Unipolar request: “How <b>important</b> do you think being able to speak English should be in deciding whether someone born, brought up and living outside Great Britain should be able to come and live here?</p>
+                <li><p class="textBody idented">Unipolar scale:</p>
+            </ui>
+            <p class="textBody identeda">0. Not at all important	1. 	    2. 	    3. 	    4. 	    5. 	    6. Extremely important</p>
+
+            <p id="10" class="textTitle">10. How should a question with several steps be coded?</p>
+            <p class="textBody">Response scales with several steps are usually measurement procedures consisting of two or more requests and answer scales. For example take the following set of questions: </p>
+            <p class="textBody idented">Q1	“Do you favour or oppose abortion?</p>
+            <p class="textBody identeda">1. Favour		<b>go to Q2</b></p>
+            <p class="textBody identeda">2. Oppose		<b>go to Q3</b></p>
+            <p class="textBody idented">Q2	 “How far do you favour abortion?</p>
+            <p class="textBody identeda">1. I am completely in favour </p>
+            <p class="textBody identeda">2. I am in favour</p>
+            <p class="textBody idented">Q3	 “How far do you oppose abortion?</p>
+            <p class="textBody identeda">1. I am completely opposed</p>
+            <p class="textBody identeda">2. I am opposed</p>
+            <p class="textBody">Following this example, the variable to be measured is a combination of Q2 and Q3, Q1 being a filter question. In SQP, these questions will need to be coded as one, as they intend to measure a unique variable of interest “attitudes towards abortion” and cannot be analysed separately. In order to group the three questions into a unique question, Q1 has to be considered an introduction and Q2 and Q3, the two requests for an answer. However, to code the formal and linguistic characteristics of the request for an answer as ‘Bipolarity or Unipolarity’, ‘Emphasis’, ‘Encouragement’, ‘Number of words’, one of the two requests, which usually has similar characteristics, needs to be chosen to be presented in the SQP text. Thus, the text to be entered in SQP will be as follows:</p>
+            <p class="textBody idented">Introduction box: Do you favour or oppose abortion?</p>
+            <p class="textBody idented">Request for an answer text box: 1. How far do you favour abortion?</p>
+            <p class="textBody">(Because people will only get Q2 or Q3, just one of them needs to be put into the text box)</p>
+            <p class="textBody idented">Answer options box:</p>
+            <p class="textBody identeda">1. I am completely in favour</p>
+            <p class="textBody identeda">2. I am infavour</p>
+            <p class="textBody identeda">3. I am opposed</p>
+            <p class="textBody identeda">4. I am completely opposed</p>
+            <p class="textBody">The formal characteristics of the request for an answer will be coded as usual. However, in order to code the answer options’ characteristics, it should be indicated in the characteristic ‘Response scale: basic choice’ the option: ‘More step procedures’. In the following characteristics regarding the response scale, the total number of categories, the order of the labels, the correspondence and other characteristics of the scale should be indicated. </p>
+            <p class="textBody">To take into account the fact that Q1, a question which is indicated as an introduction, should be coded as a ‘Request is present’ in the characteristics regarding the introduction.</p>
+            <p class="textBody">Furthermore, the linguistic characteristics of the request for an answer should not be the total of the 2 requests but rather only one should be used or an average of the two, if they are different. In the example, both statements have 6 words, 9 syllables, etc. </p>
+
+
+            <p class="title2">References</p>
+            <p id="1984" class="textBody">Andrews, F. M. (1984). Construct Validity and error components of survey measures: structural equation approach. <i>Public Opinion Quarterly, 48, pp. 409-442</i>.</p>
+            <p id="2014wd" class="textBody">DeCastellarnau, A. and Saris, W. E. (2014). A simple procedure to correct for measurement errors in survey research. <i>European Social Survey Education Net (ESS EduNet). Available at: <a href="http://essedunet.nsd.uib.no/cms/topics/measurement/">http://essedunet.nsd.uib.no/cms/topics/measurement/</a></i></p>
+            <p id="2011" class="textBody">Oberski, D., Gruner, T. and Saris, W. E. (2011). The prediction procedure of the quality of the questions based on the present data base of questions. <i>In: The development of the program SQP 2.0 for the prediction of the quality of survey questions. RECSM Working Paper 24, 71 - 88. Available at: <a href="http://www.upf.edu/survey/_pdf/RECSM_wp024.pdf">http://www.upf.edu/survey/_pdf/RECSM_wp024.pdf</a></i></p>
+            <p id="2014wg" class="textBody">Saris, W. E. and Gallhofer, I. N. (2014). Design, evaluation and analysis of questionnaires for survey research. <i>Second Edition. Hoboken, Wiley</i>.</p>
+            <p id="2010" class="textBody">Saris, W. E., Revilla, M., Krosnick, J. A., and Shaeffer, E. M. (2010). Comparing Questions with Agree/Disagree Response Options to Questions with Construct-Specific Response Options. <i>Survey Research Methods, 4(1): 61-79. Available at: <a href="https://ojs.ub.uni-konstanz.de/srm/article/view/2682">https://ojs.ub.uni-konstanz.de/srm/article/view/2682</a></i></p>
+            <p id="1998" class="textBody">Saris, W. E., Van Wijk, T. and Scherpenzeel, A. (1998). Validity and reliability of subjective social indicators. <i>Social indicators Research, 45, 173-199</i>.</p>
             <!--
             <p id="8" class="textTitle">8. Balance of the request, the Theoretical range of the scale and Range of scale.</p>
             <p class="textBody bold">8.1 Poles</p>
@@ -629,102 +795,278 @@ Coders View: {{title}}
             -->
         </div>
     </div>
+    	<!-- Limits View -->
+	<div id="pageLimits"  class="uiPage">
+            <p class="title0">Limits</p>
+            
+            <p class="textBody linkTab">In this section the current limits of SQP software version will be summarized.</p>
+            <p class="textBody linkTab">SQP was developed using the data from more than 250 Multitrait – Multimethod (MTMM) experiments carried out in the first 3 Rounds of the European Social Survey (<a href="http://www.europeansocialsurvey.org/">ESS</a>) and 87 experiments carried out by other research agencies (Saris and Gallhofer, <a href="#2007wg">2007</a>). These experiments resulted in a database of 3,726 survey questions for which the quality was known. Based on this database of questions, the MTMM quality estimates could be related to the formal and linguistic characteristics of the questions and a meta-analysis was developed, which allows the quality of new survey questions to be predicted. SQP is software used to obtain quality predictions of new survey questions (Saris and Gallhofer, <a href="#2014wga">2014</a>). The kind of survey questions for which SQP can provide a reliable prediction, is limited to the type of questions involved in the MTMM experiments. Here, these limits will be specified.</p>
+			<p class="textBody linkTab">The SQP team expects most of these limits to be improved in a new version of SQP. In the meantime, please be aware of the limits and take them into account before reaching any conclusions.</p>
 
-    	<!-- About View -->
-	<div id="pageAbout"  class="uiPage">
-        <!-- <div id ="aboutLogo"> <img src="/media/img/logo/RECSM.png" id="imgLogo"/> </div> -->
-        <div id ="textContainerAbout" style="width: 80%; text-align: justify;">
+            <p><a href="#L1" class="index">1. Countries for which one can obtain a prediction</a></p>
+            <p><a href="#L2" class="index">2. The ‘Country’ characteristic</a></p>
+            <p><a href="#L3" class="index">3. Topics of the questions</a></p>
+            <p><a href="#L4" class="index">4. Absence of an ‘Agree – Disagree’ (AD) characteristic</a></p>
+            <p><a href="#L5" class="index">5. Modes of data collection</a></p>
+            <p><a href="#L6" class="index">6. Response scales</a></p>
+            <p style="margin-left:40px"><a href="#L6_1" class="index">6.1  ‘Magnitude estimation’ and ‘Line production’</a></p>
+            <p style="margin-left:40px"><a href="#L6_2" class="index">6.2 Latest forms of response scales</a></p>
+            <p><a href="#L7" class="index">7. Questionnaire layout</a></p>
+            
+            
+        <div id="textContainerLimits">
+            <p id="L1" class="textTitle">1. Countries for which SQP can give a quality prediction</p>
+            <p class="textBody">SQP is able to provide quality predictions for the countries involved in the MTMM experiments, since these experiments are the ones used in the meta-analysis. The countries for which the current version of SQP can give a prediction are the following:</p>
+            <p class="textBody" style="font-weight: bold">Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Great Britain, Greece, Ireland, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine and United States.</p>
+            <p class="textBody">The basic idea behind SQP is that the quality of a question can be predicted on the basis of the topic of the question, the formulation of the question, the response scale, the mode of data collection, etc. In the formulation of the question many linguistic characteristics have been included to cope with the language differences. However, these characteristics are not enough to cover all differences in quality across countries as estimated in the MTMM experiments. Therefore, a country variable was introduced to cover other effects related to the reaction patterns in the different countries. As a consequence, SQP in principle, cannot predict the quality of questions for countries that are not included in the above list.</p>
+            <p class="textBody">In other words, from the MTMM estimates included in SQP, only the effect of the country can be identified directly with the selection of the country. The SQP quality predictions include the effect of the language through the effects of the linguistic characteristics. Thus, the SQP quality predictions are available for the above listed countries in combination with any language (see <a href="#faq">FAQ 2</a> for the distinction between MTMM estimates and SQP predictions). For example, let’s suppose users want to study immigration in the Netherlands. For the Spanish immigrants they could use the Spanish language in combination with the Dutch country. This combination will cover the cultural effect of living in the Netherlands and the linguistic characteristics will capture the effect of the question’s language. </p>
+            <p class="textBody">It is important to note that the effect of the country variable is in general marginal. Therefore, if users would like to obtain a prediction of a question in a country which is not on the list, it is recommended that a country is chosen for the prediction that is culturally similar to the country of interest (see <a href="#faq">FAQ 5</a> for how to use a ‘Prediction country’). In that case, the amount of uncertainty regarding the correctness of the predictions increases and this should also be taken into account. Thus, if possible, users should try using different prediction countries. For example, for a country such as Canada there are several countries that could be used, namely United States, Ireland and United Kingdom for those English-speaking questions, while France, Belgium and Switzerland, could be used for those French-speaking questions. The decision will depend on whether the prediction country is most similar in terms of cultural characteristics to the Canadian sample population. Users will not obtain a different prediction by simply choosing a different country in SQP. Users need to create and code the questions as many times as necessary to compare the results (see <a href="#L2">Limit 2</a>).</p>
+            
+            <p id="L2" class="textTitle">2. The ‘Country’ characteristic</p>
+            <p class="textBody">As explained in <a href="#L1">Limit 1</a>, the characteristic ‘Country’ of a survey question coded in SQP has an effect on the quality of this survey question. This means that having the same formal and linguistic characteristics of a question for different countries does not imply that the quality prediction of these would be equal, as the quality is affected by the country in question.</p>
+            <p class="textBody">With the current SQP version, to detect the effect the country has on the quality, users need to code the characteristics of the questions separately for the different countries. Thus, if for example, a user codes the formal and linguistic characteristics of a question for a particular country (e.g. United Kingdom) a quality prediction for this particular country and characteristics will be given. However, if the user decides to identify the impact of having selected the United States and not the United Kingdom for instance, without any change in the formal and linguistic characteristics, the user should add the same question in SQP selecting, this time, the country United States and coding the same formal and linguistic characteristics. By editing the United Kingdom question details and changing the characteristic ‘Country’ to United States, SQP will not be able to recalculate the quality prediction. </p>
+            <p class="textBody">In other words, if users would like to know the quality of the same question but in different countries, users need to add and code the characteristics of the question for each country.</p>
+            
+            <p id="L3" class="textTitle">3. Topics of the questions</p>
+            <p class="textBody">It is impossible to perform MTMM experiments for every question in survey research. Additionally, it is difficult to formulate alternative forms of some survey questions. Moreover, for background variables, memory effects could be present if different question alternatives were designed for the experiments. Background variables can also contain measurement errors as has been shown by Alwin (<a href="#2007a">2007</a>), using Quasi Simplex models, and Schröder (<a href="#2014s">2014</a>), using scaling procedures and latent variable models. Although the current version of SQP would not be a good source of quality information for these types of questions, quality information regarding background variables is available in Alwin (<a href="#2007a">2007</a>).</p>
+            <p class="textBody">Combining the SQP predictions and the estimates of Alwin (<a href="#2007a">2007</a>) with respect to background variables, the estimates of a very large number of topics used in social sciences can be obtained and therefore the correlations between all variables can also be corrected from measurement errors. </p>
+            
+            <p id="L4" class="textTitle">4. Absence of an ‘Agree-Disagree’ (AD) characteristic</p>
+            <p class="textBody">The classic decomposition of the question-answering process has four components: 1) comprehension of the item, 2) retrieval of relevant information, 3) use of that information to make required judgments and 4) selection and reporting of an answer (Tourangeau, Rips and Rasinski, <a href="#2000a">2000</a>). However, many authors state that ‘Agree-Disagree’ (AD) questions require an extra effort by respondents to answer the question (e.g. Carpenter and Just, <a href="#1975">1975</a>; Clark and Clark, <a href="#1977">1977</a>; Trabasso, Rollins, and Shaughnessy, <a href="#1971">1971</a>). The response process would be composed in the following way: (1) the respondents must read the stem and understand its literal meaning; (2) they must look deeper into the question to discern the underlying dimension of interest to the researcher; (3) having identified this dimension, respondents must then place themselves on the scale of interest; then, (4) they must translate this judgement into the AD response options appropriately, depending upon the valence of the stem. Although Saris et al. (<a href="#2010a">2010</a>) have shown that the distinction between AD and ‘Item-Specific’ (IS) requests is a very important one, meaning that the quality is affected greatly depending whether an AD or an IS request is used, the current version of SQP does not distinguish explicitly between ‘Agree-Disagree’ (AD) requests and other requests. </p>
+            <p class="textBody">Furthermore, Revilla, Saris and Krosnick (<a href="#2013">2013</a>) have also shown that for AD scales the quality decreases when the number of scale points increases, whereas in general the quality increases with the number of points. For SQP users, this means that:</p>
+			<ui>
+				<li><p class="textBody idented">SQP probably tends to overestimate the quality of questions using an AD request.</p>
+				<li><p class="textBody idented">Users should not trust the predicted effect of the number of scale points on the quality for AD requests.</p>
+			</ui>
+			<p class="textBody">For instance, if a 5-point AD scale is evaluated and the ‘Potential improvements’ tool suggests that increasing the number of points to 11 would improve the quality, then users should not do that, users should stick to the 5-points (Revilla, Saris and Krosnick, <a href="#2013">2013</a>) or even better, switch to an IS scale (Saris et al., <a href="#2010a">2010</a>).</p>
+            <p class="textBody">In addition, whenever users are interested in evaluating such questions, as the one presented below, it is recommend that they code them as ‘Complex concepts’.</p>
+            <p class="textBody idented">Request for an answer: Please rate if you agree or disagree with the following statement: a high income is important for well-being. </p>
+            <p class="textBody idented">Answer options:</p>
+            <p class="textBody identeda">1. Strongly disagree</p>
+            <p class="textBody identeda">2. Disagree </p>
+            <p class="textBody identeda">3. Neither disagree nor agree</p>
+            <p class="textBody identeda">4. Agree</p>
+            <p class="textBody identeda">5. Strongly agree</p>
+            <p class="textBody">Indeed, for the question above, while the concept ‘Importance’ is a simple concept, the use of AD as the format of the question increases the complexity of the concept being evaluated, which in this case would be: ‘An agreement regarding the importance of income for well being’, a complex concept. Users should identify such questions using the option ‘Complex concepts – Other’ in the ‘Concept’ characteristic.</p>
 
-            <div style="overflow: hidden;">
-                <div style="float: left;;width: 25%;">
-                    <p class="title2">Current SQP team:</p>
-                    <p class="quote" style="width: 800px;">
-                    Willem E. Saris</br>
-                    Anna De Castellarnau</br>
-                    Diana Zavala-Rojas</br>
-                    Melanie Revilla</br>
-                    Teresa Queralt
-                    </p>
-                </div>
+            <p id="L5" class="textTitle">5. Modes of data collection</p>
+            <p class="textBody">Although a variety of modes of data collection were used in the MTMM experiments on which SQP is based, not all of them are included. The data collection modes in the current version of SQP are identified as follows:</p>
+			<p class="textBody idented">1. Type of administration: Interviewer administered or self completion</p>
+            <p class="textBody idented">2. Type of assistance: Computer or paper and pencil assisted</p>
+            <p class="textBody">The modes of data collection that the current version of SQP takes into account, based on the MTMM experiments performed, are:</p>
+            <p class="textBody idented"><img src="/media/img/ui/Limit5_table.png"></p>
+            <p class="textBody" style="font-style: italic;"><sup>1</sup>Landline phones</p>
+            <p class="textBody">Web surveys are a special form of CASI. Therefore, users can use these characteristics to classify web surveys. Moreover, web surveys are now also completed using different devices such as smartphones and tablets. These devices may lead to different qualities. This point requires further research.</p>
 
-                <div style="display: inline-block;;width: 50%;">
-                    <p class="title2">Contact details</p>
-                    <p class="quote" style="width: 800px;">
-                    Survey Quality Predictor (SQP) 2.0<br/>
-                    e-mail: sqp@upf.edu
-                    </p>
-                </div>
-            </div>
+            <p id="L6" class="textTitle">6. Response scales</p>
+            <p class="textBody">The current version of SQP can only provide predictions concerning questions with closed response options. Together with open response questions, other new types of responses (e.g. from online surveys), cannot be coded accurately as yet they have not been taken into account in the MTMM experiments and the SQP meta-analysis. Neither has the quality of open response questions been studied with MTMM experiments yet. </p>
+            <br/>
+            <p id="L6_1" class="textBody"><b>6.1. ‘Magnitude estimation’ and ‘Line production’</b></p>
+            <p class="textBody">Although many MTMM questions using ‘Magnitude estimation’ and ‘Line production’ response scales are available in the database, SQP is unable to provide a prediction for these types of questions yet, although the SQP team is working on solving this problem. </p>
+            <br/>
+            <p id="L6_2" class="textBody"><b>6.2. Latest forms of response scales</b></p>
+            <p class="textBody">New technologies allow all kinds of new forms of scales to be used: drag and drop, drop-down menu, etc. Predictions for most of these new forms are not available in the current version of SQP.   </p>
 
-            <p class="title2">SQP guidelines repository</p>
-            <ul class="quote" style="width: 800px;">
-                <li class="list">A brief introduction to SQP. <a href="/media/files/Brief_introduction_to_SQP.pdf">[PDF]</a></li>
-                <li class="list">SQP Coding Guideline [In progress]</li>
-            </ul>
+            <p id="L7" class="textTitle">7. Questionnaire layout</p>
+            <p class="textBody">Most surveys involved in the MTMM experiments, which are now part of the SQP meta-analysis, were interviewer administrated except for the older CASI interviews of the telepanel. Therefore, in the current version of SQP, the layout on paper or screen has not been coded except for the showcards. Thus, the effect of the layout as studied, for example by Dillman (<a href="#2000">2000</a>), has so far been ignored. </p>
 
-            <p class="title2">Publications applying SQP</p>
-            <p class="quote" style="width: 100%;">Revilla, M. and Ochoa, C. (2014). What are the links in a web survey between response time, quality and auto-evaluation of the efforts done?. Published in Social Science Computer Review.</p>
-            <p class="quote" style="width: 100%;">Saris, W. E. and De Castellarnau, A. (2014). A simple procedure to correct for measurement errors in survey research. European Social Survey Education Net (ESS EduNet). Available in: <a href="http://essedunet.nsd.uib.no/cms/topics/measurement/">ESS EduNet</a></p>
-            <p class="quote" style="width: 100%;">Weber, W. and Saris, W. E. (2014). The relationship between issues and an individual's left-right orientation. Acta Politica advance online publication, 4 April 2014, doi:10.1057/ap.2014.5.</p>
-            <p class="quote" style="width: 100%;">Zavala-Rojas, D. (2014). A procedure to prevent differences in translated survey items using SQP. RECSM Working Paper 38. <a href="http://www.upf.edu/survey/_pdf/RECSM_wp038.pdf">[PDF]</a> Accepted as invited paper in 3MC conference (2016). Received an Honorable Mention of the 2014 Student paper competition in memory of Janet A. Harkness from the World Association for Public Opinion Research and American Association for Public Opinion Research.</p>
-            <p class="quote" style="width: 100%;">Moncagatta, P. (2013). What determines citizens’ conceptions of democracy?. 1st Southern European Conference on Survey Methodology.</p>
-            <p class="quote" style="width: 100%;">Serrano Maíllo, A. (2013). Una evaluación de la versión modificada de Wikström de la escala de Grasmick y otros controlando por el error de medición siguiendo a Saris. In: La generalidad de la teoría del autocontrol, Serrano Maíllo, A. and Birkbeck, C. H. (eds). Estudios de Criminología y Política Criminal (28), Dykinson, Madrid.</p>
-            <p class="quote" style="width: 100%;">Thomassen, J. Chapter 5 Opinions about Political Issues. ESS Core Questionnaire Development, 117-232. <a href="http://www.europeansocialsurvey.org/docs/methodology/core_ess_questionnaire/ESS_core_questionnaire_political_issues.pdf">[PDF]</a></p>
+            <p class="title2">References</p>
+            <p id="2007a" class="textBody">Alwin, D. F. (2007). Margins of error: A study of reliability in survey measurement. <i>Hoboken, Wiley</i>.</p>
+            <p id="1975" class="textBody">Carpenter, P. A., and Just, M. A. (1975). Sentence comprehension: A psycholinguistic processing model of verification. <i>Psychological Review, 82, 45-73</i>.</p>
+            <p id="1977" class="textBody">Clark, H. H., and Clark, E. V. (1977). Psychology and language. <i>New York: Harcourt Brace</i>.</p>
+            <p id="2000a" class="textBody">Dillman, D. A. (2000). Mail and Internet Surveys: The Tailored Design Method. <i>New York: John Wiley</i>.</p>
+            <p id="2013" class="textBody">Revilla, M., Saris, W. E., and Krosnick, J.A. (2013). Choosing the number of categories in agree-disagree scales. <i>Sociological Methods and Research February 2014 43: 73-97, first published online on December 10, 2013 doi:10.1177/0049124113509605</i></p>
+            <p id="2007wg" class="textBody">Saris, W. E. and Gallhofer, I. N. (2007). Design, evaluation and analysis of questionnaires for survey research. <i>Hoboken, Wiley</i>.</p>
+            <p id="2014wga" class="textBody">Saris, W. E. and Gallhofer, I. N. (2014). Design, evaluation and analysis of questionnaires for survey research. <i>Second Edition. Hoboken, Wiley</i>.</p>
+            <p id="2010a" class="textBody">Saris, W. E., Revilla, M., Krosnick, J.A. and Shaeffer, E.M. (2010). Comparing Questions with Agree/Disagree Response Options to Questions with Construct-Specific Response Options. <i>Survey Research Methods, 4(1): 61-79. Available at: <a href="https://ojs.ub.uni-konstanz.de/srm/article/view/2682">https://ojs.ub.uni-konstanz.de/srm/article/view/2682</a></i></p>
+            <p id="2014s" class="textBody">Schröder, H. (2014). Two methods to improve the measurement of education in comparative research. <i>Amsterdam, Vrije Universiteit</i>.</p>
+            <p id="2000b" class="textBody">Tourangeau, Roger, Rips, Lance J., and Rasinski, Kenneth (2000). The Psychology of Survey Response. <i>Cambridge: Cambridge University Press</i>.</p>
+            <p id="1971" class="textBody">Trabasso, T., Rollins, H., and Shaughnessey, E. (1971). Storage and verification stages in processing concepts. <i>Cognitive Psychology, 2, 239-289</i>.</p>
 
-            <p class="title2">Awards received </p>
-            <p class="quote" style="width: 100%;">Willem E. Saris and Daniel Oberski were awarded the prestigious <a href="http://www.aapor.org/AAPORKentico/Awards/Mitofsky-Innovators-Award/Past-Warren-J-Mitofsky-Innovators-Award-Winners.aspx">American Association for Public Opinion Research</a>’s Warren J. Mitofsky Innovators Award for the Survey Quality Predictor (SQP) 2.0 and its Contribution to the Improving Questionnaire Design.</p>
+            <!-- table class="textBody">
+				<tr>
+					<th>Request for an answer:</th>
+					<th>Please rate if you agree or disagree with the following statement: a high income is important for well-being.</th>
+				</tr>
+				<tr>
+					<th>Answer options:</th>
+					<th>xxxxxxxxxx</th>
+				</tr>
+			</table-->
+            <p class="textBody"></p>
+           </div>
+        </div>       
+            
+                        <!-- -------------------------------- -->
+	<!-- About View -->
+	<div id="pageAbout" class="uiPage">
+		<!-- <div id ="aboutLogo"> <img src="/media/img/logo/RECSM.png" id="imgLogo"/> </div> -->
+		<div id="textContainerAbout" style="width: 80%; text-align: justify;">
 
-            <p class="title2">Publications about the development of SQP </p>
-            <p class="quote" style="width: 100%;">Saris, W. E. and Gallhofer, I. N. (2014). Design, evaluation and analysis of questionnaires for survey research. Second Edition, Hoboken, Wiley.</p>
-            <p class="quote" style="width: 100%;">Saris, W. E., Oberski, D., Revilla, M., Zavala-Rojas, D., Lilleoja, L., Gallhofer, I., and Gruner, T. (2011). The development of the program SQP 2.0 for the prediction of the quality of survey questions. RECSM Working Paper 24. <a href="http://www.upf.edu/survey/_pdf/RECSM_wp024.pdf">[PDF]</a></p>
-            <p class="quote" style="width: 100%;">Saris, W. E. and Gallhofer, I. N. (2007). Design, evaluation and analysis of questionnaires for survey research. Hoboken, Wiley.</p>
+			<div style="overflow: hidden;">
+				<div style="float: left;; width: 25%;">
+					<p class="title2">Current SQP team</p>
+					<p class="quote" style="width: 800px; color: grey">PRINCIPAL
+						INVESTIGATOR:</p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/wiebke.html">Wiebke Weber</a></p>
+					<br>
+					<p class="quote" style="width: 800px; color: grey">CREATOR AND ADVISOR:</p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/willem.html">Willem Saris</a></p>
+					<br>
+					<p class="quote" style="width: 800px; color: grey">PROJECT LEADER:</p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/annadc.html">Anna DeCastellarnau</a></p>
 
-            <div style="overflow: hidden;">
-                <div style="float: left;width: 25%;">
-                    <p class="title2">Collaborators SQP 2.0 development:</p>
-                    <p class="quote" style="width: 800px;">
-                    Willem E. Saris<br/>
-                    Daniel Oberski<br/>
-                    Melanie Revilla<br/>
-                    Diana Zavala-Rojas<br/>
-                    Laur Lilleoja<br/>
-                    Irmtraud Gallhofer<br/>
-                    Tom Gruner
-                    </p>
-                </div>
+				</div>
+				<div style="float: left;; width: 25%;">
+					<br><br><br>
+					<p class="quote" style="width: 800px; color: grey">RESEARCHERS:</p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/melanie.html">Melanie Revilla</a></p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/diana.html">Diana Zavala-Rojas</a></p>
+					<br>
+					<p class="quote" style="width: 800px; color: grey">RESEARCH ASSISTANT:</p>
+					<p class="quote" style="width: 800px;"><a class="noLink"; href="http://www.upf.edu/survey/members/Teresa_Q.html">Teresa Queralt</a></p>
 
-                <div style="display: inline-block;;width: 50%;">
-                    <p class="title2">Collaborators SQP 1.0 development:</p>
-                    <p class="quote" style="width: 800px;">
-                    <u>Principle investigator</u><br/>
-                    Willem E. Saris<br/>
-                    <u>Data collection</u><br/>
-                    Frank Andrews (USA)<br/>
-                    Richard Költringer (Austria)<br/>
-                    Annette Scherpenzeel and Willem E. Saris (Netherlands)<br/>
-                    Jaak Billiet (Belgium)<br/>
-                    <u>MTMM analysis</u><br/>
-                    Annette C. Scherpenzeel<br/>
-                    Irmgard W. Corten<br/>
-                    Chris Aalberts<br/>
-                    Willem E. Saris<br/>
-                    <u>Coding system</u><br/>
-                    Irmtraud Gallhofer<br/>
-                    Willem E. Saris<br/>
-                    Meta analysis<br/>
-                    Willem E. Saris<br/>
-                    <u>Program for Windows</u><br/>
-                    Daniel Oberski<br/>
-                    Stijn Kuipers<br/>
-                    <u>Program for DOS</u><br/>
-                    Willem E. Saris<br/>
-                    Program in Dutch<br/>
-                    William van der Veld<br/>
-                    </p>
-                </div>
-            </div>
-            <br/><br/>
-        </div>
-	<div id='sqpfooter'></div>
-</div>
-{% endblock %}
+				</div>
+				<div style="float: left;; width: 3%;">
+					<br><br><br>
+					<img style="width: 50px;" src="/media/img/sqp/about/envelope.png">
+				</div>
+
+				<div class="linkTab" style="display: inline-block; width: 45%;">
+
+					<p class="title2">Contact details:</p>
+					<p class="quote" style="width: 800px;">
+						Survey Quality Predictor (SQP)<br /> e-mail: <a href="mailto:sqp@upf.edu">sqp@upf.edu</a>
+					</p>
+				</div>
+			</div>
+			<div class="linkTab">
+				<div style="float: left;; width: 45%;">
+					<p class="title2">SQP guidelines repository:</p>
+					<ul class="quote" style="width: 800px;">
+						<li class="list"> SQP Users’ Manual. <a
+							href="/media/files/sqp_users_manual.pdf">[PDF]</a></li>
+						<li class="list">SQP Coding Instructions. <a
+							href="/media/files/sqp_coding_instructions.pdf">[PDF]</a></li>
+					</ul>
+				</div>
+				
+				<div style="display: inline-block; width: 55%;">
+					<p class="title2">SQP tutorials:</p>
+					<a href="https://www.youtube.com/watch?v=UGZiDbN5N04&list=PLgaP_kVv-5bX2VJXQ5Af1hfmKaQuRoSwA" target="_blank"><img style="margin-left:100px;margin-top:-30px" src="/media/img/ui/fake_tutorial.png"></a>
+				</div>		
+		
+				<p class="title2">SQP documentation repository:</p>
+				<p class="quote" style="width: 100%;">Survey Quality Predictor (2015). The history and the basic publications in the development of SQP. 
+				Barcelona, Universitat Pompeu Fabra. <a href="/media/files/sqp_history.pdf">[PDF]</a></p>
+				
+	
+				<p class="title2">Publications applying SQP:</p>
+				<p class="quote" style="width: 100%;">DeCastellarnau, A. and Saris, W. E. (2014). A simple procedure to correct for measurement errors in 
+				survey research. European Social Survey Education Net
+				(ESS EduNet). Available at:  <a	href="http://essedunet.nsd.uib.no/cms/topics/measurement/">ESS EduNet</a></p>
+	
+				<p class="quote" style="width: 100%;">Revilla, M. and Ochoa, C. (2015). What are the links in a web survey between response time, quality 
+				and auto-evaluation of the efforts done?. Social Science Computer Review, 2015, 33(1):97-114. First published online on May 14, 2014. Available at: 
+				<a href="http://ssc.sagepub.com/content/33/1/97">http://ssc.sagepub.com/content/33/1/97</a> doi:10.1177/0894439314531214</p>
+				
+				
+				<p class="quote" style="width: 100%;">Saris, W. E. and Revilla, M. (2015). Correction 
+				for measurement errors in survey research: necessary and possible. Social Indicators Research. First published online: 17 June 2015. 
+				DOI: 10.1007/s11205-015-1002-x. Available at: <a href="http://link.springer.com/article/10.1007/s11205-015-1002-x">http://link.springer.com/article/10.1007/s11205-015-1002-x</a>
+				</p>
+				
+				<p class="quote" style="width: 100%;">Moncagatta, P. (2013). What determines citizens’ conceptions of democracy?. 1st Southern European Conference on Survey Methodology.</p>
+				
+				<p class="quote" style="width: 100%;">Serrano Maíllo, A. (2013). Una evaluación de la versión modificada de Wikström de la escala de Grasmick y otros controlando por el error de medición
+				siguiendo a Saris. In: La generalidad de la teoría del autocontrol, Serrano Maíllo, A. and Birkbeck, C. H. (eds). Estudios de Criminología y Política Criminal
+				(28), Dykinson, Madrid.</p>
+				
+				<p class="quote" style="width: 100%;">Thomassen, J. Chapter 5 Opinions about Political Issues. ESS Core Questionnaire Development, 117-232. <a
+							href="/media/files/ESS_core.pdf">[PDF]</a></p>
+							
+				<p class="quote" style="width: 100%;">Weber, W. and Saris, W. E. (2014). The relationship between issues and an individual's left-right orientation. Acta Politica advance online publication, 4 April
+				2014, doi:10.1057/ap.2014.5.</p>
+				<p class="quote" style="width: 100%;">Zavala-Rojas, D. (2014). A procedure to prevent differences in translated survey items using SQP. RECSM Working Paper 38. <a
+							href="/media/files/RECSM_wp038.pdf">[PDF]</a> Accepted as invited
+				paper in 3MC conference (2016). Received an Honorable Mention of the 2014 Student paper competition in memory of Janet A. Harkness from the World
+				Association for Public Opinion Research and American Association for Public Opinion Research.</p>
+				
+	
+	
+				<p class="title2">Awards received</p>
+				<p class="quote" style="width: 100%;">
+					Willem E. Saris and Daniel Oberski were awarded the prestigious <a
+						href="http://www.aapor.org/AAPORKentico/Awards/Mitofsky-Innovators-Award/Past-Warren-J-Mitofsky-Innovators-Award-Winners.aspx">American
+						Association for Public Opinion Research</a>’s Warren J. Mitofsky
+					Innovators Award for the Survey Quality Predictor (SQP) 2.0 and its
+					Contribution to the Improving Questionnaire Design.
+				</p>
+	
+				<p class="title2">Publications about SQP:</p>
+				<p class="quote" style="width: 100%;">Saris, W. E. and Gallhofer,
+					I. N. (2014). Design, evaluation and analysis of questionnaires for
+					survey research. Second Edition, Hoboken, Wiley.</p>
+				<p class="quote" style="width: 100%;">
+					Saris, W. E., Oberski, D., Revilla, M., Zavala-Rojas, D., Lilleoja,
+					L., Gallhofer, I., and Gruner, T. (2011). The development of the
+					program SQP 2.0 for the prediction of the quality of survey
+					questions. RECSM Working Paper 24. <a
+						href="/media/files/RECSM_wp024.pdf">[PDF]</a>
+				</p>
+				<p class="quote" style="width: 100%;">Saris, W. E. and Gallhofer,
+					I. N. (2007). Design, evaluation and analysis of questionnaires for
+					survey research. Hoboken, Wiley.</p>
+	
+				<div style="overflow: hidden;">
+					<div style="float: left; width: 25%;">
+						<p class="title2">Collaborators SQP 2.0 development:</p>
+						<p class="quote" style="width: 800px; color: grey">PRINCIPAL
+							INVESTIGATOR:</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">RESEARCHERS:</p>
+						<p class="quote" style="width: 800px;">Daniel Oberski</p>
+						<p class="quote" style="width: 800px;">Melanie Revilla</p>
+						<p class="quote" style="width: 800px;">Diana Zavala-Rojas</p>
+						<p class="quote" style="width: 800px;">Laur Lilleoja</p>
+						<p class="quote" style="width: 800px;">Irmtraud Gallhofer</p>
+						<p class="quote" style="width: 800px; color: grey">PROGRAMMER:</p>
+						<p class="quote" style="width: 800px;">Tom Gruner</p>
+					</div>
+	
+					<div style="display: inline-block;; width: 50%;">
+						<p class="title2">Collaborators SQP 1.0 development:</p>
+						<p class="quote" style="width: 800px; color: grey">PRINCIPAL
+							INVESTIGATOR:</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">DATA COLLECTION:</p>
+						<p class="quote" style="width: 800px;">Frank Andrews (USA)</p>
+						<p class="quote" style="width: 800px;">Richard Költringer (Austria)</p>
+						<p class="quote" style="width: 800px;">Annette Scherpenzeel and Willem E. Saris (Netherlands)</p>
+						<p class="quote" style="width: 800px;">Jaak Billiet (Belgium)</p>
+						<p class="quote" style="width: 800px; color: grey">MTMM ANALYSIS:</p>
+						<p class="quote" style="width: 800px;">Annette C. Scherpenzeel</p>
+						<p class="quote" style="width: 800px;">Irmgard W. Corten</p>
+						<p class="quote" style="width: 800px;">Chris Aalberts</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">CODING SYSTEM:</p>
+						<p class="quote" style="width: 800px;">Irmtraud Gallhofer</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">META ANALYSIS:</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">PROGRAM FOR WINDOWS:</p>
+						<p class="quote" style="width: 800px;">Daniel Oberski</p>
+						<p class="quote" style="width: 800px;">Stijn Kuipers</p>
+						<p class="quote" style="width: 800px; color: grey">PROGRAM FOR DOS:</p>
+						<p class="quote" style="width: 800px;">Willem E. Saris</p>
+						<p class="quote" style="width: 800px; color: grey">PROGRAM IN DUTCH:</p>
+						<p class="quote" style="width: 800px;">William van der Veld</p>
+					</div>
+				</div>
+				<br />
+				<br />
+			</div>
+		</div>
+		<div id='sqpfooter'></div>
+	</div>
+	{% endblock %}

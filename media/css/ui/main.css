@@ -151,7 +151,7 @@ input:focus, textarea:focus, select:focus  {
 	font-weight:bold;
 	display:block;
 	float:left;
-	width:160px;
+	width:205px;
 	margin:20px 0px 0px;
 }
 
@@ -161,6 +161,22 @@ input:focus, textarea:focus, select:focus  {
 	margin:18px 0px 1px;
 	width:200px;
 }
+
+.blockLabelFloatedStudy {
+	clear:left;
+	font-weight:bold;
+	display:block;
+	width:240px;
+	margin:17px 10px -10px;
+}
+
+.blockValueFloatedStudy {
+	display:block;
+	float:left;
+	margin:18px 0px 1px;
+	width:455px;
+}
+
 
 .floatedLabel, .floatedValue {
 	float:left;
@@ -180,10 +196,16 @@ input:focus, textarea:focus, select:focus  {
 }
 
 .inputHelp {
-	margin:0px 0px 0px 160px;
+	margin:0px 0px 0px 205px;
 	width:250px;
 }
 
+.inputHelpStudy{
+	color:#888;
+	font-size:90%;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+}
 
 .inputErrorMessage, .inputErrorMessageForTextArea {
 	color:#DD4200;
@@ -196,8 +218,13 @@ input:focus, textarea:focus, select:focus  {
 }
 
 .inputErrorMessage{
-	margin:0px 0px 0px 160px;
+	margin:0px 0px 0px 205px;
 	width:225px;
+}
+
+.inputErrorMessageStudy{
+	color:#DD4200;
+	font-size:90%;
 }
 
 
@@ -283,6 +310,13 @@ input:focus, textarea:focus, select:focus  {
 	color:#999;
 }
 
+.searchWarning{
+	color:#888;
+	font-size: 10px;
+	font-style: italic;
+	
+}
+
 label {
 	cursor:pointer;
 }
@@ -339,7 +373,6 @@ label {
 
 #sqpheaderinner{
 	
-	background-image: url("/media/img/ui/ui-banner.png");
     background-position: right 0px;
     background-repeat: no-repeat;
 	padding-top: 52px;
@@ -579,7 +612,7 @@ label {
 }
 
 .predictionTable .columnVarName {
-	width:220px;
+	width:280px;
 }
 
 .predictionTable .columnVar, .predictionTable .columnVarName  {
@@ -593,13 +626,13 @@ label {
 }
 
 .predictionTable .columnPredictStdError {
-	width:115px;
+	width:187px;
 }
 
 
 
 .predictionTable .columnPredictInterquartile {
-	width:140px;
+	width:159px;
 }
 
 
@@ -728,6 +761,11 @@ label {
 .invalid {
 	border-color:#DD4200;
 	border-width:2px;
+}
+
+.warning{
+	border-color: orange;
+	color: orange;
 }
 
 .errorInfo {
@@ -966,6 +1004,17 @@ a, .linkActive {
 	color:#2452f5;
 }
 
+.noLink {
+	text-decoration:none;
+	color:#1F3743;
+}
+
+.linkTab a{
+	text-decoration:underline;
+}
+
+
+
 .linkDisabled {
 	color:#777;
 	text-decoration:none;
@@ -1051,6 +1100,10 @@ border:0px;
 	color:#882200;
 } 
 
+#assignmentNotice h3, #assignmentNotice button {
+	color:#882200;
+} 
+
 #assignmentNotice .block {
 	border-color:#FE9231;
 }
@@ -1081,7 +1134,25 @@ border:0px;
 }
 .textBody {
     margin-left: 20px;
+
 }
+
+.idented{
+	margin-left:80px;
+}
+
+.identeda{
+	margin-left:140px;
+}
+
+.caption {
+    margin-left: 80px;
+    font-weight: bold;
+    
+}
+
+
+
 .tabuled {
     margin-left: 70px;
 }
@@ -1183,4 +1254,12 @@ border:0px;
     position:   relative;
     left: 36%;
     margin: 80px 0px 40px 0px;
+}
+
+.mail {
+	color: blue;	
+}
+
+.subparagraph{
+	font: normal 10px/1.5em  sans-serif;
 }

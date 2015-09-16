@@ -1,8 +1,6 @@
 <div style="float:left;width:94%;margin-bottom: 30px;">
 	<h2>SQP Demo</h2>
-	<p>Demo environment for non users and testing.</p>
-   	<p>If you are just interested in testing the system or learning how SQP works, please click on the <i>Demo login</i>
-        button. This demo has full functional possibilities of SQP.</p>
+	<p>SQP Demo is a trial version with all functionalities of SQP. However, users should be aware that all studies, questions and codings will be deleted periodically. For a complete view of the database you should access SQP through your personal account.</p>
 	<form method="post" >
 	{% csrf_token %}
 	    <div class="submit_block">
@@ -11,6 +9,6 @@
 	    </div>
         <input type="submit" value="Demo Login" style="float:right;position: relative;bottom: 15px;" />
 	    <input type="hidden" name="next" value="/loadui/" />
-	</form></p>
+	</form>
 </div>
 

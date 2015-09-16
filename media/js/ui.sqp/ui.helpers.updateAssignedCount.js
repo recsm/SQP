@@ -9,4 +9,7 @@ sqpBackbone.helpers.updateAssignedCount = function sqpBackbone$updateAssignedCou
 	});
 	$('.assignedQuestionsCountComplete').html(complete);
 	$('.assignedQuestionsCountTotal').html(assignedQuestionsCollection.length);
+	if (complete == assignedQuestionsCollection.length){
+		$('#removeAssigment').show();
+	}
 }

@@ -1,0 +1,32 @@
+<style><!--
+.link {
+	color: blue;
+}
+
+.small-font{
+	font-size: 85%;
+}
+
+.info-text{
+	font-size:1.2em; 
+	color:#333; 
+	line-height:1.2em
+}
+
+--></style>
+<img src="cid:emailImages/sqp.png">
+<h2>Congratulations {{first_name}} {{last_name}}!</h2>
+<br>
+<div>
+    <p>Your SQP account has now been created and is ready to use. Now you only have to verify this email address to activate your account.</p>
+    <br>    
+    <a href="http://domain_string/accounts/confirm/activation_key_string/"><img src="cid:emailImages/activate_button.png"></a>
+    <p class="small-font">If the above button does not work, you can copy the following address and paste it into your browser's address bar:</p>
+    <a class="small-font link" href="http://domain_string/accounts/confirm/activation_key_string/">http://{{domain}}/accounts/confirm/{{activation_key}}/</a>
+    <br>
+    <p>If you have any questions, please feel free to contact us at any time.</p>
+    <p>Thank you for registering and welcome to SQP,</p>
+    <p><strong>SQP team</strong></p>
+</div>
+<p class="small-font"><i>Copyright &copy; SQP, All rights reserved.</i></p>
+<a class="small-font link" href="mailto:sqp@upf.edu">sqp@upf.edu</a>

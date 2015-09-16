@@ -376,7 +376,7 @@ def list_questions(request):
     charsets = request.user.characteristicset_set.all()
     # Select only the questions that this user has been assigned to 
     #   select_related(2) here speeds up the template rendering time by a factor 2
-    #   because q.item.long_name is used there. Could be improved by reading into a [].
+    #   because q.item.concept is used there. Could be improved by reading into a [].
     sql = "SELECT COUNT(*) > 0 FROM sqp_completion WHERE sqp_completion.question_id = sqp_question.id AND     sqp_completion.characteristic_set_id = %d AND sqp_completion.user_id = %d AND sqp_completion.complete = TRUE" % (int(request.session['characteristic_set']), request.user.id)
 
     question_qset = Question.objects.filter(language__coders = request.user).\

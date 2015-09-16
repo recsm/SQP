@@ -6,9 +6,9 @@ import copy
 from datetime import datetime
 
 from sqp.views_ui_utils import get_branch, get_label
-
 from django.db import models
 from django.contrib.auth.models import User
+
 from django.contrib import admin
 from django.core import serializers
 from django.core.cache import cache
@@ -20,7 +20,6 @@ from sqp_project.sqp.log import logging
 from django.utils.safestring import mark_safe
 
 from django.db.models.query import QuerySet
-
 from django.contrib.auth.models import User
 from django.db.models.signals import post_save, pre_save, pre_delete, post_delete, m2m_changed
 
@@ -483,6 +482,9 @@ class Study(models.Model):
     name              = models.CharField(max_length=70)
     coders            = models.ManyToManyField(User, blank=True, help_text="Deprecated")
     created_by        = models.ForeignKey(User, blank=True, null=True, related_name="created_study_set")
+    company           = models.CharField(max_length=70, null=True)
+    year              = models.CharField(max_length=70, null=True)
+    country           = models.CharField(max_length=70, null=True)
 
     def can_delete(self, user):
 
@@ -527,11 +529,11 @@ class Study(models.Model):
 class Item(models.Model):
     name         = models.CharField(max_length=8)
     admin        = models.CharField(max_length=8, default='')
-    long_name    = models.CharField(max_length=300, default='')
+    concept      = models.CharField(max_length=300, default='')
     study        = models.ForeignKey(Study)
-    admin_letter = models.CharField(max_length=1, blank=True, null=True)
+    admin_letter = models.CharField(max_length=8, blank=True, null=True)
     admin_number = models.IntegerField(blank=True, null=True)
-
+    admin_subletter= models.CharField(max_length=8, blank=True, null=True)
     created_by   = models.ForeignKey(User, blank=True, null=True, related_name="created_item_set")
 
     #choices made of characteristics for this item
@@ -552,11 +554,11 @@ class Item(models.Model):
         return (self.name.lower().find('test') == -1) and "main" or "supp"
     def _unique_name(self):
         ad = self.admin and self.admin + ". " or ''
-        return("%s %s, %s" % (ad, self.name, self.study))
+        return("%s / %s / %s" % (ad, self.name, self.study))
     unique_name = property(_unique_name)
 
     def code (self):
-        return("%s%s" % (self.admin_letter, self.admin_number))
+        return("%s%s" % (self.admin_letter, self.admin_number, self.admin_subletter))
 
     #Called before saving
     #Don't call save here, you will cause an infinite loop
@@ -565,27 +567,23 @@ class Item(models.Model):
         #Set the admin if none exists
         if not self.admin and (self.admin_letter and self.admin_number):
             self.admin = self.code();
-
-        ###Check to see if the admin is in the format A1212 B43 C4 etc...
-        #One letter followed by multiple numbers
-        if re.match(r'^[A-Za-z][0-9]+$', self.admin):
-            self.admin_letter = str(self.admin)[0:1]
-            self.admin_number = str(self.admin)[1:]
-        #Match one letter
-        elif re.match(r'^[A-Za-z]$', self.admin):
-            self.admin_letter = self.admin
-            self.admin_number = None
-        #Match a few numbers
-        elif re.match(r'^[0-9]+$', self.admin):
-            self.admin_letter = None
-            self.admin_number = self.admin
-        else:
-            self.admin_letter = None
-            self.admin_number = None
+        if re.match(r'^[A-Za-z]*[0-9]+[A-Za-z]*$', self.admin):
+            letters=re.split('\d+', self.admin)
+            self.admin_letter=letters[0]
+            self.admin_number=filter(None,re.split('[A-Za-z]+',self.admin))[0]
+            self.admin_subletter=letters[1]
+        elif re.match(r'^[A-Za-z]*$',self.admin): #just letters
+            self.admin_letter=self.admin
+            self.admin_number=None
+            self.admin_subletter=None
+        else: # numbers letters numbers or whatever
+            self.admin_letter=self.admin
+            self.admin_number=None
+            self.admin_subletter=None
 
 
     class Meta:
-        ordering = ('study', 'admin_letter', 'admin_number', 'id')
+        ordering = ('study', 'admin_letter', 'admin_number', 'admin_subletter', 'id')
 
 
     def can_edit(self, user):
@@ -606,7 +604,18 @@ class Item(models.Model):
 
         return False
 
-
+class Country(models.Model):
+    iso       = models.CharField(max_length=2, primary_key=True)
+    name      = models.CharField(max_length=80)
+    iso_three = models.CharField(max_length=3, blank=True, null=True)
+    available = models.BooleanField(default=False, verbose_name="The user can select the country")
+    
+    def __unicode__(self):
+        return self.name
+                
+    class Meta:
+        ordering = ['name',]
+        
 class Language(models.Model):
     name = models.CharField(max_length=100)
     iso =  models.CharField(max_length=3)
@@ -614,18 +623,9 @@ class Language(models.Model):
     coders = models.ManyToManyField(User)
     def __unicode__(self):
         return self.name
+
     class Meta:
         ordering = ('name',)
-
-
-class Country(models.Model):
-    iso       = models.CharField(max_length=2, primary_key=True)
-    name      = models.CharField(max_length=80)
-    iso_three = models.CharField(max_length=3, blank=True, null=True)
-    def __unicode__(self):
-        return self.name
-    class Meta:
-        ordering = ['name',]
 
 
 characteristic_trees = {}
@@ -636,6 +636,7 @@ class Question(models.Model):
     item     = models.ForeignKey(Item)
     language = models.ForeignKey(Language)
     country  = models.ForeignKey(Country)
+    country_prediction  = models.ForeignKey(Country, related_name='prediction_country', blank=True, null=True)
     introduction_text = models.TextField(blank=True, null=True)
     rfa_text = models.TextField(blank=True, null=True)
     answer_text = models.TextField(blank=True, null=True)
@@ -926,6 +927,8 @@ class Question(models.Model):
         if create_suggestions == True:
             self.update_suggestions()
 
+    def save_through(self, *args, **kwargs):
+        super(Question,self).save(*args, **kwargs)
 
     class Meta:
         permissions = (('can_compare', 'Can create comparison report'),
@@ -937,7 +940,7 @@ class Question(models.Model):
                 ('can_export', 'Can export codings') )
 
     def __unicode__(self):
-        return u'%s - %s %s' % (self.item, self.country, self.language)
+        return u'%s / %s / %s / %s' % (self.item, self.language, self.country, self.country_prediction)
 
 #    def copy_codes(to_question, request):
 #        """Handles copying of codes for question specified in request.POST
@@ -1881,22 +1884,26 @@ bq. _Are you white black, Hispanic American, Alaskan native, Asian or Pacific Is
      (click the question mark again to close this text)
     """,
 }
-
+    
 class UserProfile(models.Model):
 
     user = models.OneToOneField(User, related_name='profile')
     default_characteristic_set = models.ForeignKey(CharacteristicSet)
     is_trusted = models.BooleanField(help_text="When a user is trusted, their questions will be visible in the question database.", default = True)
-
+    activation_key = models.CharField(max_length=40, blank=True)
+    key_expires = models.DateTimeField(default=datetime.now)
+    
     def __str__(self):
         return "%s's profile" % self.user
-
+    
     @staticmethod
-    def create_profile_for_user(user):
+    def create_profile_for_user(user, key, expires):
         charset = CharacteristicSet.objects.get(pk=settings.AUTH_PROFILE_DEFAULT_CHARACTERISTIC_SET_ID)
         profile, created = UserProfile.objects.get_or_create( \
                 user=user,
-                default_characteristic_set = charset)
+                default_characteristic_set = charset,
+                activation_key=key,
+                key_expires=expires)
         if created:
             profile.save()
 
@@ -1914,7 +1921,7 @@ class UserProfile(models.Model):
 
 
 
-post_save.connect(UserProfile.on_user_created, sender=User)
+#post_save.connect(UserProfile.on_user_created, sender=User)
 
 #Just add a on_before_save method to your instance
 def pre_save_easy_handler(sender, instance, **kwargs):
@@ -2020,3 +2027,4 @@ class CharacteristicTree():
                 return self.characteristics[key]
         return None
         
+

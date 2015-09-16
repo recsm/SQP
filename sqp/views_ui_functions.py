@@ -7,6 +7,7 @@ from sqp.views_ui_utils import URL, get_branch, get_label, get_codes_list, get_p
 from django.db import connection, transaction
 import math
 import textile
+import string
 from subprocess import Popen
 from django.conf import settings
 if settings.DEBUG: import time
@@ -46,6 +47,13 @@ def get_assigned_questions(user):
         question_model_view['completeness'] = user_question.question.get_completeness(user,charset)
         obj_response_body.append(question_model_view)
     
+    return obj_response_body, meta, SUCCESS
+
+def delete_assigned_question(user,assignedQuestionId):
+    assigment=models.UserQuestion.objects.get(user=user, question=assignedQuestionId)
+    assigment.delete()
+    obj_response_body=[]
+    meta={}
     return obj_response_body, meta, SUCCESS
 
 def render_predictions(user, questionId, \
@@ -96,7 +104,7 @@ def render_predictions(user, questionId, \
             #find the predictor object.
             predictor = get_predictor() 
             
-            predictions = predictor.get_predictions(question.country.iso, question.language.iso, get_codes_list(codes))        
+            predictions = predictor.get_predictions(question.country_prediction.iso, question.language.iso, get_codes_list(codes))        
             
             if settings.DEBUG: 
                 elapsed = time.time() - start
@@ -213,9 +221,8 @@ def get_potential_improvements(user, questionId, xname, params, completionId=0, 
     else:
         loadChoiceOptions = False
     
-
     for what in params:
-        selected_improvements = predictor.get_conditional_effects(question.country.iso, question.language.iso, \
+        selected_improvements = predictor.get_conditional_effects(question.country_prediction.iso, question.language.iso, \
                                      get_codes_list(codes), what, xname)
         
         # for i in range(0, len(selected_improvements)):
@@ -317,14 +324,14 @@ def item_autocomplete(user, studyId, term):
     results = []
     
     if studyId != 'undefined':
-        query_set = models.Item.objects.filter(name__icontains=term, study = models.Study.objects.get(pk=int(studyId)))
+        query_set = models.Item.objects.filter(admin__icontains=term, study = models.Study.objects.get(pk=int(studyId)))
       
-        for item in query_set.order_by('name')[0:10]:
+        for item in query_set.order_by('admin')[0:10]:
                 results.append({'id'          : item.id, 
-                                'label'       : item.name, 
-                                'value'       : item.name,
-                                'description' : item.long_name,
-                                'code'        : item.admin,
+                                'label'       : item.admin, 
+                                'value'       : item.admin,
+                                'description' : item.concept,
+                                'name'        : item.name,
                                 })
     
     #In views_ui_calls.py item_autocomplete is defined with the return type direct
@@ -361,16 +368,19 @@ def get_study_list(user):
     #Show studies created by other trusted users (created_by__profile__is_trusted=True)
     # User 211 is RECSM and 1121 is the demouser, both must be seen in studies list beside be not trusted
     if user.username == 'demouser':
-        query = Q(created_by=user)
+        query = Q(created_by=user) | Q(created_by=1449)
     else:
-        query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=211)
+        query = (Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True) | Q(created_by=211)) & ~Q(created_by=1449)
     
     for study in models.Study.objects.filter(query):
         
         obj_response_body.append({'id'      : study.id,
                                   'name'    : study.name,
                                   'canEdit' : study.created_by == user,
-                                  'url'     : URL.study(study.id)})
+                                  'url'     : URL.study(study.id),
+                                  'company'  : study.company,
+                                  'year'     : study.year,
+                                  'country'  : study.country})
                                   
     return obj_response_body, {}, SUCCESS
 
@@ -389,15 +399,17 @@ def get_study_list_fitted(user):
     if user.username == 'demouser':
         query = Q(created_by=user)
     else:
-        query = Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True)
+        query = (Q(created_by=user) | Q(created_by=None) | Q(created_by__profile__is_trusted=True)| Q(created_by=211)) & ~Q(created_by=1449)
 
     for study in models.Study.objects.filter(query):
 
         obj_response_body.append({'id'      : study.id,
                                   'name'    : study.name,
                                   'canEdit' : study.created_by == user,
-                                  'url'     : URL.study(study.id)})
-
+                                  'url'     : URL.study(study.id),
+                                  'company'  : study.company,
+                                  'year'     : study.year,
+                                  'country'  : study.country})
     return obj_response_body, {}, SUCCESS
 
 def get_country_list(user):
@@ -414,6 +426,18 @@ def get_country_list(user):
     
     return obj_response_body, {}, SUCCESS
 
+def get_country_prediction_list(user):
+    """
+    Return a list of countries that a user has been assigned to.
+    """
+    obj_response_body = []
+           
+    for country in models.Country.objects.all().filter(available=True):
+        obj_response_body.append({'iso'   : country.iso,
+                                  'name' : country.name})
+    
+    return obj_response_body, {}, SUCCESS
+
 
 def get_language_list(user):
     """
@@ -424,7 +448,7 @@ def get_language_list(user):
    
     for language in models.Language.objects.all():
         obj_response_body.append({'iso'  : language.iso,
-                                  'name' : language.name,})
+                                  'name' : language.name})
     
     return obj_response_body, {}, SUCCESS
 
@@ -496,14 +520,16 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
             "studyId":              question.item.study.id,
             "languageIso"  :        question.language.iso,
             "countryIso"  :         question.country.iso,
+            "countryPredictionIso": question.country_prediction.iso,
             "studyName":            question.item.study.name,
             "itemPart":             question.item.main_or_supplementary(),
             "itemCode":             question.item.admin,
             "itemName" :            question.item.name, 
             "itemId  " :            question.item.id,   
             "country":              question.country.name,
+            "countryPrediction":    question.country_prediction.name,
             "language":             question.language.name,
-            "itemDescription":      question.item.long_name,
+            "itemDescription":      question.item.concept,
             "introText":            question.introduction_text,
             "requestForAnswerText": question.rfa_text,
             "answerOptionsTexts":   answer_options_text,
@@ -603,6 +629,7 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
     obj_response_body['hasAuthorizedPrediction'] = has_authorized_prediction
     obj_response_body['hasOtherPredictions'] = len(other_predictions) > 0
     obj_response_body['ownPredictionIsAuthorized'] = user_prediction_is_authorized
+    obj_response_body['otherCountryPrediction']= (question.country != question.country_prediction)
 
     return obj_response_body, {}, SUCCESS
 
@@ -618,11 +645,42 @@ def delete_question(user, questionId):
     else:
         raise views_ui_exceptions.ServiceError(views_ui_exceptions.no_permission, \
                                                     'Operation not permitted');
+
+
+def check_question_for_repetition(obj_request_body):
+    """Check if the question already exists"""
+    exists = False
+    item_code = obj_request_body.get('itemCode')
+    item_name = obj_request_body['itemName']
+    item_description = obj_request_body['itemDescription']
+    study_id  = int(obj_request_body.get('studyId'))
+    country = models.Country.objects.get(iso=obj_request_body['countryIso'])
+    country_prediction = models.Country.objects.get(iso=obj_request_body['countryPredictionIso'])
+    language = models.Language.objects.get(iso=obj_request_body['languageIso'])
     
+    study = models.Study.objects.get(pk=study_id)
+    item = models.Item.objects.filter(study = study,
+                                        admin = item_code,
+                                        concept  = item_description,
+                                        name = item_name)
+                                       
+                            
+    if item:
+        exists = models.Question.objects.filter(item = item,
+                                                country = country,
+                                                country_prediction = country_prediction,
+                                                language = language).count()>0
+    return exists
+    
+
 def create_or_update_question(user, obj_request_body, questionId = False):
-  
     """Create or update a question. If there is no question id, a new record will be created. """
     if not questionId:
+        repeated_code=check_question_for_repetition(obj_request_body)
+        if repeated_code:
+            obj_response_body = {"repeated_code":True}
+            return obj_response_body, {}, SUCCESS, 'error_key', 'error_message'
+        
         #If there is no question id, we create a new question
         question = models.Question()
         previous_item_code = None
@@ -650,7 +708,7 @@ def create_or_update_question(user, obj_request_body, questionId = False):
         study_id  = int(obj_request_body.get('studyId'))
         study = models.Study.objects.get(pk=study_id)
         
-        def get_long_name():
+        def get_concept():
             if item_description :
                 q_text = item_description
             else:
@@ -665,15 +723,16 @@ def create_or_update_question(user, obj_request_body, questionId = False):
             #Try to find an exact match
             item = models.Item.objects.get(study     = study,
                                            admin     = item_code,
-                                           name      = item_name)
+                                           name      = item_name,
+                                           concept  = item_description,)
             
             question.item = item
            
             if item.can_edit(user):
-                item.long_name = get_long_name()
+                item.concept = get_concept()
                 item.admin     = item_code
                 item.save()
-            elif item.long_name != item_description or item.admin != item_code:
+            elif item.concept != item_description or item.admin != item_code:
                 raise views_ui_exceptions.ServiceError(views_ui_exceptions.no_permission, \
                                                     'Since this item is shared, you may not edit the description or the code.');
             
@@ -681,7 +740,7 @@ def create_or_update_question(user, obj_request_body, questionId = False):
             #But if there is no matching existing item by name and study, we create one
             new_item = models.Item(admin        = item_code,
                                study        = study,
-                               long_name    = get_long_name(),
+                               concept    = get_concept(),
                                name         = item_name,
                                created_by   = user)
             new_item.save()
@@ -703,15 +762,18 @@ def create_or_update_question(user, obj_request_body, questionId = False):
                 
         
         country = models.Country.objects.get(iso=obj_request_body['countryIso'])
+        country_prediction = models.Country.objects.get(iso=obj_request_body['countryPredictionIso'])
         language = models.Language.objects.get(iso=obj_request_body['languageIso'])
         
         question.country = country
+        question.country_prediction = country_prediction
         question.language = language
         
     
     question.save()
-    
-    return get_question(user, questionId=question.id)
+    obj_response_body, meta, state = get_question(user, questionId=question.id)
+    obj_response_body["repeated_code"]=False 
+    return obj_response_body, meta, state
     
 
 def get_next_question(user, fromQuestionId, countryIso=False, languageIso=False, 
@@ -832,11 +894,21 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
      
     query_params.append('(q.created_by_id = %s %s %s)' % (user.id, user_assigned_query, trusted_user_query))
     """
-
     if q != '':
-        q =  '%' + q + '%'
-        query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.long_name LIKE %s OR i.admin LIKE %s)" 
-        query_params.append(query)
+        exclude = set(string.punctuation)
+        q = ''.join(c for c in q if c not in exclude) #remove punctuation symbols
+        if q!='':
+            q=q.split()
+            words=[]
+            query_word_search=[]
+            #search containing any of the words
+            for w in q: 
+                w='%' + w + '%'
+                query = "(q.introduction_text LIKE %s OR q.rfa_text LIKE %s OR q.answer_text LIKE %s OR i.name LIKE %s OR i.concept LIKE %s OR i.admin LIKE %s)" 
+                query_word_search.append(query)
+                words.extend([w, w, w, w, w, w])
+            query= ' AND '.join(query_word_search) 
+            query_params.append(query)
     
     
     where = 'WHERE (' + '\n AND '.join(query_params) + ')'
@@ -854,17 +926,17 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
          AND c.characteristic_set_id = %s
          %s
      %s
-    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, q.id
+    ORDER BY i.study_id, q.country_id, q.language_id, i.admin_letter, i.admin_number, i.admin_subletter, q.id
     """ % (int(characteristicSetId), restrict_complete_by_user,  where)
     
     if returnFormat == 'id_list':
         
         "for the get next question query we return a complete list of ids"
-        sql = "SELECT q.id" + base_sql
+        sql = "SELECT DISTINCT q.id" + base_sql
         
         cursor = connection.cursor()
         if q != '':
-            cursor.execute(sql, [q,q,q,q,q,q])
+            cursor.execute(sql, words)
         else:
             cursor.execute(sql)
         
@@ -876,11 +948,11 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         
     else:
         
-        sql = "SELECT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
+        sql = "SELECT DISTINCT q.*, c.complete" + base_sql + 'LIMIT %s, %s' % (start_record, recordsPerPage)
         
         
         if q != '':
-            qs = models.Question.objects.raw(sql, [q,q,q,q,q,q])
+            qs = models.Question.objects.raw(sql, words)
         else:
             qs = models.Question.objects.raw(sql)
             
@@ -914,7 +986,6 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
                 if completion.user == user:
                     has_own_prediction = True
             
-            
             question_model_view = views_ui_model_views.question_base(question)
             
             question_model_view = dict(question_model_view.items() + {
@@ -935,7 +1006,7 @@ def get_question_list(user, countryIso=False, languageIso=False, studyId=False, 
         # Data retrieval operation - no commit required
         sql = "SELECT COUNT(q.id) " + base_sql
         if q != '':
-            cursor.execute(sql, [q,q,q,q,q,q])
+            cursor.execute(sql, words)
         else:
             cursor.execute(sql)
 
@@ -1271,9 +1342,12 @@ def get_study(user, studyId):
                                                     'Operation not permitted');
     
     
-    obj_response_body = {'id'   : study.id,
-                         'name' : study.name,
-                         'url'  : URL.study(study.id)}
+    obj_response_body = {'id'       : study.id,
+                         'name'     : study.name,
+                         'url'      : URL.study(study.id),
+                         'company'  : study.company,
+                         'year'     : study.year,
+                         'country'  : study.country}
     
     return obj_response_body, {}, SUCCESS
 
@@ -1291,6 +1365,9 @@ def create_or_update_study(user, obj_request_body, studyId = False):
         
         
     study.name= obj_request_body['name']
+    study.company= obj_request_body['company']
+    study.year= obj_request_body['year']
+    study.country= obj_request_body['country']
     study.save()
     
     return get_study(user, study.id )

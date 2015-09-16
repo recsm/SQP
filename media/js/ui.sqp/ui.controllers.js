@@ -24,6 +24,12 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		sqpBackbone.shared.countries.fetch({
 				error: function(err){ alert("error: " + JSON.stringify(err));}
 			});
+		
+		// Load prediction available countries 
+		sqpBackbone.shared.predictionCountries = new sqpBackbone.collections.countryPredictionList;
+		sqpBackbone.shared.predictionCountries.fetch({
+				error: function(err){ alert("error: " + JSON.stringify(err));}
+			});
 			
 		// Load our languages
 		sqpBackbone.shared.languages = new sqpBackbone.collections.languageList;
@@ -61,6 +67,28 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		$('body, html').click(function() {
 			$('.characteristicDescFull, .characteristicDescFullShadow').css('visibility', 'hidden');
 		});
+		$('#removeAssigment').click(function() {
+			$('#assignmentNotice').hide();
+			var assignedQuestions = new sqpBackbone.collections.assignedQuestionsList();
+			assignedQuestions.fetch({
+				success: function() {
+					assignedQuestions.each(function(question){
+						$.ajax({
+							url: '/sqp/api/assignedQuestion/?assignedQuestionId='+ question.get("id") ,
+							type:'delete',
+							success: function(){
+								// change hash directly to trigger the route
+								window.location.hash = "#home";
+							},
+						})
+					})
+				},
+				error : function() {
+					alert('There was an error contacting the server.');
+				}
+	         });
+			
+		});
 	},
 	routes: {
 		"": 												 "home", //default
@@ -80,6 +108,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		"help":												 "help",		// #help
 		"about": 											 "about", // #about
         "faq":                                               "faq", // #faq
+        "limits":                                            "limits", // #limits
 		"settings":											 "settings",	
 		"studies":											 "studies",
 		"search":											 "search",
@@ -650,6 +679,12 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		$("#pageFAQ").fadeIn();
 		$('#faqTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
+    limits: function(){
+		sqpBackbone.helpers.hideAllPages();
+		this.currentView = 'limits';
+		$("#pageLimits").fadeIn();
+		$('#limitsTab').removeClass('unselectedtab').addClass( 'selectedtab');
+	},
 	settings: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'settings';
@@ -667,35 +702,145 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	},
 	showEditStudy : function (study, onSavedCallback) {
 		
-		$('#studyNameError').hide();
+		var valid = true;
+		var warningNodes=['studyName','studyCompany'];
+		var i, node, errorNode, message;
+		
+		var invalidate = function(){
+			valid=false;
+			nodeError.html(message);
+			nodeError.fadeIn();
+			node.addClass('invalid');
+		}
+		//Assign focus in and out handlers to discourage ESS like names
+		for (i=0; i< warningNodes.length; i++) {
+			node= $( '#' + warningNodes[i]);
+			nodeError  = $( '#' + warningNodes[i] + 'Error');
+			node.focusout(function(node, nodeError){
+				return function(){
+					var name = jQuery.trim(node.val());
+					var unadvisedNames=["ess","european social survey"]
+					if (unadvisedNames.indexOf(name.toLowerCase()) >= 0){
+						nodeError.html('All ESS questions are already available in the SQP database. In order to prevent duplicate studies we suggest you search for your questions of interest in the database.');
+						nodeError.fadeIn();
+						node.addClass('invalid');
+						node.addClass('warning');
+						nodeError.addClass('warning');
+					}
+				};
+			}(node, nodeError));
+			
+			node.focusin(function(node, nodeError){
+				return function(){
+					nodeError.hide();
+					node.removeClass('warning');
+					nodeError.removeClass('warning');
+					node.removeClass('invalid');
+				};
+			}(node,nodeError));
+			
+		}
+				
+		var clearErrors = function(){
+			$('#studyNameError').hide();
+			$('#studyCompanyError').hide();
+			$('#studyYearError').hide();
+			$('#studyCountryError').hide();
+			$('#studyName').removeClass('invalid');
+			$('#studyCompany').removeClass('invalid');
+			$('#studyYear').removeClass('invalid');
+			$('#studyCountry').removeClass('invalid');
+			$('#studyName').removeClass('warning');
+			valid = true;
+		}
+		
+		var onClose = function(){
+			clearErrors();
+			$('.studyName').val("");
+			$('.studyCompany').val("");
+			$('.studyYear').val("");
+			$('.studyCountry').val("");
+		}
 		
 		var onSaveClick =  function(){
 						var studyName = jQuery.trim($('#studyName').val());
+						var studyCompany = jQuery.trim($('#studyCompany').val());
+						var studyYear = jQuery.trim($('#studyYear').val());
+						var studyCountry = jQuery.trim($('#studyCountry').val());
+						var forbiddenNames = ['fake', 'test', 'proba', 'prova', 'prueba', 'demo', 'new', 'nova', 'own', 'mine', 'try', 'versuch', 'probe', 'sqp', 'survey quality predictor', 'question'];
+						var pattern = new RegExp("[A-Za-z0-9]");
+												
+						clearErrors();
 						
 						if(studyName == '') {
-							$('#studyNameError').html('This value is required');
-							$('#studyNameError').fadeIn();
-							$('#studyName').addClass('invalid');
-						} else {
-							
+							node= $('#studyName');
+							nodeError=$('#studyNameError');
+							message ='This value is required';
+							invalidate();
+						}else if (forbiddenNames.indexOf(studyName.toLowerCase()) >= 0 || studyName.length<1 || !$.isNaN(studyName) || 
+							 !pattern.test(studyName)){
+							//invalid study name
+							node= $('#studyName');
+							nodeError=$('#studyNameError');
+							message ='Please use a meaningful study name. For testing the program you can use the SQP Demo.';
+							invalidate();
+						}else if(studyName == studyCompany && studyCompany == studyYear && studyYear==studyCountry){
+							message ='Text in all boxes can not be the same. Please use meaningful information.';
+							node= $('#studyName');
+							nodeError=$('#studyNameError');
+							invalidate();
+							node= $('#studyCompany');
+							nodeError=$('#studyCompanyError');
+							invalidate();
+							node= $('#studyYear');
+							nodeError=$('#studyYearError');
+							invalidate();
+							node= $('#studyCountry');
+							nodeError=$('#studyCountryError');
+							invalidate();			
+						} 
+						if(studyCompany == '') {
+							node= $('#studyCompany');
+							nodeError=$('#studyCompanyError');
+							message ='This value is required';
+							invalidate();
+						}
+						if(studyYear == '') {
+							node= $('#studyYear');
+							nodeError=$('#studyYearError');
+							message ='This value is required';
+							invalidate();
+						}
+						if(studyCountry == '') {
+							node= $('#studyCountry');
+							nodeError=$('#studyCountryError');
+							message ='This value is required';
+							invalidate();
+						}
+						
+						
+						if(valid) { 
 							if(study) {
 								var model = study;
 							} else {
 								var model = new sqpBackbone.models.studyItem();
 							}
 							
-							model.set({name: studyName});
+							model.set({name: studyName,
+									   company: studyCompany,
+									   year: studyYear,
+									   country: studyCountry});
 							model.save(model.toJSON(), {
 								error: function(model, response){ 
 									alert('There was an error contacting the server and the item could not be saved. Please check your connection and try again.');
 								},
 								success: function(model, response){
-									
-									
 									model.set({'id' : response.payload.id})
-									
 									if (response.success == "1"){
-										/* We refresh the study list */ 
+										/* We refresh the study lists */ 
+										sqpBackbone.shared.studiesfitted.fetch({
+											error: function(err){ alert("error: " + JSON.stringify(err));}
+										});
 										sqpBackbone.shared.studies.fetch({
 											error: function(err){ alert("error: " + JSON.stringify(err));},
 											success: function(){ 
@@ -715,43 +860,45 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 							});
 						}
 					};
-				
+					
+		clearErrors();		
 		//Edit	
 		if(study) {
 			
 			$("#editStudy").dialog({
 				autoOpen: true,
-				height: 180,
-				width: 450,
+				height: 500,
+				width: 500,
 				modal: true,
 				resizable : false,
 				title : 'Edit Study',
 				buttons: { /* jQuery dialog creates and binds these buttons */
 					'Save Study' : onSaveClick
 				},
-				close: function() {
-					$('.studyName').val("");
-				}
+				close: onClose
 			});
 			
 			$('#studyName').val(study.get('name'));
+			$('#studyCompany').val(study.get('company'));
+			$('#studyYear').val(study.get('year'));
+			$('#studyCountry').val(study.get('country'));
 
 		//New	
 		} else {
 			
+			onClose() //Cleans everything
+			
 			$("#editStudy").dialog({
 				autoOpen: true,
-				height: 180,
-				width: 450,
+				height: 500,
+				width: 500,
 				modal: true,
 				resizable : false,
 				title : 'Add New Study',
 				buttons: { /* jQuery dialog creates and binds these buttons */
 					'Create Study' : onSaveClick
 				},
-				close: function() {
-					$('.studyName').val("");
-				}
+				close: onClose
 			});
 		}
 	},
@@ -777,6 +924,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					sqpBackbone.helpers.updateAssignedCount(assignedQuestions);
 					
 					
+					$('#removeAssigment').button();
 					$('#assignedQuestionListButton').button();
 					
 				}

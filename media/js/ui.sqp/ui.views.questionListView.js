@@ -121,7 +121,8 @@
 			"click .qListNextPage"		: "nextPage",
 			"click .qListPrevPage"		: "prevPage",
 			"click .closePreview"		: "clearPreviewId",
-			"click .qListSearch"		: "updateSearch"
+			"click .qListSearch"		: "updateSearch",
+			"keyup .qListSearchText"	: "updateSearchEnter"
 			
 		},
 		showLoading : function () {
@@ -344,6 +345,11 @@
 			this.clearPreviewId();
 			this.updateWindowLocation();
 			
+		},
+		updateSearchEnter: function uptadeSearchEnter(e){ 
+			if(e.which === 13){ // enter key
+				    this.updateSearch();
+			}
 		},
 		updateWindowLocation : function updateWindowLocation() {
 			window.location = '/loadui/#questionList/' + this.collection.getURI();
