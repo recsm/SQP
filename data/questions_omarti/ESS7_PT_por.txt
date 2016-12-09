@@ -1,0 +1,752 @@
+﻿D1 
+{INTRO}
+Quem vem viver para Portugal pode fazê-lo por diversas razões. Uns porque têm antepassados portugueses. Outros vêm para trabalhar ou para se juntarem às suas famílias. Outros ainda porque vivem sob ameaça nos seus países. Vou fazer-lhe agora algumas perguntas sobre este assunto.
+
+{QUESTION}
+Da seguinte lista de aspectos diga qual a importância que deve ser dada a cada um deles para deixar vir para cá alguém que nasceu, foi educado e viveu fora de Portugal. Use, por favor este cartão
+ 
+{ANSWERS}
+0 Não deve ser dada importância nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Deve ser dada muita importância
+
+D3
+{QUESTION}
+...ter formação cristã?
+
+{ANSWERS}
+0 Não deve ser dada importância nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Deve ser dada muita importância
+
+D5
+{QUESTION}
+...querer adaptar-se ao mesmo modo de vida dos Portugueses?
+
+{ANSWERS}
+0 Não deve ser dada importância nenhuma
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Deve ser dada muita importância
+
+D7
+{QUESTION}
+Pensando nas pessoas que vêm viver para Portugal, diria que, em geral, elas tiram os empregos aos trabalhadores Portugueses, ou que em geral ajudam a criar novos empregos?  
+
+{ANSWERS}
+0 Tiram empregos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ajudam a criar novos empregos
+
+
+D8
+{INTRO}
+A maior parte das pessoas que vêm viver para Portugal trabalha e paga impostos. Também tem acesso à saúde e à segurança social.
+
+{QUESTION}
+Considerando tudo isto, acha que estas pessoas, em geral, recebem mais do que dão ou dão mais do que recebem? Por favor, use este cartão.
+
+{ANSWERS}
+0 Em geral recebem mais do que dão
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Em geral dão mais do que recebem
+
+D9
+{QUESTION}
+Acha que com a vinda dessas pessoas a criminalidade aumentou ou diminui em Portugal? Por favor, use este cartão.
+
+{ANSWERS}
+0 A criminalidade aumentou
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 A criminalidade diminuiu
+
+D10
+{INTRO}
+Pense agora nas pessoas de outros países que vieram viver para cá e que são de raça ou grupo étnico diferente da maioria dos portugueses.
+
+{QUESTION}
+Em que medida é que se importava se alguma dessas pessoas...fosse nomeada seu chefe
+
+{ANSWERS}
+0 Não me importava nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Importavame muito
+
+D11
+{QUESTION}
+...casasse com um familiar próximo
+
+{ANSWERS}
+0 Não me importava nada
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Importavame muito
+
+D12
+{QUESTION}
+Como é que descreveria o sítio onde reside actualmente. Diria que é:
+
+{ANSWERS}
+Um sítio com quase ninguém de raça ou grupo étnico diferente da maioria dos portugueses
+Um sítio com algumas pessoas de raça ou grupo étnico diferente da maioria dos portugueses
+Um sítio com muitas pessoas de raça ou grupo étnico diferente da maioria dos portugueses
+
+D13
+{QUESTION}
+Diga, por favor, em que medida concorda ou discorda que... É melhor para um país quando quase todos têm os mesmos costumes e tradições
+
+{ANSWERS}
+Concordo totalmente
+Concordo
+Nem concordo nem discordo
+Discordo
+Discordo totalmente
+
+D14
+{QUESTION}
+Diga se acha bom ou mau para um país ter uma lei que combata a discriminação racial ou étnica no local de trabalho. Use, por favor, este cartão.
+
+{ANSWERS}
+0 Extremamente mau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente bom
+
+D15
+{INTRO}
+Algumas pessoas vieram para cá e pediram estatuto de refugiado, por terem medo de ser perseguidas nos seus países.
+
+{QUESTION}
+Usando este cartão, diga, por favor, em que medida concorda ou discorda que: O governo devia ser compreensivo na avaliação dos pedidos de estatuto de refugiado
+
+{ANSWERS}
+Concordo totalmente
+Concordo
+Nem concordo nem discordo
+Discordo
+Discordo totalmente
+
+D16
+{QUESTION}
+Em cada 100 pessoas que vivem em Portugal, quantas é que acha que não nasceram cá?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Comparando com as pessoas como o(a) Sr.(Sra) que nasceram em Portugal, como considera que o governo trata aqueles que vieram recentemente de outros países viver para cá?
+
+{ANSWERS}
+Muito melhor
+Um pouco melhor
+De igual forma
+Um pouco pior
+Muito pior
+
+D18
+{QUESTION}
+Utilizando este cartão, diga-me se considera que, em geral, as pessoas de outros países que vêm viver para cá empobrecem ou enriquecem as crenças e práticas religiosas em Portugal
+
+{ANSWERS}
+0 Empobrecem as crenças e práticas religiosas
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Enriquecem as crenças e práticas religiosas
+ 
+D19
+{QUESTION}
+Tem amigos próximos que sejam de raça ou grupo étnico diferente da maioria das pessoas em Portugal?
+
+{ANSWERS}
+Sim, bastantes
+Sim, poucos 
+Não, nenhum
+
+D20
+{QUESTION}
+Quando está fora de casa, com que frequência contacta com pessoas de raça ou grupo étnico diferente dos da maioria das pessoas em Portugal? Estes contactos podem ser, por exemplo, em transportes públicos, na rua, em lojas ou na sua vizinhança. Utilize, por favor, este cartão.
+
+{ANSWERS}
+Nunca
+Menos de uma vez por mês
+Uma vez por mês
+Várias vezes por mês
+Uma vez por semana
+Várias vezes por semana
+Todos os dias
+
+D21
+{QUESTION}
+De um modo geral, em que medida diria que esse contacto é mau ou bom? Utilize, por favor, este cartão.
+
+{ANSWERS}
+0 Extremamente mau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremamente bom
+
+D22
+{QUESTION}
+Em que medida se sente próximo de Portugal? Utilize, por favor, este cartão.
+
+{ANSWERS}
+Muito próximo
+Próximo
+Pouco próximo
+Nada próximo
+Discordo totalmente
+
+D23
+{INTRO}
+PODE HAVER MANEIRAS DE PENSAR DIFERENTES SOBRE AS QUESTÕES QUE SE SEGUEM.
+
+{QUESTION}
+Acha que há raças ou grupos étnicos que são por natureza menos inteligentes do que outros?
+
+{ANSWERS}
+Sim
+Não
+
+D24
+{QUESTION}
+Acha que há raças ou grupos étnicos que são por natureza mais trabalhadores do que outros?
+
+{ANSWERS}
+Sim
+Não
+
+D25
+{QUESTION}
+Pensando no mundo de hoje, diria que algumas culturas são muito melhores do que outras ou que todas as culturas são iguais. Por favor escolha a sua resposta a partir deste cartão.
+
+{ANSWERS}
+Algumas culturas são muito melhores do que outras 
+Todas as culturas são iguais
+
+D26
+{INTRO}
+Vou agora fazer-lhe algumas perguntas sobre diversos grupos de pessoas que poderão vir de outros países para viver em Portugal.
+
+{QUESTION}
+Utilizando este cartão diga-me, por favor, em que medida acha que Portugal deve deixar que…judeus de outros países venham e fiquem a viver cá.
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D27
+{QUESTION}
+… muçulmanos de outros países venham e fiquem a viver cá
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D28
+{QUESTION}
+… ciganos de outros países venham e fiquem a viver cá.
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D30
+{QUESTION}
+Usando o mesmo cartão, diga-me, por favor, em que medida acha que Portugal deve deixar que trabalhadores especializados da Ucrânia venham e fiquem a viver cá.
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D31
+{QUESTION}
+Ainda com este cartão, por favor diga-me em que medida acha que Portugal deve deixar que trabalhadores especializados do Brasil venham e fiquem a viver cá.
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D32
+{QUESTION}
+Continuando a usar o mesmo cartão, por favor diga-me em que medida acha que Portugal deve deixar que trabalhadores não-qualificados da Ucrânia venham e fiquem a viver cá
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+D33
+{QUESTION}
+E, com o mesmo cartão, diga-me por favor em que medida acha que Portugal deve deixar que trabalhadores não-qualificados do Brasil venham e fiquem a viver cá.
+
+{ANSWERS}
+Deve deixar vir muitas pessoas
+Deve deixar vir algumas pessoas
+Deve deixar vir poucas pessoas
+Não deve deixar vir ninguém
+
+E1
+{INTRO}
+VOU FAZER-LHE AGORA ALGUMAS PERGUNTAS SOBRE UM ASSUNTO DIFERENTE
+
+{QUESTION}
+Utilizando este cartão diga-­‐me, por favor, com que frequência come fruta, sem contar com sumo?
+
+{ANSWERS}
+Três vezes ou mais por dia
+Duas vezes por dia
+Uma vez por dia
+Menos de uma vez por dia mas, pelo menos, 4 vezes por
+semana
+Menos de 4 vezes por semana mas, pelo menos, uma vez
+por semana
+Menos de uma vez por semana
+Nunca
+
+E2
+{QUESTION}
+Utilizando o mesmo cartão, diga-­‐me com que frequência come legumes ou salada, sem contar com batatas?
+
+{ANSWERS}
+Três vezes ou mais por dia
+Duas vezes por dia
+Uma vez por dia
+Menos de uma vez por dia mas, pelo menos, 4 vezes por
+semana
+Menos de 4 vezes por semana mas, pelo menos, uma vez
+por semana
+Menos de uma vez por semana
+Nunca
+
+E3
+{QUESTION}
+Quantos dias nos últimos 7 dias caminhou em passo acelerado, praticou desporto ou outra atividade física durante 30 minutos ou mais?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Vamos agora falar sobre fumar cigarros.
+
+{QUESTION}
+Qual das afirmações deste cartão define melhor os seus hábitos de fumador?
+
+{ANSWERS}
+Fumo todos os dias
+Fumo, mas não todos os dias
+Agora não fumo, mas já fumei
+Só fumei algumas vezes
+Nunca fumei
+
+E5
+{QUESTION}
+Num dia normal, quantos cigarros fuma?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Nos últimos 12 meses, ou seja, desde [mês, ano], com que frequência bebeu bebidas alcoólicas? Pode ter sido vinho, cerveja, bebidas brancas ou espirituosas ou qualquer outro tipo de bebida alcoólica. Escolha a sua resposta a partir deste cartão
+
+{ANSWERS}
+Todos os dias
+Várias vezes por semana
+Uma vez por semana
+Duas ou três vezes por semana
+Uma vez por mês
+Menos do que uma vez por mês
+Nunca
+
+E7
+{INTRO}
+Por favor, pense agora na última vez que bebeu álcool numa segunda, terça, quarta ou quinta-feira.
+
+{QUESTION}
+De cada uma das seguintes bebidas, quantas é que bebeu nesse dia? Utilize este cartão para responder.
+ 
+{ANSWERS}
+CANECA DE CERVEJA (50cl)
+IMPERIAL OU MINI (20-25cl)
+LATA OU GARRAFA DE CERVEJA (33cl)
+COPO DE VINHO (13cl)
+GARRAFA DE VINHO (75cl)
+CÁLICE DE APERITIVO/DIGESTIVO (5cl) (Porto, Martini, Licores)
+Whisky, Gin, Aguardente, Brandy, Vodka (5cl)
+Cuba Libre, Vodka-Laranja, Gin Tónico, Caipirinha, Margarita, etc. (15-20cl)
+REFRIGERANTE COM ÁLCOOL (Alcopop 27,5cl)
+
+E8
+{INTRO}
+Pense agora, por favor, na última vez em que bebeu álcool numa Sexta-feira, num Sábado ou num cDomingo.
+
+{QUESTION}
+De cada uma das seguintes bebidas, quantas é que bebeu nesse dia? Utilize este cartão para responder.
+
+{ANSWERS}
+CANECA DE CERVEJA (50cl)
+IMPERIAL OU MINI (20-25cl)
+LATA OU GARRAFA DE CERVEJA (33cl)
+COPO DE VINHO (13cl)
+GARRAFA DE VINHO (75cl)
+CÁLICE DE APERITIVO/DIGESTIVO (5cl) (Porto, Martini, Licores)
+Whisky, Gin, Aguardente, Brandy, Vodka (5cl)
+Cuba Libre, Vodka-Laranja, Gin Tónico, Caipirinha, Margarita, etc. (15-20cl)
+REFRIGERANTE COM ÁLCOOL (Alcopop 27,5cl)
+
+E10a
+{INTRO}
+Este cartão apresenta seis exemplos diferentes sobre a quantidade de álcool que uma pessoa poderá beber numa só ocasião.
+
+{QUESTION}
+Nos últimos 12 meses, com que frequência bebeu a quantidade de álcool representada nestes exemplos, ou mais, numa só ocasião?
+
+{ANSWERS}
+diariamente ou quase diariamente,
+Semanalmente 
+Mensalmente 
+Menos do que mensalmente 
+ou nunca?
+
+E10b
+{INTRO}
+Este cartão apresenta seis exemplos diferentes sobre a quantidade de álcool que uma pessoa poderá beber numa só ocasião.
+
+{QUESTION}
+Nos últimos 12 meses, com que frequência bebeu a quantidade de álcool representada nestes exemplos, ou mais, numa só ocasião?
+
+{ANSWERS}
+diariamente ou quase diariamente,
+Semanalmente 
+Mensalmente 
+Menos do que mensalmente 
+ou nunca?
+
+E11
+{QUESTION}
+Qual é a sua altura descalço(a)?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Qual é o seu peso descalço(a)?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Nos últimos 12 meses, ou seja, desde [mês, ano], com qual/quais dos profissionais de saúde referidos neste cartão falou sobre a sua saúde?
+
+{ANSWERS}
+Médico de Clínica Geral
+Médico especialista (excluindo dentistas)
+
+E14
+{QUESTION}
+Nos últimos 12 meses, ou seja, desde [mês, ano], alguma vez não conseguiu ter uma consulta ou recebido um tratamento de que precisava, por alguma das razões apresentadas neste cartão?
+
+{ANSWERS}
+Sim
+Nã
+
+E15
+{QUESTION}
+Qual das razões que estão no cartão o impediu de obter a consulta ou o tratamento?
+
+{ANSWERS}
+Não tinha dinheiro para pagar
+Não podia faltar ao trabalho
+Tinha outros compromissos
+O tratamento que necessitava não se encontrava disponível no sítio onde vive e arredores
+A lista de espera era muito longa
+Não havia marcações disponíveis
+Outra razão
+
+E16
+{QUESTION}
+Isso aconteceu porque…
+
+{ANSWERS}
+conseguiu ter as consultas médicas ou os tratamentos de que precisou. 
+… não precisou de nenhuma consulta médica ou tratamento nos últimos 12 meses
+
+E17
+{QUESTION}
+Dedica algum do seu tempo a cuidar ou a dar ajuda a familiares seus, amigos, vizinhos ou outras pessoas, por alguma das razões apresentadas neste cartão?
+
+{ANSWERS}
+Sim
+Não
+
+E18
+{QUESTION}
+Em geral, quantas horas por semana dedica a fazer isso? Utilize, por favor, este cartão.
+
+{ANSWERS}
+1-10 horas por semana
+11 - 20 horas por semana
+21-30 horas por semana
+31-40 horas por semana
+41-50 horas por semana
+Mais de 50 horas por semana
+
+E19
+{QUESTION}
+Nos últimos 12 meses, ou seja, desde [mês, ano], a quais dos tratamentos mencionados neste cartão recorreu para tratar da sua saúde?
+
+{ANSWERS}
+Acupunctura
+Acupressão
+Medicina chinesa
+Quiropraxia
+Osteopatia
+Homeopatia
+Tratamento à base de ervas medicinais
+Hipnoterapia
+Massagem terapêutica
+Fisioterapia
+Reflexologia
+Cura espiritual
+
+E20
+{INTRO}
+Vou agora ler-lhe algumas frases sobre a forma como se pode ter sentido durante a última semana.
+
+{QUESTION}
+Utilizando este cartão, diga-me, por favor, com que frequência ao longo da última semana lhe aconteceu…...sentir-se deprimido
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E21
+{QUESTION}
+...sentir que tudo o que fez foi com esforço
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E22
+{QUESTION}
+...o seu sono ser agitado
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E23
+{QUESTION}
+…sentir-se feliz
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E24
+{QUESTION}
+…sentir-se só
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E25
+{QUESTION}
+…sentir-se satisfeito(a) com a sua vida
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E26
+{QUESTION}
+…sentir-se triste
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E27
+{QUESTION}
+…sentir-se em baixo
+
+{ANSWERS}
+Nunca ou quase nunca
+Algumas vezes
+A maior parte das vezes
+Sempre ou quase sempre
+
+E28
+{QUESTION}
+Dos problemas de saúde apresentados neste cartão sofreu de algum nos últimos 12 meses, ou seja, desde [mês+ano]? Diga-me só a letra correspondente a cada problema que teve.
+
+{ANSWERS}
+Z Problemas de coração ou de circulação
+F Tensão arterial alta
+T Problemas respiratórios como ataques de asma, respiração ofegante ou pieira
+K Alergias
+H Dores de costas ou de pescoço
+Y Dores musculares ou nas articulações das mãos ou dos braços
+Q Dores musculares ou nas articulações dos pés ou das pernas
+E Problemas de estômago ou de digestão
+L Problemas de pele
+B Dores de cabeça fortes
+M Diabetes
+
+E29
+{QUESTION}
+E dos problemas de saúde que teve nos últimos 12 meses, qual ou quais o(a) limitou de alguma forma nas susa ativiades do dia-a-dia? Diga-me só a letra correspondente a cada problema.
+
+{ANSWERS}
+Z Problemas de coração ou de circulação
+F Tensão arterial alta
+T Problemas respiratórios como ataques de asma, respiração ofegante ou pieira
+K Alergias
+H Dores de costas ou de pescoço
+Y Dores musculares ou nas articulações das mãos ou dos braços
+Q Dores musculares ou nas articulações dos pés ou das pernas
+E Problemas de estômago ou de digestão
+L Problemas de pele
+B Dores de cabeça fortes
+M Diabetes
+
+E30
+{QUESTION}
+Tem, ou já teve, algum dos problemas de saúde apresentados neste cartão?
+
+{ANSWERS}
+Sim, actualmente
+Sim, no passado
+Não, nunca
+
+E31
+{QUESTION}
+Usando este cartão, diga-me com que frequência havia conflitos graves entre as pessoas que viviam no seu agregado familiar quando estava a crescer?
+
+{ANSWERS}
+Sempre
+Muitas vezes
+Algumas vezes
+Raramente 
+Nunca
+
+E32
+{QUESTION}
+Utilizando o mesmo cartão, diga-me, por favor, com que frequência a sua família passou por dificuldades económicas graves quando o sr/a sra estava a crescer?
+
+{ANSWERS}
+Sempre
+Muitas vezes
+Algumas vezes
+Raramente 
+Nunca
+ 

@@ -1,0 +1,813 @@
+﻿D1 
+{INTRO}
+A más országból érkezett emberek különféle okokból szeretnének letelepedni Magyarországon. Egyeseknek régi rokoni kapcsolataik vannak. Mások munkát keresnek vagy a családjukhoz csatlakoznak. Akadnak, akik a veszélyek elől menekülnek ide. A következő néhány kérdés ezzel a témával foglalkozik 
+
+{QUESTION}
+Ön szerint a következő jellemzők mennyire fontosak annak eldöntésében, hogy valaki, aki Magyarországon kívül született, nevelkedett és él, letelepedhessen az országban. A válaszadáshoz használja 27. válaszlapot. Tehát mennyire fontos, hogy …magasan képzett legyen?
+ 
+{ANSWERS}
+0 Egyáltalán nem fontos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon fontos
+
+D3
+{QUESTION}
+…keresztény kulturális háttere legyen?
+
+{ANSWERS}
+0 Egyáltalán nem fontos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon fontos
+
+D5
+{QUESTION}
+...olyan szaktudással rendelkezzen, amire Magyarországon szükség van?
+
+{ANSWERS}
+0 Egyáltalán nem fontos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon fontos
+
+D7
+{QUESTION}
+Ön szerint a bevándorolók inkább elveszik a munkát a magyar dolgozóktól, vagy inkább hozzájárulnak új munkahelyek teremtéséhez?
+
+{ANSWERS}
+0 Elveszik a munkát 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Munkahelyeket teremtenek
+
+D8
+{INTRO}
+A Magyarországra bevándoroltak többsége dolgozik és adót fizet. Ugyanakkor igénybe veszik az egészségügyi és a szociális szolgáltatásokat is.
+
+{QUESTION}
+Mérlegre téve a dolgot: Ön szerint akik idejönnek, többet vesznek el, mint amennyit adnak, vagy többet adnak, mint amennyit elvesznek?!
+
+{ANSWERS}
+0 Általában többet esznek el
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Általában többet adnak
+
+D9
+{QUESTION}
+Mit gondol Magyarország bűnügyi helyzetét javítják, vagy rontják azok, akik külföldről ide jönnek élni? Kérem a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+0 Rontják 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Javítják
+
+D10
+{INTRO}
+Most kérem gondoljon olyan Magyarországra települő külföldiekre, akik a magyaroktól eltérő faji vagy etnikai csoporthoz tartoznak.
+
+{QUESTION}
+Az alábbi kártyalap segítségével kérem mondja meg, mennyire zavarná Önt, ha az illető(t)…kineveznék az Ön főnökének?
+
+{ANSWERS}
+0 Egyáltalán nem zavarná
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon zavarná
+
+D11
+{QUESTION}
+…házasságot kötne egy közeli rokonával?
+
+{ANSWERS}
+0 Egyáltalán nem zavarná
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon zavarná
+
+D12
+{QUESTION}
+Kérem a kártyalap segítségével jellemeze lakókörnyezetét!
+
+{ANSWERS}
+Olyan környék, ahol gyakorlatilag senki nem tartozik más faji vagy etnikai csoportba, mint a Magyarországon élők többsége
+Olyan környék, ahol néhányan más faji vagy etnikai csoportba tartoznak, mint a Magyarországon élők többsége
+Olyan környék, ahol sokan tartoznak más faji vagy etnikai csoportba, mint a Magyarországon élők többsége 
+
+D13
+{INTRO}
+
+{QUESTION}
+A kártyalap segítségével kérem, mondja meg, mennyire ért egyet a következő állítással: "jobb egy országnak, ha majdnem mindenki ugyanazokat a szokásokat és hagyományokat követi.”
+
+{ANSWERS}
+Teljesen egyetért
+Egyetért
+Egyet is ért, meg nem is
+Nem ért egyet
+Egyáltalán nem ért egyet 
+
+D14
+{QUESTION}
+Mennyire jó az egy országnak, ha rendelkezik olyan törvénnyel, ami tiltja a faji, vagy etnikai diszkriminációt a munkahelyeken?Kérem a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+0 Nagyon rossz
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nagyon jó
+
+D15
+{INTRO}
+Vannak olyan emberek, akik arra hivatkozva, hogy saját hazájukban üldöztetésnek vannak kitéve, Magyarországon menekültstátusért folyamodnak
+
+{QUESTION}
+Kérem, mondja meg, mennyire ért egyet a következő állítással. A válaszadáshoz használja ezt a válaszlapot!.
+
+{ANSWERS}
+Teljesen egyetért
+Egyetért
+Egyet is ért, meg nem is
+Nem ért egyet
+Egyáltalán nem ért egyet 
+
+D16
+{QUESTION}
+Mit gondol Magyarországon 100 emberből hányan születtek külföldön?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Ön szerint az olyan emberekhez képest mint Ön, akik Magyarországon születtek, hogyan bánik a kormány azokkal a külföldiekkel, akik nemrég költöztek Magyarországra? Kérem, a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+Sokkal jobban
+Kicsit jobban
+Ugyanúgy
+Kicsit rosszabbul
+Sokkal rosszabbul 
+
+D18
+{QUESTION}
+kártyalap segítségével kérem, mondja meg, hogy véleménye szerint a magyarországi vallásosságnak és vallási életnek általában véve ártanak, vagy inkább gazdagítják, akik más országból idejönnek élni?
+
+{ANSWERS}
+0 Ártanak a vallásosságnak és a vallási életnek
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Gazdagítják a vallásosságot és a vallási életet
+
+D19
+{QUESTION}
+Van Önnek olyan közeli barátja, aki más faji vagy etnikai csoportba tartozik, mint a magyarok többsége?
+
+{ANSWERS}
+Igen, sok
+Igen, néhány
+Nem, nincs ilyen
+
+D20
+{QUESTION}
+A napi jövés-menés során milyen gyakran kerül bármiféle kontaktusba olyan emberekkel, akik más faji vagy etnikai csoportba tartoznak, mint a magyarországi többség? Gondoljon például a közlekedési eszközökre, az utcákra, boltokra, a környékre, ahol lakik. Kérem, a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+Soha
+Ritkábban, mint havonta egyszer
+Havonta egyszer
+Havonta többször is
+ Hetente egyszer
+Hetente többször
+ Minden nap
+
+D21
+{QUESTION}
+És általánosságban mennyire jelentenek rossz vagy jó élményt ezek a kontaktusok? Kérem, a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+0 Rendkívül rossz
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Rendkívül jó
+
+D22
+{QUESTION}
+Mennyire kötődik Ön Magyarországhoz?Kérem, a kártyalap segítségével válaszoljon!
+
+{ANSWERS}
+Nagyon kötődik
+Kötődik
+Nem igazán kötődik
+Egyáltalán nem kötődik
+Nem tudom 
+
+D23
+{INTRO}
+Az emberek gyakran különbözőképpen vélekednek a következő témákról.
+
+{QUESTION}
+Ön szerint igaz, hogy bizonyos faji vagy etnikai csoportok születésüknél fogva kevésbé intelligensek, mint mások?
+
+{ANSWERS}
+Igaz
+Nem igaz
+
+D24
+{QUESTION}
+Ön szerint igaz, hogy bizonyos faji vagy etnikai csoportok születésüknél fogva dolgosabbak, mint a többiek?
+
+{ANSWERS}
+Igaz
+Nem igaz
+
+D25
+{QUESTION}
+A mai világra gondolva mint mondana, vannak olyan kultúrák, amik sokkal jobbak a többinél, vagy minden kultúra egyenértékű? Kérem, válassza ki válaszát a kártyalapról!?
+
+{ANSWERS}
+Egyes kultúrák sokkal jobbak, mint mások
+Minden kultúra egyenértékű
+
+D26
+{INTRO}
+Most olyan külföldiekkel kapcsolatban fogok kérdéseket feltenni, akik esetleg Magyarországra jönnének élni.
+
+{QUESTION}
+A kártya segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy…külföldről származó zsidó emberek Magyarországr a jöjjenek élni?
+
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D27
+{QUESTION}
+...külföldről származó muzulmánok Magyarországr a jöjjenek élni?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D28
+{INTRO}
+
+{QUESTION}
+...külföldről származó cigányok Magyarországr a jöjjenek élni?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D30
+{QUESTION}
+Az előző kártyalap segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy magasan képzett szakemberek jöjjenek élni Magyarországra Romániából?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D31
+{QUESTION}
+Az előző kártyalap segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy magasan képzett szakemberek jöjjenek élni Magyarországra Kínából?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D32
+{QUESTION}
+Az előző kártyalap segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy Romániából képzetlen munkaerő jöjjön Magyarországra élni?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+D33
+{QUESTION}
+Az előző kártyalap segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy Kínából képzetlen munkaerő jöjjön Magyarországra élni?
+
+{ANSWERS}
+sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
+jó néhányuknak meg kellene engedni
+keveseknek kellene megengedni
+senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
+
+E1
+{INTRO}
+Most pedig egy másik témával kapcsolatban szeretnék Önnek kérdéseket feltenni
+
+{QUESTION}
+Kérem, mondja meg ennek a kártyalapnak a segítségével, milyen gyakran eszik gyümölcsöt? A gyümölcslé fogyasztását ne számolja bele.
+
+{ANSWERS}
+Naponta háromszor vagy többször
+Naponta kétszer
+Naponta egyszer
+Nem minden nap, de legalább hetente négyszer
+Kevesebbszer, mint hetente négyszer, de legalább hetente
+egyszer
+Heti egy alkalomnál kevesebbszer
+Soha 
+
+E2
+{QUESTION}
+Ugyanennek a kártyalapnak a segítségével kérem, mondja meg, milyen gyakran eszik zöldséget vagy salátát? A burgonyát ne számolja bele
+
+Naponta háromszor vagy többször
+Naponta kétszer
+Naponta egyszer
+Nem minden nap, de legalább hetente négyszer
+Kevesebbszer, mint hetente négyszer, de legalább hetente
+egyszer
+Heti egy alkalomnál kevesebbszer
+Soha 
+
+E3
+{QUESTION}
+elmúlt 7 napban hány alkalommal fordult elő, hogy legalább 30 percig gyalogolt gyors ütemben, sportolt, vagy végzett egyéb testmozgást?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Most a cigarettázásról lesz szó.
+
+{QUESTION}
+A kártyán szereplő dohányzási szokások közül melyik illik a leginkább Önre?
+
+{ANSWERS}
+Minden nap dohányzom
+Dohányzom, de nem minden nap
+Nem dohányzom, de korábban dohányoztam
+Csak néhányszor gyújtottam rá életemben
+Sosem dohányoztam 
+
+E5
+{QUESTION}
+Hány cigarettát szív el egy átlagos napon?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Milyen gyakran fogyasztott alkoholtartalmú italt az utóbbi 12 hónap során, vagyis [ÉV, HÓNAP] óta?  Ide tartozik a bor, a sör, a fröccs, a rövidital, illetve bármely más alkoholtartalmú ital. Kérem, válassza ki a megfelelő választ erről a kártyáról!
+
+{ANSWERS}
+Minden nap
+Hetente többször
+Hetente egyszer
+Havonta 2-3 alkalommal
+Havonta egyszer
+Kevesebbszer, mint havonta egyszer
+Soha 
+
+E7
+{INTRO}
+Most gondoljon arra, amikor legutóbb alkoholt fogyasztott egy hétfői, keddi, szerdai vagy csütörtöki napon!
+
+{QUESTION}
+Ezen a bizonyos napon hány alkalommal fogyasztott a következő italokból? Ennek a kártyalapnak a segítségével válaszoljon a kérdésre.
+ 
+{ANSWERS}
+Egy korsó sör
+Egy pohár sör
+Egy nagyobb pohár bor (kb. 1,75 dl)
+Egy kisebb pohár bor vagy pezsgő (kb 1 dl)
+Egy üveg bor (7,5 l)
+Egy pohár pálinka vagy égetett szesz
+Egy koktél
+Egy előre összeállított alkohol tartalmú üdítőital
+
+E8
+{INTRO}
+Most gondoljon arra, legutóbb mikor fordult elő, hogy alkoholt fogyasztott pénteken, szombaton vagy vasárnap?
+
+{QUESTION}
+Ezen a bizonyos napon hány alkalommal fogyasztott a következő italokból?
+
+{ANSWERS}
+Egy korsó sör
+Egy pohár sör
+Egy nagyobb pohár bor (kb. 1,75 dl)
+Egy kisebb pohár bor vagy pezsgő (kb 1 dl)
+Egy üveg bor (7,5 l)
+Egy pohár pálinka vagy égetett szesz
+Egy koktél
+Egy előre összeállított alkohol tartalmú üdítőital
+
+E10a
+{INTRO}
+Ezen a kártyalapon hatféle lehetőség szerepel arra vonatkozóan, mennyi alkoholt fogyaszthat valaki egy alkalommal.
+
+{QUESTION}
+Az utóbbi 12 hónapban hányszor fogyasztott ekkora vagy ennél nagyobb mennyiséget egy alkalommal?...
+
+{ANSWERS}
+Naponta vagy majdnem naponta
+Hetente
+Havonta
+Ritkábban, mint havonta
+Soha
+
+E10b
+{INTRO}
+Ezen a kártyalapon hatféle lehetőség szerepel arra vonatkozóan, mennyi alkoholt fogyaszthat valaki egy alkalommal.
+
+{QUESTION}
+Az utóbbi 12 hónapban hányszor fogyasztott ennyi vagy ennél több alkoholt egyetlen alkalom során?...
+
+{ANSWERS}
+Naponta vagy majdnem naponta
+Hetente
+Havonta
+Ritkábban, mint havonta
+Soha
+
+E11
+{QUESTION}
+Mekkora az Ön testmagassága (cipő nélkül)?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Mi az ön testsúlya (cipő nélkül)?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Az utóbbi 12 hónap során, vagyis [ÉV, HÓNAP] óta, a kártyalapon szereplő egészségügyi szakemberek közül melyikkel beszélt az egészségével kapcsolatos dolgokról?
+
+{ANSWERS}
+Körzeti orvossal
+Szakorvossal (kivéve a fogorvost) 
+
+E14
+{QUESTION}
+Előfordult-e Önnel az elmúlt 12 hónap során, vagyis [ÉV, HÓNAP] óta, hogy a kártyalapon felsorolt okok bármelyikéből kifolyólag nem tudott hozzájutni az Önnek szükséges orvosi konzultációhoz, vagy ellátáshoz?
+
+{ANSWERS}
+Igen
+Nem
+
+E15
+{QUESTION}
+A kártyalapon felsoroltak közül mely ok(ok) miatt nem jutott hozzá az Önnek szükséges orvosi konzultációhoz, vagy ellátáshoz?
+
+{ANSWERS}
+Nem tudta kifizetni
+Nem tudott elszabadulni a munkahelyéről
+Más elfoglaltsága volt
+A szükséges kezelés nem volt elérhető a lakóhelye közelében
+Túl hosszú volt a várólista
+Nem volt időpont 
+
+E16
+{QUESTION}
+Azért nem történt ilyen, …
+
+{ANSWERS}
+... mert hozzájutott a szükséges orvosi konzultációhoz vagy kezeléshez,
+vagy azért mert nem volt szüksége orvosi konzultációra vagy kezelésre az elmúlt 12 hónapban?a
+
+E17
+{QUESTION}
+Tölt Ön bármennyi időt családtag, barát, szomszéd vagy bárki más gondozásával vagy segítésével a kártyalapon felsorolt okok bármelyikéből kifolyólag? Kérem, ne számítson bele semmi olyan tevékenységet, ami fizetett munkájának részét képezi!
+
+{ANSWERS}
+Igen 
+Nem
+
+E18
+{QUESTION}
+Általában hány órát tölt ezzel egy héten? Kérem, használja ezt a kártyát!
+
+{ANSWERS}
+Heti 1–10 órát
+Heti 11–20 órát
+Heti 21–30 órát
+Heti 31–40 órát
+Heti 41–50 órát
+Több mint heti 50 órát
+
+E19
+{QUESTION}
+A kártyalapon szereplők között van(nak)-e olyan kezelésmód(ok), amelye(ke)t az elmúlt 12 hónap során, vagyis [ÉV, HÓNAP] óta igénybe vett a saját egészsége érdekében?
+
+{ANSWERS}
+Akupunktúra
+Akupresszúra
+Kínai gyógyászat
+Kiropraktika
+Oszteopátia/
+csontkovácsolás
+Homeopátia
+Gyógynövényes kezelés
+Hipnoterápia
+Masszázsterápia
+Fizioterápia
+Reflexológia
+Spirituális gyógyítás
+
+E20
+{INTRO}
+Most felolvasok egy listát arról, hogy hogyan érezhette magát a múlt héten.
+
+{QUESTION}
+A Kártyalap segítségével Kérem mondja meg, hogy a múlt héten milyen gyakran …érezte magát levertnek?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E21
+{QUESTION}
+…érezte azt, hogy mindenhez nagy erőfeszítésre volt szüksége?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E22
+{QUESTION}
+...érezte, hogy fáradt, nem tudja magát kipihenni
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E23
+{QUESTION}
+…volt boldog?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E24
+{QUESTION}
+...érezte magányosnak magát?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E25
+{QUESTION}
+…élvezte az életet?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E26
+{QUESTION}
+…volt szomorú?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E27
+{QUESTION}
+...…érezte azt, hogy elfásult, nincs kedve semmihez?
+
+{ANSWERS}
+Soha vagy szinte soha
+Néha
+Többnyire
+Mindig vagy majdnem mindig 
+
+E28
+{QUESTION}
+A kártyalapon szereplő egészségügyi problémák között van-e olyan, amelyikkel küszködött az elmúlt 12 hónapban, vagyis [ÉV, HÓNAP] óta? Kérem, csak a betűjeleket mondja meg nekem, amelyek az Ön  érintő egészségügyi problémákat jelölik.
+
+{ANSWERS}
+Z Szív- és érrendszeri megbetegedés
+F Magas vérnyomás  
+T Légzőszervi megbetegedések, például asztmarohamok, sípoló légzés 
+K Allergiás betegségek  
+H Hát- vagy nyaki fájdalom  
+Y Izom- vagy ízületi fájdalom a kézfejben vagy a karban 
+Q Izom- vagy ízületi fájdalom a lábfejben vagy a lábban
+E Hasi, emésztőrendszeri problémák 
+L Bőrproblémák 
+B Erős fejfájás  
+M Cukorbetegség
+
+E29
+{QUESTION}
+És melyek voltak azok az egészségügyi problémák, amik bármilyen módon akadályozták napi tevékenységeiben az elmúlt 12 hónapban? Kérem, ismét csak a megfelelő betűjeleket mondja!
+
+{ANSWERS}
+Z Szív- és érrendszeri megbetegedés
+F Magas vérnyomás  
+T Légzőszervi megbetegedések, például asztmarohamok, sípoló légzés 
+K Allergiás betegségek  
+H Hát- vagy nyaki fájdalom  
+Y Izom- vagy ízületi fájdalom a kézfejben vagy a karban 
+Q Izom- vagy ízületi fájdalom a lábfejben vagy a lábban
+E Hasi, emésztőrendszeri problémák 
+L Bőrproblémák 
+B Erős fejfájás  
+M Cukorbetegség
+
+E30
+{QUESTION}
+Az ezen a kártyalapon felsorolt egészségügyi problémák közül érinti vagy érintette valaha Öntbármelyik?
+
+{ANSWERS}
+Igen, jelenleg is
+Igen, korábban
+Nem, soha
+
+E31
+{QUESTION}
+A kártyalap segítségével kérem, mondja meg, hogy gyermek- és kamaszkorában milyen gyakran fordultak elő komoly veszekedések a háztartásában együtt élők között?
+
+{ANSWERS}
+Mindig
+Gyakran
+Néha
+Szinte soha
+Soha 
+
+E32
+{QUESTION}
+Ugyanennek a kártyalapnak a segítségével kérem, mondja meg, hogy gyermek-, illetve kamaszkorában Ön és családja milyen gyakran küszködött súlyos anyagi gondokkal?
+
+{ANSWERS}
+Mindig
+Gyakran
+Néha
+Szinte soha
+Soha 
+ 
+F44
+{QUESTION}
+Mi az Ön férjének/ feleségének/ partnerének legmagasabb iskolai végzettsége? Kérem, használja a 71-
+
+{ANSWERS}
+Nem járt iskolába
+1-4 osztály elemi/általános iskola vagy azzal egyenértékű
+5-7 osztály általános iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+Befejezetlen középiskola
+Érettségi, befejezett középiskola vagy azzal egyenértékű
+Érettségire épülő felsőfokra nem akkreditált szakképzés, középfokú technikum
+Felsőfokra akkreditált szakképzés, felsőfokú technikum
+Befejezetlen felsőfokú tanintézet (főiskola vagy egyetem)
+Főiskolai diploma
+Egyetemi diploma
+Posztgraduális végzettség
+Felsőfokú végzettség, tudományos fokozattal 
+
+F52
+{QUESTION}
+Mi az Ön apjának a legmagasabb iskolai végzettsége?
+
+{ANSWERS}
+Nem járt iskolába
+1-4 osztály elemi/általános iskola vagy azzal egyenértékű
+5-7 osztály általános iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+Befejezetlen középiskola
+Érettségi, befejezett középiskola vagy azzal egyenértékű
+Érettségire épülő felsőfokra nem akkreditált szakképzés,
+középfokú technikum
+Felsőfokra akkreditált szakképzés, felsőfokú technikum
+Befejezetlen felsőfokú tanintézet (főiskola vagy egyetem)
+Főiskolai diploma
+Egyetemi diploma
+Posztgraduális végzettség
+Felsőfokú végzettség, tudományos fokozattal 
+
+F56
+{QUESTION}
+Mi az Ön anyjának a legmagasabb iskolai végzettsége? Kérem használja a 75. kártyalapot!
+
+{ANSWERS}
+Nem járt iskolába
+1-4 osztály elemi/általános iskola vagy azzal egyenértékű
+5-7 osztály általános iskola vagy azzal egyenértékű
+Befejezett általános iskola vagy azzal egyenértékű
+Szakmunkásképző, szakiskola
+Befejezetlen középiskola
+Érettségi, befejezett középiskola vagy azzal egyenértékű
+Érettségire épülő felsőfokra nem akkreditált szakképzés,
+középfokú technikum
+Felsőfokra akkreditált szakképzés, felsőfokú technikum
+Befejezetlen felsőfokú tanintézet (főiskola vagy egyetem)
+Főiskolai diploma
+Egyetemi diploma
+Posztgraduális végzettség
+Felsőfokú végzettség, tudományos fokozattal 
+

@@ -1,0 +1,752 @@
+﻿D1 
+{INTRO}
+ŽMONĖS IŠ KITŲ ŠALIŲ ATVYKSTA GYVENTI Į LIETUVĄ DĖL SKIRTINGŲ PRIEŽASČIŲ. VIENI DĖL TO, KAD IŠ ČIA KILĘ. KITI ČIA ATVYKSTA DIRBTI ARBA PAS SAVO ŠEIMAS. DAR KITI ATVYKSTA, NES JAUČIA GRĖSMĘ. TOLIAU KELETAS KLAUSIMŲ ŠIA TEMA.
+
+{QUESTION}
+Prašau atsakykite, kiek kiekvienas iš šių dalykų, jūsų manymu, turėtų būti svarbus sprendžiant, ar žmogus, gimęs, užaugęs ir gyvenantis ne Lietuvoje, gali čia atvykti ir gyventi. Atsakydami naudokitės šia kortele. Pirmiausiai, kiek svarbu, kad tas žmogus ... turėtų gerą išsilavinimą? 
+
+{ANSWERS}
+0 Ypatingai nesvarbu
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu
+
+D3
+{QUESTION}
+… turėtų krikščioniškas šaknis?
+
+{ANSWERS}
+0 Ypatingai nesvarbu
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu
+
+D5
+{QUESTION}
+… turėtų darbinių įgūdžių, kurių reikia Lietuvai?
+
+{ANSWERS}
+0 Ypatingai nesvarbu
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai svarbu
+
+D7
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar, jūsų nuomone, žmonės, atvykstantys gyventi į Lietuvą, paprastai atima darbo vietas iš dirbančiųjų Lietuvoje, ar paprastai padeda kurti naujas darbo vietas?
+
+{ANSWERS}
+0 Atima darbo vietas
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kuria naujas darbo vietas
+
+D8
+{INTRO}
+Dauguma žmonių, kurie atvyksta gyventi į Lietuvą, dirba ir moka mokesčius.
+
+{QUESTION}
+Jie taip pat naudojasi sveikatos ir socialinės apsaugos paslaugomis. Atsižvelgus į viską, ar jūs manote, kad į Lietuvą gyventi atvykstantys žmonės pasiima daugiau nei patys įdeda, ar įdeda daugiau nei patys pasiima? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Apskritai pasiima daugiau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Apskritai įdeda daugiau
+
+D9
+{QUESTION}
+O nusikalstamumo problemos Lietuvoje dėl čia atvykstančių gyventi žmonių iš kitų šalių didėja ar mažėja? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Nusikalstamumo problemos didėja
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nusikalstamumo problemos mažėja
+
+D10
+{INTRO}
+Dabar pagalvokite apie žmones, atvykusius gyventi į Lietuvą iš kitų šalių, ir kurie yra kitos rasės ar etninės grupės nei dauguma Lietuvos gyventojų.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kiek jūs prieštarautumėte ar neprieštarautumėte, jei toks žmogus...būtų paskirtas jūsų vadovu/-e?
+
+{ANSWERS}
+0 Visiškai neprieštaraučiau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Labai prieštaraučiau
+
+D11
+{QUESTION}
+… susituoktų su jūsų artimu giminaičiu/-te?
+
+{ANSWERS}
+0 Visiškai neprieštaraučiau
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Labai prieštaraučiau
+
+D12
+{QUESTION}
+O dabar naudodamiesi šia kortele apibūdinkite vietovę, kurioje šiuo metu gyvenate?
+
+{ANSWERS}
+Tai vietovė, kur beveik nėra kitos rasės ar etninės grupės žmonių, nei dauguma Lietuvos gyventojų 
+Kai kurie žmonės yra kitos rasės ar etninės grupės, nei dauguma Lietuvos gyventojų 
+Daugelis žmonių yra kitos rasės ar etninės grupės
+
+D13
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kiek jūs pritariate, ar nepritariate, kad: „Šaliai geriau, kai beveik visi žmonės laikosi tokių pačių papročių ir tradicijų“.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu 
+Nei pritariu, nei nepritariu 
+Nepritariu 
+Labai nepritariu 
+
+D14
+{QUESTION}
+Kiek gerai ar blogai yra tai, kad šalis turi įstatymą, kuris draudžia rasinę ar etninę diskriminaciją darbo vietoje?Atsakydami naudokitės šia kortele.
+{ANSWERS}
+0 Ypatingai blogai
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai gerai
+
+D15
+{INTRO}
+Kai kurie žmonės atvyksta į šią šalį ir prašo pabėgėlio statuso, nes bijo persekiojimo savo šalyje.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kiek jūs pritariate, ar nepritariate tam, kad: „valdžia turėtų būti geranoriška svarstydama prašymus suteikti pabėgėlio statusą“.
+
+{ANSWERS}
+Labai pritariu 
+Pritariu 
+Nei pritariu, nei nepritariu 
+Nepritariu 
+Labai nepritariu
+
+D16
+{QUESTION}
+Jūsų nuomone, kiek iš 100 Lietuvoje gyvenančių žmonių yra gimę už Lietuvos ribų?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Lyginant su tokiais žmonėmis kaip jūs, kurie yra gimę Lietuvoje, kaip, jūsų nuomone, valdžia elgiasi su tais, kurie neseniai atvyko čia gyventi iš kitų šalių? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Daug geriau 
+Šiek tiek geriau 
+Taip pat 
+Šiek tiek blogiau 
+Daug blogiau
+
+D18
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, kaip jūs manote, ar žmonės, atvykstantys čia gyventi iš kitų šalių, apskritai daugiau griauna religinius įsitikinimus ir papročius Lietuvoje ar juos turtina?
+
+{ANSWERS}
+0 Griauna religinius įsitikinimus ir papročius
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Turtina religinius įsitikinimus ir papročius
+
+D19
+{QUESTION}
+Ar turite artimų draugų, kurie yra kitos rasės ar etninės grupės nei dauguma Lietuvos gyventojų?
+
+{ANSWERS}
+Taip, keletą 
+Taip, visai mažai 
+Ne, neturiu nė vieno
+
+D20
+{QUESTION}
+Ar dažnai viešose vietose susiduriate su žmonėmis, kurie yra kitos rasės ar etninės grupės nei dauguma Lietuvos gyventojų? Tai gali būti viešajame transporte, gatvėje, parduotuvėse ar vietovėje, kurioje jūs gyvenate. Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Niekada 
+Rečiau negu kartą per mėnesį 
+Kartą per mėnesį 
+Keletą kartų per mėnesį 
+Kartą per savaitę 
+Keletą kartų per savaitę 
+Kasdien
+
+D21
+{QUESTION}
+Galvojant apie tokius susidūrimus, apskritai kiek jie būna blogi arba geri? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+0 Ypatingai blogi
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ypatingai geri
+
+D22
+{QUESTION}
+Kiek artimas/-a jūs jaučiatės Lietuvai? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+Labai artimas/-a 
+Artimas/-a 
+Nelabai artimas/-a 
+Visiškai ne artimas/-a
+
+D23
+{INTRO}
+ŽMONĖS DAŽNAI TURI SKIRTINGUS POŽIŪRIUS TOLIAU PATEIKIAMOMIS TEMOMIS.
+
+{QUESTION}
+Ar jūs manote, kad kai kurios rasės ar etninės grupės gimsta mažiau protingos nei kitos?
+
+{ANSWERS}
+Taip 
+Ne
+
+D24
+{QUESTION}
+Ar jūs manote, kad kai kurios rasės ar etninės grupės gimsta darbštesnės nei kitos?
+
+{ANSWERS}
+Taip 
+Ne
+
+D25
+{QUESTION}
+Ar, galvodami apie dabartinį pasaulį, sakytumėte, kad kai kurios kultūros yra daug geresnės už kitas, ar kad visos kultūros yra lygiavertės? Pasirinkite atsakymą iš šios kortelės.
+
+{ANSWERS}
+Kai kurios kultūros yra daug geresnės už kitas 
+Visos kultūros yra lygiavertė
+
+D26
+{INTRO}
+Dabar norėčiau paklausti apie skirtingas žmonių grupes, galinčias atvykti gyventi į Lietuvą iš kitų šalių.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar, jūsų nuomone, reiktų leisti ...žydams iš kitų šalių atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D27
+{QUESTION}
+... musulmonams iš kitų šalių atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D28
+{QUESTION}
+... čigonams iš kitų šalių atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D30
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų nuomone, reiktų leisti aukštos kvalifikacijos specialistams iš Baltarusijos atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D31
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų nuomone, reiktų leisti aukštos kvalifikacijos specialistams iš Turkijos atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D32
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų nuomone, reiktų leisti nekvalifikuotiems darbininkams iš Baltarusijos atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+D33
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar, jūsų nuomone, reiktų leisti nekvalifikuotiems darbininkams iš Turkijos atvykti ir gyventi Lietuvoje?
+
+{ANSWERS}
+Daugeliui reiktų leisti atvykti ir gyventi Lietuvoje
+Reiktų leisti ribotam kiekiui
+Reiktų leisti vienam kitam
+Neleisti nei vienam
+
+E1
+{INTRO}
+DABAR KELI KLAUSIMAI KITA TEMA.
+
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai valgote vaisių, neįskaitant išgeriamų sulčių?
+
+{ANSWERS}
+Tris ar daugiau kartų per dieną 
+Du kartus per dieną 
+Kartą per dieną 
+Rečiau nei kartą per dieną, tačiau bent 4 kartus per savaitę 
+Rečiau nei 4 kartus per savaitę, tačiau bent kartą per savaitę 
+Rečiau nei kartą per savaitę 
+Niekada
+
+E2
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar dažnai valgote daržovių arba salotų, neįskaitant bulvių?
+
+{ANSWERS}
+Tris ar daugiau kartų per dieną 
+Du kartus per dieną 
+Kartą per dieną 
+Rečiau nei kartą per dieną, tačiau bent 4 kartus per savaitę 
+Rečiau nei 4 kartus per savaitę, tačiau bent kartą per savaitę 
+Rečiau nei kartą per savaitę 
+Niekada
+
+E3
+{QUESTION}
+Kiek dienų per pastarąsias 7 dienas sparčiai vaikščiojote, sportavote ar užsiėmėte kita fizine veikla bent 30 minučių ar ilgiau?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Dabar pagalvokite apie cigarečių rūkymą.
+
+{QUESTION}
+Kuris iš kortelėje pateikiamų teiginių geriausiai apibūdina jūsų rūkymo elgseną?
+
+{ANSWERS}
+Rūkau kasdien 
+Rūkau, tačiau ne kasdien 
+Dabar nerūkau, tačiau rūkiau ankščiau 
+Esu rūkęs/-iusi tik keletą kartų 
+Niekada nesu rūkęs/-iusi
+
+E5
+{QUESTION}
+Kiek cigarečių jūs surūkote įprastą dieną?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Ar dažnai gerdavote gėrimų, turinčių alkoholio, per pastaruosius 12 mėnesių, t. y. nuo [METŲ, MĖNESIO]? Tai galėjo būti vynas, alus, sidras, stiprieji ar kiti gėrimai, turintys alkoholio. Pasirinkite atsakymą iš šios kortelės.
+
+{ANSWERS}
+Kasdien
+Keletą kartų per savaitę 
+Kartą per savaitę 
+2-3 kartus per mėnesį 
+Kartą per mėnesį 
+Rečiau nei kartą per mėnesį 
+Niekada
+
+E7
+{INTRO}
+Prašau prisiminkite paskutinį kartą, kai gėrėte alkoholio pirmadienį, antradienį, trečiadienį arba ketvirtadienį.
+
+{QUESTION}
+Pasakykite, kokių alkoholinių gėrimų gėrėte ir kokį kiekį kiekvieno iš jų jūs pats/-i asmeniškai tą dieną išgėrėte?
+ 
+{ANSWERS}
+Alaus ar sidro (apie 5%) butelis, bokalas, skardinė (500ml)Stipraus alaus (stipresnio nei 6,5%) butelis, bokalas, skardinė (500ml)Mažas (330ml) alaus ar sidro (apie 5%) butelis, bokalas, skardinė
+Mažas (330ml) stipraus alaus (stipresnio nei 6,5%) butelis, bokalas, skardinė
+Vyno ar putojančio vyno taurė (100ml)Vyno ar putojančio vyno butelis (750ml)Stipraus (apie 20%)
+vyno (spirituoto vyno, vermuto, portveino, chereso ar pan.) taurė (80ml)
+Butelis (750ml) stipraus (apie 20%) vyno (spirituoto vyno, vermuto, portveino, chereso ar pan.)
+Taurelė (40ml) stipresnio (apie 40%) spiritinio gėrimo (degtinės, brendžio, viskio, tekilos, likerioar pan.)
+Butelis (500ml) stipresnio (apie 40%) spiritinio gėrimo (degtinės, brendžio, viskio, tekilos, likerioar pan.)Taurelė (40ml) stipraus (50% ar daugiau) spiritinio gėrimo (stiprios ar naminės degtinės, stipraus viskio, trauktinės, likerio ar pan.)
+Butelis (500ml) stipraus (50% ar daugiau) spiritinio gėrimo (stiprios ar naminės degtinės, stipraus viskio, trauktinės, likerio ar pan.)
+Taurelė (40ml)
+silpnesnio (apie 20%) spiritinio gėrimo (trauktinės, likerio ar pan.)
+Kokteilis su 40ml stipresnio (apie 40%) spiritinio gėrimo
+
+E8
+{INTRO}
+O dabar prašau prisiminkite paskutinį kartą, kai gėrėte alkoholio penktadienį, šeštadienį arba sekmadienį.
+
+{QUESTION}
+Pasakykite, kokių alkoholinių gėrimų gėrėte ir kokį kiekį kiekvieno iš jų jūs pats/-i asmeniškai tą dieną išgėrėte? Atsakydami galite naudotis ta pačia kortele.
+
+{ANSWERS}
+Alaus ar sidro (apie 5%) butelis, bokalas, skardinė (500ml)Stipraus alaus (stipresnio nei 6,5%) butelis, bokalas, skardinė (500ml)Mažas (330ml) alaus ar sidro (apie 5%) butelis, bokalas, skardinė
+Mažas (330ml) stipraus alaus (stipresnio nei 6,5%) butelis, bokalas, skardinė
+Vyno ar putojančio vyno taurė (100ml)Vyno ar putojančio vyno butelis (750ml)Stipraus (apie 20%)
+vyno (spirituoto vyno, vermuto, portveino, chereso ar pan.) taurė (80ml)
+Butelis (750ml) stipraus (apie 20%) vyno (spirituoto vyno, vermuto, portveino, chereso ar pan.)
+Taurelė (40ml) stipresnio (apie 40%) spiritinio gėrimo (degtinės, brendžio, viskio, tekilos, likerioar pan.)
+Butelis (500ml) stipresnio (apie 40%) spiritinio gėrimo (degtinės, brendžio, viskio, tekilos, likerioar pan.)Taurelė (40ml) stipraus (50% ar daugiau) spiritinio gėrimo (stiprios ar naminės degtinės, stipraus viskio, trauktinės, likerio ar pan.)
+Butelis (500ml) stipraus (50% ar daugiau) spiritinio gėrimo (stiprios ar naminės degtinės, stipraus viskio, trauktinės, likerio ar pan.)
+Taurelė (40ml)
+silpnesnio (apie 20%) spiritinio gėrimo (trauktinės, likerio ar pan.)
+Kokteilis su 40ml stipresnio (apie 40%) spiritinio gėrimo
+
+E10a
+{INTRO}
+Šioje kortelėje pateikti šeši pavyzdžiai, vaizduojantys maždaug vienodą kiekį alkoholio, kurį žmogus gali išgerti per vieną kartą.
+
+{QUESTION}
+Ar dažnai per pastaruosius 12 mėnesių jūs išgerdavote tokį kiekį ar daugiau alkoholio per vieną kartą?
+Ar tai būdavo ...
+
+{ANSWERS}
+... kasdien arba beveik kasdien,
+kas savaitę, 
+kas mėnesį, 
+rečiau nei kas mėnesį, 
+ar niekada?
+
+E10b
+{INTRO}
+Šioje kortelėje pateikti šeši pavyzdžiai, vaizduojantys maždaug vienodą kiekį alkoholio, kurį žmogus gali išgerti per vieną kartą.
+
+{QUESTION}
+Ar dažnai per pastaruosius 12 mėnesių jūs išgerdavote tokį kiekį ar daugiau alkoholio per vieną kartą? Ar tai būdavo ...
+
+{ANSWERS}
+... kasdien arba beveik kasdien, 
+kas savaitę, 
+kas mėnesį, 
+rečiau nei kas mėnesį, 
+ar niekada?
+
+E11
+{QUESTION}
+Koks jūsų ūgis, neavint batų?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Koks jūsų svoris, neavint batų?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Su kuriais iš kortelėje nurodytų sveikatos priežiūros specialistų jūs aptarėte savo sveikatą per pastaruosius 12 mėnesių, t. y. nuo [METŲ, MĖNESIO]?
+
+{ANSWERS}
+Šeimos gydytoju 
+Gydytoju specialistu (išskyrus dantų gydytojus)
+
+E14
+{QUESTION}
+Ar per pastaruosius 12 mėnesių, t. y. nuo [METŲ, MĖNESIO] buvo taip nutikę, kad jums nepavyko gauti reikiamos medicininės konsultacijos ar gydymo dėl kurios nors iš šioje kortelėje išvardintų priežasčių?
+
+{ANSWERS}
+Taip
+Ne
+
+E15
+{QUESTION}
+Kurios iš kortelėje išvardintų priežasčių paaiškina tai, kodėl jums nepavyko gauti šios medicininės konsultacijos ar gydymo?
+
+{ANSWERS}
+Negalėjote už tai susimokėti 
+Negalėjote atsiprašyti iš darbo 
+Turėjote kitų įsipareigojimų 
+Jums reikalingas gydymas nebuvo prieinamas ten, kur gyvenate, ar netoliese 
+Laukiančiųjų eilė buvo per ilga 
+Nebuvo laisvo registracijos laiko
+Kita
+
+E16
+{QUESTION}
+O taip nebuvo nutikę dėl to, kad...
+
+{ANSWERS}
+... jūs turėjote galimybę gauti bet kurią reikiamą medicininę konsultaciją ar gydymą, 
+ar jums nereikėjo medicininės konsultacijos ar gydymo per pastaruosius 12 mėnesių?
+
+E17
+{QUESTION}
+Ar jūs skiriate kiek nors laiko šeimos narių, draugų, kaimynų ar kitų žmonių priežiūrai ar pagalbai dėl kurių nors iš kortelėje išvardintų priežasčių? Neįskaičiuokite tokio pobūdžio veiklos, jei ji yra jūsų apmokamo darbo dalis.
+
+{ANSWERS}
+Taip
+Ne
+
+E18
+{QUESTION}
+Kiek paprastai valandų per savaitę jūs tam skiriate? Atsakydami naudokitės šia kortele.
+
+{ANSWERS}
+1-10 valandų per savaitę 
+11-20 valandų per savaitę 
+21-30 valandų per savaitę 
+31-40 valandų per savaitę 
+41-50 valandų per savaitę 
+Daugiau nei 50 valandų per savaitę
+
+E19
+{QUESTION}
+Kuriuos iš kortelėje išvardintų gydymo būdų naudojote dėl savo sveikatos per pastaruosius 12 mėnesių, t. y. nuo [METŲ, MĖNESIO]?
+
+{ANSWERS}
+Akupunktūra 
+Akupresūra 
+Tradicinė kinų medicina 
+Chiropraktika 
+Osteopatija 
+Homeopatija 
+Gydymas vaistažolėmis 
+Hipnoterapija 
+Gydomasis masažas
+Fizioterapija 
+Refleksologija 
+Dvasinis gydymas
+
+E20
+{INTRO}
+Dabar perskaitysiu kelis teiginius apie tai, kaip jūs galbūt jausdavotės ar elgdavotės pastarąją savaitę.
+
+{QUESTION}
+Naudodamiesi
+šia kortele atsakykite, kokią laiko dalį per pastarąją savaitę ...jausdavotės prislėgtas/-a?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E21
+{QUESTION}
+… jums atrodydavo, kad viską tenka daryti per vargus?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E22
+{QUESTION}
+… jūsų miegas būdavo neramus?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E23
+{QUESTION}
+… būdavote laimingas/-a?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E24
+{QUESTION}
+… jausdavotės vienišas/-a?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E25
+{QUESTION}
+… džiaugdavotės gyvenimu? 
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E26
+{QUESTION}
+… būdavote liūdnas/-a?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E27
+{QUESTION}
+… jums nekildavo rankos ką nors daryti?
+
+{ANSWERS}
+Niekada arba beveik niekada
+Kartais
+Didžiąją laiko dalį
+Visą laiką arba beveik visą laiką
+
+E28
+{QUESTION}
+Kokių šioje kortelėje išvardintų sveikatos problemų turėjote ar patyrėte per pastaruosius 12 mėnesių, t. y. nuo [METŲ, MĖNESIO]? Tiesiog pasakykite, kuriomis raidėmis pažymėti variantai jums tinka.
+
+{ANSWERS}
+Z Širdies ar kraujotakos problemos 
+F Aukštas kraujo spaudimas
+T Kvėpavimo problemos, tokios kaip astmos priepuoliai, švokščiantis ar švilpiantis kvėpavimas 
+K Alergijos
+H Nugaros ar sprando skausmai 
+Y Plaštakų ar rankų raumenų ar sąnarių skausmai
+Q Pėdų ar kojų raumenų ar sąnarių skausmai
+E Skrandžio ar virškinimo problemos E
+L Odos būklės problemos
+B Stiprūs galvos skausmai
+M Diabetas
+
+E29
+{QUESTION}
+O kurios per pastaruosius 12 mėnesių turėtos ar patirtos sveikatos problemos kokiu nors būdu trukdė jūsų kasdieninei veiklai? Vėlgi, tiesiog pasakykite, kuriomis raidėmis pažymėti variantai jums tinka.
+
+{ANSWERS}
+Z Širdies ar kraujotakos problemos 
+F Aukštas kraujo spaudimas
+T Kvėpavimo problemos, tokios kaip astmos priepuoliai, švokščiantis ar švilpiantis kvėpavimas 
+K Alergijos
+H Nugaros ar sprando skausmai 
+Y Plaštakų ar rankų raumenų ar sąnarių skausmai
+Q Pėdų ar kojų raumenų ar sąnarių skausmai
+E Skrandžio ar virškinimo problemos E
+L Odos būklės problemos
+B Stiprūs galvos skausmai
+M Diabetas
+
+E30
+{QUESTION}
+Ar šiuo metu turite arba kada nors anksčiau turėjote kurių nors šioje kortelėje išvardintų sveikatos problemų?
+
+{ANSWERS}
+Taip, dabar 
+Taip, anksčiau 
+Ne, niekada
+
+E31
+{QUESTION}
+Naudodamiesi šia kortele atsakykite, ar dažnai, kai jūs augote, kildavo rimtų konfliktų tarp jūsų namuose
+gyvenančių žmonių?
+
+{ANSWERS}
+Visą laiką 
+Dažnai 
+Kartais 
+Beveik niekada
+Niekada
+
+E32
+{QUESTION}
+Naudodamiesi ta pačia kortele atsakykite, ar dažnai, kai jūs augote, jūs ar jūsų šeima patirdavo didelių finansinių sunkumų?
+
+{ANSWERS}
+Visą laiką 
+Dažnai 
+Kartais 
+Beveik niekada
+Niekada
+ 

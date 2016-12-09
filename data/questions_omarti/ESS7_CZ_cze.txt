@@ -1,0 +1,747 @@
+﻿D1 
+{INTRO}
+Lidé z jiných zemí pricházejí žít do Ceské republiky z ruzných duvodu. Nekterí zde meli predky. Jiní pricházejí za prací nebo za svými rodinami. Jiní pricházejí proto, že jsou v nebezpecí. Nekolik dalších otázek se týká práve této problematiky. Reknete mi prosím, jak by podle vašeho názoru mely být duležité následující okolnosti pri rozhodování o tom, zda sem clovek, který se narodil, vyrostl a žil mimo Ceskou republiku, muže prijít a žít zde. Použijte prosím tuto kartu.
+
+{QUESTION}
+Zaprvé, jak duležité by pro rozhodování melo být, že dotycný clovek…má dobré vzdelání?
+
+{ANSWERS}
+0 Naprosto neduležité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Naprosto duležité
+
+D3
+{QUESTION}
+...prichází z krestanského prostredí?
+
+{ANSWERS}
+0 Naprosto neduležité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Naprosto duležité
+
+D5
+{QUESTION}
+...má pracovní kvalifikaci, kterou Ceská republika potrebuje?
+
+{ANSWERS}
+0 Naprosto neduležité
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Naprosto duležité
+
+D7
+{QUESTION}
+Rekl(a) byste, že lidé, kterí sem pricházejí žít, vetšinou berou práci lidem v Ceské republice nebo vetšinou pomáhají vytváret nová pracovní místa? Použijte prosím tuto kartu.
+
+{ANSWERS}
+0 Berou práci 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vytvárejí nová místa
+
+D8
+{INTRO}
+Vetšina lidí, kterí sem pricházejí žít, pracuje a platí dane.
+
+{QUESTION}
+Využívají rovnež zdravotní služby a sociální zabezpecení. Když se vše zváží, myslíte, že lidé, kterí sem pricházejí, více cerpají, než vkládají nebo více vkládají, než cerpají? Použijte prosím tuto kartu.
+
+{ANSWERS}
+0 Vetšinou více cerpají
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Vetšinou více vkládají
+
+D9
+{QUESTION}
+Zpusobují lidé z jiných zemí, kterí sem pricházejí žít, v Ceské republice zhoršování nebo zlepšování problému spojených se zlocinností? Použijte prosím tuto kartu..
+
+{ANSWERS}
+0 Zpusobují zhoršování problému se zlocinností
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zpusobují zlepšování problému se zlocinností
+
+D10
+{INTRO}
+A nyní se zamyslete nad lidmi z jiných zemí, kterí presídlili do Ceské republiky, a kterí jsou jiné rasy nebo etnické skupiny než vetšina ceského obyvatelstva.
+
+{QUESTION}
+S použitím této karty mi prosím reknete, do jaké míry by vám vadilo nebo nevadilo, kdyby nekdo takový: byl jmenován vaším vedoucím
+
+{ANSWERS}
+0 Vubec nevadilo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hodne vadilo
+
+D11
+{QUESTION}
+uzavrel snatek s vaším blízkým príbuzným?
+
+{ANSWERS}
+0 Vubec nevadilo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hodne vadilo
+
+D12
+{QUESTION}
+Nyní použijte tuto kartu. Jak byste popsal(a) oblast, ve které v soucasnosti žijete?
+
+{ANSWERS}
+Oblast, kde není témer nikdo jiné rasy nebo etnické skupiny než vetšina ceských lidí
+Nekterí lidé jsou jiné rasy nebo etnické skupiny než vetšina ceských lidí
+Mnoho lidí je jiné rasy nebo etnické skupiny
+
+D13
+{QUESTION}
+S použitím této karty mi prosím reknete, jak moc souhlasíte ci nesouhlasíte s tím, že: „Pro zemi je lepší, když témer všichni sdílí stejné zvyky a tradice"?
+
+{ANSWERS}
+Rozhodne souhlasímSpíše souhlasím 
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím 
+Rozhodne nesouhlasím
+
+D14
+{QUESTION}
+Jak dobré ci špatné je pro zemi, aby mela zákon proti rasové nebo etnické diskriminaci na pracovišti? Použijte prosím tuto kartu.
+
+{ANSWERS}
+0 Naprosto špatné
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Naprosto dobré
+
+D15
+{INTRO}
+Nekterí lidé prijíždejí do této zeme a žádají o status uprchlíka na základe toho, že se obávají ve své vlastní zemi pronásledování.
+
+{QUESTION}
+S použití této karty mi prosím reknete, jak moc souhlasíte nebo nesouhlasíte s tím, že: „Státní správa by mela být pri posuzování žádostí o status uprchlíka velkorysá".
+
+{ANSWERS}
+Rozhodne souhlasím 
+Spíše souhlasím 
+Ani souhlas, ani nesouhlas
+Spíše nesouhlasím 
+Rozhodne nesouhlasím
+
+D16
+{QUESTION}
+Kolik z každých sta obyvatel Ceské republiky se podle Vás narodilo mimo Ceskou republiku?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Ve srovnání s lidmi, jako jste vy, kterí se narodili v Ceské republice, jak si myslíte, že vláda zachází s temi, kterí sem nedávno presídlili z jiných zemí? Použijte, prosím, tuto kartu.
+
+{ANSWERS}
+Mnohem lépe 
+Trochu lépe 
+Stejne 
+Trochu hure
+Mnohem hure
+
+D18
+{QUESTION}
+S použitím této karty mi prosím reknete, zda si myslíte, že náboženská víra a zvyky v Ceské republice jsou obecne narušovány nebo obohacovány lidmi, kterí sem pricházejí žít z jiných zemí?
+
+{ANSWERS}
+0 Náboženská víra a zvyky narušovány
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Náboženská víra a zvyky obohacovány
+
+D19
+{QUESTION}
+Máte nejaké blízké prátele, kterí jsou jiné rasy nebo etnické skupiny než vetšina ceských obyvatel? POKUD ANO, je jich více nebo jen nekolik málo?
+
+{ANSWERS}
+Ano, více 
+Ano, jen málo
+Ne, nemám žádné
+
+D20
+{QUESTION}
+Jak casto máte nejaký kontakt s lidmi jiné rasy nebo etnické skupiny, než je vetšina ceského obyvatelstva, když jste venku (mimo domov)? Muže jít o situace ve verejné doprave, na ulici, v obchode nebo ve vašem sousedství. Použijte, prosím, tuto kartu.
+
+{ANSWERS}
+Nikdy 
+Méne než jednou za mesíc 
+Jednou za mesíc 
+Nekolikrát za mesíc
+Jednou týdne 
+Nekolikrát týdne
+Každý den
+
+D21
+{QUESTION}
+Když se zamyslíte nad temito kontakty, jak jsou obecne dobré nebo špatné? Použijte, prosím, tuto kartu.
+
+{ANSWERS}
+0 Naprosto špatné
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Naprosto dobré
+
+D22
+{QUESTION}
+Jak blízký vztah máte k Ceské republice?
+
+{ANSWERS}
+Velmi blízký 
+Blízký 
+Ne moc blízký
+Vubec ne blízký
+
+D23
+{INTRO}
+Lidé mají casto rozdílné názory na následující témata.
+
+{QUESTION}
+Myslíte si, že nekteré rasy ci etnické skupiny se rodí méne inteligentní než ostatní?
+
+{ANSWERS}
+Ano
+Ne
+
+D24
+{QUESTION}
+Myslíte si, že nekteré rasy nebo etnické skupiny se rodí pracovitejší než jiné?
+
+{ANSWERS}
+Ano 
+Ne
+
+D25
+{QUESTION}
+Když se zamyslíte nad dnešním svetem, rekl(a) byste, že nekteré kultury jsou mnohem lepší než jiné, nebo že jsou si všechny kultury rovny? Vyberte, prosím, svou odpoved z této karty.
+
+{ANSWERS}
+Nekteré kultury jsou mnohem lepší než jiné 
+Všechny kultury jsou si rovny 
+
+D26
+{INTRO}
+Zeptám se vás na ruzné skupiny lidí, kterí by mohli prijít žít do Ceské republiky z jiných zemí.
+
+{QUESTION}
+S použitím této karty mi prosím reknete, do jaké míry si myslíte, že by Ceská republika mela dovolit: židovskému obyvatelstvu z jiných zemí, aby pricházeli a žili v Ceské republice?
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady
+Dovolit to nekterým
+Dovolit to malému poctu
+Nedovolit to nikomu
+
+D27
+{QUESTION}
+muslimum z jiných zemí, aby pricházeli a žili v Ceské republice?
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady
+Dovolit to nekterým
+Dovolit to malému poctu
+Nedovolit to nikomu
+
+D28
+{QUESTION}
+Romum z jiných zemí, aby pricházeli a žili v Ceské republice?
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady
+Dovolit to nekterým
+Dovolit to malému poctu
+Nedovolit to nikomu
+
+D30
+{QUESTION}
+S použitím stejné karty mi prosím reknete, do jaké míry si myslíte, že by Ceská republika mela dovolit odborníkum z Ukrajiny, aby pricházeli žít do Ceské republiky.
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady 
+Dovolit to nekterým 
+Dovolit to malému poctu
+Nedovolit to nikomu 
+
+D31
+{QUESTION}
+S použitím stejné karty mi prosím reknete, do jaké míry si myslíte, že by Ceská republika mela dovolit odborníkum z Vietnamu, aby pricházeli žít do Ceské republiky.
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady 
+Dovolit to nekterým 
+Dovolit to malému poctu
+Nedovolit to nikomu 
+
+D32
+{QUESTION}
+S použitím stejné karty mi prosím reknete, do jaké míry si myslíte, že by Ceská republika mela dovolit nekvalifikovaným pracovníkum z Ukrajiny, aby pricházeli žít do Ceské republiky.
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady 
+Dovolit to nekterým 
+Dovolit to malému poctu
+Nedovolit to nikomu 
+
+D33
+{QUESTION}
+S použitím stejné karty mi prosím reknete, do jaké míry si myslíte, že by Ceská republika mela dovolit nekvalifikovaným pracovníkum z Vietnamu, aby pricházeli žít do Ceské republiky.
+
+{ANSWERS}
+Dovolit hodne lidem, aby sem pricházeli a žili tady 
+Dovolit to nekterým 
+Dovolit to malému poctu
+Nedovolit to nikomu 
+
+E1
+{INTRO}
+Nyní nekolik otázek na jiné téma.
+
+{QUESTION}
+použitím této karty mi prosím reknete, jak casto jíte ovoce, s výjimkou pití džusu?
+
+{ANSWERS}
+Trikrát nebo vícekrát denne 
+Dvakrát denne 
+Jednou denne 
+Méne než jednou denne, ale alespon 4krát týdne 
+Méne než 4krát za týden, ale alespon jednou týdne
+Méne než jednou týdne 
+Nikdy 
+
+E2
+{QUESTION}
+S použitím stejné karty mi prosím reknete, jak casto jíte zeleninu nebo saláty, když nepocítáte brambory.
+
+{ANSWERS}
+Trikrát nebo vícekrát denne 
+Dvakrát denne 
+Jednou denne 
+Méne než jednou denne, ale alespon 4krát týdne 
+Méne než 4krát za týden, ale alespon jednou týdne
+Méne než jednou týdne 
+Nikdy
+
+E3
+{QUESTION}
+V kolika z posledních sedmi dnu jste se pohyboval(a) rychlou chuzí, sportoval(a) nebo se venoval(a) jiné fyzické aktivite po dobu 30 minut nebo déle?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Nyní se zamyslete nad kourením cigaret.
+
+{QUESTION}
+Která z následujících možností nejlépe popisuje vaše chování v oblasti kourení?
+
+{ANSWERS}
+Kourím denne E
+Kourím, ale ne každý den 
+Nyní nekourím, ale dríve jsem kouril(a) 
+Kouril(a) jsem jen nekolikrát 
+Nikdy jsem nekouril(a)
+
+E5
+{QUESTION}
+Kolik cigaret vykouríte behem typického dne?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Jak casto jste za posledních 12 mesícu, to znamená od [MESÍC, ROK], mel(a) nápoj s obsahem alkoholu? Mohlo se jednat o víno, pivo, cider, tvrdý alkohol nebo další nápoje obsahující alkohol. Vyberte prosím odpoved z této karty.
+
+{ANSWERS}
+Každý den
+Nekolikrát týdne 
+Jednou týdne 
+2-3krát mesícne 
+Jednou mesícne
+Méne než jednou mesícne
+Nikdy
+
+E7
+{INTRO}
+Zamyslete se prosím nad tím, kdy jste naposledy pil(a) alkohol v nejaké pondelí, úterý, stredu nebo ctvrtek.
+
+{QUESTION}
+Kolik od každého z následujících nápoju jste v tento den mel(a)? K odpovedi použijte tuto kartu.
+ 
+{ANSWERS}
+velké pivo 10°
+malé pivo 10°
+láhev vína
+víno nebo sekt "dvojka"
+víno nebo sekt "osminka"
+velký panák
+malý panák
+sherry nebo portské
+koktejl
+míchaný nápoj v láhvi
+
+E8
+{INTRO}
+Nyní si prosím vzpomente na to, kdy jste naposledy pil(a) alkohol v nejaký pátek, v sobotu nebo v nedeli.
+
+{QUESTION}
+Kolik od každého z následujících nápoju jste v tento den mel(a)?
+
+{ANSWERS}
+velké pivo 10°
+malé pivo 10°
+láhev vína
+víno nebo sekt "dvojka"
+víno nebo sekt "osminka"
+velký panák
+malý panák
+sherry nebo portské
+koktejl
+míchaný nápoj v láhvi
+
+E10a
+{INTRO}
+Tato karta zobrazuje šest ruzných príkladu toho, kolik alkoholu muže clovek vypít pri jedné príležitosti.
+
+{QUESTION}
+Jak casto jste behem posledních 12 mesícu pri jedné príležitosti vypil takové nebo vetší množství alkoholu? Bylo to…
+
+{ANSWERS}
+denne nebo témer denne 
+každý týden 
+každý mesíc 
+méne casto než každý mesíc 
+nebo nikdy?
+
+E10b
+{INTRO}
+Tato karta zobrazuje šest ruzných príkladu toho, kolik alkoholu muže clovek vypít pri jedné príležitosti.
+
+{QUESTION}
+Jak casto jste behem posledních 12 mesícu pri jedné príležitosti vypila takové nebo vetší množství alkoholu? Bylo to…
+
+{ANSWERS}
+denne nebo témer denne 
+každý týden 
+každý mesíc 
+méne casto než každý mesíc 
+nebo nikdy?
+
+E11
+{QUESTION}
+Kolik meríte bez bot?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Kolik vážíte bez bot?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Se kterými ze zdravotníku uvedených na této karte jste v posledních 12 mesících, to znamená od [MESÍC, ROK] probíral(a) své zdraví?
+
+{ANSWERS}
+Praktický lékar
+Specialista (krome zubare)
+
+E14
+{QUESTION}
+Stalo se vám v posledních 12 mesících, to znamená od [MESÍC, ROK], že se vám nepodarilo získat zdravotnickou konzultaci nebo ošetrení, které jste potreboval(a), kvuli nekterému z duvodu uvedených na této karte?
+
+{ANSWERS}
+Ano 
+Ne
+
+E15
+{QUESTION}
+Které z duvodu na této karte hrály roli v tom, že se vám nepodarilo získat zdravotnickou konzultaci nebo ošetrení?
+
+{ANSWERS}
+Nemohl(a) jsem za to zaplatit 
+Nemohl(a) jsem se uvolnit z práce
+Mel(a) jsem jiné povinnosti 
+Ošetrení, které jsem potreboval(a), nebylo dostupné v míste mého bydlište nebo jeho okolí
+Poradník byl príliš dlouhý
+Nebyl dostupný žádný volný termín 
+Jiné (VYPIŠTE)
+
+E16
+{QUESTION}
+Bylo to, protože…
+
+{ANSWERS}
+…se vám podarilo získat zdravotnickou konzultaci nebo ošetrení, které jste potreboval(a),
+nebo jste žádnou lékarskou konzultaci nebo ošetrení v posledních 12 mesících nepotreboval(a)?
+
+E17
+{QUESTION}
+Venujete nejaký cas tomu, že se staráte nebo pomáháte rodinným príslušníkum, prátelum, sousedum nebo jiným lidem z duvodu uvedených na této karte? Nepocítejte nic, co deláte v rámci vašeho placeného zamestnání.
+
+{ANSWERS}
+Ano
+Ne
+
+E18
+{QUESTION}
+Kolik hodin týdne touto cinností bežne trávíte? Použijte prosím tuto kartu.
+
+{ANSWERS}
+až 10 hodin týdne 
+11 až 20 hodin týdne
+21 až 30 hodin týdne
+31 až 40 hodin týdne
+41 až 50 hodin týdne
+Více než 50 hodin týdne
+
+E19
+{QUESTION}
+Jaká z ošetrení uvedených na této karte jste v zájmu vašeho zdraví využil(a) v posledních 12 mesících, tedy od listopadu 2013?
+
+{ANSWERS}
+Akupunktura 
+Akupresura 
+Tradicní cínská medicína
+Chiropraxe 
+Osteopatie 
+Homeopatie 
+Bylinná lécba
+Hypnoterapie 
+Masážní terapie
+Fyzioterapie 
+Reflexologie 
+Duchovní lécba
+
+E20
+{INTRO}
+Nyní prectu nahlas seznam zpusobu, jak jste se mohl(a) cítit nebo chovat behem uplynulého týdne.
+
+{QUESTION}
+S použitím této karty prosím reknete, kolikrát behem posledního týdne…
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E21
+{QUESTION}
+jste cítil(a), že všechno deláte s vypetím sil
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E22
+{QUESTION}
+jste spal(a) neklidne
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E23
+{QUESTION}
+jste byl(a) štastná(ý)
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E24
+{QUESTION}
+jste se cítil(a) osamele
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E25
+{QUESTION}
+jste si užíval(a) života
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E26
+{QUESTION}
+jste se cítil(a) smutný(á)
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E27
+{QUESTION}
+jste pocitoval(a) nedostatek elánu
+
+{ANSWERS}
+Vubec nebo témer vubec
+Menšinu casu
+Vetšinu casu
+Stále nebo témer stále
+
+E28
+{QUESTION}
+Které z techto zdravotních problému jste mel(a) v posledních 12 mesících, to je od listopadu 2013? Jen mi reknete písmena, která se vás týkají.
+
+{ANSWERS}
+Z Srdeční či oběhové potíže 
+F Vysoký krevní tlak 
+T Problémy s dýcháním, jako jsou astmatické záchvaty, sípavé nebo pískavé dýchání. 
+K Alergie 
+H Bolesti zad nebo krční páteře
+Y Bolest svalů nebo kloubů na rukách nebo pažích 
+Q Bolest svalů nebo kloubů na nohou nebo na chodidlech 
+E Problémy týkající se žaludku nebo trávení  
+L Problémy týkající se stavu pokožky
+B Silné bolesti hlavy 
+M Diabetes 
+
+E29
+{QUESTION}
+A které ze zdravotních problému, které jste v posledních 12 mesících mel(a), vás jakýmkoli zpusobem omezily ve vašich každodenních cinnostech? Opet mi reknete jen písmena, která se vás týkají.
+
+{ANSWERS}
+Z Srdeční či oběhové potíže 
+F Vysoký krevní tlak 
+T Problémy s dýcháním, jako jsou astmatické záchvaty, sípavé nebo pískavé dýchání. 
+K Alergie 
+H Bolesti zad nebo krční páteře
+Y Bolest svalů nebo kloubů na rukách nebo pažích 
+Q Bolest svalů nebo kloubů na nohou nebo na chodidlech 
+E Problémy týkající se žaludku nebo trávení  
+L Problémy týkající se stavu pokožky
+B Silné bolesti hlavy 
+M Diabetes 
+
+E30
+{QUESTION}
+Máte nebo mel(a) jste nekdy nekterý ze zdravotních problému uvedených na této karte? POKUD ANO, tak v soucasnosti, nebo dríve?
+
+{ANSWERS}
+Ano, v soucasnosti
+Ano, dríve
+Ne, nikdy
+
+E31
+{QUESTION}
+S použitím této karty mi prosím reknete, jak casto se v dobe, kdy jste vyrustal(a), odehrávaly mezi cleny vaší domácnosti vážné konflikty.
+
+{ANSWERS}
+Stále 
+Casto 
+Nekdy 
+Témer nikdy
+Nikdy
+
+E32
+{QUESTION}
+S použitím stejné karty mi prosím reknete, jak casto jste vy a vaše rodina pocitovali vážné financní potíže v dobe, kdy jste vyrustal(a).
+
+{ANSWERS}
+Stále 
+Casto 
+Nekdy 
+Témer nikdy
+Nikdy
+ 
