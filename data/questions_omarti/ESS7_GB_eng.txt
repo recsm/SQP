@@ -757,7 +757,7 @@ Hardly ever
 Never 
 
 F15a
-{INOTR}
+{INTRO}
 I am now going to show you two cards showing some different examinations or qualifications. 
 
 {QUESTION}
@@ -826,7 +826,7 @@ Edexcel/BTEC First Certificate or First/General Diploma
 None of these [U9]
 
 F44a
-{INOTR}
+{INTRO}
 I am now going to show you two cards showing some different examinations or qualifications.
 
 {QUESTION}
