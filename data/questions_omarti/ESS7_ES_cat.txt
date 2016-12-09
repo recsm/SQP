@@ -477,7 +477,8 @@ Hauria de permetre que n’hi vinguin uns quants
 Hauria de permetre que n’hi vinguin uns pocs
 No hauria de permetre que n’hi vingui cap
 
-D28{QUESTION}
+D28
+{QUESTION}
 ...gitanos d'altres països vinguin a viure a Espanya?
 
 {ANSWERS}
@@ -858,7 +859,6 @@ E29
 {QUESTION}
 I quins dels problemes de salut que vostè ha tingut en els últims 12 mesos li han dificultat, d'alguna manera, el desenvolupament de les seves activitats diàries? Com a la pregunta anterior, només digui'm quines lletres corresponen al seu cas.
 
-{ANSWERS}
 {ANSWERS}
 Z Problema del cor o de la circulació 
 F Pressió alta / Hipertensió 
