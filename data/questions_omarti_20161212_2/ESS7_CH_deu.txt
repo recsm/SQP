@@ -776,4 +776,3 @@ Gerichtlich getrennt (aber noch verheiratet/ in eingetragener Partnerschaft)
 Geschieden, aufgelöste Partnerschaft
 Verwitwet, eingetragene/r Partner/in gestorben
 Ledig, NIE verheiratet und NIE in eingetragener Partnerschaft
-

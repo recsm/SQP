@@ -181,8 +181,6 @@ Out of every 100 people living in Great Britain, how many do you think were born
 {ANSWERS}
 
 D17b
-{INTRO}
-
 {QUESTION}
 Compared to people like yourself who were born in Great Britain, how do you think the government treats those who have recently come to live here from other countries? Please use this card. 
 
@@ -407,6 +405,29 @@ Once a week
 Once a month 
 Less than once a month 
 Never 
+
+E7
+{INTRO}
+Please think about the last time you were drinking alcohol on a Monday, a Tuesday, a Wednesday or a Thursday
+
+{QUESTION}
+How many of each of the following drinks did you have on that day? Use this card to guide your answer.
+ 
+{ANSWERS}
+Pints of NORMAL STRENGTH beer, lager or cider
+Cans or bottles of NORMAL STRENGTH beer, lager or cider (4400ml)
+Pints of STRONG beer, lager or cider
+Cans or bottles of STRONG beer, lager or cider (440ml)
+Large glasses of wine (250ml)
+Small glasses of wine (175ml) or glasses of sparkling wine
+Bottles of wine (750ml)
+Glasses of sherry/port
+Single measures of spirits or shots
+Double measures of spirits
+Cocktails
+Alcopops
+Half a bottle of wine
+Half a bottle of spirits – 15 single shots
 
 E8
 {INTRO}
@@ -930,4 +951,3 @@ and have you passed any of the examinations on this card? Please choose the sect
 GNVQ/SNVQ Advanced Edexcel/BTEC/BEC/TEC (General/Ordinary) National Certificate or Diploma (ONC/OND)
 10.(Modern) Apprenticeship, Advanced (Modern) Apprenticeship SVQ/NVQ/Key Skills Level 1 and 2 City and Guilds Craft/Intermediate/Advanced (Levels 1 to 3/Parts I - III) RSA/OCR Vocational or First Certificate/Diploma, Advanced Diploma Edexcel/BTEC First Certificate or First/General Diploma
 11. None of these
-

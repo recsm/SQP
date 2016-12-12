@@ -433,8 +433,6 @@ Kuinka monta savuketta poltatte tavallisena päivänä?
 {ANSWERS}
 
 E6
-{INTRO}
-
 {QUESTION}
 Kuinka usein olette nauttinut alkoholijuomia kahdentoista viime kuukauden aikana, eli [KUUKAUSI, VUOSI] jälkeen? Alkoholijuoma voi tarkoittaa viiniä, olutta, siideriä, lonkeroa, väkeviä tai muita alkoholipitoisia juomia. Valitkaa vastauksenne kortilta 45.
 

@@ -87,7 +87,6 @@ B1f
 {QUESTION}
 Using this card, how easy do you personall find it to take part in politics?
 
- 
 {ANSWERS}
 0 Not at all easy
 1
@@ -711,8 +710,6 @@ There were no appointments available
 Other 
 
 E16
-{INTRO}
-
 {QUESTION}
 Was that because..
 

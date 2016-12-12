@@ -251,7 +251,6 @@ Wie gut oder schlecht ist es für ein Land ein Gesetz gegen die Diskriminierung 
 9
 10 äußerst gut
 
-
 D15
 {INTRO}
 Manche Menschen kommen in dieses Land und suchen um Asyl an, weil Sie in ihrem eigenen Land Verfolgung fürchten. 
@@ -453,102 +452,6 @@ und hier zu leben
 es einigen erlauben
 es wenigen erlauben
 es keinem erlauben
-
-F15
-{QUESTION}
-Was ist der höchste Bildungsgrad, den Sie erreicht haben? Bitte verwenden Sie diese Karte.
-
-{ANSWERS}
-kein Abschluss
-Volksschulabschluss (4. Schulstufe)
-Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
-Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
-Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
-Lehrabschluss (Lehrabschlussprüfung)
-Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
-AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
-Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
-BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
-Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
-Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
-Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
-Bachelor/Bakkalaureat-Abschluss an einer Universität
-Diplomstudienabschluss/Master an einer Fachhochschule
-Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
-Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
-Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
-
-F44
-{QUESTION}
-Was ist der höchste Bildungsgrad, den Ihr Ehemann/Ihre Ehefrau/Ihr Partner/Ihre Partnerin erreicht hat? Bitte verwenden Sie diese Karte.
-
-{ANSWERS}
-kein Abschluss
-Volksschulabschluss (4. Schulstufe)
-Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
-Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
-Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
-Lehrabschluss (Lehrabschlussprüfung)
-Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
-AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
-Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
-BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
-Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
-Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
-Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
-Bachelor/Bakkalaureat-Abschluss an einer Universität
-Diplomstudienabschluss/Master an einer Fachhochschule
-Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
-Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
-Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
-
-F52
-{QUESTION}
-Was ist der höchste Bildungsgrad, den Ihr Vater erreicht hat?
-
-{ANSWERS}
-kein Abschluss
-Volksschulabschluss (4. Schulstufe)
-Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
-Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
-Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
-Lehrabschluss (Lehrabschlussprüfung)
-Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
-AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
-Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
-BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
-Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
-Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
-Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
-Bachelor/Bakkalaureat-Abschluss an einer Universität
-Diplomstudienabschluss/Master an einer Fachhochschule
-Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
-Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
-Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
-
-F56
-{QUESTION}
-Was ist der höchste Bildungsgrad, den Ihre Mutter erreicht hat? Bitte verwenden Sie diese Karte.
-
-{ANSWERS}
-kein Abschluss
-Volksschulabschluss (4. Schulstufe)
-Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
-Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
-Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
-Lehrabschluss (Lehrabschlussprüfung)
-Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
-AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
-Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
-BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
-Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
-Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
-Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
-Bachelor/Bakkalaureat-Abschluss an einer Universität
-Diplomstudienabschluss/Master an einer Fachhochschule
-Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
-Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
-Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
 
 E1
 {QUESTION}
@@ -922,3 +825,99 @@ oft
 manchma
 fast nie
 nie
+
+F15
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Sie erreicht haben? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+kein Abschluss
+Volksschulabschluss (4. Schulstufe)
+Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
+Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
+Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+Lehrabschluss (Lehrabschlussprüfung)
+Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
+AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
+Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
+BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
+Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+Bachelor/Bakkalaureat-Abschluss an einer Universität
+Diplomstudienabschluss/Master an einer Fachhochschule
+Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
+Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
+Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
+
+F44
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihr Ehemann/Ihre Ehefrau/Ihr Partner/Ihre Partnerin erreicht hat? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+kein Abschluss
+Volksschulabschluss (4. Schulstufe)
+Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
+Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
+Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+Lehrabschluss (Lehrabschlussprüfung)
+Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
+AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
+Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
+BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
+Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+Bachelor/Bakkalaureat-Abschluss an einer Universität
+Diplomstudienabschluss/Master an einer Fachhochschule
+Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
+Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
+Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
+
+F52
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihr Vater erreicht hat?
+
+{ANSWERS}
+kein Abschluss
+Volksschulabschluss (4. Schulstufe)
+Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
+Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
+Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+Lehrabschluss (Lehrabschlussprüfung)
+Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
+AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
+Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
+BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
+Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+Bachelor/Bakkalaureat-Abschluss an einer Universität
+Diplomstudienabschluss/Master an einer Fachhochschule
+Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
+Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
+Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 
+
+F56
+{QUESTION}
+Was ist der höchste Bildungsgrad, den Ihre Mutter erreicht hat? Bitte verwenden Sie diese Karte.
+
+{ANSWERS}
+kein Abschluss
+Volksschulabschluss (4. Schulstufe)
+Abschluss einer Hauptschule, Neuen Mittelschule oder Volksschuloberstufe (8. Schulstufe)
+Abschluss der Polytechnischen Schule bzw. einer einjährigen mittleren Schule (9. Schulstufe)
+Abschluss der AHS-Unterstufe (8. Schulstufe an einem Gymnasium)
+Lehrabschluss (Lehrabschlussprüfung)
+Abschluss Berufsbildende mittlere Schule (min. 2-jährige, z.B. Handelsschule, Fachschule)
+AHS-Matura (Gymnasium, inkl. Sonderform oder Studienberechtigungsprüfung)
+Diplom in Gesundheits- und Krankenpflege oder im medizinisch-technischen Fachdienst
+BHS-Matura (HAK, HTL, HLW, BAKIP, inkl. Sonderformen und Berufsreifeprüfung)
+Kolleg-Diplom, Meister-Prüfung (Werkmeister, Bauhandwerker), Abschluss eines Universitätslehrgangs
+Diplom an pädagogischer Akademie, medizinischer Akademie, Sozialakademie
+Bachelor/Bakkalaureat an einer Fachhochschule oder pädagogischen Hochschule
+Bachelor/Bakkalaureat-Abschluss an einer Universität
+Diplomstudienabschluss/Master an einer Fachhochschule
+Diplomstudienabschluss/Master an einer Universität (inkl. Doktorat als Erstabschluss)
+Postgraduale Universitätslehrgänge (aufbauend auf Diplomstudienabschluss, z.B. MBA)
+Abschluss mit Doktorat (aufbauend auf Diplomstudienabschluss: Dr., PhD) 

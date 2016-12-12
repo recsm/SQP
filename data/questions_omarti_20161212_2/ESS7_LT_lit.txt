@@ -166,6 +166,7 @@ Labai nepritariu
 D14
 {QUESTION}
 Kiek gerai ar blogai yra tai, kad šalis turi įstatymą, kuris draudžia rasinę ar etninę diskriminaciją darbo vietoje?Atsakydami naudokitės šia kortele.
+
 {ANSWERS}
 0 Ypatingai blogai
 1
@@ -748,5 +749,4 @@ Visą laiką
 Dažnai 
 Kartais 
 Beveik niekada
-Niekada
- 
+Niekada 

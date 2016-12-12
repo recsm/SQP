@@ -6,7 +6,8 @@ Menschen aus anderen Ländern kommen aus ganz verschiedenen Gründen nach Deutsc
 Wie wichtig sollten für diese Entscheidung - Ihrer Meinung nach - die folgenden Dinge sein. Bitte benutzen Sie Liste 27. ...eine gute Schul- und Berufsausbildung hat?
 
 {ANSWERS}
-0 Äußerst unwichtig1
+0 Äußerst unwichtig
+1
 2
 3
 4
@@ -22,7 +23,8 @@ D3
 ...eine christliche Herkunft hat?
 
 {ANSWERS}
-0 Äußerst unwichtig1
+0 Äußerst unwichtig
+1
 2
 3
 4
@@ -38,7 +40,8 @@ D5
 ...berufliche Fähigkeiten hat, die man in Deutschland braucht?
 
 {ANSWERS}
-0 Äußerst unwichtig1
+0 Äußerst unwichtig
+1
 2
 3
 4
@@ -74,7 +77,8 @@ Die meisten Zuwanderer, die hierher kommen, arbeiten und zahlen Steuern. Sie neh
 Wenn Sie abwägen, denken Sie, dass Zuwanderer mehr bekommen als sie geben, oder mehr geben, als sie bekommen? Bitte benutzen Sie Liste 29.
 
 {ANSWERS}
-0 Im Allgemeinen bekommen sie mehr1
+0 Im Allgemeinen bekommen sie mehr
+1
 2
 3
 4
@@ -348,8 +352,6 @@ ein paar wenigen erlauben
 niemandem erlauben
 
 D31
-{INTRO}
-
 {QUESTION}
 Was meinen Sie: Wie vielen hoch qualifizierten Fachkräften aus der Türkei sollte Deutschland die Zuwanderung erlauben, um hier zu leben? Bitte benutzen Sie wieder die gleiche Liste 42. Sollte Deutschland es...
 

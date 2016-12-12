@@ -153,8 +153,6 @@ Olyan környék, ahol néhányan más faji vagy etnikai csoportba tartoznak, min
 Olyan környék, ahol sokan tartoznak más faji vagy etnikai csoportba, mint a Magyarországon élők többsége 
 
 D13
-{INTRO}
-
 {QUESTION}
 A kártyalap segítségével kérem, mondja meg, mennyire ért egyet a következő állítással: "jobb egy országnak, ha majdnem mindenki ugyanazokat a szokásokat és hagyományokat követi.”
 
@@ -248,9 +246,9 @@ Soha
 Ritkábban, mint havonta egyszer
 Havonta egyszer
 Havonta többször is
- Hetente egyszer
+Hetente egyszer
 Hetente többször
- Minden nap
+Minden nap
 
 D21
 {QUESTION}
@@ -314,7 +312,6 @@ Most olyan külföldiekkel kapcsolatban fogok kérdéseket feltenni, akik esetle
 {QUESTION}
 A kártya segítségével kérem, mondja meg, véleménye szerint milyen mértékben kéne Magyarországnak megengednie, hogy…külföldről származó zsidó emberek Magyarországr a jöjjenek élni?
 
-
 {ANSWERS}
 sokuknak meg kellene engedni, hogy Magyarországra jöjjenek élni
 jó néhányuknak meg kellene engedni
@@ -332,8 +329,6 @@ keveseknek kellene megengedni
 senkinek nem kellene megengedni hogy Magyarországra jöjjenek élni. 
 
 D28
-{INTRO}
-
 {QUESTION}
 ...külföldről származó cigányok Magyarországr a jöjjenek élni?
 
@@ -404,6 +399,7 @@ E2
 {QUESTION}
 Ugyanennek a kártyalapnak a segítségével kérem, mondja meg, milyen gyakran eszik zöldséget vagy salátát? A burgonyát ne számolja bele
 
+{ANSWERS}
 Naponta háromszor vagy többször
 Naponta kétszer
 Naponta egyszer
@@ -810,4 +806,3 @@ Főiskolai diploma
 Egyetemi diploma
 Posztgraduális végzettség
 Felsőfokú végzettség, tudományos fokozattal 
-

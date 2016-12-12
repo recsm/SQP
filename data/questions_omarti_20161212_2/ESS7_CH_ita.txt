@@ -675,8 +675,6 @@ Quant'è alto/a di statura (senza scarpe)?
 {ANSWERS}
 
 E12
-{INTRO}
-
 {QUESTION}
 Quanto pesa (senza scarpe)?
 
@@ -773,6 +771,7 @@ Sempre o quasi sempre
 E21
 {QUESTION}
 ...le è sembrato che tutto ciò che faceva costituisse un grande sforzo?
+
 {ANSWERS}
 Mai o quasi mai
 Qualche volta
@@ -903,6 +902,31 @@ Spesso
 Qualche volta
 Quasi mai
 Mai 
+
+F6
+{QUESTION}
+Mi ha appena detto che vive con suo marito / sua moglie / il suo partner. Quale descrizione su questa scheda illustra la sua relazione con lui/lei?
+
+{ANSWERS}
+Sposato/a
+Unione domestica registrata (federale, tra persone dello stesso sesso)
+Abito con partner – senza riconoscimento legale
+Abito con partner – con contratto di concubinato cantonale
+Separato/a legalmente
+Divorziato/a, unione domestica sciolta
+
+F11
+{QUESTION}
+Questa domanda si riferisce alla sua condizione giuridica di stato civile e non a con chi possa o non possa abitare al momento. Quale delle descrizioni in questa scheda illustra la sua attuale condizione giuridica di stato civile?
+
+{ANSWERS}
+Sposato/a
+Unione domestica registrata (federale, tra persone dello stesso sesso)
+Separato/a legalmente (ma ancora sposato/a,
+vincolato/a da un'unione domestica registrata)
+Divorziato/a, unione domestica sciolta
+Vedovo/a, partner registrato/a deceduto/a
+Celibe/nubile, MAI sposato/a e mai vincolato/a da un’unione domestica registrata
 
 IF1
 {INTRO}
@@ -1167,28 +1191,3 @@ Non tanto facile
 Abbastanza facile
 Molto facile
 Estremamente facile
-
-F6
-{QUESTION}
-Mi ha appena detto che vive con suo marito / sua moglie / il suo partner. Quale descrizione su questa scheda illustra la sua relazione con lui/lei?
-
-{ANSWERS}
-Sposato/a
-Unione domestica registrata (federale, tra persone dello stesso sesso)
-Abito con partner – senza riconoscimento legale
-Abito con partner – con contratto di concubinato cantonale
-Separato/a legalmente
-Divorziato/a, unione domestica sciolta
-
-F11
-{QUESTION}
-Questa domanda si riferisce alla sua condizione giuridica di stato civile e non a con chi possa o non possa abitare al momento. Quale delle descrizioni in questa scheda illustra la sua attuale condizione giuridica di stato civile?
-
-{ANSWERS}
-Sposato/a
-Unione domestica registrata (federale, tra persone dello stesso sesso)
-Separato/a legalmente (ma ancora sposato/a,
-vincolato/a da un'unione domestica registrata)
-Divorziato/a, unione domestica sciolta
-Vedovo/a, partner registrato/a deceduto/a
-Celibe/nubile, MAI sposato/a e mai vincolato/a da un’unione domestica registrata

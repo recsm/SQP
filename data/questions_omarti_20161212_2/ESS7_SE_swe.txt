@@ -693,8 +693,6 @@ B Allvarlig huvudvärk
 M Diabetes
 
 E29
-{INTRO}
-
 {QUESTION}
 Och vilket eller vilka av de hälsoproblem du hade eller upplevde att du hade under de senaste 12 månaderna hindrade dig i dina dagliga aktiviteter på något sätt?
 
@@ -711,8 +709,6 @@ B Allvarlig huvudvärk
 M Diabetes
 
 E30
-{INTRO}
-
 {QUESTION}
 Har du för närvarande eller har du någon gång tidigare haft något av de hälsoproblem som finns angivna på det här kortet?
 
@@ -722,8 +718,6 @@ Ja, tidigare
 Nej, aldrig
 
 E31
-{INTRO}
-
 {QUESTION}
 Använd det här kortet och tala om hur ofta du och din familj hade stora ekonomiska problem när du växte upp?
 
@@ -732,5 +726,4 @@ Alltid
 Ofta
 Ibland
 Nästan aldrig
-Aldrig
- 
+Aldrig 

@@ -762,5 +762,4 @@ Cały czas
 Często
 Czasami
 Prawie nigdy
-Nigdy
- 
+Nigdy 

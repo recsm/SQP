@@ -469,7 +469,7 @@ No hauria de permetre que n’hi vingui cap
 
 D27
 {QUESTION}
-...musulmans d'altres països vinguin a viure a Espanya?
+…musulmans d'altres països vinguin a viure a Espanya?
 
 {ANSWERS}
 Hauria de permetre que molts vinguin a viure aquí
@@ -679,8 +679,6 @@ Quin és el seu pes sense sabates?
 {ANSWERS}
 
 E13
-{INTRO}
-
 {QUESTION}
 En els últims 12 mesos, és a dir des de [mes, any], amb quins dels professionals de la salut que apareixen en aquesta targeta ha tractat temes relacionats amb la seva salut?
 
@@ -873,7 +871,6 @@ B Forts mals de cap
 M Diabetis 
 
 E30
-
 {QUESTION}
 Té o ha tingut mai algun dels problemes de salut que apareixen en aquesta targeta?
 
@@ -895,8 +892,7 @@ Mai
 
 E32
 {QUESTION}
-Utilitzant la mateixa
-targeta, digui'm si us plau amb quina freqüència vostè i la seva família van tenir dificultats econòmiques greus durant la seva infància o adolescència.
+Utilitzant la mateixa targeta, digui'm si us plau amb quina freqüència vostè i la seva família van tenir dificultats econòmiques greus durant la seva infància o adolescència.
 
 {ANSWERS}
 Sempre 
@@ -943,8 +939,8 @@ Estudis superiors/ Universitaris
 51. Peritatge, Infermeria, Magisteri, Assistent Social
 52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
 53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
-54. Doctorat
-Altres 
+54. Doctorat 
+Altres
 55. Altres (especificar) 
 
 F44
@@ -986,7 +982,7 @@ Estudis superiors/ Universitaris
 52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
 53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
 54. Doctorat
-Altres 
+Altres
 55. Altres (especificar) 
   
 F52

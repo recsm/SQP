@@ -20,7 +20,7 @@ Selon vous, les points suivants sont-ils importants pour décider si une personn
 
 D3
 {QUESTION}
-…Avoir des origines chrétiennes ?
+…Avoir des origines chrétiennes?
 
 {ANSWERS}
 0 Pas du tout important
@@ -633,7 +633,7 @@ Tout le temps ou presque
 
 E23
 {QUESTION}
-…d’être heureux ?
+…d’être heureux?
 
 {ANSWERS}
 A aucun moment ou presque

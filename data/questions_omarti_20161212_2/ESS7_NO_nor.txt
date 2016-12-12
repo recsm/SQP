@@ -74,8 +74,7 @@ D8
 De fleste som bosetter seg i Norge arbeider og betaler skatt. De bruker også helsevesenet og velferdstjenester.
 
 {QUESTION}
-Når regnskapet gjøres
-opp, tror du at folk som bosetter seg får mer tilbake enn de selv bidrar med, eller bidrar de med mer enn de selv får tilbake? Bruk dette kortet.
+Når regnskapet gjøres opp, tror du at folk som bosetter seg får mer tilbake enn de selv bidrar med, eller bidrar de med mer enn de selv får tilbake? Bruk dette kortet.
 
 {ANSWERS}
 0 Får mer enn de bidrar med
@@ -745,5 +744,4 @@ Alltid
 Ofte
 Noen ganger
 Nesten aldri
-Aldri 
- 
+Aldri  
