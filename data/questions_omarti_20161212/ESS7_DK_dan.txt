@@ -176,7 +176,6 @@ D5
 …har de jobkvalifikationer, der er brug for i Danmark?
 
 {ANSWERS}
-{ANSWERS}
 0 Særdeles uvæsentligt
 1
 2
@@ -195,7 +194,6 @@ D6
 {QUESTION}
 …følger dansk levevis?
 
-{ANSWERS}
 {ANSWERS}
 0 Særdeles uvæsentligt
 1
@@ -489,7 +487,6 @@ D28
 …romaer fra andre lande at flytte til Danmark?
 
 {ANSWERS}
-{ANSWERS}
 Tillade mange at flytte hertil
 Tillade en del
 Tillade nogle få
@@ -499,7 +496,6 @@ D30
 {QUESTION}
 Kig på det samme kort og fortæl mig: I hvilket omfang mener du, Danmark bør tillade veluddannede arbejdstagere fra Polen at flytte til Danmark?
 
-{ANSWERS}
 {ANSWERS}
 Tillade mange at flytte hertil
 Tillade en del
@@ -520,7 +516,6 @@ D32
 {QUESTION}
 Kig på det samme kort og fortæl mig: I hvilket omfang mener du, Danmark bør tillade ufaglærte arbejdstagere fra Polen at flytte til Danmark?
 
-{ANSWERS}
 {ANSWERS}
 Tillade mange at flytte hertil
 Tillade en del
@@ -544,7 +539,7 @@ Nu kommer der nogle spørgsmål om et andet emne.
 {QUESTION}
 Kig på kort 43 og fortæl mig, hvor ofte du spiser frugt.Juice tæller ikke med.
 
-{zANSWERS}
+{ANSWERS}
 Tre gange om dagen eller mere
 To gange om dagen
 En gang om dagen
