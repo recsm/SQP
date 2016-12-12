@@ -1,0 +1,1033 @@
+﻿B1a 
+{QUESTION}
+I vilken grad anser Ni att det politiska systemet i Finland tillåter människor som Er att säga sin mening om vad regeringen gör? Använd kort 5.
+
+{ANSWERS}
+0 Inte als
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+B1b 
+{QUESTION}
+Hur kunnig anser Ni Er vara för att anta en aktiv roll i en grupp som är involverad i politiska frågor? Använd kort 6.
+
+{ANSWERS}
+0 Inte als kunnig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fullt kunnig
+
+B1c 
+{QUESTION}
+Och i vilken grad anser Ni att det politiska systemet i Finland tillåter människor som Er att påverka politiken? Använd kort 7.
+
+{ANSWERS}
+0 Inte als
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+B1d 
+{QUESTION}
+Ange med kort hur mycket Ni litar på Er förmåga att delta i politiken?
+
+{ANSWERS}
+0 Litar inte als
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Litar fullständigt
+
+B1e 
+{QUESTION}
+I vilken grad skulle Ni säga att politiker bryr sig om vad människor som Ni tycker? Använd detta kort 9.
+
+{ANSWERS}
+0 Inte als
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Altid
+
+B1f 
+{QUESTION}
+Ange med detta kort hur lätt Ni personligen anser det är att delta i politik?
+
+{ANSWERS}
+0 Inte als lätt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ytterst lätt
+
+D1 
+{INTRO}
+Människor från andra länder kommer för att bo i Finland av olika orsaker. Vissa har släktmässiga anknytningar. Andra kommer hit för att arbeta eller för att förenas med sina familjer. Andra kommer för att de lever under hot. De första frågorna handlar om detta.
+
+{QUESTION}
+Hur viktiga anser Ni att följande faktorer är då man bestämmer om någon som fötts, vuxit upp och nu lever i ett land utanför Finland skall få möjligheten att flytta hit och bosätta sig här. Hur viktigt bör det vara att...de har en god utbildning?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D2
+{QUESTION}
+...de talar finska eller svenska?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D3
+{QUESTION}
+...de är kristna?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D4
+{QUESTION}
+...de är vithyade?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D5
+{QUESTION}
+...de har yrkeskunskap som Finland behöver?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D6
+{QUESTION}
+...de tar till sig och accepterar den finländska livsstilen?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D7
+{QUESTION}
+Använd kort 28. Skulle Ni säga att invandrarna i allmänhet tar jobb från finländska arbetstagare eller att de i allmänhet skapar nya arbetstillfällen?
+
+{ANSWERS}
+0 Tar jobb 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Skapar nya arbetstillfällen
+
+D8
+{INTRO}
+De flesta invandrare söker sig till arbetsmarknaden och betalar skatt i Finland.
+
+{QUESTION}
+De använder också hälso- och socialvårdstjänster. Tror Ni att de får mer av samhället än vad de själva betalar?
+
+{ANSWERS}
+0 Får i allmänhet mer av samhället
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Betalar i allmänhet mer till samhället
+
+D9
+{QUESTION}
+Förvärras eller lindras Finlands problem med kriminalitet av att människor från andra länder flyttar till Finland? Använd kort 30.
+
+{ANSWERS}
+0 Problem med kriminalitet blir värre 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Problem med kriminalitet blir mindre
+
+D10
+{INTRO}
+Om vi tänker på människor som har flyttat till Finland från ett annat land och som är av en annan ras eller etnisk grupp som de flesta finländare.
+
+{QUESTION}
+Hur mycket skulle Ni motsätta Er, om någon av dem skulle: Utnämnas till Er chef?
+
+{ANSWERS}
+0 Jag skulle inte alls motsätta mig 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag skulle motsätta mig starkt
+
+D11
+{QUESTION}
+Gifta sig med en av Era nära släktingar?
+
+{ANSWERS}
+0 Jag skulle inte alls motsätta mig 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Jag skulle motsätta mig starkt
+
+D12
+{QUESTION}
+Använd nu kort 32 och beskriv det område där Ni för närvarande bor?
+
+{ANSWERS}
+Ett område där nästan ingen är av annan ras eller hör till en annan etnisk grupp 
+Ett område där några människor är av annan ras eller hör till en annan etnisk grupp 
+Ett område där många människor är av en annan ras eller hör till en annan etnisk grupp
+
+D13
+{QUESTION}
+Använd kort 33 och berätta om Ni är av samma eller av annan åsikt: Det är bra för ett land om nästan alla följer samma seder och traditioner?
+
+{ANSWERS}
+Helt av samma åsikt 
+Nästan av samma åsikt 
+Varken av samma eller annan åsikt 
+Nästan av annan åsikt 
+Helt av annan åsikt
+
+D14
+{QUESTION}
+Hur bra eller dåliga är det för ett land, vilket som helst, att ha en lag om etnisk diskriminering på arbetsplatser? Använd kort 34.
+
+{ANSWERS}
+0 Extremt dåligt 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt bra
+
+D15
+{INTRO}
+En del människor kommer till Finland och söker asylrätt hävdande att de är rädda för förföljelser i sitt eget land.
+
+{QUESTION}
+Använd kort 35 och och berätta om Ni är av samma eller annan åsikt med att: Myndigheterna bör vara generösa då de bedömer människors asylansökningar?
+
+{ANSWERS}
+Helt av samma åsikt 
+Nästan av samma åsikt 
+Varken av samma eller annan åsikt 
+Nästan av annan åsikt 
+Helt av annan åsikt
+
+D16
+{QUESTION}
+Av hundra människor som är bosatta i Finland, hur många tror Ni att är födda utanför Finland?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Hur uppfattar Ni att regeringen behandlar människor som nyligen anlänt till Finland för att bo här jämfört med Er som är födda i Finland?
+
+{ANSWERS}
+Mycket bättre 
+Något bättre 
+På samma sätt 
+Något sämre 
+Mycket sämre
+
+D18
+{QUESTION}
+Ange med hjälp av det här kortet 37 om Ni anser att religiösa övertygelser och ritualer i Finland undergrävs eller berikas av att människor flyttar till Finland från andra länder?
+
+{ANSWERS}
+0 Religiösa övertygelser och ritualer undergrävs 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Religiösa övertygelser och ritualer berikas
+
+D19
+{QUESTION}
+Har Ni nära vänner som är av en annan ras eller etnisk grupp än majoritetsbefolkningen i Finland? OM JA, är det flera eller bara några?
+
+{ANSWERS}
+Ja, flera 
+Ja, några 
+Inga
+
+D20
+{QUESTION}
+Hur ofta är Ni i kontakt med människor som är av en annan ras eller etnisk grupp än majoritetsbefolkningen i Finland då Ni befinner Er utanför hemmet? Detta kan vara i kollektivtrafiken, på gatan, i affärer eller i omgivningen där Ni bor.
+
+{ANSWERS}
+Aldrig 
+Mera sällan än en gång per månad 
+En gång per månad 
+Flera gånger per månad 
+En gång i veckan 
+Flera gånger i veckan 
+Varje dag
+
+D21
+{QUESTION}
+Hur bra eller dålig anser ni att denna kontakt generellt sett är?
+
+{ANSWERS}
+0 Mycket dålig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mycket bra
+
+D22
+{QUESTION}
+Hur nära står Finland Er?
+
+{ANSWERS}
+Mycket nära
+Nära 
+Inte så nära 
+Inte nära alls
+
+D23
+{INTRO}
+Människor har ofta olika åsikter i följande frågor.
+
+{QUESTION}
+Anser Ni att vissa raser eller etniska grupper föds som mindre intelligenta än andra?
+
+{ANSWERS}
+Ja
+Nej
+
+D24
+{QUESTION}
+Anser Ni att vissa raser eller etniska grupper föds som mera arbetsbenägna än andra?
+
+{ANSWERS}
+Ja 
+Nej
+
+D25
+{QUESTION}
+Med tanke på världen idag, anser Ni att vissa kulturer är mycket bättre än andra eller att alla kulturer är likvärdiga?
+
+{ANSWERS}
+Vissa kulturer är mycket bättre än andra 
+Alla kulturer är likvärdiga
+
+D26
+{INTRO}
+I det följande frågar jag om olika människogrupper som eventuellt flyttar från andra länder till Finland för att bosätta sig här. 
+
+{QUESTION}
+Ange med hjälp av det här kortet i vilken utsträckning Finland enligt Er åsikt bör tillåta att…judar från andra länder flyttar till Finland för att bosätta sig?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D27
+{QUESTION}
+…muslimer från andra länder flyttar till Finland för att bosätta sig?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D28
+{QUESTION}
+…romer från andra länder flyttar till Finland för att bosätta sig?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D30
+{QUESTION}
+Ange med hjälp av samma kort i vilken utsträckning Ni tycker att Finland ska tillåta högutbildad arbetskraft från Estland att komma och bo i Finland?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D31
+{QUESTION}
+Ange med hjälp av samma kort i vilken utsträckning Ni tycker att Finland ska tillåta högutbildad arbetskraft från Somalia att komma och bo i Finland?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D32
+{QUESTION}
+Ange med hjälp av samma kort i vilken utsträckning Ni tycker att Finland ska tillåta outbildad arbetskraft från Estland att komma och bo Finland?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+D33
+{QUESTION}
+Ange med hjälp av samma kort i vilken utsträckning Ni tycker att Finland ska tillåta outbildad arbetskraft från Estland att komma och bo Finland?
+
+{ANSWERS}
+Borde tillåta många
+Borde tillåta en del
+Borde endast tillåta några
+Borde inte tillåta alls
+
+E1
+{INTRO}
+Nu följer några frågor om ett annat tema.
+
+{QUESTION}
+Ange med hjälp av det här kortet 43 hur ofta Ni äter frukt eller bär. Att dricka juice räknas inte.
+
+{ANSWERS}
+Tre gånger per dag eller oftare 
+Två gånger per dag 
+En gång per dag 
+Mindre än en gång per dag men minst 4 gånger i veckan 
+Mindre än 4 gånger i veckan men minst en gång i veckan 
+Mindre än en gång i veckan 
+Aldrig
+
+E2
+{QUESTION}
+Ange med hjälp av samma kort hur ofta Ni äter grönsaker eller
+sallad. Potatis räknas inte.
+
+{ANSWERS}
+Tre gånger per dag eller oftare 
+Två gånger per dag 
+En gång per dag 
+Mindre än en gång per dag men minst 4 gånger i veckan 
+Mindre än 4 gånger i veckan men minst en gång i veckan 
+Mindre än en gång i veckan 
+Aldrig
+
+E3
+{QUESTION}
+Hur många av de senaste sju dagarna har Ni tagit en rask promenad, utövat sport eller annan fysisk aktivitet i minst 30 minuter?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Följande frågor handlar om rökning av cigaretter. Vilken av beskrivningarna på kort 44 beskriver bäst Era rökning av cigaretter?
+
+{QUESTION}
+Which of the descriptions on this card best describes your smoking behaviour?
+
+{ANSWERS}
+Jag röker dagligen 
+Jag röker, men inte dagligen 
+Jag röker inte, men rökte tidigare 
+Jag har bara rökt några få gånger 
+Jag har aldrig rökt
+
+E5
+{QUESTION}
+Hur många cigaretter röker Ni under en vanlig dag?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Hur ofta har Ni under de senaste 12 månaderna, dvs. efter [MÅNAD, ÅR], druckit alkoholhaltiga drycker? Detta kan vara vin, öl, cider, long drink, starksprit eller andra drycker som innehåller alkohol. Välj ett svar från kort 45.
+
+{ANSWERS}
+Dagligen 
+Flera gånger i veckan 
+En gång i veckan 
+2–3 gånger i månaden 
+En gång i månaden 
+Mindre än en gång i månaden
+
+E7
+{INTRO}
+Tänk på den senaste gången Ni drack alkohol en måndag, tisdag, onsdag eller torsdag.
+
+{QUESTION}
+Hur många portioner av följande drycker drack Ni på den dagen? Ange Ert svar med hjälp av kort 46.
+ 
+{ANSWERS}
+EN FLASKA ELLER BURK (0,33 l) MELLANÖL, SVAG CIDER ELLER SVAG LONG DRINK (ca 4,5 %)
+EN STOR (0,5 l) MELLANÖL, SVAG CIDER ELLER SVAG LONG DRINK (ca 4,5 %) 
+EN FLASKA ELLER BURK (0,33 l) A-ÖL, STARK CIDER ELLER STARK LONGDRINK (ca 5,5 %)
+EN STOR (0,5 l) A-ÖL, STARK CIDER ELLER STARK LONG DRINK (ca 5,5 %) 
+ETT GLAS (12 cl) RÖTT, VITT ELLER MOUSSERANDE VIN (12–14 %) 
+EN FLASKA (750 cl) RÖTT, VITT ELLER MOUSSERANDE VIN (12–14 %) 
+ETT GLAS (8 cl) STARKVIN(15–22 %) 
+ETT STANDARDGLAS (4 cl) STARKA ALKOHOLDRYCKER (över 22 %) 
+
+E8
+{INTRO}
+Tänk på den senaste gången Ni drack alkohol en fredag, lördag eller söndag.
+
+{QUESTION}
+Ange Ert svar fortfarande med hjälp av det kortet 46.
+
+{ANSWERS}
+EN FLASKA ELLER BURK (0,33 l) MELLANÖL, SVAG CIDER ELLER SVAG LONG DRINK (ca 4,5 %)
+EN STOR (0,5 l) MELLANÖL, SVAG CIDER ELLER SVAG LONG DRINK (ca 4,5 %) 
+EN FLASKA ELLER BURK (0,33 l) A-ÖL, STARK CIDER ELLER STARK LONGDRINK (ca 5,5 %)
+EN STOR (0,5 l) A-ÖL, STARK CIDER ELLER STARK LONG DRINK (ca 5,5 %) 
+ETT GLAS (12 cl) RÖTT, VITT ELLER MOUSSERANDE VIN (12–14 %) 
+EN FLASKA (750 cl) RÖTT, VITT ELLER MOUSSERANDE VIN (12–14 %) 
+ETT GLAS (8 cl) STARKVIN(15–22 %) 
+ETT STANDARDGLAS (4 cl) STARKA ALKOHOLDRYCKER (över 22 %) 
+
+E10a
+{INTRO}
+Kort 47a visar sex olika exempel på hur mycket alkohol en person kan dricka vid ett tillfälle.
+
+{QUESTION}
+Hur ofta har Ni druckit åtminstone denna mängd alkohol vid ett enda tillfälle under de senaste 12 månaderna? Var det…
+
+{ANSWERS}
+...dagligen eller nästan dagligen 
+en gång i veckan 
+en gång i månaden 
+mindre än en gång i månaden 
+eller aldrig?
+
+E10b
+{INTRO}
+Kort 47b visar sex olika exempel på hur mycket alkohol en person kan dricka vid ett tillfälle.
+
+{QUESTION}
+Hur ofta har Ni druckit åtminstone denna mängd alkohol vid ett enda tillfälle under de senaste 12 månaderna? Var det…
+
+{ANSWERS}
+...dagligen eller nästan dagligen 
+en gång i veckan 
+en gång i månaden 
+mindre än en gång i månaden 
+eller aldrig?
+
+E11
+{QUESTION}
+Hur lång är Ni? Uppskatta kroppslängden utan skor.
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Vad väger Ni? Uppskatta kroppsvikten utan skor.
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Med vilken yrkesmänniska inom hälsovården som nämns på detta kort 48 har Ni diskuterat Er hälsa under de senaste 12 månaderna, dvs. efter [MÅNAD, ÅR]?
+
+{ANSWERS}
+Allmänläkare 
+Specialläkare (inte tandläkare)
+
+E14
+{QUESTION}
+Har det hänt Er de senaste 12 månaderna, dvs. efter [MÅNAD, ÅR], att Ni inte har kunnat besöka en läkare eller fått den vård Ni behövt på grund av de orsaker som nämns på kortet 49?
+
+{ANSWERS}
+Ja
+Nej
+
+E15
+{QUESTION}
+Fortsättningsvis kort 49 Vilken av orsakerna som nämns på kortet förklarar varför Ni inte kunde besöka en läkare eller få vård?
+
+{ANSWERS}
+Jag hade inte råd 
+Jag kunde inte ta ledigt från jobbet 
+Jag hade andra åtaganden 
+Den vård Jag behövde fanns inte tillgänglig eller i närheten av Min bostadsort 
+Väntetiden var för lång 
+Det fanns inga lediga tider 
+Annan orsak (ANTECKNA VILKEN) 
+
+E16
+{QUESTION}
+Var det för att…
+
+{ANSWERS}
+...Ni kunde få den läkartid eller behandling Ni behövde, 
+eller för att Ni inte har behövt någon läkartid eller behandling under de senaste 12 månaderna?
+
+E17
+{QUESTION}
+Använder Ni tid för att ta hand om eller hjälpa familjemedlemmar, vänner, grannar eller andra av någon av de orsaker som nämns på kortet? Räkna inte med sådant som ingår i Ert avlönade arbete.
+
+{ANSWERS}
+Ja
+Nej
+
+E18
+{QUESTION}
+Hur många timmar använder Ni vanligen till detta? Använd kort 51.
+
+{ANSWERS}
+1–10 timmar per vecka 
+11–20 timmar per vecka 
+21–30 timmar per vecka 
+31–40 timmar per vecka 
+41–50 timmar per vecka 
+Mer än 50 timmar per vecka
+
+E19
+{QUESTION}
+Vilka av behandlingarna som nämns på kortet har Ni själv fått under de senaste 12 månaderna, dvs. efter [MÅNAD, ÅR]?
+
+{ANSWERS}
+Akupunktur 
+Akupressur 
+Traditionell kinesisk medicin 
+Kiropraktik 
+Osteopati 
+Homeopati 
+Örtbehandling 
+Hypnoterapi 
+Massage 
+Fysioterapi 
+Zonterapi 
+Spirituell healing
+
+E20
+{INTRO}
+Nu läser jag upp en lista över olika sätt Ni kan ha känt Er eller uppfört Er på. 
+
+{QUESTION}
+Hur ofta under den senaste veckan: Kände Ni Er deprimerad?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E21
+{QUESTION}
+Tyckte Ni att allt Ni gjorde krävde en ansträngning?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E22
+{QUESTION}
+Sov Ni oroligt?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E23
+{QUESTION}
+Var Ni lycklig?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E24
+{QUESTION}
+Kände Ni Er ensam?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E25
+{QUESTION}
+Njöt Ni av livet?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E26
+{QUESTION}
+Kände Ni Er ledsen?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E27
+{QUESTION}
+Kunde Ni inte komma igång?
+
+{ANSWERS}
+Ingen eller bara en liten del av tiden 
+En del av tiden 
+Största delen av tiden 
+Hela tiden eller nästan hela tiden
+
+E28
+{QUESTION}
+Vilka av de hälsoproblem som nämns på kortet har Ni haft under de senaste 12 månaderna, dvs. efter [MÅNAD, ÅR]? Ange bara de bokstäver för de alternativ som gäller Er.
+
+{ANSWERS}
+Z Hjärt- eller cirkulationsproblem  
+F Högt blodtryck 
+T Andningsproblem såsom astmaattacker, pipande eller rosslande andning K Allergien
+H Rygg- eller nacksmärta
+Y Muskel- eller ledsmärta i hand eller arm 
+Q Muskel- eller ledsmärta i fot eller ben
+E Problem i anslutning till magen eller matsmältningen
+L Problem i anslutning till hudbesvär
+B Svår huvudvärk
+M Diabetes
+
+E29
+{QUESTION}
+Vilka av de hälsoproblem som Ni haft under de senaste 12 månaderna har på något sätt begränsat Ert dagliga liv? Ange bara de bokstäver för de alternativ som gäller Er. 
+
+{ANSWERS}
+Z Hjärt- eller cirkulationsproblem  
+F Högt blodtryck 
+T Andningsproblem såsom astmaattacker, pipande eller rosslande andning K Allergien
+H Rygg- eller nacksmärta
+Y Muskel- eller ledsmärta i hand eller arm 
+Q Muskel- eller ledsmärta i fot eller ben
+E Problem i anslutning till magen eller matsmältningen
+L Problem i anslutning till hudbesvär
+B Svår huvudvärk
+M Diabetes
+
+E30
+{QUESTION}
+Har Ni eller har Ni någonsin haft något av de hälsoproblem som nämns på detta kort?
+
+{ANSWERS}
+Ja, just nu 
+Ja, tidigare 
+Nej, aldrig
+
+E31
+{QUESTION}
+Ange med hjälp av detta kort hur ofta det uppstod allvarliga gräl mellan personer som bodde i det hushåll där Ni växte upp?
+
+{ANSWERS}
+Alltid 
+Ofta 
+Ibland 
+Nästan aldrig 
+Aldrig 
+
+E32
+{QUESTION}
+Ange med samma kort 56 hur ofta Ni och Er familj upplevde allvarliga ekonomiska svårigheter under Er uppväxt?
+
+{ANSWERS}
+Alltid 
+Ofta 
+Ibland 
+Nästan aldrig 
+Aldrig 
+
+I1
+{INTRO}
+Människor från andra länder kommer för att bo i Finland av olika orsaker. Vissa har släktmässiga anknytningar. Andra kommer hit för att arbeta eller för att förenas med sina familjer. Andra kommer för att de lever under hot. De första frågorna handlar om detta.
+
+{QUESTION}
+Hur viktigt anser Ni det vara att en person kan tala finska eller svenska när det beslutas om någon som är född, uppvuxen och bor utanför Finland skall få möjligheten att flytta hit och bosätta sig här. Använd detta kort 79.
+
+{ANSWERS}
+0 Extremt oviktigt 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+I2
+{QUESTION}
+Och hur viktigt anser Ni det vara att en person är vithyad när det beslutas om någon som är född, uppvuxen och bor utanför Finland skall få möjligheten att flytta hit och bosätta sig här? Använd samma kort 79.
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+I3
+{QUESTION}
+Och sedan, hur viktigt anser Ni det vara att en person tar till sig och accepterar den finländska livsstilen när det beslutas om någon som är född, uppvuxen och bor utanför Finland skall få möjligheten att flytta hit och bosätta sig här? Använd samma kort 79.
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+I4 
+{QUESTION}
+I vilken grad anser Ni att det politiska systemet i Finland tillåter människor
+som Er att säga sin mening om vad myndigheterna gör. Använd detta kort 80.
+
+{ANSWERS}
+Inte alls
+Mycket lite
+Någorlunda
+Ganska mycket
+Mycket
+
+I5 
+{QUESTION}
+Och i vilken grad anser Ni att det politiska systemet i Finland tillåter människor som Er att påverka politiken? Använd samma kort 80.
+
+{ANSWERS}
+Inte alls
+Mycket lite
+Någorlunda
+Ganska mycket
+Mycket
+
+I6 
+{QUESTION}
+I vilken grad skulle Ni säga att politiker bryr sig om vad människor som Ni tycker? Använd samma kort 80.
+
+{ANSWERS}
+Inte alls
+Mycket lite
+Någorlunda
+Ganska mycket
+Mycket
+
+I7 
+{QUESTION}
+Hur kunnig anser Ni Er vara för att anta en aktiv roll i en grupp som är involverad i politiska frågor? Använd kort 81.
+
+{ANSWERS}
+0 Helt okunnig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fullt kunnig
+
+I8 
+{QUESTION}
+Och ange med kort 82 hur säker Ni är på Er förmåga att delta i politiken?
+
+{ANSWERS}
+0 Helt osäker
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Fullt säker
+
+I9 
+{QUESTION}
+Ange med kort 83 hur lätt Ni personligen anser det är att delta i politik?
+
+{ANSWERS}
+0 Extremt svårt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt lätt

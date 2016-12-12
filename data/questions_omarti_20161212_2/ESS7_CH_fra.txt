@@ -1,0 +1,1187 @@
+﻿B1a
+{QUESTION}
+Dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir leur mot à dire sur ce que fait le gouvernement? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tout à fait
+
+B1b
+{QUESTION}
+Dans quelle mesure vous sentez-vous capable de jouer un rôle actif dans un groupe qui s'implique dans des questions politiques ? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas du tout capable
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tout à fait capable
+
+B1c
+{QUESTION}
+Et dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir une influence sur la politique ? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tout à fait
+
+B1d
+{QUESTION}
+Et à l'aide de cette carte, dites-moi dans quelle mesure vous êtes confiant/e dans votre capacité de participer à la vie politique.
+
+{ANSWERS}
+0 Je ne suis pas du tout confiant/e
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je suis tout à fait confiant/e
+
+B1e
+{QUESTION}
+Dans quelle mesure diriez-vous que les responsables politiques se préoccupent de ce que les gens comme vous peuvent penser? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Pas du tout
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tout à fait
+
+B1f
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte dans quelle mesure vous-même vous trouvez facile de prendre part à la vie politique?
+
+{ANSWERS}
+0 Pas du tout facile
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement facile
+
+D1 
+{INTRO}
+Des gens d'autres pays viennent vivre en Suisse pour différentes raisons. Certains ont des ancêtres suisses. D'autres viennent pour travailler ou rejoindre leurs familles. D'autres encore viennent parce qu'ils sont menacés. Voici quelques questions à ce propos.
+
+{QUESTION}
+Des gens d'autres pays viennent vivre en Suisse pour différentes raisons. Certains ont des ancêtres suisses. D'autres viennent pour travailler ou rejoindre leurs familles. D'autres encore viennent parce qu'ils sont menacés. Voici quelques questions à ce propos. Quelle est l'importance de...avoir une bonne formation? 
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D2
+{QUESTION}
+Être capable de parler le français, l'allemand, le romanche ou l'italien?
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D3
+{QUESTION}
+Avoir des origines chrétiennes?
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D4
+{QUESTION}
+Être Blanc?
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D5
+{QUESTION}
+Avoir des qualifications professionnelles dont la Suisse a besoin?
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D6
+{QUESTION}
+Respecter et intégrer le mode de vie suisse?
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+D7
+{QUESTION}
+À l'aide de cette carte, diriez-vous que, en général, les gens qui viennent vivre ici prennent des emplois aux travailleurs suisses ou qu'ils aident à créer de nouveaux emplois ?
+
+{ANSWERS}
+0 Ils prennent des emplois 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ils créent de nouveaux emplois
+
+D8
+{INTRO}
+La plupart des gens qui viennent vivre ici travaillent et payent des impôts. Ils utilisent aussi des services sociaux et de santé.
+
+{QUESTION}
+Dans l'ensemble, estimez-vous que les gens qui viennent vivre ici profitent plus qu'ils n'apportent ou qu'ils apportent plus qu'ils ne profitent? Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Généralement, ils profitent davantage
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Généralement, ils apportent davantage
+
+D9
+{QUESTION}
+Est-ce que les problèmes de criminalité sont devenus pires ou se sont-ils améliorés en Suisse avec l'arrivée de gens d'autres pays venant vivre ici? Utilisez cette carte s'il vous plaît.
+
+{ANSWERS}
+0 Les problèmes de criminalité sont devenus pires 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Les problèmes de criminalité se sont améliorés
+
+D10
+{INTRO}
+Nous allons parler maintenant des gens d'autres pays qui viennent vivre en Suisse, et qui sont d'une autre origine ethnique que la plupart des Suisses.
+
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte si cela vous gênerait qu'une telle personne...devenait votre chef (au travail)?
+
+{ANSWERS}
+0 Cela ne vous gênerait pas du tout 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cela vous gênerait beaucoup
+
+D11
+{QUESTION}
+se mariait avec un de vos proches parents?
+
+{ANSWERS}
+0 Cela ne vous gênerait pas du tout 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Cela vous gênerait beaucoup
+
+D12
+{QUESTION}
+Et maintenant, à l'aide de cette carte, comment décririez-vous l'endroit où vous habitez actuellement?
+
+{ANSWERS}
+Un endroit où presque personne n’est d’une autre origine ethnique que la plupart des Suisses
+Où quelques personnes sont d’une autre origine ethnique que la plupart des Suisses
+Où beaucoup sont d’une autre origine ethnique que la plupart des Suisses
+
+D13
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte dans quelle mesure vous êtes d'accord ou non avec la proposition suivante : "Il est préférable pour un pays que presque tout le monde partage les mêmes coutumes et traditions."
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+D14
+{QUESTION}
+Dans quelle mesure trouvez-vous bon ou mauvais qu'un pays ait une loi contre la discrimination raciale ou ethnique sur le lieu de travail ? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Extrêmement mauvais 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement bon
+
+D15
+{INTRO}
+Des gens viennent en Suisse et demandent un statut de réfugié car ils se sentent persécutés dans leur propre pays.
+
+{QUESTION}
+À l'aide de cette carte, dites-moi s'il vous plaît dans quelle mesure vous êtes d'accord ou en désaccord avec la proposition suivante. "Le gouvernement devrait être généreux en traitant les demandes d'un statut de réfugié".
+
+{ANSWERS}
+Tout à fait d'accord
+Plutôt d'accord
+Ni d'accord, ni en désaccord
+Plutôt en désaccord
+Tout à fait en désaccord
+
+D16
+{QUESTION}
+Sur 100 personnes vivant en Suisse, combien d'après vous sont-elles nées hors de Suisse?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+En comparant avec des personnes nées en Suisse comme vous, comment pensez-vous que l'Etat traite les personnes venues récemment d'autres pays pour vivre ici ? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Beaucoup mieux
+Un peu mieux
+De la même façon
+Un peu moins bien
+Beaucoup moins bien
+
+D18
+{QUESTION}
+Pour vous, les croyances et les pratiques religieuses en Suisse sont-elles plutôt appauvries ou plutôt enrichies par les gens d'autres pays qui viennent vivre ici? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Les croyances et pratiques religieuses sont appauvries 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Les croyances et pratiques religieuses sont enrichies 
+
+D19
+{QUESTION}
+Avez-vous des amis proches qui sont d'une autre origine ethnique que la plupart des Suisses? 
+{ANSWERS}
+Oui, plusieurs
+Oui, quelques-uns
+Non, aucun
+
+D20
+{QUESTION}
+Quand vous êtes en dehors de chez vous, vous arrive-t-il d'avoir des contacts avec des personnes d'un groupe ethnique différent de la plupart des Suisses? Il peut s'agir de contacts dans les transports publics, dans la rue, dans les magasins ou dans votre quartier. Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Jamais
+Moins d’une fois par mois
+Une fois par mois
+Plusieurs fois par mois
+Une fois par semaine
+Plusieurs fois par semaine
+Chaque jour
+
+D21
+{QUESTION}
+Et à propos de ces contacts, sont-ils généralement bons ou mauvais? Veuillez utiliser cette carte pour répondre.
+
+{ANSWERS}
+0 Extrêmement mauvais
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement bons
+
+D22
+{QUESTION}
+Dans quelle mesure vous sentez-vous attaché/e à la Suisse? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Très attaché/e
+Attaché/e
+Pas très attaché/e
+Pas attaché/e du tout
+
+D23
+{INTRO}
+Les gens ont souvent des points de vue différents sur les sujets suivants:
+
+{QUESTION}
+Pensez-vous que certains groupes ethniques sont par nature moins intelligents que d'autres?
+
+{ANSWERS}
+Oui
+Non
+
+D24
+{QUESTION}
+Pensez-vous que certains groupes ethniques sont par nature plus travailleurs que d'autres?
+
+{ANSWERS}
+Oui
+Non
+
+D25
+{QUESTION}
+Dans le monde d'aujourd'hui, diriez-vous que certaines cultures sont bien meilleures que d'autres ou que toutes les cultures se valent? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Certaines cultures sont bien meilleures que d’autres
+Toutes les cultures se valent
+
+D26
+{INTRO}
+Je vais maintenant vous poser des questions sur différents groupes de personnes d'autres pays qui pourraient venir vivre en Suisse.
+
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte dans quelle mesure vous pensez que la Suisse devrait autoriser...des Juifs d'autres pays à venir vivre en Suisse?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D27
+{QUESTION}
+des Musulmans d'autres pays à venir vivre en Suisse?
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D28
+{QUESTION}
+des gens du voyage venant d'autres pays à venir vivre en Suisse?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D30
+{QUESTION}
+Veuillez m'indiquer maintenant à l'aide de la même carte dans quelle mesure vous pensez que la Suisse devrait autoriser des travailleurs hautement qualifiés du Portugal à venir vivre en Suiss?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D31
+{QUESTION}
+Veuillez m'indiquer à l'aide de la même carte dans quelle mesure vous pensez que la Suisse devrait autoriser des travailleurs hautement qualifiés de Turquie à venir vivre en Suisse?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D32
+{QUESTION}
+Veuillez m'indiquer à l'aide de la même carte dans quelle mesure vous pensez que la Suisse devrait autoriser des travailleurs non qualifiés du Portugal à venir vivre en Suisse?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+D33
+{QUESTION}
+Veuillez m'indiquer à l'aide de la même carte dans quelle mesure vous pensez que la Suisse devrait autoriser des travailleurs non qualifiés de Turquie à venir vivre en Suisse ?
+
+{ANSWERS}
+…doit autoriser un grand nombre d'entre eux à venir vivre ici
+…doit autoriser certains d'entre eux
+…ne doit autoriser que peu d'entre eux
+…ne doit autoriser aucun d'entre eux
+
+E1
+{INTRO}
+Quelques questions maintenant sur un autre sujet.
+
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte à quelle fréquence vous consommez des fruits, sans compter les jus de fruits.
+
+{ANSWERS}
+Trois fois par jour ou plus
+Deux fois par jour
+Une fois par jour
+Moins d’une fois par jour mais au moins quatre fois par semaine
+Moins de quatre fois par semaine mais au moins une fois par semaine
+Moins d’une fois par semaine
+Jamais
+
+E2
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte à quelle fréquence vous consommez des légumes ou de la salade, sans compter les pommes de terre.
+
+{ANSWERS}
+Trois fois par jour ou plus
+Deux fois par jour
+Une fois par jour
+Moins d’une fois par jour mais au moins quatre fois par semaine
+Moins de quatre fois par semaine mais au moins une fois par semaine
+Moins d’une fois par semaine
+Jamais
+
+E3
+{QUESTION}
+Lors des sept derniers jours, vous est-il arrivé de marcher d'un bon pas, de pratiquer un sport ou une autre activité physique pendant au moins 30 minutes, et si oui, combien de jours?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Parlons maintenant de la cigarette. 
+
+{QUESTION}
+Sur cette carte, qu'est-ce qui décrit au mieux vos habitudes de consommation ?
+
+{ANSWERS}
+Je fume tous les jours
+Je fume mais pas tous les jours
+Je ne fume plus actuellement mais j’ai
+fumé dans le passé
+Je n’ai fumé que quelquefois
+Je n’ai jamais fumé
+
+E5
+{QUESTION}
+Combien de cigarettes fumez-vous un jour ordinaire ?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Ces 12 derniers mois, c'est-à-dire depuis %t877 %t878, quelle a été votre consommation de boissons alcoolisées ?
+
+{ANSWERS}
+Tous les jours
+Plusieurs fois par semaine
+Une fois par semaine
+Deux à trois fois par mois
+Une fois par mois
+Moins d’une fois par mois
+Jamais
+
+E7
+{INTRO}
+Rappelez-vous la dernière fois que vous avez consommé de l'alcool un lundi, un mardi, un mercredi ou un jeudi.
+
+{QUESTION}
+Ce jour-là, combien avez-vous consommé de chacune des boissons suivantes? Veuillez utiliser cette carte pour répondre. 
+ 
+{ANSWERS}
+BIERE (3 dl)
+CHAMPAGNE /VIN MOUSSEUX
+CHOPE DE BIERE (5 dl)
+ALCOOL FORT, SHOT (Whisky, Kirsch, Grappa)
+APERITIF (Martini, Campari, Sherry, Porto, ...)
+DOUBLE DOSE
+D’ALCOOL FORT (Whisky, Kirsch, Grappa)
+LIQUEUR (Amaretto, Baileys ...)
+LONGDRINK COCKTAIL
+VERRE DE VIN BLANC OU ROUGE (1 dl)
+ALCOPOP
+BOUTEILLE DE VIN (750 ml)
+DIGESTIFS (Fernet, Chrüter, Appenzeller, Jägermeister ...)
+
+E8
+{INTRO}
+Rappelez-vous maintenant la dernière fois que vous avez consommé de l'alcool un vendredi, un samedi ou un dimanche.
+
+{QUESTION}
+Ce jour-là, combien avez-vous consommé de chacune des boissons suivantes?
+
+{ANSWERS}
+BIERE (3 dl)
+CHAMPAGNE /VIN MOUSSEUX
+CHOPE DE BIERE (5 dl)
+ALCOOL FORT, SHOT (Whisky, Kirsch, Grappa)
+APERITIF (Martini, Campari, Sherry, Porto, ...)
+DOUBLE DOSE
+D’ALCOOL FORT (Whisky, Kirsch, Grappa)
+LIQUEUR (Amaretto, Baileys ...)
+LONGDRINK COCKTAIL
+VERRE DE VIN BLANC OU ROUGE (1 dl)
+ALCOPOP
+BOUTEILLE DE VIN (750 ml)
+DIGESTIFS (Fernet, Chrüter, Appenzeller, Jägermeister ...)
+
+E10a
+{INTRO}
+Cette carte présente six exemples de quantité d'alcool qu'une personne pourrait consommer en une seule occasion.
+
+{QUESTION}
+Ces douze derniers mois, vous est-il arrivé de consommer au moins cette quantité d'alcool en une seule occasion? Cela vous est arrivé...
+
+{ANSWERS}
+...chaque jour ou presque,
+chaque semaine,
+chaque mois,
+moins d’une fois par mois,
+ou jamais ?
+
+E10b
+{INTRO}
+Cette carte présente six exemples de quantité d'alcool qu'une personne pourrait consommer en une seule occasion.
+
+{QUESTION}
+Ces douze derniers mois, vous est-il arrivé de consommer au moins cette quantité d'alcool en une seule occasion ? Cela vous est arrivé ...
+
+{ANSWERS}
+...chaque jour ou presque,
+chaque semaine,
+chaque mois,
+moins d’une fois par mois,
+ou jamais ?
+
+E11
+{QUESTION}
+Combien mesurez-vous (sans chaussures) ?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Combien pesez-vous (sans chaussures) ?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Au cours des 12 derniers mois, c'est-à-dire depuis [MOIS,AN], avez-vous discuté de votre santé avec une des personnes mentionnées sur cette carte?
+
+{ANSWERS}
+Médecin généraliste
+Médecin spécialiste (hors dentistes)
+
+E14
+{QUESTION}
+Au cours des 12 derniers mois, c'est-à-dire depuis [MOIS,AN], vous est-il arrivé de ne pas avoir une consultation médicale ou un traitement dont vous aviez besoin, pour l'une des raisons indiquées sur cette carte?
+
+{ANSWERS}
+oui
+Non
+
+E15
+{QUESTION}
+Parmi les raisons indiquées sur cette carte, lesquelles expliquent pourquoi vous n'avez pas eu cette consultation ou ce traitement?
+
+{ANSWERS}
+Je n’avais pas les moyens
+Je ne pouvais pas m’absenter du travail
+J’avais d’autres obligations
+Le traitement dont j’avais besoin n’était pas disponible près de chez moi
+La liste d’attente était trop longue
+Il n’y avait pas de rendez-vous disponible
+Autre
+
+E16
+{QUESTION}
+Etait-ce parce que ...
+
+{ANSWERS}
+... vous avez en fait obtenu toutes les consultations et tous les traitements médicaux nécessaires
+ou, vous n'avez pas eu besoin de consultation ou de traitement médicale au cours des 12 derniers mois?
+
+E17
+{QUESTION}
+Consacrez-vous du temps à prendre soin ou donner de l'aide aux membres de votre famille, amis, voisins ou à d'autres personnes pour l'une des raisons indiquées sur cette carte? Tenez compte uniquement de ce que vous faites en dehors de votre activité rémunérée.
+
+{ANSWERS}
+Oui
+Non
+
+E18
+{QUESTION}
+En général, combien d'heures par semaine y consacrez-vous? Veuillez utiliser cette carte.
+
+{ANSWERS}
+1-10 heures par semaine
+11-20 heures par semaine
+21-30 heures par semaine
+31-40 heures par semaine
+41-50 heures par semaine
+Plus de 50 heures par semaine
+
+E19
+{QUESTION}
+Au cours des 12 derniers mois, c'est-à-dire depuis [MOIS,AN], à quels types de soins indiqués sur cette carte avez-vous eu recours pour votre santé?
+
+{ANSWERS}
+Acupuncture
+Acupressure
+Médecine chinoise traditionnelle (MCT)
+Chiropratique
+Ostéopathie
+Homéopathie
+Phytothérapie/Traitement par les plantes
+Hypnothérapie
+Massage thérapeutique
+Physiothérapie
+Réflexologie
+Thérapies spirituelles
+
+E20
+{INTRO}
+Je vais maintenant vous lire une liste de sentiments et de sensations que vous avez pu éprouver la semaine dernière. 
+
+{QUESTION}
+En utilisant cette carte, veuillez m'indiquer s'il vous est arrivé parfois la semaine dernière...de vous sentir déprimé/e?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E21
+{QUESTION}
+...d'avoir l'impression que tout vous demandait un effort?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E22
+{QUESTION}
+...d'avoir un sommeil agité?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E23
+{QUESTION}
+...d'être heureux/se?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E24
+{QUESTION}
+...de vous sentir seul/e?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E25
+{QUESTION}
+...d'apprécier la vie?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E26
+{QUESTION}
+...de vous sentir triste?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E27
+{QUESTION}
+...de ne rien être capable de faire?
+
+{ANSWERS}
+A aucun moment ou presque
+De temps en temps
+La plupart du temps
+Tout le temps ou presque
+
+E28
+{QUESTION}
+Avez-vous eu l'un ou l'autre des problèmes de santé indiqués sur cette carte, au cours des 12 derniers mois, c'est-à-dire depuis [MOIS,AN]? Il suffit que vous m'indiquiez la ou les lettres correspondantes.
+
+{ANSWERS}
+Z Problèmes cardiaques ou troubles circulatoires
+F Hypertension artérielle
+T Problèmes respiratoires tels que crises d'asthme, respiration difficile, sifflante
+K Allergies
+H Maux de dos, douleurs de la nuque 
+Y Douleurs musculaires ou articulaires aux mains ou aux bras 
+Q Douleurs musculaires ou articulaires aux pieds ou aux jambes
+E Problèmes gastriques ou digestifs
+L Problèmes ou maladie de peau 
+B Forts maux de tête
+M Diabète
+
+E29
+{QUESTION}
+Et parmi les problèmes de santé que vous avez eu au cours des 12 derniers mois, lesquels vous ont limité d'une façon ou d'une autre dans vos activités quotidiennes? Ici encore, répondez simplement par une ou plusieurs lettres.
+
+{ANSWERS}
+Z Problèmes cardiaques ou troubles circulatoires
+F Hypertension artérielle
+T Problèmes respiratoires tels que crises d'asthme, respiration difficile, sifflante
+K Allergies
+H Maux de dos, douleurs de la nuque 
+Y Douleurs musculaires ou articulaires aux mains ou aux bras 
+Q Douleurs musculaires ou articulaires aux pieds ou aux jambes
+E Problèmes gastriques ou digestifs
+L Problèmes ou maladie de peau 
+B Forts maux de tête
+M Diabète
+
+E30
+{QUESTION}
+Souffrez-vous ou avez-vous déjà souffert de l'un ou l'autre des problèmes de santé indiqués sur cette carte?
+
+{ANSWERS}
+Oui, actuellement
+Oui, par le passé
+Non, jamais
+
+E31
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte s'il y avait de fortes tensions ou de violentes disputes entre les personnes de votre foyer dans votre enfance et jeunesse.
+
+{ANSWERS}
+Tout le temps
+Souvent
+Parfois
+Rarement
+Jamais
+
+E32
+{QUESTION}
+Veuillez m'indiquer, toujours avec la même carte, si vous et votre famille avez connu de gros problèmes d'argent dans votre enfance et jeunesse.
+
+{ANSWERS}
+Tout le temps
+Souvent
+Parfois
+Rarement
+Jamais
+
+F6
+{QUESTION}
+Vous venez juste de me dire que vous vivez avec votre mari/femme/partenaire. Parmi les situations suivantes, laquelle correspond le mieux à votre relation avec cette personne?
+
+{ANSWERS}
+Marié/e
+En partenariat enregistré (fédéral, entre deux personnes du même sexe)
+Habite avec un partenaire – sans enregistrement légal
+Habite avec partenaire – avec contrat de concubinage cantonal
+Séparé/e légalement
+Divorcé/e, partenariat enregistré dissout
+
+F11
+{QUESTION}
+Je vais maintenant vous demander quel est votre état civil officiel, indépendamment de votre situation de couple effective. Parmi les catégories énumérées sur cette carte, laquelle correspond à votre état civil officiel actuel?
+
+{ANSWERS}
+Marié/e
+En partenariat enregistré (fédéral, entre deux personnes du même sexe)
+Séparé/e légalement (mais encore marié/e, lié/e par un partenariat enregistré)
+Divorcé/e, partenariat enregistré dissout
+Veuf/ve, partenaire enregistré/e décédé/e
+Célibataire, JAMAIS marié/e ni lié/e par un partenariat enregistré
+
+IF1
+{INTRO}
+Des gens d'autres pays viennent vivre en Suisse pour différentes raisons. Certains ont des ancêtres suisses. D'autres viennent pour travailler ou rejoindre leurs familles. D'autres encore viennent parce qu'ils sont menacés. Voici quelques questions à ce propos.
+
+{QUESTION}
+Selon vous, dans quelle mesure il est important d'être capable de parler le français, l'allemand, le romanche ou l'italien pour décider si, une personne étant née, élevée et ayant vécu hors de Suisse, peut venir y vivre. Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+IF2
+{QUESTION}
+Selon vous, dans quelle mesure il est important pour quelqu'un d'être Blanc pour décider si, étant né, élevé et ayant vécu hors de Suisse, il peut venir y vivre. Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+IF3
+{QUESTION}
+Selon vous, dans quelle mesure il est important pour une personne de respecter et d'intégrer le mode de vie suisse pour décider si, étant née, élevée et ayant vécu hors de Suisse, elle peut venir y vivre. Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Très peu important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Très important
+
+IF4
+{QUESTION}
+Dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir leur mot à dire sur ce que fait le gouvernement? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Assez
+Beaucoup
+
+IF5
+{QUESTION}
+Et dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir une influence sur la politique? Veuillez utiliser la même carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Assez
+Beaucoup
+
+IF6
+{QUESTION}
+Dans quelle mesure diriez-vous que les responsables politiques se préoccupent de ce que les gens comme vous peuvent penser ? Veuillez utiliser la même carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Assez
+Beaucoup
+
+IF7
+{QUESTION}
+Dans quelle mesure vous sentez-vous capable de jouer un rôle actif dans un groupe qui s'occupe de questions politique? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+0 Tout à fait incapable
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tout à fait capable
+
+IF8
+{QUESTION}
+Et à l'aide de cette carte, dites-moi dans quelle mesure vous êtes confiant/e dans votre capacité de participer à la vie politique?
+
+{ANSWERS}
+0 Je ne suis pas du tout confiant/e
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Je suis tout à fait confiant/e
+
+IF9
+{QUESTION}
+Veuillez m'indiquer à l'aide de cette carte dans quelle mesure vous-même vous trouvez facile de prendre part à la vie politique?
+
+{ANSWERS}
+0 Extrêmement difficile
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement facile
+
+IF10
+{INTRO}
+Des gens d'autres pays viennent vivre en Suisse pour différentes raisons. Certains ont des ancêtres suisses. D'autres viennent pour travailler ou rejoindre leurs familles. D'autres encore viennent parce qu'ils sont menacés. Voici quelques questions à ce propos.
+
+{QUESTION}
+Selon vous, quelle importance ont les points suivants pour décider si, étant une personne née, élevée et ayant vécu hors de Suisse peut venir y vivre. Premièrement, dans quelle mesure il est important pour elle d'être capable de parler le français, l'allemand, le romanche ou l'italien? Veuillez utiliser cette carte.
+
+{ANSWERS}
+0 Pas du tout important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important
+
+IF11
+{QUESTION}
+Et dans quelle mesure il est important pour elle d'être Blanche pour décider si, étant une personne née, élevée et ayant vécu hors de Suisse, elle peut venir y vivre. Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Pas du tout important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important
+
+IF12
+{QUESTION}
+Et dans quelle mesure il est important pour elle de respecter et d'intégrer le mode de vie suisse pour décider si, étant une personne née, élevée et ayant vécu hors de Suisse, elle peut venir y vivre. Veuillez utiliser la même carte.
+
+{ANSWERS}
+0 Pas du tout important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrêmement important
+
+IF13
+{QUESTION}
+Dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir leur mot à dire sur ce que fait le gouvernement? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Beaucoup
+Enormément
+
+IF14
+{QUESTION}
+Et dans quelle mesure diriez-vous qu'en Suisse, le système politique permet aux gens comme vous d'avoir une influence sur la politique? Veuillez utiliser la même carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Beaucoup
+Enormément
+
+IF15
+{QUESTION}
+Dans quelle mesure diriez-vous que les responsables politiques se préoccupent de ce que les gens comme vous peuvent penser? Veuillez utiliser la même carte.
+
+{ANSWERS}
+Pas du tout
+Très peu
+Un peu
+Beaucoup
+Enormément
+
+IF16
+{QUESTION}
+Dans quelle mesure vous sentez-vous capable de jouer un rôle actif dans un groupe qui s'occupe de questions politiques? Veuillez répondre à l'aide de cette carte.
+
+{ANSWERS}
+Pas du tout capable
+Un peu capable
+Assez capable
+Très capable
+Tout à fait capable
+
+IF17
+{QUESTION}
+Et à l'aide de cette carte, dites-moi dans quelle mesure vous êtes confiant/e dans votre capacité de participer à la vie politique?
+
+{ANSWERS}
+Je ne suis pas du tout confiant/e
+Je suis un peu confiant/e
+Je suis assez confiant/e
+Je suis très confiant/e
+Je suis tout à fait confiant/e
+
+IF18
+{QUESTION}
+Veuillez m'indiquer au moyen de cette carte dans quelle mesure vous-même vous trouvez facile de prendre part à la vie politique?
+
+{ANSWERS}
+Pas du tout facile
+Pas si facile
+Assez facile
+Très facile
+Extrêmement facile
