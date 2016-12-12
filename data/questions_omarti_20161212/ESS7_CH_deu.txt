@@ -1,0 +1,779 @@
+﻿D1 
+{INTRO}
+Es gibt verschiedene Gründe, weshalb Menschen in die Schweiz kommen, um hier zu leben. Einige haben hier familiäre Wurzeln. Andere kommen hierher, weil sie hier arbeiten wollen oder weil ein Teil ihrer Familie bereits hier lebt. Wieder andere kommen hierher, weil sie in ihren Herkunftsländern bedroht werden. Nachstehend ein paar Fragen zu diesem Thema.
+
+{QUESTION}
+Jetzt geht es um die Entscheidung darüber, ob jemand, der ausserhalb der Schweiz geboren und aufgewachsen ist, in die Schweiz kommen und hier leben darf. Wie wichtig sollten für diese Entscheidung - Ihrer Meinung nach - die folgenden Dinge sein. Bitte benutzen Sie diese Karte. Zunächst, wie wichtig sollte es sein, dass diese Person ...eine gute Schul- und Berufsausbildung hat?
+ 
+{ANSWERS}
+0 Äusserst unwichtig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äusserst wichtig
+
+D3
+{QUESTION}
+einen christlichen Hintergrund mitbringt?
+
+{ANSWERS}
+0 Äusserst unwichtig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äusserst wichtig
+
+D5
+{QUESTION}
+berufliche Fähigkeiten hat, die in der Schweiz gebraucht werden?
+
+{ANSWERS}
+0 Äusserst unwichtig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äusserst wichtig
+
+D7
+{QUESTION}
+Würden Sie sagen, dass Zuwanderer in der Regel eher den Schweizern die Arbeitsplätze wegnehmen oder eher zur Schaffung von neuen Arbeitsplätzen beitragen? Bitte benutzen Sie dazu Karte 28.
+
+{ANSWERS}
+0 Nehmen Arbeitsplätze weg 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Tragen zur Schaffung neuer Arbeitsplätze bei
+
+D8
+{INTRO}
+Die meisten Zuwanderer arbeiten und zahlen hier Steuern. Sie nutzen auch die Einrichtungen des Gesundheitssystems und die Sozialleistungen.
+
+{QUESTION}
+Glauben Sie, dass diese Menschen unter dem Strich mehr von diesen Einrichtungen profitieren, als dass sie dafür zahlen, oder zahlen sie mehr dafür, als dass sie davon profitieren? Bitte antworten Sie mit dieser Karte.
+
+{ANSWERS}
+0 Im Allgemeinen profitieren sie mehr davon
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Im Allgemeinen zahlen sie mehr dafür
+
+D9
+{QUESTION}
+Nehmen durch die Zuwanderer in die Schweiz die Probleme mit der Kriminalität zu oder nehmen sie ab? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+0 Kriminalitätsprobleme nehmen zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Kriminalitätsprobleme nehmen ab
+
+D10
+{INTRO}
+Denken Sie jetzt an die Menschen in der Schweiz, die aus einem anderen Land stammen und einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Schweizer.
+
+{QUESTION}
+Bitte sagen Sie mir anhand von dieser Karte, wie sehr es Sie stören oder nicht stören würde, wenn eine solche Person ...zu Ihrem Vorgesetzten ernannt würde?
+
+{ANSWERS}
+0 Würde mich überhaupt nicht stören 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Würde mich sehr stören
+
+D11
+{QUESTION}
+eine mit Ihnen nahe verwandte Person heiraten würde?
+
+{ANSWERS}
+0 Würde mich überhaupt nicht stören 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Würde mich sehr stören
+
+D12
+{QUESTION}
+Wie würden Sie das Wohngebiet, in dem Sie derzeit leben, beschreiben? Antworten Sie bitte mit dieser Karte.
+
+{ANSWERS}
+Ein Gebiet, in dem PRAKTISCH NIEMAND einer anderen Volksgruppe oder ethnischen Gruppe angehört
+Ein Gebiet, in dem EINIGE BEWOHNER einer Volksgruppe oder ethnischen Gruppe angehören, die sich vom Grossteil der Schweizer unterscheidet
+Ein Gebiet, in dem VIELE BEWOHNER einer anderen Volksgruppe oder ethnischen Gruppe angehören
+
+D13
+{QUESTION}
+Können Sie mir anhand von dieser Karte sagen, wie sehr Sie der folgenden Aussage zustimmen oder wie sehr Sie sie ablehnen? "Es ist besser für ein Land, wenn fast alle Einwohner die gleichen Bräuche und Traditionen haben."
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+D14
+{QUESTION}
+Wie gut oder wie schlecht ist es für ein Land, ein Gesetz gegen Rassendiskriminierung am Arbeitsplatz zu haben? Bitte antworten Sie mit dieser Karte.
+
+{ANSWERS}
+0 Äusserst schlecht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äusserst gut
+
+D15
+{INTRO}
+In der Schweiz gibt es Menschen, die hier um Asyl ersuchen, weil sie in ihrem Herkunftsland Angst vor einer Verfolgung haben.
+
+{QUESTION}
+Bitte sagen Sie mir mit dieser Karte, wie sehr Sie der folgenden Aussage zustimmen oder wie sehr Sie sie ablehnen. "Der Staat sollte sich bei der Beurteilung von Asylgesuchen grosszügig zeigen."
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+D16
+{QUESTION}
+Was meinen Sie: Wie viele Menschen von 100 Menschen, die in der Schweiz leben, wurden ausserhalb der Schweiz geboren?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Was meinen Sie: Wie werden Zuwanderer, die erst vor Kurzem in die Schweiz gekommen sind, vom Staat behandelt im Vergleich zu Menschen wie Sie, die in der Schweiz geboren sind? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+Viel besser
+Ein bisschen besser
+Gleich
+Ein bisschen schlechter
+Viel schlechter
+
+D18
+{QUESTION}
+Finden Sie, dass der Glaube und religiöse Bräuche in der Schweiz durch Menschen aus anderen Ländern in der Regel untergraben oder bereichert werden? Bitte sagen Sie es mir anhand von dieser Karte.
+
+{ANSWERS}
+0 Der Glaube und religiöse Bräuche werden untergraben 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Der Glaube und religiöse Bräuche werden bereichert 
+
+D19
+{QUESTION}
+Haben Sie enge Freunde, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Schweizer?
+
+{ANSWERS}
+Ja, mehrere
+Ja, ein paar wenige
+Nein, überhaupt keine
+
+D20
+{QUESTION}
+Wie oft haben Sie, wenn Sie unterwegs sind, Kontakt mit Menschen, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Schweizer? Das kann in einem öffentlichen Verkehrsmittel sein, auf der Strasse, in Läden oder in der Nachbarschaft. Bitte antworten Sie mit dieser Karte.
+
+{ANSWERS}
+Nie
+Weniger als einmal pro Monat
+Einmal pro Monat
+Mehrmals pro Monat
+Einmal pro Woche
+Mehrmals pro Woche
+Jeden Tag
+
+D21
+{QUESTION}
+Wie gut oder schlecht sind diese Kontakte in der Regel? Bitte antworten Sie mit dieser Karte.
+
+{ANSWERS}
+0 Extrem schlecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extrem gut
+
+D22
+{QUESTION}
+Wie eng fühlen Sie sich mit der Schweiz verbunden? Bitte benutzen Sie diese Karte.
+
+{ANSWERS}
+Sehr verbunden
+Verbunden
+Nicht sehr verbunden
+Überhaupt nicht verbunden
+
+D23
+{INTRO}
+Zu den nächsten Fragen gibt es oft unterschiedliche Meinungen.
+
+{QUESTION}
+Glauben Sie, dass gewisse Volksgruppen oder ethnische Gruppen von Natur aus weniger intelligent sind als andere?
+
+{ANSWERS}
+Ja
+Nein
+
+D24
+{QUESTION}
+Glauben Sie, dass gewisse Volksgruppen oder ethnische Gruppen von Natur aus fleissiger sind als andere?
+
+{ANSWERS}
+Ja
+Nein
+
+D25
+{QUESTION}
+Wenn Sie an die Welt von heute denken, würden Sie dann sagen, dass bestimmte Kulturen viel besser sind als andere oder dass alle Kulturen gleich gut sind? Wählen Sie Ihre Antwort von dieser Karte.
+
+{ANSWERS}
+Bestimmte Kulturen sind viel besser als andere
+Alle Kulturen sind gleich gut
+
+D26
+{INTRO}
+Ich stelle Ihnen jetzt ein paar Fragen zu verschiedenen Gruppen von Menschen, die in die Schweiz kommen könnten, um hier zu leben.
+
+{QUESTION}
+Bitte sagen Sie mir anhand dieser Karte, in welchem Ausmass die Schweiz Ihrer Meinung nach ...die Zuwanderung von Juden aus andern Ländern erlauben sollte?
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D27
+{QUESTION}
+die Zuwanderung von Muslimen aus andern Ländern erlauben sollte?
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D28
+{QUESTION}
+die Zuwanderung von Fahrenden aus andern Ländern erlauben sollte?
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D30
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Karte, in welchem Ausmass die Schweiz Ihrer Meinung nach die Zuwanderung von hochqualifizierten Fachkräften aus Portugal erlauben sollte.
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D31
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Karte, in welchem Ausmass die Schweiz Ihrer Meinung nach die Zuwanderung von hochqualifizierten Fachkräften aus der Türkei erlauben sollte.
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D32
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Karte, in welchem Ausmass die Schweiz Ihrer Meinung nach die Zuwanderung von ungelernten Arbeitskräften aus Portugal erlauben sollte.
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+D33
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Karte, in welchem Ausmass die Schweiz Ihrer Meinung nach die Zuwanderung von ungelernten Arbeitskräften aus der Türkei erlauben sollte?
+
+{ANSWERS}
+Vielen erlauben, hier zu leben
+Einigen erlauben
+Nur ein paar wenigen erlauben
+Niemandem erlauben
+
+E1
+{QUESTION}
+Diese Karte verwendend, bitte sagen Sie mir, wie oft essen Sie Obst - Fruchtsäfte ausgenommen? 
+
+{ANSWERS}
+dreimal pro Tag oder öfter
+zweimal pro Tag
+einmal pro Tag
+weniger als einmal pro Tag, aber mindestens 4 Mal pro Woche
+weniger als 4 Mal pro Woche, aber mindestens einmal pro Woche
+weniger als einmal pro Woche
+nie
+
+E2
+{QUESTION}
+Noch immer dieselbe Karte verwendend, bitte sagen Sie mir, wie oft Sie Gemüse oder Salat essen - ausgenommen Kartoffeln? 
+
+{ANSWERS}
+dreimal pro Tag oder öfter
+zweimal pro Tag
+einmal pro Tag
+weniger als einmal pro Tag, aber mindestens 4 Mal pro Woche
+weniger als 4 Mal pro Woche, aber mindestens einmal pro Woche
+weniger als einmal pro Woche
+nie
+
+E3
+{QUESTION}
+An wievielen der letzten 7 Tage sind Sie 30 Minuten oder länger entweder schnell zu Fuß gegangen oder haben sich sportlich oder auf andere Art körperlich betätigt? 
+
+{ANSWERS}
+
+E4
+{QUESTION}
+Jetzt geht es um das Rauchen von Zigaretten. Welche Beschreibung auf dieser Karte trifft am besten auf ihr "Rauch-Verhalten" zu? Interviewer: Es zählen auch (selbst)gedrehte Zigaretten, nicht Pfeife, Zigarren oder elektrische Zigaretten 
+
+{ANSWERS}
+ich rauche täglich
+ich rauche, aber nicht täglich
+ich rauche nicht mehr, habe aber geraucht
+ich habe gelegentlich geraucht
+ich habe nie geraucht
+
+E5
+{QUESTION}
+Wieviele Zigaretten rauchen Sie normalerweise pro Tag? 
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten, das heißt seit [Monat , Jahr] ein alkoholisches Getränk getrunken? Gemeint sind z. B. Wein, Bier, Spirituosen oder andere alkoholische Getränke. Bitte wählen Sie eine Antwort von dieser Karte
+
+{ANSWERS}
+täglich 
+mehrmals pro Woche 
+1 x pro Woche
+2-3 x pro Monat
+1x pro Monat 
+weniger als 1x pro Monat 
+nie 
+
+E7
+{INTRO}
+Bitte denken Sie jetzt an das letzte Mal, an dem Sie ein alkoholisches Getränk an einem Montag, Dienstag, Mittwoch oder Donnerstag getrunken haben.
+
+{QUESTION}
+Wie viele der folgenden Getränke haben Sie an diesem Tag getrunken? Antworten Sie anhand dieser Karte.
+
+{ANSWERS}
+Bier (3dl)
+Grosses Bier (5dl)
+Glas Weiss- oder Rotwein (1dl
+Champagner/Schaumwei
+Aperitif (Martini, Campari, Sherry, Porto, ...)
+Starker Alkohol, Shot (Whisky, Kirsch, Grappa)
+Doppelter starker Alkohol, Shot (Whisky, Kirsch, Grappa)
+Likör (Amaretto, Baileys ...)
+Kräuterschnaps (Fernet, Chrüter, Appenzeller, Jägermeister ...)
+Longdrink, Cocktail
+Flasche Wein (750ml)
+Alcopop
+
+E8
+{INTRO}
+Bitte denken Sie jetzt an das letzte Mal, an dem Sie ein alkoholisches Getränk an einem Freitag, Samstag oder Sonntag getrunken haben.
+
+{QUESTION}
+Wie viele der folgenden Getränke haben Sie an diesem Tag getrunken?
+
+{ANSWERS}
+Bier (3dl)
+Grosses Bier (5dl)
+Glas Weiss- oder Rotwein (1dl
+Champagner/Schaumwei
+Aperitif (Martini, Campari, Sherry, Porto, ...)
+Starker Alkohol, Shot (Whisky, Kirsch, Grappa)
+Doppelter starker Alkohol, Shot (Whisky, Kirsch, Grappa)
+Likör (Amaretto, Baileys ...)
+Kräuterschnaps (Fernet, Chrüter, Appenzeller, Jägermeister ...)
+Longdrink, Cocktail
+Flasche Wein (750ml)
+Alcopop
+
+E10
+{INTRO}
+Diese Karte zeigt 6 verschiedene Beispiele, wieviel Alkohol jemand bei einer einzelnen
+
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten diese Menge an Alkohol oder mehr bei einer einzelnen Gelegenheit getrunken? War es...
+ 
+{ANSWERS}
+täglich oder fast täglich
+wöchentlich
+monatlich
+weniger als monatlich
+nie
+
+E10a
+{INTRO}
+Diese Karte zeigt 6 verschiedene Beispiele, wieviel Alkohol jemand bei einer einzelnen Gelegenheit trinken kann. 
+
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten diese Menge an Alkohol oder mehr bei einer einzelnen Gelegenheit getrunken? War es... 
+ 
+{ANSWERS}
+täglich oder fast täglich
+wöchentlich
+monatlich
+weniger als monatlich
+nie
+
+E10b
+{INTRO}
+Diese Karte zeigt 6 verschiedene Beispiele, wieviel Alkohol jemand bei einer einzelnen Gelegenheit trinken kann. 
+
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten diese Menge an Alkohol oder mehr bei einer einzelnen Gelegenheit getrunken? War es... 
+ 
+{ANSWERS}
+täglich oder fast täglich
+wöchentlich
+monatlich
+weniger als monatlich
+nie
+
+E11
+{QUESTION}
+Wie groß sind Sie ohne Schuhe? 
+ 
+{ANSWERS}
+
+E12
+{QUESTION}
+Wie schwer sind Sie ohne Schuhe? 
+ 
+{ANSWERS}
+
+E13
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [MONAT, JAHR]: Mit welchen Ärzten auf dieser Karte haben Sie über Ihre Gesundheit gesprochen?
+ 
+{ANSWERS}
+Hausarzt
+Facharzt (ausgenommen Zahnärzte) 
+
+E14
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [MONAT, JAHR]. Ist es Ihnen aus einem der Gründe auf dieser Karte jemals nicht möglich gewesen, einen Arzttermin oder eine benötigte medizinische Behandlung zu bekommen? 
+ 
+{ANSWERS}
+ja
+nein
+
+E15
+{QUESTION}
+Aus welchen Gründen auf der Karte haben Sie diesen Arzttermin oder medizinische Behandlung nicht bekommen? 
+ 
+{ANSWERS}
+ich konnte es mir nicht leisten
+ich konnte mir nicht von der Arbeit freinehmen
+ich habe andere Verpflichtungen gehabt
+die benötigte Behandlung ist in meiner näheren Umgebung nicht erhältlich gewesen
+die Warteliste ist zu lang gewesen
+es waren keine Termine frei
+
+E16
+{QUESTION}
+Ist das so, ...
+ 
+{ANSWERS}
+ ...weil Sie alle benötigten Arzttermine oder medizinischen 
+Behandlungen bekommen haben
+oder weil Sie in den letzten 12 Monaten weder Arzttermine noch
+medizinische Behandlungen gebraucht haben?
+
+E17
+{QUESTION}
+Verbringen Sie Zeit damit, Familienmitglieder, Freunde, Nachbarn oder andere Menschen zu betreuen oder ihnen zu helfen - und zwar aus irgendeinem Grund, der auf dieser Karte steht? Zählen Sie bitte nicht mit, was Sie als Teil einer bezahlten Tätigkeit tun. 
+ 
+{ANSWERS}
+ja
+nein
+
+E18
+{QUESTION}
+Wie viele Stunden pro Woche verbringen Sie im Allgemeinen damit? Bitte verwenden Sie diese Karte. 
+ 
+{ANSWERS}
+1–10 Stunden pro Woche 
+11-20 Stunden pro Woche
+21-30 Stunden pro Woche
+31-40 Stunden pro Woche
+41-50 Stunden pro Woche
+mehr als 50 Stunden pro Woche
+
+E19
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [MONAT, JAHR]: Welche Behandlungen auf dieser Karte haben Sie für Ihre eigene Gesundheit in Anspruch genommen?  
+
+{ANSWERS}
+Akupunktur 
+Akupressur 
+Traditionelle chinesische Medizin (TCM)
+Chiropraktik 
+Ostheopathie 
+Homöopathie
+Pflanzenheilkunde
+Hypnosetherapie 
+Massagebehandlung
+Physiotherapie
+Reflexzonenmassage
+Geistheilung
+
+E20
+{INTRO}
+Ich lese Ihnen nun eine Liste von Aussagen vor, wie Sie sich in der letzten Woche gefühlt haben oder was Sie in der letzten Woche getan haben könnten.
+
+{QUESTION}
+Unter Verwendung dieser Karte, wie oft in der letzten Woche …? … haben Sie sich deprimiert oder niedergeschlagen gefühlt? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+immer oder fast immer
+
+E21
+{QUESTION}
+… hatten Sie das Gefühl, dass alles, was Sie getan haben, anstrengend war 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E22
+{QUESTION}
+… haben Sie unruhig geschlafen 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E23
+{QUESTION}
+… waren Sie glücklich? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E24
+{QUESTION}
+… haben Sie sich einsam gefühlt ? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E25
+{QUESTION}
+… haben Sie das Leben genossen ? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E26
+{QUESTION}
+… haben Sie sich traurig gefühlt ? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E27
+{QUESTION}
+… konnten Sie sich zu nichts aufraffen? 
+
+{ANSWERS}
+nie oder fast nie
+manchmal
+meistens
+
+E28
+{QUESTION}
+Welche gesundheitlichen Probleme auf dieser Karte hatten Sie in den letzten 12 Monaten, also seit [Monat, Jahr]? Bitte sagen Sie mir nur die Buchstaben, die auf Sie zutreffen. 
+
+{ANSWERS}
+Z Herz- oder Kreislaufprobleme
+F Hoher Blutdruck
+T Atembeschwerden wie Asthmaanfälle, Kurzatmigkeit oder pfeifende Atemgeräusche
+K Allergien
+H Rücken- oder Nackenschmerzen
+Y Muskel- oder Gelenkschmerzen an Händen oder Armen
+Q Muskel- oder Gelenkschmerzen an Füßen oder Beinen
+E Magen- oder Verdauungsbeschwerden
+L Hautprobleme
+B Starke Kopfschmerzen
+M Diabetes
+
+E29
+{QUESTION}
+Und welche von diesen gesundheitlichen Problemen, die Sie in den letzten 12 Monaten gehabt haben, haben Sie irgendwie in Ihrem Alltag eingeschränkt? Geben Sie mir auch hier nur die Buchstaben an, die auf Sie zutreffen. 
+
+{ANSWERS}
+Z Herz- oder Kreislaufprobleme
+F Hoher Blutdruck
+T Atembeschwerden wie Asthmaanfälle, Kurzatmigkeit oder pfeifende Atemgeräusche
+K Allergien
+H Rücken- oder Nackenschmerzen
+Y Muskel- oder Gelenkschmerzen an Händen oder Armen
+Q Muskel- oder Gelenkschmerzen an Füßen oder Beinen
+E Magen- oder Verdauungsbeschwerden
+L Hautprobleme
+B Starke Kopfschmerzen
+M Diabetes
+
+E30
+{QUESTION}
+Haben Sie jemals an einem der gesundheitlichen Probleme auf dieser Karte gelitten? WENN JA, heute noch oder früher einmal? 
+
+{ANSWERS}
+Ja, heute noch
+Ja, früher einmal
+Nein, nie
+
+E31
+{QUESTION}
+Haben Sie jemals an einem der gesundheitlichen Probleme auf dieser Karte gelitten? WENN JA, heute noch oder früher einmal? 
+
+{ANSWERS}
+immer
+oft
+manchma
+fast nie
+nie
+
+E32
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Karte, wie oft Sie und Ihre Familie in Ihrer Kindheit und Jugend ernsthafte finanzielle Schwierigkeiten gehabt haben. 
+
+{ANSWERS}
+immer
+oft
+manchma
+fast nie
+nie
+
+F6
+{QUESTION}
+Sie haben mir gerade gesagt, dass Sie mit Ihrem Mann / Ihrer Frau / Ihrem Partner / Ihrer Partnerin zusammenleben. Welche Beschreibung auf dieser Karte trifft auf Ihre Beziehung zu dieser Person zu?
+
+{ANSWERS}
+Verheiratet
+Eingetragene Partnerschaft (auf Bundesebene,
+gleichgeschlechtlich)
+Lebe mit meinem Partner / meiner Partnerin – ohne gesetzliche Anerkennung
+Lebe in Konkubinat – mit kantonalem Konkubinatsvertrag
+Gerichtlich getrennt
+Geschieden, aufgelöste eingetragene Partnerschaft
+
+F11
+{QUESTION}
+Bei dieser Frage geht es um Ihren gesetzlichen Zivilstand und nicht darum, mit wem Sie allenfalls zusammenleben oder nicht. Welche Beschreibung auf dieser Karte trifft auf Ihren gegenwärtigen gesetzlichen Zivilstand zu? Es ist nur eine Antwort möglich.
+
+{ANSWERS}
+Verheiratet
+Eingetragene Partnerschaft (auf Bundesebene, gleichgeschlechtlich)
+Gerichtlich getrennt (aber noch verheiratet/ in eingetragener Partnerschaft)
+Geschieden, aufgelöste Partnerschaft
+Verwitwet, eingetragene/r Partner/in gestorben
+Ledig, NIE verheiratet und NIE in eingetragener Partnerschaft
+

@@ -1,0 +1,925 @@
+﻿D1 
+{INTRO}
+Hay personas de otros países que vienen a vivir a España por distintas razones. Algunas tienen antepasados que eran de aquí. Otras vienen a trabajar o para reunirse con sus familias. Otras vienen porque están amenazadas. Aquí hay algunas preguntas sobre este tema.
+
+{QUESTION}
+Dígame, por favor, qué importancia debería tener cada uno de los siguientes aspectos en la decisión de permitir o no, a una persona que ha nacido y vivido siempre fuera de España, venir a vivir aquí. Por favor, utilice esta tarjeta. En primer lugar, ¿qué importancia debería tener que esa persona...tenga un buen nivel educativo? 
+
+{ANSWERS}
+0 Nada importante
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muy importante
+
+D3
+{QUESTION}
+…sea de un país de tradición cristiana?
+	
+{ANSWERS}
+0 Nada importante
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muy importante
+
+D5
+{QUESTION}
+…tenga una cualificación laboral de las que España necesita?
+
+{ANSWERS}
+0 Nada importante
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muy importante
+
+D7
+{QUESTION}
+Utilizando esta tarjeta, ¿diría Ud. que, por lo general, las personas que vienen a vivir a España les quitan el trabajo a los españoles o que, por lo general, contribuyen a crear nuevos empleos? 
+
+{ANSWERS}
+0 Quitan el trabajo 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Contribuyen a crear nuevos empleos
+
+D8
+{INTRO}
+La mayoría de las personas que vienen a vivir a España trabajan y pagan impuestos.
+
+{QUESTION}
+Al mismo tiempo reciben atención sanitaria y otras prestaciones sociales. En conjunto, ¿cree Ud. que estas personas reciben más de lo que aportan o aportan más de lo que reciben? Por favor utilice esta tarjeta
+
+{ANSWERS}
+0 Por lo general reciben más
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Por lo general aportan más
+
+D9
+{QUESTION}
+El problema de la inseguridad ciudadana en España ¿empeora o mejora con la llegada de gente de otros países? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 El problema de la inseguridad empeora 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 El problema de la inseguridad mejora
+
+D10
+{INTRO}
+Y, pensando en las personas que han venido a vivir a España de otro país y que son de una raza o grupo étnico diferente del de la mayoría de los españoles.
+
+{QUESTION}
+Utilizando esta
+tarjeta, ¿hasta qué punto le importaría, o no le importaría, que una de estas personas…fuese su jefe?
+
+{ANSWERS}
+0 En absoluto 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mucho
+
+D11
+{QUESTION}
+…se casara con un familiar cercano suyo?
+
+{ANSWERS}
+0 En absoluto 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Mucho
+
+D12
+{QUESTION}
+Utilizando esta tarjeta ¿cómo describiría Ud. el lugar en el que vive actualmente?
+
+{ANSWERS}
+Un lugar en el que casi nadie es de una raza o grupo étnico distinto al de la mayoría de los españoles 
+Un lugar en el que algunas personas son de una raza o grupo étnico distinto al de la mayoría de los españoles 
+Un lugar en el que muchas personas son de una raza o (503) grupo étnico distinto al de la mayoría de los españoles
+
+D13
+{QUESTION}
+Utilizando esta tarjeta, indique, por favor, en qué medida está Ud. de acuerdo o en desacuerdo con la siguiente frase: "Para un país es mejor que casi todo el mundo comparta las mismas costumbres y tradiciones."
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo
+Muy en desacuerdo
+
+D14
+{QUESTION}
+¿Hasta qué punto es bueno o malo para un país tener una ley contra la discriminación racial o étnica en el trabajo? Por favor, utilice esta tarjeta
+
+{ANSWERS}
+0 Muy malo 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Muy bueno
+
+D15
+{INTRO}
+Algunas personas vienen a España y solicitan asilo porque temen ser perseguidas en sus países de origen.
+
+{QUESTION}
+Utilizando esta tarjeta, indique por favor en qué medida está Ud. de acuerdo o en desacuerdo con la siguiente frase: "El gobierno debería ser generoso al decidir sobre las solicitudes de asilo."
+
+{ANSWERS}
+Muy de acuerdo
+De acuerdo
+Ni de acuerdo ni en desacuerdo
+En desacuerdo
+Muy en desacuerdo
+
+D16
+{QUESTION}
+De cada 100 personas que viven en España, ¿cuántas cree Ud. que han nacido fuera de España?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+En comparación con las personas como Ud. que han nacido en España, ¿cómo cree que el gobierno trata a quienes han venido recientemente a vivir aquí desde otros países? Por favor, utilice esta tarjeta
+
+{ANSWERS}
+Mucho mejor
+Un poco mejor
+Igual
+Un poco peor
+Mucho peor
+
+D18
+{QUESTION}
+Utilizando esta tarjeta, ¿cree Ud. que las creencias y prácticas religiosas en España, por lo general, se empobrecen o enriquecen al venir a vivir aquí personas desde otros países?
+
+{ANSWERS}
+0 Las creencias y prácticas religiosas se empobrecen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Las creencias y prácticas religiosas se enriquecen 
+
+D19
+{QUESTION}
+¿Tiene amigos o amigas cercanos de otra raza o de un grupo étnico distinto al de la mayoría de los españoles?
+
+{ANSWERS}
+Sí, unos cuantos
+Sí, pocos
+No, ninguno
+
+D20
+{QUESTION}
+¿Con qué frecuencia tiene Ud. contacto con personas de raza o grupo étnico distinto al de la mayoría de españoles, cuando está fuera de casa? Por ejemplo, en el transporte público, en la calle, en tiendas o en su vecindario. Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Nunca
+Menos de una vez al mes
+Una vez al mes
+Varias veces al mes
+Una vez a la semana
+Varias veces a la semana
+Todos los días
+
+D21
+{QUESTION}
+Estos contactos, ¿en qué medida diría Ud. que son, en general, malos o buenos? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+0 Extremadamente malos
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadamente buenos
+
+D22
+{QUESTION}
+¿En qué medida se siente Ud. cercano/a a España? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+Muy cercano/a
+Cercano/a
+No muy cercano/a
+Nada cercano/a
+
+D23
+{INTRO}
+La gente a menudo tiene opiniones diferentes sobre los siguientes temas.
+
+{QUESTION}
+¿Cree Ud. que algunas razas o grupos étnicos son, de nacimiento, menos inteligentes que otros?
+
+{ANSWERS}
+Sí
+No  
+
+D24
+{QUESTION}
+¿Cree Ud. que algunas razas o grupos étnicos son, de nacimiento, más trabajadores que otros?
+
+{ANSWERS}
+Sí
+No
+
+D25
+{QUESTION}
+Pensando en el mundo actual, ¿diría Ud. que algunas culturas son mucho mejores que otras o que todas las culturas son iguales? Por favor, elija su respuesta de esta tarjeta.
+
+{ANSWERS}
+Algunas culturas son mucho mejores que otras
+Todas las culturas son iguales
+
+D26
+{INTRO}
+Le voy a preguntar sobre distintos grupos de personas que podrían venir a vivir a España desde otros países.
+
+{QUESTION}
+Utilizando esta tarjeta, dígame, por favor, ¿en qué medida cree Ud. que España debería permitir que…judíos de otros países vengan a vivir a España?
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+D27
+{QUESTION}
+...musulmanes de otros países vengan a vivir a España?
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+D28
+{QUESTION}
+...gitanos de otros países vengan a vivir a España?
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+D30
+{QUESTION}
+Utilizando la misma tarjeta, por favor dígame, ¿en qué medida cree Ud. que España debería permitir que profesionales cualificados de Rumanía vengan a vivir a España? España…
+
+{ANSWERS}
+…Debería permitir que muchos vinieran a vivir aquí 
+…Debería permitir que vinieran unos cuantos 
+…Debería permitir que vinieran unos pocos 
+…No debería permitir que ninguno viniera a vivir aquí
+
+D31
+{QUESTION}
+Utilizando la misma tarjeta, por favor dígame, ¿en qué medida cree Ud. que España debería permitir que profesionales cualificados de Marruecos vengan a vivir a España? 
+España...
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+D32
+{QUESTION}
+Utilizando la misma tarjeta, por favor dígame, ¿en qué medida cree Ud. que España debería permitir que trabajadores no cualificados de Rumanía vengan a vivir a España? España…
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+D33
+{QUESTION}
+Utilizando la misma tarjeta, por favor dígame, ¿en qué medida cree Ud. que España debería permitir que trabajadores no cualificados de Marruecos vengan a vivir a España? España…
+
+{ANSWERS}
+Debería permitir que muchos vinieran a vivir aquí
+Debería permitir que vinieran unos cuantos
+Debería permitir que vinieran unos pocos
+No debería permitir que ninguno viniera a vivir aquí
+
+E1
+{INTRO}
+Ahora pasamos a unas preguntas sobre otro tema.
+
+{QUESTION}
+Utilizando esta tarjeta, ¿podría decirme con qué frecuencia come fruta, sin contar los zumos?
+
+{ANSWERS}
+Tres veces al día o más
+Dos veces al día
+Una vez al día
+Menos de una vez al día, pero al menos 4 veces a la semana
+Menos de 4 veces a la semana, pero al menos una vez a la semana
+Menos de una vez a la semana
+Nunca
+
+E2
+{QUESTION}
+Utilizando la misma tarjeta, ¿podría decirme con qué frecuencia come verduras o ensalada, sin contar las patatas?
+
+{ANSWERS}
+Tres veces al día o más
+Dos veces al día
+Una vez al día
+Menos de una vez al día, pero al menos 4 veces a la semana
+Menos de 4 veces a la semana, pero al menos una vez a la semana
+Menos de una vez a la semana
+Nunca
+
+E3
+{QUESTION}
+De los últimos 7 días, ¿cuántos ha caminado Ud. rápido, ha hecho deporte u otra actividad física durante 30 minutos o más?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Ahora, con respecto a fumar cigarrillos.
+
+{QUESTION}
+¿Qué opción de esta tarjeta describe mejor su comportamiento en relación con fumar?
+
+{ANSWERS}
+Fumo todos los días
+Fumo, pero no todos los días
+Ahora no fumo, pero antes sí
+Sólo he fumado unas cuantas veces
+No he fumado nunca
+
+E5 
+{QUESTION}
+¿Cuántos cigarrillos fuma en un día normal?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+En los últimos 12 meses, es decir desde [mes, año], ¿con qué frecuencia ha tomado una bebida que contenía alcohol? Por ejemplo vino, cerveza, sidra, cava, licores u otras bebidas que contengan alcohol. Por favor, elija una respuesta de la tarjeta.
+
+{ANSWERS}
+Todos los días
+Varias veces a la semana
+Una vez a la semana
+2-3 veces al mes
+Una vez al mes
+Menos de una vez al mes
+Nunca
+
+E7
+{INTRO}
+Por favor, piense en la última vez que bebió alcohol un lunes, martes, miércoles o jueves
+
+{QUESTION}
+¿Cuántas de cada una de las siguientes bebidas tomó ese día? Utilice esta tarjeta como guía para responder.
+ 
+{ANSWERS}
+Clara de cerveza (200 ml.)
+Tinto de verano o sangría
+Caña pequeña o botellín/quinto (200 ml.) 
+Tercio, lata o caña grande (330 ml.) 
+Copa de vino o cava 
+Aperitivo: fino jerez o vermut
+Botella de vino (750 ml) 
+Litrona o “mini” (1 litro de cerveza) 
+Chupito de licor
+Cóctel: mojito, caipirinha, etc. 
+Licor fuerte: whisky, orujo, ginebra, coñac, etc. 
+Combinado: gintonic, vodka con refresco, cubata, etc. 
+ 
+E8
+{INTRO}
+Por favor, piense en la última vez que bebió alcohol un viernes, sábado o domingo
+
+{QUESTION}
+¿Cuántas de cada una de las siguientes bebidas tomó ese día? Utilice esta tarjeta como guía para responder.
+
+{ANSWERS}
+Clara de cerveza (200 ml.)
+Tinto de verano o sangría
+Caña pequeña o botellín/quinto (200 ml.) 
+Tercio, lata o caña grande (330 ml.) 
+Copa de vino o cava 
+Aperitivo: fino jerez o vermut
+Botella de vino (750 ml) 
+Litrona o “mini” (1 litro de cerveza) 
+Chupito de licor
+Cóctel: mojito, caipirinha, etc. 
+Licor fuerte: whisky, orujo, ginebra, coñac, etc. 
+Combinado: gintonic, vodka con refresco, cubata, etc. 
+
+E10a
+{INTRO}
+Esta tarjeta muestra seis ejemplos distintos de la cantidad de alcohol que una persona podría beber en una misma ocasión.
+
+{QUESTION}
+En los últimos 12 meses, ¿con qué frecuencia ha bebido Ud. en una misma ocasión esta cantidad de alcohol o más? 
+
+{ANSWERS}
+Todos o casi todos los días
+Cada semana
+Cada mes
+Menos de una vez al mes
+Nunca
+
+E10b
+{INTRO}
+Esta tarjeta muestra seis ejemplos distintos de la cantidad de alcohol que una persona podría beber en una misma ocasión.
+
+{QUESTION}
+En los últimos 12 meses, ¿con qué frecuencia ha bebido esta cantidad de alcohol o más en una misma ocasión?
+
+{ANSWERS}
+Todos o casi todos los días
+Cada semana
+Cada mes
+Menos de una vez al mes
+Nunca
+
+E11
+{QUESTION}
+¿Cuánto mide Ud. sin zapatos?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+¿Cuánto pesa Ud. sin zapatos?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+En los últimos 12 meses, es decir desde [mes, año], ¿con cuáles de los profesionales sanitarios de esta tarjeta ha tratado temas relacionados con su salud?
+
+{ANSWERS}
+Médico de cabecera/de familia
+Médico especialista (excluyendo dentistas)
+
+E14
+{QUESTION}
+En los últimos 12 meses, es decir desde [mes, año], ¿alguno de los motivos recogidos en esta tarjeta le ha impedido, en alguna ocasión, conseguir una consulta médica o tratamiento que necesitaba?
+
+{ANSWERS}
+Sí
+No
+
+E15
+{QUESTION}
+¿Qué motivo o motivos de los recogidos en esta tarjeta le han impedido a Ud. conseguir una consulta o tratamiento médico?
+
+{ANSWERS}
+No podía pagarlo
+No podía ausentarse del trabajo
+Tenía otros compromisos
+El tratamiento que usted necesitaba no estaba disponible cerca de donde vive
+La lista de espera era demasiado larga
+No había citas disponibles
+Otra razón
+
+E16
+{QUESTION}
+¿Y eso ha sido porque…
+
+{ANSWERS}
+…usted ha conseguido todas las consultas y tratamientos médicos que ha necesitado,
+o, porque no ha necesitado ninguna consulta o  tratamiento médico en los últimos 12 meses?
+
+E17
+{QUESTION}
+¿Dedica usted algo de tiempo a cuidar o ayudar a miembros de su familia, amigos, vecinos u otras personas, por alguna de las razones de esta tarjeta? No tenga en cuenta el tiempo que dedica como parte de su trabajo remunerado.
+
+{ANSWERS}
+Sí
+No
+
+E18
+{QUESTION}
+En general, ¿cuántas horas a la semana le dedica Ud. a esta tarea? Por favor, utilice esta tarjeta.
+
+{ANSWERS}
+1-10 horas a la semana
+11-20 horas a la semana
+21-30 horas a la semana
+31-40 horas a la semana
+41-50 horas a la semana
+Más de 50 horas a la semana
+
+E19
+{QUESTION}
+En los últimos 12 meses, es decir desde [mes, año], ¿qué tratamientos de esta tarjeta ha usado Ud. para su propia salud?
+
+{ANSWERS}
+Acupuntura
+Acupresión/dígito-presión
+Medicina tradicional china
+Quiropráctica
+Osteopatía
+Homeopatía
+Plantas medicinales (fitoterapia)
+Hipnoterapia
+Masaje terapéutico
+Fisioterapia
+Reflexología
+Sanación espiritual
+
+E20
+{INTRO}
+A continuación le voy a leer una lista de sentimientos o comportamientos que quizá usted haya tenido durante la última semana.
+
+{QUESTION}
+Utilizando esta tarjeta, por favor, dígame ¿con qué frecuencia, durante la última semana…
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E21
+{QUESTION}
+...ha tenido la sensación de que le costaba mucho hacer cualquier cosa?
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E22
+{QUESTION}
+…ha dormido inquieto/a?
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E23
+{QUESTION}
+…se ha sentido feliz?
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E24
+{QUESTION}
+…se ha sentido solo/a?
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E25
+{QUESTION}
+…ha tenido la sensación de disfrutar de la vida? 
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E26
+{QUESTION}
+…se ha sentido triste?	
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E27
+{QUESTION}
+…se ha sentido sin animos?
+
+{ANSWERS}
+En ningún momento o en casi ningún momento
+En algún momento
+Buena parte del tiempo
+Todo o casi todo el tiempo
+
+E28
+{QUESTION}
+¿Qué problema o problemas de salud de esta tarjeta ha tenido en los últimos 12 meses, es decir, desde [mes, año]? Solo dígame las letras que correspondan a su caso.
+
+{ANSWERS}
+Z Problema de circulación o de corazón
+F Tensión alta/hipertensión 
+T Problemas respiratorios como ataques de asma, respiración dificultosa o con pitidos 
+K Alergias 
+H Dolor de espalda o de cuello
+Y Dolor muscular o de articulaciones en manos o brazos
+Q Dolor muscular o de articulaciones en pies o piernas 
+E Problemas relacionados con el estómago o con la digestión 
+L Problemas de la piel 
+B Fuertes dolores de cabeza 
+M Diabetes
+
+E29
+{QUESTION}
+¿Y qué problemas de salud de los que ha tenido Ud. en los últimos 12 meses han dificultado de alguna forma el desarrollo de sus actividades diarias? Como en la pregunta anterior, dígame solo las letras que correspondan.
+
+{ANSWERS}
+Z Problema de circulación o de corazón
+F Tensión alta/hipertensión 
+T Problemas respiratorios como ataques de asma, respiración dificultosa o con pitidos 
+K Alergias 
+H Dolor de espalda o de cuello
+Y Dolor muscular o de articulaciones en manos o brazos
+Q Dolor muscular o de articulaciones en pies o piernas 
+E Problemas relacionados con el estómago o con la digestión 
+L Problemas de la piel 
+B Fuertes dolores de cabeza 
+M Diabetes
+
+E30
+{QUESTION}
+¿Tiene o ha tenido alguno de los problemas de salud que se muestran en esta tarjeta?
+
+{ANSWERS}
+Sí, en la actualidad
+Sí, en el pasado
+No, nunca
+
+E31
+{QUESTION}
+Utilizando esta tarjeta, por favor, dígame ¿con qué frecuencia había conflictos graves entre las personas que vivían en su hogar durante su infancia o adolescencia?
+
+{ANSWERS}
+Siempre
+A menudo
+A veces
+Casi nunca
+Nunca
+
+E32
+{QUESTION}
+Utilizando la misma tarjeta, por favor, dígame, ¿con qué frecuencia usted y su familia tuvieron dificultades económicas graves durante su infancia o adolescencia?
+
+{ANSWERS}
+Siempre
+A menudo
+A veces
+Casi nunca
+Nunca
+
+F15
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha completado? Por favor, use esta tarjeta.
+
+{ANSWERS}
+Menos de Educación Primaria
+1. Sin estudios (no ha ido nunca a la escuela)
+2. Estudios primarios sin completar (menos de 5 años)
+Educación Primaria
+3. Antigua Educación Primaria (Certificado de Estudios Primarios)
+4. Hasta 5º de EGB
+5. Educación Primaria (LOGSE)
+6. Grado Elemental en Música y Danza
+Educación Secundaria (primera etapa)
+7. Bachillerato Elemental
+8. EGB
+9. ESO
+Bachillerato
+10. Bachillerato Superior, BUP
+11. PREU, COU
+12. Bachillerato (LOGSE)
+Cualificación profesional
+13. F.P. de Iniciación
+14. Programas de Garantía Social,
+Programas de Cualificación Profesional Inicial (PCPI) Formación Profesional
+15. F.P. Oficialía
+16. F.P de 1er Grado (FP I)
+17. C.F. de Grado Medio (Técnico Medio)
+18. C.F. de Grado Medio en Artes Plásticas y Diseño
+19. Grado Medio en Música y Danza
+20. F.P. Maestría
+21. F.P. de 2º Grado (FP II)
+22. C.F. de Grado Superior (Técnico Superior)
+23. C.F. de Grado Superior en Escuelas de Arte
+Estudios superiores/ universitarios
+24. Peritaje, Enfermería, Magisterio, Asistente Social
+25. Diplomado, Ingeniero o Arquitecto Técnico, 3 años de
+licenciatura, Grado (Bolonia), Título Superior en Diseño
+26. Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+27. Doctorado
+Otros 
+28. Otros 
+
+F44
+{QUESTION}
+¿Cuál es el nivel de estudios más alto que ha completado su marido/esposa/pareja? Por favor, use esta tarjeta.
+
+{ANSWERS}
+Menos de Educación Primaria
+1. Sin estudios (no ha ido nunca a la escuela)
+2. Estudios primarios sin completar (menos de 5 años)
+Educación Primaria
+3. Antigua Educación Primaria (Certificado de Estudios Primarios)
+4. Hasta 5º de EGB
+5. Educación Primaria (LOGSE)
+6. Grado Elemental en Música y Danza
+Educación Secundaria (primera etapa)
+7. Bachillerato Elemental
+8. EGB
+9. ESO
+Bachillerato
+10. Bachillerato Superior, BUP
+11. PREU, COU
+12. Bachillerato (LOGSE)
+Cualificación profesional
+13. F.P. de Iniciación
+14. Programas de Garantía Social,
+Programas de Cualificación Profesional Inicial (PCPI) Formación Profesional
+15. F.P. Oficialía
+16. F.P de 1er Grado (FP I)
+17. C.F. de Grado Medio (Técnico Medio)
+18. C.F. de Grado Medio en Artes Plásticas y Diseño
+19. Grado Medio en Música y Danza
+20. F.P. Maestría
+21. F.P. de 2º Grado (FP II)
+22. C.F. de Grado Superior (Técnico Superior)
+23. C.F. de Grado Superior en Escuelas de Arte
+Estudios superiores/ universitarios
+24. Peritaje, Enfermería, Magisterio, Asistente Social
+25. Diplomado, Ingeniero o Arquitecto Técnico, 3 años de
+licenciatura, Grado (Bolonia), Título Superior en Diseño
+26. Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+27. Doctorado
+Otros 
+28. Otros 
+
+F52
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su padre? Por favor, use esta tarjeta.
+
+{ANSWERS}
+Menos de Educación Primaria
+1. Sin estudios (no ha ido nunca a la escuela)
+2. Estudios primarios sin completar (menos de 5 años)
+Educación Primaria
+3. Antigua Educación Primaria (Certificado de Estudios Primarios)
+4. Hasta 5º de EGB
+5. Educación Primaria (LOGSE)
+6. Grado Elemental en Música y Danza
+Educación Secundaria (primera etapa)
+7. Bachillerato Elemental
+8. EGB
+9. ESO
+Bachillerato
+10. Bachillerato Superior, BUP
+11. PREU, COU
+12. Bachillerato (LOGSE)
+Cualificación profesional
+13. F.P. de Iniciación
+14. Programas de Garantía Social,
+Programas de Cualificación Profesional Inicial (PCPI) Formación Profesional
+15. F.P. Oficialía
+16. F.P de 1er Grado (FP I)
+17. C.F. de Grado Medio (Técnico Medio)
+18. C.F. de Grado Medio en Artes Plásticas y Diseño
+19. Grado Medio en Música y Danza
+20. F.P. Maestría
+21. F.P. de 2º Grado (FP II)
+22. C.F. de Grado Superior (Técnico Superior)
+23. C.F. de Grado Superior en Escuelas de Arte
+Estudios superiores/ universitarios
+24. Peritaje, Enfermería, Magisterio, Asistente Social
+25. Diplomado, Ingeniero o Arquitecto Técnico, 3 años de
+licenciatura, Grado (Bolonia), Título Superior en Diseño
+26. Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+27. Doctorado
+Otros 
+28. Otros
+
+F56
+{QUESTION}
+¿Cuál es el nivel de estudios más alto obtenido por su madre? Por favor, use esta tarjeta.
+
+{ANSWERS}
+Menos de Educación Primaria
+1. Sin estudios (no ha ido nunca a la escuela)
+2. Estudios primarios sin completar (menos de 5 años)
+Educación Primaria
+3. Antigua Educación Primaria (Certificado de Estudios Primarios)
+4. Hasta 5º de EGB
+5. Educación Primaria (LOGSE)
+6. Grado Elemental en Música y Danza
+Educación Secundaria (primera etapa)
+7. Bachillerato Elemental
+8. EGB
+9. ESO
+Bachillerato
+10. Bachillerato Superior, BUP
+11. PREU, COU
+12. Bachillerato (LOGSE)
+Cualificación profesional
+13. F.P. de Iniciación
+14. Programas de Garantía Social,
+Programas de Cualificación Profesional Inicial (PCPI) Formación Profesional
+15. F.P. Oficialía
+16. F.P de 1er Grado (FP I)
+17. C.F. de Grado Medio (Técnico Medio)
+18. C.F. de Grado Medio en Artes Plásticas y Diseño
+19. Grado Medio en Música y Danza
+20. F.P. Maestría
+21. F.P. de 2º Grado (FP II)
+22. C.F. de Grado Superior (Técnico Superior)
+23. C.F. de Grado Superior en Escuelas de Arte
+Estudios superiores/ universitarios
+24. Peritaje, Enfermería, Magisterio, Asistente Social
+25. Diplomado, Ingeniero o Arquitecto Técnico, 3 años de
+licenciatura, Grado (Bolonia), Título Superior en Diseño
+26. Licenciado, Ingeniero Superior, Arquitecto, Máster (Bolonia), Título Superior en Música, Danza o Arte Dramático
+27. Doctorado
+Otros 
+28. Otros  

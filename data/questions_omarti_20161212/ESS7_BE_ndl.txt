@@ -1,0 +1,791 @@
+﻿D1 
+{INTRO}
+Mensen komen om verschillende redenen vanuit andere landen in België wonen. Sommigen hebben voorouderlijke banden. Anderen komen om hier te werken, of zich met hun families te herenigen. Anderen komen omdat zij in hun land bedreigd worden. Hier komen enkele vragen over deze kwestie.
+
+{QUESTION}
+Hoe belangrijk zijn voor u elk van de volgende zaken bij de beslissing of iemand die buiten België geboren en opgevoed is en daar woont, hier zou mogen komen wonen en leven. Gebruik deze kaart. Ten eerste, hoe belangrijk is het dat zij…goed zijn opgeleid?
+ 
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D2
+{QUESTION}
+…Nederlands of Frans kunnen spreken?
+
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D3
+{QUESTION}
+…een christelijke achtergrond hebben?
+
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D4
+{QUESTION}
+...blank zijn?
+
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D5
+{QUESTION}
+...beroepsvaardigheden hebben die België nodig heeft?
+
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D6
+{QUESTION}
+...de manier van leven in België volledig aanvaarden?
+
+{ANSWERS}
+0 Zeer onbelangrijk
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer belangrijk
+
+D7
+{QUESTION}
+Gebruik deze kaart. Vindt u dat mensen die hier komen wonen over het algemeen werk afnemen van werknemers in België, of over het algemeen helpen nieuwe banen te scheppen?
+
+{ANSWERS}
+0 Werk afnemen 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Nieuwe banen scheppen
+
+D8
+{INTRO}
+De meeste mensen die hier komen wonen, werken hier en betalen belasting. Zij maken ook gebruik van de gezondheidszorg en sociale voorzieningen.
+
+{QUESTION}
+Al met al, denkt u dat mensen die hier komen wonen, meer kosten dan ze opbrengen of meer opbrengen dan ze kosten? Gebruik deze kaart.
+
+{ANSWERS}
+0 Over het algemeen kosten ze meer dan ze opbrengen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Over het algemeen brengen ze meer op dan ze kosten
+
+D9
+{QUESTION}
+Zijn de criminaliteitsproblemen in België erger geworden of verminderd door mensen uit andere landen die hier zijn komen wonen? Gebruik deze kaart.
+
+{ANSWERS}
+0 Criminaliteitsproblemen erger geworden 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Criminaliteitsproblemen minder geworden
+
+D10
+{INTRO}
+Nu denkend aan mensen die uit een ander land in België zijn komen wonen en die van een ander ras of andere etnische groep zijn dan de meeste Belgen.
+
+{QUESTION}
+Kunt u met behulp van deze kaart zeggen in hoeverre u er bezwaren tegen of u er geen bezwaren tegen heeft indien zo iemand…aangesteld zou worden als uw baas?
+
+{ANSWERS}
+0 Helemaal geen bezwaren 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Heel veel bezwaren
+
+D11
+{QUESTION}
+...met een naast familielid van u zou trouwen?
+
+{ANSWERS}
+0 Helemaal geen bezwaren 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Heel veel bezwaren
+
+D12
+{QUESTION}
+Hoe zou u met behulp van deze kaart de buurt omschrijven waar u nu woont?
+
+{ANSWERS}
+Een buurt waar bijna niemand van een ander ras of etnische groep is dan de meeste Belgen
+Sommige mensen zijn van een ander ras of etnische groep dan de meeste Belgen
+Veel mensen zijn van een ander ras of etnische groep
+
+D13
+{QUESTION}
+Gebruik deze kaart. Wilt u aangeven in hoeverre u het eens of oneens bent dat: "Het beter is voor een land als bijna iedereen dezelfde gewoontes en tradities deelt".
+
+{ANSWERS}
+Helemaal mee eens
+Mee eens
+Niet mee eens, niet mee oneens
+Niet mee eens
+Helemaal niet mee eens
+
+D14
+{QUESTION}
+Hoe goed of slecht is het voor een land om een wet te hebben tegen discriminatie op het werk op grond van ras of etnische achtergrond? Gebruik deze kaart.
+
+{ANSWERS}
+0 Zeer slecht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Zeer goed
+
+D15
+{INTRO}
+Sommige mensen komen naar dit land en vragen asiel aan omdat zij zeggen dat ze angst hebben voor vervolging in hun eigen land.
+
+{QUESTION}
+Gebruik deze kaart. Wilt u aangeven in hoeverre u het eens of oneens bent dat:‘de overheid soepel zou moeten zijn bij het beoordelen van asielaanvragen’.
+
+{ANSWERS}
+Helemaal mee eens
+Mee eens
+Niet mee eens, niet mee oneens
+Niet mee eens
+Helemaal niet mee eens
+
+D16
+{QUESTION}
+Hoeveel van de 100 mensen die in België wonen, zijn buiten België geboren denkt u?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+vergelijking met mensen zoals uzelf die in België zijn geboren, hoe vindt u dat de overheid mensen uit andere landen behandelt die recent hier zijn komen wonen? Gebruik deze kaart.
+
+{ANSWERS}
+Veel beter
+Iets beter
+Hetzelfde
+Iets slechter
+Veel slechter
+
+D18
+{QUESTION}
+Gebruik deze kaart. Denkt u dat de religieuze overtuigingen en gebruiken in België over het algemeen ondermijnd of verrijkt worden door mensen uit andere landen die hier zijn komen wonen?
+
+{ANSWERS}
+0 Religieuze overtuigingen en gebruiken worden ondermijnd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Religieuze overtuigingen en gebruiken worden verrijkt 
+
+D19
+{QUESTION}
+Heeft u goede vrienden die van een ander ras of etnische groep zijn dan de meeste Belgen?
+
+{ANSWERS}
+Ja, meerdere
+Ja, enkele
+Nee, helemaal geen
+
+D20
+{QUESTION}
+Hoe vaak heeft u buitenshuis contact met mensen van een ander ras of etnische groep dan de meeste Belgen? Bijvoorbeeld in het openbaar vervoer, op straat, in de winkel of in de buurt. Gebruik deze kaart.
+
+{ANSWERS}
+Nooit
+Minder dan 1 keer per maand
+1 keer per maand
+Meerdere keren per maand
+1 keer per week
+Meerdere keren per week
+Elke dag
+
+D21
+{QUESTION}
+Wanneer u denkt aan dit contact, hoe slecht of goed is dit over het algemeen? Gebruik deze kaart.
+
+{ANSWERS}
+0 Uiterst slecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Uiterst goed
+
+D22
+{QUESTION}
+Hoezeer voelt u zich verbonden met België? Gebruik deze kaart.
+
+{ANSWERS}
+Nauw verbonden
+Verbonden
+Niet nauw verbonden
+Helemaal niet verbonden
+
+D23
+{INTRO}
+Mensen hebben vaak verschillende opvattingen over de volgende onderwerpen.
+
+{QUESTION}
+Denkt u dat sommige rassen of etnische groepen minder intelligent worden geboren dan andere?
+
+{ANSWERS}
+Ja
+Nee
+
+D24
+{QUESTION}
+Denkt u dat sommige rassen of etnische groepen als hardere werkers worden geboren dan andere?
+
+{ANSWERS}
+Ja
+Nee
+
+D25
+{QUESTION}
+Denkend aan de wereld vandaag de dag, zou u zeggen dat sommige culturen veel beter zijn dan andere of dat alle culturen gelijkwaardig zijn? Kies een antwoord op deze kaart.
+
+{ANSWERS}
+Sommige culturen zijn veel beter dan andere
+Alle culturen zijn gelijkwaardig
+
+D26
+{INTRO}
+Ik ga u nu een aantal vragen stellen over verschillende groepen mensen uit andere landen die mogelijk in België zouden komen wonen. 
+
+{QUESTION}
+Gebruik deze kaart. In welke mate vindt u dat België…Joodse mensen uit andere landen zou moeten toelaten om in België te komen wonen en leven?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D27
+{QUESTION}
+… Moslims uit andere landen zou moeten toelaten om in België te komen wonen en leven?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D28
+{QUESTION}
+… zigeuners uit andere landen zou moeten toelaten om in België te komen wonen en leven?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D30
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen in welke mate u vindt dat België hooggeschoolde arbeidskrachten uit Polen zou moeten toelaten om in België te komen wonen?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D31
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen in welke mate u vindt dat België hooggeschoolde arbeidskrachten uit Turkije zou moeten toelaten om in België te komen wonen?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D32
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen in welke mate u vindt dat België ongeschoolde arbeidskrachten uit Polen zou moeten toelaten om in België te komen wonen?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+D33
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen in welke mate u vindt dat België ongeschoolde arbeidskrachten uit Turkije zou moeten toelaten om in België te komen wonen?
+
+{ANSWERS}
+Velen toelaten om hier te komen wonen en leven
+Sommigen toelaten
+Enkelen toelaten
+Niemand toelaten
+
+E1
+{INTRO}
+Nu volgen een aantal vragen over een ander onderwerp.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen hoe vaak u fruit eet? Het drinken van vruchtensap telt niet mee.
+
+{ANSWERS}
+Drie keer per dag of vaker
+Twee keer per dag
+Één keer per dag
+Minder dan één keer per dag maar minstens 4 keer per week
+Minder dan 4 keer per week maar minstens één keer per week
+Minder dan één keer per week
+Nooit
+
+E2
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen hoe vaak u groenten of salades eet? Het eten van aardappelen telt niet mee.
+
+{ANSWERS}
+Drie keer per dag of vaker
+Twee keer per dag
+Één keer per dag
+Minder dan één keer per dag maar minstens 4 keer per week
+Minder dan 4 keer per week maar minstens één keer per week
+Minder dan één keer per week
+Nooit
+
+E3
+{QUESTION}
+Kunt u nog steeds aan de hand van deze kaart zeggen hoe vaak u groenten of salades eet? Het eten van aardappelen telt niet mee.
+
+{ANSWERS}
+
+E4
+{INTRO}
+Laten we het nu hebben over het roken van sigaretten.
+
+{QUESTION}
+Welk van de beschrijvingen op deze kaart komt het best overeen met uw rookgedrag?
+
+{ANSWERS}
+Ik rook dagelijks
+Ik rook, maar niet dagelijks
+Ik rook momenteel niet, maar ik heb gerookt in het verleden
+Ik heb maar een paar keer gerookt
+Ik heb nog nooit gerookt
+
+E5
+{QUESTION}
+Hoeveel sigaretten rookt u op een doorsnee dag?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Hoe vaak heeft u alcohol gedronken in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR]? Bijvoorbeeld wijn, bier, sterke drank of andere alcoholische dranken. Kies een antwoord op deze kaart.
+
+{ANSWERS}
+Elke dag
+Meerdere keren per week
+1 keer per week
+2-3 keer per maand
+1 keer per maand
+Minder dan 1 keer per maand
+Nooit
+
+E7
+{INTRO}
+Kunt u denken aan de laatste keer dat u alcohol heeft gedronken op een maandag, dinsdag, woensdag of donderdag.
+
+{QUESTION}
+Hoeveel van elk van de volgende dranken heeft u die dag gedronken? Geef uw antwoord op basis van deze kaart.
+ 
+{ANSWERS}
+GLAS BIER (25CL) 
+GLAS APERITIEFFLESJE OF BLIKJE BIER (33CL)KLEIN GLAS STERKE DRANK
+GROOT BLIK BIER (50 CL)
+GROOT GLAS STERKE DRANKGLAS STERK BIER (33CL)
+COCKTAILGLAS WIJN (12CL)
+ALCOPOP
+FLES WIJN (75CL)
+
+E8
+{INTRO}
+Kunt u nu denken aan de laatste keer dat u alcohol heeft gedronken op een vrijdag, zaterdag of zondag.
+
+{QUESTION}
+Hoeveel van elk van de volgende dranken heeft u die dag gedronken?
+
+{ANSWERS}
+GLAS BIER (25CL) 
+GLAS APERITIEFFLESJE OF BLIKJE BIER (33CL)KLEIN GLAS STERKE DRANK
+GROOT BLIK BIER (50 CL)
+GROOT GLAS STERKE DRANKGLAS STERK BIER (33CL)
+COCKTAILGLAS WIJN (12CL)
+ALCOPOP
+FLES WIJN (75CL)
+
+E10a
+{INTRO}
+Op deze kaart staan zes verschillende voorbeelden van hoeveel alcohol iemand tijdens één enkele gelegenheid zou kunnen drinken.
+
+{QUESTION}
+In de afgelopen 12 maanden, hoe vaak heeft u deze hoeveelheid of meer alcohol gedronken tijdens één enkele gelegenheid? Was dat...
+
+{ANSWERS}
+...dagelijks of bijna dagelijks,
+wekelijks,
+maandelijks,
+minder dan één keer per maand,
+of, nooit?
+
+E10b
+{INTRO}
+Op deze kaart staan zes verschillende voorbeelden van hoeveel alcohol iemand tijdens één enkele gelegenheid zou kunnen drinken.
+
+{QUESTION}
+In de afgelopen 12 maanden, hoe vaak heeft u deze hoeveelheid of meer alcohol gedronken tijdens één enkele gelegenheid? Was dat...
+
+{ANSWERS}
+...dagelijks of bijna dagelijks,
+wekelijks,
+maandelijks,
+minder dan één keer per maand,
+of, nooit?
+
+E11
+{QUESTION}
+Wat is uw lichaamslengte zonder schoenen aan?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Wat is uw lichaamsgewicht zonder schoenen aan?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Met welke zorgverleners weergegeven op deze kaart heeft u uw gezondheid besproken in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR]?
+
+{ANSWERS}
+Huisarts
+Medisch specialist (met uitzondering van tandarts)
+
+E14
+{QUESTION}
+Was het voor u in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR], ooit onmogelijk om de nodige medische consultatie of behandeling te krijgen vanwege één of meer redenen die op deze kaart staan?
+
+{ANSWERS}
+Ja
+Nee
+
+E15
+{QUESTION}
+Was het voor u in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR], ooit onmogelijk om de nodige medische consultatie of behandeling te krijgen vanwege één of meer redenen die op deze kaart staan?
+
+{ANSWERS}
+Kon het niet betalen
+Kon geen vrijaf nemen op het werk
+Had andere verplichtingen
+De behandeling die u nodig had was niet beschikbaar in uw woonomgeving
+De wachtlijst was te lang
+Kon geen afspraak krijgen
+Andere reden
+
+E16
+{QUESTION}
+Was dat omdat...
+
+{ANSWERS}
+... het voor u wel mogelijk was om de nodige medische consultatie of behandeling te krijgen, of, omdat u geen medische consultatie of behandeling nodig
+
+E17
+{QUESTION}
+Besteedt u tijd aan het zorgen voor of het helpen van familieleden, vrienden, buren of anderen vanwege één of meerdere redenen op deze kaart? Betaald werk in het kader van uw job mag niet meegeteld worden.
+
+{ANSWERS}
+Ja
+Nee
+
+E18
+{QUESTION}
+In het algemeen, hoeveel uur per week besteedt u hieraan? Gebruik deze kaart.
+
+{ANSWERS}
+1-10 uur per week
+11-20 uur per week
+21-30 uur per week
+31-40 uur per week
+41-50 uur per week
+Meer dan 50 uur per week
+
+E19
+{QUESTION}
+Van welke behandelingen weergegeven op deze kaart heeft u gebruik gemaakt voor uw eigen gezondheid in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR]?
+
+{ANSWERS}
+Acupunctuur
+Acupressuur
+Chinese geneeskunde
+Chiropraxie
+Osteopathie
+Homeopathie
+Kruidenbehandeling
+Hypnotherapie
+Massagetherapie
+Fysiotherapie
+Reflexologie
+Spirituele genezing
+
+E20
+{INTRO}
+Ik lees nu een lijstje voor hoe u zich zou kunnen hebben gevoeld of gedragen in de afgelopen week.
+
+{QUESTION}
+Kunt u aan de hand van deze kaart zeggen, hoe vaak gedurende de afgelopen week…u zich gedeprimeerd voelde?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E21
+{QUESTION}
+…u voelde dat alles wat u deed met moeite ging?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E22
+{QUESTION}
+…u voelde dat alles wat u deed met moeite ging?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E23
+{QUESTION}
+…u gelukkig was?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E24
+{QUESTION}
+…u zich eenzaam voelde?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E25
+{QUESTION}
+…u van het leven genoot?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E26
+{QUESTION}
+…u zich droevig voelde?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E27
+{QUESTION}
+…u niet op gang kon komen?
+
+{ANSWERS}
+Nooit of bijna nooit
+Soms
+Meestal
+Altijd of bijna de hele tijd
+
+E28
+{QUESTION}
+Welke gezondheidsproblemen weergegeven op deze kaart heeft u gehad of ervaren in de afgelopen 12 maanden, dat wil zeggen sinds [MAAND, JAAR]? U hoeft me alleen te vertellen welke letters op u van toepassing zijn.
+
+{ANSWERS}
+Z Hart –of vaatprobleem
+F Hoge bloeddruk 
+T Ademhalingsproblemen zoals astmaaanvallen en een piepende of fluitende ademhaling
+K Allergieën
+H Rug- of nekpijn 
+Y Spier- of gewrichtspijn aan de hand of arm 
+Q Spier- of gewrichtspijn aan de voet of benen
+E Maag- of darmproblemen 
+L Huidaandoeningen 
+B Ernstige hoofdpijn  
+M Suikerziekte 
+
+E29
+{QUESTION}
+En welke gezondheidsproblemen die u gehad of ervaren heeft in de afgelopen 12 maanden, hebben u op één of andere manier beperkt in uw dagelijkse activiteiten? Vertel mij nogmaals welke letters op u van toepassing zijn.
+
+{ANSWERS}
+Z Hart –of vaatprobleem
+F Hoge bloeddruk 
+T Ademhalingsproblemen zoals astmaaanvallen en een piepende of fluitende ademhaling
+K Allergieën
+H Rug- of nekpijn 
+Y Spier- of gewrichtspijn aan de hand of arm 
+Q Spier- of gewrichtspijn aan de voet of benen
+E Maag- of darmproblemen 
+L Huidaandoeningen 
+B Ernstige hoofdpijn  
+M Suikerziekte 
+
+E30
+{QUESTION}
+Heeft u of heeft u ooit te kampen gehad met één of meerdere gezondheidsproblemen die op deze kaart staan?
+
+{ANSWERS}
+Ja, momenteel
+Ja, vroeger
+Nee, nooit
+
+E31
+{QUESTION}
+Gebruik deze kaart om de volgende vraag te beantwoorden. Hoe vaak was er een ernstig conflict tussen de mensen die in uw huishouden woonden toen u opgroeide?
+
+{ANSWERS}
+Altijd
+Vaak
+Soms
+Bijna nooit
+Nooit
+
+E32
+{QUESTION}
+Gebruik nog steeds deze kaart. Hoe vaak hebben u en uw gezin te kampen gehad met ernstige financiële moeilijkheden toen u opgroeide?
+
+{ANSWERS}
+Altijd
+Vaak
+Soms
+Bijna nooit
+Nooit 

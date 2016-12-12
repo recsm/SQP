@@ -1,0 +1,736 @@
+﻿D1 
+{INTRO}
+Människor från andra länder kommer för att bo i Sverige av olika anledningar. Några kommer för att deras släkt har rötter här. Andra kommer hit för att arbeta, eller för att förenas med sina familjer. Andra kommer för att de lever under hot.
+
+{QUESTION}
+Nu vill jag att du talar om hur viktiga var och en av dessa saker bör vara när man bestämmer om någon som är född, uppvuxen och bosatt utanför Sverige ska få komma och bo här. Till att börja med, hur viktigt bör det vara att de....har en bra utbildning? 
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D3
+{QUESTION}
+...kommer från en kristen bakgrund?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D5
+{QUESTION}
+...har ett yrkeskunnande som Sverige behöver?
+
+{ANSWERS}
+0 Extremt oviktigt
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt viktigt
+
+D7
+{QUESTION}
+Skulle du säga att människor som kommer för att bo här i allmänhet tar jobb från de svenska arbetstagarna eller att de i allmänhet hjälper till att skapa nya arbetstillfällen?
+
+{ANSWERS}
+0 De tar jobb 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 De skapar nya arbetstillfällen
+
+D8
+{INTRO}
+De flesta människor som kommer för att bo här arbetar och betalar skatt. De använder också hälso- och sjukvård och andra välfärdstjänster.
+
+{QUESTION}
+På det hela taget, tror du att människor som kommer hit utnyttjar mer än de bidrar med eller bidrar med mer än de utnyttjar? Använd detta kort.
+
+{ANSWERS}
+0 Utnyttjar i allmänhet mer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bidrar i allmänhet mer
+
+D9
+{QUESTION}
+Har de svenska problemen med kriminalitet blivit större eller mindre av att människor från andra länder har kommit för att bo här? Använd detta kort.
+
+{ANSWERS}
+0 Problemen blivit större 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Problemen blivit mindre
+
+D10
+{INTRO}
+Om du nu tänker på människor som har kommit från ett annat land för att bo i Sverige och som har en annan hudfärg\etnisk tillhörighet än majoriteten av Sveriges befolkning.
+
+{QUESTION}
+kulle du eller skulle du inte ha något emot om någon av dessa…Blev tillsatt som din chef?
+
+{ANSWERS}
+0 Inte alls ha något emot 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ha mycket emot
+
+D11
+{QUESTION}
+...Gifte sig med en nära släkting till dig
+
+{ANSWERS}
+0 Inte alls ha något emot 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ha mycket emot
+
+D12
+{QUESTION}
+Hur skulle du beskriva det område som du bor i just nu? Använd detta kort.
+
+{ANSWERS}
+Ett område där nästan ingen har en annan hudfärg/etnisk tillhörighet än majoriteten av Sveriges befolkning
+En del människor har en annan hudfärg/etnisk tillhörighet än majoriteten av Sveriges befolkning
+Många människor har en annan hudfärg/etnisk tillhörighet än majoriteten av Sveriges befolkning
+
+D13
+{QUESTION}
+Använd detta kort och uppge hur mycket du instämmer eller tar avstånd från att: Det är bättre för ett land om nästan alla delar samma seder och traditioner?
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd 
+
+D14
+{QUESTION}
+Hur bra eller dåligt är det för ett land att ha en lag mot etnisk diskriminering på arbetsplatsen?
+
+{ANSWERS}
+0 Extremt dåligt 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt bra
+
+D15
+{INTRO}
+En del människor kommer till det här landet och uppger rädsla för förföljelse i sitt eget land som orsak till ansökan om asyl. Använd detta kort när du svarar .
+
+{QUESTION}
+Hur mycket instämmer du i eller tar avstånd ifrån följande påstående: Myndigheterna bör vara generösa när de bedömer människors asylansökningar?
+
+{ANSWERS}
+Instämmer starkt
+Instämmer
+Varken instämmer eller tar avstånd
+Tar avstånd
+Tar starkt avstånd 
+
+D16
+{QUESTION}
+Av hundra människor som bor i Sverige, hur många tror du är födda utanför Sverige?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+I jämförelse med människor som du själv som är födda i Sverige, hur tycker du att regeringen behandlar dem som nyligen kommit hit ifrån andra länder för att bo här Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+Mycket bättre
+Lite bättre
+Lika
+Lite sämre
+Mycket sämre
+
+D18
+{QUESTION}
+Använd det här kortet och tala om ifall du tycker att religiös tro och religionsutövande i Sverige i allmänhet undergrävs eller berikas av att människor kommer från andra länder för att bo här.
+
+{ANSWERS}
+0 Religiös tro och religionsutövande undergrävs 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Religiös tro och religionsutövande berikas 
+
+D19
+{QUESTION}
+Har du några nära vänner som är av en annan hudfärg eller etnisk tillhörighet än de flesta svenskar?
+
+{ANSWERS}
+Ja, flera
+Ja, några
+Nej, inga alls
+
+D20
+{QUESTION}
+Hur ofta kommer du kontakt med personer som är av en annan hudfärg eller etnisk tillhörighet än de flesta svenskar när du är hemifrån? Det kan vara i kollektivtrafiken, på gatan, i affären eller i omgivningen där du bor. Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+Aldrig
+Mindre än en gång i månaden
+En gång i månaden
+Flera gånger i månaden
+En gång i veckan
+Flera gånger i veckan
+Varje dag
+
+
+D21
+{QUESTION}
+Om du tänker på dessa kontakter, hur dåliga eller bra är de i allmänhet? Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+0 Extremt dåliga
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremt bra
+
+D22
+{QUESTION}
+Hur nära Sverige känner du dig? Titta svarsalternativen på det här kortet.
+
+{ANSWERS}
+Mycket nära
+Nära
+Inte särskilt nära
+Inte alls nära
+
+D23
+{INTRO}
+Människor har ofta olika syn på de frågor som följer.
+
+{QUESTION}
+Tror du att människor med viss hudfärg eller etniska grupper är födda mindre intelligenta än andra?
+
+{ANSWERS}
+Ja
+Nej
+
+D24
+{QUESTION}
+Tror du att människor med viss hudfärg eller etniska grupper är födda mer arbetsamma än andra?
+
+{ANSWERS}
+Ja
+Nej
+
+D25
+{QUESTION}
+Om du tänker på världen idag, skulle du då säga att vissa kulturer är mycket bättre än andra, eller att alla kulturer är likvärdiga.
+
+{ANSWERS}
+Vissa kulturer är mycket bättre än andra
+Alla kulturer är likvärdiga
+
+D26
+{INTRO}
+Nu ska jag fråga dig om olika grupper av människor som skulle kunna komma från andra länder och bo i Sverige.
+
+{QUESTION}
+Använd det här kortet och tala om i vilken utsträckning du anser att Sverige bör tillåtajudiska personer från andra länder komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D27
+{QUESTION}
+… muslimer från andra länder komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D28
+{QUESTION}
+… romer från andra länder komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D30
+{QUESTION}
+Använd samma kort och tala om i vilken utsträckning du tycker att Sverige bör tillåta kvalificerad arbetskraft från Polen att komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D31
+{QUESTION}
+Använd samma kort och tala om i vilken utsträckning du tycker att Sverige bör tillåta kvalificerad arbetskraft från Somalia att komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D32
+{QUESTION}
+Använd samma kort och tala om i vilken utsträckning du tycker att Sverige bör tillåta okvalificerad arbetskraft från Polen att komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+D33
+{QUESTION}
+Använd samma kort och tala om i vilken utsträckning du tycker att Sverige bör tillåta okvalificerad arbetskraft från Somalia att komma och bo i Sverige?
+
+{ANSWERS}
+Tillåta många att komma och bo här
+Tillåta en del
+Tillåta några få
+Inte tillåta några
+
+E1
+{INTRO}
+Nu kommer några frågor på ett annat tema.
+
+{QUESTION}
+Använd det här kortet och tala om hur ofta du äter frukt, med undantag av frukt i juiceform?
+
+{ANSWERS}
+Tre gånger eller mer per dag
+Två gånger per dag
+En gång per dag
+Mindre än en gång per dag men åtminstone 4
+gånger per vecka
+Mindre än 4 gånger per vecka men åtminstone
+en gång per vecka
+Mindre än en gång per vecka
+Aldrig
+
+E2
+{QUESTION}
+Använd samma kort och tala om hur ofta du äter grönsaker eller sallad, med undantag av potatis?
+
+{ANSWERS}
+Tre gånger eller mer per dag
+Två gånger per dag
+En gång per dag
+Mindre än en gång per dag men åtminstone 4
+gånger per vecka
+Mindre än 4 gånger per vecka men åtminstone
+en gång per vecka
+Mindre än en gång per vecka
+Aldrig
+
+E3
+{QUESTION}
+Under hur många av de senaste 7 dagarna gick du i snabb takt, sportade eller ägnade dig åt annan fysisk aktivitet i 30 minuter eller mer?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Följande frågor handlar om rökning av cigaretter.
+
+{QUESTION}
+Vilken av beskrivningarna på det här kortet beskriver bäst dina rökvanor?
+
+{ANSWERS}
+Jag röker dagligen
+Jag röker, men inte varje dag
+Jag röker inte nu men jag har rökt
+Jag har bara rökt ett par gånger
+Jag har aldrig rökt 
+
+E5
+{QUESTION}
+Hur många cigaretter röker du en vanlig dag?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Under de senaste 12 månaderna, dvs. sedan [månad, år], hur ofta har du druckit en dryck som innehåller alkohol? Det kan vara vin, öl, cider, sprit eller andra drycker som innehåller alkohol. Välj ett svar från det här kortet.
+
+{ANSWERS}
+Varje dag
+Flera gånger i veckan
+En gång i veckan
+2-3 gånger i månaden
+En gång i månaden
+Mindre än en gång i månaden
+Aldrig
+
+E7
+{INTRO}
+Tänk nu på när du senast drack alkohol en måndag, tisdag, onsdag eller torsdag
+
+{QUESTION}
+Hur många av var och en av de följande dryckerna drack du den dagen? Använd dig av det här kortet när du svarar.
+ 
+{ANSWERS}
+En stor starköl eller stor starkcider (50 cl)eller  - Ett glas vin (t.ex. vitt vin, rött vin,  mouserande vin) (15 cl)
+En stor folköl (50 cl)Ett glas sprit eller en shot (t.ex. vodka, whiskey) (4 cl)En liten starköl eller en liten starkcider (33 cl) 
+Ett dubbelt glas sprit (t.ex. vodka, whiskey) (8 cl)
+Ett stort glas vin (t.ex. vitt vin, rött vin) (25 cl)En drink med 4 cl spritEtt glas starkvin (t.ex. portvin, sherry.) (15 cl)
+En flaska alkoläsk (33 cl)
+
+E8
+{INTRO}
+Tänk nu på när du senast drack alkohol en fredag, lördag eller söndag.
+
+{QUESTION}
+Hur många av var och en av de följande dryckerna drack du den dagen? Använd dig av det här kortet när du svarar. 
+
+{ANSWERS}
+En stor starköl eller stor starkcider (50 cl)eller  - Ett glas vin (t.ex. vitt vin, rött vin,  mouserande vin) (15 cl)
+En stor folköl (50 cl)Ett glas sprit eller en shot (t.ex. vodka, whiskey) (4 cl)En liten starköl eller en liten starkcider (33 cl) 
+Ett dubbelt glas sprit (t.ex. vodka, whiskey) (8 cl)
+Ett stort glas vin (t.ex. vitt vin, rött vin) (25 cl)En drink med 4 cl spritEtt glas starkvin (t.ex. portvin, sherry.) (15 cl)
+En flaska alkoläsk (33 cl)
+
+E10a
+{INTRO}
+Det här kortet visar sex olika exempel på hur mycket alkohol en person kan tänkas dricka vid ett och samma tillfälle.
+
+{QUESTION}
+Under de senaste 12 månaderna, hur ofta har du druckit denna mängd alkohol eller mer vid ett och samma tillfälle?
+
+{ANSWERS}
+...dagligen eller nästan dagligen,
+en gång i veckan,
+varje månad,
+mindre än en gång i månaden,
+eller, aldrig?
+
+E10b
+{INTRO}
+Det här kortet visar sex olika exempel på hur mycket alkohol en person kan tänkas dricka vid ett och samma tillfälle.
+
+{QUESTION}
+Under de senaste 12 månaderna, hur ofta har du druckit denna mängd alkohol eller mer vid ett och samma tillfälle? Var det ...
+
+{ANSWERS}
+...dagligen eller nästan dagligen,
+en gång i veckan,
+varje månad,
+mindre än en gång i månaden,
+eller, aldrig?
+
+E11
+{QUESTION}
+Hur lång är du utan skor?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Hur mycket väger du utan skor?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Under de senaste 12 månaderna, dvs. sedan [månad, år], med vilken typ av läkare har du diskuterat din hälsa?
+
+{ANSWERS}
+Allmänläkare
+Specialistläkare (bortse från tandläkare)
+
+E14
+{QUESTION}
+Under de senaste 12 månaderna, dvs. sedan [månad, år], har du någon gång inte fått en medicinsk rådgivning eller den behandling du behövde på grund av någon av orsakerna listade på det här kortet?
+
+{ANSWERS}
+Ja
+Nej
+
+E15
+{QUESTION}
+Vilken av orsakerna på det här kortet förklarar varför du inte kunde få denna medicinska rådgivning eller behandling?
+
+{ANSWERS}
+Kunde inte betala för den
+Kunde inte vara borta från arbetet
+Var upptagen av andra åtaganden
+Behandlingen du behövde fanns inte tillgänglig där du bor eller i närheten
+Väntelistan var för lång
+Det fanns inga lediga tider
+Annan
+
+E16
+{QUESTION}
+Var det på grund av att ...
+
+{ANSWERS}
+... du kunde få all medicinsk rådgivning och behandling du behövde?
+eller, därför att du inte behövde någon medicinsk rådgivning eller behandling under de senaste 12 månaderna?
+
+E17
+{QUESTION}
+Ägnar du någon tid åt att ta hand om eller hjälpa familjemedlemmar, vänner, grannar eller andra på grund av någon av orsakerna på det här kortet?
+
+{ANSWERS}
+Ja
+Nej
+
+E18
+{QUESTION}
+I allmänhet, hur många timmar per vecka brukar du ägna dig åt detta? Titta på svarsalternativen på det här kortet.
+
+{ANSWERS}
+1-10 timmar per vecka
+11-20 timmar per vecka
+21-30 timmar per vecka
+31-40 timmar per vecka
+41-50 timmar per vecka
+Mer än 50 timmar per vecka
+
+E19
+{QUESTION}
+Under de senaste 12 månaderna, dvs. sedan [månad, år], vilken eller vilka av behandlingarna på detta kort har du använt dig av hälsoskäl?
+
+{ANSWERS}
+Akupunktur
+Akupressur
+Kinesisk medicin
+Kiropraktik
+Osteopati
+Homeopati
+Örtbehandling
+Hypnoterapi
+Massageterapi
+Sjukgymnastik
+Zonterapi
+Healing
+
+E20
+{INTRO}
+Jag ska nu läsa upp en lista på hur du kan ha känt dig eller uppträtt under den senaste veckan.
+
+{QUESTION}
+Titta på det här kortet och tala om hur ofta under förra veckan...kände du dig deprimerad?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E21
+{QUESTION}
+...kändes det som om allt du gjorde var en ansträngning?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E22
+{QUESTION}
+...sov du oroligt?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E23
+{QUESTION}
+...var du lycklig?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E24
+{QUESTION}
+...kände du dig ensam?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E25
+{QUESTION}
+...njöt du av livet?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E26
+{QUESTION}
+...kände du dig ledsen?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E27
+{QUESTION}
+...hade du svårt att komma igång med något alls?
+
+{ANSWERS}
+Aldrig eller nästan aldrig
+Ibland
+Oftast
+Alltid eller nästan alltid
+
+E28
+{QUESTION}
+Vilket eller vilka av de hälsoproblem som listas på kortet har du haft eller upplevt du under de senaste 12 månaderna, det är sedan [månad, år]?
+
+{ANSWERS}
+Z Problem med hjärta eller cirkulation 
+F Högt blodtryck 
+T Andningsbesvär såsom astmaattacker, väsande eller pipande andningK Allergier
+H Smärta i rygg eller nacke  
+Y Muskel- eller ledvärk i hand eller arm  
+Q Muskel- eller ledvärk i fot eller ben
+E Problem relaterade till din mage eller matsmältning
+L Problem relaterade till en hudåkomma
+B Allvarlig huvudvärk
+M Diabetes
+
+E29
+{INTRO}
+
+{QUESTION}
+Och vilket eller vilka av de hälsoproblem du hade eller upplevde att du hade under de senaste 12 månaderna hindrade dig i dina dagliga aktiviteter på något sätt?
+
+{ANSWERS}
+Z Problem med hjärta eller cirkulation 
+F Högt blodtryck 
+T Andningsbesvär såsom astmaattacker, väsande eller pipande andningK Allergier
+H Smärta i rygg eller nacke  
+Y Muskel- eller ledvärk i hand eller arm  
+Q Muskel- eller ledvärk i fot eller ben
+E Problem relaterade till din mage eller matsmältning
+L Problem relaterade till en hudåkomma
+B Allvarlig huvudvärk
+M Diabetes
+
+E30
+{INTRO}
+
+{QUESTION}
+Har du för närvarande eller har du någon gång tidigare haft något av de hälsoproblem som finns angivna på det här kortet?
+
+{ANSWERS}
+Ja, för närvarande
+Ja, tidigare
+Nej, aldrig
+
+E31
+{INTRO}
+
+{QUESTION}
+Använd det här kortet och tala om hur ofta du och din familj hade stora ekonomiska problem när du växte upp?
+
+{ANSWERS}
+Alltid
+Ofta
+Ibland
+Nästan aldrig
+Aldrig
+ 

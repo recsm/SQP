@@ -1,0 +1,1074 @@
+﻿B1a 
+{QUESTION}
+En quina mesura diria que el sistema polític a Espanya permet que les persones com vostè tinguin alguna cosa a dir en el que fa el govern? Si us plau, utilitzi aquesta tarjeta
+ 
+{ANSWERS}
+0 Gens 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completament
+
+B1b 
+{QUESTION}
+En quina mesura es considera vostè capaç de tenir un paper actiu en un grup que es dedica a temes polítics? Si us plau, utilitzi aquesta targeta.
+ 
+{ANSWERS}
+0 Gens capaç 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completament capaç
+
+B1c 
+{QUESTION}
+I en quina mesura diria vostè que el sistema polític a Espanya permet que persones com vostè tinguin influència en la política? Si us plau, utilitzi aquesta targeta.
+ 
+{ANSWERS}
+0 Gens 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completament
+
+B1d 
+{QUESTION}
+I utilitzant aquesta targeta, fins a quin punt confia vostè en la seva pròpia capacitat per participar en política?
+ 
+{ANSWERS}
+0 No hi confia en absolut
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Hi confia plenament
+
+B1e 
+{QUESTION}
+En quina mesura diria que als polítics els importa el que pensen les persones com vostè? Si us plau, utilitzi aquesta targeta.
+ 
+{ANSWERS}
+0 Gens 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Completament
+
+B1f
+{QUESTION}
+Utilitzant aquesta targeta, en quina mesura diria que és fàcil per vostè, personalment, participar en política?
+ 
+{ANSWERS}
+0 Gens fàcil
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament fàcil
+
+D1 
+{QUESTION}
+Si us plau, em podria dir quina importància hauria de tenir cadascun dels segu¨ents aspectes en la decisió de permetre o no, a una persona que ha nascut i viscut sempre fora d’Espanya, venir a viure aquí. Si us plau, utilitzi aquesta targeta. En primer lloc, quina importància hauria de tenir que aquesta persona...tingui un bon nivell educatiu?
+ 
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D2
+{QUESTION}
+...parli castellà o altre llengua oficial de la comunitat autònoma?
+
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D3
+{QUESTION}
+…provingui d’un país de tradició cristiana?
+
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D4
+{QUESTION}
+...sigui de raça blanca?
+
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D5
+{QUESTION}
+...tingui una qualificació laboral de les que Espanya necessita?
+
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D6
+{QUESTION}
+estigui disposada a adoptar l’estil de vida espanyol?
+
+{ANSWERS}
+0 Gens important
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt important
+
+D7
+{QUESTION}
+Utilitzant aquesta targeta, diria vostè que generalment les persones que vénen a viure a Espanya treuen la feina als treballadors espanyols o que generalment ajuden a crear nous llocs de treball?
+
+{ANSWERS}
+0 Treuen la feina
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ajuden a crear nous llocs de feina
+
+D8
+{INTRO}
+La majoria de les persones que vénen a viure a Espanya treballen i paguen impostos. Al mateix temps reben atenció sanitària i altres prestacions socials.
+
+{QUESTION}
+En conjunt, vostè creu que aquestes persones reben més del que aporten o aporten més del que reben? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Generalment reben més
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Generalment aporten més
+
+D9
+{QUESTION}
+El problema de la inseguretat ciutadana a Espanya, empitjora o millora amb l’arribada de gent d’altres països? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 El problema de la seguretat empitjora
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 El problema de la inseguretat millora
+
+D10
+{INTRO}
+I pensant en les persones que han vingut a viure a Espanya des d’un altre país i que són de raça o grup ètnic diferent del de la majoria dels espanyols.
+
+{QUESTION}
+Utilitzant aquesta targeta, digui si us plau fins a quin punt li importaria, o no li importaria, que alguna d’aquestes persones……fos el seu cap?
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt
+
+D11
+{QUESTION}
+…es casés amb un familiar proper seu?
+
+{ANSWERS}
+0 Gens
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt
+
+D12
+{QUESTION}
+Utilitzant aquesta targeta, com descriuria el lloc on viu actualment?
+
+{ANSWERS}
+Un lloc on quasi ningú és d’una raça o grup ètnic diferent del de la majoria dels espanyols 
+Un lloc on algunes persones són d’una raça o grup ètnic diferent del de la majoria dels espanyols 
+Un lloc on moltes persones són d’una raça o grup ètnic diferent del de la majoria dels espanyols 
+
+D13
+{QUESTION}
+Utilitzant aquesta targeta, digui'm si us plau fins a quin punt vostè està d'acord o en desacord amb la següent frase: "És millor per a un país que gairebé tothom comparteixi els mateixos costums i tradicions".
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord 
+En desacord 
+Molt en desacord 
+
+D14
+{QUESTION}
+Fins a quin punt creu vostè que és bo o dolent per a un país tenir una llei contra la discriminació racial o ètnica en el lloc de treball? Si us plau, utilitzi aquesta targeta per respondre
+
+{ANSWERS}
+0 Molt dolent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Molt bo
+
+D15
+{INTRO}
+Algunes persones vénen a Espanya i demanen asil perquè temen ser perseguides als seus països d'origen.
+
+{QUESTION}
+Utilitzant aquesta targeta, si us plau digui'm fins a quin punt està d’acord o en desacord amb la següent frase: “El govern hauria de ser generós a l’hora de resoldre les sol·licituds d’asil.”
+
+{ANSWERS}
+Molt d’acord 
+D’acord 
+Ni d’acord ni en desacord 
+En desacord 
+Molt en desacord 
+
+D16
+{QUESTION}
+De cada 100 persones que viuen a Espanya, quantes creu vostè que han nascut fora del país?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+En comparació amb les persones que, com vostè, van néixer a Espanya, com creu que el govern tracta els que han vingut recentment a viure aquí des d'altres països? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Molt millor
+Una mica millor 
+Igual
+Un mica pitjor
+Molt pitjor 
+
+D18
+{QUESTION}
+Utilitzant aquesta targeta, creu vostè que les creences i pràctiques religioses a Espanya, generalment, s'empobreixen o s'enriqueixen amb les persones d'altres països que vénen a viure aquí?
+
+{ANSWERS}
+0 Les creences i les pràctiques religioses s'empobreixen
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Les creences ipràctiques religioses s'enriqueixen 
+
+D19
+{QUESTION}
+Té vostè amics o amigues propers que siguin d'una raça o grup ètnic diferent al de la majoria dels espanyols? En té uns quants o pocs?
+
+{ANSWERS}
+Sí, uns quants 
+Sí, pocs
+No, cap
+
+D20
+{QUESTION}
+Amb quina freqüència té vostè contacte amb persones que són d'una raça o grup ètnic diferent al de la majoria dels espanyols quan vostè està fora de casa? Per exemple al transport públic, al carrer, a les botigues o al seu veïnat. Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Mai 
+Menys d’una vegada al mes
+Una vegada al mes
+Diverses vegades al mes
+Una vegada a la setmana
+Diverses vegades a la setmana
+Cada dia
+
+D21
+{QUESTION}
+Aquests contacte, en quina mesura diria vostè que, en general, són dolents o bons? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+0 Extremadament dolents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Extremadament bons
+
+D22
+{QUESTION}
+En quina mesura se sent vostè proper/a a Espanya? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Molt proper/a
+Proper/a
+No gaire proper/a
+Gens proper/a 
+
+D23
+{INTRO}
+Les persones sovint tenen diferents punts de vista sobre els següents temes.
+
+{QUESTION}
+Creu vostè que algunes races o grups ètnics són, de naixement, menys intel·ligents que altres?
+
+{ANSWERS}
+Sí
+No 
+
+D24
+{QUESTION}
+Creu vostè que algunes races o grups ètnics són, de naixement, més treballadors que d'altres?
+
+{ANSWERS}
+Sí
+No
+
+D25
+{QUESTION}
+Pensant en el món actual, diria vostè que algunes cultures són molt millors que d'altres o que totes les cultures són iguals? Si us plau, esculli la seva resposta d'aquesta targeta.
+
+{ANSWERS}
+Algunes cultures són molt millors que d'altres 
+Totes les cultures són iguals
+
+D26
+{INTRO}
+A continuació li preguntaré per diferents grups de persones que podrien venir a viure a Espanya des d'altres països.
+
+{QUESTION}
+Utilitzant aquesta targeta, si us plau digui'm en quina mesura creu vostè que Espanya hauria de permetre que…jueus d'altres països vinguin a viure a Espanya?
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D27
+{QUESTION}
+…musulmans d'altres països vinguin a viure a Espanya?
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D28{QUESTION}
+...gitanos d'altres països vinguin a viure a Espanya?
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D30
+{QUESTION}
+Utilitzant la mateixa targeta, digui'm, si us plau, fins a quin punt creu que Espanya hauria de permetre a professionals qualificats de Romania venir a viure a Espanya.
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D31
+{QUESTION}
+Utilitzant la mateixa targeta, digui'm, si us plau, fins a quin punt creu que Espanya hauria de permetre a professionals qualificats del Marroc venir a viure a Espanya.
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D32
+{QUESTION}
+Utilitzant la mateixa targeta, digui'm, si us plau, fins a quin punt creu que Espanya hauria de permetre a treballadors no qualificats de Romania venir a viure a Espanya.
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+D33
+{QUESTION}
+Using the same card, please tell me to what extent you think [country] should allow unskilled labourers from India to come to live in [country]? 
+
+{ANSWERS}
+Hauria de permetre que molts vinguin a viure aquí
+Hauria de permetre que n’hi vinguin uns quants
+Hauria de permetre que n’hi vinguin uns pocs
+No hauria de permetre que n’hi vingui cap
+
+E1
+{INTRO}
+Ara li faré unes preguntes sobre un tema diferent.
+
+{QUESTION}
+Utilitzant aquesta targeta, si us plau, digui’m amb quina freqüència menja vostè fruita, sense comptar els sucs?
+
+{ANSWERS}
+Tres cops o més al dia
+Dos cops al dia
+Un cop al dia
+Menys d'un cop al dia però almenys quatre cops a la setmana 
+Menys de quatre cops a la setmana però almenys un cop a la setmana 
+Menys d'un cop a la setmana 
+Mai 
+
+E2
+{QUESTION}
+Utilitzant la mateixa targeta, digui’m, si us plau, amb quina freqüència menja vostè verdures o amanida, sense comptar les patates?
+
+{ANSWERS}
+Tres cops o més al dia
+Dos cops al dia
+Un cop al dia
+Menys d'un cop al dia però almenys quatre cops a la setmana 
+Menys de quatre cops a la setmana però almenys un cop a la setmana 
+Menys d'un cop a la setmana 
+Mai 
+
+E3
+{QUESTION}
+Dels darrers 7 dies, quants ha caminat ràpidament, ha fet esport o alguna altra activitat física durant 30 minuts o més?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Ara, sobre fumar cigarretes.
+
+{QUESTION}
+Quina de les
+descripcions d'aquesta targeta descriu millor el seu comportament en relació a fumar?
+
+{ANSWERS}
+Fumo cada dia 
+Fumo, però no cada dia
+Ara no fumo, però abans sí
+Només he fumat unes quantes vegades 
+No he fumat mai
+
+E5
+{QUESTION}
+Quantes cigarretes fuma en un dia normal?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+En els darrers 12 mesos, és a dir, des de [mes, any], amb quina freqüència ha pres alguna beguda que contenia alcohol? Per exemple vi, cervesa, cava, sidra, licors o altres begudes que continguin alcohol. Si us plau, esculli una resposta d'aquesta targeta.
+
+{ANSWERS}
+Cada dia
+Diverses vegades a la setmana
+Una vegada a la setmana
+2-3 vegades al mes
+Una vegada al mes
+Menys d’una vegada al mes
+Mai
+
+E7
+{INTRO}
+Si us plau, pensi en l'última vegada que va beure alcohol un dilluns, dimarts, dimecres o dijous.
+
+{QUESTION}
+Quantes de cadascuna de les següents begudes va prendre aquell dia? Utilitzi aquesta tarjeta com a guia per a la seva resposta.
+ 
+{ANSWERS}
+Clara de cervesa (200 ml.) 
+Tinto de verano o sangria 
+Canya petita o quinto (200 ml.)
+Cany gran, llauna o mitjana (330 ml.)
+Copa de vi, cava 
+Aperitiu: mançanilla, xerès, vermut
+Ampolla de vi (750 ml.) 
+Xibeca (Litrona) o mini (1 llitre de cervesa)
+Xarrup (Txupito) de licor 
+Còctel: mojito caipirinha, etc 
+Licor fort: whisky, orujo, ginebra, conyac, etc.
+Combinat: gintonic, vodka amb refresc, cubata, etc.
+
+E8
+{INTRO}
+Ara si us plau pensi en l'última vegada que va beure alcohol un divendres, dissabte o diumenge.
+
+{QUESTION}
+Quantes de cadascuna de les següents begudes va prendre aquell dia? Utilitzi aquesta tarjeta com a guia per a la seva resposta.
+
+{ANSWERS}
+Clara de cervesa (200 ml.) 
+Tinto de verano o sangria 
+Canya petita o quinto (200 ml.)
+Cany gran, llauna o mitjana (330 ml.)
+Copa de vi, cava 
+Aperitiu: mançanilla, xerès, vermut
+Ampolla de vi (750 ml.) 
+Xibeca (Litrona) o mini (1 llitre de cervesa)
+Xarrup (Txupito) de licor 
+Còctel: mojito caipirinha, etc 
+Licor fort: whisky, orujo, ginebra, conyac, etc.
+Combinat: gintonic, vodka amb refresc, cubata, etc.
+
+E10a
+{INTRO}
+Aquesta targeta mostra sis exemples diferents de la quantitat d'alcohol que una persona podria beure en una sola ocasió.
+
+{QUESTION}
+En els darrers 12 mesos, amb quina freqüència ha begut vostè aquesta quantitat d'alcohol o més en una sola ocasió?
+
+{ANSWERS}
+Cada dia o gairebé cada dia 
+Cada setmana 
+Cada mes 
+Menys d'un cop al mes 
+Mai
+
+E10b
+{INTRO}
+Aquesta targeta mostra sis exemples diferents de la quantitat d'alcohol que una persona podria beure en una sola ocasió.
+
+{QUESTION}
+En els darrers 12 mesos, amb quina freqüència ha begut aquesta quantitat d'alcohol o més en una sola ocasió?
+
+{ANSWERS}
+Cada dia o gairebé cada dia 
+Cada setmana 
+Cada mes 
+Menys d'un cop al mes 
+Mai
+
+E11
+{QUESTION}
+Quina és la seva alçada sense sabates?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Quin és el seu pes sense sabates?
+
+{ANSWERS}
+
+E13
+{INTRO}
+
+{QUESTION}
+En els últims 12 mesos, és a dir des de [mes, any], amb quins dels professionals de la salut que apareixen en aquesta targeta ha tractat temes relacionats amb la seva salut?
+
+{ANSWERS}
+Metge de capçalera /de família
+Metge especialista (excepte dentistes)
+
+E14
+{QUESTION}
+En els últims 12 mesos, és a dir des de [mes, any], alguna de les raons que apareixen en aquesta targeta li ha impedit aconseguir una consulta o tractament mèdic que necessitava?
+
+{ANSWERS}
+Sí
+No
+
+E15
+{QUESTION}
+Quina o quines de les raons de la targeta li han impedit aconseguir una consulta o tractament mèdic?
+
+{ANSWERS}
+No el podia pagar
+No podia absentar-se de la feina 
+Tenia altres compromisos 
+El tractament que vostè necessitava no estava disponible a prop d'on viu 
+La llista d'espera era massa llarga 
+No hi havia cites disponibles 
+Una altra
+
+E16
+{QUESTION}
+I això ha estat perquè
+
+{ANSWERS}
+…vostè ha pogut aconseguir totes les consultes o tractaments mèdics que necessitava,
+o, perquè no ha necessitat cap consulta o tractament mèdic en els últims 12 mesos?
+
+E17
+{QUESTION}
+¿Dedica algun temps a cuidar o ajudar famíliars, amics, veïns o altres persones per alguna de les raons d'aquesta targeta? No compti res que sigui part del seu treball remunerat.
+
+{ANSWERS}
+Sí
+No
+
+E18
+{QUESTION}
+En general, quantes hores hi dedica a la setmana? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+1-10 hores a la setmana 
+11-20 hores a la setmana
+21-30 hores a la setmana
+31-40 hores a la setmana
+41-50 hores a la setmana
+Més de 50 hores a la setmana
+
+E19
+{QUESTION}
+En els últims 12 mesos, és a dir des de [mes, any], quins dels tractaments d'aquesta targeta ha fet servir per a la seva salut?
+
+{ANSWERS}
+Acupuntura
+Digitopressió o “acupressió”
+Medicina tradicional xinesa
+Quiropràctica
+Osteopatia
+Homeopatia
+Plantes medicinals (fitoteràpia)
+Hipnoteràpia
+Massatge terapèutic
+Fisioteràpia
+Reflexologia
+Guarició espiritual
+
+E20
+{INTRO}
+A continuació li llegiré un llistat de sentiments o comportaments que potser ha tingut durant l'última setmana.
+
+{QUESTION}
+Si us plau, utilitzi aquesta targeta i digui'm amb quina freqüència, durant la darrera setmana…s'ha sentit deprimit/da?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E21
+{QUESTION}
+...ha tingut la sensació que li costava molt fer qualsevol cosa?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E22
+{QUESTION}
+…ha dormit inquiet/a?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E23
+{QUESTION}
+…s'ha sentit feliç?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E24
+{QUESTION}
+…s'ha sentit sol/a?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E25
+{QUESTION}
+…ha tingut la sensació de gaudir de la vida?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E26
+{QUESTION}
+…s'ha sentit trist/a? 
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E27
+{QUESTION}
+…s'ha sentit gsense ànims?
+
+{ANSWERS}
+En cap moment o gairebé cap moment
+En algun moment
+Bona part de temps
+Tot o gairebé tot el temps
+
+E28
+{QUESTION}
+Quins dels problemes de salut que apareixen en aquesta targeta ha tingut en els últims 12 mesos, és a dir des de [mes, any]? Només digui'm quines lletres corresponen al seu cas.
+
+{ANSWERS}
+Z Problema del cor o de la circulació 
+F Pressió alta / Hipertensió 
+T Problemes respiratoris com ara atacs d'asma o respiració sibilant (xiulets respiratoris)
+K Al·lèrgies
+H Mal d'esquena o de coll 
+Y Dolor muscular o de les articulacions en mans o braços 
+Q Dolor muscular o de les articulacions en peus o cames 
+E Problemes relacionats amb l'estómac o la digestió 
+L Problemes de la pell 
+B Forts mals de cap 
+M Diabetis 
+
+E29
+{QUESTION}
+I quins dels problemes de salut que vostè ha tingut en els últims 12 mesos li han dificultat, d'alguna manera, el desenvolupament de les seves activitats diàries? Com a la pregunta anterior, només digui'm quines lletres corresponen al seu cas.
+
+{ANSWERS}
+{ANSWERS}
+Z Problema del cor o de la circulació 
+F Pressió alta / Hipertensió 
+T Problemes respiratoris com ara atacs d'asma o respiració sibilant (xiulets respiratoris)
+K Al·lèrgies
+H Mal d'esquena o de coll 
+Y Dolor muscular o de les articulacions en mans o braços 
+Q Dolor muscular o de les articulacions en peus o cames 
+E Problemes relacionats amb l'estómac o la digestió 
+L Problemes de la pell 
+B Forts mals de cap 
+M Diabetis 
+
+E30
+
+{QUESTION}
+Té o ha tingut mai algun dels problemes de salut que apareixen en aquesta targeta?
+
+{ANSWERS}
+Sí, actualment 
+Sí, abans 
+No, mai
+
+E31
+{QUESTION}
+Utilitzant aquesta targeta, digui'm si us plau amb quina freqüència hi havia conflictes greus entre les persones que vivien a casa seva durant la seva infància o adolescència.
+
+{ANSWERS}
+Sempre 
+Sovint
+De vegades 
+Gairebé mai
+Mai
+
+E32
+{QUESTION}
+Utilitzant la mateixa
+targeta, digui'm si us plau amb quina freqüència vostè i la seva família van tenir dificultats econòmiques greus durant la seva infància o adolescència.
+
+{ANSWERS}
+Sempre 
+Sovint
+De vegades 
+Gairebé mai
+Mai
+
+F44
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit el seu marit/muller/parella? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Menys d’ Educació Primària
+28. Sense estudis (no ha anat mai a l’escola)
+29. Estudis primaris sense completar (menys de 5 anys)
+Educació Primària
+30. Antiga Educació Primària (Certificat d’estudis primaris)
+31. Fins a 5è d’EGB
+32. Educació Primària (LOGSE)
+33. Grau Elemental de Música i Dansa
+Educació Secundària (primera etapa)
+34. Batxillerat Elemental
+35. EGB
+36. ESO
+Batxillerat
+37. Batxillerat Superior, BUP
+38. PREU, COU
+39. Batxillerat (LOGSE)
+Qualificació Professional
+40. F.P. de Iniciació
+41. Programes de Garantia Social,
+Programes de Qualificació Professional Inicial (PQPI) Formació Professional
+42. F.P. Oficialia
+43. F.P. de 1er Grau (FP I)
+44. C.F. de Grau Mitjà (Tècnic mitjà)
+45. C.F. de Grau Mitjà en Arts Plàstiques i Disseny
+46. Grau Mitjà de Música i Dansa
+47. F.P. Mestratge
+48. F.P. de 2n Grau (FP II)
+49. C.F. de Grau Superior (Tècnic superior)
+50. C.F. de Grau Superior en Escoles d’Art
+Estudis superiors/ Universitaris
+51. Peritatge, Infermeria, Magisteri, Assistent Social
+52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
+53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
+54. Doctorat
+Altres 
+55. Altres (especificar) 
+
+F44
+{QUESTION}
+Quin és el nivell d'estudis més alt que ha assolit el seu marit/muller/parella? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Menys d’ Educació Primària
+28. Sense estudis (no ha anat mai a l’escola)
+29. Estudis primaris sense completar (menys de 5 anys)
+Educació Primària
+30. Antiga Educació Primària (Certificat d’estudis primaris)
+31. Fins a 5è d’EGB
+32. Educació Primària (LOGSE)
+33. Grau Elemental de Música i Dansa
+Educació Secundària (primera etapa)
+34. Batxillerat Elemental
+35. EGB
+36. ESO
+Batxillerat
+37. Batxillerat Superior, BUP
+38. PREU, COU
+39. Batxillerat (LOGSE)
+Qualificació Professional
+40. F.P. de Iniciació
+41. Programes de Garantia Social,
+Programes de Qualificació Professional Inicial (PQPI) Formació Professional
+42. F.P. Oficialia
+43. F.P. de 1er Grau (FP I)
+44. C.F. de Grau Mitjà (Tècnic mitjà)
+45. C.F. de Grau Mitjà en Arts Plàstiques i Disseny
+46. Grau Mitjà de Música i Dansa
+47. F.P. Mestratge
+48. F.P. de 2n Grau (FP II)
+49. C.F. de Grau Superior (Tècnic superior)
+50. C.F. de Grau Superior en Escoles d’Art
+Estudis superiors/ Universitaris
+51. Peritatge, Infermeria, Magisteri, Assistent Social
+52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
+53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
+54. Doctorat
+Altres 
+55. Altres (especificar) 
+  
+F52
+{QUESTION}
+Quin és el nivell d'estudis més alt assolit pel seu pare? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Menys d’ Educació Primària
+28. Sense estudis (no ha anat mai a l’escola)
+29. Estudis primaris sense completar (menys de 5 anys)
+Educació Primària
+30. Antiga Educació Primària (Certificat d’estudis primaris)
+31. Fins a 5è d’EGB
+32. Educació Primària (LOGSE)
+33. Grau Elemental de Música i Dansa
+Educació Secundària (primera etapa)
+34. Batxillerat Elemental
+35. EGB
+36. ESO
+Batxillerat
+37. Batxillerat Superior, BUP
+38. PREU, COU
+39. Batxillerat (LOGSE)
+Qualificació Professional
+40. F.P. de Iniciació
+41. Programes de Garantia Social,
+Programes de Qualificació Professional Inicial (PQPI) Formació Professional
+42. F.P. Oficialia
+43. F.P. de 1er Grau (FP I)
+44. C.F. de Grau Mitjà (Tècnic mitjà)
+45. C.F. de Grau Mitjà en Arts Plàstiques i Disseny
+46. Grau Mitjà de Música i Dansa
+47. F.P. Mestratge
+48. F.P. de 2n Grau (FP II)
+49. C.F. de Grau Superior (Tècnic superior)
+50. C.F. de Grau Superior en Escoles d’Art
+Estudis superiors/ Universitaris
+51. Peritatge, Infermeria, Magisteri, Assistent Social
+52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
+53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
+54. Doctorat
+Altres 
+55. Altres (especificar) 
+  
+F56
+{QUESTION}
+Quin és el nivell d'estudis més alt assolit per la seva mare? Si us plau, utilitzi aquesta targeta.
+
+{ANSWERS}
+Menys d’ Educació Primària
+28. Sense estudis (no ha anat mai a l’escola)
+29. Estudis primaris sense completar (menys de 5 anys)
+Educació Primària
+30. Antiga Educació Primària (Certificat d’estudis primaris)
+31. Fins a 5è d’EGB
+32. Educació Primària (LOGSE)
+33. Grau Elemental de Música i Dansa
+Educació Secundària (primera etapa)
+34. Batxillerat Elemental
+35. EGB
+36. ESO
+Batxillerat
+37. Batxillerat Superior, BUP
+38. PREU, COU
+39. Batxillerat (LOGSE)
+Qualificació Professional
+40. F.P. de Iniciació
+41. Programes de Garantia Social,
+Programes de Qualificació Professional Inicial (PQPI) Formació Professional
+42. F.P. Oficialia
+43. F.P. de 1er Grau (FP I)
+44. C.F. de Grau Mitjà (Tècnic mitjà)
+45. C.F. de Grau Mitjà en Arts Plàstiques i Disseny
+46. Grau Mitjà de Música i Dansa
+47. F.P. Mestratge
+48. F.P. de 2n Grau (FP II)
+49. C.F. de Grau Superior (Tècnic superior)
+50. C.F. de Grau Superior en Escoles d’Art
+Estudis superiors/ Universitaris
+51. Peritatge, Infermeria, Magisteri, Assistent Social
+52. Diplomat, Enginyer o Arquitecte Tècnic, 3 anys de Llicenciatura, Grau (Bolonya), Títol Superior en Disseny
+53. Llicenciat, Enginyer Superior, Arquitecte Superior, Màster (Bolonya), Títol Superior en Música, Dansa o Art Dramàtic
+54. Doctorat
+Altres 
+55. Altres (especificar) 

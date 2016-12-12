@@ -1,0 +1,819 @@
+﻿D1 
+{INTRO}
+Menschen aus anderen Ländern kommen aus ganz verschiedenen Gründen nach Deutschland, um hier zu leben. Einige dieser Zuwanderer haben Vorfahren in Deutschland. Andere kommen, um hier zu arbeiten oder weil ihre Familien hier leben. Wieder andere kommen, weil sie in ihren Herkunftsländern bedroht werden. Ich möchte Ihnen zu diesem Thema einige Fragen stellen.Jetzt geht es um die Entscheidung darüber, ob jemand, der außerhalb von Deutschland geboren und aufgewachsen ist, nach Deutschland kommen und hier leben darf.
+
+{QUESTION}
+Wie wichtig sollten für diese Entscheidung - Ihrer Meinung nach - die folgenden Dinge sein. Bitte benutzen Sie Liste 27. ...eine gute Schul- und Berufsausbildung hat?
+
+{ANSWERS}
+0 Äußerst unwichtig1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig
+
+D3
+{QUESTION}
+...eine christliche Herkunft hat?
+
+{ANSWERS}
+0 Äußerst unwichtig1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig
+
+D5
+{QUESTION}
+...berufliche Fähigkeiten hat, die man in Deutschland braucht?
+
+{ANSWERS}
+0 Äußerst unwichtig1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst wichtig
+
+D7
+{QUESTION}
+Was würden Sie sagen, nehmen Zuwanderer, die hierher kommen, im Allgemeinen Arbeitnehmern in Deutschland die Arbeitsplätze weg oder helfen sie im Allgemeinen, neue Arbeitsplätze zu schaffen? Bitte benutzen Sie dazu Liste 28.
+
+{ANSWERS}
+0 Nehmen Arbeitsplätze weg 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Schaffen neue Arbeitsplätze
+
+D8
+{INTRO}
+Die meisten Zuwanderer, die hierher kommen, arbeiten und zahlen Steuern. Sie nehmen außerdem das Gesundheitssystem und Sozialleistungen in Anspruch.
+
+{QUESTION}
+Wenn Sie abwägen, denken Sie, dass Zuwanderer mehr bekommen als sie geben, oder mehr geben, als sie bekommen? Bitte benutzen Sie Liste 29.
+
+{ANSWERS}
+0 Im Allgemeinen bekommen sie mehr1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Im Allgemeinen geben sie mehr
+
+D9
+{QUESTION}
+Nehmen durch Zuwanderer Deutschlands Probleme mit der Kriminalität zu oder ab? Bitte benutzen Sie Liste 30.
+
+{ANSWERS}
+0 Probleme mit der Kriminalität nehmen zu 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Problem emit der Kriminalität nehmen ab
+
+D10
+{INTRO}
+Bitte benutzen Sie Liste 31 und denken Sie jetzt an Zuwanderer, die nach Deutschland kommen und einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Deutschen.
+
+{QUESTION}
+Wie sehr würde es Sie stören oder nicht stören, wenn so jemand...Ihr Vorgesetzter würde?
+
+{ANSWERS}
+0 würde mich überhaupt nicht stören 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 würde mich sehr stören
+
+D11
+{QUESTION}
+...eine mit Ihnen nahe Verwandte Person heiraten würde?
+
+{ANSWERS}
+0 würde mich überhaupt nicht stören 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 würde mich sehr stören
+
+D12
+{QUESTION}
+Und nun benutzen Sie Liste 32 und sagen mir, wie Sie das Wohngebiet beschreiben würden, in dem Sie gegenwärtig leben.
+
+{ANSWERS}
+Ein Gebiet, in dem so gut wie niemand einer anderen Volksgruppe oder ethnischen Gruppe angehört als die meisten Deutschen
+Ein Gebiet, in dem einige Menschen einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Deutschen
+Ein Gebiet, in dem viele Menschen einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Deutschen
+
+D13
+{QUESTION}
+Bitte sagen Sie mir anhand von Liste 33, wie sehr Sie der folgenden Aussage zustimmen oder wie sehr Sie diese ablehnen.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+D14
+{QUESTION}
+Wie gut oder schlecht ist es für ein Land, ein Gesetz gegen die Diskriminierung von Angehörigen bestimmter Volksgruppen oder ethnischer Gruppen am Arbeitsplatz zu haben? Bitte sagen Sie es mir anhand von Liste 34.
+
+{ANSWERS}
+0 Äußerst schlecht 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst gut
+
+D15
+{INTRO}
+Es gibt Menschen, die nach Deutschland kommen und Asyl beantragen, weil sie in ihrem eigenen Land Angst vor Verfolgung haben.
+
+{QUESTION}
+Bitte sagen Sie mir anhand von Liste 35, wie sehr Sie der folgenden Aussage zustimmen oder wie sehr Sie diese ablehnen.
+
+{ANSWERS}
+Stimme stark zu
+Stimme zu
+Weder noch
+Lehne ab
+Lehne stark ab
+
+D16
+{QUESTION}
+Was meinen Sie, wie viele von 100 Menschen, die in Deutschland leben, sind außerhalb Deutschlands geboren?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Was meinen Sie: Wie werden Zuwanderer, die erst vor Kurzem nach Deutschland gekommen sind, von Regierung und Staat im Vergleich zu Menschen wie Ihnen behandelt, die in Deutschland geboren sind?
+
+{ANSWERS}
+Viel besser
+Ein bisschen besser
+Gleich
+Ein bisschen schlechter
+Viel schlechter
+
+D18
+{QUESTION}
+Finden Sie, dass religiöse Überzeugungen und Bräuche in Deutschland durch Menschen aus anderen Ländern in der Regel geschwächt oder bereichert werden? Bitte benutzen Sie Liste 37.
+
+{ANSWERS}
+0 Religiöse Überzeugungen und Bräuche werden geschwächt 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Religiöse Überzeugungen und Bräuche werden bereichert 
+
+D19
+{QUESTION}
+Haben Sie enge Freunde, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Deutschen?
+
+{ANSWERS}
+Ja, mehrere
+Ja, ein paar wenige
+Nein, überhaupt keine
+
+D20
+{QUESTION}
+Wie oft haben Sie, wenn Sie unterwegs sind, Kontakt mit Menschen, die einer anderen Volksgruppe oder ethnischen Gruppe angehören als die meisten Deutschen? Das kann in einem öffentlichen Verkehrsmittel sein, auf der Straße, beim Einkaufen oder in der Nachbarschaft. Bitte benutzen Sie Liste 38.
+
+{ANSWERS}
+Nie
+Weniger als einmal im Monat
+Einmal im Monat
+Mehrmals im Monat
+Einmal in der Woche
+Mehrmals in der Woche
+Täglich
+
+D21
+{QUESTION}
+Wenn Sie an diese Kontakte denken: Wie schlecht oder gut sind diese in der Regel? Bitte benutzen Sie Liste 39.
+
+{ANSWERS}
+0 Äußerst schlecht
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Äußerst gut
+
+D22
+{QUESTION}
+Wie eng fühlen Sie sich mit Deutschland verbunden?
+
+{ANSWERS}
+Sehr eng
+Eng
+Nicht sehr eng
+Überhaupt nicht eng
+
+D23
+{INTRO}
+Zu den nächsten Fragen gibt es oft unterschiedliche Meinungen.
+
+{QUESTION}
+Glauben Sie, dass gewisse Volksgruppen oder ethnische Gruppen von Natur aus weniger intelligent sind als andere?
+
+{ANSWERS}
+Ja
+Nein
+
+D24
+{QUESTION}
+Glauben Sie, dass gewisse Volksgruppen oder ethnische Gruppen von Natur aus fleißiger sind als andere?
+
+{ANSWERS}
+Ja
+Nein
+
+D25
+{QUESTION}
+Wenn Sie an die Welt von heute denken, würden Sie dann sagen, dass bestimmte Kulturen viel besser sind als andere oder dass alle Kulturen gleich gut sind? Bitte wählen Sie Ihre Antwort von Liste 41.
+
+{ANSWERS}
+Bestimmte Kulturen sind viel besser als andere
+Alle Kulturen sind gleich gut
+
+D26
+{INTRO}
+Ich werde Ihnen jetzt ein paar Fragen zu verschiedenen Gruppen von Menschen stellen, die nach Deutschland zuwandern könnten, um hier zu leben.
+
+{QUESTION}
+Bitte sagen Sie mir anhand von Liste 42, in welchem Ausmaß Deutschland Ihrer Meinung nach…die Zuwanderung von jüdischen Menschen aus anderen Ländern erlauben sollte?
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D27
+{QUESTION}
+...die Zuwanderung von Muslimen aus anderen Ländern erlauben sollte?
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D28
+{QUESTION}
+...die Zuwanderung von Sinti und Roma aus anderen Ländern erlauben sollte?
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D30
+{QUESTION}
+Was meinen Sie: Wie vielen hoch qualifizierten Fachkräften aus Polen sollte Deutschland die Zuwanderung erlauben, um hier zu leben? Bitte benutzen Sie wieder die gleiche Liste 42. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D31
+{INTRO}
+
+{QUESTION}
+Was meinen Sie: Wie vielen hoch qualifizierten Fachkräften aus der Türkei sollte Deutschland die Zuwanderung erlauben, um hier zu leben? Bitte benutzen Sie wieder die gleiche Liste 42. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D32
+{QUESTION}
+Was meinen Sie: Wie vielen ungelernten Arbeitskräften aus Polen sollte Deutschland die Zuwanderung erlauben, um hier zu leben? Bitte benutzen Sie wieder die gleiche Liste 42. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+D33
+{QUESTION}
+Was meinen Sie: Wie vielen ungelernten Arbeitskräften aus der Türkei sollte Deutschland die Zuwanderung erlauben, um hier zu leben? Bitte benutzen Sie wieder die gleiche Liste 42. Sollte Deutschland es...
+
+{ANSWERS}
+vielen erlauben, herzukommen
+und hier zu leben
+einigen erlauben
+ein paar wenigen erlauben
+niemandem erlauben
+
+E1
+{INTRO}
+Und jetzt ein paar Fragen zu einem anderen Thema.
+
+{QUESTION}
+Bitte sagen Sie mir anhand von Liste 43, wie häufig Sie Obst essen - Fruchtsäfte zählen nicht.
+
+{ANSWERS}
+Dreimal pro Tag oder öfter
+Zweimal pro Tag
+Einmal pro Tag
+Weniger als einmal pro Tag,
+aber mindestens 4 Mal pro Woche
+Weniger als 4 Mal pro Woche,
+aber mindestens einmal pro Woche
+Weniger als einmal pro Woche
+Nie
+
+E2
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Liste, wie häufig Sie Gemüse oder Salat essen - Kartoffeln zählen nicht.
+
+{ANSWERS}
+Dreimal pro Tag oder öfter
+Zweimal pro Tag
+Einmal pro Tag
+Weniger als einmal pro Tag,
+aber mindestens 4 Mal pro Woche
+Weniger als 4 Mal pro Woche,
+aber mindestens einmal pro Woche
+Weniger als einmal pro Woche
+Nie
+
+E3
+{QUESTION}
+An wie vielen der letzten 7 Tage sind Sie 30 Minuten oder länger entweder schnell zu Fuß gegangen oder haben sich sportlich oder auf eine andere Art körperlich betätigt?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Und jetzt geht es um das Rauchen von Zigaretten.
+
+{QUESTION}
+Welche Beschreibung auf Liste 44 trifft am besten auf Ihr Rauchverhalten zu?
+
+{ANSWERS}
+Ich rauche täglich
+Ich rauche, aber nicht täglich
+Ich rauche nicht mehr,  habe aber früher geraucht
+Ich habe nur ein paar wenige Male geraucht
+Ich habe nie geraucht
+
+E5
+{QUESTION}
+Wie viele Zigaretten rauchen Sie normalerweise pro Tag?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten, das heißt, seit [MONAT, JAHR], ein alkoholisches Getränk getrunken? Gemeint sind zum Beispiel Wein, Bier, Apfelwein, Schnaps oder andere Getränke, die Alkohol enthalten. Wählen Sie Ihre Antwort von Liste
+
+{ANSWERS}
+Jeden Tag
+Mehrmals pro Woche
+Einmal pro Woche
+2 bis 3 Mal pro Monat
+Einmal pro Monat
+Weniger als einmal pro Monat
+Nie
+
+E7
+{INTRO}
+Bitte denken Sie jetzt an das letzte Mal, an dem Sie ein alkoholisches Getränk an einem Montag, Dienstag, Mittwoch oder Donnerstag getrunken haben.
+
+{QUESTION}
+Wie viele der folgenden Getränke haben Sie an diesem Tag getrunken? Antworten Sie anhand von Liste 46.
+ 
+{ANSWERS}
+Großes Glas Bier (0,4l)
+Kleines Glas Bier (0,25l)
+Flasche oder Dose Bier (0,33l)
+Biermischung mit Cola/Limonade (0,33l)
+Großes Glas Wein (0,2l)
+Kleines Glas Wein oder Glas Sekt (0,125l)
+Flasche Wein (0,75l)
+Glas Likör (0,04l)
+Glas Spirituosen (0,02l)
+Cocktail oder Longdrink
+
+E8
+{INTRO}
+Bitte denken Sie jetzt an das letzte Mal, an dem Sie ein alkoholisches Getränk an einem Freitag, Samstag oder Sonntag getrunken haben.
+
+{QUESTION}
+Wie viele der folgenden Getränke haben Sie an diesem Tag getrunken?
+
+{ANSWERS}
+Großes Glas Bier (0,4l)
+Kleines Glas Bier (0,25l)
+Flasche oder Dose Bier (0,33l)
+Biermischung mit Cola/Limonade (0,33l)
+Großes Glas Wein (0,2l)
+Kleines Glas Wein oder Glas Sekt (0,125l)
+Flasche Wein (0,75l)
+Glas Likör (0,04l)
+Glas Spirituosen (0,02l)
+Cocktail oder Longdrink
+
+E10a
+{INTRO}
+Liste 47a zeigt sechs verschiedene Beispiele, wie viel Alkohol jemand bei einer einzelnen Gelegenheit trinken könnte.
+
+{QUESTION}
+Hinweis: Liste 47a wird nicht verlistet; dient allein Anschauungszwecken.Wie oft haben Sie in den letzten 12 Monaten so viel Alkohol oder mehr bei einer einzelnen Gelegenheit getrunken?
+
+{ANSWERS}
+… täglich oder fast täglich,
+einmal pro Woche,
+einmal pro Monat,
+weniger als einmal pro Monat
+oder nie?
+
+E10b
+{INTRO}
+Liste 47b zeigt sechs verschiedene Beispiele, wie viel Alkohol jemand bei einer einzelnen Gelegenheit trinken könnte.
+
+{QUESTION}
+Wie oft haben Sie in den letzten 12 Monaten so viel Alkohol oder mehr bei einer einzelnen Gelegenheit getrunken?
+
+{ANSWERS}
+… täglich oder fast täglich,
+einmal pro Woche,
+einmal pro Monat,
+weniger als einmal pro Monat
+oder nie?
+
+E11
+{QUESTION}
+Wie groß sind Sie ohne Schuhe?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Wie schwer sind Sie ohne Schuhe?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [Erhebungsmonat, Erhebungsjahr]: Mit welchen Ärzten auf Liste 48 haben Sie über Ihre Gesundheit gesprochen?
+
+{ANSWERS}
+Hausarzt/Hausärztin
+Facharzt/Fachärztin (ohne Zahnarzt/Zahnärztin)
+
+E14
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [Erhebungsmonat, Erhebungsjahr]. Ist es Ihnen aus einem der Gründe auf Liste 49 jemals nicht möglich gewesen, einen Arzttermin oder eine benötigte medizinische Behandlung zu bekommen?
+
+{ANSWERS}
+Ja
+Nein
+
+E15
+{QUESTION}
+Aus welchen Gründen auf der gleichen Liste haben Sie diesen Arzttermin oder diese medizinische Behandlung nicht bekommen?
+
+{ANSWERS}
+Ich habe es mir finanziell nicht leisten können
+Ich habe bei der Arbeit nicht freinehmen können
+Ich habe andere Verpflichtungen gehabt
+Die benötigte Behandlung ist in meiner näheren Umgebung nicht erhältlich gewesen
+Die Warteliste ist zu lang gewesen
+Es sind keine Termine frei gewesen
+Andere Gründe
+
+E16
+{QUESTION}
+Ist das so, …
+
+{ANSWERS}
+...weil Sie alle benötigten Arzttermine oder medizinischen Behandlungen bekommen haben,
+oder weil Sie in den letzten 12 Monaten weder Arzttermine noch medizinische Behandlungen gebraucht haben?
+
+E17
+{QUESTION}
+Verbringen Sie Zeit damit, um Familienmitglieder, Freunde, Nachbarn oder andere Menschen zu betreuen oder ihnen zu helfen - und zwar aus irgendeinem Grund, der auf Liste 50 steht?
+
+{ANSWERS}
+Ja
+Nein
+
+E18
+{QUESTION}
+Wie viele Stunden pro Woche verbringen Sie im Allgemeinen damit? Bitte benutzen Sie Liste 51.
+
+{ANSWERS}
+1 bis 10 Stunden pro Woche
+11 bis 20 Stunden pro Woche
+21 bis 30 Stunden pro Woche
+31 bis 40 Stunden pro Woche
+41 bis 50 Stunden pro Woche
+Mehr als 50 Stunden pro Woche
+
+E19
+{QUESTION}
+Denken Sie an die letzten 12 Monate, das heißt seit [Erhebungsmonat, Erhebungsjahr]: Welche Behandlungen auf Liste 52 haben Sie für Ihre eigene Gesundheit in Anspruch genommen?
+
+{ANSWERS}
+Akupunktur
+Akupressur
+Traditionelle Chinesische Medizin (TCM)
+Chiropraktik
+Osteopathie
+Homöopathie
+Pflanzenheilkunde
+Hypnosetherapie
+Massagebehandlung
+Physiotherapie
+Reflexzonentherapie
+Geistheilung
+
+E20
+{INTRO}
+Ich lese Ihnen jetzt eine Reihe von Aussagen vor, bei denen es darum geht, wie Sie sich in der vergangenen Woche vielleicht gefühlt oder verhalten haben.
+
+{QUESTION}
+Bitte benutzen Sie Liste 53 und sagen Sie mir, wie oft in der letzten Woche...Sie sich deprimiert oder niedergeschlagen gefühlt haben?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E21
+{QUESTION}
+...Sie das Gefühl hatten, dass alles, was Sie getan haben, anstrengend war?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E22
+{QUESTION}
+...Sie unruhig geschlafen haben?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E23
+{QUESTION}
+...Sie glücklich gewesen sind?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E24
+{QUESTION}
+...Sie sich einsam gefühlt haben?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E25
+{QUESTION}
+...Sie das Leben genossen haben?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E26
+{QUESTION}
+...Sie sich traurig gefühlt haben?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E27
+{QUESTION}
+...Sie sich zu nichts haben aufraffen können?
+
+{ANSWERS}
+Nie oder fast nie
+Manchmal
+Meistens
+Immer oder fast immer
+
+E28
+{QUESTION}
+Welche gesundheitlichen Probleme auf Liste 54 hatten Sie in den letzten 12 Monaten, also seit [Erhebungsmonat,Erhebungsjahr]? Bitte sagen Sie mir nur die Buchstaben, die auf Sie zutreffen.
+
+{ANSWERS}
+Z Herz- oder Kreislaufprobleme
+F Hoher Blutdruck
+T Atembeschwerden wie Asthmaanfälle, Kurzatmigkeit oder pfeifende Atemgeräusche
+K Allergien
+H Rücken- oder Nackenschmerzen
+Y Muskel- oder Gelenkschmerzen an Hände oder Armen
+Q Muskel- oder Gelenkschmerzen an Füßen oder Beinen
+E Magen- oder Verdauungsbeschwerden
+L Hautprobleme
+B Starke Kopfschmerzen
+M Diabetes
+
+E29
+{QUESTION}
+Und welche von diesen gesundheitlichen Problemen, die Sie in den letzten 12 Monaten gehabt haben, haben Sie irgendwie in Ihrem im Alltag eingeschränkt? Bitte sagen Sie mir wieder nur die Buchstaben, die auf Sie zutreffen.
+
+{ANSWERS}
+Z Herz- oder Kreislaufprobleme
+F Hoher Blutdruck
+T Atembeschwerden wie Asthmaanfälle, Kurzatmigkeit oder pfeifende Atemgeräusche
+K Allergien
+H Rücken- oder Nackenschmerzen
+Y Muskel- oder Gelenkschmerzen an Händen oder Armen
+Q Muskel- oder Gelenkschmerzen an Füßen oder Beinen
+E Magen- oder Verdauungsbeschwerden
+L Hautprobleme
+B Starke Kopfschmerzen
+M Diabetes
+
+E30
+{QUESTION}
+Haben Sie jemals an einem der gesundheitlichen Probleme auf Liste 55 gelitten?
+
+{ANSWERS}
+Ja, heute noch
+Ja, früher einmal
+Nein, nie
+
+E31
+{QUESTION}
+Sagen Sie mir anhand von Liste 56, wie oft es in Ihrer Kindheit und Jugend zwischen den Personen bei Ihnen zu Hause ernsthafte Konflikte gegeben hat.
+
+{ANSWERS}
+Immer
+Oft
+Manchmal
+Fast nie
+Nie
+
+E32
+{QUESTION}
+Bitte sagen Sie mir anhand der gleichen Liste, wie oft Sie und Ihre Familie in Ihrer Kindheit und Jugend ernsthafte finanzielle Schwierigkeiten gehabt haben.
+
+{ANSWERS}
+Immer
+Oft
+Manchmal
+Fast nie
+Nie 
+
+F15
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Sie erreicht haben? Bitte sagen Sie es mir anhand von Liste 62.
+
+{ANSWERS}
+Zwischenprüfung, Vordiplom
+Diplom einer Berufsakademie
+Bachelor einer Verwaltungs-/Fachhochschule, Berufsakademie
+Diplom einer Verwaltungs-/Fachhochschule
+Bachelor einer Universität
+Master einer Fachhochschule
+Diplom, Magister, Staatsexamen einer Universität,
+Kunst-, Musik- oder pädagogischen Hochschule
+Master oder Aufbaustudium einer Universität,
+Kunst-, Musik- oder pädagogischen Hochschule
+Promotion; Habilitation
+
+F44
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr(e) Ehe- mann/ Ehefrau/ Partner/ Partnerin erreicht haben? Bitte sagen Sie es mir anhand von Liste 71.
+
+{ANSWERS}
+Zwischenprüfung, Vordiplom
+Diplom einer Berufsakademie
+Bachelor einer Verwaltungs-/Fachhochschule, Berufsakademie
+Diplom einer Verwaltungs-/Fachhochschule
+Bachelor einer Universität
+Master einer Fachhochschule
+Diplom, Magister, Staatsexamen einer Universität,
+Kunst-, Musik- oder pädagogischen Hochschule
+Master oder Aufbaustudium einer Universität,
+Kunst-, Musik- oder pädagogischen Hochschule
+Promotion; Habilitation
+
+F52
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihr Vater erreicht hat? Bitte sagen Sie es mir anhand von Liste 73.
+
+{ANSWERS}
+Bezahlte Tätigkeit (auch bei vorübergehender Abwesenheit) (abhängig Beschäftigter, Selbständiger, mithelfender Familienangehöriger)
+Schule/Ausbildung (nicht vom Arbeitgeber bezahlt; auch während der Ferien oder im Urlaub)
+Arbeitslos und auf aktiver Suche nach einem Arbeitsplatz
+Arbeitslos, Wunsch nach einem Arbeitsplatz,
+aber keine aktive Suche
+Chronisch krank oder behindert
+Im Vorruhestand/Ruhestand/Frührente/Rente
+Hausarbeit, Betreuung von Kindern oder anderen Personen
+Sonstiges
+
+F56
+{QUESTION}
+Was ist der höchste allgemeinbildende Schulabschluss, den Ihre Mutter erreicht hat? Bitte sagen Sie es mir anhand von Liste 75.
+
+{ANSWERS}
+Grundschule nicht beendet
+Grundschule beendet, aber (noch) kein Abschluss einer weiterführenden Schule
+Volks-/Hauptschulabschluss bzw.
+Polytechnische Oberschule mit Abschluss 8. oder 9. Klasse
+Mittlere Reife/Realschulabschluss bzw.
+Polytechnische Oberschule mit Abschluss 10. Klasse
+Fachhochschulreife (Abschluss einer Fachoberschule etc.)
+Abitur bzw. Erweiterte Oberschule mit Abschluss 12. Klasse (Hochschulreife)

@@ -1,0 +1,749 @@
+﻿D1 
+{INTRO}
+Folk fra andre land kommer av forskjellige grunner til Norge for å bosette seg her. Noen kommer på grunn av slekt eller familiebånd. Andre kommer for å arbeide, eller for å gjenforenes med sin familie. Andre kommer fordi de flykter fra forfølgelse. Her er noen spørsmål om dette emnet.
+
+{QUESTION}
+Hvor viktig synes du hver av disse tingene bør være, når en skal bestemme om noen som er født, oppvokst og bor utenfor Norge skal få bosette seg her? Bruk dette kortet. Hvor viktig er det at de…
+ 
+{ANSWERS}
+0 Ekstremt lite viktig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ekstremt viktig
+
+D3
+{QUESTION}
+…kommer fra en kristen kultur?
+
+{ANSWERS}
+0 Ekstremt lite viktig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ekstremt viktig
+
+D5
+{QUESTION}
+…har kunnskaper og ferdigheter som Norge trenger?
+
+{ANSWERS}
+0 Ekstremt lite viktig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ekstremt viktig
+
+D7
+{QUESTION}
+Vil du si at folk som kommer for å bosette seg her stort sett tar jobber fra norske arbeidstakere, eller at de hjelper til med å skape nye jobber? Bruk kortet til å svare.
+
+{ANSWERS}
+0 Tar jobber fra andre 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Skaper nye jobber
+
+D8
+{INTRO}
+De fleste som bosetter seg i Norge arbeider og betaler skatt. De bruker også helsevesenet og velferdstjenester.
+
+{QUESTION}
+Når regnskapet gjøres
+opp, tror du at folk som bosetter seg får mer tilbake enn de selv bidrar med, eller bidrar de med mer enn de selv får tilbake? Bruk dette kortet.
+
+{ANSWERS}
+0 Får mer enn de bidrar med
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Bidrar med mer enn de får
+
+D9
+{QUESTION}
+Er problemene med kriminalitet i Norge blitt verre eller bedre på grunn av folk som kommer fra andre land for å bosette seg her? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 Problemene med kriminalitet har blitt verre 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Problemene med kriminalitet har blitt bedre
+
+D10
+{INTRO}
+Tenk nå på folk som har kommet fra et annet land for å bosette seg i Norge, og som har en annen hudfarge eller etnisk tilhørighet enn de fleste i Norge.
+
+{QUESTION}
+Hvor mye ville du hatt imot eller ikke hatt imot at en slik person…ble satt til å være sjefen din? Bruk dette kortet til å svare.
+
+{ANSWERS}
+0 Har slett ikke noe imot 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Har mye imot
+
+D11
+{QUESTION}
+…giftet seg med en nær slektning av deg?
+
+{ANSWERS}
+0 Har slett ikke noe imot 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Har mye imot
+
+D12
+{QUESTION}
+Bruk dette kortet og beskriv det området du bor i. Jeg bor i et område hvor …
+
+{ANSWERS}
+nesten ingen har en annen hudfarge eller etnisk tilhørighet enn de fleste i Norge.
+noen har en annen hudfarge eller etnisk tilhørighet enn de fleste i Norge.
+mange har en annen hudfarge eller etnisk tilhørighet enn de fleste i Norge. 
+
+D13
+{QUESTION}
+Bruk dette kortet til å fortelle meg hvor enig eller uenig du er i følgende påstand: ‘Det er best for et land at nesten alle har de samme skikkene og tradisjonene’.
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig
+
+D14
+{QUESTION}
+Hvor godt eller dårlig er det for et land å ha en lov mot rasistisk og etnisk diskriminering på arbeidsplassen? Bruk dette kortet.
+
+{ANSWERS}
+0 Ekstremt dårlig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ekstremt bra
+
+D15
+{INTRO}
+Noen mennesker kommer hit til landet og søker flyktningstatus fordi de frykter forfølgelse i sitt eget hjemland. 
+
+{QUESTION}
+Se på dette kortet og si hvor enig eller uenig du er i følgende påstand.‘Myndighetene bør vise storsinn når de vurderer folks søknader om flyktningstatus’
+
+{ANSWERS}
+Svært enig
+Enig
+Verken enig eller uenig
+Uenig
+Svært uenig 
+
+D16
+{QUESTION}
+Av hundre personer som bor i Norge, hvor mange tror du er født utenfor Norge?
+
+{ANSWERS}
+
+D17b
+{QUESTION}
+Sammenlignet med folk som deg, som er født i Norge, hvordan mener du myndighetene behandler de som nylig har kommet fra andre land for å bosette seg her? Bruk dette kortet.
+
+{ANSWERS}
+Mye bedre
+Litt bedre
+På samme måte
+Litt dårligere
+Mye dårligere
+
+D18
+{QUESTION}
+Se på dette kortet. Mener du at religiøs tro og praksis i Norge generelt blir undergravd eller beriket av mennesker fra andre land som bosetter seg her?
+
+{ANSWERS}
+0 Religiøs tro og praksis blir undergravd 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Religiøs tro og praksis blir beriket 
+
+D19
+{QUESTION}
+Har du noen nære venner med en annen hudfarge eller etnisk tilhørighet enn det de fleste i Norge har?
+
+{ANSWERS}
+Ja, flere
+Ja, noen få
+Nei, ingen
+
+D20
+{QUESTION}
+Hvor ofte kommer du i kontakt med folk med en annen hudfarge eller etnisk tilhørighet enn de fleste i Norge når du er ute og farter? For eksempel på offentlige transportmidler, i gata, i butikker eller i nabolaget. Bruk dette kortet
+
+{ANSWERS}
+Aldri
+Sjeldnere enn en gang i måneden
+En gang i måneden
+Flere ganger i måneden
+En gang per uke
+Flere ganger per uke
+Hver dag
+
+D21
+{QUESTION}
+Tenk på denne kontakten. Generelt sett, hvor dårlig eller god vil du si at denne kontakten er? Bruk dette kortet.
+
+{ANSWERS}
+0 Ekstremt dårlig
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 Ekstremt god
+
+D22
+{QUESTION}
+Hvor nært føler du deg knyttet til Norge? Bruk dette kortet.
+
+{ANSWERS}
+Svært nært
+Nært
+Ikke særlig nært
+Ikke nært i det hele tatt 
+
+D23
+{INTRO}
+Folk har ofte ulike syn på de følgende emnene.
+
+{QUESTION}
+Tror du at mennesker med en bestemt hudfarge eller etnisk tilhørighet er født mindre intelligente enn andre?
+
+{ANSWERS}
+Ja
+Nei
+
+D24
+{QUESTION}
+Tror du at mennesker med en bestemt hudfarge eller etnisk tilhørighet er født mer hardtarbeidende enn andre?
+
+{ANSWERS}
+Ja
+Nei
+
+D25
+{QUESTION}
+Når du tenker på verden i dag, vil du si at noen kulturer er mye bedre enn andre, eller at alle kulturer er like gode? Velg et av svaralternativene på dette kortet.
+
+{ANSWERS}
+Noen kulturer er mye bedre enn andre
+Alle kulturer er like gode
+
+D26
+{INTRO}
+Jeg skal nå stille noen spørsmål om ulike grupper av mennesker som kan tenkes å komme til Norge fra andre land for å bosette seg her.
+
+{QUESTION}
+Bruk dette kortet. I hvilken grad synes du at Norge bør tillate……Jøder fra andre land å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D27
+{QUESTION}
+…Muslimer fra andre land å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D28
+{QUESTION}
+…Rom-folk eller sigøynere fra andre land å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D30
+{QUESTION}
+Bruk det samme kortet. I hvilken grad synes du at Norge bør tillate... høyt kvalifiserte fagpersoner fra Polen å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D31
+{QUESTION}
+Bruk det samme kortet. I hvilken grad synes du at Norge bør tillate...høyt kvalifiserte fagpersoner fra Somalia å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D32
+{QUESTION}
+Bruk det samme kortet. I hvilken grad synes du at Norge bør tillate…ufaglærte fra Polen å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+D33
+{QUESTION}
+Bruk det samme kortet. I hvilken grad synes du at Norge bør tillate...ufaglærte fra Somalia å bosette seg i Norge?
+
+{ANSWERS}
+La mange bosette seg her
+La noen bosette seg her
+La enkelte bosette seg her
+Ikke la noen bosette seg her
+
+E1
+{INTRO}
+Nå skal jeg stille noen spørsmål om et annet tema
+
+{QUESTION}
+Bruk dette kortet og si hvor ofte du spiser frukt? Regn ikke med drikking av juice.
+
+{ANSWERS}
+Tre ganger om dagen eller oftere
+To ganger om dagen
+En gang om dagen
+Sjeldnere enn en gang om dagen, men minst 4 ganger per uke
+Sjeldnere enn 4 ganger per uke, men minst en gang per uke
+Sjeldnere enn en gang per uke
+Aldri 
+
+E2
+{QUESTION}
+Bruk det samme kortet og si hvor ofte du spiser grønnsaker eller salat? Regn ikke med poteter.
+
+{ANSWERS}
+Tre ganger om dagen eller oftere
+To ganger om dagen
+En gang om dagen
+Sjeldnere enn en gang om dagen, men minst 4 ganger per uke
+Sjeldnere enn 4 ganger per uke, men minst en gang per uke
+Sjeldnere enn en gang per uke
+Aldri 
+
+E3
+{QUESTION}
+Hvor mange av de siste 7 dagene, har du gått raskt, drevet med trening, sport eller annen fysisk aktivitet i 30 minutter eller mer?
+
+{ANSWERS}
+
+E4
+{INTRO}
+Nå kommer noen spørsmål om røyking av sigaretter.
+
+{QUESTION}
+Hvilket alternativ på dette kortet beskriver best dine røykevaner?
+
+{ANSWERS}
+Jeg røyker daglig
+Jeg røyker, men ikke hver dag
+Jeg røyker ikke nå, men har gjort det tidligere
+Jeg har bare røkt noen få ganger
+Jeg har aldri røkt 
+
+E5
+{QUESTION}
+Hvor mange sigaretter røyker du i løpet av en vanlig dag?
+
+{ANSWERS}
+
+E6
+{QUESTION}
+I løpet av de siste 12 månedene, det vil si siden [MÅNED, ÅR], hvor ofte har du drukket alkoholholdige drikker? Dette kan være vin, øl, sider, sprit eller andre drikker som inneholder alkohol. Velg et svar fra dette kortet.
+
+{ANSWERS}
+Hver dag
+Flere ganger i uka
+En gang i uka
+2-3 ganger i måneden
+En gang i måneden
+Sjeldnere enn en gang i måneden
+Aldri 
+
+E7
+{INTRO}
+Tenk på den siste gangen du drakk alkohol på en mandag, en tirsdag, en onsdag eller en torsdag.
+
+{QUESTION}
+Hvor mange av hver av de følgende typene alkohol drakk du den dagen? Bruk dette kortet for å finne et svar. 
+
+{ANSWERS}
+HALVLITER ØL 
+GLASS STERKVIN (f.eks. portvin eller sherry) 
+ELLER - LITEN FLASKE ELLER BOKS ØL (0,33 l)
+ELLER- ENKEL DRINK (4 cl) 
+STORT GLASS VIN (0,175 l) 
+DOBBEL DRINK (8 cl) 
+ELLER - LITE GLASS VIN (0,125 l) 
+COCKTAIL 
+FLASKE VIN (0,75 l) 
+RUSBRUS 
+
+E8
+{INTRO}
+Nå vil jeg be deg om å tenke på sist gang du drakk alkohol på en fredag, en lørdag eller en søndag.
+
+{QUESTION}
+Hvor mange av hver av de følgende typene alkohol drakk du den dagen?
+
+{ANSWERS}
+HALVLITER ØL 
+GLASS STERKVIN (f.eks. portvin eller sherry) 
+ELLER - LITEN FLASKE ELLER BOKS ØL (0,33 l)
+ELLER- ENKEL DRINK (4 cl) 
+STORT GLASS VIN (0,175 l) 
+DOBBEL DRINK (8 cl) 
+ELLER - LITE GLASS VIN (0,125 l) 
+COCKTAIL 
+FLASKE VIN (0,75 l) 
+RUSBRUS 
+
+E10a
+{INTRO}
+Dette kortet viser seks ulike eksempler på hvor mye alkohol en person kan tenkes å drikke ved en enkelt anledning.
+
+{QUESTION}
+I løpet av de siste 12 månedene, hvor ofte har du drukket denne mengden alkohol eller mer ved en enkelt anledning? Var det…
+
+{ANSWERS}
+…daglig eller nesten daglig,
+ukentlig,
+månedlig,
+sjeldnere enn månedlig,
+eller aldri?
+
+E10b
+{INTRO}
+Dette kortet viser seks ulike eksempler på hvor mye alkohol en person kan tenkes å drikke ved en enkelt anledning.
+
+{QUESTION}
+I løpet av de siste 12 månedene, hvor ofte har du drukket denne mengden alkohol eller mer ved en enkelt anledning? Var det…
+
+{ANSWERS}
+…daglig eller nesten daglig,
+ukentlig,
+månedlig,
+sjeldnere enn månedlig,
+eller aldri?
+
+E11
+{QUESTION}
+Hvor høy er du uten sko?
+
+{ANSWERS}
+
+E12
+{QUESTION}
+Hvor mye veier du uten sko?
+
+{ANSWERS}
+
+E13
+{QUESTION}
+Se på dette kortet. I løpet av de siste 12 månedene, det vil si siden [MÅNED, ÅR], hvilke typer helsepersonell har du diskutert helsen din med?
+
+{ANSWERS}
+Fastlege eller annen allmennlege
+Legespesialist (unntatt tannlege) 
+
+E14
+{QUESTION}
+I løpet av de siste 12 månedene, det vil si siden [MÅNED, ÅR], hendte det at du ikke kunne få en legetime eller en behandling du trengte, på grunn av noen av årsakene som står på dette kortet?
+
+{ANSWERS}
+Ja
+Nei
+
+E15
+{QUESTION}
+Hvilke av grunnene på kortet forklarer hvorfor du ikke fikk denne legetimen eller behandlingen?
+
+{ANSWERS}
+Kunne ikke betale for det
+Kunne ikke ta fri fra jobben
+Hadde andre forpliktelser
+Behandlingen var ikke tilgjengelig i nærheten av der jeg bor
+Ventelisten var for lang
+Det var ikke ledig time
+Annen grunn 
+
+E16
+{QUESTION}
+Var det fordi…
+
+{ANSWERS}
+…du fikk den legetimen eller behandlingen du trengte,
+eller fordi du ikke trengte noen legetime eller behandling i løpet av de siste 12 månedene.
+
+E17
+{QUESTION}
+Bruker du noe av tiden din til å hjelpe eller gi omsorg til familiemedlemmer, venner, naboer eller andre på grunn av noe som står på dette kortet?
+
+{ANSWERS}
+Ja
+Nei
+
+E18
+{QUESTION}
+I løpet av en vanlig uke, hvor mange timer bruker du på dette? Bruk dette kortet
+
+{ANSWERS}
+1-10 timer per uke
+11-20 timer per uke
+21-30 timer per uke
+31-40 timer per uke
+41-50 timer per uke
+Mer enn 50 timer per uke 
+
+E19
+{QUESTION}
+I løpet av de siste 12 månedene, det vil si siden [MÅNED, ÅR], hvilke av behandlingene på dette kortet har du brukt for din egen helse?
+
+{ANSWERS}
+Akupunktur
+Akupressur
+Tradisjonell kinesisk medisin
+Kiropraktikk
+Osteopati
+Homeopati
+Urtebehandling
+Hypnoterapi
+Massasjeterapi
+Fysioterapi
+Refleksologi
+Healing 
+
+E20
+{INTRO}
+Jeg vil nå lese en liste over ting du kan ha følt eller opplevd i løpet av den siste uken.
+
+{QUESTION}
+Bruk dette kortet og si hvor mye av tiden den siste uken...du følte deg deprimert?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E21
+{QUESTION}
+...du følte at alt du gjorde var et ork?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E22
+{QUESTION}
+...du sov urolig?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E23
+{QUESTION}
+...du var lykkelig?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E24
+{QUESTION}
+...du følte deg ensom?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E25
+{QUESTION}
+...du satte pris på livet?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E26
+{QUESTION}
+...du følte deg trist?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E27
+{QUESTION}
+...du følte at du ikke klarte å komme deg i gang?
+
+{ANSWERS}
+Ikke noe eller nesten ikke noe av tiden
+Noe av tiden
+Mesteparten av tiden
+Hele eller nesten hele tiden 
+
+E28
+{QUESTION}
+Hvilke av helseproblemene på dette kortet har du hatt eller opplevd i løpet av de siste 12 månedene, det vil si siden [MÅNED, ÅR]? are si hvilke bokstaver som passer for deg.
+
+{ANSWERS}
+Z Hjerte- eller blodomløpsproblem  
+F Høyt blodtrykk 
+T Pusteproblemer, for eksempel astmaanfall, tungpustethet eller pipende pust 
+K Allergier 
+H Rygg- eller nakkesmerter  
+Y Muskel- eller leddsmerter i hånd eller arm 
+Q Muskel- eller leddsmerter i fot eller bein 
+E Mage- eller fordøyelsesproblemer
+L Hudproblemer eller hudsykdommer  
+B Alvorlig hodepine
+M Diabetes 
+
+E29
+{QUESTION}
+Og hvilke av helseproblemene du hadde i løpet av de siste 12 månedene gjorde at du ble begrenset i dine daglige aktiviteter på noen som helst måte? Du trenger fortsatt bare å si hvilke bokstaver som passer for deg.
+
+{ANSWERS}
+Z Hjerte- eller blodomløpsproblem  
+F Høyt blodtrykk 
+T Pusteproblemer, for eksempel astmaanfall, tungpustethet eller pipende pust 
+K Allergier 
+H Rygg- eller nakkesmerter  
+Y Muskel- eller leddsmerter i hånd eller arm 
+Q Muskel- eller leddsmerter i fot eller bein 
+E Mage- eller fordøyelsesproblemer
+L Hudproblemer eller hudsykdommer  
+B Alvorlig hodepine
+M Diabetes 
+
+E30
+{QUESTION}
+Har du, eller har du noen gang hatt, noen av helseproblemene på dette kortet?
+
+{ANSWERS}
+Ja, nå
+Ja, tidligere
+Nei, aldri
+
+E31
+{QUESTION}
+Bruk dette kortet og si hvor ofte det var alvorlige konflikter mello mennesker i ditt hushold da du vokste opp?
+
+{ANSWERS}
+Alltid
+Ofte
+Noen ganger
+Nesten aldri
+Aldri 
+
+E32
+{QUESTION}
+Bruk det samme kortet og si hvor ofte du og familien din opplevde alvorlige økonomiske problemer da du vokste opp?
+
+{ANSWERS}
+Alltid
+Ofte
+Noen ganger
+Nesten aldri
+Aldri 
+ 
