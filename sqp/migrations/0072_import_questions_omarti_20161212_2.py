@@ -34,7 +34,7 @@ class Migration(DataMigration):
         text_area_regex = re.compile(ur'\{[A-Z]+\}')
         q_regex = re.compile(ur'Q{1}[0-9]{1,4}')
 
-        for file_name in files:
+        for file_name in sorted(files):
             file_log_text = []
             CREATED_ITEMS = 0
             CREATED_QUESTIONS = 0
