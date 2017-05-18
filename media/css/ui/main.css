@@ -14,7 +14,7 @@ h1, h2, h3, h4, p, h5, div {
 	font-family: "Helvetica Nueue","Helvetica Neue",Helvetica,Arial,sans-serif; 
 	font-size:1em;
 	color:#1F3743;
-	
+	box-sizing: content-box;
 }
 
 h1, h2, h3, h4, h5 {
@@ -118,13 +118,29 @@ input:focus, textarea:focus, select:focus  {
 .blockContent {
 	padding:6px;
 }
+.blockContent a.main {
+	color:green;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+.blockContent p:first-child {
+	/*min-height: 90px;*/
+}
 
+/* bibliography */
+.biblio {
+	padding-left: 1.5em;
+	text-indent: -1.5em;
+}
 
 /* Columns */
 
 .leftColumn, .rightColumn{
 	float:left;
 	width:50%;
+}
+.leftColumnQuater {
+	width:25%;
 }
 
 .leftColumnContent {
@@ -409,7 +425,8 @@ label {
 	display:block;
 	line-height:22px;
 	float:left;
-	background:url('/media/img/ui/add_new_small.png') left no-repeat;
+	background:url('/media/img/ui/database_add_icon.png') left no-repeat;
+	background-size: 20px 20px;
 	padding-left:26px;
 	cursor:pointer;
 	color:#4B8F00;
@@ -484,7 +501,7 @@ label {
 }
 
 .questionTableHolder {
-	min-height:450px;
+	min-height:550px;
 }
 .qListPreview {
 	position:absolute;
@@ -1228,9 +1245,11 @@ border:0px;
 
 .quote {
     position: relative;
-    left: 20px;
+    /*left: 20px;*/
     margin: 6px 0px 0px 0px;
-    width: 645px;
+	margin-left:20px;
+
+    /*width: 645px;*/
 }
 
 .quoteabout {

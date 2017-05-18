@@ -106,6 +106,8 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		"questionCoding/:query":							 "questionCoding",  // #question/1
 		"question/new":									     "newQuestion",  // #question/new
 		"help":												 "help",		// #help
+        "presentations":									 "presentations",		// #presentations
+        "publications":										 "publications",		// #publications
 		"about": 											 "about", // #about
         "faq":                                               "faq", // #faq
         "limits":                                            "limits", // #limits
@@ -157,7 +159,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		this.isWorkingOnAssignment = true;
 		if (this.currentView != 'assignedQuestionsList') {
 			sqpBackbone.helpers.hideAllPages();
-			$("#pageAssignedQuestionList").fadeIn();
+			$("#pageAssignedQuestionList").fadeIn().css('display','inline-block').css('width', '100%');
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
 			this.currentView = 'assigne(dQuestionsList';
 			$('.openQuestionList').html('My Assigned Questions').attr('href', '#assignedQuestionsList');
@@ -198,9 +200,9 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		if (this.currentView != 'questionList') {
 			// Show hide tabs for question list / detail
 			sqpBackbone.helpers.hideAllPages();
-			$("#pageQuestionList").fadeIn();
+			$("#pageQuestionList").fadeIn().css('display','inline-block').css('width', '100%');;
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
-			$('.openQuestionList').html('Questions').attr('href', '#questionList');
+			$('.openQuestionList').html('Database').attr('href', '#questionList');
 			this.currentView = 'questionList'
 		}		
 		
@@ -243,7 +245,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		
 		if (this.currentView != 'question') {
 			sqpBackbone.helpers.hideAllPages();
-			$("#pageQuestionDetail").fadeIn();
+			$("#pageQuestionDetail").fadeIn().css('display','inline-block').css('width', '100%');;
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
 			this.currentView = 'question'
 		}
@@ -255,10 +257,10 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		$('#editCodingContainer').hide();
 		$('.editCodingLoading').hide();
 		$('#charateristicDetailContainer').hide()
-		$('#qDetailContent').fadeIn();
+		$('#qDetailContent').fadeIn();//.css('display','inline-block').css('width', '100%');;
 		
 		//Show the loading div
-		$('#questionContainerLoading').fadeIn();
+		$('#questionContainerLoading').fadeIn().css('display','inline-block').css('width', '100%');;
 		
 		// Create an instance of our question model object
 		var questionDetail = new sqpBackbone.models.questionItem;
@@ -302,7 +304,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				
 				if (questionDetail.toJSON().completeness == 'completely-coded' || questionDetail.toJSON().completeness == "partially-coded") {
 					//alert("load coding detail data" + questionDetail.toJSON().completeness);
-					$('#codingList').fadeIn();
+					$('#codingList').fadeIn().css('display','inline-block').css('width', '100%');;
 					$('#codingListWelcome').hide();
 					
 					// load coding list
@@ -318,7 +320,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 						
 					} else {
 						$('.nextCharacteristicButton').attr("href", "#edit/next/characteristic/question/" + questionId);
-						$('#continueCoding').fadeIn();
+						$('#continueCoding').fadeIn().css('display','inline-block').css('width', '100%');;
 					}
 					
 					allCodings.fetch({
@@ -335,7 +337,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 								
 					$('#codingList').hide();
 					$('.nextCharacteristicButton').show();
-					$('#codingListWelcome').fadeIn();
+					$('#codingListWelcome').fadeIn().css('display','inline-block').css('width', '100%');;
 					
 					$('.nextCharacteristicButton').attr("href", "#edit/next/characteristic/question/" + questionId);
 					
@@ -350,8 +352,9 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 				
 				/* Show the content of the question div */
 				$('#questionContainerLoading').hide();
-				$('#charateristicDetailContainer').fadeIn()
-				$('#questionDetailContainer').fadeIn();
+				$('#charateristicDetailContainer').fadeIn();//.css('display','inline-block').css('width', '100%');
+				$('#questionDetailContainer').fadeIn();//	.css('display','inline-block').css('width', '100%');
+
 				
 			}, 
 			error : function () {
@@ -385,7 +388,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		
 		sqpBackbone.helpers.hideAllPages();
 		$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
-		$("#pageQuestionEdit").fadeIn();
+		$("#pageQuestionEdit").fadeIn().css('display','inline-block').css('width', '100%');
 		this.currentView = 'questionEdit';
 		
 		if(this.currentQuestion) {
@@ -416,7 +419,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	newQuestion : function newQuestion(){
 		sqpBackbone.helpers.hideAllPages();
 		$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
-		$("#pageQuestionNew").fadeIn();
+		$("#pageQuestionNew").fadeIn().css('display','inline-block').css('width', '100%');
 		this.currentView = 'questionNew';
 		
 		var qNew = new sqpBackbone.views.questionEditView({
@@ -453,7 +456,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	
 	},
 	viewCharacteristic: function(characteristicId, questionId, completionId){
-	
+
 		// Make sure that our parent question view is rendered
 		this.verifyQuestionLoaded(questionId, completionId, function () {
 			
@@ -490,7 +493,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 			var cCoding = new sqpBackbone.views.codingCompleteView({
 						el: $('#editCodingContainer')
 					});
-			$('#editCodingContainer').fadeIn();
+			$('#editCodingContainer').fadeIn().css('display','inline-block').css('width', '100%');
 		});
 	},
 	updateQuestionBreadCrumb : function (questionModel) {
@@ -517,7 +520,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		
 		if (this.currentView != 'questionPrediction') {
 			sqpBackbone.helpers.hideAllPages();
-			$("#pageQuestionPrediction").fadeIn();
+			$("#pageQuestionPrediction").fadeIn().css('display','inline-block').css('width', '100%');
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
 			this.currentView = 'questionPrediction'
 		}
@@ -567,7 +570,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		
 		if (this.currentView != 'questionImprovement') {
 			sqpBackbone.helpers.hideAllPages();
-			$("#pageQuestionImprovement").fadeIn();
+			$("#pageQuestionImprovement").fadeIn().css('display','inline-block').css('width', '100%');
 			$('#questionTab').removeClass('unselectedtab').addClass( 'selectedtab');
 			this.currentView = 'questionImprovement';
 		}
@@ -665,35 +668,50 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		}
 	},
 	help: function(){
-		alert("show help");
+        sqpBackbone.helpers.hideAllPages();
+        this.currentView = 'help';
+        $("#pageHelp").fadeIn().css('display','inline-block').css('width', '100%');
+        $('#helpTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
+    publications: function(){
+        sqpBackbone.helpers.hideAllPages();
+        this.currentView = 'publications';
+        $("#pagePublications").fadeIn().css('display','inline-block').css('width', '100%');
+        $('#publicationsTab').removeClass('unselectedtab').addClass( 'selectedtab');
+    },
+    presentations: function(){
+        sqpBackbone.helpers.hideAllPages();
+        this.currentView = 'presentations';
+        $("#pagePresentations").fadeIn().css('display','inline-block').css('width', '100%');
+        $('#presentationsTab').removeClass('unselectedtab').addClass( 'selectedtab');
+    },
 	about: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'about';
-		$("#pageAbout").fadeIn();
+		$("#pageAbout").fadeIn().css('display','inline-block').css('width', '100%');
 		$('#aboutTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
     faq: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'about';
-		$("#pageFAQ").fadeIn();
+		$("#pageFAQ").fadeIn().css('display','inline-block').css('width', '100%');
 		$('#faqTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
     limits: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'limits';
-		$("#pageLimits").fadeIn();
+		$("#pageLimits").fadeIn().css('display','inline-block').css('width', '100%');
 		$('#limitsTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
 	settings: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'settings';
-		$("#pageSettings").fadeIn();
+		$("#pageSettings").fadeIn().css('display','inline-block').css('width', '100%');
 	},
 	studies: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'studies';
-		$("#pageStudies").fadeIn();
+		$("#pageStudies").fadeIn().css('display','inline-block').css('width', '100%');
 		$('#studiesTab').removeClass('unselectedtab').addClass( 'selectedtab');
 		
 		this.studyListView = new sqpBackbone.views.studyListView({
@@ -709,7 +727,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 		var invalidate = function(){
 			valid=false;
 			nodeError.html(message);
-			nodeError.fadeIn();
+			nodeError.fadeIn().css('display','inline-block').css('width', '100%');
 			node.addClass('invalid');
 		}
 		//Assign focus in and out handlers to discourage ESS like names
@@ -722,7 +740,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					var unadvisedNames=["ess","european social survey"]
 					if (unadvisedNames.indexOf(name.toLowerCase()) >= 0){
 						nodeError.html('All ESS questions are already available in the SQP database. In order to prevent duplicate studies we suggest you search for your questions of interest in the database.');
-						nodeError.fadeIn();
+						nodeError.fadeIn().css('display','inline-block').css('width', '100%');
 						node.addClass('invalid');
 						node.addClass('warning');
 						nodeError.addClass('warning');
@@ -905,7 +923,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 	search: function(){
 		sqpBackbone.helpers.hideAllPages();
 		this.currentView = 'search';
-		$("#pageSearch").fadeIn();
+		$("#pageSearch").fadeIn().css('display','inline-block')
 		
 		$('#searchTab').removeClass('unselectedtab').addClass( 'selectedtab');
 	},
@@ -929,7 +947,7 @@ sqpBackbone.sqpWorkspace = Backbone.Controller.extend({
 					
 				}
 
-				$('#sqpmain').fadeIn();
+				$('#sqpmain').fadeIn().css('display','inline-block').css('width', '100%');
 				$('#homeTab').removeClass('unselectedtab').addClass('selectedtab');
 		
 			},

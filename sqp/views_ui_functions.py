@@ -18,6 +18,10 @@ from sqp.variable_labels import extra_variable_labels
 import json
 import sys
 
+import logging
+
+from sqp_project import settings
+
 
 
 SUCCESS   = 1
@@ -64,6 +68,9 @@ def render_predictions(user, questionId, \
        the predictor object is memory intensive
     """
 
+    logging.info('render_predictions')
+
+
     if characteristicSetId is False:
         characteristicSetId = user.profile.default_characteristic_set_id
     
@@ -104,7 +111,14 @@ def render_predictions(user, questionId, \
             #find the predictor object.
             predictor = get_predictor() 
             
+            
+            # logging.info(question.country_prediction.iso)
+            # logging.info(question.language.iso)
+            # logging.info(get_codes_list(codes))
+            
             predictions = predictor.get_predictions(question.country_prediction.iso, question.language.iso, get_codes_list(codes))        
+            
+            logging.info(predictions)
             
             if settings.DEBUG: 
                 elapsed = time.time() - start
@@ -164,6 +178,8 @@ def get_prediction_list(user):
     """
     Get a simple list of paramaters and views that could be shown in a prediction"""
     
+    logging.info('get_prediction_list')
+
     obj_response_body = []
     
     for prediction in models.Prediction.objects.all():
@@ -186,12 +202,17 @@ def get_prediction_list(user):
 
 
 def get_xnames(user):
+    
+    logging.info('get_xnames');
+    
     predictor = get_predictor()
     return json.dumps(predictor.get_xlevels(scale_basic='2'))
 
 def get_potential_improvements(user, questionId, xname, params, completionId=0, characteristicSetId=False):
     """Returns all of the potential quality improvements for a coding set
     """
+    
+    logging.info('get_potential_improvements')
     
     question = models.Question.objects.get(pk=questionId)
     
@@ -458,6 +479,8 @@ def get_question(user, questionId, completionId=False, characteristicSetId = Fal
     Retrieve a Question object, annotating it with completion data from 
     the database and Related objects Item, Study, Language and Country."""
     
+    logging.info('get_question')
+
     if characteristicSetId is False:
         characteristicSetId = user.profile.default_characteristic_set_id
      
